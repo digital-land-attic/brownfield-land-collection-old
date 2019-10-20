@@ -1,0 +1,379 @@
+OrganisationURI,OrganisationLabel,SiteReference,PreviouslyPartOf,SiteNameAddress,SitePlanURL,CoordinateReferenceSystem,GeoX,GeoY,Hectares,OwnershipStatus,Deliverable,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,ProposedforPIP,MinNetDwellings,DevelopmentDescription,NonHousingDevelopment,Part2,NetDwellingsRangeFrom,NetDwellingsRangeTo,HazardousSubstances,SiteInformation,Notes,FirstAddedDate,LastUpdatedDate,Alternative Reference 1 (Planning permission),Alternative Reference 2 (Site Assessment),Alternative Reference 2 (Local Plan PS Jan 2018)
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0001/17,,"Land To The Rear Of 105
+Oxney Road
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N3VCML0CW00,OSGB36,521402,300612,2.8,Unknown,Yes,Permissioned,Full,2010/11/30,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N3VCML0CW00,,8,,,,8,8,,,,2017/12/19,2017/12/19,10/00047/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0002/17,,"16 - 18 Manor House Street
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N4EVML0CW00,OSGB36,519169,299175,0.7,Unknown,Yes,Permissioned,Full,2016/11/16,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N4EVML0CW00,,6,,,,6,6,,,,2017/12/19,2017/12/19,16/01800/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0003/17,,"3 - 7 Oxford Road
+Millfield
+Peterborough
+PE1 3BL
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N5U4ML0CW00,OSGB36,518905,300384,1.3,Unknown,Yes,Permissioned,Full,2016/07/08,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N5U4ML0CW00,,8,,,,8,8,,,,2017/12/19,2017/12/19,16/00671/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0004/17,,"38 Elm Street
+Woodston
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N6A0ML0CW00,OSGB36,518948,297388,0.9,Unknown,Yes,Permissioned,Full,2011/06/30,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N6A0ML0CW00,,10,,,,10,10,,,,2017/12/19,2017/12/19,11/00073/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0005/17,,"659 Lincoln Road
+Peterborough
+PE1 3HA
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N7BTML0CW00,OSGB36,518226,300987,1.9,Unknown,Yes,Permissioned,Full,2007/06/28,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N7BTML0CW00,,23,,,,23,23,,,,2017/12/19,2017/12/19,07/00514/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0006/17,,"78 High Street
+Eye
+Peterborough
+PE6 7UY
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N7JDML0CW00,OSGB36,522402,302732,1.9,Unknown,Yes,Permissioned,Full,2009/11/25,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N7JDML0CW00,,5,,,,5,5,,,,2017/12/19,2017/12/19,09/01035/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0007/17,,"83 Oxney Road
+Peterborough
+PE1 5NG
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N7O9ML0CW00,OSGB36,521239,300514,1.6,Unknown,Yes,Permissioned,Outline,2016/10/19,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N7O9ML0CW00,,5,,,,5,5,,,,2017/12/19,2017/12/19,15/02204/OUT,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0008/17,,"85 Park Road
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N8E2ML0CW00,OSGB36,519269,299251,0.3,Unknown,Yes,Permissioned,Prior Approval,2016/11/23,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N8E2ML0CW00,,6,,,,6,6,,,,2017/12/19,2017/12/19,16/02010/PRIOR,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0009/17,,"Land Adjacent To 39-41 Station Road
+Thorney
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N8LYML0CW00,OSGB36,528208,304642,4.7,Unknown,Yes,Permissioned,Reserved Matters,2017/01/30,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N8LYML0CW00,,9,,,,9,9,,,,2017/12/19,2017/12/19,16/02291/REM,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0010/17,,"British Sugar
+Oundle Road
+Woodston
+Peterborough
+PE2 9AY
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N92GML0CW00,OSGB36,518097,297571,24.6,Unknown,Yes,Not permissioned,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N92GML0CW00,,70,,,,70,70,,,,2017/12/19,2017/12/19,,FLW003M,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0011/17,,"Car Park
+Hampton Court
+Westwood
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N9FVML0CW00,OSGB36,517398,300627,10,Unknown,Yes,Permissioned,Full,2017/02/22,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N9FVML0CW00,,16,,,,16,16,,,,2017/12/19,2017/12/19,16/02184/R4FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0012/17,,"Coneygree Lodge
+Coneygree Road
+Stanground
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N9N0ML0CW00,OSGB36,520515,297024,3.5,Unknown,Yes,Permissioned,Full,2013/08/29,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N9N0ML0CW00,,14,,,,14,14,,,,2017/12/19,2017/12/19,13/00736/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0014/17,,"Land At
+East Station Road
+Fletton Quays
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0NEXAML0CW00,OSGB36,519498,298029,67.9,Unknown,Yes,Not permissioned,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0NEXAML0CW00,,100,,,,100,100,,,,2017/12/19,2017/12/19,,FLS004O,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0015/17,,"1 Grove Street
+Woodston
+Peterborough
+PE2 9AG
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CN74ML0CW00,OSGB36,518890,297648,0.7,Unknown,Yes,Permissioned,Outline,2015/07/31,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CN74ML0CW00,,6,,,,6,6,,,,2017/12/19,2017/12/19,15/00653/OUT,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0016/17,,"Former John Mansfield School Remote Playing Field
+Poplar Avenue
+Dogsthorpe
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0NFZ2ML0CW00,OSGB36,520201,301911,40.6,Unknown,Yes,Permissioned,Full,2017/11/03,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0NFZ2ML0CW00,,116,,,,116,116,,,,2017/12/19,2017/12/19,17/00013/R4FUL,DOG002H,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0017/17,,"Land To The West Of
+London Road
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O851BHML0CW00,OSGB36,517869,293987,745.3,Unknown,Yes,Permissioned,Outline,1993/03/09,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O851BHML0CW00,,2349,,,,2349,2349,,,,2017/12/19,2017/12/19,91/P0556,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0018/17,,"Johnston Publishing
+Oundle Road
+Woodston
+Peterborough
+PE2 9QR
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O879GOML0CW00,OSGB36,518061,297289,30.5,Unknown,Yes,Permissioned,Full,2015/04/02,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O879GOML0CW00,,86,,,,86,86,,,,2017/12/19,2017/12/19,14/02012/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0019/17,,"117 Park Road
+Peterborough
+PE1 2TR
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O859STML0CW00,OSGB36,519332,299408,1.1,Unknown,Yes,Permissioned,Prior Approval,2016/07/05,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O859STML0CW00,,24,,,,24,24,,,,2017/12/19,2017/12/19,16/00965/PRIOR,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0020/17,,"143 Oundle Road
+Woodston
+Peterborough
+PE2 9PW
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CMQXML0CW00,OSGB36,518529,297823,1.3,Unknown,Yes,Permissioned,Full,2015/01/12,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CMQXML0CW00,,10,,,,10,10,,,,2017/12/19,2017/12/19,13/00136/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0021/17,,"28 - 30 Priestgate
+Peterborough
+PE1 1JA
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CMX5ML0CW00,OSGB36,519050,298535,1.2,Unknown,Yes,Permissioned,Full,2015/07/09,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CMX5ML0CW00,,8,,,,8,8,,,,2017/12/19,2017/12/19,15/00684/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0022/17,,"48-50 Jubilee Street
+Woodston
+Peterborough
+PE2 9PH
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CMKRML0CW00,OSGB36,518694,298035,1.5,Unknown,Yes,Permissioned,Full,2016/06/03,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CMKRML0CW00,,8,,,,8,8,,,,2017/12/19,2017/12/19,16/00481/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0023/17,,"88 Lincoln Road
+Peterborough
+PE1 2SN
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CLBPML0CW00,OSGB36,519073,299437,2.2,Unknown,Yes,Permissioned,Full,2015/10/15,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CLBPML0CW00,,26,,,,26,26,,,,2017/12/19,2017/12/19,15/00830/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0024/17,,"Car Park
+Bishops Road
+Eastgate
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O5H4WAML0CW00,OSGB36,519580,298418,13.1,Unknown,Yes,Not permissioned,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O5H4WAML0CW00,,25,,,,25,25,,,,2017/12/19,2017/12/19,,CEN003H,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0025/17,,"Bushfield House
+Bushfield
+Orton Goldhay
+Peterborough
+PE2 5RQ
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O85CV6ML0CW00,OSGB36,515191,295422,5,Unknown,Yes,Permissioned,Prior Approval,2014/01/31,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O85CV6ML0CW00,,24,,,,24,24,,,,2017/12/19,2017/12/19,13/01656/PRIOR,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0026/17,,"Cranmore House
+Thorney Road
+Eye
+Peterborough
+PE6 7UB
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O876QLML0CW00,OSGB36,523323,303031,9.5,Unknown,Yes,Permissioned,Outline,2015/04/02,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O876QLML0CW00,,14,,,,14,14,,,,2017/12/19,2017/12/19,14/01122/OUT,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0027/17,,"Depot
+Church Road
+Wittering
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CM8BML0CW00,OSGB36,505346,302334,1.8,Unknown,Yes,Permissioned,Full,2015/10/01,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CM8BML0CW00,,6,,,,6,6,,,,2017/12/19,2017/12/19,15/00851/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0028/17,,"Dickens Street Car Park
+Dickens Street
+Eastfield
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O5TW9KML0CW00,OSGB36,519769,299190,6.4,Unknown,Yes,Not permissioned,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O5TW9KML0CW00,,30,,,,30,30,,,,2017/12/19,2017/12/19,,EAS006H,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0029/17,,"Fletton Quays
+Land At East Station Road
+Peterborough
+
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O875DVML0CW00,OSGB36,519498,298029,22.4,Unknown,Yes,Permissioned,Reserved Matters,2016/10/27,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O875DVML0CW00,,280,,,,280,280,,,,2017/12/19,2017/12/19,16/01314/REM,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0030/17,,"Former Coal Yard
+River Lane
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O85E1CML0CW00,OSGB36,518774,298401,1.4,Unknown,Yes,Permissioned,Outline,2014/03/06,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O85E1CML0CW00,,7,,,,7,7,,,,2017/12/19,2017/12/19,13/00742/OUT,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0031/17,,"Former Peterborough District Hospital
+Thorpe Road
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O86YY7ML0CW00,OSGB36,518378,298749,93,Unknown,Yes,Permissioned,Outline,2014/10/31,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O86YY7ML0CW00,,287,,,,287,287,,,,2017/12/19,2017/12/19,14/00536/OUT,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0032/17,,"Former Peterborough District Hospital
+Thorpe Road
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SR9ZML0CW00,OSGB36,518378,298749,2.5,Unknown,Yes,Permissioned,Outline,2015/12/04,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0SR9ZML0CW00,,7,,,,7,7,,,,2017/12/19,2017/12/19,15/01651/REM,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0033/17,,"Former Peterborough District Hospital
+Thorpe Road
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SRGOML0CW00,OSGB36,518378,298749,9.5,Unknown,Yes,Permissioned,Reserved Matters,2016/07/22,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0SRGOML0CW00,,43,,,,43,43,,,,2017/12/19,2017/12/19,16/00816/REM,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0034/17,,"Former Peterborough District Hospital
+Thorpe Road
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SRRMML0CW00,OSGB36,518378,298749,17,Unknown,Yes,Permissioned,Outline,2017/03/10,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0SRRMML0CW00,,76,,,,76,76,,,,2017/12/19,2017/12/19,16/02130/REM,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0035/17,,"Former Peterborough District Hospital
+Thorpe Road
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SS0MML0CW00,OSGB36,518378,298749,25,Unknown,Yes,Permissioned,Reserved Matters,2016/02/26,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0SS0MML0CW00,,56,,,,56,56,,,,2017/12/19,2017/12/19,15/01656/REM,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0036/17,,"Mega Car Centre
+Midland Road
+West Town
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O85FHTML0CW00,OSGB36,518502,298829,6.7,Unknown,Yes,Permissioned,Full,2014/08/07,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O85FHTML0CW00,,29,,,,29,29,,,,2017/12/19,2017/12/19,13/00539/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0037/17,,"Great Northern Railway Hotel
+Station Road
+Peterborough
+PE1 1QL
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8790WML0CW00,OSGB36,518749,298869,7.5,Unknown,Yes,Permissioned,Outline,2015/03/13,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8790WML0CW00,,6,,,,6,6,,,,2017/12/19,2017/12/19,14/02167/OUT,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0038/17,,"Guthrie House
+Rightwell East
+Bretton
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SSU7ML0CW00,OSGB36,516392,300319,1.5,Unknown,Yes,Permissioned,Full,2015/04/01,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0SSU7ML0CW00,,13,,,,13,13,,,,2017/12/19,2017/12/19,14/01781/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0039/17,,"Guthrie House
+Rightwell East
+Bretton
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SSYHML0CW00,OSGB36,516392,300319,1,Unknown,Yes,Permissioned,Prior Approval,2013/11/21,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0SSYHML0CW00,,5,,,,5,5,,,,2017/12/19,2017/12/19,13/01484/PRIOR,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0040/17,,"Hampton Leys
+London Road
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0STEFML0CW00,OSGB36,518792,294754,276.4,Unknown,Yes,Permissioned,Reserved Matters,2016/09/16,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0STEFML0CW00,,866,,,,866,866,,,,2017/12/19,2017/12/19,16/00722/REM,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0041/17,,"Land To The South Of Tranche VG9
+County Road
+Hampton Vale
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O873YNML0CW00,OSGB36,516867,293585,166,Unknown,Yes,Permissioned,Outline,2015/06/19,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O873YNML0CW00,,350,,,,350,350,,,,2017/12/19,2017/12/19,14/02165/OUT,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0042/17,,"Hempsted Parcel - NC1, NC3, NC4
+Hicks Lane
+Woodston
+Peterborough
+PE7 0LL",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O5TZYUML0CW00,OSGB36,519016,296243,18.6,Unknown,Yes,Not permissioned,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O5TZYUML0CW00,,65,,,,65,65,,,,2017/12/19,2017/12/19,,HHM004H,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0043/17,,"Hampton Vale Allotments
+Coriander Drive
+Hampton Vale
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SUS0ML0CW00,OSGB36,516377,293732,37.8,Unknown,Yes,Permissioned,Full,2015/04/10,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0SUS0ML0CW00,,125,,,,125,125,,,,2017/12/19,2017/12/19,14/02223/REM,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0044/17,,"Land At
+Guilsborough Road
+Eye Green
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8753ZML0CW00,OSGB36,523114,303239,33.6,Unknown,Yes,Permissioned,Outline,2014/10/16,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8753ZML0CW00,,55,,,,55,55,,,,2017/12/19,2017/12/19,14/00857/R4OUT,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0045/17,,"Hempsted Opportunity Area
+London Road
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O5TZPZML0CW00,OSGB36,518905,296392,2.5,Unknown,Yes,Permissioned,Outline,2016/11/25,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O5TZPZML0CW00,,15,,,,15,15,,,,2017/12/19,2017/12/19,16/01656/OUT,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0046/17,,"Land To The North Of
+Brickburn Close
+Hampton Centre
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UKDDML0CW00,OSGB36,518243,294705,13.4,Unknown,Yes,Permissioned,Full,2016/10/27,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UKDDML0CW00,,45,,,,45,45,,,,2017/12/19,2017/12/19,16/01148/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0047/17,,"Hempsted Opportunity Area
+London Road
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UKK1ML0CW00,OSGB36,518905,296392,34.6,Unknown,Yes,Permissioned,Full,2016/03/16,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UKK1ML0CW00,,95,,,,95,95,,,,2017/12/19,2017/12/19,14/01600/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0048/17,,"1374 Lincoln Road
+Peterborough
+PE4 6LS
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0ULTYML0CW00,OSGB36,516384,303384,3.4,Unknown,Yes,Permissioned,Full,2007/11/01,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0ULTYML0CW00,,5,,,,5,5,,,,2017/12/19,2017/12/19,06/02020/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0049/17,,"Land To The West Of
+London Road
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UM0WML0CW00,OSGB36,517869,293987,25.1,Unknown,Yes,Permissioned,Reserved Matters,2015/06/05,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UM0WML0CW00,,130,,,,130,130,,,,2017/12/19,2017/12/19,15/00411/REM,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0050/17,,"Lincoln Court
+Lincoln Road
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UMIGML0CW00,OSGB36,519070,299087,0.4,Unknown,Yes,Permissioned,Prior Approval,2016/09/12,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UMIGML0CW00,,8,,,,8,8,,,,2017/12/19,2017/12/19,16/01432/PRIOR,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0051/17,,"Manor House
+57 Lincoln Road
+Peterborough
+PE1 2RR
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UMPHML0CW00,OSGB36,519150,299180,2.8,Unknown,Yes,Permissioned,Prior Approval,2017/03/14,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UMPHML0CW00,,11,,,,11,11,,,,2017/12/19,2017/12/19,17/00091/PRIOR,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0052/17,,"Mill Garage
+The Causeway
+Thorney
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UN9EML0CW00,OSGB36,527858,304310,2,Unknown,Yes,Permissioned,Full,2003/09/25,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UN9EML0CW00,,7,,,,7,7,,,,2017/12/19,2017/12/19,03/00566/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0053/17,,"NCP Car Park
+Brook Street
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CLXKML0CW00,OSGB36,519533,299024,1.9,Unknown,Yes,Permissioned,Full,2015/11/03,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CLXKML0CW00,,39,,,,39,39,,,,2017/12/19,2017/12/19,15/01066/REM,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0054/17,,"New Priestgate House
+57 Priestgate
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CLMBML0CW00,OSGB36,518910,298594,2.1,Unknown,Yes,Permissioned,Full,2015/08/26,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CLMBML0CW00,,7,,,,7,7,,,,2017/12/19,2017/12/19,15/00810/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0055/17,,"North Westgate Development Area
+Westgate
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O875WIML0CW00,OSGB36,518945,298922,45.5,Unknown,Yes,Permissioned,Outline,2015/10/02,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O875WIML0CW00,,100,,,,100,100,,,,2017/12/19,2017/12/19,15/01041/OUT,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0056/17,,"Northern Section Of The East Of England Showground
+Oundle Road
+Alwalton
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UNSFML0CW00,OSGB36,514405,296090,62.5,Unknown,Yes,Permissioned,Reserved Matters,2003/05/23,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UNSFML0CW00,,58,,,,58,58,,,,2017/12/19,2017/12/19,03/00048/REM,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0057/17,,"Sewerage Works
+Potters Way
+Fengate
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O879VAML0CW00,OSGB36,520180,298386,3.9,Unknown,Yes,Permissioned,Full,2016/08/22,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O879VAML0CW00,,18,,,,18,18,,,,2017/12/19,2017/12/19,16/00626/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0058/17,,"Land To Rear Of 44-90 New Road
+Woodston
+Peterborough
+PE2 9HB",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UP84ML0CW00,OSGB36,518364,297436,9.8,Unknown,Yes,Permissioned,Full,2015/09/15,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UP84ML0CW00,,45,,,,45,45,,,,2017/12/19,2017/12/19,15/00265/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0059/17,,"Land To Rear Of The Rose And Crown
+2 Wisbech Road
+Thorney
+Peterborough
+PE6 0SB
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O855LRML0CW00,OSGB36,528190,304346,7.3,Unknown,Yes,Permissioned,Full,2013/04/05,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O855LRML0CW00,,11,,,,11,11,,,,2017/12/19,2017/12/19,12/01926/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0060/17,,"Remus House
+Coltsfoot Drive
+Woodston
+Peterborough
+PE2 9BF
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UPIJML0CW00,OSGB36,518089,297344,3.8,Unknown,Yes,Permissioned,Prior Approval,2016/09/20,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UPIJML0CW00,,30,,,,30,30,,,,2017/12/19,2017/12/19,16/01463/PRIOR,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0061/17,,"St Nicholas Reception Home
+South Parade
+West Town
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UQ1CML0CW00,OSGB36,518023,299045,2.6,Unknown,Yes,Permissioned,Full,2007/03/30,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UQ1CML0CW00,,24,,,,24,24,,,,2017/12/19,2017/12/19,07/00216/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0062/17,,"The Heron
+Southfields Drive
+Stanground
+Peterborough
+PE2 8QB
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CMF4ML0CW00,OSGB36,520838,296636,1.8,Unknown,Yes,Permissioned,Full,2015/11/11,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CMF4ML0CW00,,8,,,,8,8,,,,2017/12/19,2017/12/19,15/01515/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0063/17,,"Tranche NC2
+London Road
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UQCXML0CW00,OSGB36,518888,296508,22.8,Unknown,Yes,Permissioned,Full,2014/11/26,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UQCXML0CW00,,69,,,,69,69,,,,2017/12/19,2017/12/19,13/01851/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0065/17,,"Varity House
+Vicarage Farm Road
+Fengate
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UQQJML0CW00,OSGB36,521417,299517,14.5,Unknown,Yes,Permissioned,Full,2016/04/14,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UQQJML0CW00,,14,,,,14,14,,,,2017/12/19,2017/12/19,16/00057/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0066/17,,"The Garden House
+Minster Precincts
+Peterborough
+PE1 1XS
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UT3IML0CW00,OSGB36,519318,298743,2.1,Unknown,Yes,Not permissioned,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UT3IML0CW00,,25,,,,25,25,,,,2017/12/19,2017/12/19,,CEN002H,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0067/17,,"Land To The Rear Of 142 - 148
+Fletton Avenue
+Fletton
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0WGX2ML0CW01,OSGB36,519607,297255,6.1,Unknown,Yes,Not permissioned,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0WGX2ML0CW01,,30,,,,30,30,,,,2017/12/19,2017/12/19,,FLS002H,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0068/17,,"Land South Of Penwald Court
+Peakirk
+Peterborough
+PE6 7NN",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0WH8UML0CW00,OSGB36,516711,306032,7.4,Unknown,Yes,Permissioned,Full,2017/05/05,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0WH8UML0CW00,,14,,,,14,14,,,,2017/12/19,2017/12/19,16/02075/FUL,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0069/17,,"12 River Lane
+Peterborough
+PE3 6AH
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8HZXHML0CW00,OSGB36,518810,298291,28.7,Unknown,Yes,Not permissioned,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8HZXHML0CW00,,50,,,,50,50,,,,2017/12/19,2017/12/19,,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0070/17,,"Belle Vue Stables
+Whittlesey Road
+Stanground
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P15OO9ML0CW00,OSGB36,520227,296606,8.6,Unknown,Yes,Not permissioned,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P15OO9ML0CW00,,35,,,,35,35,,,,2017/12/19,2017/12/19,,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0071/17,,"North Westgate Opportunity Area
+Westgate
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P15PMBML0CW00,OSGB36,518945,298922,33.8,Unknown,Yes,Not permissioned,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P15PMBML0CW00,,200,,,,200,200,,,,2017/12/19,2017/12/19,,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0072/17,,"Northminster Opportunity Area
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P15PRLML0CW00,OSGB36,519286,299051,89.1,Unknown,Yes,Not permissioned,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P15PRLML0CW00,,150,,,,150,150,,,,2017/12/19,2017/12/19,,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0073/17,,"Station East Opportunity Area
+Station Road
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P15Q2DML0CW00,OSGB36,518844,298851,92.8,Unknown,Yes,Not permissioned,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P15Q2DML0CW00,,400,,,,400,400,,,,2017/12/19,2017/12/19,,,
+http://opendatacommunities.org/id/unitary-authority/peterborough,Peterborough,PDL/0075/17,,"Station West Opportunity Area
+Midland Road
+West Town
+Peterborough
+
+",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P15UPLML0CW01,OSGB36,518527,298867,105.1,Unknown,Yes,Not permissioned,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P15UPLML0CW01,,200,,,,200,200,,,,2017/12/19,2017/12/19,,,

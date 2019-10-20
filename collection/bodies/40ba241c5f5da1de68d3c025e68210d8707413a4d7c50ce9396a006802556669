@@ -1,0 +1,34 @@
+Fields,LLDC1,LLDC2,LLDC3
+OrganisationURI,http://opendatacommunities.org/doc/dev-corp/london-legacy,http://opendatacommunities.org/doc/dev-corp/london-legacy,http://opendatacommunities.org/doc/dev-corp/london-legacy
+OrganisationLabel,London Legacy Development Corporation,London Legacy Development Corporation,London Legacy Development Corporation
+SiteReference,LLDC1,LLDC2,LLDC3
+PreviouslyPartOf,,,
+SiteNameAddress,"PDZ8.1 (Bridgewater Road), and PDZ8.4 (Warton Road).","PDZ12, and adjacent to, Rick Roberts Way","Land at Clockhouse and Access House, Imperial Street, Bromley-by-Bow"
+SiteplanURL,http://www.queenelizabetholympicpark.co.uk/-/media/lldc/planning/brownfield-register/lldc1.ashx?la=en,http://www.queenelizabetholympicpark.co.uk/-/media/lldc/planning/brownfield-register/lldc2.ashx?la=en,http://www.queenelizabetholympicpark.co.uk/-/media/lldc/planning/brownfield-register/lldc3.ashx?la=en
+CoordinateReferenceSystem,ETRS89,ETRS89,ETRS89
+GeoX,-0.008506472,-0.003976,-0.010553634
+GeoY,51.53442379,51.533663,51.52529976
+EASTING,538221.25,538489,538109.92
+NORTHING,183691.16,183572,182585.49
+Hectares,2.9,3.34,0.99
+OwnershipStatus,Owned by a public authority,Mixed ownership,Not owned by a public authority
+Deliverable,Yes,Yes,Yes
+Planning Status,Permissioned,Permissioned,Pending decision
+PermissionType,Outline planning permission,Outline planning permission,
+PermissionDate,28/09/2012,28/09/2012,
+PlanningHistory,Planning Application - 11/90621/OUTODA (Outline Permission),Planning Application - 11/90621/OUTODA (Outline Permission),Planning Application - 17/00364/FUL (Full Application)
+ProposedForPIP,No,No,No
+MinNetDwellings,300,400,300
+DevelopmentDescription,"Part of mixed use development within the Queen Elizabeth Olympic Park, comprising up to 763,500m2 of floorspace in various use classes. Outline permission has been granted for approximately 300 residential units on the part of the site known as PDZ8.1 & 8.4","Part of outline permission for mixed use development within the Queen Elizabeth Olympic Park, comprising up to 763,500m2 of floorspace in various use classes.  Outline permission has been granted for approximately 400 residential units, retail and community floorspace on the part of the site known as PDZ12.","Full planning application for the demolition of the existing buildings on site and the construction of a residential-led mixed use scheme comprising a series of buildings ranging from one to 27 storeys in height to provide 3,570 sq m of flexible community, commercial and retail floorspace (Use Classes A1, A2, A3, A4, B1 and/or D1) at ground and mezzanine floor level, 491 residential units (Use Class C3) on the upper floors, parking/refuse/servicing at basement and ground floor, energy centre, communal amenity areas, and all associated landscaped public open space. "
+NonHousingDevelopment,,"Retail floorspace of up to 550sqm and community facilities (D1) of up to 11,660sqm","3570 of flexible floorspace (A1-A4, B1 or D1)"
+Part2,No,No,No 
+NetDwellingsRangeFrom,,,
+NetDwellingsRangeTo,,,
+HazardousSubstances,,,
+SiteInformation,, ,
+Notes,,,
+FirstAddedDate,30-Nov-17,30-Nov-17,30-Nov-17
+LastUpdatedDate,30-Nov-17,30-Nov-17,30-Nov-17
+PlanningAuthority1,,,
+PlanningAuthority2,,,
+PlanningAuthority3,,,

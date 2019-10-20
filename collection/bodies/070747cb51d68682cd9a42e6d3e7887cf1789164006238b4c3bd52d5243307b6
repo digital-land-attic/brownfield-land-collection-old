@@ -1,0 +1,37 @@
+OrganisationURI,OrganisationLabel,SiteReference,PreviouslyPartOf,SiteNameAddress,SiteplanURL,CoordinateReferenceSystem,GeoX,GeoY,Hectares,OwnershipStatus,Deliverable,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,ProposedForPIP,MinNetDwellings,DevelopmentDescription,NonHousingDevelopment,Part2,NetDwellingsRangeFrom,NetDwellingsRangeTo,HazardousSubstances,SiteInformation,Notes,FirstAddedDate,LastUpdatedDate
+http://opendatacommunities.org/id/district-council/south-staffordshire,South Staffordshire District Council,BI/41,,"Birches Bridge Garage, Wolverhampton Road, Bilbrook",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,OSGB36,387488,302968,0.4,not owned by a public authority,yes,permissioned,full planning permission,11/04/2016,16/00407/FUL ,,39,"The proposed demolition and development of 39 Retirement Living apartments including communal facilities, landscaping and car parking. (Major development)",,,,,,,,21/11/2017,21/11/2017
+http://opendatacommunities.org/id/district-council/south-staffordshire,South Staffordshire District Council,CD/191,,"Terrace Nurseries (Hommers), Oaken Drive, Codsall",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,OSGB37,385950,302740,0.79,not owned by a public authority,yes,permissioned,full planning permission,31/05/2016,15/00215/FUL,,12,Demolition of existing single- and two-storey buildings and development of 12 dwellings,,,,,,,,21/11/2017,21/11/2017
+http://opendatacommunities.org/id/district-council/south-staffordshire,South Staffordshire District Council,GW/165,,"Hazelbrook Industrial Estate, Hazel Lane, Great Wyrley",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,OSGB38,399950,306743,2.74,not owned by a public authority,yes,permissioned,reserved matters approval,03/03/2017,16/01023/REM,,17,The scale and appearance of the dwellings and landscaping of the site,,,,,,,,21/11/2017,21/11/2017
+http://opendatacommunities.org/id/district-council/south-staffordshire,South Staffordshire District Council,PK/165,,"Lyne Hill (Phase 3), Boscomoor Lane, Penkridge",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,OSGB39,392241,313067,5.52,not owned by a public authority,yes,permissioned,reserved matters approval,19/09/2016,15/01091/REM,,154,Revision of application for the approval of reserved matters to outline permission 12/00497/OUT. The application is for 154 units (increased from 144) comprising phase 3 of the site with outline planning permission. The outline planning permission was NOT an EIA application.,,,,,,,,21/11/2017,21/11/2017
+http://opendatacommunities.org/id/district-council/south-staffordshire,South Staffordshire District Council,WM/234,,"Land off Giggetty Lane, Wombourne",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,OSGB40,386422,292948,1.06,not owned by a public authority,yes,permissioned,outline planning permission,15/05/2015,14/00428/OUT,,19,"Demolition of 3 no. redundant industrial buildings/warehouses, re-configuartion of an existing accessway and the principle of the erection of 19 no. dwellings.",,,,,,,,21/11/2017,21/11/2017
+http://opendatacommunities.org/id/district-council/south-staffordshire,South Staffordshire District Council,AC/82,,"Springslade Works, Cannock Road, Bednall",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,OSGB41,396674,317135,0.7,not owned by a public authority,yes,permissioned,full planning permission,18/04/2016,15/00562/FUL,,6,Redevelopment of the existing buildings in general industrial (Class B2) use by way of the erection of 6 no. dwellinghouses with associated works,,,,,,,,21/11/2017,21/11/2017
+http://opendatacommunities.org/id/district-council/south-staffordshire,South Staffordshire District Council,SHLAA Site 141,,"154a Walsall Road, Great Wyrley",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,OSGB42,399251,307492,1.2,owned by a public authority,yes,not permissioned,,,,,25,"The site is suitable, available now and achievable for residential development and will be delivered in accordance with the relevant SAD polices and other relevant Development Management policies in the adopted Core Strategy.
+
+Any proposal must meet the following requirements:
+• To deliver a minimum of 25 dwellings.
+• To provide 30% Affordable Housing in accordance with Core Strategy Policy H2.
+• To provide an appropriate housing mix to reflect the needs of the village and evidenced by the latest housing mix evidence; to be agreed through discussions with the Council. 
+• To satisfactorily address the potential for contaminated land on site.
+• To provide a vehicular access off Walsall Road.
+• To provide a pedestrian access to connect to the existing pavement network. 
+• To provide a sustainable drainage scheme as part of masterplanning.
+• In accordance with Policies SAD7 and SAD9 to provide an appropriate off-site open space contribution.
+• To provide connectivity to existing open space/Green Infrastructure.
+• To provide an Education contribution agreed through dialogue with the School Organisation Team at Staffordshire County Council. 
+• To meet any other applicable Key Development Requirements set out in Policy SAD9.",,,,,,,,21/11/2017,21/11/2017
+http://opendatacommunities.org/id/district-council/south-staffordshire,South Staffordshire District Council,SHLAA Site 228,,Adult training centre off Histons Hill,https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,OSGB43,386929,303191,0.7,owned by a public authority,yes,not permissioned,,,,,20,"The site is suitable, available now and achievable for residential development and will be delivered in accordance with the relevant SAD polices and other relevant Development Management policies in the adopted Core Strategy.
+
+Any proposal must meet the following requirements:
+
+• To deliver a minimum of 20 dwellings.
+• To provide 30% Affordable Housing in accordance with Core Strategy Policy H2.
+• To provide an appropriate housing mix to reflect the needs of the village and evidenced by the latest housing mix evidence; to be agreed through discussions with the Council. 
+• To satisfactorily address the potential for contaminated land on site.
+• To provide a vehicular access off Histons Hill.
+• To provide transports assessments to accompany planning applications that include consideration of the Histons Hill junction; the double mini-roundabout junction at Wolverhampton Road/Duck Lane/Birches Road/Keepers Lane; and Pendeford traffic signals at the Wodbaston Road/Overstrand Road contributing towards improvements where necessary.
+• To provide a pedestrian access to connect to the existing pavement network. 
+• In accordance with Policies SAD7 and SAD9 to provide an appropriate off-site open space contribution.
+• To provide a sustainable drainage scheme as part of masterplanning.
+• To provide connectivity to existing open space/Green Infrastructure networks 
+• To provide an Education contribution agreed through dialogue with the School Organisation Team at Staffordshire County Council. 
+• To meet any other applicable Key Development Requirements set out in Policy SAD9.",,,,,,,,21/11/2017,21/11/2017

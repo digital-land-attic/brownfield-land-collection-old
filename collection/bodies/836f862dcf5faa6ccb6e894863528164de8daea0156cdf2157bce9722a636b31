@@ -1,0 +1,17 @@
+OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,SiteplanURL,CoordinateReferenceSystem,GeoX,GeoY,Hectares,OwnershipStatus,Deliverable,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,MinNetDwellings,DevelopmentDescription,FirstAddedDate,LastUpdatedDate
+http://statistics.data.gov.uk/doc/statistical-geography/E26000006,Peak District National Park,NP/BLR/S/001,"Former Treatment Works at Mill Leed Road, Low Bradfield",http://www.peakdistrict.gov.uk/brownfield,OSGB36,426237.64,391686.52,7.23,not owned by a public authority,Yes,pending decision,full planning permission,,https://pam.peakdistrict.gov.uk/?r=NP/S/0914/1007,21,Conversion of redundant water treatment works into 16 apartments. Conversion of a stone outbuilding into a studio apartment and 4 new cottages,2017-12-08,2017-12-08
+http://statistics.data.gov.uk/doc/statistical-geography/E26000006,Peak District National Park,NP/BLR/DDD/002,Newburgh Engineering Co Ltd Newburgh Works Netherside Bradwell,http://www.peakdistrict.gov.uk/brownfield,OSGB36,417412.97,381384.72,2.18,not owned by a public authority,Yes,permissioned,full planning permission,2016-09-23,https://pam.peakdistrict.gov.uk/?r=NP/DDD/0815/0779,55,"Demolition of existing industrial buildings, development of 55 dwellings (C3), erection of 6 industrial starter units (B1), car parking, landscaping and drainage attentuation with access from Netherside (starter units) and Bradwell Head Road",2017-12-08,2017-12-08
+http://statistics.data.gov.uk/doc/statistical-geography/E26000006,Peak District National Park,NP/BLR/DDD/003,"Markovitz Ltd, Richard Lane, Tideswell",http://www.peakdistrict.gov.uk/brownfield,OSGB36,415178.72,375026.46,0.9,not owned by a public authority,Yes,pending decision,full planning permission,,https://pam.peakdistrict.gov.uk/?r=NP/DDD/0117/0040,25,"DEMOLITION OF ALL SITE BUILDINGS, REMOVAL OF CONCRETE SURFACING, AND REDEVELOPMENT FOR 25 x 2,3,4 and 5 BED DWELLINGS, PARKING AND GARAGING SERVED BY PRIVATE DRIVE FROM EXISTING ACCESS FROM RICHARD LANE",2017-12-08,2017-12-08
+http://statistics.data.gov.uk/doc/statistical-geography/E26000006,Peak District National Park,NP/BLR/DDD/004,"Dove Dairy, Stonewell Lane, Hartington",http://www.peakdistrict.gov.uk/brownfield,OSGB36,412512.33,360490.98,1.78,not owned by a public authority,Yes,permissioned,full planning permission,2016-10-13,https://pam.peakdistrict.gov.uk/?r=NP/DDD/1014/1045,26,Demolition of existing factory building and the subsequent construction of total 26 new dwellings including 4 'affordable' and 2 conversion of former factory buildings,2017-12-08,2017-12-08
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
