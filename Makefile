@@ -1,4 +1,4 @@
-.PHONY: init sync collect clobber clean prune
+.PHONY: init sync collect clobber black clean prune
 .SECONDARY:
 .DELETE_ON_ERROR:
 
@@ -8,6 +8,9 @@ all: collect
 
 collect:
 	python3 collector.py
+
+black:
+	black .
 
 clobber::
 	rm -rf $(TODAYS_HEADERS)

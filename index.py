@@ -9,7 +9,7 @@ import glob
 import json
 from canonicaljson import encode_canonical_json
 
-collection = {"header":{}}
+collection = {"header": {}}
 
 
 def add(h, category, key):

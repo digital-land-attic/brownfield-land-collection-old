@@ -37,7 +37,9 @@ def fetch(dataset, organisation, url):
     }
 
     headers_key = hashlib.sha256(url.encode("utf-8")).hexdigest()
-    headers_path = os.path.join(headers_dir, headers["datetime"][:10], headers_key + ".json")
+    headers_path = os.path.join(
+        headers_dir, headers["datetime"][:10], headers_key + ".json"
+    )
 
     if os.path.isfile(headers_path):
         return
