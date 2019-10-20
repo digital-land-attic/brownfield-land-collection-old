@@ -317,7 +317,7 @@ local-authority-eng:WND,http://www.wandsworth.gov.uk/info/200237/local_plan_-_ev
 local-authority-eng:WNM,https://www3.rbwm.gov.uk/info/201039/non-development_plan/1354/registers,https://www3.rbwm.gov.uk/download/downloads/id/3583/brownfield_register.csv,,,
 local-authority-eng:WOC,,https://www.worcester.gov.uk/documents/10499/8864076/Worcester+City+Council%27s+Brownfield+Land+Register.csv/ca3998dd-73ea-a77d-38df-abd18c162fe4,,,
 local-authority-eng:WOI,http://www.woking2027.info/ldfregisters,http://woking2027.info/res/uploads/WokingBoroughCouncilBrownfieldLandRegister20171220.csv,,,
-local-authority-eng:WOK,,http://www.wokingham.gov.uk/_resources/assets/attachment/full/0/446349.csv,,,
+local-authority-eng:WOK,,https://www.wokingham.gov.uk/_resources/assets/attachment/full/0/474097.xlsx,bc163fd6-7f9d-44d5-87db-0a81bce6340e,,
 local-authority-eng:WOX,,http://www.westoxon.gov.uk/media/1710408/west-oxfordshire_brownfieldregister_november2017_rev0.csv,,,
 local-authority-eng:WRL,,https://www.wirral.gov.uk/sites/default/files/all/planning%20and%20building/Local%20plans%20and%20planning%20policy/Brownfield%20Register/Wirral_Brownfield_Register_2017-12-22_rev1.csv,,,
 local-authority-eng:WRT,https://www.warrington.gov.uk/info/200564/planning-policy/1905/evidence-base,https://www.warrington.gov.uk/download/downloads/id/14633/brownfield_register_november_2017.xls,,,
