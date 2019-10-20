@@ -51,6 +51,7 @@ def fetch(dataset, organisation, url):
         response = requests.get(url, headers={"User-Agent": user_agent})
     except (
         requests.ConnectionError,
+        requests.HTTPError,
         requests.Timeout,
         requests.TooManyRedirects,
         requests.exceptions.MissingSchema,
@@ -61,10 +62,10 @@ def fetch(dataset, organisation, url):
     finally:
         headers["elapsed"] = str(round(timer() - start, 3))
 
-    if response:
+    if response is not None:
+        headers["status"] = str(response.status_code)
         headers["request-headers"] = dict(response.request.headers)
         headers["response-headers"] = dict(response.headers)
-        headers["status"] = str(response.status_code)
 
         if headers["status"] == "200":
             body_key = hashlib.sha256(response.content).hexdigest()
