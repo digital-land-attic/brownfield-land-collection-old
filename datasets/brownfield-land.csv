@@ -105,7 +105,7 @@ local-authority-eng:FOE,,http://www.fdean.gov.uk/media/5465/dclg-brownfield-land
 local-authority-eng:FOR,,https://www.westsuffolk.gov.uk/planning/Planning_Policies/upload/2017-12-13-Brownfield-land-register-csv-2.csv,,,
 local-authority-eng:FYL,http://www.fylde.gov.uk/council/planning-policy--local-plan-/local-development-framework/brownfield-register/,,,,
 local-authority-eng:GAT,https://www.gateshead.gov.uk/article/3017/Brownfield-Register-December-2017,https://www.gateshead.gov.uk/media/6902/Gateshead-brownfield-register/excel/gateshead-brownfieldregister-2017-12-21-rev1.csv.csv,,,
-local-authority-eng:GED,https://www.gedling.gov.uk/shlaa/,https://www.gedling.gov.uk/media/gedlingboroughcouncil/documents/planningpolicy/brownfieldregister/gedling_brownfieldregister_2017-08-31_rev1.csv,1d30c576-a0f1-422c-adcd-be757fade46b,,
+local-authority-eng:GED,https://www.gedling.gov.uk/shlaa/,https://www.gedling.gov.uk/media/gedlingboroughcouncil/documents/planningpolicy/brownfieldregister/gedling_brownfieldregister_2018-08-31_rev1.csv,1d30c576-a0f1-422c-adcd-be757fade46b,,
 local-authority-eng:GLA,https://data.london.gov.uk/dataset/brownfield-land-register,https://data.london.gov.uk/download/brownfield-land-register/dd05e60b-e922-4ca6-8e29-784d694e5a39/London%20Brownfield%20Register.csv,de1d9987-0d31-474c-a3a5-18a33885153c,,
 local-authority-eng:GLO,,https://www.gloucester.gov.uk/media/2236/gloucester_brownfieldregister_2017-12-31_rev1.csv,,,
 local-authority-eng:GOS,,http://www.gosport.gov.uk/files/GBCBrownfieldLandRegister.csv,,,
