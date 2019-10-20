@@ -119,7 +119,7 @@ local-authority-eng:HAG,,https://www.harrogate.gov.uk/download/downloads/id/3132
 local-authority-eng:HAL,,http://inspire.halton.gov.uk/data/halton_brownfieldregister_2017-12-31_rev1.csv,,,
 local-authority-eng:HAO,,http://www.harborough.gov.uk/download/downloads/id/3772/final_appendix_a_part_1_brownfield_land_register.xlsx,,,
 local-authority-eng:HAR,,http://www.harlow.gov.uk/sites/harlow-cms/files/files/documents/files/harlow_brownfieldregister_2017-12-31_rev1.csv,,,
-local-authority-eng:HAS,,http://www.hastings.gov.uk/content/planning/planning_policy/pdfs/hastings_brownfieldregister_2017-12-15_rev1.csv,,,
+local-authority-eng:HAS,https://www.hastings.gov.uk/planning/policy/BrownfieldRegister/,https://www.hastings.gov.uk/content/planning/planning_policy/pdfs/hastings_brownfieldregister_2018-12-17_rev1.csv,ad33e371-18d4-4147-b416-3b612c641968,,
 local-authority-eng:HAT,,https://www.hart.gov.uk/sites/default/files/4_The_Council/Policies_and_published_documents/Planning_policy/hart_brownfieldregister_2017-12-22_rev1.csv,,,
 local-authority-eng:HAV,https://www.havering.gov.uk/downloads/file/2999/brownfield_land_register_csv_file,https://www.havering.gov.uk/download/downloads/id/2999/brownfield_land_register_csv_file.csv,,,
 local-authority-eng:HCK,,https://www.hackney.gov.uk/media/10019/brownfield-land-register/spreadsheet/hackney-brownfield-register,,,
