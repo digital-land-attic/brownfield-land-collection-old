@@ -121,7 +121,7 @@ local-authority-eng:HAO,,http://www.harborough.gov.uk/download/downloads/id/3772
 local-authority-eng:HAR,,http://www.harlow.gov.uk/sites/harlow-cms/files/files/documents/files/harlow_brownfieldregister_2017-12-31_rev1.csv,,,
 local-authority-eng:HAS,,http://www.hastings.gov.uk/content/planning/planning_policy/pdfs/hastings_brownfieldregister_2017-12-15_rev1.csv,,,
 local-authority-eng:HAT,,https://www.hart.gov.uk/sites/default/files/4_The_Council/Policies_and_published_documents/Planning_policy/hart_brownfieldregister_2017-12-22_rev1.csv,,,
-local-authority-eng:HAV,,https://www.havering.gov.uk/downloads/file/2999/brownfield_land_register_csv_file,,,
+local-authority-eng:HAV,https://www.havering.gov.uk/downloads/file/2999/brownfield_land_register_csv_file,https://www.havering.gov.uk/download/downloads/id/2999/brownfield_land_register_csv_file.csv,,,
 local-authority-eng:HCK,,https://www.hackney.gov.uk/media/10019/brownfield-land-register/spreadsheet/hackney-brownfield-register,,,
 local-authority-eng:HEF,,https://www.herefordshire.gov.uk/download/downloads/id/13144/brownfield_sites_register_2018.csv,,,
 local-authority-eng:HER,https://www.hertsmere.gov.uk/Planning--Building-Control/Planning-Policy/Brownfield-land-register.aspx,https://www.hertsmere.gov.uk/Documents/09-Planning--Building-Control/Planning-Policy/hertsmere-brownfieldregister-2017-12-22-rev1-correction2018-03.xlsx,,,
