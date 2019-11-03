@@ -1,1 +1,1 @@
-{"dataset":"brownfield-land","datetime":"2019-11-03T06:40:19.404465","elapsed":"0.123","exception":"SSLError","organisation":"local-authority-eng:HPL","resource":null,"url":"https://www.hartlepool.gov.uk/download/downloads/id/3889/brownfield_land_register_-_part_1.xlsm"}
+{"dataset":"brownfield-land","datetime":"2019-11-03T19:16:51.561804","elapsed":"0.145","exception":"SSLError","organisation":"local-authority-eng:HPL","url":"https://www.hartlepool.gov.uk/download/downloads/id/3889/brownfield_land_register_-_part_1.xlsm"}

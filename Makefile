@@ -11,7 +11,7 @@ collection: collection/index.json
 collect:
 	python3 bin/collector.py
 
-collection/index.json: bin/index.py
+collection/index.json: bin/index.py $(wildcard collection/log/*/*.json)
 	python3 bin/index.py
 
 black:
