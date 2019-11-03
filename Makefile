@@ -7,7 +7,7 @@ TODAYS_HEADERS=collection/headers/$(shell date +%Y-%m-%d)/
 all: collect
 
 collect:
-	python3 collector.py
+	python3 bin/collector.py
 
 black:
 	black .
