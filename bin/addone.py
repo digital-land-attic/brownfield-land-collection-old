@@ -10,8 +10,8 @@ import logging
 import hashlib
 import canonicaljson
 
-headers_dir = "collection/headers/"
-bodies_dir = "collection/bodies/"
+headers_dir = "collection/log/"
+resource_dir = "collection/resource/"
 
 
 def save(path, data):
@@ -36,9 +36,9 @@ def addone(dataset, organisation, path):
     with open(path, mode="rb") as f:
         content = f.read()
 
-    body_key = hashlib.sha256(content).hexdigest()
-    headers["body"] = body_key
-    save(os.path.join(bodies_dir, body_key), content)
+    resource = hashlib.sha256(content).hexdigest()
+    headers["resource"] = resource
+    save(os.path.join(resource_dir, resource), content)
 
     headers_json = canonicaljson.encode_canonical_json(headers)
     save(headers_path, headers_json)

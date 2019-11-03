@@ -37,9 +37,7 @@ def fetch(dataset, organisation, url):
     }
 
     entry = hashlib.sha256(url.encode("utf-8")).hexdigest()
-    log_path = os.path.join(
-        log_dir, headers["datetime"][:10], entry + ".json"
-    )
+    log_path = os.path.join(log_dir, headers["datetime"][:10], entry + ".json")
 
     if os.path.isfile(log_path):
         return
