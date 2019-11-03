@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-41162204-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-41162204-1');
+    </script>
+    <!-- SQUIZ Metadata Design Area -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- SQUIZ favicon Nested Content Design Area -->
+    <link rel="icon" type="image/png" size="16x16" href="http://www.maidstone.gov.uk/__data/assets/image/0007/150955/favicon.png">
+    <title>Sorry! We couldn't find this page - Maidstone Borough Council</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <!-- SQUIZ CSS Design Area -->
+    			<link rel="stylesheet" type="text/css" href="http://www.maidstone.gov.uk/css/mbc.css" media="all" />
+					    			<link rel="stylesheet" type="text/css" href="http://www.maidstone.gov.uk/css/mbc-nav.css" media="all" />
+					    			<link rel="stylesheet" type="text/css" href="http://www.maidstone.gov.uk/css/mbc-forms.css" media="all" />
+					    			<link rel="stylesheet" type="text/css" href="http://www.maidstone.gov.uk/css/mbc-devices.css" media="all" />
+					    
+            <link rel="alternate stylesheet" href="http://www.maidstone.gov.uk/css/accessibility/mbc-highcontrast.css" type="text/css" media="screen" title="highcontrast"/ disabled>
+    <link rel="alternate stylesheet" href="http://www.maidstone.gov.uk/css/accessibility/mbc-dark.css" type="text/css" media="screen" title="dark"/ disabled>
+    <link rel="alternate stylesheet" href="http://www.maidstone.gov.uk/css/accessibility/mbc-classic.css" type="text/css" media="screen" title="classic"/ disabled>
+    <link rel="alternate stylesheet" href="http://www.maidstone.gov.uk/css/accessibility/mbc-blue.css" type="text/css" media="screen" title="blue"/ disabled>
+    <link rel="alternate stylesheet" href="http://www.maidstone.gov.uk/css/accessibility/mbc-dyslexic.css" type="text/css" media="screen" title="dyslexic"/ disabled>
+    <script src="https://use.fontawesome.com/e72f943b56.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans|PT+Sans+Narrow" rel="stylesheet">
+    <!-- jQuery -->
+<script src="http://www.maidstone.gov.uk/__data/assets/js_file/0010/146485/jquery.js"></script>
+<!-- Bootstrap Core JavaScript -->
+<script src="http://www.maidstone.gov.uk/__data/assets/js_file/0008/146483/bootstrap.js"></script>
+<!-- Maidstone JavaScript -->
+<script src="http://www.maidstone.gov.uk/__data/assets/js_file/0006/149703/mbc_nav.js"></script>
+<!-- Style Switcher JavaScript -->
+<script src="http://www.maidstone.gov.uk/__data/assets/js_file/0010/150967/style-switcher.js"></script>
+<!-- Cookies JavaScript -->
+<script src="http://www.maidstone.gov.uk/__data/assets/js_file/0004/151618/cookie-notice.js"></script>
+
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 05 July 2018 15:31:47
+-->
+
+
+</head>
+<body>
+  <!-- SQUIZ Header Nested Content Design Area -->
+  
+<div id="content_container_176">
+  <header class="cd-main-header">
+        <a class="navbar-brand" href="http://www.maidstone.gov.uk/home">maidstone.gov.uk</a>
+        <ul class="cd-header-buttons">
+           <!--  <li><a class="cd-search-trigger" href="#cd-search">Search<span></span></a></li> -->
+            <li><a class="cd-nav-trigger" href="#cd-primary-nav"><p class="menu">MENU</p><span></span></a></li>
+        </ul> <!-- cd-header-buttons -->
+  </header>
+</div>
+ 
+
+  <main class="cd-main-content">
+      <!-- your content here -->
+  </main>
+  <div class="cd-overlay"></div>
+
+  <!-- SQUIZ Nav Nested Content Design Area -->
+  <nav class="cd-nav">
+    <ul id="cd-primary-nav" class="cd-primary-nav is-fixed">
+        <li class="has-children">
+            <a href="#">Services</a>
+            <ul class="cd-nav-icons is-hidden">
+                <li class="go-back"><a href="#0">Back</a></li>  
+                <div class="container-fluid no-pad"><li>
+    <a class="cd-nav-item item-1" href="http://www.maidstone.gov.uk/home/primary-services/benefits">
+        <h3>Benefits</h3>
+        <p>Includes housing benefits, benefits calculator and uploading proofs.</p>
+        <img src="http://www.maidstone.gov.uk/__data/assets/file/0003/146469/nav-benefits.svg">
+    </a>
+ </li><li>
+    <a class="cd-nav-item item-1" href="http://www.maidstone.gov.uk/home/primary-services/bins-and-recycling">
+        <h3>Bins and Recycling</h3>
+        <p>View your collection calendar, report a missed and order a new bin.</p>
+        <img src="http://www.maidstone.gov.uk/__data/assets/file/0005/146462/nav-bins.svg">
+    </a>
+ </li><li>
+    <a class="cd-nav-item item-1" href="http://www.maidstone.gov.uk/home/primary-services/business-and-investment">
+        <h3>Business and Investment</h3>
+        <p>Includes business rates, licensing, permits and tenders & contracts.</p>
+        <img src="http://www.maidstone.gov.uk/__data/assets/file/0008/146465/nav-finance.svg">
+    </a>
+ </li></div>
+
+<div class="container-fluid no-pad"><li>
+    <a class="cd-nav-item item-1" href="http://www.maidstone.gov.uk/home/primary-services/council-and-democracy">
+        <h3>Council and Democracy</h3>
+        <p>Includes voting and election, Councillors and transparency.</p>
+        <img src="http://www.maidstone.gov.uk/__data/assets/file/0017/150272/nav-council-elections.svg">
+    </a>
+ </li><li>
+    <a class="cd-nav-item item-1" href="http://www.maidstone.gov.uk/home/primary-services/council-tax">
+        <h3>Council Tax</h3>
+        <p>Includes paying your council tax bill, your banding, moving house.</p>
+        <img src="http://www.maidstone.gov.uk/__data/assets/file/0007/146464/nav-council-tax.svg">
+    </a>
+ </li><li>
+    <a class="cd-nav-item item-1" href="http://www.maidstone.gov.uk/home/primary-services/housing">
+        <h3>Housing</h3>
+        <p>Includes the housing register, homelessness and advice.</p>
+        <img src="http://www.maidstone.gov.uk/__data/assets/file/0011/146468/nav-housing.svg">
+    </a>
+ </li></div>
+
+<div class="container-fluid no-pad"><li>
+    <a class="cd-nav-item item-1" href="http://www.maidstone.gov.uk/home/primary-services/jobs-apprenticeships">
+        <h3>Jobs and Apprenticeships</h3>
+        <p>Includes the latest jobs at the council, jobs during elections and apprenticeships.</p>
+        <img src="http://www.maidstone.gov.uk/__data/assets/file/0018/150273/nav-jobs.svg">
+    </a>
+ </li><li>
+    <a class="cd-nav-item item-1" href="http://www.maidstone.gov.uk/home/primary-services/parking-and-streets">
+        <h3>Parking and Streets</h3>
+        <p>Includes applying for a parking permit, pay a parking ticket and our car parks.</p>
+        <img src="http://www.maidstone.gov.uk/__data/assets/file/0009/146466/nav-parking.svg">
+    </a>
+ </li><li>
+    <a class="cd-nav-item item-1" href="http://www.maidstone.gov.uk/home/primary-services/planning-and-building">
+        <h3>Planning and Building</h3>
+        <p>Includes applying for planning permission, the local plan and building regulations.</p>
+        <img src="http://www.maidstone.gov.uk/__data/assets/file/0010/146467/nav-planning.svg">
+    </a>
+ </li></div>
+
+
+            </ul>
+        </li>
+        <li><a href="http://maidstone.cartassist.co.uk/">Contact Us</a></li>
+        <li><a href="http://www.maidstone.gov.uk/home/accessibility">Accessibility</a></li>
+        <li>
+            <!--<div class="translate-footer">-->
+                <!-- <div id="google_translate_element"></div> --><script type="text/javascript">
+                function googleTranslateElementInit() {
+                  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+                }
+                </script>
+            <!--</div>-->
+        </li>
+    </ul> <!-- primary-nav -->
+</nav> <!-- cd-nav -->
+  <!-- SQUIZ Alert Nested Content Design Area -->
+  
+<div id="content_container_180">
+<!--<div class="alert mbc-alert-warning alert-dismissible" role="alert">-->
+<!--<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>-->
+<!--<p><i class="fa fa-warning fa-1x"></i><strong> NOTIFICATION: 26 / 06 / 2017</strong></p>-->
+<!--<p>We are currently experiencing a large number of calls to our customer service centre - you may experience long delays reaching us. Please use our online services.</p>-->
+<!--</div>  -->
+</div>
+  <!-- SQUIZ Cookies Alert Nested Content Design Area -->
+  <div class="cookie-notification hidden" id="cookie-notification">
+    <p>This website uses cookies to improve user experience.
+    <button class="cookie-notification-button" id="cookie-notification-more" onclick="location.href='http://www.maidstone.gov.uk/home/privacy-and-cookies';">Read More</button>
+    <button class="cookie-notification-button" id="cookie-notification-button">Accept</button>
+    </p>
+</div>
+  <!-- SQUIZ Header Carousel Nested Content Design Area -->
+  
+<div id="content_container_207_148888">
+
+<header id="myCarousel" class="carousel slide">   
+        <div class="carousel-inner">
+            <div class="fill off-home">
+       <div class="mbc-search content-page">
+            <div class="col-sm-8 col-md-6 col-lg-6 col-sm-offset-2 col-md-offset-3 col-lg-offset-3">
+                  <!-- nanorep embedded widget -->
+                    <div id="nanorep-embedded-widget"></div>
+                    <script>!function(t,e,o,c,n,a){var s=this.nanorep=this.nanorep||{};s=s[e]=s[e]||{},s.apiHost=a,s.host=n,s.path=c,s.account=t,s.protocol="https:"===location.protocol?"https:":"http:",s.on=s.on||function(){s._calls=s._calls||[],s._calls.push([].slice.call(arguments))};var p=s.protocol+"//"+n+c+o+"?account="+t,l=document.createElement("script");l.async=l.defer=!0,l.setAttribute("src",p),document.getElementsByTagName("head")[0].appendChild(l)}("kentcouncils","embeddedWidget","embedded-widget.js","/web/","kentcouncils.nanorep.co");</script>
+                    <script>
+                    nanorep.embeddedWidget.on({
+                        init: function() {
+                            this.setConfigId('957993962');
+                            this.toggleFollowMe(false);
+                        }
+                    });
+                    </script>
+                    <!-- //nanorep embedded widget -->
+
+            </div>
+        </div>
+            </div>
+        </div> 
+    </header>
+    <!-- Header Carousel End -->
+
+</div>
+  <!-- Nanorep JS Nested Content Design Area -->
+  <!-- Cart Assist Custom JS -->
+<script src="http://www.maidstone.gov.uk/__data/assets/js_file/0009/157923/CartAssist_JS.js"></script> 
+
+  <!-- Page Content -->
+  <div class="container service-listing-t1">
+    <div class="page-breadcrumbs">
+      <!-- SQUIZ Asset Lineage Design Area --> 
+      <!-- SQUIZ TODO: Figure out whether to use prefix or suffix divider -->
+      <span><a href="http://www.maidstone.gov.uk/home">Home</a></span><div class="bc-divider">&nbsp;&frasl;&nbsp;</div><span><a href="http://www.maidstone.gov.uk/home/not-found">Sorry! We couldn't find this page</a></span><div class="bc-divider">&nbsp;&frasl;&nbsp;</div>    </div>
+    <!-- Page Title -->
+    <h1 class="page-title">
+        Sorry! We couldn't find this page    </h1>
+    <hr />
+    <!-- Body Content Area -->
+    
+    
+    
+        <div class="col-sm-12 col-md-8 col-lg-8 service-single no-pad">
+          <div class="main-content-area">
+              
+            <p class="content-alert">We have recently redesigned the website which could be why you haven&rsquo;t found the page you were looking for. You can use the search or the navigation above to help you or <a href="http://www.maidstone.gov.uk/home">click here</a> to visit our homepage.</p><p>Please remember to update your saved links or favourites as these will not work.</p>            
+            
+          </div>
+        </div>
+        <!-- Ads -->
+        <div class="col-sm-12 col-md-4 col-lg-4">
+            <div class="skyscraper-ad">
+    <!--<script src="//ads.counciladvertising.net/code/maidstonebc/supersky/public" data-can-ad></script>-->
+</div>        </div>
+  </div>
+
+  <!-- SQUIZ Quick Links Body Content Area -->
+  <!-- SQUIZ TODO: Change this into a Nested Asset Listing pointing to tier 1 instead of Nested Standard Page -->
+  <!-- SQUIZ TODO: Upload images and change over -->
+  
+  <!-- SQUIZ Page Feedback Form Nested Content Area -->
+  <form id="form_email_157950" enctype="multipart/form-data" action="http://www.maidstone.gov.uk/__data/assets/file/0009/163476/Brownfield-Land-Register-Part-1-2017.csv" method="post"  ><input type="hidden" name="SQ_FORM_157950_PAGE" value="1"  class="sq-form-field" id="SQ_FORM_157950_PAGE" /><input type="hidden" name="form_email_157950_referral_url" value="" />  <script> 
+	$(document).ready(function(){
+    	$("#page_feedback_form").hide();  //Hide feedback on page load
+	    $('input').change(function(){
+	        if($(this).val() == 1){
+	            $('#page_feedback_form').show();
+	        } 
+	        else if ($(this).val() == 2){
+	            $('#page_feedback_form').show();
+	        } 
+	        else if ($(this).val() == 0){
+	            $('#page_feedback_form').hide();
+	        } 
+	    });
+	});
+	// $(document).ready(function(){$(".sq-form-required-field").css("display", "none")}); 
+	// Hides the required for submissions
+</script>
+
+<div class="container">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 feedback-section">
+      <div class="form-group feedback-page">
+    	  <label class="form-label" for="q1074_q1"> <legend class="sq-form-question-title">Was this page helpful? <abbr class="sq-form-required-field" title="required">*</abbr></legend> </label> 
+    	  <ul><li><input type="radio" name="q157953:q1" id="q157953_q1_0" value="0"  class="sq-form-field" /> <label for="q157953_q1_0">Yes</label></li><li><input type="radio" name="q157953:q1" id="q157953_q1_1" value="1"  class="sq-form-field" /> <label for="q157953_q1_1">No</label></li><li><input type="radio" name="q157953:q1" id="q157953_q1_2" value="2"  class="sq-form-field" /> <label for="q157953_q1_2">Yes,but</label></li></ul>
+      </div>
+
+      <div id="page_feedback_form">
+    	  <select name="q157953:q2" id="q157953_q2" class="feedback-selection"><option value="Please select a reason" selected="selected">Please select a reason</option><option value="It's hard to understand">It's hard to understand</option><option value="It's incorrect">It's incorrect</option><option value="It needs updating">It needs updating</option><option value="There's a broken link">There's a broken link</option><option value="It wasn't what I was looking for">It wasn't what I was looking for</option><option value="I require a phone number">I require a phone number</option><option value="Other">Other</option></select>
+    	  <textarea name="q157953:q3" cols="30" rows="5" maxlength="300" placeholder="Please tell us what you are trying to do." class="form-control form-control-1-2" id="q157953_q3"></textarea>
+      </div>
+      <div class="sq-validation-error"></div>
+      <p>Please do not use this feedback to report an issue with the Council. You can use our <a href="https://self.maidstone.gov.uk/AchieveForms/?mode=fill&form_uri=sandbox-publish://AF-Process-e905f932-c620-416f-88ff-bd93f60fe9fa/AF-Stage41060238-b634-46b7-951c-a11b384d844a/definition.json&process=1&process_uri=sandbox-processes://AF-Process-e905f932-c620-416f-88ff-bd93f60fe9fa&process_id=AF-Process-e905f932-c620-416f-88ff-bd93f60fe9fa">contact us form</a> to do this.</p>
+      <p class="feedback-page-submit"><input type="submit" name="form_email_157950_submit" value="Submit" class="form-control-button" id="form_email_157950_submit" /></p>
+    </div>
+</div>
+
+</form>
+  <!-- SQUIZ A-Z Nested Content Area -->
+  
+  
+<div id="content_container_184">
+    <div class="a-z-section">
+        <div class="container">
+            <div class="col-lg-12">
+                <h1 class="page-header">Our A-Z</h1>
+            </div>
+            <div class="col-md-12">
+                <p>If you cannot find what you are looking for in our search facility, you can use 
+                our A-Z index to find the service you require.</p>
+            </div>
+            <div class="col-md-12">
+                <div class="a-z-listing">
+                    <div class="mbc-icon-wrap mbc-icon-a-z mbc-icon-effect-a-z">
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#A" class="mbc-icon"><p class="a-z">A</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#B" class="mbc-icon"><p class="a-z">B</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#C" class="mbc-icon"><p class="a-z">C</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#D" class="mbc-icon"><p class="a-z">D</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#E" class="mbc-icon"><p class="a-z">E</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#F" class="mbc-icon"><p class="a-z">F</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#G" class="mbc-icon"><p class="a-z">G</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#H" class="mbc-icon"><p class="a-z">H</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#I" class="mbc-icon"><p class="a-z">I</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#J" class="mbc-icon"><p class="a-z">J</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#K" class="mbc-icon"><p class="a-z">K</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#L" class="mbc-icon"><p class="a-z">L</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#M" class="mbc-icon"><p class="a-z">M</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#N" class="mbc-icon"><p class="a-z">N</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#O" class="mbc-icon"><p class="a-z">O</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#P" class="mbc-icon"><p class="a-z">P</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#Q" class="mbc-icon"><p class="a-z">Q</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#R" class="mbc-icon"><p class="a-z">R</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#S" class="mbc-icon"><p class="a-z">S</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#T" class="mbc-icon"><p class="a-z">T</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#U" class="mbc-icon"><p class="a-z">U</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#V" class="mbc-icon"><p class="a-z">V</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#W" class="mbc-icon"><p class="a-z">W</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#X" class="mbc-icon"><p class="a-z">X</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#Y" class="mbc-icon"><p class="a-z">Y</p></a>
+                        <a href="http://www.maidstone.gov.uk/home/a-z-listing#Z" class="mbc-icon"><p class="a-z">Z</p></a>
+                    </div>                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+  <!-- SQUIZ Service Listing Nested Content Area -->
+  <div id="content_container_215">
+<div id="service-listing">
+  <div class="container">
+    <ul><div class="col-xs-12 col-sm-6 col-md-3"><li><a href="http://www.maidstone.gov.uk/home/other-services/burials-and-cremations">Burials and Cremations</a></li><li><a href="http://www.maidstone.gov.uk/home/other-services/campaigns-and-projects">Campaigns and Projects</a></li></div>
+
+<div class="col-xs-12 col-sm-6 col-md-3"><li><a href="http://www.maidstone.gov.uk/home/other-services/communities-and-volunteering">Communities and Volunteering</a></li><li><a href="http://www.maidstone.gov.uk/home/other-services/community-protection">Community Protection</a></li></div>
+
+<div class="col-xs-12 col-sm-6 col-md-3"><li><a href="http://www.maidstone.gov.uk/home/other-services/environmental-health">Environmental Health</a></li><li><a href="http://www.maidstone.gov.uk/home/other-services/events">Events</a></li></div>
+
+<div class="col-xs-12 col-sm-6 col-md-3"><li><a href="http://www.maidstone.gov.uk/home/other-services/find-and-contact-us">Find and Contact Us</a></li><li><a href="http://www.maidstone.gov.uk/home/other-services/healthy-living-and-lifestyle">Healthy Living and Lifestyle</a></li></div>
+
+<div class="col-xs-12 col-sm-6 col-md-3"><li><a href="http://www.maidstone.gov.uk/home/other-services/money-advice">Money Advice</a></li><li><a href="http://www.maidstone.gov.uk/home/other-services/parks-and-play-areas">Parks and Play Areas</a></li></div>
+
+<div class="col-xs-12 col-sm-6 col-md-3"><li><a href="http://www.maidstone.gov.uk/home/other-services/seasonal-advice">Seasonal Advice</a></li><li><a href="http://www.maidstone.gov.uk/home/other-services/sports-and-leisure">Sports and Leisure</a></li></div>
+
+<div class="col-xs-12 col-sm-6 col-md-3"><li><a href="http://www.maidstone.gov.uk/home/other-services/waste-crime">Waste Crime</a></li></div>
+
+</ul>
+  </div>
+</div>
+</div>
+
+  <!-- SQUIZ Footer Nested Content Area -->
+      <footer>
+        <div class="footer-start">
+            <div class="container footer">
+                <div class="col-xs-12 col-lz-6 col-sm-6 col-md-6 abs-btm">
+                    <ul class="footer-nav">
+                        <!--<li><a class="footer-links" href="http://www.maidstone.gov.uk/home/about-us">ABOUT US</a></li>-->
+                        <li><a class="footer-links" href="http://www.maidstone.gov.uk/home/privacy-and-cookies">Privacy notice</a></li>
+                        <li><a class="footer-links" href="http://www.maidstone.gov.uk/home/site-map">Site map</a></li>
+                        <li><a class="footer-links" href="http://www.maidstone.gov.uk/forms/beta-feedback-form">Site feedback</a></li>
+                        <li><a class="footer-links" href="http://www.maidstone.gov.uk/home/about-our-website">About our website</a></li>
+                    </ul>
+                </div><form id="form_email_149649" enctype="multipart/form-data" action="http://www.maidstone.gov.uk/__data/assets/file/0009/163476/Brownfield-Land-Register-Part-1-2017.csv" method="post" onsubmit="return beforeSubmit_form_email_149649(this);"  >			<script type="text/javascript">
+			function beforeSubmit_form_email_149649(form)
+			{
+				var submission_errors = new Array();
+				i = 0;
+
+							submission_errors = new Array();
+					function sq_form_validate_email_149649_q1(answer)
+			{
+				
+				// Pass the validation for the empty response. If the answer is required, it will validated any "compare" rule anyway 
+				if (answer.length == 0) {
+						return true;
+				}
+				answer.replace(/,/, "");
+				return answer.match(/^([\da-zA-Z-_+][\da-zA-Z-_+.\w']*[\da-zA-Z-_+]@[\da-zA-Z]['-.\w]*[\da-zA-Z]\.[a-zA-Z]{2,7})$/);
+
+			}//end sq_form_validate_email()
+
+			if (!sq_form_validate_email_149649_q1(form.elements["q149649:q1"].value)) {
+				submission_errors[submission_errors.length] = "The response to \"Sign up for MBC news updates\" must be a valid email address";
+			}
+			
+if (!(form.elements["q149649:q1"].value != "")) {submission_errors[submission_errors.length] = "Please enter an email address to subscribe";
+				}
+			
+
+
+				if (submission_errors.length > 0) {
+					var errors_list = "The following errors must be corrected before the form can be submitted:\n";
+
+					for(x in submission_errors) {
+						errors_list += submission_errors[x] + "\n";
+					}
+					alert(errors_list);
+					return false;
+				} else {
+					return true;
+				}
+			}//end beforeSubmit_form_email_149649()
+			</script>
+			<input type="hidden" name="SQ_FORM_149649_PAGE" value="1"  class="sq-form-field" id="SQ_FORM_149649_PAGE" /><input type="hidden" name="form_email_149649_referral_url" value="" />
+<div id="content_container_1354">
+<!--<div class="col-xs-12 col-lz-6 col-sm-6 col-md-6 sign-up">-->
+<!--<h6>Sign up to MBC news updates</h6>-->
+<!--<input type="text" name="q149649:q1" value="" size="30" maxlength="300"  placeholder="Enter your email" class="form-control form-control-1-2" id="q149649_q1" />-->
+<!--<input type="submit" name="form_email_149649_submit" value="&gt;" class="sign-up-submit fa fa-circle" id="form_email_149649_submit" />-->
+<!--</div>-->
+</div>
+</form>            </div>
+                          <!--Google Translate-->
+            <div class="translate-footer">
+                <div id="google_translate_element"></div><script type="text/javascript">
+                function googleTranslateElementInit() {
+                  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+                }
+                </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+            </div>
+        </div>
+    </footer>  
+
+
+</body>
+<!--<script src="//ads.counciladvertising.net/code/maidstonebc/media/public"></script>-->
+</html>
