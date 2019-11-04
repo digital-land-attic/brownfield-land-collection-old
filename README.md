@@ -1,21 +1,26 @@
 # Digital Land collection of brownfield sites
 
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/psd/openregister/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/brownfield-sites/blob/master/LICENSE)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://black.readthedocs.io/en/stable/)
 
-A prototype of a national dataset of brownfield sites assembled from data collected from each Local Planning Authority.
+A prototype national dataset of brownfield sites assembled from data collected from each Local Planning Authority.
 
-The list of registers collected is kept and maintained in [datasets/brownfield-land.csv](datasets/brownfield-land.csv).
+The source list of registers collected is kept and maintained in [data/brownfield-land.csv](data/brownfield-land.csv).
+
+The [collection](collection) directory contains:
+
+* [collection/log](collection/log) -- log entries by date (sha256 hash of the URL)
+* [collection/resource](collection/resource) -- collected files (sha256 of the contents)
+* [index.json](collection/index.json) -- an index into the collection, to help make our catalog pages
 
 # Updating the collection
 
 We recommend working in [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) before installing the python dependencies:
 
     $ make init
-
-The datasets are collected into the [collection](collection) directories:
-
     $ make
+
+Not all of the files can be downloaded automatically. These can be added to the catalog using the [addone](bin/addone.py) script.
 
 # Licence
 
