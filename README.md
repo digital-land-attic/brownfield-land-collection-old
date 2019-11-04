@@ -1,11 +1,11 @@
-# Digital Land collection of brownfield sites
+# Digital Land brownfield land collection
 
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/brownfield-sites/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/brownfield-land/blob/master/LICENSE)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://black.readthedocs.io/en/stable/)
 
-A prototype national dataset of brownfield sites assembled from data collected from each Local Planning Authority.
+A prototype national dataset of brownfield sites assembled from brownfield land data collected from each Local Planning Authority.
 
-The source list of registers collected is kept and maintained in [data/brownfield-land.csv](data/brownfield-land.csv).
+The source list of registers collected is kept and maintained in [dataset/brownfield-land.csv](dataset/brownfield-land.csv).
 
 The [collection](collection) directory contains:
 
