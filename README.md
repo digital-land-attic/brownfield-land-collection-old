@@ -11,7 +11,7 @@ The [collection](collection) directory contains:
 
 * [collection/log](collection/log) -- log entries by date (sha256 hash of the URL)
 * [collection/resource](collection/resource) -- collected files (sha256 of the contents)
-* [index.json](collection/index.json) -- an index into the collection, to help make our catalog pages
+* [index.json](collection/index.json) -- an index into the collection, used to build our [catalog](https://digital-land.github.io/catalog/) and other pages
 
 # Updating the collection
 

@@ -3,6 +3,7 @@
 #
 #  simple data collector
 #
+from sys import argv
 import os
 from datetime import datetime
 from timeit import default_timer as timer
@@ -13,9 +14,9 @@ import canonicaljson
 import csv
 
 user_agent = "Digital Land data collector"
-log_dir = "collection/log/"
 resource_dir = "collection/resource/"
-datasets_dir = "datasets/"
+log_dir = "collection/log/"
+dataset_dir = "dataset/"
 
 
 def save(path, data):
@@ -78,7 +79,7 @@ if __name__ == "__main__":
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
     )
-    for row in csv.DictReader(open(os.path.join(datasets_dir, "dataset" + ".csv"))):
-        dataset = row["dataset"]
-        for row in csv.DictReader(open(os.path.join(datasets_dir, dataset + ".csv"))):
+
+    for dataset in argv[1:]:
+        for row in csv.DictReader(open(os.path.join(dataset_dir, dataset + ".csv"))):
             fetch(dataset, row["organisation"], row["resource-url"])
