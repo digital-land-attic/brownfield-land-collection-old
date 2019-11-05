@@ -325,7 +325,7 @@ local-authority-eng:WSM,https://www.westminster.gov.uk/brownfield-register,https
 local-authority-eng:WSO,https://www.westsomersetonline.gov.uk/Planning---Building/Planning-Policy/Brownfield-Register,https://www.westsomersetonline.gov.uk/Docs/Brownfield-Register/west-somerset_brownfieldregister_2017-12-31_rev1.aspx,,,,
 local-authority-eng:WYC,https://www.wychavon.gov.uk/brownfield-land-register,https://www.wychavon.gov.uk/documents/10586/8873385/WychavonBrownfieldLandRegister2017wrapped.csv/f588a90c-1181-4598-19aa-9443e7b02ce2,,,,
 local-authority-eng:WYE,http://www.wyreforestdc.gov.uk/planning-and-buildings/planning-policy/brownfield-land-register.aspx,http://www.wyreforestdc.gov.uk/media/3585747/WyreForestDCBrownfieldLandRegister2017-1-.xlsx,,,,
-local-authority:WYO,https://www.wycombe.gov.uk/pages/Planning-and-building-control/Adopted-Wycombe-planning-policy-and-guidance/Brownfield-land-register.aspx,https://www.wycombe.gov.uk/uploads/public/documents/Planning/Adopted-core-strategy/Brownfield-land-register-2017.xlsx,0a30956f-b009-455c-9b81-88b6a4616e0f,,,
+local-authority-eng:WYO,https://www.wycombe.gov.uk/pages/Planning-and-building-control/Adopted-Wycombe-planning-policy-and-guidance/Brownfield-land-register.aspx,https://www.wycombe.gov.uk/uploads/public/documents/Planning/Adopted-core-strategy/Brownfield-land-register-2017.xlsx,0a30956f-b009-455c-9b81-88b6a4616e0f,,,
 local-authority-eng:WYR,,http://www.wyre.gov.uk/download/downloads/id/4390/wyre_council_brownfield_register_dec_2017.csv,,,,
 local-authority-eng:YOR,,https://opendata.arcgis.com/datasets/24e275a6e4c44085a793366713c3a1de_21.csv,,,,
 national-park:Q72617988,,http://www.peakdistrict.gov.uk/__data/assets/file/0003/1068042/pdnpa-blr-18_12_2017.csv,,,,
