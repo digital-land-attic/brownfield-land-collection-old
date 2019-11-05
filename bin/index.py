@@ -35,7 +35,7 @@ def add(date, key, h):
     idx["url"][key] = h.get("url", "")
 
     e = {}
-    for field in ["status", "exception", "datetime", "elapsed"]:
+    for field in ["status", "exception", "datetime", "elapsed", "resource"]:
         if field in h and h[field]:
             e[field] = h[field]
 
@@ -43,12 +43,10 @@ def add(date, key, h):
     idx["log"][date][key] = e 
 
     idx["dataset"].setdefault(h["dataset"], {})
-    idx["dataset"][h["dataset"]].setdefault(h["organisation"], [])
-    idx["dataset"][h["dataset"]][h["organisation"]].append({date : key})
-
-    if "resource" in h and h["resource"]:
-        idx["resource"].setdefault(h["resource"], [])
-        idx["resource"][h["resource"]].append({date : key})
+    idx["dataset"][h["dataset"]].setdefault("organisation", {})
+    idx["dataset"][h["dataset"]]["organisation"].setdefault(h["organisation"], {})
+    idx["dataset"][h["dataset"]]["organisation"][h["organisation"]].setdefault("log", [])
+    idx["dataset"][h["dataset"]]["organisation"][h["organisation"]]["log"].append({date : key})
 
 
 if __name__ == "__main__":
