@@ -48,6 +48,7 @@ def fetch(dataset, organisation, url):
     try:
         start = timer()
         response = requests.get(url, headers={"User-Agent": user_agent})
+        response.raise_for_status()
     except (
         requests.ConnectionError,
         requests.HTTPError,
