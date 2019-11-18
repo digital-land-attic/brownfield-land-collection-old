@@ -11,12 +11,8 @@ import logging
 import json
 import canonicaljson
 
-idx = {
-    'resource': {},
-    'log': {},
-    'url': {},
-    'dataset': {},
-}
+idx = {}
+
 
 def parse_path(path):
     m = re.match(r"^.*\/([-\d]+)\/(\w+).json", path)
@@ -32,21 +28,13 @@ def save(path, data):
 
 def add(date, key, h):
 
-    idx["url"][key] = h.get("url", "")
-
     e = {}
     for field in ["status", "exception", "datetime", "elapsed", "resource"]:
         if field in h and h[field]:
             e[field] = h[field]
 
-    idx["log"].setdefault(date, {})
-    idx["log"][date][key] = e 
-
-    idx["dataset"].setdefault(h["dataset"], {})
-    idx["dataset"][h["dataset"]].setdefault("organisation", {})
-    idx["dataset"][h["dataset"]]["organisation"].setdefault(h["organisation"], {})
-    idx["dataset"][h["dataset"]]["organisation"][h["organisation"]].setdefault("log", [])
-    idx["dataset"][h["dataset"]]["organisation"][h["organisation"]]["log"].append({date : key})
+    idx.setdefault(key, {"url": h.get("url", ""), "log": []})
+    idx[key]["log"].append(e) 
 
 
 if __name__ == "__main__":
