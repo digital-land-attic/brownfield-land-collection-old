@@ -1,0 +1,519 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="en"><!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+    <title>Rushmoor Brownfield Land Register - data.gov.uk</title>
+
+    <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="/find-assets/govuk-template-0687f0d06ea9fff4c2f019429ababd62eb553c0e2ba67f1bba5c99d05b1755da.css" crossorigin="anonymous" integrity="sha256-Bofw0G6p//TC8BlCmrq9YutVPA4rpn8bulyZ0FsXVdo=" /><!--<![endif]-->
+    <!--[if IE 6]><link rel="stylesheet" media="screen" href="/find-assets/govuk-template-ie6-7dabc9dc229ba6baa65e0c758c7a9aaeba5e27be6adb119b7e2e8a78de7e0acb.css" /><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" media="screen" href="/find-assets/govuk-template-ie7-aca92e08e156f534bd2173a42883e4f80ba249fcd691b7f7493f27ce143033ed.css" /><![endif]-->
+    <!--[if IE 8]><link rel="stylesheet" media="screen" href="/find-assets/govuk-template-ie8-54414393894c6bad2dff49b4921fdfe0814ccdc6f1cf91ea1e4761eaf2128bb6.css" /><![endif]-->
+    <link rel="stylesheet" media="print" href="/find-assets/govuk-template-print-1076519521c2fffbbf75ab3b0d3b32ee2d96ac7e9778f1cdfac1771eefd1a1c0.css" crossorigin="anonymous" integrity="sha256-EHZRlSHC//u/das7DTsy7i2WrH6XePHN+sF3Hu/RocA=" />
+
+    <!--[if IE 8]><link rel="stylesheet" media="all" href="/find-assets/fonts-ie8-42b87b7aa88f0a357e53df76e253c3025ff0fc3378d9666e71dd435eac38a239.css" /><![endif]-->
+    <!--[if gte IE 9]><!--><link rel="stylesheet" media="all" href="/find-assets/fonts-5ff8c53913434afd0072a480d7cfca67cace4c8d03f6ef96b78a4455728ce745.css" crossorigin="anonymous" integrity="sha256-X/jFORNDSv0AcqSA18/KZ8rOTI0D9u+Wt4pEVXKM50U=" /><!--<![endif]-->
+    <!--[if lt IE 9]><script src="/find-assets/ie-19f47204b0f93c5c4ff044f66b82097917812360ea1a8118fc5ea7a0d5f20e6b.js" crossorigin="anonymous" integrity="sha256-GfRyBLD5PFxP8ET2a4IJeReBI2DqGoEY/F6noNXyDms="></script><![endif]-->
+
+    <link rel="shortcut icon" href="/find-assets/favicon-5a436c9c4405b823ee665d6ff06f94750abb4e42a654a2da8fc864e16fdb489f.ico" type="image/x-icon" />
+    <link rel="mask-icon" href="/find-assets/gov.uk_logotype_crown-de738c3fcce8ce2a91b67e89787090dc24a5cda0275ab6b75f6226c5b9619d3d.svg" color="#0b0c0c">
+    <link rel="apple-touch-icon" sizes="180x180" href="/find-assets/apple-touch-icon-180x180-0bcfbbe7b6c9732f6f6bdf81dc8308d20650779a7076f212cf68376a12942555.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="/find-assets/apple-touch-icon-167x167-9992bea1aa15882b781e154ba900dbf12cf8d2962a629f7982c4533eafe6e0ae.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/find-assets/apple-touch-icon-152x152-7a0d2eaf8a718ef4c048700b6e1c1ad16f79adf8d0ca1f33e54bfcc3eeef8fc3.png">
+    <link rel="apple-touch-icon" href="/find-assets/apple-touch-icon-02d46f1a76f34b722a0b151a556e7f779ea4bff2c45d57db31ee51cc54969ddb.png">
+
+    <meta name="theme-color" content="#0b0c0c" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:image" content="/find-assets/opengraph-image-cc6824e5c57681e4684c54823248e63bb1f5182d53dee11657f189cc402ff9d5.png">
+
+      <meta name="dc:title" content="Rushmoor Brownfield Land Register">
+  <meta name="dc:creator" content="Rushmoor Borough Council">
+  <meta name="dc:date" content="2019-02-11">
+
+    <meta name="dc:rights" content="Open Government Licence">
+  <link rel="stylesheet" media="screen" href="/find-assets/application-3b164e051deb37ebd23eb0d69d9645e9d6930723c615098f27cc9e6bd88ae49a.css" />
+  <script src="/find-assets/application-fa403162f9202d471a200ecb4c76dcb309eeffc4ace8459399951998510c6c46.js"></script>
+    <script>
+//<![CDATA[
+
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga')
+
+   ga('create', 'UA-10855508-1', 'auto')
+   var dimensions = {}
+
+   $(document).ready(function() {
+     dimensions['dimension11'] = 'find-open-data'
+     ga('send', 'pageview', dimensions)
+     $('[data-ga-event]').on('click', sendAnalyticsEvent)
+   })
+
+   // Analytics event firing
+   function sendAnalyticsEvent() {
+     var eventType = $(this).data('ga-event')
+     var orgName = $(this).data('ga-publisher')
+     var eventParams = {}
+     switch (eventType) {
+       case 'download':
+         eventParams = {
+           hitType: 'event',
+           eventCategory: 'datafile',
+           eventAction: 'download',
+           eventLabel: $(this).attr('href'),
+           dimension4: orgName,
+           dimension5: $(this).data('ga-format'),
+           dimension11: 'find-open-data'
+         }
+         break
+       case 'contact':
+         eventParams = {
+           hitType: 'event',
+           eventCategory: 'contact-details',
+           eventAction: 'click',
+           eventLabel: orgName,
+           dimension4: orgName,
+           dimension11: 'find-open-data'
+         }
+         break
+       case 'preview':
+         eventParams = {
+           hitType: 'event',
+           eventCategory: 'datafile-preview',
+           eventAction: 'click',
+           eventLabel: $(this).attr('href'),
+           dimension4: orgName,
+           dimension5: $(this).data('ga-format'),
+           dimension11: 'find-open-data'
+         }
+         break
+       case 'preview-download':
+         eventParams = {
+           hitType: 'event',
+           eventCategory: 'datafile-preview',
+           eventAction: 'download',
+           eventLabel: $(this).attr('href'),
+           dimension4: orgName,
+           dimension5: $(this).data('ga-format'),
+           dimension11: 'find-open-data'
+         }
+         break
+     }
+     ga('send', eventParams)
+   }
+
+//]]>
+</script>
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="eLyK32RwafoeKdPBSXhk2GTx4lkZaoCMtSVR+ns2DQ+15S5BKi3pmG8EnW//dpgr9qRwC/6tHNQ/NzxUfZR+9A==" />
+
+  </head>
+
+  <body>
+    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+
+    
+
+    <div id="skiplink-container">
+      <div>
+        <a href="#content" class="skiplink">Skip to main content</a>
+      </div>
+    </div>
+
+    <div id="global-cookie-message">
+          <p>
+    data.gov.uk uses cookies to make the site simpler.
+    <a href="/cookies">Find out more about cookies</a>
+  </p>
+
+    </div>
+
+    <header role="banner" id="global-header" class="  with-proposition
+">
+      <div class="header-wrapper">
+        <div class="header-global">
+          <div class="header-logo">
+            <a href="  /
+" title="Go to the Find open data homepage" id="logo" class="content">
+              <img src="/find-assets/gov.uk_logotype_crown_invert_trans-203e1db49d3eff430d7dc450ce723c1002542fe1d2bce661b6d8571f14c1043c.png" width="36" height="32" alt="">   data.gov.uk
+  <div class="vertical-separator">|</div>
+  Find open data
+
+            </a>
+          </div>
+          
+        </div>
+          <div class="header-proposition">
+  <div class="content">
+    <a href="#proposition-links" class="js-header-toggle menu">Menu</a>
+    <nav id="proposition-menu">
+      <ul id="proposition-links">
+        <li><a href="/publishers">Publish your data</a></li>
+        <li><a href='https://guidance.data.gov.uk/publish_and_manage_data/'>Documentation</a></li>
+        <li><a href="/support">Support</a></li>
+      </ul>
+    </nav>
+  </div>
+</div>
+
+
+      </div>
+    </header>
+
+      <div id="dgu-beta__banner" class="dgu-beta__banner--hidden">
+  <div class="dgu-beta__message">
+    <p>
+      We’ve been improving data.gov.uk to help you find and use open government data.<br />
+      <a href="/about">Discover what’s changed</a> and <a href="http://www.smartsurvey.co.uk/s/3SEXD/">get in touch</a> to give us your feedback.
+    </p>
+
+    <p>
+      <a class="survey-close-button" href="#user-survey-cancel" id="dgu-survey-cancel" role="button">
+        Don't show this message again
+      </a>
+    </p>
+
+  </div>
+</div>
+
+  
+
+
+    <div id="global-header-bar"></div>
+
+      <div class="dgu-top-non-content">
+    <div class="dgu-top-non-content__inner">
+      <div id="dgu-phase-banner" class="phase-banner">
+  <p>
+    <strong class="phase-tag">BETA</strong>
+    <span>This is a new service – your <a href="http://www.smartsurvey.co.uk/s/3SEXD/">feedback</a> will help us to improve it
+    </span>
+  </p>
+</div>
+
+      
+    <div class="grid-row">
+    <!-- Only display breadcrumb if the referrer host matches the application host  -->
+    <div class="column-full">
+      <div class="breadcrumbs">
+        <nav aria-label="Breadcrumb">
+          <ol>
+            <li>
+              <a href="/">Home</a>
+            </li>
+            <li>
+                Rushmoor Borough Council
+            </li>
+            <li aria-current="page">
+              Rushmoor Brownfield Land Register
+            </li>
+          </ol>
+        </nav>
+      </div>
+    </div>
+  </div>
+
+
+    </div>
+  </div>
+
+  
+
+<script type="application/ld+json">
+ {"@context":"http://schema.org","@type":"Dataset","name":"Rushmoor Brownfield Land Register","url":"https://data.gov.uk/dataset/b16dade4-2aa7-431e-b282-0128f7b0f5ef/rushmoor-brownfield-land-register","includedInDataCatalog":{"@type":"DataCatalog","url":"https://data.gov.uk"},"creator":{"@type":"Organization","name":"Rushmoor Borough Council"},"description":"Rushmoor’s brownfield land register identifies previously developed sites within the Borough which are considered available, achievable and suitable for residential development, as defined by the Town and Country Planning (Brownfield Land Register) Regulations 2017.\r\nThe register will be reviewed and updated at least once a year and comprises a standard set of information, as prescribed by the Government.\r\nIf a site is included in our brownfield land register, it does not guarantee that we will grant it planning permission.\r\n","license":{"@type":"CreativeWork","name":"Open Government Licence","text":null,"url":"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"},"dateModified":"2019-02-11T10:58:29.408Z","keywords":"Towns and cities","distribution":[{"@type":"DataDownload","contentUrl":"http://data.rushmoor.gov.uk/Datasets/ThirdPartyLicensed/Brownfield%20Register/Rushmoor_Brownfield_Land_Register_Sites_December_2018.zip","fileFormat":"ZIP","name":"Rushmoor Brownfield Register Site Polygons 2018"},{"@type":"DataDownload","contentUrl":"http://data.rushmoor.gov.uk/Datasets/ThirdPartyLicensed/Brownfield%20Register/rushmoor_brownfieldregister_2018-12-10_rev2.csv","fileFormat":"CSV","name":"Rushmoor Brownfield Register 2018"},{"@type":"DataDownload","contentUrl":"http://data.rushmoor.gov.uk/Datasets/ThirdPartyLicensed/Brownfield%20Register/rushmoor_brownfield_register_shapefile.zip","fileFormat":"ZIP","name":"Rushmoor Brownfield Register Site Polygons 2017"},{"@type":"DataDownload","contentUrl":"http://data.rushmoor.gov.uk/Datasets/ThirdPartyLicensed/Brownfield%20Register/rushmoor_brownfieldregister_2017-12-11_rev1.csv","fileFormat":"CSV","name":"Rushmoor Brownfield Register 2017"}]}
+</script>
+
+
+<main role="main" id="content">
+  <div>
+    
+<section class="meta-data">
+  <div class="grid-row">
+    <div class="column-two-thirds">
+      <h1 class="heading-large" property="dc:title">
+        Rushmoor Brownfield Land Register
+      </h1>
+    </div>
+  </div>
+
+  <div class="grid-row">
+    <div class="column-two-thirds">
+      <div class="dgu-metadata__box dgu-metadata__box--in-dataset">
+        <dl class="metadata">
+          <dt>Published by:</dt>
+
+          <dd property="dc:creator">
+            Rushmoor Borough Council
+          </dd>
+
+          <dt>Last updated:</dt>
+          <dd property="dc:date" content="11 February 2019">
+            11 February 2019
+          </dd>
+
+          <dt>Topic:</dt>
+            <dd>Towns and cities</dd>
+
+          <dt>Licence:</dt>
+          <dd property="dc:rights">
+              <a rel="dc:rights" href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open Government Licence</a>
+
+          </dd>
+        </dl>
+
+        <h3 class="heading-small">
+          Summary
+        </h3>
+        <div class="js-summary" style="line-height: 1.5em; overflow: hidden" property="dc:description">
+          <p>Rushmoor’s brownfield land register identifies previously developed sites within the Borough which are considered available, achievable and suitable for residential development, as defined by the Town and Country Planning (Brownfield Land Register) Regulations 2017.
+The register will be reviewed and updated at least once a year and comprises a standard set of information, as prescribed by the Government.
+If a site is included in our brownfield land register, it does not guarantee that we will grant it planning permission.</p>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="column-one-third dgu-dataset-right">
+      <div class="dgu-dataset-right__sidebar__publisher_datasets">
+        <h3 class="heading-small">More from this publisher</h3>
+        <a href="/search?filters%5Bpublisher%5D=Rushmoor+Borough+Council">
+          All datasets from Rushmoor Borough Council
+</a>      </div>
+
+        <div class="dgu-dataset-right__sidebar">
+          <h3 class="heading-small">Related datasets</h3>
+          <ul>
+              <li>
+                <a href="/dataset/29847880-4ba2-4946-aef4-49a3095fa536/waverley-brownfield-land-register">Waverley Brownfield Land Register</a>
+              </li>
+              <li>
+                <a href="/dataset/a8ee3a2b-418a-47b4-aa18-39c9e38af61d/brownfield-land-register">Brownfield Land Register</a>
+              </li>
+              <li>
+                <a href="/dataset/175c0dc2-7fb7-40de-b2f9-245938c4802f/brownfield-land-register-2018">Brownfield Land Register (2018)</a>
+              </li>
+              <li>
+                <a href="/dataset/6a7b849d-9fa6-4914-95da-9e49d53f37a9/brownfield-land-register">Brownfield Land Register</a>
+              </li>
+          </ul>
+        </div>
+
+      <h3 class="heading-small">Search</h3>
+      <form action="/search" method="GET" class="dgu-search-box">
+        <label for="q" class="visuallyhidden">Search</label>
+        <input id="q"
+               name="q"
+               type="text"
+               class="form-control dgu-search-box__input"/><button type="submit"
+                                                                   class="dgu-search-box__button">
+                                                            Find data
+                                                           </button>
+      </form>
+    </div>
+  </div>
+</section>
+
+
+    <div class="grid-row">
+      <div class="column-full">
+        <section class="dgu-datalinks">
+          <h2 class="heading-medium">Data links
+          </h2>
+
+
+            <table class="dgu-datafiles">
+  <tr>
+    <th class="title small">Link to the data</th>
+    <th>Format</th>
+    <th>File added</th>
+    <th>Data preview</th>
+  </tr>
+  <tbody>
+      <tr class=" dgu-datafile">
+        <td class="title small">
+          <a data-ga-event="download" data-ga-format="CSV" data-ga-publisher="rushmoor-borough-council" aria-label="Download datafile Rushmoor Brownfield Register Site Polygons 2018 format: ZIP dataset: Rushmoor Brownfield Land Register" href="http://data.rushmoor.gov.uk/Datasets/ThirdPartyLicensed/Brownfield%20Register/Rushmoor_Brownfield_Land_Register_Sites_December_2018.zip">
+            Rushmoor Brownfield Register Site Polygons 2018
+            <span class='visually-hidden'>Download datafile 'Rushmoor Brownfield Register Site Polygons 2018', Format: ZIP, Dataset: Rushmoor Brownfield Land Register</span>
+</a>        </td>
+          <td>ZIP
+          </td>
+          <td>
+            11 February 2019
+          </td>
+        <td class="datafiles__preview">
+            <span class="dgu-secondary-text">Not available</span>
+        </td>
+      </tr>
+      <tr class=" dgu-datafile">
+        <td class="title small">
+          <a data-ga-event="download" data-ga-format="CSV" data-ga-publisher="rushmoor-borough-council" aria-label="Download datafile Rushmoor Brownfield Register 2018 format: CSV dataset: Rushmoor Brownfield Land Register" href="http://data.rushmoor.gov.uk/Datasets/ThirdPartyLicensed/Brownfield%20Register/rushmoor_brownfieldregister_2018-12-10_rev2.csv">
+            Rushmoor Brownfield Register 2018
+            <span class='visually-hidden'>Download datafile 'Rushmoor Brownfield Register 2018', Format: CSV, Dataset: Rushmoor Brownfield Land Register</span>
+</a>        </td>
+          <td>CSV
+          </td>
+          <td>
+            11 February 2019
+          </td>
+        <td class="datafiles__preview">
+            <a data-ga-event="preview" data-ga-format="CSV" data-ga-publisher="rushmoor-borough-council" href="/dataset/b16dade4-2aa7-431e-b282-0128f7b0f5ef/rushmoor-brownfield-land-register/datafile/bd46375a-bb0c-4932-85fd-8b705bb7157e/preview">Preview</a>
+        </td>
+      </tr>
+      <tr class=" dgu-datafile">
+        <td class="title small">
+          <a data-ga-event="download" data-ga-format="CSV" data-ga-publisher="rushmoor-borough-council" aria-label="Download datafile Rushmoor Brownfield Register 2017 format: CSV dataset: Rushmoor Brownfield Land Register" href="http://data.rushmoor.gov.uk/Datasets/ThirdPartyLicensed/Brownfield%20Register/rushmoor_brownfieldregister_2017-12-11_rev1.csv">
+            Rushmoor Brownfield Register 2017
+            <span class='visually-hidden'>Download datafile 'Rushmoor Brownfield Register 2017', Format: CSV, Dataset: Rushmoor Brownfield Land Register</span>
+</a>        </td>
+          <td>CSV
+          </td>
+          <td>
+            13 December 2017
+          </td>
+        <td class="datafiles__preview">
+            <a data-ga-event="preview" data-ga-format="CSV" data-ga-publisher="rushmoor-borough-council" href="/dataset/b16dade4-2aa7-431e-b282-0128f7b0f5ef/rushmoor-brownfield-land-register/datafile/77c07f88-f696-4b3c-b91a-7d7982387add/preview">Preview</a>
+        </td>
+      </tr>
+      <tr class=" dgu-datafile">
+        <td class="title small">
+          <a data-ga-event="download" data-ga-format="CSV" data-ga-publisher="rushmoor-borough-council" aria-label="Download datafile Rushmoor Brownfield Register Site Polygons 2017 format: ZIP dataset: Rushmoor Brownfield Land Register" href="http://data.rushmoor.gov.uk/Datasets/ThirdPartyLicensed/Brownfield%20Register/rushmoor_brownfield_register_shapefile.zip">
+            Rushmoor Brownfield Register Site Polygons 2017
+            <span class='visually-hidden'>Download datafile 'Rushmoor Brownfield Register Site Polygons 2017', Format: ZIP, Dataset: Rushmoor Brownfield Land Register</span>
+</a>        </td>
+          <td>ZIP
+          </td>
+          <td>
+            13 December 2017
+          </td>
+        <td class="datafiles__preview">
+            <span class="dgu-secondary-text">Not available</span>
+        </td>
+      </tr>
+  </tbody>
+</table>
+
+
+
+
+
+        </section>
+      </div>
+    </div>
+
+
+
+      <section class="contact">
+  <h2 class="heading-medium">
+    Contact
+  </h2>
+
+    <div class="column-one-half enquiries">
+      <h3 class="heading-small">
+        Enquiries
+      </h3>
+      <p>
+        <span>Rushmoor GIS Team</span>
+        <span><a data-ga-event="contact" data-ga-publisher="rushmoor-borough-council" href="mailto:GIS@Rushmoor.gov.uk">GIS@Rushmoor.gov.uk</a></span>
+      </p>
+    </div>
+
+    <div class="column-one-half foi">
+      <h3 class="heading-small">
+        Freedom of Information (FOI) requests
+      </h3>
+
+      <p>
+        <span>Rushmoor Freedom of Information Requests</span>
+        <span><a class="ga-contact" href="mailto:FOI@Rushmoor.gov.uk">FOI@Rushmoor.gov.uk</a></span>
+          <span>
+            <a class="ga-contact" href="https://www.rushmoor.gov.uk/article/10398/Submit-an-information-request">https://www.rushmoor.gov.uk/article/10398/Submit-an-information-request</a>
+</span>
+      </p>
+    </div>
+</section>
+
+
+
+      <section>
+        <div class="grid-row">
+          <div class="column-full">
+            <h2 class="heading-medium">Edit this dataset</h2>
+            <div role="note" aria-label="Publisher information" class="panel panel-border-narrow text">
+              <p>You must have an account for this publisher on data.gov.uk to make any changes to a dataset.</p>
+            </div>
+            <p><a role="button" class="button" rel="nofollow" href="/dataset/edit/rushmoor-brownfield-land-register">Sign in</a></p>
+          </div>
+        </div>
+      </section>
+
+  </div>
+</main>
+
+
+  <div id="global-app-error" class="app-error hidden"></div>
+
+  <script>
+//<![CDATA[
+
+    if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');
+
+//]]>
+</script>
+
+    <footer class="group js-footer" id="footer" role="contentinfo">
+
+      <div class="footer-wrapper">
+        
+
+        <div class="footer-meta">
+          <div class="footer-meta-inner">
+              <ul>
+    <li><a href="/about">About</a></li>
+    <li><a href="/accessibility">Accessibility</a></li>
+    <li><a href="/cookies">Cookies</a></li>
+    <li><a href="/privacy">Privacy</a></li>
+    <li><a href="/terms">Terms and conditions</a></li>
+    <li><a href="/support">Support</a></li>
+    <li>Built by the <a href="https://www.gov.uk/government/organisations/government-digital-service">Government Digital Service</a></li>
+  </ul>
+
+
+            <div class="open-government-licence">
+              <p class="logo"><a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence</a></p>
+                <p>All content is available under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence v3.0</a>, except where otherwise stated</p>
+            </div>
+          </div>
+
+          <div class="copyright">
+            <a href="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/crown-copyright/">© Crown copyright</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <div id="global-app-error" class="app-error hidden"></div>
+
+    <script src="/find-assets/govuk-template-74164e16ed233203b739c76ece014543d3fd72a731bb7d742d4ce8c697967b8d.js" crossorigin="anonymous" integrity="sha256-dBZOFu0jMgO3OcduzgFFQ9P9cqcxu310LUzoxpeWe40="></script>
+
+    
+
+    <script>if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');</script>
+  </body>
+</html>
+
