@@ -85,4 +85,4 @@ if __name__ == "__main__":
 
     for dataset in argv[1:]:
         for row in csv.DictReader(open(os.path.join(dataset_dir, dataset + ".csv"))):
-            fetch(dataset, row["organisation"], row["resource-url"], row['end-date'])
+            fetch(dataset, row["organisation"], row["resource-url"], row["end-date"])
