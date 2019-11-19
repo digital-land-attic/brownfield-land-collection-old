@@ -33,8 +33,13 @@ def add(date, key, h):
         if field in h and h[field]:
             e[field] = h[field]
 
-    idx.setdefault(key, {"url": h.get("url", ""), "log": []})
-    idx[key]["log"].append(e) 
+    if h.get('status', '') == '200' and 'response-headers' in h:
+        for field in ["Content-Type", "Content-Length"]:
+            if field in h['response-headers']:
+                e[field] = h['response-headers'][field]
+
+    idx.setdefault(key, {"url": h.get("url", ""), "log": {}})
+    idx[key]["log"][date] = e 
 
 
 if __name__ == "__main__":
