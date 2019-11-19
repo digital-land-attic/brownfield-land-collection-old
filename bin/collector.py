@@ -26,8 +26,11 @@ def save(path, data):
         f.write(data)
 
 
-def fetch(dataset, organisation, url):
+def fetch(dataset, organisation, url, end_date):
     if not url:
+        return
+
+    if end_date and datetime.strptime(end_date, "%Y-%m-%d") < datetime.now():
         return
 
     headers = {
@@ -82,4 +85,4 @@ if __name__ == "__main__":
 
     for dataset in argv[1:]:
         for row in csv.DictReader(open(os.path.join(dataset_dir, dataset + ".csv"))):
-            fetch(dataset, row["organisation"], row["resource-url"])
+            fetch(dataset, row["organisation"], row["resource-url"], row['end-date'])
