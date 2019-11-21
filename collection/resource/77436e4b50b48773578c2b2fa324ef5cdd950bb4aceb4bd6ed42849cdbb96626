@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width" />
+	<title>Third Party Licensed Datasets</title>
+	<link href="/Content/css?v=FaTPodCk1lIIrxekuUODeVBPqQLkNFh1jyXrnlsfSzA1" rel="stylesheet"/>
+
+	<script src="/bundles/modernizr?v=w9fZKPSiHtN4N4FRqV7jn-3kGoQY5hHpkwFv5TfMrus1"></script>
+
+</head>
+<body>
+	<div class="navbar navbar-inverse navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="/OpenData">Rushmoor Borough Council - Data Portal</a>
+			</div>
+		</div>
+	</div>
+	<div class="container body-content">
+		
+
+
+
+<div class="page-header">
+	<h1>Open Data - third party licensed datasets</h1>
+</div>
+
+<div class="clearfix">
+	<div class="col-md-8">
+		<p>
+			The dataset you are downloading contains data (or is derived from data) licensed
+			by the Ordnance Survey. We provide this dataset to support the core business
+			of Rushmoor Borough Council, and as such, you simply need to:
+		</p>
+		<ul>
+			<li>Read the licence</li>
+			<li>Accept the agreement</li>
+			<li>Provide some basic contact details for our records</li>
+		</ul>
+		<p>
+			You will then be able to download and use the dataset.
+		</p>
+		<p>
+			If you want to use the dataset commercially or for a purpose, other than 
+			supporting the delivery of Rushmoor Borough Council's core business, you should contact
+			Ordnance Survey at <a href="https://www.ordnancesurvey.co.uk/contact" target="_blank">https://www.ordnancesurvey.co.uk/contact</a> 
+			to discuss how they can help you with your requirements.
+		</p>
+		<br />
+	</div>
+	<div class="col-md-4">
+		<div class="alert alert-warning alert-dismissable" role="alert">
+			<strong>Privacy and data usage</strong><br/>
+			<p>
+				<small>
+					If you choose to accept these licensing terms, a
+					<a href="http://ico.org.uk/for_the_public/topic_specific_guides/online/cookies" target="_blank">cookie</a>
+					will be set on your computer which will remember your choice. This will allow you to
+					download other datasets in the future without having to opt in again.
+				</small>
+			</p>
+			<p>
+				<small>
+					We will not pass the data captured on to any third parties, but may use it occasionally
+					to alert you of any changes to our open data policies or datasets.
+				</small>
+			</p>
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="well col-xs-12 col-md-6">
+<form action="/OpenData/ThirdPartyLicensedDatasets" method="post"><input name="__RequestVerificationToken" type="hidden" value="VJ_l9EP0MeH55YUAXiZw6av0BiQxcxSi7vjKjxxw0Gh6SRTJFH9ZlOjcx8sof57oUyWTJK7Lx5XPJ3KOBKYMO7REg-5uGeLZiMer4vfvAQc1" />			<fieldset>
+				<div class="form-group">
+					<input id="RequestedFile" name="RequestedFile" type="hidden" value="http://data.rushmoor.gov.uk/Datasets/ThirdPartyLicensed/Brownfield Register/rushmoor_brownfieldregister_2018-12-10_rev2.csv" />
+					<label for="txtTermsAndConditions">Terms &amp; Conditions</label>
+					<textarea id="txtTermsAndConditions" class="form-control termsandconditions" readonly="readonly" rows="8">
+This End User Licence will take effect on click acceptance by the End User.
+
+Background
+
+The Supplied Data comprises, or was created using, Ordnance Survey data. This End User Licence is entered into pursuant to the Licensor's licence with Ordnance Survey, to set out the terms upon which the End User is licensed to use Supplied Data.
+
+1. Definitions
+
+Commercial Activity: means any activity which involves or is intended to involve Financial Gain.
+
+Competing Activity: means an activity the Ordnance Survey or the Licensor notifies to the End User as being a Competing Activity from time to time.
+
+Core Business: means any of the Licensor's public sector activity, excluding any Commercial Activity and Competing Activity.
+
+Financial Gain: means any revenue or credit received which exceeds the incremental costs of supplying or making available to a recipient any copy of any Supplied Data. Financial Gain does not include any receipts from Statutory Charges.
+
+End User: means you, the recipient of the Supplied Data.
+
+End User Purpose: means the End User using the data to respond to, or interact with the Licensor to deliver or support the delivery of the Licensor's Core Business.
+
+IPR: means intellectual property rights, including copyright, patent, trade mark, design right, database rights, trade secrets, know how, rights of confidence and all other similar rights anywhere in the world whether or not registered and including applications for registration of any of them.
+
+Licensor: means the public body that has made Supplied Data available to the End User on the terms of this End User Licence.
+
+Ordnance Survey: means the Secretary of State for Business, Innovation and Skills, acting through Ordnance Survey whose principal place of business is at Explorer House, Adanac Drive, Southampton, SO16 0AS.
+
+Statutory Charge: means charges which the Licensor or End User is expressly permitted to charge pursuant to a formal written enactment of a legislative authority that governs the United Kingdom of Great Britain and Northern Ireland, Scotland, Wales, and/or Northern Ireland to which the Licensor or End User is subject.
+
+Supplied Data: means the data provided by the Licensor to the End User under the terms of this End User Licence.
+
+Term: means the period required to fulfil the End User Purpose.
+
+Working Day: means any day other than a Saturday, Sunday or public holiday in England, Wales, Scotland or Northern Ireland.
+
+2. Licence
+2.1 The Licensor grants to the End User a non-exclusive, non-transferable licence (revocable pursuant to the terms of this End User Licence) to use Supplied Data for the End User Purpose for the Term.
+2.2 This Licence is limited specifically to the rights granted in Clause 2.1 and subject to the obligations set out in the remainder of this Licence, in particular the End User's obligations set out in Clause 3. This Licence allows the End User personally (not any affiliated body or group) to use Supplied Data only to the extent required for the End User Purpose, but does not allow the End User to use Supplied Data for any Competing Activity.
+
+3. End User's Obligations
+
+3.1 The End User shall Use the Supplied Data exclusively for the End User Purpose and for no other purpose.
+
+3.2 The End User shall:
+
+a) ensure that the Supplied Data is not copied, adapted, varied or modified except to and only to the extent to which any of those acts are expressly permitted by this Licence;
+b) ensure that it does not use the Supplied Data for any Competing Activity;
+c) not use Supplied Data for any illegal, deceptive, misleading or unethical purpose or otherwise in any manner which may be detrimental to the reputation of Supplied Data or any person;
+d) use its best endeavours to use adequate technological and security measures Ordnance Survey or the Licensor may reasonably recommend from time to time, to ensure that all Supplied Data which the End User holds or is responsible for are secure from unauthorised use or access;
+e) notify the Licensor and/or Ordnance Survey as soon as it suspects any infringement of Ordnance Survey's IPR and give the Licensor and Ordnance Survey all reasonably required assistance in pursuing any potential infringement or remedying any unauthorised use; and
+f) not alter or remove any of the Ordnance Survey copyright / database right notices and licence numbers which are shown on the Supplied Data.
+
+3.3 This End User Licence does not give the End User the right to sub-license, distribute, sell or otherwise make available the Supplied Data to third parties save where expressly permitted in writing by the Licensor and Ordnance Survey.
+
+4. Termination
+4.1 Either party may terminate this End User Licence with immediate effect at any time by giving notice to the other party in writing. The End User acknowledges that the Licensor will terminate this End User Licence in the event that the Licensor's licence with Ordnance Survey is terminated or expires.
+4.2 In the event of termination or expiry of this End User Licence, the End User shall within 30 days of such termination or expiry destroy (or at Ordnance Survey's or the Licensor's option return) all the Supplied Data in any media which it holds or for which it is responsible (including any Supplied Data embedded in any other material) and provide, at Ordnance Survey's or the Licensor's request, a sworn statement by a duly authorised person that it no longer holds any Supplied Data.
+4.3 Those Clauses intended to survive termination or expiry (including, without limitation, Clauses 1, 3.2 d) and e), 4.2, 4.3, 5, 6, 8, 10, 11 and 12) shall continue in full force and effect notwithstanding such termination or expiry.
+5. Limitation
+
+5.1 Subject to Clause 5.2, nothing in this Licence shall make the Licensor liable in contract, tort (including without limitation negligence, pre-contractual or other representations) or otherwise arising out of or in connection with this Licence for:
+
+a) any economic losses (including without limitation loss of revenues, profits, contracts, business or anticipated savings);
+b) any loss of goodwill or reputation;
+c) any special, indirect or consequential losses in any case whether or not such losses were within the contemplation of the parties at the date of this Licence.
+5.2 Nothing in this Licence shall exclude or limit liability of a party for death or personal injury resulting from the negligence of that party or its servants, agents or employees or for fraudulent misrepresentation.
+5.3 The Licensor and Ordnance Survey exclude to the fullest extent permissible by law all express or implied warranties.
+5.4 Subject to Clause 5.2, the Licensor's total liability in this Licence in aggregate shall not exceed any sum paid by the End User for the Supplied Data.
+
+6. Indemnity
+6.1 The End User shall indemnify and keep indemnified the Licensor and/or Ordnance Survey against all their liabilities and losses and all demands, liabilities, claims made, or proceedings brought, against the Licensor and/or Ordnance Survey in respect of any loss or damage and against all costs and expenses reasonably incurred in dealing with or in settling such demands, liabilities, claims or proceedings arising from the acts, omissions or defaults of the End User relating to this Licence or from the breach of any provision of this Licence by the End User except to the extent that any such liability is directly attributable to any negligent act of the Licensor.
+6.2 The Licensor shall use reasonable endeavours to notify the End User as soon as practicable of any demand or claim made, or proceedings brought against the Licensor in respect of any relevant loss or damage.
+
+7. Variation
+7.1 The Licensor shall be entitled to vary this End User Licence with immediate effect by giving notice in writing to the End User.
+
+8. Auditing
+8.1 Upon Ordnance Survey's or the Licensor's written request, the End User shall provide written evidence of compliance with its obligations under this End User Licence.
+8.2 The End User shall maintain accurate and complete records of its use of the Supplied Data. Ordnance Survey and/or the Licensor (and their respective representatives) have the right on reasonable notice during business hours to enter the End User's premises and to inspect and audit its systems, operations and all supporting documentation to ensure the End User's compliance with this End User Licence and to take copies of any necessary records. The End User shall, at its expense, make appropriate employees and facilities available to provide Ordnance Survey and/or the Licensor with all reasonable assistance to enable such inspection, auditing and copying to take place.
+8.3 The End User will comply with reasonable measures stipulated by Ordnance Survey or the Licensor as a result of any audit.
+
+9. Assignment, subcontracting and sublicensing
+9.1 Except as agreed in writing by Ordnance Survey, neither party is entitled to assign, license, transfer or novate any of their rights and/or obligations under this End User Licence.
+
+10. Contracts (Rights of Third Parties) Act 1999
+10.1 Subject to Clause 10.2, a person who is not a party to this End User Licence has no right under the Contracts (Rights of Third Parties) Act 1999 to enforce or enjoy the benefit of any term of this End User Licence.
+10.2 Ordnance Survey shall be entitled to the benefit of the terms of this End User Licence and the rights to enforce such terms under the Contracts (Rights of Third Parties) Act 1999.
+
+11. Waiver
+11.1 The waiver on a particular occasion by either party of rights under this End User Licence does not imply that other rights will be waived. No delay in exercising any right under this End User Licence shall constitute a waiver of such right.
+
+12. Governing Law and Jurisdiction
+12.1 This End User Licence is governed by the law of England and Wales and both parties submit to the exclusive jurisdiction of the English courts.
+</textarea>
+				</div>
+				<div class="form-group">
+					<label for="Name">Name</label> *
+					<input class="form-control" data-val="true" data-val-required="Please enter a name" id="Name" name="Name" type="text" value="" />
+					<span class="field-validation-valid" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+				</div>
+				<div class="form-group">
+					<label for="EmailAddress">Email Address</label> *
+					<input class="form-control" data-val="true" data-val-email="The Email Address field is not a valid e-mail address." data-val-required="The Email Address field is required." id="EmailAddress" name="EmailAddress" type="text" value="" />
+					<span class="field-validation-valid" data-valmsg-for="EmailAddress" data-valmsg-replace="true"></span>
+				</div>
+				<div class="checkbox">
+					<label>
+						<input data-val="true" data-val-enforcetrue="Please agree to the terms and conditions" data-val-required="The OptIn field is required." id="OptIn" name="OptIn" type="checkbox" value="true" /><input name="OptIn" type="hidden" value="false" />
+						I accept the terms and conditions stated above *
+					</label><br/>
+					<span class="field-validation-valid" data-valmsg-for="OptIn" data-valmsg-replace="true"></span>
+					<span class="field-validation-valid" data-valmsg-for="GeneralError" data-valmsg-replace="true"></span>
+				</div>
+				<input type="submit" class="btn btn-primary" value="Download file" />
+			</fieldset>
+</form>	</div>
+</div>
+		<hr />
+		<footer>
+			<p>&copy; 2019 - <a href="http://www.rushmoor.gov.uk/" target="_blank">Rushmoor Borough Council</a></p>
+		</footer>
+	</div>
+
+	<script src="/bundles/jquery?v=poqCYcUTimfIrgGwDME0CQYOZCSVHlsJUqiOjg6fxtg1"></script>
+
+	<script src="/bundles/bootstrap?v=9G67ugWPOxmy1GyedmUlF4EJapkuJ4fmX570BkoPVXU1"></script>
+
+	
+	<script src="/bundles/validation?v=sTM6z75i3uDpVeh__Zai1IpnDnqY9pO-TNy0Ztaw6Y81"></script>
+
+
+<script type="text/javascript">
+	jQuery.validator.addMethod("enforcetrue", function (value, element, param) {
+		return element.checked;
+	});
+	jQuery.validator.unobtrusive.adapters.addBool("enforcetrue");
+</script>
+
+</body>
+</html>
