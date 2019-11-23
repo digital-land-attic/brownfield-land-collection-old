@@ -123,7 +123,7 @@ local-authority-eng:EPP,http://www.efdclocalplan.org/brownfield-land-register/,h
 local-authority-eng:EPS,,https://www.epsom-ewell.gov.uk/sites/default/files/documents/residents/planning/planning-policy/BrownfieldLandRegisterTemplate%20CSV.csv,,,,
 local-authority-eng:ERE,,https://erewash.gov.uk/media/EBC/web-files/planning/erewash_brownfieldlandregister_2017-12-05_rev1.csv,,,,
 local-authority-eng:ERY,,http://www2.eastriding.gov.uk/EasySiteWeb/GatewayLink.aspx?alId=679410,,,,
-local-authority-eng:ESK,,,,,,
+local-authority-eng:ESK,https://www.eastsuffolk.gov.uk/planning/brownfield-land-register/,https://www.eastsuffolk.gov.uk/assets/Planning/Brownfield-Land-Register/East-Suffolk-Brownfield-Land-Register.csv,,2019-11-01,,
 local-authority-eng:ESS,,,,,,
 local-authority-eng:EST,,http://www.eaststaffsbc.gov.uk/sites/default/files/docs/planning/planningpolicy/brownfield/ESBC_Brownfield-Register.csv,,,,
 local-authority-eng:ESX,,,,,,
