@@ -16,7 +16,7 @@ collect:	$(DATASET_FILES)
 	python3 bin/collector.py $(DATASET_NAMES)
 
 collection/index.json: bin/index.py $(DATASET_FILES) $(LOG_FILES)
-	python3 bin/index.py
+	python3 bin/index.py $(DATASET_NAMES)
 
 black:
 	black .
