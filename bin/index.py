@@ -48,7 +48,7 @@ def load(dataset):
 
 def add(date, key, h):
     if not h.get("url", ""):
-        return
+        logging.error("no url for %s/%s" % (date, key))
 
     # check key in log filename matches url
     _key = hashlib.sha256(h["url"].encode("utf-8")).hexdigest()
