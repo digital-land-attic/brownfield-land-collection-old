@@ -1,4 +1,4 @@
 black==19.3b0
 canonicaljson==1.1.4
 requests==2.22.0
-jupyter==1.0.0
+validators==0.14.0

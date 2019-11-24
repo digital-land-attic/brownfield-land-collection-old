@@ -8,6 +8,7 @@ from sys import argv
 import re
 import glob
 from datetime import datetime
+import validators
 import logging
 import hashlib
 import csv
@@ -29,6 +30,21 @@ def parse_resource_path(path):
     return m.groups()[0]
 
 
+def valid_url(n, url):
+    if url != "" and not validators.url(url):
+        logging.error("line %d: invalid url %s" % (n, url))
+
+
+def valid_date(n, date):
+    if date != "" and date != datetime.strptime(date, "%Y-%m-%d").strftime("%Y-%m-%d"):
+        logging.error("line %d: invalid date %s" % (n, date))
+
+
+def valid_data_gov_uk(n, s):
+    if s != "" and not re.match(r"^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$", s):
+        logging.error("line %d: invalid data.gov.uk id %s" % (n, s))
+
+
 def save(path, data):
     logging.info(path)
     os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -37,7 +53,15 @@ def save(path, data):
 
 
 def load(dataset):
+    n = 1
     for row in csv.DictReader(open(os.path.join(dataset_dir, dataset + ".csv"))):
+        n += 1
+        valid_url(n, row["documentation-url"])
+        valid_url(n, row["resource-url"])
+        valid_data_gov_uk(n, row["data-gov-uk"])
+        valid_date(n, row["start-date"])
+        valid_date(n, row["end-date"])
+
         key = hashlib.sha256(row["resource-url"].encode("utf-8")).hexdigest()
         idx.setdefault(key, {"url": row.get("resource-url", ""), "log": {}, "organisation": {}})
         idx[key]["organisation"].setdefault(row["organisation"], {})
