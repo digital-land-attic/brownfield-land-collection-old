@@ -16,12 +16,17 @@ import canonicaljson
 
 dataset_dir = "dataset/"
 idx = {}
-errors = 0
+resources = {}
 
 
-def parse_path(path):
+def parse_log_path(path):
     m = re.match(r"^.*\/([-\d]+)\/(\w+).json", path)
     return m.groups()
+
+
+def parse_resource_path(path):
+    m = re.match(r"^.*\/(\w+)$", path)
+    return m.groups()[0]
 
 
 def save(path, data):
@@ -45,6 +50,12 @@ def add(date, key, h):
     if not h.get("url", ""):
         return
 
+    # check key in log filename matches url
+    _key = hashlib.sha256(h["url"].encode("utf-8")).hexdigest()
+    if key != _key:
+        logging.warning("incorrect key %s/%s for %s %s" % (date, key, _key, h["url"]))
+        key = _key
+
     e = {}
     for field in ["status", "exception", "datetime", "elapsed", "resource"]:
         if field in h and h[field]:
@@ -55,9 +66,16 @@ def add(date, key, h):
             if field in h["response-headers"]:
                 e[field] = h["response-headers"][field]
 
+    if "resource" in e:
+        resources.setdefault(e["resource"], True)
+
     if key not in idx:
         logging.error("missing entry for: %s %s %s" % (date, key, h["url"]))
         idx.setdefault(key, {"url": h["url"], "log": {}})
+
+    # avoid date collisions with a valid key
+    while date in idx[key]["log"]:
+        date += "⚠"
 
     idx[key]["log"][date] = e
 
@@ -67,12 +85,27 @@ if __name__ == "__main__":
         level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
     )
 
+    # load datasets
     for dataset in argv[1:]:
         load(dataset)
 
+    # process log files
     for path in glob.glob("collection/log/*/*.json"):
-        (date, key) = parse_path(path)
+        (date, key) = parse_log_path(path)
         h = json.load(open(path))
         add(date, key, h)
+
+    # check resource files are in the log
+    for path in glob.glob("collection/resource/*"):
+        resource = parse_resource_path(path)
+        if resource in resources:
+            resources[resource] = False
+        else:
+            logging.error("no log for resource: %s" % (resource))
+
+    # check resources in the log exist as files
+    for resource in resources:
+        if resources[resource]:
+            logging.error("missing resource: %s" % (resource))
 
     save("collection/index.json", canonicaljson.encode_canonical_json(idx))
