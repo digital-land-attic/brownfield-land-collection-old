@@ -72,15 +72,15 @@ def load(dataset):
                 idx[key]["organisation"][row["organisation"]][field] = row[field]
 
 
-def add(date, key, h):
+def add(path, date, key, h):
     if not h.get("url", ""):
         logging.error("no url for %s/%s" % (date, key))
 
     # check key in log filename matches url
     _key = hashlib.sha256(h["url"].encode("utf-8")).hexdigest()
     if key != _key:
-        logging.warning("incorrect key in %s%s/%s for %s expected %s" % (log_dir, date, key, h["url"], _key))
-        key = _key
+        logging.warning("incorrect key for %s expected %s in %s" % (h["url"], _key, path))
+        key, _key = _key, key
 
     e = {}
     for field in ["status", "exception", "datetime", "elapsed", "resource"]:
@@ -96,7 +96,7 @@ def add(date, key, h):
         resources.setdefault(e["resource"], True)
 
     if key not in idx:
-        logging.error("no dataset entry for: %s %s cited in %s%s/%s.json" % (h["url"], key, log_dir, date, _key))
+        logging.error("no dataset entry for: %s %s cited in path" % (h["url"], key, path))
         idx.setdefault(key, {"url": h["url"], "log": {}})
 
     # avoid date collisions with a valid key
@@ -119,7 +119,7 @@ if __name__ == "__main__":
     for path in glob.glob("%s*/*.json" % (log_dir)):
         (date, key) = parse_log_path(path)
         h = json.load(open(path))
-        add(date, key, h)
+        add(path, date, key, h)
 
     # check resource files are in the log
     for path in glob.glob("%s*" % (resource_dir)):
@@ -127,7 +127,7 @@ if __name__ == "__main__":
         if resource in resources:
             resources[resource] = False
         else:
-            logging.error("no log for resource: %s" % (resource))
+            logging.error("no log for path" % (path))
 
     # check resources in the log exist as files
     for resource in resources:
