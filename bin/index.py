@@ -96,7 +96,7 @@ def add(path, date, key, h):
         resources.setdefault(e["resource"], True)
 
     if key not in idx:
-        logging.error("no dataset entry for: %s %s cited in path" % (h["url"], key, path))
+        logging.error("no dataset entry for: %s %s cited in %s" % (h["url"], key, path))
         idx.setdefault(key, {"url": h["url"], "log": {}})
 
     # avoid date collisions with a valid key
