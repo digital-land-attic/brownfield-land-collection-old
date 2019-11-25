@@ -1,5 +1,6 @@
 organisation,documentation-url,resource-url,data-gov-uk,start-date,end-date,esd-dataset
 development-corporation:Q20648596,,https://www.london.gov.uk/sites/default/files/oldoakandparkroyaldevelopmentcorporation_brownfieldregister_2017-12-31_rev1.csv,,,,
+development-corporation:Q6670544,https://www.queenelizabetholympicpark.co.uk/planning-authority/planning-policy/brownfield-land-register,http://www.queenelizabetholympicpark.co.uk/-/media/lldc/planning/brownfield-register/lldc-brownfield-register-csv-web-version.ashx?la=en,,,,
 development-corporation:Q6670544,https://www.queenelizabetholympicpark.co.uk/planning-authority/planning-policy/brownfield-land-register,https://www.queenelizabetholympicpark.co.uk/-/media/lldc/planning/brownfield-register/lldc-brownfield-register-csv-web-version.ashx?la=en,,,,
 local-authority-eng:ADU,https://www.adur-worthing.gov.uk/planning-policy/joint-aw/brownfield-land-register/,"https://www.adur-worthing.gov.uk/media/media,146509,en.xlsx",,,,
 local-authority-eng:ALL,https://www.allerdale.gov.uk/en/planning-building-control/planning-policy/brownfield-register/,https://df4iy9syor5px.cloudfront.net/media/filer_public/e2/4f/e24f8151-3b1c-421d-9909-0a6f29bfe831/allerdale_brownfieldregister_2017-12-20_1.csv,36bcc3d7-9972-4964-8afc-7d1e67229995,,,
@@ -33,7 +34,8 @@ local-authority-eng:BNE,,https://files.datapress.com/barnet/dataset/brownfield-l
 local-authority-eng:BNE,https://open.barnet.gov.uk/dataset/brownfield-land-register,https://open.barnet.gov.uk/download/brownfield-land-register/d449098a-44b8-47cb-96ab-45465b0a11e4/Brownfield%20Land%20Register%20-%20Barnet%202018.csv,466d6c5d-1dbc-4192-b4c8-a5902336a4b2,2019-02-26,,
 local-authority-eng:BNH,,https://www.brighton-hove.gov.uk/sites/brighton-hove.gov.uk/files/Brighton%26Hove_City_Council_Brownfield_Land_Register_1912017_Post%20Consult_0.csv,,,,
 local-authority-eng:BNS,,https://www.barnsley.gov.uk/media/7342/brownfield-register-2017-08-11.csv,,,,
-local-authority-eng:BOL,,https://www.bolton.gov.uk/downloads/file/1400/brownfield-land-register-december-2017,,,,
+local-authority-eng:BOL,https://www.bolton.gov.uk/planning-policy-strategy/brownfield-register,http://www.bolton.gov.uk/sites/DocumentCentre/Documents/bolton_brownfieldregister_2017-12-19_rev1.csv.csv,f028605b-2c33-4ac1-a52a-a44b3cadd686,,2019-11-25,
+local-authority-eng:BOL,https://www.bolton.gov.uk/planning-policy-strategy/brownfield-register,https://www.bolton.gov.uk/downloads/file/1400/brownfield-land-register-december-2017,,,,
 local-authority-eng:BOS,,http://www.bolsover.gov.uk/images/LIVE/B/bolsover_brownfield_register_2017_10_31.csv,,,,
 local-authority-eng:BOT,,http://www.boston.gov.uk/CHttpHandler.ashx?id=22192&p=0,,,2019-11-24,
 local-authority-eng:BOT,https://www.mybostonuk.com/development-management/brownfield-land-register/?highlight=brownfield,http://www.mybostonuk.com/wp-content/uploads/2019/04/Brownfield-Land-Register.csv,,2019-04-01,,
