@@ -16,6 +16,8 @@ import json
 import canonicaljson
 
 dataset_dir = "dataset/"
+log_dir = "collection/log/"
+resource_dir = "collection/resource/"
 idx = {}
 resources = {}
 
@@ -77,7 +79,7 @@ def add(date, key, h):
     # check key in log filename matches url
     _key = hashlib.sha256(h["url"].encode("utf-8")).hexdigest()
     if key != _key:
-        logging.warning("incorrect key %s/%s for %s %s" % (date, key, _key, h["url"]))
+        logging.warning("incorrect key in %s%s/%s for %s expected %s" % (log_dir, date, key, h["url"], _key))
         key = _key
 
     e = {}
@@ -94,7 +96,7 @@ def add(date, key, h):
         resources.setdefault(e["resource"], True)
 
     if key not in idx:
-        logging.error("missing entry for: %s %s %s" % (date, key, h["url"]))
+        logging.error("no dataset entry for: %s %s cited in %s%s/%s.json" % (h["url"], key, log_dir, date, _key))
         idx.setdefault(key, {"url": h["url"], "log": {}})
 
     # avoid date collisions with a valid key
@@ -114,13 +116,13 @@ if __name__ == "__main__":
         load(dataset)
 
     # process log files
-    for path in glob.glob("collection/log/*/*.json"):
+    for path in glob.glob("%s*/*.json" % (log_dir)):
         (date, key) = parse_log_path(path)
         h = json.load(open(path))
         add(date, key, h)
 
     # check resource files are in the log
-    for path in glob.glob("collection/resource/*"):
+    for path in glob.glob("%s*" % (resource_dir)):
         resource = parse_resource_path(path)
         if resource in resources:
             resources[resource] = False
