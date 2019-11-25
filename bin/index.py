@@ -55,6 +55,17 @@ def save(path, data):
 
 
 def load(dataset):
+    n = 0
+    ncols = 0
+    for row in csv.reader(open(os.path.join(dataset_dir, dataset + ".csv"))):
+        if not n:
+            ncols = len(row)
+            n = 1
+        else:
+            n += 1
+            if ncols != len(row):
+                logging.error("line %d: %d columns instead of %d" % (n, len(row), ncols))
+
     n = 1
     for row in csv.DictReader(open(os.path.join(dataset_dir, dataset + ".csv"))):
         n += 1
