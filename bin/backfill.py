@@ -15,7 +15,6 @@ headers_dir = "collection/log/"
 resource_dir = "collection/resource/"
 
 
-
 def save(path, data):
     logging.info(path)
     os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -25,7 +24,7 @@ def save(path, data):
 
 def addone(path, url):
     headers = {
-        #"datetime": datetime.utcnow().isoformat(),
+        # "datetime": datetime.utcnow().isoformat(),
         "datetime": datetime.fromtimestamp(os.path.getmtime(path)).isoformat(),
         "url": url,
     }
@@ -53,12 +52,21 @@ if __name__ == "__main__":
 
     # brownfield-site-publication^Iorganisation^Idocumentation-url^Idata-url^Idata-gov-uk^Istart-date^Iend-date$
 
-    for row in csv.DictReader(open("/home/psd/src/communitiesuk/digital-land-collector/etc/brownfield-site-publication.tsv"), delimiter="\t"):
+    for row in csv.DictReader(
+        open(
+            "/home/psd/src/communitiesuk/digital-land-collector/etc/brownfield-site-publication.tsv"
+        ),
+        delimiter="\t",
+    ):
         path = row["organisation"]
         path = path.replace("local-authority-eng:", "")
         path = path.replace("development-corporation:", "dc")
         path = path.replace("national-park:", "np")
-        path = "/home/psd/src/communitiesuk/digital-land-collector/var/cache/brownfield-sites-" + path + row["suffix"]
+        path = (
+            "/home/psd/src/communitiesuk/digital-land-collector/var/cache/brownfield-sites-"
+            + path
+            + row["suffix"]
+        )
         url = row["data-url"]
         if os.path.isfile(path):
             addone(path, url)

@@ -43,7 +43,9 @@ def valid_date(n, date):
 
 
 def valid_data_gov_uk(n, s):
-    if s != "" and not re.match(r"^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$", s):
+    if s != "" and not re.match(
+        r"^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$", s
+    ):
         logging.error("line %d: invalid data.gov.uk id %s" % (n, s))
 
 
@@ -64,7 +66,9 @@ def load(dataset):
         else:
             n += 1
             if ncols != len(row):
-                logging.error("line %d: %d columns instead of %d" % (n, len(row), ncols))
+                logging.error(
+                    "line %d: %d columns instead of %d" % (n, len(row), ncols)
+                )
 
     n = 1
     for row in csv.DictReader(open(os.path.join(dataset_dir, dataset + ".csv"))):
@@ -76,9 +80,17 @@ def load(dataset):
         valid_date(n, row["end-date"])
 
         key = hashlib.sha256(row["resource-url"].encode("utf-8")).hexdigest()
-        idx.setdefault(key, {"url": row.get("resource-url", ""), "log": {}, "organisation": {}})
+        idx.setdefault(
+            key, {"url": row.get("resource-url", ""), "log": {}, "organisation": {}}
+        )
         idx[key]["organisation"].setdefault(row["organisation"], {})
-        for field in ["documentation-url", "data-gov-uk", "start-date", "end-date", "esd-dataset"]:
+        for field in [
+            "documentation-url",
+            "data-gov-uk",
+            "start-date",
+            "end-date",
+            "esd-dataset",
+        ]:
             if row[field]:
                 idx[key]["organisation"][row["organisation"]][field] = row[field]
 
@@ -90,7 +102,9 @@ def add(path, date, key, h):
     # check key in log filename matches url
     _key = hashlib.sha256(h["url"].encode("utf-8")).hexdigest()
     if key != _key:
-        logging.warning("incorrect key for %s expected %s in %s" % (h["url"], _key, path))
+        logging.warning(
+            "incorrect key for %s expected %s in %s" % (h["url"], _key, path)
+        )
         key, _key = _key, key
 
     e = {}
