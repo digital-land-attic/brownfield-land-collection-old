@@ -85,7 +85,7 @@ def load(dataset):
 
 def add(path, date, key, h):
     if not h.get("url", ""):
-        logging.error("no url for %s/%s" % (date, key))
+        logging.error("no url in %s" % (path))
 
     # check key in log filename matches url
     _key = hashlib.sha256(h["url"].encode("utf-8")).hexdigest()
@@ -138,7 +138,7 @@ if __name__ == "__main__":
         if resource in resources:
             resources[resource] = False
         else:
-            logging.error("no log for path" % (path))
+            logging.error("no log for %s" % (path))
 
     # check resources in the log exist as files
     for resource in resources:
