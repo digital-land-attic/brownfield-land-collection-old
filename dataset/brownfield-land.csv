@@ -308,6 +308,7 @@ local-authority-eng:RYE,https://www.ryedale.gov.uk/planning/brownfield-land-regi
 local-authority-eng:SAL,,https://www.stalbans.gov.uk/Images/SP_CSV_st-albans_brownfieldregister_2017-12-31_rev1_tcm15-62593.csv,,,,
 local-authority-eng:SAW,,http://www.sandwell.gov.uk/download/downloads/id/24171/sandwell_brownfield_register_csv.csv,,,,
 local-authority-eng:SBU,,http://www.southbucks.gov.uk/media/11736/SB-Brownfield-Register-Part-1/CSV/SB_Brownfield_Register_-_Part_1.csv,,,,
+local-authority-eng:SCA,,http://opendata.cambridgeshireinsight.org.uk/files/ci_opendata/South%20Cambridgeshire%20Brownfield%20Register%202017.csv,,,2019-11-25,
 local-authority-eng:SCA,,https://data.cambridgeshireinsight.org.uk/sites/default/files/South%20Cambridgeshire%20Brownfield%20Register%202017.csv,,,,
 local-authority-eng:SCE,,https://www.scarborough.gov.uk/sites/scarborough.gov.uk/files/files/scarborough_brownfieldregister_2017-12-18_rev1.csv,,,,
 local-authority-eng:SCR,,,,,,
