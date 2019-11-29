@@ -37,6 +37,7 @@ local-authority-eng:BIR,,https://www.birmingham.gov.uk/download/downloads/id/903
 local-authority-eng:BLA,,http://www.blaby.gov.uk/EasySiteWeb/GatewayLink.aspx?alId=14453,,,2019-10-21,
 local-authority-eng:BLA,https://www.blaby.gov.uk/planning-and-building/guidance-and-policies/brownfield-land-register/,https://www.blaby.gov.uk/media/1757/brownfield-land.csv,,2019-10-30,,
 local-authority-eng:BMH,,https://www.bournemouth.gov.uk/planningbuilding/PlanningPolicy/PlanningPolicyFiles/brownfieldlandregister/bournemouth-brownfieldregister-2017-12-31-rev1.csv.csv,,,2019-03-31,
+local-authority-eng:BMH,https://www.bournemouth.gov.uk/planningbuilding/PlanningPolicy/Other-Planning-Documents/brownfield-land-register.aspx,https://www.bournemouth.gov.uk/planningbuilding/PlanningPolicy/PlanningPolicyFiles/brownfieldlandregister/2018Register.csv,355d7f7b-9c83-47c6-8c3d-d3e286b78627,2019-01-07,,
 local-authority-eng:BNE,,https://files.datapress.com/barnet/dataset/brownfield-land-register/2017-12-19T09:58:04.45/Brownfield%20Land%20Register%20-%20Barnet.csv,,,2019-02-26,
 local-authority-eng:BNE,https://open.barnet.gov.uk/dataset/brownfield-land-register,https://open.barnet.gov.uk/download/brownfield-land-register/d449098a-44b8-47cb-96ab-45465b0a11e4/Brownfield%20Land%20Register%20-%20Barnet%202018.csv,466d6c5d-1dbc-4192-b4c8-a5902336a4b2,2019-02-26,,
 local-authority-eng:BNH,,https://www.brighton-hove.gov.uk/sites/brighton-hove.gov.uk/files/Brighton%26Hove_City_Council_Brownfield_Land_Register_1912017_Post%20Consult_0.csv,,,,
