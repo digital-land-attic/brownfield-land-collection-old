@@ -201,7 +201,7 @@ local-authority-eng:HIL,https://archive.hillingdon.gov.uk/article/33204/Brownfie
 local-authority-eng:HIN,,https://www.hinckley-bosworth.gov.uk/download/downloads/id/5936/brownfield_register_2017.csv,,,,
 local-authority-eng:HMF,,http://files.datapress.com/london/dataset/brownfield-land-register/2017-12-21T14:21:59.58/London_Brownfield_Land_Register_20171221_.csv,,,2019-02-10,
 local-authority-eng:HMF,https://www.lbhf.gov.uk/planning/planning-policy/brownfield-register,https://data.london.gov.uk/download/brownfield-land-register/dd05e60b-e922-4ca6-8e29-784d694e5a39/London%20Brownfield%20Register.csv,,2019-02-10,,
-local-authority-eng:HNS,http://data.hounslow.gov.uk/Download/planning/brownfield-land,http://data.hounslow.gov.uk/download/planning/brownfield-land/brownfield-register-2017-12-22/CSV?version=16/07/2018,1d30c576-a0f1-422c-adcd-be757fade46b,,,
+local-authority-eng:HNS,http://data.hounslow.gov.uk/Download/planning/brownfield-land,http://data.hounslow.gov.uk/download/planning/brownfield-land/brownfield-register-2017-12-22/CSV?version=16/07/2018,1d30c576-a0f1-422c-adcd-be757fade46b,,2019-10-20,
 local-authority-eng:HOR,https://www.horsham.gov.uk/planningpolicy/planning-policy/housing-land-availability/brownfield-land-register,https://www.horsham.gov.uk/__data/assets/excel_doc/0006/49434/horsham_brownfieldregister_2017-12-31_rev1a.xlsx,,,,
 local-authority-eng:HPL,,https://www.hartlepool.gov.uk/download/downloads/id/3889/brownfield_land_register_-_part_1.xlsm,,,,
 local-authority-eng:HRW,,http://www.harrow.gov.uk/download/downloads/id/10631/harrow_s_brownfield_land_register,,,,
