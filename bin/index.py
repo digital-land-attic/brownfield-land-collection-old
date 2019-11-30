@@ -20,6 +20,7 @@ log_dir = "collection/log/"
 resource_dir = "collection/resource/"
 idx = {}
 resources = {}
+prune = False
 
 
 def parse_log_path(path):
@@ -127,6 +128,12 @@ def add(path, date, key, h):
     # avoid date collisions with a valid key
     while date in idx[key]["log"]:
         date += "⚠"
+
+    if prune:
+        for organisation in idx[key]["organisation"]:
+            end_date = idx[key]["organisation"][organisation].get("end-date", None)
+            if end_date and datetime.strptime(end_date, "%Y-%m-%d") < datetime.strptime(date, "%Y-%m-%d"):
+                logging.warning("collection after %s end-date %s for %s: %s" % (organisation, end_date, h["url"], path))
 
     idx[key]["log"][date] = e
 
