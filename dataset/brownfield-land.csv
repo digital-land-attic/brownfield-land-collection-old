@@ -166,7 +166,7 @@ local-authority-eng:FAR,,http://www.fareham.gov.uk/PDF/planning/Brownfield/FBC_B
 local-authority-eng:FEN,,http://www.fenland.gov.uk/CHttpHandler.ashx?id=14426&p=0,,,,
 local-authority-eng:FOE,,http://www.fdean.gov.uk/media/5465/dclg-brownfield-land-register.csv,,,,
 local-authority-eng:FOR,,https://www.westsuffolk.gov.uk/planning/Planning_Policies/upload/2017-12-13-Brownfield-land-register-csv-2.csv,,,2019-03-31,
-local-authority-eng:FYL,http://www.fylde.gov.uk/council/planning-policy--local-plan-/local-development-framework/brownfield-register/,,,,,
+local-authority-eng:FYL,http://www.fylde.gov.uk/council/planning-policy--local-plan-/local-development-framework/brownfield-register/,https://new.fylde.gov.uk/wp-content/uploads/2019/06/Fylde-Council-Brownfield-Land-Register.pdf,,2019-06-01,,
 local-authority-eng:GAT,https://www.gateshead.gov.uk/article/3017/Brownfield-Register-December-2017,https://www.gateshead.gov.uk/media/6902/Gateshead-brownfield-register/excel/gateshead-brownfieldregister-2017-12-21-rev1.csv.csv,,,,
 local-authority-eng:GED,https://www.gedling.gov.uk/shlaa/,https://www.gedling.gov.uk/media/gedlingboroughcouncil/documents/planningpolicy/brownfieldregister/gedling_brownfieldregister_2017-08-31_rev1.csv,,2017-08-31,2018-08-31,
 local-authority-eng:GED,https://www.gedling.gov.uk/shlaa/,https://www.gedling.gov.uk/media/gedlingboroughcouncil/documents/planningpolicy/brownfieldregister/gedling_brownfieldregister_2018-08-31_rev1.csv,1d30c576-a0f1-422c-adcd-be757fade46b,2018-08-31,,
