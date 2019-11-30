@@ -8,14 +8,14 @@ DATASET_FILES=dataset/brownfield-land.csv
 LOG_FILES=$(wildcard collection/log/*/*.json)
 LOG_FILES_TODAY=collection/log/$(shell date +%Y-%m-%d)/
 
-all: collect collection
+all: collection
 
 collection: collection/index.json
 
 collect:	$(DATASET_FILES)
 	python3 bin/collector.py $(DATASET_NAMES)
 
-collection/index.json: bin/index.py $(DATASET_FILES) $(LOG_FILES)
+collection/index.json: bin/index.py $(DATASET_FILES) collect
 	python3 bin/index.py $(DATASET_NAMES)
 
 black:
