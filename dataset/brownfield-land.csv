@@ -530,6 +530,8 @@ local-authority-eng:WYO,https://www.wycombe.gov.uk/pages/Planning-and-building-c
 local-authority-eng:WYR,,http://www.wyre.gov.uk/download/downloads/id/4390/wyre_council_brownfield_register_dec_2017.csv,,,2019-11-24,
 local-authority-eng:WYR,https://www.wyre.gov.uk/info/200317/planning_policy/1194/brownfield_land_register,http://www.wyre.gov.uk/download/downloads/id/5527/wyre_council_brownfield_register_september_2018.csv,,2018-09-01,,
 local-authority-eng:YOR,,https://opendata.arcgis.com/datasets/24e275a6e4c44085a793366713c3a1de_21.csv,,,,
+local-authority-eng:YOR,https://www.york.gov.uk/BrownfieldRegister,https://data.yorkopendata.org/dataset/7b937604-a03f-406b-a50c-e0ae1e260d1e/resource/ef3f6ef0-b73e-4b09-abe7-ba3a7128e9cd/download/brownfieldregister2017.csv,7b937604-a03f-406b-a50c-e0ae1e260d1e,2018-12-20,,
+local-authority-eng:YOR,https://www.york.gov.uk/BrownfieldRegister,https://data.yorkopendata.org/dataset/7b937604-a03f-406b-a50c-e0ae1e260d1e/resource/b26e47d1-aff4-4ddd-9b7d-9b94be9d689d/download/brownfieldregister2018.csv,7b937604-a03f-406b-a50c-e0ae1e260d1e,2017-12-22,,
 national-park:Q27159704,,http://www.lakedistrict.gov.uk/planning/planningpolicies/brownfield-land-register2/ldnpa_brownfieldregister_2017-12-14_rev1.csv,,,,
 national-park:Q27178932,,http://www.yorkshiredales.org.uk/__data/assets/file/0011/1059941/YorkshireDalesNationalParkE26000008_brownfield-register_2017-11-13_rev1.csv,,,2019-10-20,
 national-park:Q27178932,https://www.yorkshiredales.org.uk/about/living-and-working/planning-policy/local-planning-policy-pre-boundary-extension/delivering-new-homes/brownfield-land-register/,https://www.yorkshiredales.org.uk/wp-content/uploads/sites/13/2019/06/DCLG-version-for-website-May-2019.xlsx,,,,
