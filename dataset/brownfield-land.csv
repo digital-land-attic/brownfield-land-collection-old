@@ -344,7 +344,7 @@ local-authority-eng:RUH,https://www.rushmoor.gov.uk/article/10524/Brownfield-lan
 local-authority-eng:RUN,,https://www.runnymede.gov.uk/media/17783/Runnymede-Brownfield-Register/csv/runnymede_brownfieldregister_2018-02-02_rev11.csv,,,,
 local-authority-eng:RUS,https://www.rushcliffe.gov.uk/planningpolicy/brownfieldregister/,http://www.rushcliffe.gov.uk/media/1rushcliffe/media/documents/excel/planningandbuilding/planningpolicy/rushcliffe_brownfieldregister_2017_12_19_rev1.csv,3e7100b4-d0eb-408f-9f74-340fe587c39a,2017-12-19,2019-10-20,
 local-authority-eng:RUS,https://www.rushcliffe.gov.uk/planningpolicy/brownfieldregister/,https://www.rushcliffe.gov.uk/media/1rushcliffe/media/documents/excel/planningandbuilding/planningpolicy/rushcliffe_brownfieldregister_2018_12_19_rev1.csv,,,,
-local-authority-eng:RUT,,https://www.rutland.gov.uk/_resources/assets/attachment/full/0/55748.xlsm,,,,
+local-authority-eng:RUT,https://www.rutland.gov.uk/my-services/planning-and-building-control/planning/brownfield-land-register/,https://www.rutland.gov.uk/_resources/assets/attachment/full/0/55748.xlsm,,,,
 local-authority-eng:RYE,https://www.ryedale.gov.uk/planning/brownfield-land-register.html,https://www.ryedale.gov.uk/attachments/category/1818/ryedale_brownfieldregister_2017-12-22_rev2.csv,,,,
 local-authority-eng:SAL,,https://www.stalbans.gov.uk/Images/SP_CSV_st-albans_brownfieldregister_2017-12-31_rev1_tcm15-62593.csv,,,,
 local-authority-eng:SAW,,http://www.sandwell.gov.uk/download/downloads/id/24171/sandwell_brownfield_register_csv.csv,,,,
