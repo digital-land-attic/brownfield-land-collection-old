@@ -1,5 +1,6 @@
 organisation,documentation-url,resource-url,data-gov-uk,start-date,end-date,esd-dataset
 development-corporation:Q20648596,,https://www.london.gov.uk/sites/default/files/oldoakandparkroyaldevelopmentcorporation_brownfieldregister_2017-12-31_rev1.csv,,,,
+development-corporation:Q20648596,https://www.london.gov.uk/about-us/organisations-we-work/old-oak-and-park-royal-development-corporation-opdc/opdc-planning/planning-policy-0/brownfield-land-register,https://www.london.gov.uk/sites/default/files/opdc_brownfieldlandregister_jan2018.csv,,,,
 development-corporation:Q6670544,https://www.queenelizabetholympicpark.co.uk/planning-authority/planning-policy/brownfield-land-register,http://www.queenelizabetholympicpark.co.uk/-/media/lldc/planning/brownfield-register/lldc-brownfield-register-csv-web-version.ashx?la=en,,,,
 development-corporation:Q6670544,https://www.queenelizabetholympicpark.co.uk/planning-authority/planning-policy/brownfield-land-register,https://www.queenelizabetholympicpark.co.uk/-/media/lldc/planning/brownfield-register/lldc-brownfield-register-csv-web-version.ashx?la=en,,,,
 local-authority-eng:ADU,https://www.adur-worthing.gov.uk/planning-policy/joint-aw/brownfield-land-register/,"https://www.adur-worthing.gov.uk/media/media,146509,en.xlsx",,,,
