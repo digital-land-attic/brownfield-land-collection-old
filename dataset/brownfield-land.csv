@@ -357,7 +357,7 @@ local-authority-eng:SCA,,https://data.cambridgeshireinsight.org.uk/sites/default
 local-authority-eng:SCE,,https://www.scarborough.gov.uk/sites/scarborough.gov.uk/files/files/scarborough_brownfieldregister_2017-12-18_rev1.csv,,,,
 local-authority-eng:SDE,,http://www.south-derbys.gov.uk/assets/attach/3720/South-Derbyshire_brownfieldregister_2017-12-31_rev1.excel.csv,ffb8ffe1-e4a0-4869-99fa-478807bdeef8,2017-12-31,2019-10-20,
 local-authority-eng:SDE,https://www.southderbyshire.gov.uk/our-services/planning-and-building-control/planning/planning-policy/monitoring,https://www.southderbyshire.gov.uk/assets/attach/5256/Brownfield%20register%202018.csv,,,,
-local-authority-eng:SED,,https://www.westsuffolk.gov.uk/planning/Planning_Policies/upload/2017-12-13-Brownfield-land-register-csv-2.csv,,,2019-03-31,
+local-authority-eng:SED,https://www.westsuffolk.gov.uk/planning/Planning_Policies/brownfield-register.cfm,https://www.westsuffolk.gov.uk/planning/Planning_Policies/upload/2017-12-13-Brownfield-land-register-csv-2.csv,,,,
 local-authority-eng:SEG,,http://www.sedgemoor.gov.uk/media/2337/sedgemoor-brownfieldregister-2017-11-27-rev1-csv/csv/sedgemoor_brownfieldregister_2017-11-27_rev1,,,,
 local-authority-eng:SEL,,http://www.selby.gov.uk/sites/default/files/Selby_Brownfield_Register_Final_V2_0.xlsx,,,,
 local-authority-eng:SEV,,https://www.sevenoaks.gov.uk/download/downloads/id/1042/brownfield_land_register_-_december_2017.xlsx,,,,
