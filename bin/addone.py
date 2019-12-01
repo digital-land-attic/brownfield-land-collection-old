@@ -21,14 +21,14 @@ def save(path, data):
         f.write(data)
 
 
-def addone(dataset, organisation, path):
+def addone(path, url):
     headers = {
-        "dataset": dataset,
-        "organisation": organisation,
         "datetime": datetime.utcnow().isoformat(),
+        # "datetime": datetime.fromtimestamp(os.path.getmtime(path)).isoformat(),
+        "url": url,
     }
 
-    headers_key = hashlib.sha256(path.encode("utf-8")).hexdigest()
+    headers_key = hashlib.sha256(url.encode("utf-8")).hexdigest()
     headers_path = os.path.join(
         headers_dir, headers["datetime"][:10], headers_key + ".json"
     )
@@ -48,4 +48,4 @@ if __name__ == "__main__":
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
     )
-    addone(argv[1], argv[2], argv[3])
+    addone(argv[1], argv[2])
