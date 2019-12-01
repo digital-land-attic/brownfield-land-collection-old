@@ -387,6 +387,7 @@ local-authority-eng:SOL,http://www.solihull.gov.uk/blr,http://www.solihull.gov.u
 local-authority-eng:SOL,https://www.solihull.gov.uk/blr,https://www.solihull.gov.uk/Portals/0/Planning/BLR/Brownfield-Land-Register.csv,,,,
 local-authority-eng:SOS,,http://www.southend.gov.uk/download/downloads/id/5346/southend_brownfield_register_2017-03-31_rev1.csv,,,,
 local-authority-eng:SOX,http://www.southoxon.gov.uk/services-and-advice/planning-and-building/planning-policy/brownfield-land-register,http://www.southoxon.gov.uk/sites/default/files/2017.11.17_SODC_Brownfield%20Land%20Register.xlsm,,,,
+local-authority-eng:SOX,http://www.southoxon.gov.uk/services-and-advice/planning-and-building/planning-policy/brownfield-land-register,http://www.southoxon.gov.uk/sites/default/files/2018_12_21%20Brownfield%20Register_South%20Oxfordshire.csv,abbf9f0b-9816-4eea-bb55-76f70eba03fc,,,
 local-authority-eng:SPE,,https://www.spelthorne.gov.uk/media/17582/Spelthornes-Part-1-Brownfield-Land-Register-2017/csv/BrownfieldLandRegisterTemplate.csv,,,,
 local-authority-eng:SRI,https://www.southribble.gov.uk/content/housing-land-availability,https://www.southribble.gov.uk/sites/default/files/South%20Ribble%20Brownfield%20Register%20-%20June%202016.csv,,2016-06-01,,
 local-authority-eng:SRI,https://www.southribble.gov.uk/content/housing-land-availability,https://www.southribble.gov.uk/sites/default/files/southribble_brownfieldregister_2017-09-29_rev1.csv,,2017-09-29,2019-11-24,
