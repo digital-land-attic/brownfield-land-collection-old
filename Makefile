@@ -1,6 +1,7 @@
-.PHONY: init sync collection collect index clobber black clean prune
+.PHONY: init sync collection collect validation index clobber black clean prune
 .SECONDARY:
 .DELETE_ON_ERROR:
+.SUFFIXES: .json
 
 DATASET_NAMES=brownfield-land
 DATASET_FILES=dataset/brownfield-land.csv
@@ -8,7 +9,9 @@ DATASET_FILES=dataset/brownfield-land.csv
 LOG_FILES=$(wildcard collection/log/*/*.json)
 LOG_FILES_TODAY=collection/log/$(shell date +%Y-%m-%d)/
 
-all: collection
+VALIDATION_FILES=$(addsuffix .json,$(subst collection/resource/,validaton/,$(wildcard collection/resource/*)))
+
+all: collection validation
 
 collection: collection/index.json
 
@@ -25,5 +28,10 @@ clobber::
 	rm -rf $(LOG_FILES_TODAY)
 
 init::
-	pip3 install -r requirements.txt
+	pip3 install --upgrade -r requirements.txt
 
+validation: $(VALIDATION_FILES)
+
+validation/%.json: collection/resource/%
+	@mkdir -p validation
+	bin/validate.py $< > $@
