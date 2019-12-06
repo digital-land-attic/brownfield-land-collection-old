@@ -477,7 +477,7 @@ local-authority-eng:UTT,https://www.uttlesford.gov.uk/article/4921/Brownfield-la
 local-authority-eng:UTT,https://www.uttlesford.gov.uk/article/4921/Brownfield-land-register,https://www.uttlesford.gov.uk/media/7478/Brownfield-land-register-CSV-/CSV/Copy_of_Brownfield_Register_12.12.17.csv?m=636486971889630000,,,,
 local-authority-eng:VAL,http://www.whitehorsedc.gov.uk/services-and-advice/planning-and-building/planning-policy/brownfield-land-register,http://www.whitehorsedc.gov.uk/sites/default/files/2017_12_06%20Brownfield%20Register.csv,dd4db124-9c28-4fa7-8e0c-ea6a4a94bb14,,,
 local-authority-eng:VAL,,http://www.whitehorsedc.gov.uk/sites/default/files/2018_12_21%20Brownfield%20Register_%20Vale_1.csv,dd4db124-9c28-4fa7-8e0c-ea6a4a94bb14,2018-12-21,,
-local-authority-eng:WAE,,http://www.waverley.gov.uk/download/downloads/id/5939/waverley_brownfield_land_register_csv.csv,,,,
+local-authority-eng:WAE,https://www.waverley.gov.uk/info/1004/planning_policy/2022/waverley_brownfield_land_register,http://www.waverley.gov.uk/download/downloads/id/5939/waverley_brownfield_land_register_csv.csv,29847880-4ba2-4946-aef4-49a3095fa536,,,
 local-authority-eng:WAT,,https://www.watford.gov.uk/download/downloads/id/1950/watford_brownfield_land_register.csv,,,,
 local-authority-eng:WAV,http://www.eastsuffolk.gov.uk/planning/brownfield-land-register/,http://www.eastsuffolk.gov.uk/assets/Planning/Brownfield-Land-Register/Waveney-Brownfield-Land-Register.csv,,,,
 local-authority-eng:WAW,,https://www.warwickdc.gov.uk/download/downloads/id/4705/brownfield_register_2017_-_csv.csv,,,,
