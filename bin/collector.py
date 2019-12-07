@@ -20,10 +20,11 @@ dataset_dir = "dataset/"
 
 
 def save(path, data):
-    logging.info(path)
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "wb") as f:
-        f.write(data)
+    if not os.path.exists(path):
+        logging.info(path)
+        with open(path, "wb") as f:
+            f.write(data)
 
 
 def fetch(dataset, organisation, url, end_date):
