@@ -119,7 +119,8 @@ def add(path, date, key, h):
                 e[field] = h["response-headers"][field]
 
     if "resource" in e:
-        resources.setdefault(e["resource"], True)
+        resources.setdefault(e["resource"], [])
+        resources[e["resource"]].append(path)
 
     if key not in idx:
         logging.error("no dataset entry for: %s %s cited in %s" % (h["url"], key, path))
@@ -157,13 +158,13 @@ if __name__ == "__main__":
     for path in glob.glob("%s*" % (resource_dir)):
         resource = parse_resource_path(path)
         if resource in resources:
-            resources[resource] = False
+            resources[resource] = None
         else:
             logging.error("no log for %s" % (path))
 
     # check resources in the log exist as files
     for resource in resources:
         if resources[resource]:
-            logging.error("missing resource: %s" % (resource))
+            logging.error("missing resource: %s listed in %s" % (resource, ", ".join(resources[resource])))
 
     save("collection/index.json", canonicaljson.encode_canonical_json(idx))
