@@ -1,7 +1,11 @@
-.PHONY: init sync collection collect validation index clobber black clean prune
+.PHONY: init collection collect validate index clobber black clean prune
 .SECONDARY:
 .DELETE_ON_ERROR:
 .SUFFIXES: .json
+
+RESOURCE_DIR=collection/resource/
+VALIDATION_DIR=var/validation/
+CSV_DIR=var/csv/
 
 DATASET_NAMES=brownfield-land
 DATASET_FILES=dataset/brownfield-land.csv
@@ -9,17 +13,30 @@ DATASET_FILES=dataset/brownfield-land.csv
 LOG_FILES=$(wildcard collection/log/*/*.json)
 LOG_FILES_TODAY=collection/log/$(shell date +%Y-%m-%d)/
 
-VALIDATION_FILES=$(addsuffix .json,$(subst collection/resource/,validaton/,$(wildcard collection/resource/*)))
+VALIDATION_FILES=$(addsuffix .json,$(subst $(RESOURCE_DIR),$(VALIDATION_DIR),$(wildcard $(RESOURCE_DIR)*)))
+COLLECTION_INDEX=collection/index.json
 
-all: collection validation
 
-collection: collection/index.json
+all: collect validate index
+
 
 collect:	$(DATASET_FILES)
 	python3 bin/collector.py $(DATASET_NAMES)
 
-collection/index.json: bin/index.py $(DATASET_FILES) collect
+
+validate: $(VALIDATION_FILES)
+
+$(VALIDATION_DIR)%.json: $(RESOURCE_DIR)%
+	@mkdir -p $(VALIDATION_DIR)
+	@mkdir -p $(CSV_DIR)
+	validate --exclude-rows --csv-dir "$(CSV_DIR)" --file $< --output $@
+
+
+index: $(COLLECTION_INDEX)
+
+$(COLLECTION_INDEX): bin/index.py $(DATASET_FILES) collect
 	python3 bin/index.py $(DATASET_NAMES)
+
 
 black:
 	black .
@@ -30,8 +47,5 @@ clobber::
 init::
 	pip3 install --upgrade -r requirements.txt
 
-validation: $(VALIDATION_FILES)
-
-validation/%.json: collection/resource/%
-	@mkdir -p validation
-	bin/validate.py $< > $@
+prune:
+	rm -rf ./var
