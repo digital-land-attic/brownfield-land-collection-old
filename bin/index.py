@@ -18,6 +18,7 @@ import canonicaljson
 dataset_dir = "dataset/"
 log_dir = "collection/log/"
 resource_dir = "collection/resource/"
+validation_dir = "var/validation/"
 idx = {}
 resources = {}
 prune = False
@@ -30,6 +31,11 @@ def parse_log_path(path):
 
 def parse_resource_path(path):
     m = re.match(r"^.*\/(\w+)$", path)
+    return m.groups()[0]
+
+
+def parse_json_path(path):
+    m = re.match(r"^.*\/(\w+).json", path)
     return m.groups()[0]
 
 
@@ -167,4 +173,19 @@ if __name__ == "__main__":
         if resources[resource]:
             logging.error("missing resource: %s listed in %s" % (resource, ", ".join(resources[resource])))
 
-    save("collection/index.json", canonicaljson.encode_canonical_json(idx))
+    # process validation
+    for path in glob.glob("%s/*.json" % (validation_dir)):
+        v = json.load(open(path))
+        resource = parse_json_path(path)
+        resources[resource] = {
+            'media-type': v['meta_data']['media_type'],
+            'suffix': v['meta_data']['suffix'],
+            'valid': v['result']['valid'],
+            'error-count': v['result']['error-count'],
+            'row-count': v['result']['tables'][0]['row-count'],
+        }
+
+    save("collection/index.json", canonicaljson.encode_canonical_json({
+        'key': idx,
+        'resource': resources,
+    }))
