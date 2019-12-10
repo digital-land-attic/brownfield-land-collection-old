@@ -4,7 +4,8 @@
 .SUFFIXES: .json
 
 RESOURCE_DIR=collection/resource/
-VALIDATION_DIR=var/validation/
+VALIDATION_DIR=validation/
+TMP_DIR=var/tmp/
 CSV_DIR=var/csv/
 
 DATASET_NAMES=brownfield-land
@@ -27,9 +28,8 @@ collect:	$(DATASET_FILES)
 validate: $(VALIDATION_FILES)
 
 $(VALIDATION_DIR)%.json: $(RESOURCE_DIR)%
-	@mkdir -p $(VALIDATION_DIR)
-	@mkdir -p $(CSV_DIR)
-	validate --exclude-rows --csv-dir "$(CSV_DIR)" --file $< --output $@
+	@mkdir -p $(TMP_DIR) $(CSV_DIR) $(VALIDATION_DIR)
+	validate --exclude-input --exclude-rows --tmp-dir "$(TMP_DIR)" --save-dir "$(CSV_DIR)" --file $< --output $@
 
 
 index: $(COLLECTION_INDEX)
@@ -48,4 +48,4 @@ init::
 	pip3 install --upgrade -r requirements.txt
 
 prune:
-	rm -rf ./var
+	rm -rf ./var $(VALIDATION_DIR)

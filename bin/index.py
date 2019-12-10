@@ -18,7 +18,7 @@ import canonicaljson
 dataset_dir = "dataset/"
 log_dir = "collection/log/"
 resource_dir = "collection/resource/"
-validation_dir = "var/validation/"
+validation_dir = "validation/"
 idx = {}
 resources = {}
 prune = False
