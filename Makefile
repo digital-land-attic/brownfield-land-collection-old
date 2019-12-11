@@ -11,10 +11,10 @@ CSV_DIR=var/csv/
 DATASET_NAMES=brownfield-land
 DATASET_FILES=dataset/brownfield-land.csv
 
-LOG_FILES=$(wildcard collection/log/*/*.json)
-LOG_FILES_TODAY=collection/log/$(shell date +%Y-%m-%d)/
+LOG_FILES:=$(wildcard collection/log/*/*.json)
+LOG_FILES_TODAY:=collection/log/$(shell date +%Y-%m-%d)/
 
-VALIDATION_FILES=$(addsuffix .json,$(subst $(RESOURCE_DIR),$(VALIDATION_DIR),$(wildcard $(RESOURCE_DIR)*)))
+VALIDATION_FILES:=$(addsuffix .json,$(subst $(RESOURCE_DIR),$(VALIDATION_DIR),$(wildcard $(RESOURCE_DIR)*)))
 COLLECTION_INDEX=collection/index.json
 
 
@@ -34,7 +34,7 @@ $(VALIDATION_DIR)%.json: $(RESOURCE_DIR)%
 
 index: $(COLLECTION_INDEX)
 
-$(COLLECTION_INDEX): bin/index.py $(DATASET_FILES) collect
+$(COLLECTION_INDEX): bin/index.py $(DATASET_FILES) collect $(LOG_FILES) $(VALIDATION_FILES)
 	python3 bin/index.py $(DATASET_NAMES)
 
 
