@@ -11,7 +11,7 @@ The [collection](collection) directory contains:
 
 * [collection/log](collection/log) -- log entries by date (sha256 hash of the URL)
 * [collection/resource](collection/resource) -- collected files (sha256 of the contents)
-* [index.json](collection/index.json) -- an index into the collection, used to build our [catalog](https://digital-land.github.io/catalog/) and other pages
+* [index.json](collection/index.json) -- an index into the collection, used to build [dataset](https://digital-land.github.io/dataset/brownfield-land/) and other pages
 
 # Updating the collection
 
@@ -20,7 +20,7 @@ We recommend working in [virtual environment](http://docs.python-guide.org/en/la
     $ make init
     $ make
 
-Not all of the files can be downloaded automatically. These can be added to the catalog using the [addone](bin/addone.py) script.
+Not all of the files can be downloaded automatically. These can be added to the collection using the [addone](bin/addone.py) script.
 
 # Licence
 
