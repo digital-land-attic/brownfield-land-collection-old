@@ -4,6 +4,7 @@
 #  create an index for a collection
 #
 import os
+import os.path
 from sys import argv
 import re
 import glob
@@ -177,6 +178,12 @@ if __name__ == "__main__":
     for path in glob.glob("%s/*.json" % (validation_dir)):
         v = json.load(open(path))
         resource = parse_json_path(path)
+        if resource not in resources:
+            logging.error("no log for %s" % (path))
+
+        if not os.path.isfile(os.path.join(resource_dir, resource)):
+            logging.error("no resource file for %s" % (path))
+
         resources[resource] = {
             'media-type': v['meta_data']['media_type'],
             'suffix': v['meta_data']['suffix'],
@@ -184,6 +191,10 @@ if __name__ == "__main__":
             'error-count': v['result']['error-count'],
             'row-count': v['result']['tables'][0]['row-count'],
         }
+
+    for resource, r in resources.items():
+        if "valid" not in r:
+            logging.error("no validation for" % (resource))
 
     save("collection/index.json", canonicaljson.encode_canonical_json({
         'key': idx,
