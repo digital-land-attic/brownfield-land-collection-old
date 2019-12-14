@@ -175,7 +175,7 @@ if __name__ == "__main__":
             logging.error("missing resource: %s listed in %s" % (resource, ", ".join(resources[resource])))
 
     # process validation
-    for path in glob.glob("%s/*.json" % (validation_dir)):
+    for path in glob.glob("%s*.json" % (validation_dir)):
         v = json.load(open(path))
         resource = parse_json_path(path)
         if resource not in resources:
@@ -193,8 +193,8 @@ if __name__ == "__main__":
         }
 
     for resource, r in resources.items():
-        if "valid" not in r:
-            logging.error("no validation for" % (resource))
+        if not r or "valid" not in r:
+            logging.error("%s%s.json missing" % (validation_dir, resource))
 
     save("collection/index.json", canonicaljson.encode_canonical_json({
         'key': idx,
