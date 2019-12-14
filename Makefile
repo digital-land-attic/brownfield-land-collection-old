@@ -25,9 +25,10 @@ collect:	$(DATASET_FILES)
 	python3 bin/collector.py $(DATASET_NAMES)
 
 second-pass:
-	make validate index
+	@make --no-print-directory validate index
 
 validate: $(VALIDATION_FILES)
+	@:
 
 $(VALIDATION_DIR)%.json: $(RESOURCE_DIR)%
 	@mkdir -p $(TMP_DIR) $(CSV_DIR) $(VALIDATION_DIR)
@@ -35,8 +36,9 @@ $(VALIDATION_DIR)%.json: $(RESOURCE_DIR)%
 
 
 index: $(COLLECTION_INDEX)
+	@:
 
-$(COLLECTION_INDEX): bin/index.py $(DATASET_FILES) collect $(LOG_FILES) $(VALIDATION_FILES)
+$(COLLECTION_INDEX): bin/index.py $(DATASET_FILES) $(LOG_FILES) $(VALIDATION_FILES)
 	python3 bin/index.py $(DATASET_NAMES)
 
 
