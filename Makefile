@@ -1,4 +1,4 @@
-.PHONY: init collection collect validate index clobber black clean prune
+.PHONY: init collection collect second-pass validate index clobber black clean prune
 .SECONDARY:
 .DELETE_ON_ERROR:
 .SUFFIXES: .json
@@ -18,12 +18,14 @@ VALIDATION_FILES:=$(addsuffix .json,$(subst $(RESOURCE_DIR),$(VALIDATION_DIR),$(
 COLLECTION_INDEX=collection/index.json
 
 
-all: collect validate index
+all: collect second-pass
 
 
 collect:	$(DATASET_FILES)
 	python3 bin/collector.py $(DATASET_NAMES)
 
+second-pass:
+	make validate index
 
 validate: $(VALIDATION_FILES)
 
