@@ -185,11 +185,11 @@ if __name__ == "__main__":
             logging.error("no resource file for %s" % (path))
 
         resources[resource] = {
-            'media-type': v['meta_data']['media_type'],
-            'suffix': v['meta_data']['suffix'],
-            'valid': v['result']['valid'],
-            'error-count': v['result']['error-count'],
-            'row-count': v['result']['tables'][0]['row-count'],
+            'media-type': v['meta_data'].get('media_type', ""),
+            'suffix': v['meta_data'].get('suffix', ""),
+            'valid': v['result'].get('valid', False),
+            'error-count': v['result'].get('error-count', -1),
+            'row-count': v['result']['tables'][0].get('row-count', 0),
         }
 
     for resource, r in resources.items():
