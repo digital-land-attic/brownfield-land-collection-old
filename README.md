@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/brownfield-land/blob/master/LICENSE)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://black.readthedocs.io/en/stable/)
 
-A prototype national dataset of brownfield sites assembled from brownfield land data collected from each Local Planning Authority.
+Collect brownfield land register data from each Local Planning Authority, validate the data, and build a national dataset.
 
 The source list of registers collected is kept and maintained in [dataset/brownfield-land.csv](dataset/brownfield-land.csv).
 
@@ -13,6 +13,8 @@ The [collection](collection) directory contains:
 * [collection/resource](collection/resource) -- collected files (sha256 of the contents)
 * [index.json](collection/index.json) -- an index into the collection, used to build [dataset](https://digital-land.github.io/dataset/brownfield-land/) and other pages
 
+The [validation](validation) directory contains the results of validating each resource as JSON.
+
 # Updating the collection
 
 We recommend working in [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) before installing the python dependencies:
@@ -20,7 +22,9 @@ We recommend working in [virtual environment](http://docs.python-guide.org/en/la
     $ make init
     $ make
 
-Not all of the files can be downloaded automatically. These can be added to the collection using the [addone](bin/addone.py) script.
+Not all of the files can be downloaded automatically. These can be added to the collection using the [addone](bin/addone.py) script;
+
+    $ bin/addone.py ~/Downloads/download.csv https://example.com/inaccessible-site
 
 # Licence
 
