@@ -50,13 +50,6 @@ def valid_date(n, date):
         logging.error("line %d: invalid date %s" % (n, date))
 
 
-def valid_data_gov_uk(n, s):
-    if s != "" and not re.match(
-        r"^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$", s
-    ):
-        logging.error("line %d: invalid data.gov.uk id %s" % (n, s))
-
-
 def save(path, data):
     logging.info(path)
     os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -83,7 +76,6 @@ def load(dataset):
         n += 1
         valid_url(n, row["documentation-url"])
         valid_url(n, row["resource-url"])
-        valid_data_gov_uk(n, row["data-gov-uk"])
         valid_date(n, row["start-date"])
         valid_date(n, row["end-date"])
 
@@ -94,10 +86,8 @@ def load(dataset):
         idx[key]["organisation"].setdefault(row["organisation"], {})
         for field in [
             "documentation-url",
-            "data-gov-uk",
             "start-date",
             "end-date",
-            "esd-dataset",
         ]:
             if row[field]:
                 idx[key]["organisation"][row["organisation"]][field] = row[field]
