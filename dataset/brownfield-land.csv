@@ -105,7 +105,8 @@ local-authority-eng:CAN,http://www.cannockchasedc.gov.uk/residents/planning/plan
 local-authority-eng:CAR,http://www.carlisle.gov.uk/planning-policy/Evidence-Base/Brownfield-Register,https://s3.eu-west-2.amazonaws.com/digital-land/brownfield-sites/CAR-2017-07-23.csv,,
 local-authority-eng:CAS,https://www.castlepoint.gov.uk/brownfield-land-register,https://s3.eu-west-2.amazonaws.com/digital-land/brownfield-sites/castlepoint_brownfieldregister_2017-12-01_rev1.csv,,
 local-authority-eng:CAT,https://www.canterbury.gov.uk/info/20032/transparency_and_open_data/182/brownfield_land_register,https://www2.canterbury.gov.uk/media/1544546/Canterbury-brownfield-register-2017.csv,,
-local-authority-eng:CAT,https://www.canterbury.gov.uk/info/20032/transparency_and_open_data/182/brownfield_land_register,https://www.canterbury.gov.uk/download/downloads/id/898/canterbury_brownfield_register.csv,,
+local-authority-eng:CAT,https://www.canterbury.gov.uk/info/20032/transparency_and_open_data/182/brownfield_land_register,https://www.canterbury.gov.uk/download/downloads/id/898/canterbury_brownfield_register.csv,,2019-12-19
+local-authority-eng:CAT,https://www.canterbury.gov.uk/info/20032/transparency_and_open_data/182/brownfield_land_register,https://www.canterbury.gov.uk/download/downloads/id/1217/canterbury_brownfield_land_register.csv,2019-12-19,
 local-authority-eng:CBF,,http://www.centralbedfordshire.gov.uk/Images/brownfield-register-jan-2018_tcm3-26973.csv,,2018-11-29
 local-authority-eng:CBF,https://www.centralbedfordshire.gov.uk/info/45/planning_policy/472/monitoring/5,https://www.centralbedfordshire.gov.uk/migrated_images/brownfield-register-jan-2018_tcm3-26973.csv,2018-01-01,
 local-authority-eng:CBF,https://www.centralbedfordshire.gov.uk/info/45/planning_policy/472/monitoring/5,https://www.centralbedfordshire.gov.uk/migrated_images/brownfield-register-jan-2019-2_tcm3-31604.csv,2019-01-01,
@@ -364,7 +365,8 @@ local-authority-eng:NEC,https://www.newcastle-staffs.gov.uk/all-services/plannin
 local-authority-eng:NED,,http://www.ne-derbyshire.gov.uk/images/Repository/N/northeastderbyshire_brownfield_register_2017_10_31_rev1.csv,2017-10-31,
 local-authority-eng:NED,https://www.ne-derbyshire.gov.uk/index.php/38-resident/planning-building/515-brownfield-land-register,https://www.ne-derbyshire.gov.uk/images/brownfield_reg_19/northeastderbyshire_brownfield_register_rev2.csv,,
 local-authority-eng:NEL,,https://www.nelincs.gov.uk/wp-content/uploads/2017/11/20171208-BrownfieldLandRegister-PublishedDec2017.csv,,2019-11-28
-local-authority-eng:NEL,https://www.nelincs.gov.uk/planning-and-development/planning-policy/brownfield-land-register/#1513340245326-049d71e1-beb5,https://www.nelincs.gov.uk/wp-content/uploads/2019/01/NEL-Brownfield-Register-2018.csv,,
+local-authority-eng:NEL,https://www.nelincs.gov.uk/planning-and-development/planning-policy/brownfield-land-register/#1513340245326-049d71e1-beb5,https://www.nelincs.gov.uk/wp-content/uploads/2019/01/NEL-Brownfield-Register-2018.csv,,2019-12-19
+local-authority-eng:NEL,https://www.nelincs.gov.uk/planning-and-development/planning-policy/brownfield-land-register/#1513340245326-049d71e1-beb5,https://www.nelincs.gov.uk/wp-content/uploads/2019/12/Brownfield-Land-Dec2019.csv,2019-12-19,
 local-authority-eng:NET,,https://files.datapress.com/leeds/dataset/newcastle-city-council-brownfield-sites/2017-12-21T09:31:53.54/Newcastle%20City%20Council_%20Brownfield%20Register_19-12-2017_rev1.csv,,2018-12-21
 local-authority-eng:NET,https://www.newcastle.gov.uk/services/planning-building-and-development/planning-policy/brownfield-land-register,https://datamillnorth.org/download/newcastle-city-council-brownfield-sites/25c68c82-45bb-4115-a192-33b9f9a07d0e/NewcastleCityCouncil_Brownfield_Register_19_12_2018.csv,2018-12-21,
 local-authority-eng:NEW,,http://www.newforest.gov.uk/CHttpHandler.ashx?id=35744&p=0,,2019-12-14
@@ -485,7 +487,7 @@ local-authority-eng:SHA,https://www.southhams.gov.uk/article/4291/Brownfield-Lan
 local-authority-eng:SHA,https://www.southhams.gov.uk/article/4291/Brownfield-Land-Register,https://www.southhams.gov.uk/media/4658/South-Hams-Brownfield-Land-Register-2018/pdf/SH_Brown_Field_Register_2018.pdf,,
 local-authority-eng:SHE,http://www.shepway.gov.uk/planning/planning-policy/brownfield-register,http://www.shepway.gov.uk/media/4661/Shepway-Brownfield-Register/Files/Brownfield_land_register_Nov_2017_v2.xlsx,,2019-11-25
 local-authority-eng:SHE,https://www.folkestone-hythe.gov.uk/planning/planning-policy/brownfield-register,https://www.folkestone-hythe.gov.uk/media/4661/Brownfield-Register/Files/Brownfield_land_register_Nov_2017_v2.xlsx,,2019-12-17
-local-authority-eng:SHE,https://www.folkestone-hythe.gov.uk/planning/planning-policy/brownfield-register,https://www.folkestone-hythe.gov.uk/media/1745/Brownfield-Register/Files/Brownfield_land_register_Nov_2017_v2_(1).xlsx,2019-12-18,
+local-authority-eng:SHE,https://www.folkestone-hythe.gov.uk/planning/planning-policy/brownfield-register,"https://www.folkestone-hythe.gov.uk/media/1745/Brownfield-Register/Files/Brownfield_land_register_Nov_2017_v2_(1).xlsx",2019-12-18,
 local-authority-eng:SHF,,https://www.sheffield.gov.uk/content/dam/sheffield/docs/planning-and-development/housing-land/Brownfield%20Register%202017.csv,,
 local-authority-eng:SHF,https://www.sheffield.gov.uk/home/planning-development/housing-land-sites,https://www.sheffield.gov.uk/content/dam/sheffield/docs/planning-and-development/housing-land/Sheffield%20Brownfield%20Register.csv,,
 local-authority-eng:SHN,,https://www.sthelens.gov.uk/media/7338/brownfield-land-register.csv,,
@@ -574,7 +576,8 @@ local-authority-eng:THE,https://www.threerivers.gov.uk/egcl-page/brownfield-land
 local-authority-eng:THR,https://www.thurrock.gov.uk/brownfield-land/potential-sites-for-development,https://www.thurrock.gov.uk/sites/default/files/assets/documents/brownfield-register-201712-v04.csv,2017-12-01,2019-10-20
 local-authority-eng:THR,https://www.thurrock.gov.uk/brownfield-land/potential-sites-for-development,https://www.thurrock.gov.uk/sites/default/files/assets/documents/brownfield-register-201904-v01.csv,2019-04-01,
 local-authority-eng:TOB,,http://www.torbay.gov.uk/media/10578/torbay_pilotbrownfieldregister_2017-12-31_rev1.csv,2017-12-31,2019-10-20
-local-authority-eng:TOB,https://www.torbay.gov.uk/council/policies/planning-policies/local-plan/brownfield-register/,https://www.torbay.gov.uk/media/12172/torbay-pilotbrownfieldregister.xlsx,,
+local-authority-eng:TOB,https://www.torbay.gov.uk/council/policies/planning-policies/local-plan/brownfield-register/,https://www.torbay.gov.uk/media/12172/torbay-pilotbrownfieldregister.xlsx,,2019-12-19
+local-authority-eng:TOB,https://www.torbay.gov.uk/council/policies/planning-policies/local-plan/brownfield-register/,https://www.torbay.gov.uk/media/12172/brownfield-land.csv,2019-12-19,
 local-authority-eng:TON,https://www.tmbc.gov.uk/services/planning-and-development/planning/planning-local-plans/brownfield-register,https://www.tmbc.gov.uk/__data/assets/text_file/0007/476035/BFR-April-2018.csv,,
 local-authority-eng:TOR,https://www.torridge.gov.uk/brownfieldregister,http://www.torridge.gov.uk/CHttpHandler.ashx?id=18248&p=0,,
 local-authority-eng:TOR,https://www.torridge.gov.uk/brownfieldregister,https://www.torridge.gov.uk/CHttpHandler.ashx?id=19719&p=0,2019-12-04,
@@ -631,14 +634,16 @@ local-authority-eng:WLL,https://go.walsall.gov.uk/planning/planning_policy/local
 local-authority-eng:WLV,http://www.wolverhampton.gov.uk/article/2423/Housing-Site-Information,https://s3.eu-west-2.amazonaws.com/digital-land/brownfield-sites/Wolverhampton+Brownfield+Register+2018.csv,,2019-11-25
 local-authority-eng:WLV,http://www.wolverhampton.gov.uk/article/2423/Housing-Site-Information,http://wolverhampton.maps.arcgis.com/apps/webappviewer/index.html?id=2e36e2eff14e40c480194b42b33a0abc,,
 local-authority-eng:WND,http://www.wandsworth.gov.uk/info/200237/local_plan_-_evidence_base/2305/brownfield_land_register,http://www.wandsworth.gov.uk/downloads/file/13103/brownfield_land_register_csv,,2019-11-19
-local-authority-eng:WND,http://www.wandsworth.gov.uk/info/200237/local_plan_-_evidence_base/2305/brownfield_land_register,https://www.wandsworth.gov.uk/media/1833/brownfield_land_register.csv,2019-11-19,
+local-authority-eng:WND,http://www.wandsworth.gov.uk/info/200237/local_plan_-_evidence_base/2305/brownfield_land_register,https://www.wandsworth.gov.uk/media/1833/brownfield_land_register.csv,2019-11-19,2019-12-19
+local-authority-eng:WND,http://www.wandsworth.gov.uk/info/200237/local_plan_-_evidence_base/2305/brownfield_land_register,https://www.wandsworth.gov.uk/media/5887/brownfield-land.csv,2019-12-19,
 local-authority-eng:WNM,https://www3.rbwm.gov.uk/info/201039/non-development_plan/1354/registers,https://www3.rbwm.gov.uk/download/downloads/id/3583/brownfield_register.csv,,
 local-authority-eng:WOC,,https://www.worcester.gov.uk/documents/10499/8864076/Worcester+City+Council%27s+Brownfield+Land+Register.csv/ca3998dd-73ea-a77d-38df-abd18c162fe4,,2019-12-10
 local-authority-eng:WOC,https://www.worcester.gov.uk/planning/brownfield-register,https://www.worcester.gov.uk/?option=com_fileman&view=file&routed=1&name=Brownfield%20Land%20Register.pdf&folder=PDF%20Documents%2FPlanning%2Fplanning_policy%2Fbrownfieldsites&container=fileman-files,,
 local-authority-eng:WOI,http://www.woking2027.info/ldfregisters,http://woking2027.info/res/uploads/WokingBoroughCouncilBrownfieldLandRegister20171220.csv,,
 local-authority-eng:WOK,,http://www.wokingham.gov.uk/_resources/assets/attachment/full/0/446349.csv,2017-12-21,2018-12-10
 local-authority-eng:WOK,https://www.wokingham.gov.uk/council-and-meetings/open-data/plans-policies-and-strategies/?categoryesctl8705531=8338&categoryesctl91f252ff-550d-4cfa-a838-92ef2cb5f83c=10648,https://www.wokingham.gov.uk/_resources/assets/attachment/full/0/474097.xlsx,2018-12-10,
-local-authority-eng:WOT,https://www.adur-worthing.gov.uk/planning-policy/joint-aw/brownfield-land-register/,"https://www.adur-worthing.gov.uk/media/media,146509,en.xlsx",,
+local-authority-eng:WOT,https://www.adur-worthing.gov.uk/planning-policy/joint-aw/brownfield-land-register/,"https://www.adur-worthing.gov.uk/media/media,146509,en.xlsx",,2019-12-17
+local-authority-eng:WOT,https://www.adur-worthing.gov.uk/planning-policy/joint-aw/brownfield-land-register/,"https://www.adur-worthing.gov.uk/media/media,146509,en.csv",2019-12-17,
 local-authority-eng:WOX,https://www.westoxon.gov.uk/residents/planning-building/planning-policy/local-development-framework/brownfield-land-register/,http://www.westoxon.gov.uk/media/1710408/west-oxfordshire_brownfieldregister_november2017_rev0.csv,,2019-11-24
 local-authority-eng:WOX,https://www.westoxon.gov.uk/residents/planning-building/planning-policy/local-development-framework/brownfield-land-register/,https://www.westoxon.gov.uk/media/1710408/west-oxfordshire_brownfieldregister_december2018_rev1.csv,,
 local-authority-eng:WRL,,https://www.wirral.gov.uk/sites/default/files/all/planning%20and%20building/Local%20plans%20and%20planning%20policy/Brownfield%20Register/Wirral_Brownfield_Register_2017-12-22_rev1.csv,,2019-10-20
@@ -675,7 +680,8 @@ national-park:Q72617158,,http://www.newforestnpa.gov.uk/app/uploads/2018/01/npar
 national-park:Q72617158,https://www.newforestnpa.gov.uk/planning/brownfield-sites-register/,https://www.newforestnpa.gov.uk/app/uploads/2018/01/npark_E26000009_brownfieldregister_Dec2018_v2.csv,,
 national-park:Q72617158,https://www.newforestnpa.gov.uk/planning/brownfield-sites-register/,https://www.newforestnpa.gov.uk/app/uploads/2019/12/brownfield-land.csv,2019-12-16,
 national-park:Q72617669,https://www.northyorkmoors.org.uk/planning/framework/brownfield-land-register,http://www.northyorkmoors.org.uk/__data/assets/file/0008/1057148/north-york-moors_brownfieldregister_2017-12-14_rev1.csv,,2019-11-24
-national-park:Q72617669,https://www.northyorkmoors.org.uk/planning/framework/brownfield-land-register,https://www.northyorkmoors.org.uk/__data/assets/file/0007/1429792/north-york-moors_brownfieldregister_2018-12-17_rev1.csv,2018-12-17,
+national-park:Q72617669,https://www.northyorkmoors.org.uk/planning/framework/brownfield-land-register,https://www.northyorkmoors.org.uk/__data/assets/file/0007/1429792/north-york-moors_brownfieldregister_2018-12-17_rev1.csv,2018-12-17,2019-12-18
+national-park:Q72617669,https://www.northyorkmoors.org.uk/planning/framework/brownfield-land-register,https://www.northyorkmoors.org.uk/__data/assets/file/0007/1429792/north-york-moors_brownfieldregister_2019-12-17_rev1.csv,2019-12-17,
 national-park:Q72617784,,http://www.exmoor-nationalpark.gov.uk/__data/assets/file/0009/1069317/exmoor_brownfieldregister2017-12-19_rev1.csv,2017-12-19,
 national-park:Q72617784,https://www.exmoor-nationalpark.gov.uk/planning/planning-policy/brownfield-land-register,https://www.exmoor-nationalpark.gov.uk/__data/assets/file/0009/1699803/Brownfield_Sites.csv,,
 national-park:Q72617890,https://www.northumberlandnationalpark.org.uk/planning/planning-policy/local-plan/brownfield-register/,https://nnp-tacdesign.netdna-ssl.com/wp-content/uploads/2017/12/NNPA-Brownfield-Land-Register.csv,,
