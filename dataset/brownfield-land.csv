@@ -452,9 +452,9 @@ local-authority-eng:ROC,,https://www.rochford.gov.uk/brownfield-register-2018-ex
 local-authority-eng:ROC,https://www.rochford.gov.uk/planning-and-building/planning-policy/brownfield-register,https://www.rochford.gov.uk/sites/default/files/RDC_BrownfieldLandRegister2019.pdf,,
 local-authority-eng:ROH,,http://www.rother.gov.uk/CHttpHandler.ashx?id=29528&p=0,,2019-12-15
 local-authority-eng:ROH,http://www.rother.gov.uk/BLR,https://www.rother.gov.uk/CHttpHandler.ashx?id=29528&p=0,,
-local-authority-eng:ROS,,https://www.rossendale.gov.uk/download/downloads/id/14159/rossendale_brownfield_land_register_csv_file.csv,,
-local-authority-eng:ROS,https://www.rossendale.gov.uk/info/210144/planning_and_building_control/10637/more/2,https://www.rossendale.gov.uk/download/downloads/id/13822/pilot_brownfield_register_2016.csv,,
-local-authority-eng:ROS,https://www.rossendale.gov.uk/info/210144/planning_and_building_control/10637/more/2,https://www.rossendale.gov.uk/download/downloads/id/14159/rossendale_brownfield_land_register_2017_csv_file.csv,,
+local-authority-eng:ROS,,https://www.rossendale.gov.uk/download/downloads/id/14159/rossendale_brownfield_land_register_csv_file.csv,,2019-12-20
+local-authority-eng:ROS,https://www.rossendale.gov.uk/info/210144/planning_and_building_control/10637/more/2,https://www.rossendale.gov.uk/download/downloads/id/13822/pilot_brownfield_register_2016.csv,,2019-12-20
+local-authority-eng:ROS,https://www.rossendale.gov.uk/info/210144/planning_and_building_control/10637/more/2,https://www.rossendale.gov.uk/download/downloads/id/14159/rossendale_brownfield_land_register_2017_csv_file.csv,,2019-12-20
 local-authority-eng:ROS,https://www.rossendale.gov.uk/info/210144/planning_and_building_control/10637/more/2,https://www.rossendale.gov.uk/download/downloads/id/14612/rossendale_brownfield_land_register_2018_csv_file.csv,,
 local-authority-eng:ROT,https://www.rotherham.gov.uk/planning-development/brownfield-land-register/1,http://www.rotherham.gov.uk/download/downloads/id/3375/brownfield_land_register_2017.csv,,2019-11-03
 local-authority-eng:ROT,https://www.rotherham.gov.uk/info/200074/planning_and_regeneration/1156/brownfield_land_register,https://www.rotherham.gov.uk/downloads/file/406/brownfield-land-register-2017,2017-09-29,
@@ -670,7 +670,8 @@ local-authority-eng:WRL,https://www.wirral.gov.uk/planning-and-building/brownfie
 local-authority-eng:WRT,https://www.warrington.gov.uk/info/200564/planning-policy/1905/evidence-base,https://www.warrington.gov.uk/download/downloads/id/14633/brownfield_register_november_2017.xls,,2019-10-20
 local-authority-eng:WRT,https://www.warrington.gov.uk/evidence-base-housing,https://www.warrington.gov.uk/sites/default/files/2019-08/brownfield_land_register_2017.xls,,
 local-authority-eng:WRT,https://www.warrington.gov.uk/evidence-base-housing,https://www.warrington.gov.uk/sites/default/files/2019-08/brownfield_land_register_2018.xls,,
-local-authority-eng:WSK,https://www.westsuffolk.gov.uk/planning/Planning_Policies/brownfield-register.cfm,https://www.westsuffolk.gov.uk/planning/Planning_Policies/upload/West-Suffolk-Brownfield-Register-PDF-v2.xlsx,2017-09-01,
+local-authority-eng:WSK,https://www.westsuffolk.gov.uk/planning/Planning_Policies/brownfield-register.cfm,https://www.westsuffolk.gov.uk/planning/Planning_Policies/upload/West-Suffolk-Brownfield-Register-PDF-v2.xlsx,2017-09-01,2019-12-20
+local-authority-eng:WSK,https://www.westsuffolk.gov.uk/planning/Planning_Policies/brownfield-register.cfm,https://www.westsuffolk.gov.uk/planning/Planning_Policies/upload/Copy-of-West-Suffolk-Brownfield-Register-2019-DEC-web-version.xlsx,2019-12-20,
 local-authority-eng:WSM,https://www.westminster.gov.uk/brownfield-register,https://www.westminster.gov.uk/sites/www.westminster.gov.uk/files/wcc_brownfieldregister_2017.csv,,
 local-authority-eng:WSO,https://www.westsomersetonline.gov.uk/Planning---Building/Planning-Policy/Brownfield-Register,https://www.westsomersetonline.gov.uk/Docs/Brownfield-Register/west-somerset_brownfieldregister_2017-12-31_rev1.aspx,,2019-03-31
 local-authority-eng:WYC,https://www.wychavon.gov.uk/brownfield-land-register,https://www.wychavon.gov.uk/documents/10586/8873385/WychavonBrownfieldLandRegister2017wrapped.csv/f588a90c-1181-4598-19aa-9443e7b02ce2,,2019-11-30
