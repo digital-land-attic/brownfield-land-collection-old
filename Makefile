@@ -39,8 +39,7 @@ index: $(COLLECTION_INDEX)
 	@:
 
 $(COLLECTION_INDEX): bin/index.py $(DATASET_FILES) $(LOG_FILES) $(VALIDATION_FILES)
-	@:
-
+	bin/index.py brownfield-land
 
 black:
 	black .
