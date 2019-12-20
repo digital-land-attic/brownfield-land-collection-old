@@ -39,7 +39,7 @@ index: $(COLLECTION_INDEX)
 	@:
 
 $(COLLECTION_INDEX): bin/index.py $(DATASET_FILES) $(LOG_FILES) $(VALIDATION_FILES)
-	python3 bin/index.py $(DATASET_NAMES)
+	@:
 
 
 black:
