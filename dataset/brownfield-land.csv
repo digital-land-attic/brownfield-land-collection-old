@@ -74,7 +74,8 @@ local-authority-eng:BRA,,https://www.braintree.gov.uk/download/downloads/id/7439
 local-authority-eng:BRA,https://www.braintree.gov.uk/downloads/file/8194/braintree_district_council_brownfield_land_register_2018,http://www.braintree.gov.uk/download/downloads/id/8194/braintree_district_council_brownfield_land_register_2018.csv,,
 local-authority-eng:BRC,https://www.bracknell-forest.gov.uk/planning-and-building-control/planning/planning-policy/brownfield-register,https://files.bracknell-forest.gov.uk/sites/bracknell/documents/brownfield-register-%202017.csv,,2019-10-20
 local-authority-eng:BRC,https://www.bracknell-forest.gov.uk/planning-and-building-control/planning/planning-policy/brownfield-register,https://www.bracknell-forest.gov.uk/sites/default/files/documents/brownfield-register-2017.xlsx,2018-01-22,2019-11-30
-local-authority-eng:BRC,,https://www.bracknell-forest.gov.uk/sites/default/files/documents/brownfield-register-2018.xlsx,,
+local-authority-eng:BRC,https://www.bracknell-forest.gov.uk/planning-and-building-control/planning/planning-policy/brownfield-register,https://www.bracknell-forest.gov.uk/sites/default/files/documents/brownfield-register-2018.xlsx,,2019-12-21
+local-authority-eng:BRC,https://www.bracknell-forest.gov.uk/planning-and-building-control/planning/planning-policy/brownfield-register,https://www.bracknell-forest.gov.uk/sites/default/files/documents/brownfield-register-2019.xlsx,2019-12-21,
 local-authority-eng:BRD,https://www.bradford.gov.uk/planning-and-building-control/planning-policy/the-brownfield-register/,https://files.datapress.com/leeds/dataset/bradford-brownfield-register/2017-12-12T13:17:30.67/Bradford_brownfieldregister_2017-12-01_rev1.csv,,2019-02-01
 local-authority-eng:BRD,https://www.bradford.gov.uk/planning-and-building-control/planning-policy/the-brownfield-register/,https://datahub.bradford.gov.uk/opendata/brownfield_register/Brownfield%20Register%202017.csv,2019-02-01,
 local-authority-eng:BRD,https://www.bradford.gov.uk/planning-and-building-control/planning-policy/the-brownfield-register/,https://datahub.bradford.gov.uk/opendata/brownfield_register/Brownfield%20Register%202018.csv,2019-02-01,
@@ -93,7 +94,8 @@ local-authority-eng:BRX,,https://www.broxbourne.gov.uk/sites/default/files/Docum
 local-authority-eng:BRX,https://ex.broxbourne.gov.uk/resident/brownfield-register,https://ex.broxbourne.gov.uk/sites/default/files/documents/Communications/Brownfield%20Register%20-%202019.xlsx,,
 local-authority-eng:BRY,,http://www.bromley.gov.uk/download/downloads/id/3318/brownfield_land_register.csv,,2019-12-04
 local-authority-eng:BRY,https://www.bromley.gov.uk/info/1004/planning_policy/1178/brownfield_land_register,https://www.bromley.gov.uk/download/downloads/id/3318/brownfield_land_register.csv,,
-local-authority-eng:BST,https://www.bristol.gov.uk/planning-and-building-regulations-for-business/brownfield-land-register,https://www.bristol.gov.uk/documents/20182/931857/bristol_brownfieldregister_2017-12-19_rev1/e528c997-e4c8-4ea1-90a3-636370f1995e,,
+local-authority-eng:BST,https://www.bristol.gov.uk/planning-and-building-regulations-for-business/brownfield-land-register,https://www.bristol.gov.uk/documents/20182/931857/bristol_brownfieldregister_2017-12-19_rev1/e528c997-e4c8-4ea1-90a3-636370f1995e,,2019-12-21
+local-authority-eng:BST,https://www.bristol.gov.uk/planning-and-building-regulations-for-business/brownfield-land-register,https://www.bristol.gov.uk/documents/20182/931857/brownfield-land.csv/eb85dc8e-aa90-c076-6a3f-e8b16188ae35,2019-12-21,
 local-authority-eng:BUN,,https://www.burnley.gov.uk/sites/default/files/burnley_brownfieldregister_2018-02-28_rev1_0.csv,,2019-10-20
 local-authority-eng:BUN,https://www.burnley.gov.uk/residents/planning/planning-policy/brownfield-land-register,https://www.burnley.gov.uk/sites/default/files/Burnley%27s%20Brownfield%20Land%20Register%2027-02-19.csv,2019-02-27,
 local-authority-eng:BUR,,http://www.bury.gov.uk/CHttpHandler.ashx?id=19009&p=0,2017-12-19,
@@ -163,7 +165,8 @@ local-authority-eng:DAV,https://www.daventrydc.gov.uk/living/planning-policy/bro
 local-authority-eng:DEB,https://www.derbyshiredales.gov.uk/planning-a-building-control/planning-policy/brownfield-land-register,http://www.derbyshiredales.gov.uk/images/documents/B/Register%20v7%20Govt%20guidance%2028th%20July%202017.csv,2017-07-28,
 local-authority-eng:DEB,https://www.derbyshiredales.gov.uk/planning-a-building-control/planning-policy/brownfield-land-register,https://www.derbyshiredales.gov.uk/images/documents/B/Brownfield_land_Register_2018.csv,,
 local-authority-eng:DER,,http://www.derby.gov.uk/media/derbycitycouncil/contentassets/documents/policiesandguidance/planning/derby_brownfieldregister_2017_12_31_rev1.csv,,2019-10-20
-local-authority-eng:DER,https://www.derby.gov.uk/environment-and-planning/planning/brownfield-register/,https://www.derby.gov.uk/media/derbycitycouncil/contentassets/documents/policiesandguidance/planning/Derby_brownfieldregister_2018-12-20_rev1.csv,2018-12-20,
+local-authority-eng:DER,https://www.derby.gov.uk/environment-and-planning/planning/brownfield-register/,https://www.derby.gov.uk/media/derbycitycouncil/contentassets/documents/policiesandguidance/planning/Derby_brownfieldregister_2018-12-20_rev1.csv,2018-12-20,2019-12-21
+local-authority-eng:DER,https://www.derby.gov.uk/environment-and-planning/planning/brownfield-register/,https://www.derby.gov.uk/media/derbycitycouncil/contentassets/documents/policiesandguidance/planning/Brownfield_Reg_2019.csv,2019-12-21,
 local-authority-eng:DNC,,https://dmbcpublicwebsite.blob.core.windows.net/media/Default/Planning/Documents/Local%20Plan/Self%20build%20register/doncaster_brownfieldregister_2017-12-31_rev1.csv,,2019-10-20
 local-authority-eng:DNC,https://www.doncaster.gov.uk/services/planning/brownfield-land-register,https://dmbcwebstolive01.blob.core.windows.net/media/Default/Planning/Documents/Local%20Plan/Self%20build%20register/Brown%20Field%20Land%20Register%202018.csv,2018-12-19,
 local-authority-eng:DOV,,https://www.dover.gov.uk/Planning/Planning-Policy-and-Regeneration/Regeneration-and-Development-Opportunities/Brownfield-Register-csv.csv,,2019-10-20
@@ -217,7 +220,8 @@ local-authority-eng:EXE,https://exeter.gov.uk/planning-services/registers/brownf
 local-authority-eng:FAR,,http://www.fareham.gov.uk/PDF/planning/Brownfield/FBC_Brownfield_Land_Register_Part1.csv,,
 local-authority-eng:FAR,https://www.fareham.gov.uk/planning/brownfieldlandregister.aspx,http://www.fareham.gov.uk/PDF/planning/Brownfield/BrownfieldLandRegister.csv,,
 local-authority-eng:FEN,,http://www.fenland.gov.uk/CHttpHandler.ashx?id=14426&p=0,,2019-12-14
-local-authority-eng:FEN,https://www.fenland.gov.uk/brownfieldland,https://www.fenland.gov.uk/media/14426/FDC-Brownfield-Land-Register-2017---CSV-format/csv/FenlandDistrictCouncil_brownfieldregister_2017-12-19_rev1.csv,2017-12-19,
+local-authority-eng:FEN,https://www.fenland.gov.uk/brownfieldland,https://www.fenland.gov.uk/media/14426/FDC-Brownfield-Land-Register-2017---CSV-format/csv/FenlandDistrictCouncil_brownfieldregister_2017-12-19_rev1.csv,2017-12-19,2019-12-21
+local-authority-eng:FEN,https://www.fenland.gov.uk/brownfieldland,https://www.fenland.gov.uk/media/16169/brownfield-land/csv/brownfield-land.csv,2019-12-21,
 local-authority-eng:FOE,,http://www.fdean.gov.uk/media/5465/dclg-brownfield-land-register.csv,,
 local-authority-eng:FOE,https://www.fdean.gov.uk/residents/planning-building/planning-policy/local-plan-new/,https://www.fdean.gov.uk/media/5640/dclg-brownfield-land-register.xlsm,,
 local-authority-eng:FOR,,https://www.westsuffolk.gov.uk/planning/Planning_Policies/upload/2017-12-13-Brownfield-land-register-csv-2.csv,2017-12-13,
@@ -282,7 +286,8 @@ local-authority-eng:HPL,https://www.hartlepool.gov.uk/info/20209/local_plan/740/
 local-authority-eng:HRW,,http://www.harrow.gov.uk/download/downloads/id/10631/harrow_s_brownfield_land_register,,2019-10-20
 local-authority-eng:HRW,https://www.harrow.gov.uk/planning-developments/brownfield-land-register?documentId=12722&categoryId=210273,https://data.london.gov.uk/download/brownfield-land-register/dd05e60b-e922-4ca6-8e29-784d694e5a39/London%20Brownfield%20Register.csv,,
 local-authority-eng:HRY,,http://www.haringey.gov.uk/sites/haringeygovuk/files/haringey_brownfield_register_final_dec_2017.csv,,2019-12-14
-local-authority-eng:HRY,https://www.haringey.gov.uk/planning-and-building-control/planning/planning-policy/localism/brownfield-register,https://www.haringey.gov.uk/sites/haringeygovuk/files/haringey_brownfield_register_final_dec_2017.csv,,
+local-authority-eng:HRY,https://www.haringey.gov.uk/planning-and-building-control/planning/planning-policy/localism/brownfield-register,https://www.haringey.gov.uk/sites/haringeygovuk/files/haringey_brownfield_register_final_dec_2017.csv,,2019-12-21
+local-authority-eng:HRY,https://www.haringey.gov.uk/planning-and-building-control/planning/planning-policy/localism/brownfield-register,https://www.haringey.gov.uk/sites/haringeygovuk/files/brownfield_register_2019.csv,2019-12-21,
 local-authority-eng:HUN,,http://huntingdonshire.gov.uk/media/2871/huntingdonshire_brownfieldregister_2017-12-31_rev1.csv,2017-12-31,
 local-authority-eng:HUN,,https://data.cambridgeshireinsight.org.uk/sites/default/files/Huntingdonshire%20District%20Council%20Brownfield%20Site%20Register%202018_0.csv,,
 local-authority-eng:HUN,https://www.huntingdonshire.gov.uk/planning/new-local-plan-to-2036/monitoring-research-and-evidence-base/brownfield-register/,https://www.huntingdonshire.gov.uk/media/3664/huntingdonshire_brownfieldregister_2018-12-14_rev1.csv,2018-12-14,
@@ -492,6 +497,7 @@ local-authority-eng:SEL,https://www.selby.gov.uk/brownfield-register,https://www
 local-authority-eng:SEL,https://www.selby.gov.uk/brownfield-register,https://www.selby.gov.uk/sites/default/files/Brownfield_Register_August_2018.csv,,
 local-authority-eng:SEV,,https://www.sevenoaks.gov.uk/download/downloads/id/1042/brownfield_land_register_-_december_2017.xlsx,,2019-10-20
 local-authority-eng:SEV,https://www.sevenoaks.gov.uk/info/20069129/current_local_plan/365/brownfield_land_register,https://www.sevenoaks.gov.uk/download/downloads/id/1392/brownfield_land_register_-_august_2019_csv_file.csv,,
+local-authority-eng:SEV,https://www.sevenoaks.gov.uk/info/20069129/current_local_plan/365/brownfield_land_register,https://www.sevenoaks.gov.uk/download/downloads/id/1392/brownfield_land_register_-_december_2019_csv_file.csv,2019-12-21,
 local-authority-eng:SEV,,http://gisopendata-sdc.opendata.arcgis.com/datasets/b924985c0eb646e99ca3ca50438d4a8f_0.csv,2019-03-05,
 local-authority-eng:SFT,https://www.sefton.gov.uk/planning-building-control/planning-policy-including-local-plan-and-neighbourhood-planning/brownfield-land-register-2017.aspx,https://www.sefton.gov.uk/media/1363896/Sefton-Brownfield-Land-Register-2017-Pt1.csv,,
 local-authority-eng:SGC,,http://www.southglos.gov.uk//documents/south_gloucestershire_brownfieldregister_2017_12_21.csv,2017-12-21,2019-12-15
