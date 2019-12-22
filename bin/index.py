@@ -46,7 +46,7 @@ def valid_url(n, url):
 
 
 def valid_date(n, date):
-    if date != "" and date != datetime.strptime(date, "%Y-%m-%d").strftime("%Y-%m-%d"):
+    if date != None and date != "" and date != datetime.strptime(date, "%Y-%m-%d").strftime("%Y-%m-%d"):
         logging.error("line %d: invalid date %s" % (n, date))
 
 
