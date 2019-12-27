@@ -89,8 +89,7 @@ def load(dataset):
             "start-date",
             "end-date",
         ]:
-            if row[field]:
-                idx[key]["organisation"][row["organisation"]][field] = row[field]
+            idx[key]["organisation"][row["organisation"]][field] = row[field]
 
 
 def add(path, date, key, h):
