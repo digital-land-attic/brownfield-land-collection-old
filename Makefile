@@ -30,6 +30,9 @@ second-pass:
 validate: $(VALIDATION_FILES)
 	@:
 
+# TBD: deal with broken file ..
+# validation/7ba205f5d2619398a931669c1e6d4c8850f6fbefe2d6838a3ebbbe5f9200b702.json
+
 $(VALIDATION_DIR)%.json: $(RESOURCE_DIR)%
 	@mkdir -p $(TMP_DIR) $(CSV_DIR) $(VALIDATION_DIR)
 	validate --exclude-input --exclude-rows --tmp-dir "$(TMP_DIR)" --save-dir "$(CSV_DIR)" --file $< --output $@
