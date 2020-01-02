@@ -1,6 +1,232 @@
 {
-  "field": {
-    "OrganisationURI" : [ "OrganistionURI" ],
-    "OrganisationLabel" : [ "OrganistionLabel" ]
-  }
-}
+    "fields": [
+        {
+            "name": "OrganisationURI",
+            "title": "Organisation URI",
+            "description": "This is the URL of the organisation on https://opendatacommunities.org",
+            "type": "string",
+            "format": "uri",
+            "constraints": {
+                "required": true
+            },
+            "typos": [ "OrganistionURI" ]
+        },
+        {
+            "name": "OrganisationLabel",
+            "title": "Organisation Label",
+            "description": "The organisation's name",
+            "type": "string",
+            "constraints": {
+                "required": false,
+                "deprecated": true
+            },
+            "typos": [ "OrganistionLabel" ]
+        },
+        {
+            "name": "SiteReference",
+            "title": "Site reference",
+            "description": "A unique reference that an organisation uses to identify the site",
+            "type": "string",
+            "unique": true,
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "SiteNameAddress",
+            "title": "The site name and address",
+            "description": "This contains the name of the site and it's address. It may contain commas, spaces and line endings and if so then this field must be fully quoted",
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "GeoX",
+            "title": "GeoX",
+            "description": "The longitude of a point close to the centre of the site. The value should be 6 or fewer decimal places, using the WGS84 or ETRS89 coordinate systems specified by the open standards for government guidance",
+            "type": "number",
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "GeoY",
+            "title": "GeoY",
+            "description": "The latitude of a point close to the centre of the site. The value should be 6 or fewer decimal places, using the WGS84 or ETRS89 coordinate systems specified by the open standards for government guidance",
+            "type": "number",
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "SiteplanURL",
+            "title": "Site plan url",
+            "description": "The site plan url if available on a public url",
+            "type": "string",
+            "format": "uri",
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "Hectares",
+            "title": "Hectares",
+            "description": "The land area of the site in hectares, up to 2 decimal places.",
+            "type": "number",
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "OwnershipStatus",
+            "title": "Ownership status",
+            "description": "The site’s ownership",
+            "type": "string",
+            "constraints": {
+                "required": true,
+                "pattern": "(?i)(owned by a public authority|mixed ownership|not owned by a public authority)"
+            }
+        },
+        {
+            "name": "PlanningStatus",
+            "title": "Planning status",
+            "description": "The stage of the planning process the site is at",
+            "type": "string",
+            "constraints": {
+                "required": true,
+                "pattern": "(?i)(permissioned|not permissioned|pending decision)"
+            }
+        },
+        {
+            "name": "PermissionType",
+            "title": "Permission type",
+            "description": "The permission type the site has:",
+            "type": "string",
+            "constraints": {
+                "required": false,
+                "pattern": "(?i)(full planning permission|outline planning permission|reserved matters approval|permission in principle|technical details consent|planning permission granted under an order|other)"
+            }
+        },
+        {
+            "name": "PermissionDate",
+            "title": "Permission date",
+            "description": "The date the most recent permission was granted on the site",
+            "type": "date",
+            "constraints": {
+                "required": false
+            }
+        },
+        {
+            "name": "PlanningHistory",
+            "title": "Planning history",
+            "description": "Links to any web pages that give information on the site’s planning history. Multiple links must be separated by pipe character",
+            "type": "string",
+            "constraints": {
+                "required": false
+            }
+        },
+        {
+            "name": "Deliverable",
+            "title": "Deliverable",
+            "description": "This indicates if there is a reasonable prospect that residential development will take place on the land within 5 years of the date you enter this site inthe register",
+            "type": "string",
+            "constraints": {
+                "required": false,
+                "pattern": "(?i)(y|yes)"
+            }
+        },
+        {
+            "name": "NetDwellingsRangeFrom",
+            "title": "Net dwellings range from",
+            "description": "The minimum number of dwellings that the local authority estimates the site should support, as defined in http://www.legislation.gov.uk/uksi/2017/403/regulation/2/made",
+            "type": "number",
+            "constraints": {
+                "required": false
+            }
+        },
+        {
+            "name": "NetDwellingsRangeTo",
+            "title": "Net dwellings range to",
+            "description": "The maximum number of dwellings that the local authority estimates the site should support, as defined in regulation 2 of the 2017 Regulations (http://www.legislation.gov.uk/uksi/2017/403/regulation/2/made)",
+            "type": "number",
+            "constraints": {
+                "required": false
+            }
+        },
+        {
+            "name": "HazardousSubstances",
+            "title": "Hazardous substances",
+            "description": "This indicates if the local authority is required by regulation 26(3) of the Planning (Hazardous Substances) Regulations 2015 (https://www.legislation.gov.uk/uksi/2015/627/regulation/26/made) to conduct an environmental impact assessment on the proposed development",
+            "type": "string",
+            "constraints": {
+                "required": false,
+                "pattern": "(?i)(y|yes)"
+            }
+        },
+        {
+            "name": "Notes",
+            "title": "Notes",
+            "description": "General information about a site that developers might find useful",
+            "type": "string",
+            "constraints": {
+                "required": false
+            }
+        },
+        {
+            "name": "FirstAddedDate",
+            "title": "First added date",
+            "description": "The date that the site was first added to this register, in the format YYYY-MM-DD",
+            "type": "date",
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "LastUpdatedDate",
+            "title": "Last updated date",
+            "description": "The date this entry in the register was updated in the format YYYY-MM-DD",
+            "type": "date",
+            "constraints": {
+                "required": false
+            }
+        },
+        {
+            "name": "EndDate",
+            "title": "End date",
+            "description": "The date the site was developed or determined to no longer be a brownfield site, in the format YYYY-MM-DD. If the site no longer needs to be listed it should remain on the register and not be deleted",
+            "type": "date",
+            "constraints": {
+                "required": false
+            }
+        }
+    ],
+
+    "stuff": [
+         "SiteReference",
+         "PreviouslyPartOf",
+         "SiteNameAddress",
+         "SiteplanURL",
+         "CoordinateReferenceSystem",
+         "GeoX",
+         "GeoY",
+         "Hectares",
+         "OwnershipStatus",
+         "Deliverable",
+         "PlanningStatus",
+         "PermissionType",
+         "PermissionDate",
+         "PlanningHistory",
+         "ProposedForPIP",
+         "MinNetDwellings",
+         "DevelopmentDescription",
+         "NonHousingDevelopment",
+         "Part2",
+         "NetDwellingsRangeFrom",
+         "NetDwellingsRangeTo",
+         "HazardousSubstances",
+         "SiteInformation",
+         "Notes",
+         "FirstAddedDate",
+         "LastUpdatedDate"
+   ]
+ }
