@@ -32,4 +32,5 @@ jobs:
         git remote set-url origin https://${GITHUB_ACTOR_USERNAME}:${GITHUB_ACTOR_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
         git checkout master
         git add .
+        git reset src/validator
         git diff --quiet && git diff --staged --quiet || (git commit -m "Commit files collected on $(date +%F)"; git push origin master)
