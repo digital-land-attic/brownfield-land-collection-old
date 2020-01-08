@@ -1,6 +1,9 @@
 name: Run brownfield land collection at midnight, every night
 
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron:  '0 0 * * *'
 
