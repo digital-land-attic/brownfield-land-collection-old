@@ -161,9 +161,8 @@ local-authority-eng:CMD,https://www.camden.gov.uk/planning-guidance#byto,https:/
 local-authority-eng:COL,http://datashare.colchester.gov.uk/View/planning-and-licensing/brownfield-land-register,https://s3.eu-west-2.amazonaws.com/digital-land/brownfield-sites/COL-2017-07-23.csv,2017-07-23,
 local-authority-eng:CON,https://www.cornwall.gov.uk/environment-and-planning/planning/planning-policy/adopted-plans/evidence-base/register-of-brownfield-land/,http://www.cornwall.gov.uk/media/30358128/cornwallcouncil_brownfieldregister_2017-12-12_rev1.csv,2017-12-12,
 local-authority-eng:CON,https://www.cornwall.gov.uk/environment-and-planning/planning/planning-policy/adopted-plans/evidence-base/register-of-brownfield-land/,https://www.cornwall.gov.uk/media/35844736/cornwallcouncil_brownfieldregister_2018-12-12_rev1.csv,2018-12-12,
-local-authority-eng:COP,https://www.copeland.gov.uk/content/brownfield-register,https://www.copeland.gov.uk/sites/default/files/attachments/copeland_brownfield_register.csv,,2019-11-29
+local-authority-eng:COP,https://www.copeland.gov.uk/content/brownfield-register,https://www.copeland.gov.uk/sites/default/files/attachments/copeland_brownfield_register.csv,,
 local-authority-eng:COP,https://www.copeland.gov.uk/content/brownfield-register,https://www.copeland.gov.uk/sites/default/files/attachments/copeland_brownfield_register_0.csv,2018-02-14,2010-12-27
-local-authority-eng:COP,https://www.copeland.gov.uk/content/brownfield-register,https://www.copeland.gov.uk/sites/default/files/attachments/copeland_brownfield_register.csv,2019-12-27,
 local-authority-eng:COR,http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1593,http://www.nnjpu.org.uk/docs/BrownfieldLandRegisterTemplate%20-%202017%20Update%20-%20ONLINE%20VERSION.xlsm,,
 local-authority-eng:COT,,http://www.cotswold.gov.uk/media/1565830/Brownfield-Land-Register.csv,,
 local-authority-eng:COT,https://www.cotswold.gov.uk/planning-policy/evidence-base-and-monitoring/,https://www.cotswold.gov.uk/media/1688109/1204-Brownfield-Register-2018-CSV.csv,,
