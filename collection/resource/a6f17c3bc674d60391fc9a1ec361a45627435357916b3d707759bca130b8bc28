@@ -1,0 +1,34 @@
+Fields,LLDC1,LLDC2
+OrganisationURI,http://opendatacommunities.org/doc/dev-corp/london-legacy,http://opendatacommunities.org/doc/dev-corp/london-legacy
+OrganisationLabel,London Legacy Development Corporation,London Legacy Development Corporation
+SiteReference,LLDC1,LLDC2
+PreviouslyPartOf,,
+SiteNameAddress,"PDZ8.1 (Bridgewater Road), and PDZ8.4 (Warton Road).","PDZ12, and adjacent to, Rick Roberts Way"
+SiteplanURL,http://www.queenelizabetholympicpark.co.uk/-/media/lldc/planning/brownfield-register/lldc1.ashx?la=en,http://www.queenelizabetholympicpark.co.uk/-/media/lldc/planning/brownfield-register/lldc2.ashx?la=en
+CoordinateReferenceSystem,ETRS89,ETRS89
+GeoX,-0.008506472,-0.003976
+GeoY,51.53442379,51.533663
+EASTING,538221.25,538489
+NORTHING,183691.16,183572
+Hectares,2.9,3.34
+OwnershipStatus,Owned by a public authority,Mixed ownership
+Deliverable,Yes,Yes
+Planning Status,Permissioned,Permissioned
+PermissionType,Outline planning permission,Outline planning permission
+PermissionDate,28/09/2012,28/09/2012
+PlanningHistory,Planning Application - 11/90621/OUTODA (Outline Permission),Planning Application - 11/90621/OUTODA (Outline Permission)
+ProposedForPIP,No,No
+MinNetDwellings,300,400
+DevelopmentDescription,"Part of mixed use development within the Queen Elizabeth Olympic Park, comprising up to 763,500m2 of floorspace in various use classes. Outline permission has been granted for approximately 300 residential units on the part of the site known as PDZ8.1 & 8.4","Part of outline permission for mixed use development within the Queen Elizabeth Olympic Park, comprising up to 763,500m2 of floorspace in various use classes.  Outline permission has been granted for approximately 400 residential units, retail and community floorspace on the part of the site known as PDZ12."
+NonHousingDevelopment,,"Retail floorspace of up to 550sqm and community facilities (D1) of up to 11,660sqm"
+Part2,No,No
+NetDwellingsRangeFrom,,
+NetDwellingsRangeTo,,
+HazardousSubstances,,
+SiteInformation,, 
+Notes,,
+FirstAddedDate,30-Nov-17,30-Nov-17
+LastUpdatedDate,30-Nov-17,30-Nov-17
+PlanningAuthority1,,
+PlanningAuthority2,,
+PlanningAuthority3,,
