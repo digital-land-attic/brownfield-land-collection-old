@@ -6,7 +6,7 @@
 RESOURCE_DIR=collection/resource/
 VALIDATION_DIR=validation/
 TMP_DIR=var/tmp/
-CSV_DIR=var/csv/
+NORMALISED_DIR=normalised/
 
 DATASET_NAMES=brownfield-land
 DATASET_FILES=dataset/brownfield-land.csv
@@ -24,19 +24,20 @@ all: collect second-pass
 collect:	$(DATASET_FILES)
 	python3 bin/collector.py $(DATASET_NAMES)
 
+# restart the make process to pick-up collected files
 second-pass:
 	@make --no-print-directory validate index
 
 validate: $(VALIDATION_FILES)
 	@:
 
-# TBD: deal with broken file ..
+# TBD: deal with files which the validator fails on ..
 # validation/7ba205f5d2619398a931669c1e6d4c8850f6fbefe2d6838a3ebbbe5f9200b702.json
 # validation/9155144a6fefb61252f68c817b8e2050c14e10072260cd985f53cb74c09a4650.json - semicolons break the validator
 
 $(VALIDATION_DIR)%.json: $(RESOURCE_DIR)%
-	@mkdir -p $(TMP_DIR) $(CSV_DIR) $(VALIDATION_DIR)
-	validate --exclude-input --exclude-rows --tmp-dir "$(TMP_DIR)" --save-dir "$(CSV_DIR)" --file $< --output $@
+	@mkdir -p $(TMP_DIR) $(NORMALISED_DIR) $(VALIDATION_DIR)
+	validate --exclude-input --exclude-rows --tmp-dir "$(TMP_DIR)" --save-dir "$(NORMALISED_DIR)" --file $< --output $@
 
 
 index: $(COLLECTION_INDEX)
