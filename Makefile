@@ -32,6 +32,7 @@ validate: $(VALIDATION_FILES)
 
 # TBD: deal with broken file ..
 # validation/7ba205f5d2619398a931669c1e6d4c8850f6fbefe2d6838a3ebbbe5f9200b702.json
+# validation/9155144a6fefb61252f68c817b8e2050c14e10072260cd985f53cb74c09a4650.json - semicolons break the validator
 
 $(VALIDATION_DIR)%.json: $(RESOURCE_DIR)%
 	@mkdir -p $(TMP_DIR) $(CSV_DIR) $(VALIDATION_DIR)
