@@ -3,17 +3,34 @@
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/brownfield-land/blob/master/LICENSE)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://black.readthedocs.io/en/stable/)
 
-Collect brownfield land register data from each Local Planning Authority, validate the data, and build a national dataset.
+Collect data published by each Local Planning Authority, validate the publications, and build a national [dataset](dataset).
 
-The source list of registers collected is kept and maintained in [dataset/brownfield-land.csv](dataset/brownfield-land.csv).
+# Process
 
-The [collection](collection) directory contains:
+The source list of registers collected is kept and maintained in [data/brownfield-land.csv](data/brownfield-land.csv).
+
+The [collection](collection) directory contains resources collected from sources:
 
 * [collection/log](collection/log) -- log entries by date (sha256 hash of the URL)
 * [collection/resource](collection/resource) -- collected files (sha256 of the contents)
-* [index.json](collection/index.json) -- an index into the collection, used to build [dataset](https://digital-land.github.io/dataset/brownfield-land/) and other pages
 
-The [validation](validation) directory contains the results of validating each resource as JSON.
+Each collected resource is processed, creating a file with the same basename as the resource in the following directories:
+
+* [validation](validation) -- validation results for each resource as JSON
+* [converted](converted) -- the resource converted into CSV
+* [normalised](normalised) -- the normalised resource as CSV
+* [harmonised](harmonised) -- the harmonised resource as CSV
+
+The collection is then collated into a register for each organisation, and a national dataset (TBD).
+
+A number of index files are generated for the collection:
+
+* [index/link.csv](index/link.csv) -- url, link (hash)
+* [index/log.csv](index/log.csv) -- datetime, link, resource, HTTP status, content-type, elapsed time
+* [index/resource.csv](index/resource.csv) -- resource (hash), media-type, suffix, row-count, error-count
+* [collection/index.json](collection/index.json) -- the entire index in a single JSON file (deprecated)
+
+These indexes are used by the [dataset](https://github.com/digital-land/brownfield-land/) and other code to build the [dataset](https://digital-land.github.io/dataset/brownfield-land/), [resource](https://digital-land.github.io/resource/), and other pages.
 
 # Updating the collection
 
