@@ -15,7 +15,16 @@ LOG_FILES:=$(wildcard collection/log/*/*.json)
 LOG_FILES_TODAY:=collection/log/$(shell date +%Y-%m-%d)/
 
 VALIDATION_FILES:=$(addsuffix .json,$(subst $(RESOURCE_DIR),$(VALIDATION_DIR),$(wildcard $(RESOURCE_DIR)*)))
-COLLECTION_INDEX=collection/index.json
+COLLECTION_INDEX=\
+	collection/index.json\
+	index/link.csv\
+	index/log.csv\
+	index/resource.csv
+
+TBD_COLLECTION_INDEX=\
+	index/organisation-documentation.csv\
+	index/organisation-link.csv\
+	index/organisation-resource.csv\
 
 
 all: collect second-pass

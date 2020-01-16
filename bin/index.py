@@ -20,6 +20,7 @@ dataset_dir = "dataset/"
 log_dir = "collection/log/"
 resource_dir = "collection/resource/"
 validation_dir = "validation/"
+index_dir = "index/"
 idx = {}
 resources = {}
 prune = False
@@ -50,11 +51,30 @@ def valid_date(n, date):
         logging.error("line %d: invalid date %s" % (n, date))
 
 
-def save(path, data):
+def save_json(path, data):
     logging.info(path)
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "wb") as f:
         f.write(data)
+
+
+def csv_writer(path, fieldnames):
+    logging.info(path)
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    writer = csv.DictWriter(open(path, 'w'), fieldnames=fieldnames, extrasaction="ignore")
+    writer.writeheader()
+    return writer
+
+
+def save_csv(name, fieldnames, data):
+    path = os.path.join(index_dir, name + ".csv")
+    keyfield = fieldnames[0]
+    writer = csv_writer(path, fieldnames)
+    for key in sorted(data):
+        row = data[key]
+        if keyfield not in row:
+            row[keyfield] = key
+        writer.writerow(row)
 
 
 def load(dataset):
@@ -186,7 +206,22 @@ if __name__ == "__main__":
         if not r or "valid" not in r:
             logging.error("%s%s.json missing" % (validation_dir, resource))
 
-    save("collection/index.json", canonicaljson.encode_canonical_json({
+    # save as single JSON file
+    save_json("collection/index.json", canonicaljson.encode_canonical_json({
         'key': idx,
         'resource': resources,
     }))
+
+    # save index CSV files
+    save_csv("resource", ["resource", "media-type", "suffix", "row-count", "error-count"], resources)
+    save_csv("link", ["link", "url"], idx)
+
+    log = {}
+    for link in idx:
+        for date, entry in idx[link]["log"].items():
+            entry = { key.lower(): value for key, value in entry.items() }
+            entry["link"] = link
+            entry["date"] = date
+            log["%s-%s"%(date, link)] = entry
+
+    save_csv("log", ["datetime", "link", "status", "elapsed", "resource", "content-type", "content-length"], log)
