@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron:  '0 0 * * *'
+    - cron:  '13 09 * * *'
 
 jobs:
   build:
@@ -19,8 +19,12 @@ jobs:
         python-version: 3.7
     - name: Install dependencies
       run: make init
-    - name: Run make
-      run: make
+    - name: Collect resources
+      run: make collect
+    - name: Validate collected resources
+      run: make validate
+    - name: Create indexes
+      run: make index
     - name: Commit files
       env:
         GITHUB_ACTOR_EMAIL: ${{ secrets.GITHUB_ACTOR_EMAIL }}
