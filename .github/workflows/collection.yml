@@ -1,4 +1,4 @@
-name: Run brownfield land collection at midnight, every night
+name: Run brownfield land collection and validation
 
 on:
   push:
@@ -6,6 +6,11 @@ on:
       - master
   schedule:
     - cron:  '13 01 * * *'
+
+env:
+  GITHUB_ACTOR_EMAIL: ${{ secrets.GITHUB_ACTOR_EMAIL }}
+  GITHUB_ACTOR_TOKEN: ${{ secrets.GITHUB_ACTOR_TOKEN }}
+  GITHUB_ACTOR_USERNAME: ${{ secrets.GITHUB_ACTOR_USERNAME }}
 
 jobs:
   build:
@@ -17,24 +22,30 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: 3.7
-    - name: Install dependencies
-      run: make init
-    - name: Collect resources
-      run: make collect
-    - name: Validate collected resources
-      run: make validate
-    - name: Create indexes
-      run: make index
-    - name: Commit files
-      env:
-        GITHUB_ACTOR_EMAIL: ${{ secrets.GITHUB_ACTOR_EMAIL }}
-        GITHUB_ACTOR_TOKEN: ${{ secrets.GITHUB_ACTOR_TOKEN }}
-        GITHUB_ACTOR_USERNAME: ${{ secrets.GITHUB_ACTOR_USERNAME }}
+    - name: Setup git
       run: |
         git config user.email "${GITHUB_ACTOR_EMAIL}"
         git config user.name "${GITHUB_ACTOR_USERNAME}"
         git remote set-url origin https://${GITHUB_ACTOR_USERNAME}:${GITHUB_ACTOR_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
         git checkout master
-        git add .
-        git reset src
+    - name: Install dependencies
+      run: make init
+    - name: Collect resources
+      run: make collect
+    - name: Commit resources
+      run: |
+        git add collection
         git diff --quiet && git diff --staged --quiet || (git commit -m "Commit files collected on $(date +%F)"; git push origin master)
+    - name: Validate collected resources
+      run: make validate
+    - name: Commit validation files
+      run: |
+        git add validation
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Commit files validated on $(date +%F)"; git push origin master)
+    - name: Create indexes
+      run: make index
+    - name: Commit indexes
+      run: |
+        git add collection
+        git add validation
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Commit new index for $(date +%F)"; git push origin master)
