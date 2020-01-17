@@ -6,7 +6,7 @@
 RESOURCE_DIR=collection/resource/
 VALIDATION_DIR=validation/
 TMP_DIR=var/tmp/
-NORMALISED_DIR=normalised/
+NORMALISED_DIR=var/normalised/
 
 DATASET_NAMES=brownfield-land
 DATASET_FILES=dataset/brownfield-land.csv
