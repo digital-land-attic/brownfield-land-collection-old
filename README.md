@@ -5,9 +5,7 @@
 
 Collect data published by each Local Planning Authority, validate the publications, and build a national [dataset](dataset).
 
-# Process
-
-The source list of registers collected is kept and maintained in [data/brownfield-land.csv](data/brownfield-land.csv).
+The source list of registers collected is kept and maintained in [dataset/brownfield-land.csv](dataset/brownfield-land.csv).
 
 The [collection](collection) directory contains resources collected from sources:
 
@@ -17,9 +15,12 @@ The [collection](collection) directory contains resources collected from sources
 Each collected resource is processed, creating a file with the same basename as the resource in the following directories:
 
 * [validation](validation) -- validation results for each resource as JSON
-* [converted](converted) -- the resource converted into CSV
-* [normalised](normalised) -- the normalised resource as CSV
-* [harmonised](harmonised) -- the harmonised resource as CSV
+
+The collected resources are harmonised in the following steps:
+
+* [var/converted](var/converted) -- the resource converted into CSV
+* [var/normalised](var/normalised) -- the normalised resource as CSV
+* [var/harmonised](var/harmonised) -- the harmonised resource as CSV
 
 The collection is then collated into a register for each organisation, and a national dataset (TBD).
 
