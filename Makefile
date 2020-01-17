@@ -26,6 +26,10 @@ TBD_COLLECTION_INDEX=\
 	index/organisation-link.csv\
 	index/organisation-resource.csv\
 
+BROKEN_VALIDATIONS=\
+	validation/7ba205f5d2619398a931669c1e6d4c8850f6fbefe2d6838a3ebbbe5f9200b702.json\
+	validation/9155144a6fefb61252f68c817b8e2050c14e10072260cd985f53cb74c09a4650.json
+
 
 all: collect second-pass
 
@@ -40,9 +44,9 @@ second-pass:
 validate: $(VALIDATION_FILES)
 	@:
 
-# TBD: deal with files which the validator fails on ..
-# validation/7ba205f5d2619398a931669c1e6d4c8850f6fbefe2d6838a3ebbbe5f9200b702.json
-# validation/9155144a6fefb61252f68c817b8e2050c14e10072260cd985f53cb74c09a4650.json - semicolons break the validator
+# fix validation which the validator fails on ..
+$(BROKEN_VALIDATIONS):
+	echo '{ "meta_data": {}, "result": {"tables":[{}]} }' > $@
 
 $(VALIDATION_DIR)%.json: $(RESOURCE_DIR)%
 	@mkdir -p $(TMP_DIR) $(NORMALISED_DIR) $(VALIDATION_DIR)
