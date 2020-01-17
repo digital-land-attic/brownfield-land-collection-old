@@ -1,0 +1,50 @@
+OrganisationURI,OrganisationLabel,SiteReference,PreviouslyPartOf,SiteNameAddress,SiteplanURL,CoordinateReferenceSystem,GeoX,GeoY,Hectares,OwnershipStatus,Deliverable,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,ProposedForPIP,MinNetDwellings,DevelopmentDescription,NonHousingDevelopment,Part2,NetDwellingsRangeFrom,NetDwellingsRangeTo,HazardousSubstances,SiteInformation,Notes,FirstAddedDate,LastUpdatedDate
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,203,,"Car Lot, Parkin Street",https://www.stockton.gov.uk/media/1585224/brownfield_register_203.pdf ,OSGB36,444361,519470,0.19,not owned by a public authority,yes,permissioned,outline planning permission,2016-07-19,,,43,Residential development of 43 flats,,,,,,,16/1026/OUT,2017-12-21,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,268,,Former Roseworth Public House,https://www.stockton.gov.uk/media/1585225/brownfield_register_268.pdf ,OSGB36,442745,521729,0.2,not owned by a public authority,yes,permissioned,full planning permission,2017-05-12,,,12,12 dwelling houses and 2no. apartments with associated off street parking,,,,,,,16/2835/FUL,2017-12-21,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,452,,Bowesfield Riverside Phase 1,https://www.stockton.gov.uk/media/1585228/brownfield_register_452.pdf,OSGB36,444381,516880,6.54,not owned by a public authority,,not permissioned,,,,,148,Residential development,shop (250 square metres),,,,,,13/1667/RNW (10/0244/OUT),2017-12-21,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,506,,"Kingfisher Way, Bowesfield Park",https://www.stockton.gov.uk/media/1585223/brownfield_register_506.pdf,OSGB36,444355,516624,1.36,not owned by a public authority,,permissioned,outline planning permission,2012-08-16,,,37,Residential development of up to 37 dwellings,,,,,,,11/2450/OUT,2017-12-21,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,630,,"77 Station Road, Billingham",https://www.stockton.gov.uk/media/1585226/brownfield_register_630.pdf,OSGB36,445610,522680,0.17,not owned by a public authority,yes,permissioned,outline planning permission,2018-07-27,,,13,Raising of roof height of existing building in order to create a 3 storey building with 3 apartments at first floor and 2 apartments at second floor. Erection of 3 two storey  dwelling houses and 5 three storey houses.,2 retail units at ground floor of existing premesis,,,,,,18/0472/FUL (15/0604/OUT),2017-12-21,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,635,,46 Westbourne Street,https://www.stockton.gov.uk/media/1585222/brownfield_register_635.pdf ,OSGB36,443989,518478,0.02,not owned by a public authority,yes,permissioned,full planning permission,2017-08-14,,,8,Change of use from a HMO and extensions to create eight self contained flats,,,,,,,16/2750/REV,2018-12-15,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,674,,Navigation Way,https://www.stockton.gov.uk/media/1585229/brownfield_register_674.pdf,OSGB36,445892,518873,3.92,owned by a public authority,yes,permissioned,outline planning permission,2017-10-20,,,96,,,,96,150,,,16/1603/OUT,2017-12-21,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,681,,Pheonix House,https://www.stockton.gov.uk/media/1585227/brownfield_register_681.pdf,OSGB36,445891,516185,0.47,not owned by a public authority,yes,not permissioned,,,,,56,Change of use from office (B1a) to 56.no residential apartments (C3),,,,,,,17/0283/PDJ,2018-12-15,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,698,,"Day Nursery, Martinet Road",https://www.stockton.gov.uk/media/1585235/brownfield_register_698.pdf,OSGB36,445287,516280,0.09,not owned by a public authority,yes,permissioned,outline planning permission,2017-06-30,,,14,Three storey 14 unit block of flats (demolition of existing building).,,,,,,,16/2898/OUT,2017-12-21,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,704,,Riverside Inn,https://www.stockton.gov.uk/media/1585230/brownfield_register_704.pdf,OSGB36,444633,519182,0.04,not owned by a public authority,yes,permissioned,full planning permission,2017-08-23,,,6,Redevelopment to provide 6 no two bedroom apartments on upper floors.,"Redevelopment of ground floor public house to provide two units (either A1, A2 , A3 or A4)",,,,,,17/0873/FUL,2018-12-15,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,713,,"First Floor, The Town House, Skinner Street",https://www.stockton.gov.uk/media/1585231/brownfield_register_713.pdf,OSGB36,444234,518962,0.11,not owned by a public authority,yes,permissioned,full planning permission,2017-09-27,,,15,Change of use at first floor from HMO (C4) to create 15 individual apartments (C3),,,,,,,17/1874/FUL,2018-12-15,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,733,,"Chesterfield House, Norton",https://www.stockton.gov.uk/media/1585232/brownfield_register_733.pdf,OSGB36,444553,522364,0.5,not owned by a public authority,yes,permissioned,full planning permission,2018-06-01,,,10,Conversion of redundant school offices to form 10 No. apartments,,,,,,,17/2887/FUL ,2018-12-15,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,736,,Regency West Mall,https://www.stockton.gov.uk/media/1585234/brownfield_register_736.pdf,OSGB36,444413,518906,0.12,not owned by a public authority,yes,not permissioned,,,,,29,Change of use from office (B1a) to 29.no residential apartments (C3),,,,,,,18/0375/PDJ,2018-12-15,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,743,,Returnable Packaging Services Limited,https://www.stockton.gov.uk/media/1585233/brownfield_register_743.pdf,OSGB36,445940,513218,1.44,not owned by a public authority,,permissioned,outline planning permission,2018-09-21,,,40,Up to 40no. residential units,,,,,,,17/1912/OUT,2018-12-15,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,EPY15,,"South of Kingfisher Way, Bowesfield",https://www.stockton.gov.uk/media/1585236/brownfield_register_epy15.pdf ,OSGB36,444222,516520,0.54,not owned by a public authority,,not permissioned,,,,,20,,,,20,30,,,,2017-12-21,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,S31,,Railway Street,https://www.stockton.gov.uk/media/1585238/brownfield_register_s31.pdf,OSGB36,444464,520095,6.35,not owned by a public authority,,not permissioned,,,,,120,,,,120,200,,,07/1265/FUL,2017-12-21,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,S7,,Land off Grangefield Road (Millfield),https://www.stockton.gov.uk/media/1585239/brownfield_register_s7.pdf,OSGB36,443780,519149,17.15,not owned by a public authority,,pending decision,outline planning permission,,,,500,,,,500,800,,,18/1726/OUT,2017-12-21,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,T1,,Tees Marshalling Yard,https://www.stockton.gov.uk/media/1585240/brownfield_register_t1.pdf,OSGB36,446131,518656,34.49,not owned by a public authority,,not permissioned,,,,,900,,,,900,1300,,,,2017-12-21,2018-12-15
+http://opendatacommunities.org/id/unitary-authority/stockton-on-tees,Stockton-on-Tees Borough Council,T13,,Magister Road,https://www.stockton.gov.uk/media/1585237/brownfield_register_t13.pdf,OSGB36,445499,516198,0.6,not owned by a public authority,,not permissioned,,,,,20,,,,20,35,,,,2017-12-21,2018-12-15
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
