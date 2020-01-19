@@ -1,0 +1,353 @@
+OrganisationURI
+
+OrganisationLabel
+
+SiteReference
+
+http://opendatacommunitie
+s.org/id/districtcouncil/ryedale
+
+Ryedale District Council
+
+Kirbymoorside-01
+
+http://opendatacommunitie
+s.org/id/districtcouncil/ryedale
+http://opendatacommunitie
+s.org/id/districtcouncil/ryedale
+
+Ryedale District Council
+
+Ryedale District Council
+
+SiteNameAddress
+
+SitePlanURL
+
+CoordinateReferenceSystem
+
+GeoX
+
+GeoY
+
+Hectares
+
+OwnershipStatus
+
+Deliverable
+
+PlanningStatus
+
+"Old Brickworks (southern
+part), North of Swineherd
+Lane, Kirkbymoorside"
+
+https://www.ryedale.gov.uk/i
+mages/PDF/planning/Old_Bric
+kworks_North_of_Swineherd_
+Lane_Kirkbymoorside.pdf
+
+ETRS89
+
+-0.922285
+
+54.270260
+
+0.38
+
+not owned by a public
+authority
+
+yes
+
+pending decision
+
+Kirbymoorside-04
+
+"Former Russells (western
+part), New Road,
+Kirkbymoorside"
+
+https://www.ryedale.gov.uk/i
+mages/PDF/planning/Russells_
+New_Road_Kirkbymoorside.p
+df
+
+ETRS89
+
+-0.929952
+
+54.265857
+
+0.64
+
+not owned by a public
+authority
+
+yes
+
+permissioned
+
+Malton-02
+
+"Ryedale House, Old Malton
+Road, Malton"
+
+https://www.ryedale.gov.uk/i
+mages/PDF/planning/Ryedale_
+House_Malton.pdf
+
+1.40
+
+owned by a public
+authority
+
+yes
+
+not permissioned
+
+https://www.ryedale.gov.uk/i
+"Former ATS (Car Workshop),
+mages/PDF/planning/ATS_car_
+north of Commercial Street,
+workshop_North_of_Commer
+Norton"
+cial_Street_Norton.pdf
+
+ETRS89
+
+-0.786712
+
+54.132817
+
+0.74
+
+not owned by a public
+authority
+
+https://www.ryedale.gov.uk/i
+mages/PDF/planning/Former_
+Highways_Depot_Westgate_Ol
+d_Malton.pdf
+
+ETRS89
+
+-0.780027
+
+54.145702
+
+0.46
+
+owned by a public
+authority
+
+https://www.ryedale.gov.uk/i
+"Land South of Outgang Road, mages/PDF/planning/FC_Site_
+North of Crossgates Lane,
+Land_south_of_Outgang_Lane
+Pickering"
+_North_of_Crossgates_Lane_P
+ickering.pdf
+
+ETRS89
+
+-0.773682
+
+54.241593
+
+0.48
+
+owned by a public
+authority
+
+http://opendatacommunitie
+s.org/id/districtcouncil/ryedale
+
+Ryedale District Council
+
+Norton-07
+
+http://opendatacommunitie
+s.org/id/districtcouncil/ryedale
+
+Ryedale District Council
+
+Old_Malton-02
+
+http://opendatacommunitie
+s.org/id/districtcouncil/ryedale
+
+Ryedale District Council
+
+Pickering-02
+
+PreviouslyPartOf
+
+"Former Highways depot,
+Westgate, Old Malton"
+
+ETRS89
+
+-0.789411
+
+54.139191
+
+PermissionType
+
+PermissionDate
+
+PlanningHistory
+
+ProposedForPIP
+
+MinNetDwellings
+
+6
+
+reserved matters
+approval
+
+2011-04-21
+
+19
+
+DevelopmentDescription
+
+NonHousingDevelopment
+
+Part2
+
+NetDwellingsRangeFrom
+
+NetDwellingsRangeTo
+
+HazardousSubstances
+
+SiteInformation
+
+Notes
+
+"Proposed erection of 4 no. semi-detached dwellings
+and 2 no. detached dwellings, the erection of garages
+and the creation and alterations of vehicular access
+points"
+"Site forms part of wider site with permission for
+erection of 8no. four bedroom dwellings, 16no. three
+bedroom dwellings, 20no. two bedroom dwellings and
+2no. one bedroom dwellings with associated garaging
+and parking"
+
+42
+
+permissioned
+
+full planning
+permission
+
+2015-08-28
+
+22
+
+yes
+
+permissioned
+
+reserved matters
+approval
+
+2017-01-27
+
+14
+
+yes
+
+not permissioned
+
+14
+
+"Erection of 37no. one bedroom apartments. 20no. two
+bedroom apartments, 5no. three bedroom dwellings
+with undercroft parking, private and communal amenity
+areas, landscaping, alteration to existing vehicular access
+and erection of street front commercial unit with one
+bed studio above"
+"Site forms part of wider site with permission for
+erection of 24no. four bedroom dwellings, 9no. three
+bedroom dwellings and 6no. two bedroom dwellings
+with associated garaging, parking, amenity areas and
+landscaping to include demolition and some rebuilding
+of existing site buildings"
+
+"Much of site in Flood Zone 2 or 3 - part of area may be
+suitable for flatted residential. Landowner indicated that
+current permissioned scheme is unviable"
+
+FirstAddedDate
+
+LastUpdatedDate
+
+SHLAASiteRef
+
+LDSSiteRef
+
+OSGB36 Easting OSGB36 Northing
+
+2017-12-21
+
+2017-12-21
+
+81 (part)
+
+265
+
+470284.733631 486601.328094
+
+2017-12-21
+
+2017-12-21
+
+550 (part)
+
+389 (part)
+
+469792.860692 486103.754360
+
+2017-12-21
+
+2017-12-21
+
+92
+
+450
+
+479187.565812 472158.628648
+
+2017-12-21
+
+2017-12-21
+
+431
+
+2017-12-21
+
+2017-12-21
+
+512 (part)
+
+350 (part)
+
+479788.115039 472893.537012
+
+2017-12-21
+
+2017-12-21
+
+133
+
+142
+
+480017.492669 483569.625303
+
+479376.035424 471452.451826
+
+

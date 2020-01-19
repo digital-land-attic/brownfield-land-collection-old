@@ -1,0 +1,23 @@
+Swindon Borough Council
+Brownfield Land Register - 31st December 2018
+This brownfield land register has been compiled to show deliverable, possibly deliverable land that is available for residential development
+The register has been produced inline with Regualtion 4 of The Town and Country Planning (Brownfield Land Register) Regulations 2017.
+The information contained within this dataset is accurate as of 31st December 2018
+For more information about Regulation 4 - click here:
+http://www.legislation.gov.uk/uksi/2017/403/regulation/4/made
+For more information about The Town and Country Planning Regulations 2017 - click here:
+http://www.legislation.gov.uk/uksi/2017/403/contents/made
+For more information about the Brownfield Register, generally - click here:
+https://www.gov.uk/guidance/brownfield-land-registers
+Brownfield land, aslo known as previously developed land is defined as land which is or was occupied by a permanent structure, including the curtilage of the
+developed land (although it should not be assumed that the whole of the curtilage should be developed) and any associated fixed surface infrastructure. This
+excludes: land that is or was last occupied by agricultural or forestry buildings; land that has been developed for minerals extraction or waste disposal by landfill,
+where provision for restoration has been made through development management procedures; land in built-up areas such as residential gardens, parks, recreation
+grounds and allotments; and land that was previously developed but where the remains of the permanent structure or fixed surface structure have blended into the
+landscape.
+(National Planning Policy Framework, July 2018, P72 [https://www.gov.uk/government/publications/national-planning-policy-framework--2])
+
+Part 1: All brownfield sites that are appropriate for residential development
+Part 2: Sites that have been granted permission in principle
+
+

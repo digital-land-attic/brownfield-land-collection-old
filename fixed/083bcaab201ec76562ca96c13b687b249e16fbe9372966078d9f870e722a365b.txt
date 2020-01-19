@@ -1,0 +1,1255 @@
+Fylde Council Brownfield Land Register
+(a) Reference (b) name and address
+number
+
+(c) plan
+
+(d) location
+easting
+
+(d) location
+northing
+
+(e) co-ordinate
+system
+
+(f) area of
+land, Ha
+
+(g) name of
+(h) URI of
+Local Authority Local
+Authority
+
+(i) ownership status (j) deliverable? (k) planning
+status
+
+(l) permission
+status
+
+(m) no. of
+dwellings
+
+(n) minimum (o) non-housing (p) date
+development
+entered
+
+BP01
+
+Land off Bridgeside, St Annes
+
+Provided
+separately
+
+330941
+
+431694 OSGB36
+
+0.426 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Permissioned
+public authority
+
+Full (aa) 26/02/2014 (13/0321)
+22
+
+22
+
+21/12/2017
+
+BP02
+
+Council Car Park & Airport Parking Site, rear 11-63
+Westgate Road, St Annes
+
+Provided
+separately
+
+331213
+
+431629 OSGB36
+
+0.647 Fylde Council
+
+unknown
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Permissioned
+ownership
+
+Full (aa) 18/03/2016 (16/0194)
+25
+
+25
+
+21/12/2017
+
+BP03
+
+Pontins Holiday Centre, Clifton Drive North, St Annes
+
+Provided
+separately
+
+330855
+
+431298 OSGB36
+
+15.632 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Permissioned
+public authority
+
+Full (aa) 28/03/2017 (16/0062)
+369
+
+369
+
+21/12/2017
+
+BP05a
+
+Former Clock Garage, Preston New Road, Westby
+
+Provided
+separately
+
+335688
+
+432946 OSGB36
+
+1.576 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Permissioned
+public authority
+
+Out (bb)14/01/2013 (11/0847)
+14 (RM pending 15/0891)
+14
+
+BP28
+
+Spengarth, Cropper Road, Westby
+
+Provided
+separately
+
+334422
+
+432924 OSGB36
+
+0.67 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Pending decision
+public authority
+
+EL03
+
+Land adj. Bonds of Elswick, Bonds Lane, Elswick
+
+Provided
+separately
+
+342262
+
+438585 OSGB36
+
+0.26 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Permissioned
+public authority
+
+FR04
+
+122 Lytham Road, Freckleton
+
+Provided
+separately
+
+342441
+
+428896 OSGB36
+
+0.26 Fylde Council
+
+FR05
+
+Land off Ruskin Road, Freckleton
+
+Provided
+separately
+
+342624
+
+428833 OSGB36
+
+FR11a
+
+Land to rear 56-64 Preston Old Road, Freckleton
+
+Provided
+separately
+
+343224
+
+FR41
+
+Croft Court, Naze Lane, Freckleton
+
+Provided
+separately
+
+FR48
+
+Naze Court, Naze Lane, Freckleton
+
+FR49
+
+14
+
+21/12/2017
+
+14
+
+21/12/2017
+
+Out (bb) 12/02/2016 (15/0349)
+8
+
+8
+
+21/12/2017
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Permissioned
+public authority
+
+Full (aa) 22/09/2017 (17/0393)
+7
+
+7
+
+21/12/2017
+
+0.38 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Permissioned
+public authority
+
+Full (aa) 12/12/2016 (16/0609)
+11
+
+11
+
+21/12/2017
+
+428873 OSGB36
+
+0.27 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Permissioned
+public authority
+
+Out (bb) 13/01/2017 (16/0730)
+9
+
+9
+
+21/12/2017
+
+342957
+
+428751 OSGB36
+
+0.45 Fylde Council
+
+owned by a public
+http://opendatacommunities.org/id/district-council/fylde
+Not permissioned
+authority
+
+13
+
+13
+
+21/12/2017
+
+Provided
+separately
+
+342817
+
+428738 OSGB36
+
+0.33 Fylde Council
+
+owned by a public
+http://opendatacommunities.org/id/district-council/fylde
+Not permissioned
+authority
+
+12
+
+12
+
+21/12/2017
+
+Whittles, Preston New Road, Warton
+
+Provided
+separately
+
+343409
+
+429315 OSGB36
+
+0.29 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Permissioned
+public authority
+
+Out (bb) 03/06/2015 (14/0913)
+4
+
+4
+
+21/12/2017
+
+FR50
+
+197 Kirkham Road, North Bypass, Freckleton
+
+Provided
+separately
+
+342357
+
+429894 OSGB36
+
+2.6 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Permissioned
+public authority
+
+Full (aa) 03/12/2015 (14/0895)
+12
+
+12
+
+21/12/2017
+
+FR10
+
+Quernmore Trading Estate, Croft Butts Lane, Freckleton
+
+Provided
+separately
+
+343056
+
+428698 OSGB36
+
+0.48 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Permissioned
+public authority
+
+Full (aa) 22/12/2017 (17/0961)
+10
+
+10
+
+21/12/2017
+
+KI01
+
+Sunnybank Mill, Best Street, Kirkham
+
+Provided
+separately
+
+341802
+
+432382 OSGB36
+
+1.3 Fylde Council
+
+http://opendatacommunities.org/id/district-council/fylde
+mixed ownership
+Not permissioned
+
+55
+
+55
+
+21/12/2017
+
+KI30b
+
+Campbells Caravans, Blackpool Road, Kirkham
+
+Provided
+separately
+
+340497
+
+429315 OSGB36
+
+2.6 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+public authority
+
+30
+
+30
+
+21/12/2017
+
+KI45
+
+Post Office Hotel, 18 Freckleton Street, Kirkham
+
+Provided
+separately
+
+342622
+
+432067 OSGB36
+
+0.06 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Pending decision
+public authority
+
+6
+
+6
+
+21/12/2017
+
+LE09
+
+Sunnydale Nurseries, Garstang Road, Little Eccleston
+
+Provided
+separately
+
+341756
+
+440388 OSGB36
+
+1 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Permissioned
+public authority
+
+Full (aa) 11/08/2017 (16/0968)
+41
+
+41
+
+21/12/2017
+
+LY14
+
+AXA Data Centre, Westcliffe, Lytham
+
+Provided
+separately
+
+337053
+
+427356 OSGB36
+
+1 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Permissioned
+public authority
+
+Full (aa) 28/06/2017 (16/0817)
+65
+
+65
+
+21/12/2017
+
+LY35
+
+Ashtons Nursery, Mythop Road, Lytham
+
+Provided
+separately
+
+337392
+
+427791 OSGB36
+
+0.3 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Pending decision
+public authority
+
+12
+
+12
+
+21/12/2017
+
+LY60
+
+Hole in One, Forest Drive, Lytham St Annes
+
+Provided
+separately
+
+335723
+
+427598 OSGB36
+
+0.35 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Pending decision
+public authority
+
+5
+
+5
+
+21/12/2017
+
+LY30
+
+Land adj. Land Registry, Preston Road, Lytham
+
+Provided
+separately
+
+337701
+
+427241 OSGB36
+
+0.481 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Permissioned
+public authority
+
+Out (bb) 11/09/2015 (14/0786)
+14
+
+14
+
+21/12/2017
+
+SA103
+
+Land adj Keenans Mill, Lord Street, St Annes
+
+Provided
+separately
+
+331984
+
+429394 OSGB36
+
+0.3 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Permissioned
+public authority
+
+Full (aa) 28/02/2017 (16/0905)
+26
+
+26
+
+21/12/2017
+
+SA10
+
+Fairways Garage, Heeley Road, St Annes
+
+Provided
+separately
+
+331609
+
+429869 OSGB36
+
+0.44 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Not permissioned
+public authority
+
+20
+
+20
+
+21/12/2017
+
+SA13
+
+Public Offices, Clifton Drive South, St Annes
+
+Provided
+separately
+
+332041
+
+432067 OSGB36
+
+0.3 Fylde Council
+
+owned by a public
+http://opendatacommunities.org/id/district-council/fylde
+Not permissioned
+authority
+
+14
+
+14
+
+21/12/2017
+
+SA50
+
+Electronic Data Systems (EDS), Heyhouses Lane, St
+Annes
+
+Provided
+separately
+
+333656
+
+429171 OSGB36
+
+4.6 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Permissioned
+public authority
+
+Out (bb) 26/10/2016 15/0787
+88
+
+88
+
+21/12/2017
+
+SA50a
+
+Electronic Data Systems (EDS), Heyhouses Lane, St
+Annes
+
+Provided
+separately
+
+333799
+
+429376 OSGB36
+
+7.2 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Permissioned
+public authority
+
+RM (cc) 25/12/2013 13/0448
+162
+
+162
+
+21/12/2017
+
+(q) date
+updated
+
+(a) Reference (b) name and address
+number
+
+(c) plan
+
+(d) location
+easting
+
+(d) location
+northing
+
+(e) co-ordinate
+system
+
+(f) area of
+land, Ha
+
+(g) name of
+(h) URI of
+Local Authority Local
+Authority
+
+(i) ownership status (j) deliverable? (k) planning
+status
+
+(l) permission
+status
+
+SA66
+
+The Gables, 35-39 Orchard Road, St Annes
+
+Provided
+separately
+
+332283
+
+428630 OSGB36
+
+0.13 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Permissioned
+public authority
+
+SA67
+
+CMVU Depot, Heeley Road, St Annes
+
+Provided
+separately
+
+331719
+
+429825 OSGB36
+
+0.17 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Not permissioned
+public authority
+
+SA87
+
+Kingsway Garage, Kingsway, Lytham St Annes
+
+Provided
+separately
+
+334544
+
+427634 OSGB36
+
+0.1 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Pending decision 11/0667
+public authority
+
+SA95
+
+259 Inner Promenade, Lytham St Annes
+
+Provided
+separately
+
+334400
+
+427432 OSGB36
+
+0.13 Fylde Council
+
+SA96
+
+Methodist Church Centre, Church Road, Lytham St
+Annes
+
+Provided
+separately
+
+332953
+
+429363 OSGB36
+
+SA98
+
+34-36 Orchard Road, Lytham St Annes
+
+Provided
+separately
+
+332144
+
+LY64
+
+Jubilee House, East Beach, Lytham
+
+Provided
+separately
+
+SA108
+SA109
+
+(m) no. of
+dwellings
+
+19
+
+21/12/2017
+
+5
+
+5
+
+21/12/2017
+
+30
+
+30
+
+21/12/2017
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Permissioned
+public authority
+
+Full (aa) 09/03/2017 (17/0010)
+7
+
+7
+
+21/12/2017
+
+0.31 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Permissioned
+public authority
+
+Full (aa) 10/11/2017 (17/0665)
+9
+
+9
+
+21/12/2017
+
+428650 OSGB36
+
+0.08 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Permissioned
+public authority
+
+Out (bb) 18/06/2015 (15/0176)
+14
+
+14
+
+21/12/2017
+
+337562
+
+427139 OSGB36
+
+1.08 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Permissioned
+public authority
+
+Full (aa) 24/10/2017 (17/0747)
+20
+
+20
+
+21/12/2017
+
+Westmoreland House, 29-31 Orchard Road, Lytham St. Provided
+Annes
+separately
+
+332247
+
+428700 OSGB36
+
+0.19 Fylde Council
+
+owned by a public
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Permissioned
+authority
+
+Full (aa) 16/11/2016 (16/0470)
+25
+
+25
+
+21/12/2017
+
+Petros House, St Andrew Road North, St. Annes
+
+Provided
+separately
+
+331967
+
+429223 OSGB36
+
+0.2 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Permissioned
+public authority
+
+Full (aa) 03/05/2016 (16/0094)
+35
+
+35
+
+21/12/2017
+
+SA110
+
+The Gallaries, 2-4 Kingsway , Lytham
+
+Provided
+separately
+
+334413
+
+427601 OSGB36
+
+0.039 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Permissioned
+public authority
+
+Full (aa) 06/11/2015 (15/0486)
+10
+
+10
+
+21/12/2017
+
+SA111
+
+St Leonards Bridge Garage, St Leonards Road East,
+Lytham St Annes
+
+Provided
+separately
+
+331871
+
+429623 OSGB36
+
+0.21 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Pending decision
+public authority
+
+38
+
+38
+
+21/12/2017
+
+SA112
+
+37-39 St Andrews Road South, St.Annes
+
+Provided
+separately
+
+332406
+
+428840 OSGB36
+
+1 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Permissioned
+public authority
+
+9
+
+9
+
+21/12/2017
+
+WA08a
+
+Georges Garage, 45 Lytham Road, Warton
+
+Provided
+separately
+
+341694
+
+428958 OSGB36
+
+0.37 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Permissioned
+public authority
+
+16
+
+16
+
+21/12/2017
+
+WS06
+
+Pennine View, Weeton Road, Wesham
+
+Provided
+separately
+
+341234
+
+433214 OSGB36
+
+0.16 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Not permissioned
+public authority
+
+12
+
+12
+
+21/12/2017
+
+SA118
+
+314 Clifton Drive North, Lytham St Annes
+
+Provided
+separately
+
+331887
+
+428818 OSGB36
+
+0.08 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Permissioned
+public authority
+
+Full (aa) 05/10/2016 16/05957
+
+7
+
+21/12/2017
+
+ST15
+
+Thornfield Holiday Camp, Castle Lane, Staining
+
+Provided
+separately
+
+334802
+
+436259 OSGB36
+
+1.14 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Not permissioned
+public authority
+
+28
+
+28
+
+21/12/2017
+
+TR03
+
+Foundary Yard, Kirkham Road, Treales
+
+Provided
+separately
+
+343992
+
+432836 OSGB36
+
+0.32 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Permissioned
+public authority
+
+Full (aa) 05/10/2016 16/02178
+
+8
+
+21/12/2017
+
+WA10
+
+4 Lytham Road, Warton
+
+Provided
+separately
+
+342102
+
+428817 OSGB36
+
+0.645 Fylde Council
+
+19
+
+19
+
+21/12/2017
+
+WA15
+
+Former GEC Marconi Factory & adjacent land, Lytham
+Road, Warton
+
+Provided
+separately
+
+341830
+
+428480 OSGB36
+
+5.1 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Deliverable
+Permissioned
+public authority
+
+Full (aa) 06/01/2016 15/0706
+169
+
+169
+
+21/12/2017
+
+WA40
+
+Oaklands Caravan Park, 252 Lytham Road, Warton
+
+Provided
+separately
+
+340581
+
+428537 OSGB36
+
+2.5 Fylde Council
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Pending decision
+public authority
+
+53
+
+53
+
+21/12/2017
+
+not owned by a
+http://opendatacommunities.org/id/district-council/fylde
+Not permissioned
+public authority
+
+Full (aa) 20/03/2017 (16/0639)
+19
+
+(n) minimum (o) non-housing (p) date
+development
+entered
+
+(q) date
+updated
+
+

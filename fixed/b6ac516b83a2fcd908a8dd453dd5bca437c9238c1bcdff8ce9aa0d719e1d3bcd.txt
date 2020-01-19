@@ -1,0 +1,700 @@
+Organisation URI
+
+Organisation
+Label
+
+http://opendatacommunities.org/id/di South Hams
+strict-council/south-hams
+District Council
+
+Site Reference
+
+SH_34_10_16
+
+Previously
+Part Of
+
+Site Name Address
+
+Siteplan URL
+
+Coordinate
+Reference System
+
+GeoX
+
+GeoY
+
+Hectares
+
+Ownership
+Status
+
+Deliverable
+
+Planning Status
+
+Permission
+Type
+
+"Former Glendinning
+Site, Torhil, Ipplepen
+Road, Marldon, TQ3
+1SE"
+
+https://www.southhams.gov.uk/ar
+ticle/4291/Brownfield-LandRegister
+
+OSGB36
+
+286488
+
+63452
+
+0.68
+
+not owned
+by a public
+authority
+
+yes
+
+pending
+decision
+
+full planning
+permission
+
+Permission Date
+
+Planning
+History
+
+Proposed For
+PIP
+
+Min Net
+Dwellings
+
+Development Description
+
+NonHousing Development
+
+10
+
+"Application for 10no. new
+dwellings"
+
+"and retention of existing office building"
+
+130
+
+"full planning permission for part demolition
+of existing buildings and removal of existing
+marina pontoons and buoys; redevelopment
+comprising a new marina of 232 berths with
+"Hybrid application. Full
+associated infrastructure including a new
+planning for 39 residential quay wall, public slipway and passenger ferry
+units (Use Class C3)" and
+pontoon; boatyard with associated
+outline permission for a
+infrastructure,
+further 91 residential
+retail/cafe/commercial/education and
+units.
+training units (3,233 sq m Use Classes
+A1/A3/B1/B2/B8/D1), drystack boat storage
+facility, decked car park, water treatment
+works, electricity substations; a hotel (4,650
+sq m), public square, car parking and access"
+
+Part 2
+
+Net
+Dwellings
+Range
+From
+
+Net
+Dwellings
+Range To
+
+Hazardous
+Substances
+
+Site
+Information
+
+Notes
+
+First Added Date Last Updated Date
+
+3951/17/FUL
+
+22/12/2017
+
+19/12/2018
+
+2161/17/OPA
+
+22/12/2017
+
+19/12/2018
+
+22/12/2017
+
+19/12/2018
+
+22/12/2017
+
+19/12/2018
+
+http://opendatacommunities.org/id/di South Hams
+strict-council/south-hams
+District Council
+
+SH_30_05_16
+
+"Noss Marina, Bridge https://www.southhams.gov.uk/ar
+Road, Kingswear,
+ticle/4291/Brownfield-LandDartmouth, TQ6 0EA"
+Register
+
+OSGB36
+
+288054
+
+52839
+
+8.93
+
+not owned
+by a public
+authority
+
+yes
+
+pending
+decision
+
+http://opendatacommunities.org/id/di South Hams
+strict-council/south-hams
+District Council
+
+SH_14_27_16
+
+"Foxhole Complex and https://www.southhams.gov.uk/ar
+Shops, Dartington,
+ticle/4291/Brownfield-LandTotnes, TQ9 6QT"
+Register
+
+OSGB36
+
+278948
+
+62308
+
+5.87
+
+not owned
+by a public
+authority
+
+yes
+
+not
+permissioned
+
+130
+
+"Mixed use - including
+homes"
+
+http://opendatacommunities.org/id/di South Hams
+strict-council/south-hams
+District Council
+
+SH_49_07_13
+
+"Marquis Motorhomes
+Site, Lee Mill"
+
+https://www.southhams.gov.uk/ar
+ticle/4291/Brownfield-LandRegister
+
+OSGB36
+
+259552
+
+55646
+
+0.34
+
+not owned
+by a public
+authority
+
+yes
+
+not
+permissioned
+
+30
+
+"Residential development"
+
+http://opendatacommunities.org/id/di South Hams
+strict-council/south-hams
+District Council
+
+SH_34_09_14
+
+"RMC Quarry Site,
+Marldon"
+
+https://www.southhams.gov.uk/ar
+ticle/4291/Brownfield-LandRegister
+
+OSGB36
+
+286243
+
+63195
+
+0.52
+
+not owned
+by a public
+authority
+
+yes
+
+permissioned
+
+5
+
+"Construction of 5
+dwellings"
+
+34/1890/15/O
+
+22/12/2017
+
+19/12/2018
+
+1483/17/POD &
+3895/17/POD
+
+22/12/2017
+
+19/12/2018
+
+other
+
+outline planning
+permission
+
+27/09/2017
+
+"retention of retail and commercial
+employment uses (use class B1)"
+
+http://opendatacommunities.org/id/di South Hams
+strict-council/south-hams
+District Council
+
+1483/17/POD
+
+"Parkers Barn, Parkers https://www.southhams.gov.uk/ar
+Way, Totnes, Devon,
+ticle/4291/Brownfield-LandTQ9 5UF"
+Register
+
+OSGB36
+
+280906
+
+59916
+
+0.46
+
+not owned
+by a public
+authority
+
+yes
+
+permissioned
+
+other
+
+27/07/2017
+
+26
+
+1483/17/POD "Prior
+approval notification for
+proposed change of use of
+a building from Office Use
+(Class B1(a)) to residential
+(C3) comprising 26 no.
+flats" . 3895/1/POD Notification for prior
+approval for proposed
+change of use of
+buildingfrom Office use
+(Class B1(a)) to 30 no. flats
+(Class C3).
+
+http://opendatacommunities.org/id/di South Hams
+strict-council/south-hams
+District Council
+
+37/2548/14/O
+
+"SX5670, 4944 West of
+https://www.southhams.gov.uk/ar
+Collaton Park, Newton
+ticle/4291/Brownfield-LandFerrers, Devon, PL8
+Register
+2NE"
+
+OSGB36
+
+256797
+
+49513
+
+3.14
+
+not owned
+by a public
+authority
+
+yes
+
+permissioned
+
+outline planning
+permission
+
+16/09/2016
+
+70
+
+"Outline application (with
+some matters reserved)
+for mixed use
+development of 70
+dwellings"
+
+"allotments, community facility, recreation
+and employment land"
+
+37/2548/14/O
+
+22/12/2017
+
+19/12/2018
+
+http://opendatacommunities.org/id/di South Hams
+strict-council/south-hams
+District Council
+
+0805/16/FUL
+
+"Police Station, Mayors https://www.southhams.gov.uk/ar
+Avenue, Dartmouth,
+ticle/4291/Brownfield-LandDevon, TQ6 9NF"
+Register
+
+OSGB36
+
+287742
+
+51448
+
+0.02
+
+owned by
+a public
+authority
+
+yes
+
+permissioned
+
+full planning
+permission
+
+22/06/2016
+
+5
+
+"Proposed demolition of
+existing police station.
+Erection of four- storey
+residential development
+consisting of 5 flats"
+
+"retained police use and parking at ground
+floor"
+
+0805/16/FUL
+
+22/12/2017
+
+19/12/2018
+
+81
+
+"Construction of new build
+residential development in
+place of former dive centre
+accommodation,
+conversion of upper fort
+and part of lower fort into
+residential units"
+
+"provision of an Interpretation Centre,
+cafe/restaurant facility, relocation of MOD
+space and commercial uses, creation of a
+service compound, car parking and other
+associated works"
+
+"58/2441/15/F,
+2821/17/FUL"
+
+22/12/2017
+
+19/12/2018
+
+32
+
+"Redevelopment of
+existing Brimhay
+Bungalows to provide 32
+new dwellings and
+associated highway.
+(12no. 1 bed apartments,
+12no. market houses and
+8 flats)"
+
+14/0142/15/F
+
+22/12/2017
+
+19/12/2018
+
+16
+
+"Redevelopment of site to
+provide replacement
+public house and
+restaurant and 10no.
+holiday units with owners
+apartment. Construction
+of 6no. 2 bed apartments
+on associated land"
+
+58/1014/15/F
+
+22/12/2017
+
+19/12/2018
+
+20
+
+"Mixed use - including
+homes"
+
+"employment use class B1 and commercial
+uses"
+
+22/12/2017
+
+19/12/2018
+
+36
+
+"Outline application with
+some matters reserved for
+construction of up to 36
+dwellings (including
+affordable housing)"
+
+" flexible shop/community space, and
+associated works including landscaping"
+
+22/12/2017
+
+19/12/2018
+
+http://opendatacommunities.org/id/di South Hams
+strict-council/south-hams
+District Council
+
+http://opendatacommunities.org/id/di South Hams
+strict-council/south-hams
+District Council
+
+58/2441/15/F
+
+14/0142/15/F
+
+"Fort Bovisand,
+Bovisand, Bovisand,
+Devon, PL9 0AB"
+
+https://www.southhams.gov.uk/ar
+ticle/4291/Brownfield-LandRegister
+
+"Brimhay Bungalows,
+Development Site At Sx https://www.southhams.gov.uk/ar
+7863 6192 Forder Lane,
+ticle/4291/Brownfield-LandDartington, Devon, TQ9
+Register
+6HT"
+
+OSGB36
+
+OSGB36
+
+248827
+
+278633
+
+50722
+
+61909
+
+3.05
+
+0.75
+
+not owned
+by a public
+authority
+
+not owned
+by a public
+authority
+
+yes
+
+yes
+
+permissioned
+
+permissioned
+
+http://opendatacommunities.org/id/di South Hams
+strict-council/south-hams
+District Council
+
+58/1014/15/F
+
+"The Eddystone Inn,
+Heybrook Bay,
+Plymouth, PL9 0BN"
+
+https://www.southhams.gov.uk/ar
+ticle/4291/Brownfield-LandRegister
+
+OSGB36
+
+249661
+
+48868
+
+0.37
+
+not owned
+by a public
+authority
+
+yes
+
+permissioned
+
+http://opendatacommunities.org/id/di South Hams
+strict-council/south-hams
+District Council
+
+SH_14_26_16
+
+"Higher Barton Farm,
+Dartington"
+
+https://www.southhams.gov.uk/ar
+ticle/4291/Brownfield-LandRegister
+
+OSGB36
+
+279883
+
+62909
+
+1.28
+
+not owned
+by a public
+authority
+
+yes
+
+not
+permissioned
+
+http://opendatacommunities.org/id/di South Hams
+strict-council/south-hams
+District Council
+
+SH_57_21_16
+
+"Land adjacent to
+Siding Cross,
+Wrangaton"
+
+https://www.southhams.gov.uk/ar
+ticle/4291/Brownfield-LandRegister
+
+OSGB36
+
+268128
+
+57565
+
+1.39
+
+not owned
+by a public
+authority
+
+yes
+
+permissioned
+
+full planning
+permission
+
+full planning
+permission
+
+full planning
+permission
+
+outline planning
+permission
+
+23/03/2016
+
+09/12/2015
+
+12/11/2015
+
+14/08/2018
+
+1317/16/OPA
+
+

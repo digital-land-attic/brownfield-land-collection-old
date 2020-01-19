@@ -1,8 +1,7 @@
 Unnamed: 0,Unnamed: 1,Unnamed: 2,PART 1 OF THE BROWNFIELD LAND REGISTER,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,PART 2 OF THE BROWNFIELD LAND REGISTER,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31
 ,,,Organisation URI,Organisation label,"Site Reference
 (reuse any existing refs
-e.g. SHLAA)
-","Previously part of
+e.g. SHLAA)","Previously part of
 
 (If reported on in earlier register)",Site name/address,Site plan (url),"Site coordinate
 (WG, OS or ETR)",Easting ref,Northing ref,"Size
@@ -29,13 +28,13 @@ substances"
 Caesars Way, Folkestone, Kent",,,620287,137503,,"Owned by a 
 public authority",,"Permitted
 Planning ref Y16/0403/SH",,,,,77,,,,,,,,,,,
-,Optional,,http://opendatacommunities.org/id/district-council/shepway,Shepway District Council,,," Land Adjoining Fairlight Terrace, 
+,Optional,,http://opendatacommunities.org/id/district-council/shepway,Shepway District Council,,,"Land Adjoining Fairlight Terrace, 
 Lydd Road, New Romney, Kent, TN28 8HE",,,605876,124771,0.425 hectares,"Not owned by a 
 public authority",,"Permitted
 Planning ref Y14/1428/SH",,,,,21,,,,,,,,,,,
 ,,,http://opendatacommunities.org/id/district-council/shepway,Shepway District Council,,,"11 Littlestone Road, 
 Littlestone, 
-Kent, TN28 8LN ",,,,,,"Not owned by a 
+Kent, TN28 8LN",,,,,,"Not owned by a 
 public authority",,"Permitted
 Planning ref Y11/0121/SH",,,,,11,,,,,,,,,,,
 ,,,http://opendatacommunities.org/id/district-council/shepway,Shepway District Council,,,"Two Bells Inn , 58 Canterbury Road, 
@@ -67,7 +66,7 @@ Planning ref Y13/0166/SH",,,,,14,,,,,,,,,,,
 ,,,http://opendatacommunities.org/id/district-council/shepway,Shepway District Council,,,"Folkestone Constitutional Club, 
 43-45 Guildhall Street, Folkestone, Kent CT20 1EF",,,622715,136132,0.034 hectares,"Not owned by a 
 public authority",,"Permitted
-Planning ref Y14/0411/SH ",,,,,8,,,,,,,,,,,
+Planning ref Y14/0411/SH",,,,,8,,,,,,,,,,,
 ,,,http://opendatacommunities.org/id/district-council/shepway,Shepway District Council,,,"116 Cheriton Road, Folkestone,
 Kent, CT19 5HQ",,,621847,136377,0.08 hectares,"Not owned by a 
 public authority",,"Permitted
@@ -96,7 +95,7 @@ Y05/0237/SH",,,,,5,,,,,,,,,,,
 Kent, CT20 2NQ",,,620957,135937,0.24 hectares,"Not owned by a 
 public authority",,"Permitted
 Planning ref 
-Y14/1149/SH ",,,,,42,,,,,,,,,,,
+Y14/1149/SH",,,,,42,,,,,,,,,,,
 ,,,http://opendatacommunities.org/id/district-council/shepway,Shepway District Council,,,"12 Jointon Road, Folkestone, Kent, 
 CT20 2RG",,,621825,135910,0.26 hectares,"Not owned by a 
 public authority",,"Permitted
@@ -104,8 +103,7 @@ Planning ref Y15/0178/SH",,,,,8,,,,,,,,,,,
 ,,,http://opendatacommunities.org/id/district-council/shepway,Shepway District Council,,,"5 Trinity Crescent,
  Folkestone,
  Kent,
- CT20 2ES
-",,,621952,135513,0.147 hectares,"Not owned by a 
+ CT20 2ES",,,621952,135513,0.147 hectares,"Not owned by a 
 public authority",,"Permitted
 Planning ref Y12/0650/SH",,,,,5,,,,,,,,,,,
 ,,,http://opendatacommunities.org/id/district-council/shepway,Shepway District Council,UA1,,"East Station Goods Yard, Southern Way, 
@@ -122,7 +120,7 @@ Planning ref Y15/0533/SH",,,,,5,,,,,,,,,,,
 Kent, TN29 9UD",,,,,0.2 hectares,"Not owned by a 
 public authority",,"Permitted
 Planning ref Y14/0578/SH",,,,,11,,,,,,,,,,,
-,,,http://opendatacommunities.org/id/district-council/shepway,Shepway District Council,UA2,,"Former Rotunda Amusement Park, Marine Parade, Folkestone, Kent ",,,623209,135663,23 hectares,"Not owned by a 
+,,,http://opendatacommunities.org/id/district-council/shepway,Shepway District Council,UA2,,"Former Rotunda Amusement Park, Marine Parade, Folkestone, Kent",,,623209,135663,23 hectares,"Not owned by a 
 public authority",,"Permitted
 Planning ref Y12/0897/SH",,,,,1000,,,,,,,,,,,
 ,,,http://opendatacommunities.org/id/district-council/shepway,Shepway District Council,,,"Shepway Resource Centre, Military Road, 
@@ -142,21 +140,20 @@ public authority",,Y15/0072/SH,,,,,8,,,,,,,,,,,
 Barracks, Military Road, Sandgate, Kent",,,620327,135489,1.44 hectares,"Not owned by a 
 public authority",,Y11/0137/SH,,,,,6,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,1512,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Places annd Policies Local Plan sites,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,Shepway District Council,UA3,,"The Royal Victoria Hospital, 
 Radnor Park Avenue",,,,,1 hectare,,,,,,,,42,,,,,,,,,,,
 ,,,,Shepway District Council,UA4,,"3-5 Shorncliffe Road, Folekstone",,,,,0.15 hectares,,,,,,,,20,,,,,,,,,,,
 ,,,,Shepway District Council,UA7,,"Former Gas Works, Ship Street, 
 Folkestone",,,,,1.5 hectares,,,,,,,,100,,,,,,,,,,,
-,,,,Shepway District Council,UA8,,"Highview School, Moat Farm Road ",,,,,0.9 hectares,,,,,,,,27,,,,,,,,,,,
+,,,,Shepway District Council,UA8,,"Highview School, Moat Farm Road",,,,,0.9 hectares,,,,,,,,27,,,,,,,,,,,
 ,,,,Shepway District Council,UA9,,"Brockman Family Centre, Cheriton",,,,,0.87 hectares,,,,,,,,26,,,,,,,,,,,
 ,,,,Shepway District Council,UA10,,"The Cherry Pickers Public House, 
 Cheriton",,,,,0.23 hectares,,,,,,,,10,,,,,,,,,,,
 ,,,,Shepway District Council,UA11,,"Affinity Water, Shearway Road, 
 Cheriton",,,,,2.87 hectares,,,,,,,,70,,,,,,,,,,,
 ,,,,Shepway District Council,UA12,,"Encombe House, Sandgate",,,,,1.65 hectares,,,,,,,,36,,,,,,,,,,,
-,,,,Shepway District Council,UA13 ,,"Smiths Medical Campus, Hythe",,,,,3.2 hectares,,,,,,,,80,,,,,,,,,,,
+,,,,Shepway District Council,UA13,,"Smiths Medical Campus, Hythe",,,,,3.2 hectares,,,,,,,,80,,,,,,,,,,,
 ,,,,Shepway District Council,UA16,,"St Saviour's Hosptial, Seabrook 
 Road, Hythe",,,,,1.14 hectares,,,,,,,,50,,,,,,,,,,,
 ,,,,Shepway District Council,UA17,,"Foxwood School, Seabrook Road, 
@@ -176,5 +173,4 @@ Corner, Brookland",,,,,0.27 hectares,,,,,,,,5,,,,,,,,,,,
 ,,,,Shepway District Council,ND5,,"General Sellindge policy 
 (Silver Spray site)",,,,,0.45 hectares,,,,,,,,5,,,,,,,,,,,
 ,,,,Shepway District Council,ND9,,"Etchinghill Nursery, Etchinghill",,,,,,,,,,,,,30,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,957,,,,,,,,,,,

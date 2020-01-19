@@ -1,0 +1,3859 @@
+Organisation
+Label
+
+Organisation Uri
+
+Brownfield
+Register
+Reference
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR001
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR002
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingBR003
+forest
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingBR004
+forest
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingBR005
+forest
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR006
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR007
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR008
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR009
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingBR010
+forest
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR011
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR012
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR013
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingBR014
+forest
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingBR015
+forest
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingBR016
+forest
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR017
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR018
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR019
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR020
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR021
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR022
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR023
+
+Local Plan Site
+Allocation Reference /
+SLAA Site Reference
+
+BUCK.R1
+
+BUCK.R2
+
+BUCK.R3
+
+CHIG.R1
+
+CHIG.R2
+
+CHIG.R5
+
+CHIG.R7
+
+CHIG.R9
+
+CHIG.R10
+
+CHIG.R6
+
+CHIG.R8
+
+CHIG.R11
+
+ONG.R8
+
+COOP.R1
+
+EPP.R3
+
+EPP.R4
+
+EPP.R5
+
+EPP.R6
+
+EPP.R7
+
+EPP.R8
+
+EPP.R9
+
+EPP.R10
+
+EPP.R11
+
+Site Address
+
+St. Just 1 Powell Road
+Buckhurst Hill IG9 5RF
+Lower Car Park,Queens
+Road Buckhurst Hill IG9
+5BZ
+
+2-7 Lower Queens Road
+Buckhurst Hill IG9 6DL
+
+Grove Lane Chigwell IG7
+6JF
+
+Woodview Lambourne
+Road Chigwell IG7 6HX
+
+245 High Road Chigwell
+IG7 5BL
+
+Co-ordinate
+Reference
+System
+
+The Maypole 171
+Lambourne Road
+Chigwell IG7 6EF
+
+The Limes Estate
+Chigwell IG7 5LP
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+105 Manor Road Chigwell
+OSGB36
+IG7 5PN
+
+146 Hainault Road
+Chigwell IG7 5DL
+
+OSGB36
+
+The Stag Pub Brentwood
+Road Ongar CM5 9DH
+OSGB36
+
+28-91 Parklands
+Coopersale CM16 7RE
+
+Epping Station Epping
+CM16 4HW
+
+Land at St John Road
+Epping CM16 5DU
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+25 Hemnall Street Epping
+OSGB36
+CM16 4LU
+
+Cottis Lane Epping CM16
+4BL
+OSGB36
+
+Car Park Bakers Lane
+Epping CM16 5
+
+Civic Offices 323 High
+Street Epping CM16 4BX
+
+17 Bower Vale Epping
+CM16 7AS
+
+287-291 High Street
+Epping CM16 4DA
+
+Epping Library St Johns
+Road Epping CM16 5DN
+
+Northings
+(Geo Y)
+
+Area (ha)
+
+Ownership Status
+
+Type of
+Permission
+
+Planning Status
+
+Planning
+Application
+Reference
+
+Site Plan URL
+
+Planning History URL
+
+Description of Proposed
+Development
+
+Maximum
+amount of
+Dwellings
+
+Minimum
+amount of
+Dwellings
+
+Non-housing
+development
+
+Additional
+Notes
+
+Date Entered on Part
+1 of Brownfield
+Register
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+
+801-803 Chigwell Road
+Woodford Bridge IG8 8AU OSGB36
+
+Grange Court 72 High
+Road Chigwell IG7 6PT
+
+Eastings
+(Geo X)
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+541743
+
+541837
+
+541844
+
+545933
+
+545733
+
+543318
+
+542951
+
+544109
+
+546412
+
+544653
+
+544237
+
+544243
+
+555368
+
+547691
+
+546183
+
+546084
+
+545899
+
+545973
+
+545871
+
+546189
+
+546192
+
+546119
+
+545896
+
+194345
+
+193716
+
+193772
+
+193364
+
+192970
+
+192560
+
+192182
+
+193672
+
+193341
+
+191979
+
+192223
+
+192362
+
+202130
+
+202894
+
+201552
+
+202008
+
+201803
+
+202294
+
+202284
+
+202409
+
+201443
+
+202349
+
+202144
+
+0.84 Not Owned by a Public Authority
+
+0.43 Not Owned by a Public Authority
+
+0.3 Not Owned by a Public Authority
+
+0.62 Not Owned by a Public Authority
+
+1.32 Not Owned by a Public Authority
+
+1.66 Not Owned by a Public Authority
+
+1.67 Not Owned by a Public Authority
+
+0.42 Not Owned by a Public Authority
+
+0.21 Not Owned by a Public Authority
+
+22.59 Mixed Ownership
+
+0.07 Not Owned by a Public Authority
+
+0.17 Not Owned by a Public Authority
+
+0.28 Not Owned by a Public Authority
+
+0.16 Not Owned by a Public Authority
+
+1.6 Not Owned by a Public Authority
+
+1.49 Mixed Ownership
+
+0.43 Owned by a Public Authority
+
+0.56 Owned by a public authority
+
+0.42 Owned by a public authority
+
+0.66 Owned by a public authority
+
+0.4 Not Owned by a Public Authority
+
+0.05 Not Owned by a Public Authority
+
+0.13 Owned by a public authority
+
+Other
+
+Other
+
+Other
+
+Full Planning
+Permission
+
+Full Planning
+Permission
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Not Permissioned N/A
+
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+31
+
+31
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+41
+
+41
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+15
+
+15
+
+05/03/2018
+
+Permissioned
+
+EPF/0329/17
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+12
+
+12
+
+05/03/2018
+
+EPF/2473/16
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+23
+
+23
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+65
+
+65
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+28
+
+28
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+8
+
+8
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+11
+
+11
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+100
+
+100
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+6
+
+6
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+7
+
+7
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+9
+
+9
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+6
+
+6
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+89
+
+89
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+34
+
+34
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+43
+
+43
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+47
+
+47
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+31
+
+31
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+44
+
+44
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+50
+
+50
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+6
+
+6
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+11
+
+11
+
+05/03/2018
+
+Permissioned
+
+Information
+Updated
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR024
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR025
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR026
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR027
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR028
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR029
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR030
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR031
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR032
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR033
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingBR034
+forest
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR035
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR036
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR037
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR038
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR039
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR040
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingBR041
+forest
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR042
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR043
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR044
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR045
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR046
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR047
+
+FYF.R1
+
+LOU.R1
+
+LOU.R2
+
+LOU.R3
+
+LOU.R7
+
+LOU.R8
+
+LOU.R9
+
+LOU.R10
+
+LOU.R11
+
+LOU.R12
+
+LOU.R13
+
+LOU.R14
+
+LOU.R15
+
+LOU.R16
+
+LOU.R17
+
+LOU.R18
+
+RUR.R1
+
+RUR.R2
+
+NAZE.R2
+
+Land at Gypsy Mead
+Ongar Road Fyfield CM5
+0RB
+Loughton Station Car
+Park Station Road
+Loughton IG10 4NZ
+Debden Station Car Park
+Chigwell Lane Loughton
+IG10 3TG
+
+Land at Vere Road
+Loughton IG10 3S
+
+Loughton Library Traps
+Hill Loughton IG10 1HD
+
+Car Park, High Road,
+Loughton
+Former Epping Forest
+College Borders Lane
+Loughton IG10 3SA
+
+46-48 Station Road
+Loughton IG10 4NX
+Former Electricity
+Substation Roding Road
+Loughton IG10 3ED
+
+63 Wellfields Loughton
+IG10 1PA
+
+70 Wellfields Loughton
+IG10 1NY
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+13 Alderton Hill Loughton
+IG10 3JD
+OSGB36
+
+60 Traps Hill Loughton
+IG10 1TD
+
+OSGB36
+
+St Thomas Moore Church
+106 Willingale Road
+Loughton IG10 2DA
+OSGB36
+
+268-278 High Road
+Loughton IG10 4BG
+
+9-11 High Beech Road
+Loughton IG10 4BN
+Avenue Home London
+Road, Latton Common,
+CM17 9NJ
+Norton Heath Riding
+Centre Fingrith Hall Lane
+High Ongar CM4 0JP
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+Fencing Centre Pecks Hill
+OSGB36
+Nazeing EN9 2NY
+
+ROYD.R2
+
+Kingsmead School
+Epping Road Roydon
+CM19 5HU
+
+THYB.R2
+
+Theydon Bois London
+Underground Car Park
+Station Approach
+Theydon Bois CM16 7HR OSGB36
+
+THYB.R3
+
+OSGB36
+
+Wain Coppice Row
+Theydon Bois CM16 7ER OSGB36
+
+WAL.R4
+
+Fire Station Sewardstone
+Road Waltham Abbey
+EN9 1PA
+
+WAL.R5
+
+Waltham Abbey
+Community Centre Saxon
+Way Waltham Abbey EN9
+OSGB36
+1QD
+
+OSGB36
+
+556559
+
+542234
+
+544273
+
+544299
+
+542538
+
+542348
+
+543687
+
+542257
+
+542451
+
+543488
+
+543559
+
+542523
+
+543057
+
+544547
+
+542403
+
+542082
+
+547348
+
+560393
+
+592272
+
+540954
+
+546162
+
+545119
+
+538471
+
+538463
+
+206790
+
+195588
+
+196165
+
+196480
+
+196484
+
+196520
+
+196451
+
+195850
+
+195666
+
+196987
+
+196948
+
+195783
+
+196451
+
+197565
+
+196619
+
+196146
+
+208144
+
+203827
+
+206930
+
+209415
+
+201543
+
+199152
+
+200224
+
+200816
+
+0.81 Not Owned by a Public Authority
+
+1.62 Not Owned by a Public Authority
+
+1.66 Not Owned by a Public Authority
+
+0.18 Not Owned by a Public Authority
+
+0.26 Owned by a public authority
+
+0.18 Not Owned by a Public Authority
+
+1.02 Not Owned by a Public Authority
+
+0.14 Not Owned by a Public Authority
+
+0.19 Not Owned by a Public Authority
+
+0.26 Not Owned by a Public Authority
+
+0.23 Not Owned by a Public Authority
+
+1.28 Not Owned by a Public Authority
+
+0.14 Not Owned by a Public Authority
+
+0.5 Not Owned by a Public Authority
+
+0.11 Not Owned by a Public Authority
+
+0.06 Not Owned by a Public Authority
+
+0.38 Not Owned by a Public Authority
+
+1.95 Not Owned by a Public Authority
+
+0.86 Not Owned by a Public Authority
+
+1.36 Not Owned by a Public Authority
+
+0.3 Not Owned by a Public Authority
+
+0.15 Not Owned by a Public Authority
+
+0.24 Owned by a public authority
+
+0.51 Owned by a public authority
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Full Planning
+Permission
+
+Full Planning
+Permission
+
+Other
+
+Full Planning
+Permission
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Other
+
+Not Permissioned N/A
+
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+14
+
+14
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+165
+
+165
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+192
+
+192
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+9
+
+9
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+20
+
+20
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+29
+
+29
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+111
+
+111
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+anningExplorer/general
+Submission Version Local Plan
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+12
+
+12
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+9
+
+9
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+10
+
+10
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+6
+
+6
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+33
+
+33
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+6
+
+6
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+18
+
+18
+
+05/03/2018
+
+Permissioned
+
+EPF/0055/17
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+12
+
+12
+
+05/03/2018
+
+EPF/0719/17
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+8
+
+8
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+11
+
+11
+
+05/03/2018
+
+Permissioned
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+30
+
+30
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+29
+
+29
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+21
+
+21
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+12
+
+12
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+6
+
+6
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+16
+
+16
+
+05/03/2018
+
+Not Permissioned N/A
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+67
+
+67
+
+05/03/2018
+
+Permissioned
+
+EPF/3034/16
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR048
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR049
+
+WAL.R7
+
+BR050
+
+NWB.R4
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR051
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR052
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR053
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR054
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR055
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR056
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR057
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR058
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR059
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR060
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR061
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR062
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR063
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR064
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR065
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR066
+
+WAL.R6
+
+N/A
+
+N/A
+
+Waltham Abbey
+Swimming Pool,
+Roundhills, Waltham
+Abbey, EN9 1UP
+Pine Tree Nursery Avey
+Lane Waltham Abbey
+EN9 3QH
+Chase Farm Business
+Centre Vicarage Lane
+West North Weald CM16
+6AL
+Land and Garages
+Chequers Road Site B
+Loughton
+Essex
+IG10 3QF
+Bridge House
+Roding Road
+Loughton
+Essex
+IG10 3ED
+
+N/A
+
+Hillview St Leonards
+Road Nazeing
+Waltham Abbey Essex
+EN9 2HQ
+
+N/A
+
+Central House
+High Street
+Ongar
+Essex
+CM5 9AA
+
+N/A
+
+Garages adj 92/94
+Beechfield Walk
+Waltham Abbey Essex
+EN9 3AD
+
+N/A
+
+N/A
+
+Land and Garages
+Ladyfields Loughton
+Essex IG10 3RP
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+
+OSGB36
+
+OSGB36
+
+538875
+
+538884
+
+199965
+
+199054
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+Former Total Service
+Station Nazeing Road
+Nazeing Essex EN9 2JL OSGB36
+
+543501
+
+542496
+
+539055
+
+555211
+
+538906
+
+544147
+
+539086
+
+195817
+
+195577
+
+205629
+
+203252
+
+199793
+
+196082
+
+206001
+
+0.6 Owned by a public authority
+
+Other
+
+Not Permissioned N/A
+
+0.65 Not Owned by a Public Authority
+
+Other
+
+Not Permissioned N/A
+
+0.81 Not Owned by a Public Authority
+
+Other
+
+Not Permissioned N/A
+
+0.11 Owned by a public authority
+
+Full Planning
+Permission
+
+Permissioned
+
+0.07 Not Owned by a Public Authority
+
+0.06 Not Owned by a Public Authority
+
+0.3 Not Owned by a Public Authority
+
+0.11 Owned by a public authority
+
+0.15 Owned by a public authority
+
+0.077 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+Full Planning
+Permission
+
+Full Planning
+Permission
+
+Full Planning
+Permission
+
+Full Planning
+Permission
+
+Full Planning
+Permission
+
+Permissioned
+
+Permissioned
+
+Permissioned
+
+Permissioned
+
+Permissioned
+
+Permissioned
+
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Submission Version Local Plan
+Search.aspx
+2017 Allocation Site
+6db436a96e3b78f8d2e14cf
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+
+Submission Version Local Plan
+2017 Allocation Site
+
+EPF/2609/15
+
+Submission Version Local Plan
+2017 Allocation Site
+Demolition of garages and
+http://plan1.eppingfores replacement with 5 x 2 bed two
+tdc.gov.uk/Northgate/Pl storey affordable homes with
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general 10 parking spaces and
+Search.aspx
+associated landscaping.
+6db436a96e3b78f8d2e14cf
+
+27
+
+27
+
+05/03/2018
+
+8
+
+8
+
+05/03/2018
+
+27
+
+27
+
+05/03/2018
+
+5
+
+5
+
+05/03/2018
+
+EPF/1997/15
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+
+Demolition of existing house
+and erection of 3 two bedroom
+and 3 one bedroom flats in
+three storey block
+
+6
+
+6
+
+05/03/2018
+
+EPF/2548/15
+
+Demolition of existing house
+and erection of 2 two bedroom
+http://plan1.eppingfores flats and 4 one bedroom flats.
+tdc.gov.uk/Northgate/Pl The 3 ground floor flats to be
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general provided for disabled residents
+Search.aspx
+and their families.
+6db436a96e3b78f8d2e14cf
+
+6
+
+6
+
+05/03/2018
+
+EPF/2064/15
+
+Demolition of existing single
+http://plan1.eppingfores storey outbuilding and erection
+tdc.gov.uk/Northgate/Pl of new 3 storey mixed use
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general building comprising 5 flats and
+Search.aspx
+2 shops.
+6db436a96e3b78f8d2e14cf
+
+5
+
+5 2 x A1 units
+
+05/03/2018
+
+EPF/3217/16
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general 5 affordable homes with 10
+Search.aspx
+parking spaces
+6db436a96e3b78f8d2e14cf
+
+5
+
+5
+
+05/03/2018
+
+EPF/1758/16
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general 6 affordable homes with 23
+Search.aspx
+parking spaces
+6db436a96e3b78f8d2e14cf
+
+6
+
+6
+
+05/03/2018
+
+EPF/2698/16
+
+Demolition of existing service
+station and construction of 6 x
+2 bedroom houses with
+amenity space, off-street
+http://plan1.eppingfores parking and landscaping.
+tdc.gov.uk/Northgate/Pl Alternative design to approved
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general scheme EPF/0303/13 with
+Search.aspx
+higher roof heights.
+6db436a96e3b78f8d2e14cf
+
+6
+
+6
+
+05/03/2018
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+
+6
+
+6
+
+05/03/2018
+
+N/A
+
+Burleigh Nursery Hoe
+Lane Nazeing Essex
+EN9 2RJ
+
+OSGB36
+
+540307
+
+206254
+
+0.45 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+Permissioned
+
+EPF/2271/16
+
+N/A
+
+Rylston
+Sewardstone Road
+Waltham Abbey
+Essex
+E4 7RF
+
+OSGB36
+
+538074
+
+197422
+
+0.28 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+Permissioned
+
+EPF/0099/16
+
+Demolition of existing
+commercial buildings and
+erection of 6 no. four bedroom
+detached dwellings
+Demolition of two existing
+dwellings and the erection of
+four pairs of semi-detached
+http://plan1.eppingfores dwellings, (eight new
+tdc.gov.uk/Northgate/Pl properties in total) with
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general ancillary access and car
+Search.aspx
+parking.
+6db436a96e3b78f8d2e14cf
+
+8
+
+8
+
+05/03/2018
+
+EPF/0645/15
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+
+Residential development
+comprising 5 no. 2 bed
+apartments and 2 no. 1 bed
+apartments.
+
+7
+
+7
+
+05/03/2018
+
+EPF/2753/15
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+
+Redevelopment of existing site
+to provide 1 A1 retail unit, 7 x 1
+bed apartments and a
+detached office building
+
+7
+
+7 1 X A1 unit
+
+05/03/2018
+
+7
+
+7
+
+05/03/2018
+
+N/A
+
+N/A
+
+94 Lawton Road
+Loughton
+Essex
+IG10 2AA
+Mackays Stores Ltd
+213 - 215 High Road
+Loughton
+Essex
+IG10 1BB
+
+N/A
+
+Land r/o 33-37 Hillyfields
+Loughton Essex IG10
+2PT
+
+N/A
+
+Sixteen String Jack
+Coppice Row Theydon
+Bois Epping Essex
+CM16 7DS
+
+N/A
+
+Cobmead Cobmead
+Honey Lane Waltham
+Abbey Essex EN9 3BA
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+543624
+
+542267
+
+543556
+
+544493
+
+539837
+
+196990
+
+196240
+
+197361
+
+199260
+
+200016
+
+0.02 Not Owned by a Public Authority
+
+0.06 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+Full Planning
+Permission
+
+0.214 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+0.15 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+0.46 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+Permissioned
+
+Permissioned
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+
+Permissioned
+
+Permissioned
+
+Permissioned
+
+EPF/2913/16
+
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+
+EPF/2000/16
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+anningExplorer/general
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1
+Search.aspx
+6db436a96e3b78f8d2e14cf
+
+8
+
+8
+
+05/03/2018
+
+EPF/2739/16
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl Residential development of 8
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general no. detached dwellings and
+Search.aspx
+associated infrastructure.
+6db436a96e3b78f8d2e14cf
+
+8
+
+8
+
+05/03/2018
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+
+8
+
+8
+
+05/03/2018
+
+10
+
+10
+
+05/03/2018
+
+N/A
+
+The Paddock Grove Lane
+Chigwell Essex IG7 6JF OSGB36
+
+545781
+
+193345
+
+0.62 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+Permissioned
+
+EPF/1891/15
+
+N/A
+
+89 High Road
+Loughton
+Essex
+IG10 4JD
+
+541847
+
+195627
+
+0.098 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+Permissioned
+
+EPF/2378/15
+
+OSGB36
+
+Proposed demolition of
+existing garages and erection
+of 7 no. dwellings (5 x three
+beds and 2 x two beds), with
+associated access and parking
+(Revised application to
+EPF/0513/16)
+Demolition of existing public
+house, tied dwelling, structures
+and buildings and the erection
+of 7 apartments and one
+cottage with communal
+garden, parking area and cycle
+store.
+
+Demolition of existing stables
+and warehouse and erection of
+8 dwelling houses and
+associated landscaping.
+Amendment, to planning
+approval EPF/2442/14 (appeal
+reference
+APP/J1535/W/15/3011328)
+from 10 one-bed flats to 8 onebed flats and 2 two-bed studio
+flats, together with minor
+http://plan1.eppingfores external alterations to
+tdc.gov.uk/Northgate/Pl rooflights and formation of
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general front dormer to replace small
+Search.aspx
+feature roof over front bay.
+6db436a96e3b78f8d2e14cf
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingBR067
+forest
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR068
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingBR069
+forest
+
+Epping Forest
+District Council
+
+Epping Forest
+District Council
+
+Epping Forest
+District Council
+
+Epping Forest
+District Council
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR070
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR071
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingBR072
+forest
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR073
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR074
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingBR075
+forest
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingBR076
+forest
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR077
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR078
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR079
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR080
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR081
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+188 - 194 High Road
+Loughton
+Essex
+IG10 1DN
+
+Land to the rear of 268278 High Road
+Loughton
+Essex
+IG10 4BG
+Garages behind 17
+Queens Road
+North Weald
+Essex
+CM16 6JE
+
+188-194 High Road
+Loughton
+Essex
+IG10 1DN
+
+Stoneshot Farm
+Hoe Lane
+Nazeing
+Essex
+EN9 2RW
+
+North Weald Golf Club
+Rayley Lane
+North Weald
+Essex
+CM16 6AR
+
+Barnfield Epping Road
+Roydon Essex CM19
+5DW
+Chimes Garden Centre
+Old Nazeing Road
+Nazeing
+Waltham Abbey
+Essex
+EN10 6RJ
+
+Pyrles Lane Nursery
+Pyrles Lane
+Loughton
+Essex
+IG10 2NL
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+126 Manor Road
+Chigwell
+Essex
+IG7 5PR
+160 Manor Road
+Chigwell
+Essex
+IG7 5PX
+
+2 and 3 Sewardstone
+Road
+Waltham Abbey
+Essex
+EN9 1NA
+
+542414
+
+549845
+
+542221
+
+540701
+
+549405
+
+541981
+
+537536
+
+196234
+
+196593
+
+204423
+
+196234
+
+206905
+
+205799
+
+207938
+
+206135
+
+0.0912 Not Owned by a Public Authority
+
+0.13 Not Owned by a Public Authority
+
+0.31 Owned by a public authority
+
+0.0912 Not Owned by a Public Authority
+
+1.3 Not Owned by a Public Authority
+
+0.195 Not Owned by a Public Authority
+
+4 Not Owned by a Public Authority
+
+1.5 Not Owned by a Public Authority
+
+Planning
+Permission Granted
+Permissioned
+Under An Order
+
+Full Planning
+Permission
+
+Full Planning
+Permission
+
+Permissioned
+
+Permissioned
+
+Planning
+Permission Granted
+Permissioned
+Under An Order
+
+Full Planning
+Permission
+
+Full Planning
+Permission
+
+Full Planning
+Permission
+
+Full Planning
+Permission
+
+Permissioned
+
+Permissioned
+
+Permissioned
+
+Permissioned
+
+EPF/2398/15
+
+12
+
+12
+
+05/03/2018
+
+EPF/3019/15
+
+Renewal of previous approved
+scheme EPF/0181/05 and
+PL/EPF/1413/10 . Extension of
+time limit on planning
+http://plan1.eppingfores permission EPF/0181/05
+tdc.gov.uk/Northgate/Pl granted on appeal. (Erection of
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general three storey block of 12 flats
+Search.aspx
+with parking at ground level).
+6db436a96e3b78f8d2e14cf
+
+12
+
+12
+
+05/03/2018
+
+EPF/1771/15
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general 12 affordable homes with 34
+Search.aspx
+parking spaces.
+6db436a96e3b78f8d2e14cf
+
+12
+
+12
+
+05/03/2018
+
+EPF/1245/16
+
+Change of use of the upper
+floors of 188-194 High Road,
+Loughton from office (Use
+Class B1(a)) to residential
+(Use Class C3), including an
+extension of the building at the
+rear and a setback storey on
+http://plan1.eppingfores the roof to provide a total of 14
+tdc.gov.uk/Northgate/Pl no. 2 bed residential units with
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general an extended commercial
+Search.aspx
+floorspace at ground level
+6db436a96e3b78f8d2e14cf
+
+14
+
+14
+
+05/03/2018
+
+EPF/0259/16
+
+Demolition of existing industrial
+buildings, vacant stabling and
+5 bedroom residential
+apartment and construction of
+8 no. detached family houses
+and 10 no. 'affordable houses'
+http://plan1.eppingfores with associated off-street
+tdc.gov.uk/Northgate/Pl parking, private gardens and
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general landscaping (Revised
+Search.aspx
+appliation to EPF/0207/14)
+6db436a96e3b78f8d2e14cf
+
+16
+
+16
+
+05/03/2018
+
+EPF/0183/15
+
+Erection of three storey
+building to accommodate 20
+no. apartments (to replace
+http://plan1.eppingfores existing clubhouse and Essex
+tdc.gov.uk/Northgate/Pl barn to be demolished under
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general Prior Notification application
+Search.aspx
+EPF/0267/15)
+6db436a96e3b78f8d2e14cf
+
+20
+
+20
+
+05/03/2018
+
+EPF/0487/16
+
+Minor material amendment
+application to EPF/2535/14
+(Clearance of all commercial
+buildings, structures, storage
+containers, bunds and the
+http://plan1.eppingfores erection of 12 no. 4/5 bed
+tdc.gov.uk/Northgate/Pl detached dwellings and 11 no.
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general affordable houses (6 x 2 bed &
+Search.aspx
+5 x 3 bed) - Revised applicat
+6db436a96e3b78f8d2e14cf
+
+23
+
+23
+
+05/03/2018
+
+EPF/0570/15
+
+Demolition of existing Garden
+http://plan1.eppingfores Centre/Commercial Buildings
+tdc.gov.uk/Northgate/Pl and erection of 26 dwellings
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general with associated parking and
+landscaping
+Search.aspx
+6db436a96e3b78f8d2e14cf
+
+26
+
+26
+
+05/03/2018
+
+36
+
+36
+
+05/03/2018
+
+129
+
+129
+
+05/03/2018
+
+10
+
+10
+
+05/03/2018
+
+14
+
+14
+
+05/03/2018
+
+12
+
+12
+
+05/03/2018
+
+9
+
+9
+
+05/03/2018
+
+5
+
+5
+
+05/03/2018
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+
+OSGB36
+
+Sterling House Langston
+Road Loughton Essex
+OSGB36
+IG10 3TS
+Royal Oak
+Forest Road
+Loughton
+Essex
+IG10 1EG
+
+32 Palmerston Road
+Buckhurst Hill
+Essex
+IG9 5LW
+
+542221
+
+Prior approval application for a
+proposed change of use from
+use as offices (Use Class B1
+http://plan1.eppingfores (A)) to use as 6 x 2 bedroom
+tdc.gov.uk/Northgate/Pl residential units and 6 x 1
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general bedroom residential units (Use
+Search.aspx
+Class C3)
+6db436a96e3b78f8d2e14cf
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+OSGB36
+
+543699
+
+544523
+
+541994
+
+541409
+
+544258
+
+544535
+
+5438474
+
+197347
+
+196073
+
+196473
+
+193987
+
+192318
+
+192422
+
+200548
+
+0.098 Not Owned by a Public Authority
+
+Outline
+
+Permissioned
+
+0.97 Not Owned by a Public Authority
+
+Planning
+Permission Granted
+Permissioned
+Under An Order
+
+0.14 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+0.083 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+0.15 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+0.0994 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+0.0479 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+EPF/2254/15
+
+EPF/3409/16
+EPF/2706/17
+
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+
+Permissioned
+
+EPF/2708/17
+
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+
+Permissioned
+
+EPF/2636/17
+
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+
+Permissioned
+
+EPF/3438/17
+
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+
+Permissioned
+
+Permissioned
+
+EPF/3213/17
+
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+
+Outline application for the
+demolition of tree/plant nursery
+and erection of up to 36
+dwellings (flats and houses),
+landscaping, 75 car spaces
+and associated infrastructure
+(Revised scheme following
+refusal of EPF/0458/13)
+Prior approval for proposed
+change of use of a building
+from office use (Use Class B1)
+to dwelling house (Use Class
+C3)
+Partial demolition of the former
+Royal Oak public house and
+change of use to provide 4
+flats, demolition of 171 Smarts
+Lane and redevelopment for 6
+dwellings, and associated
+parking and landscaping (10
+dwellings in total).
+Variation of condition 2
+(drawing nos.) in order to
+revise the approved
+fenestration details under
+reference EPF/1852/16 (for
+the demolition of the existing
+building and construction of a
+replacement building providing
+14 flats).
+Demolition of existing building
+and erection of 12 x residential
+dwellings and associated
+infrastructure (amendment to
+EPF/3281/16).
+Change to consented
+application EPF/0385/17.
+Building slightly extended and
+internal layouts change to
+allow for 9 flats. Rear
+extension at basement level.
+Compliant parking. Updated
+landscape.
+Formation of five self
+contained flats on the first and
+second floors
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR082
+
+N/A
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingBR083
+forest
+
+N/A
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR084
+
+N/A
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR085
+
+N/A
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR086
+
+N/A
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingBR087
+forest
+
+N/A
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingBR088
+forest
+
+N/A
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR089
+
+N/A
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR090
+
+SR-1007
+
+Epping Forest
+District Council
+
+http://opendatacom
+munities.org/doc/dist
+rict-council/eppingforest
+BR091
+
+SR-0885
+
+Adj Garage Block
+Pentlow Way
+Buckhurst Hill
+Essex
+IG9 6BZ
+2 Connaught Avenue
+Loughton
+Essex
+IG10 4DP
+
+Woodlands
+152 High Road
+Chigwell
+Essex
+IG7 5BQ
+
+Pine Lodge Riding
+Centre
+Lippitts Hill
+Loughton
+Essex
+IG10 4AL
+The Retreat
+Market Place
+Abridge
+Essex
+RM4 1AU
+Herb Farm Granaries
+London Road
+Hastingwood
+Essex
+CM17 9LH
+
+Land and Garages
+Woollard Street
+Waltham Abbey
+Essex
+EN9 1HE
+Land at Burleigh Lodge
+Hoe Lane
+Nazeing
+Essex
+EN9 2RJ
+111 Church Hill Loughton
+IG10 4BE
+
+1 Spring Grove Loughton
+IG10 4QA
+
+EPF/2650/17
+Full Planning
+Permission
+
+Permissioned
+
+0.0737 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+Permissioned
+
+192620
+
+0.2635 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+Permissioned
+
+539798
+
+196861
+
+0.38 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+Permissioned
+
+OSGB36
+
+546631
+
+196797
+
+0.04 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+Permissioned
+
+OSGB36
+
+547027
+
+206097
+
+0.297 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+Permissioned
+
+OSGB36
+
+538381
+
+200387
+
+Full Planning
+Permission
+
+Permissioned
+
+OSGB36
+
+540259
+
+206362
+
+0.4127 Not Owned by a Public Authority
+
+Full Planning
+Permission
+
+Permissioned
+
+OSGB36
+
+542969
+
+197108
+
+0.02 Not Owned by a Public Authority
+
+Other
+
+Not Permissioned
+
+OSGB36
+
+544620
+
+195485
+
+0.04 Not Owned by a Public Authority
+
+Other
+
+Not Permissioned
+
+OSGB36
+
+542261
+
+194645
+
+OSGB36
+
+541995
+
+196019
+
+OSGB36
+
+543454
+
+OSGB36
+
+0.09 Owned by a public authority
+
+0.12 Owned by a public authority
+
+EPF/3078/17
+
+EPF/3333/17
+
+EPF/3253/17
+
+EPF/1471/17
+
+EPF/1988/17
+
+EPF/2170/17
+
+EPF/2047/17
+
+N/A
+
+N/A
+
+7 affordable homes with 12
+http://plan1.eppingfores parking spaces
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+Conversion of existing house
+(plus previously approved
+extensions) to 5 flats, together
+with provision of 5 car spaces
+http://plan1.eppingfores at the rear, alterations to
+tdc.gov.uk/Northgate/Pl boundary enclosures, and
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general provision of amenity space.
+Search.aspx
+6db436a96e3b78f8d2e14cf
+Application for variation of
+condition 2 'plan numbers' on
+planning application
+EPF/3398/16 allowed on
+appeal, revisions to
+applications numbered
+http://plan1.eppingfores EPF/0410/16 and
+tdc.gov.uk/Northgate/Pl EPF/2246/15 for amended
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general vehicle access and erection of
+Search.aspx
+6db436a96e3b78f8d2e14cf
+9 apartments.
+Demolition of existing
+buildings, improvements to
+existing vehicular access,
+erection of five detached
+http://plan1.eppingfores houses, associated garages
+tdc.gov.uk/Northgate/Pl and boundary fences and
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general landscaping (Renewal of
+Search.aspx
+6db436a96e3b78f8d2e14cf
+previous approval).
+Proposed erection of five 2
+http://plan1.eppingfores bed apartments with A1/A2
+tdc.gov.uk/Northgate/Pl unit at ground floor.
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+Application for approval of
+reserved matters following
+outline approval EPF/1333/14
+(Demolition of existing
+commercial/industrial buildings
+and erection of 5. no detached
+http://plan1.eppingfores dwellings and garages).
+tdc.gov.uk/Northgate/Pl (Revised details following
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general previous approval).
+Search.aspx
+6db436a96e3b78f8d2e14cf
+9 affordable homes with 19
+http://plan1.eppingfores parking spaces
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+Erection of five detached
+residential dwellings
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+SLAA Site
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+SLAA Site
+http://plan1.eppingfores
+tdc.gov.uk/Northgate/Pl
+http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a1 anningExplorer/general
+Search.aspx
+6db436a96e3b78f8d2e14cf
+
+7
+
+7
+
+05/03/2018
+
+5
+
+5
+
+05/03/2018
+
+9
+
+9
+
+05/03/2018
+
+5
+
+5
+
+05/03/2018
+
+5
+
+5
+
+05/03/2018
+
+5
+
+5
+
+05/03/2018
+
+9
+
+9
+
+05/03/2018
+
+5
+
+5
+
+05/03/2018
+
+5
+
+5
+
+08/03/2018
+
+5
+
+5
+
+11/03/2018
+
+

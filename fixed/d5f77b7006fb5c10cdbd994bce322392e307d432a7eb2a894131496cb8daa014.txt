@@ -1,0 +1,993 @@
+OrganisationURI
+
+OrganisationLabel
+
+SiteReference
+
+PreviouslyPartOf
+
+SiteNameAddress
+
+SiteplanURL
+
+CoordinateRef GeoX
+erenceSystem
+
+GeoY
+
+Hectares
+
+OwnershipStatus Deliverable PlanningStatus
+
+PermissionType PermissionDate
+
+PlanningHistory Proposed MinNetDwellings DevelopmentDescription
+ForPIP
+
+NonHousingDevelopment
+
+Part2
+
+NetDwellings NetDwellings Hazardous SiteInformation
+RangeFrom RangeTo
+Substances
+
+Notes
+
+FirstAddedDate LastUpdatedDate
+
+Alternative
+Reference
+
+http://opendatacommunities.org/id/di Rochford District Council
+strict-council/rochford
+
+ROC001
+
+Sangster Court Church Road
+Rayleigh SS6 8PZ
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc001
+
+581525.6
+
+190573.4
+
+0.31 not owned by a
+public authority
+
+not permissioned
+
+9
+
+9
+
+12
+
+Site from 2017 SHELAA
+
+2017-12-28
+
+2018-11-12
+
+http://opendatacommunities.org/id/di Rochford District Council
+strict-council/rochford
+
+ROC002
+
+Lime Court and Poplar Court
+Greensward Lane Hockley SS5 5HB
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc002
+
+584347.34
+
+192843.36
+
+0.6 not owned by a
+public authority
+
+not permissioned
+
+18
+
+18
+
+24
+
+Site from 2017 SHELAA
+
+2017-12-28
+
+2018-11-12
+
+http://opendatacommunities.org/id/di Rochford District Council
+strict-council/rochford
+
+ROC003
+
+Former Adult Community College
+Rocheway Rochford SS4 1DQ
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc003
+
+588121.27
+
+190546.56
+
+1.05 owned by a public yes
+authority
+
+permissioned
+
+74 Proposed Demolition of Vacant Adult
+Community Learning Centre and
+Redevelopment of the Site to
+Accommodate a 60 Unit Independent
+Living Residential Home (Class C2)
+With Associated Infrastructure and
+Car Park, and 14 Dwelling Houses
+(Class C3), Vehicle Access and Hard
+and Soft Landscaping
+
+74
+
+74
+
+Site falls within Green Belt and adjacent
+to Open Space. Development went to
+development committee on 19 October
+2017, awaiting Section 106 agreement
+as at December 2017.
+
+2017-12-28
+
+2018-11-12 17/00102/FUL
+
+http://opendatacommunities.org/id/di Rochford District Council
+strict-council/rochford
+
+ROC004
+
+Castle Road Recycling Centre
+Rayleigh SS6 7RP
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc004
+
+580668.96
+
+190182.09
+
+0.31 owned by a public yes
+authority
+
+not permissioned
+
+9
+
+9
+
+12
+
+Site from 2017 SHELAA
+
+2017-12-28
+
+2018-11-12
+
+http://opendatacommunities.org/id/di Rochford District Council
+strict-council/rochford
+
+ROC005
+
+Eldon Way/Foundry Industrial
+Estate Hockley
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc005
+
+584149.93
+
+192771.26
+
+150
+
+150
+
+150
+
+https://www.rochford.gov.uk/sites/d Site is allocated for residential
+efault/files/documents/files/planning development in the Rochford District
+_all_allplan.pdf
+Council Allocations Plan 2014. A small
+part of the site was approved for 20
+dwellings at a development committee
+in March 2016, awaiting Section 106
+agreement as at November 2018.
+
+2017-12-28
+
+2018-11-12 15/00144/OU
+T
+
+http://opendatacommunities.org/id/di Rochford District Council
+strict-council/rochford
+
+ROC006
+
+Stambridge Mills Rochford
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc006
+
+588694.47
+
+190373.25
+
+not permissioned
+
+41
+
+41
+
+115
+
+https://www.rochford.gov.uk/sites/d Site is allocated for residential
+efault/files/documents/files/planning development in the Rochford District
+_all_allplan.pdf
+Council Allocations Plan 2014.
+
+2017-12-28
+
+2018-11-12
+
+http://opendatacommunities.org/id/di Rochford District Council
+strict-council/rochford
+
+ROC007
+
+Rawreth Industrial Estate Rayleigh
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc007
+
+579578.89
+
+192244.07
+
+not permissioned
+
+93
+
+93
+
+140
+
+https://www.rochford.gov.uk/sites/d Site is allocated for residential
+efault/files/documents/files/planning development in the Rochford District
+_all_allplan.pdf
+Council Allocations Plan 2014.
+
+2017-12-28
+
+2018-11-12
+
+http://opendatacommunities.org/id/di Rochford District Council
+strict-council/rochford
+
+ROC010
+
+5A Castle Road Rayleigh SS6 7QD
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc010
+
+580447.32
+
+190483.74
+
+0.06 not owned by a
+public authority
+
+yes
+
+permissioned
+
+full planning
+permission
+
+2015-10-15 http://maps.roch
+ford.gov.uk/Dev
+elopmentControl
+.aspx?pageno=1
+&pagerecs=10&
+maxrecords=100
+&template=Deve
+lopmentControlR
+esults.tmplt&req
+uestType=parseT
+emplate&history
+=96d2ceb3f4934
+fe195f5942e26f9
+b9dc&usesearch
+=true&order=DA
+TEAPRECV%3AD
+ESCENDING&q%
+3ALIKE=5A+Castl
+e+Road
+
+9 Change of Use From
+Gymnasium/Beauty Salonn to 6No 1bed and 1No. 2-bed Self-contained
+Flats to Ground and First Floors and
+add Additional Floor With 2 No 1-bed
+Flats
+
+9
+
+9
+
+Site forms part of the Council's housing
+land trajectory.
+
+2017-12-28
+
+2018-11-12 15/00585/FUL
+
+http://opendatacommunities.org/id/di Rochford District Council
+strict-council/rochford
+
+ROC012
+
+Scout Hall Adjacent 11 Love Lane
+Rayleigh
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc012
+
+580348.48
+
+190549.83
+
+0.03 not owned by a
+public authority
+
+yes
+
+permissioned
+
+full planning
+permission
+
+2015-09-24 http://maps.roch
+ford.gov.uk/Dev
+elopmentControl
+.aspx?pageno=1
+&pagerecs=10&
+maxrecords=100
+&template=Deve
+lopmentControlR
+esults.tmplt&req
+uestType=parseT
+emplate&history
+=96d2ceb3f4934
+fe195f5942e26f9
+b9dc&usesearch
+=true&order=DA
+TEAPRECV%3AD
+ESCENDING&q%
+3ALIKE=scout+ha
+ll+love+lane
+
+5 Proposed 3-storey building to provide
+5 no. 1-bed flats with associated car
+parking and amenity space
+
+5
+
+5
+
+Site forms part of the Council's housing
+land trajectory.
+
+2017-12-28
+
+2018-11-12 15/00526/FUL
+
+4.6 mixed ownership
+
+http://maps.roch
+ford.gov.uk/Dev
+elopmentControl
+.aspx?pageno=1
+&pagerecs=10&
+maxrecords=100
+&template=Deve
+lopmentControlR
+esults.tmplt&req
+uestType=parseT
+emplate&history
+=96d2ceb3f4934
+fe195f5942e26f9
+b9dc&usesearch
+=true&order=DA
+TEAPRECV%3AD
+ESCENDING&q%
+3ALIKE=Adult+Co
+mmunity+Colleg
+e
+
+pending decision
+
+1.84 not owned by a
+public authority
+
+6.2 mixed ownership
+
+http://maps.roch
+ford.gov.uk/Dev
+elopmentControl
+.aspx?pageno=1
+&pagerecs=10&
+maxrecords=100
+&template=Deve
+lopmentControlR
+esults.tmplt&req
+uestType=parseT
+emplate&history
+=96d2ceb3f4934
+fe195f5942e26f9
+b9dc&usesearch
+=true&order=DA
+TEAPRECV%3AD
+ESCENDING&q%
+3ALIKE=15%2F00
+144%2FOUT
+
+http://opendatacommunities.org/id/di Rochford District Council
+strict-council/rochford
+
+ROC013
+
+Bullwood Hall Bullwood Hall Lane
+Hockley
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc013
+
+582530.82
+
+191628.21
+
+3.6 not owned by a
+public authority
+
+yes
+
+permissioned
+
+outline planning
+permission
+
+2015-12-16 http://maps.roch
+ford.gov.uk/Dev
+elopmentControl
+.aspx?pageno=1
+&pagerecs=10&
+maxrecords=100
+&template=Deve
+lopmentControlR
+esults.tmplt&req
+uestType=parseT
+emplate&history
+=96d2ceb3f4934
+fe195f5942e26f9
+b9dc&usesearch
+=true&order=DA
+TEAPRECV%3AD
+ESCENDING&q%
+3ALIKE=Site+of+
+Bullwood+Hall
+
+http://opendatacommunities.org/id/di Rochford District Council
+strict-council/rochford
+
+ROC015
+
+6 North Street Rochford SS4 1AB
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc015
+
+587675.88
+
+190545.89
+
+0.04 not owned by a
+public authority
+
+yes
+
+permissioned
+
+full planning
+permission
+
+2016-05-04
+http://maps.roch
+ford.gov.uk/Dev
+elopmentControl
+.aspx?pageno=1
+&pagerecs=10&
+maxrecords=100
+&template=Deve
+lopmentControlR
+esults.tmplt&req
+uestType=parseT
+emplate&history
+=96d2ceb3f4934
+fe195f5942e26f9
+b9dc&usesearch
+=true&order=DA
+TEAPRECV%3AD
+ESCENDING&q%
+3ALIKE=6+North
++Street
+
+http://opendatacommunities.org/id/di Rochford District Council
+strict-council/rochford
+
+ROC016
+
+Garage Block The Evergreens
+Kimberley Road Little Wakering
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc016
+
+593218.63
+
+188650.24
+
+0.05 not owned by a
+public authority
+
+yes
+
+permissioned
+
+full planning
+permission
+
+2017-05-11
+http://maps.roch
+ford.gov.uk/Dev
+elopmentControl
+.aspx?pageno=1
+&pagerecs=10&
+maxrecords=100
+&template=Deve
+lopmentControlR
+esults.tmplt&req
+uestType=parseT
+emplate&history
+=96d2ceb3f4934
+fe195f5942e26f9
+b9dc&usesearch
+=true&order=DA
+TEAPRECV%3AD
+ESCENDING&q%
+3ALIKE=Garage+
+Block+Evergreen
+s
+
+60 Outline Application to Demolish
+Existing Prison Complex Buildings,
+Convert Bullwood Hall into Terrace of
+Three Houses Incorporating
+Extension, Provide Residential
+Development of 60no. Dwellings,
+Alterations to Access and Access Road
+
+60
+
+72
+
+Site forms part of the Council's housing
+land trajectory.
+
+2017-12-28
+
+2018-11-12 15/00379/OU
+T
+
+5 Demolish Shop and Flat Over and
+Construct Development Comprising
+Six Flats and Parking Area. Construct
+New Access onto East
+
+5
+
+5
+
+Site forms part of the Council's housing
+land trajectory.
+
+2017-12-28
+
+2018-11-12 15/00855/FUL
+
+6 Demolish Existing Garage Block and
+Construct Two Storey Building to
+Provide 1 No. One Bedroomed
+Apartment and 5 No. Two Bedroomed
+Apartments With Associated Parking,
+Refuse and Cycle Store
+
+6
+
+6
+
+Site forms part of the Council's housing
+land trajectory.
+
+2017-12-28
+
+2018-11-12 16/00939/FUL
+
+This site forms a small part of the
+housing allocation Policy SER1 of the
+Rochford District Council Allocations
+Plan (2014)
+Site from 2017 SHELAA. Site falls within
+Rochford Town Centre Conservation
+Area and Rochford Town Centre Area
+Action Plan policy area.
+
+2017-12-28
+
+2018-11-12
+
+2017-12-28
+
+2018-11-12
+
+Site from 2017 SHELAA. Site falls within
+Rayleigh Air Quality Management Area
+(AQMA)
+Site from 2017 SHELAA.
+
+2017-12-28
+
+2018-11-12
+
+2017-12-28
+
+2018-11-12
+
+Site with planning permission for 11no.
+residential development
+
+2017-12-28
+
+2018-11-12 17/00928/CO
+U
+
+Site owner has previously submitted
+pre-application advice request
+
+2017-12-28
+
+2018-11-12
+
+http://opendatacommunities.org/id/di Rochford District Council
+strict-council/rochford
+
+ROC017
+
+Timber Grove London Road
+Rayleigh
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc017
+
+579318.35
+
+191954.87
+
+3.03 not owned by a
+public authority
+
+yes
+
+pending decision
+
+83
+
+83
+
+91
+
+http://opendatacommunities.org/id/di Rochford District Council
+strict-council/rochford
+
+ROC018
+
+68-72 West Street Rochford
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc018
+
+587454.51
+
+190540.72
+
+0.21 not owned by a
+public authority
+
+yes
+
+not permissioned
+
+6
+
+6
+
+13
+
+http://opendatacommunities.org/id/di Rochford District Council
+strict-council/rochford
+
+ROC019
+
+162-168 High Street Rayleigh
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc019
+
+580349.54
+
+190476.46
+
+0.17 not owned by a
+public authority
+
+yes
+
+not permissioned
+
+5
+
+5
+
+10
+
+http://opendatacommunities.org/id/district-council/rochford
+Rochford District Council
+
+ROC020
+
+247 London Road Rayleigh SS6 9DW https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc020
+
+579200.05
+
+191715.68
+
+0.2 not owned by a
+public authority
+
+yes
+
+not permissioned
+
+6
+
+6
+
+12
+
+http://opendatacommunities.org/id/district-council/rochford
+Rochford District Council
+
+ROC021
+
+11 West Street Rochford SS4 1BE
+
+587615.63
+
+190503.05
+
+0.01 not owned by a
+public authority
+
+yes
+
+permissioned
+
+11
+
+11
+
+7
+
+9
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc021
+
+other
+
+2017-12-14
+http://maps.roch
+ford.gov.uk/Dev
+elopmentControl
+.aspx?pageno=1
+&pagerecs=10&
+maxrecords=100
+&template=Deve
+lopmentControlR
+esults.tmplt&req
+uestType=parseT
+emplate&history
+=96d2ceb3f4934
+fe195f5942e26f9
+b9dc&usesearch
+=true&order=DA
+TEAPRECV%3AD
+ESCENDING&q%
+3ALIKE=11+West
++Street
+
+http://opendatacommunities.org/id/district-council/rochford
+Rochford District Council
+
+ROC022
+
+Former Dairy Crest Site, Rear of 98
+to 128 High Street, Rayleigh
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc022
+
+580498.08
+
+190628.05
+
+0.22 not owned by a
+public authority
+
+yes
+
+not permissioned
+
+11 Convert Kings Head public house to 11
+no multiple occupancy bed sitting
+units and 3 no self contained shop
+units
+
+7
+
+http://opendatacommunities.org/id/district-council/rochford
+Rochford District Council
+
+ROC023
+
+69 High Street Great Wakering SS3
+0ED
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc023
+
+594614.45
+
+187507.45
+
+0.16 not owned by a
+public authority
+
+yes
+
+permissioned
+
+full planning
+permission
+
+2018-05-02 https://maps.roc
+hford.gov.uk/De
+velopmentContr
+ol.aspx?requestt
+ype=parsetempl
+ate&template=D
+evelopmentCont
+rolApplication.tm
+plt&basepage=D
+evelopmentCont
+rol.aspx&Filter=^
+REFVAL^='18/00
+120/FUL'&histor
+y=2eadb825fb75
+4f128d03429bf7
+e700ff
+
+8 Change of use of former Red Lion
+Public House to provide four
+apartments together with erection of
+4 houses within the site with parking,
+landscaping and ancillary works
+
+8
+
+8
+
+Site with planning permission for 8no.
+residential development
+
+2018-11-12
+
+2018-11-12 18/00120/FUL
+
+http://opendatacommunities.org/id/district-council/rochford
+Rochford District Council
+
+ROC024
+
+Garage Block Between 28 And 29
+Althorne Way Canewdon
+
+https://www.rochford.gov.uk/brow OSGB36
+nfield-register-site-map-roc024
+
+590342.27
+
+194576.35
+
+0.12 not owned by a
+public authority
+
+yes
+
+permissioned
+
+full planning
+permission
+
+2018-03-28 https://maps.roc
+hford.gov.uk/De
+velopmentContr
+ol.aspx?requestt
+ype=parsetempl
+ate&template=D
+evelopmentCont
+rolApplication.tm
+plt&basepage=D
+evelopmentCont
+rol.aspx&Filter=^
+REFVAL^='17/00
+783/FUL'&histor
+y=ca7c5efce7014
+cadbeae01c104a
+7391a
+
+6 Demolish Garages and Construct Two
+Buildings to Provide 4 No. Two
+Bedroomed and 2 No. One
+Bedroomed Flats (6 Flats in Total)
+With Associated Vehicle and Cycle
+Parking
+
+6
+
+6
+
+Site with planning permission for 6no.
+residential development
+
+2018-11-12
+
+2018-11-12 17/00783/FUL
+
+

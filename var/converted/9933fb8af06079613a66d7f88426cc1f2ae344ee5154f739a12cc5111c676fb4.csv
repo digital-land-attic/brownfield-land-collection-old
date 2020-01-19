@@ -1,0 +1,127 @@
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,Unnamed: 28
+Mandatory,Mandatory,Mandatory,Optional,Mandatory,Mandatory,Mandatory,Mandatory,Mandatory,Mandatory,Mandatory,Optional,Mandatory,Optional,Optional,Optional,Optional,Mandatory,Optional,Optional,Optional,Optional,Optional,Optional,Optional,Optional,Mandatory,Mandatory,Entry updated for 31/12/17?
+OrganisationURI,OrganisationLabel,SiteReference,PreviouslyPartOf,SiteNameAddress,SiteplanURL,CoordinateReferenceSystem,GeoX,GeoY,Hectares,OwnershipStatus,Deliverable,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,ProposedForPIP,MinNetDwellings,DevelopmentDescription,NonHousingDevelopment,Part2,NetDwellingsRangeFrom,NetDwellingsRangeTo,HazardousSubstances,SiteInformation,Notes,FirstAddedDate,LastUpdatedDate,
+http://opendatacommunities.org/id/district-council/east-northamptonshire,East Northamptonshire Council,BFR E26,,"7/Factory/Land Corner Of Station Road And Church Street, Irthlingborough, NN9 5SN",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1602,OSGB36,494797.52,270705.51,0.520886,not owned by a public authority,,permissioned,full planning permission,2016-05-04 00:00:00,"15/00990/FUL
+http://bit.ly/2mtFCf1",,20,"15/00990/FUL - 20 No. two storey dwellings with associated access, parking and landscaping",Erection of 2No. retail units (1No. class A1 retail unit of 930 square metres and 1No. mixed use class A1/A3 unit of 130.55 square metres) ,,20,20,,15/00990/FUL,,2016-06-30 00:00:00,2017-12-31 00:00:00,
+http://opendatacommunities.org/id/district-council/east-northamptonshire,East Northamptonshire Council,BFR E56,,"77 Kimbolton Road, Higham Ferrers, NN10 8HL",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1603,OSGB36,496307.57,268899.7,0.289833,not owned by a public authority,,permissioned,reserved matters approval,2010-04-29 00:00:00,"09/00405/REM 
+http://bit.ly/2D94eOe ",,24,09/00405/REM - Reserved Matters: Landscaping associated with demolition of existing buildings and redevelopment of twenty four dwellings with associated external works pursuant to outline planning permission EN/04/02158/OUT dated 21/03/2006.,,,24,24,,09/00405/REM - Site under construction as at 31 March 2017.,,2016-06-30 00:00:00,2017-12-31 00:00:00,
+http://opendatacommunities.org/id/district-council/east-northamptonshire,East Northamptonshire Council,BFR E65,,"Factory Premises, Oakley Road, Rushden, NN10 6UR",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1604,OSGB36,495068.93,267111.33,0.294131,not owned by a public authority,,not permissioned,,,,,14,,,,14,15,," Derelict Industrial Site where the former ""GBD Reproduction Furniture"" warehouse was located.",,2016-06-30 00:00:00,2017-12-31 00:00:00,
+http://opendatacommunities.org/id/district-council/east-northamptonshire,East Northamptonshire Council,BFR E66,,"High Beech, 8 Hayway, Rushden, NN10 6ES",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1605,OSGB36,495591.94,267572.4,0.384095,unknown ownership,,permissioned,full planning permission,2015-03-11 00:00:00,"14/02228/FUL
+http://bit.ly/2Dw68vW",,5,14/02228/FUL - Demolition of existing building and erection of five detached dwellings pursuant to planning permission 13/01585/FUL.,,,5,5,,14/02228/FUL,,2016-06-30 00:00:00,2017-12-31 00:00:00,
+http://opendatacommunities.org/id/district-council/east-northamptonshire,East Northamptonshire Council,BFR E67,,"REXAM Factory, Upper Queen Street, Rushden, NN10 0DU",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1606,OSGB36,496208.16,267072.72,0.736937,unknown ownership,,permissioned,full planning permission,2015-10-21 00:00:00,"14/00683/FUL
+http://bit.ly/2FILMh8
+",,47,14/00683/FUL - Erection of 47 dwellings with associated access road including demolition of extensions and sheds to the rear of listed building,,,47,47,,14/00683/FUL - Site was under construction (and nearly complete) pursuant to extant permission at 31/03/2017. ,,2016-06-30 00:00:00,2017-12-31 00:00:00,
+http://opendatacommunities.org/id/district-council/corby,Corby Borough Council,BFR C1,,"Car Park, Pytchley Court, Corby, NN17 2PL",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1594,OSGB36,486899.83,289698,0.379256,owned by a public authority,,not permissioned,,,"Previously proposed as a Housing Allocation (HA21) for 13 dwellings in the Proposed Site Specific Allocations Development Plan Document as consulted upon by Corby Borough Council in September 2009 (Saved Local Plan Policy R2).
+
+",,9,,,,9,9,,,,2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/corby,Corby Borough Council,BFR C16,,"Garage Court, Lindisfarne Road, Corby, NN17 2HW",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1595,OSGB36,487568.06,290137.73,0.283413,owned by a public authority,,not permissioned,,,,,11,,,,11,11,,Majority of site is in public sector ownership but the remaining garages are private. Site considered in mutiple ownership as a result.,,2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/corby,Corby Borough Council,BFR C20,,"Maple House, Canada Square, Corby, NN18 9HU",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1596,OSGB36,487035.92,287221.71,0.419532,owned by a public authority,,not permissioned,,,Pre-application discussions held previously by the owners and council held with a view to bringing site forward for Housing use. No planning application at November 2017.,,11,,,,11,11,,A Tree Preservation Order exists on site (TPO/2014/5),,2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/corby,Corby Borough Council,BFR C23,,"Former Our Lady Pope John School, Tower Hill Road, Corby, NN18 0TF",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1597,OSGB36,486184.14,287701.29,2.11051,not owned by a public authority,,permissioned,outline planning permission,2013-06-21 00:00:00,"11/00215/OUT
+
+http://bit.ly/2mOyEOF",,95,"11/00215/OUT - Outline application for demolition of the existing school buildings and redevelopment of site to provide 95 residential dwellings, together with parking, access roads, communal square, children's playground, utility services and other associated works.",,,95,95,,11/00215/OUT - No start on site at November 2017.,,2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/corby,Corby Borough Council,BFR C24,,"Railway Station Interchange, Station Road, Corby, NN17 1NA",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1598,OSGB36,489243.38,288612.34,0.805703,owned by a public authority,,not permissioned,,,Site was previously subject to a Starter Homes bid to the HCA.,,29,,,,29,40,,,"Site previously assessed through SHLAA as site 2030.
+
+The site has been subject to a bid to the HCA for Starter Homes funding and it was assumed that 40 dwellings could be delivered on the site. However, as part of an urban design review, consideration was also made of a mix of uses being deployed on site which reduces the developable area for housing (assuming 50dph) an alternative yield of 29 dwellings has been assumed.",2016-06-30 00:00:00,2016-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/corby,Corby Borough Council,BFR C25,,"Beanfield School, off Glastonbury Road, Corby, NN18 0DJ",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1599,OSGB36,486311.62,288536.61,3.99481,owned by a public authority,,permissioned,outline planning permission,2014-06-20 00:00:00,"13/00242/OUT 
+
+http://bit.ly/2mOyEOF",,96,"13/00242/OUT - Outline application for up to 96 dwellings with associated access, open space, play area and landscaping",,,96,96,,Site is under construction at November 2017 pursuant to extant permission (no completions to date).,,2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/corby,Corby Borough Council,BFR C26,,"Parkland Gateway, George Street, Corby, NN17 1QG",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1600,OSGB36,488000.75,288724.53,0.701286,owned by a public authority,,not permissioned,,,,,,,,,40,63,,,"Site previously assessed through SHLAA as site 2037.
+
+The site was previously been subject to a bid to the HCA for Starter Homes funding and it was assumed that 40 dwellings could be delivered on the site. However, as part of an urban design review, consideration was also made of higher densities (flats) being deployed on site and assuming 100dph an alternative yield of 63 dwellings has been assumed.",2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/corby,Corby Borough Council,BFR C27,,"Kingswood School, Gainsborough Road, Corby, NN18 9NQ",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1601,OSGB36,486108.26,287407.74,1.66549,owned by a public authority,,permissioned,outline planning permission,2014-02-28 00:00:00,"13/00241/OUT 
+
+http://bit.ly/2mOyEOF ",,90,"13/00241/OUT - Demolition of existing buildings and development of up to 90 dwellings with associated access, open space, play area and landscaping",,,90,90,,"Site is under construction at November 2017 pursuant to extant permission (12 dwellings completed to date, 10 starts).",,2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/kettering,Kettering Borough Council,BFR K2,,"Scott Road Garages, Scott Road, Kettering, NN16 9JY",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1607,OSGB36,487396.51,280288.78,0.427951,owned by a public authority,,not permissioned,,,At Planning Policy Committee on 05.09.17 it was agreed to designate this site as a draft housing allocation in the draft Part 2 Local plan for consultation with a potential yield of 25 dwellings. Potential housing allocation in Kettering Borough Council's Part 2 Local Plan.,,25,,,,12,25,,"A sewer easement crosses the site.
+","Previously assessed through SHLAA as site 705.
+
+Council owned site. Preference would be for affordable housing on site.
+
+Different dwelling capaciites have been calculated for the site dependent on potential densities to be applied (taking account of the surrounding area). These entail either 17 houses at 50dph or 12 houses at 35 dph and these values take account (exclude) an area of the site under which a sewer easement runs. ",2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/kettering,Kettering Borough Council,BFR K3,,"Kettering Football Club, Rockingham Road, Kettering, NN16 9EU",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1608,OSGB36,486593.37,279982.45,1.62302,not owned by a public authority,,not permissioned,,,"At Planning Policy Committee on 05.09.17 it was agreed to designate this site as a draft housing allocation in the draft Part 2 Local plan for consultation with a potential yield of 88 dwellings. An application of Prior Nofication of Demolition has been received for the site, (ref. KET/2017/0761) and this has been since undertaken.",,88,,,,88,88,,"Previously assessed through SHLAA as site 732.
+
+http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1323","Privately owned site with a landowner keen to redevelop.
+
+Former stadium of Kettering Town Football Club. Site has not been used for footballing purposes for a number of years. Stadium demolished in 2017.",2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/kettering,Kettering Borough Council,BFR K8,,"Land At Rothwell Town Football Club, Cecil Street, Rothwell, NN14 6EZ",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1609,OSGB36,481629.76,281514.83,1.60445,not owned by a public authority,,permissioned,full planning permission,2015-11-27 00:00:00,"KET/2014/0233
+
+http://www.kettering.gov.uk/planningApplication?thisWeek=0&appNumber=KET%2F2014%2F0233&submit=Go",,80,KET/2014/0233 - 80 no. dwellings with associated infrastructure,,,80,80,,"Previously assessed through SHLAA as site 1027.
+
+http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1323",,2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/kettering,Kettering Borough Council,BFR K15,,"Desborough Leisure Centre, Off Broadlands, Desborough, NN14 2YH",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1610,OSGB36,481326.27,282839.22,3.41814,owned by a public authority,,not permissioned,,,"Former Leisure Centre has been demolished. Site has been subject to an application for 304 dwellings (KET/2016/0044) albeit this was refused on 26/05/2016. An appeal has been lodged to this decision and is currently in progress (APP/L2820/W/16/3162430).
+
+Details are available here: http://www.kettering.gov.uk/planningApplication?thisWeek=0&appNumber=KET%2F2016%2F0044&submit=Go ",,46,,,,46,46,,"Previously assessed through SHLAA as site 1165.
+
+http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1323
+
+","For BFR assessment purposes it is assumed that development will only happen on the PDL element of site (and not the larger, wider site which includes extensive tracts of Greenfield). To derive these estimates it has been calculated that only 30% of the wider site is PDL so 70% of the overall site has been discounted for development, hence the minimum figure propsed of 46 net dwellings used.",2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/kettering,Kettering Borough Council,BFR K17,,"Land At Bosworth's Nursery And Garden Centre, Finedon Road, Burton Latimer, NN15 5QA",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1611,OSGB36,489519.82,273939.83,2.721,not owned by a public authority,,permissioned,outline planning permission,2014-06-14 00:00:00,"KET/2013/0750 
+
+http://www.kettering.gov.uk/planningApplication?thisWeek=0&appNumber=KET%2F2013%2F0750&submit=Go ",,69,"KET/2013/0750 - Residential development for up to 69 no. dwellings with access.
+
+KET/2016/0883 - Reserved matters application received 10.01.17, target decision date 31.10.17.",,,69,69,,"Previously assessed through SHLAA as site 2185.
+
+http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1323",,2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/kettering,Kettering Borough Council,BFR K24,,"Rothwell Town FC, Cambridge Street, Rothwell, NN14 6HA",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1612,OSGB36,481657.55,281572.79,0.3934,not owned by a public authority,,not permissioned,,,,,16,,,,16,16,,,"See County Council map for additional details on features which may affect site:
+
+http://maps.northamptonshire.gov.uk/  ",2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/kettering,Kettering Borough Council,BFR K30,,"Rockingham Dene, Rockingham Road, Kettering, NN16 9JW",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1613,OSGB36,486328.68,280418.86,0.44078,owned by a public authority,,not permissioned,,,"Outline consent for 9 dwellings exists on the land adjacent to this site (KET/2015/0220) but BFR K30 itself has no extant permission.
+
+Site was previously occupied by a Children's Care Home which closed in July 2002 and was demolished thereafter. 
+
+Site was subject to a previous application for 28 dwellings (KET/2007/0990) which Committee resolved to grant permission for (subject to S.106) albeit this was never completed and the application was disposed of by the Council in September 2012.
+
+Details are available here:  http://www.kettering.gov.uk/planningApplication/50359",,9,,,,9,9,,Tree Preservation Orders exist on the site (TPO 2008 No6).,"See County Council map for additional details on features which may affect site:
+
+http://maps.northamptonshire.gov.uk/  ",2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/wellingborough,Borough Council of Wellingborough,BFR W10,,"Former Swimming Baths, Croyland Road, Wellingborough, NN8 2JY",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1614,OSGB36,488794.33,267310.05,0.736844,owned by a public authority,,not permissioned,,,WP/16/00017/OUT for residential development withdrawn in March 2016. No further applications received as of yet. ,,30,,,,30,30,,"See County Council map for additional details on features which may affect site:
+
+http://maps.northamptonshire.gov.uk/  ",Previously assessed through SHLAA as site 873,2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/wellingborough,Borough Council of Wellingborough,BFR W12,,"Rear Of 3 Princess Way, Wellingborough, NN8 2HD",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1615,OSGB36,488274.32,266723.45,0.375162,not owned by a public authority,,not permissioned,,,,,6,,,,6,6,,"See County Council map for additional details on features which may affect site:
+
+http://maps.northamptonshire.gov.uk/  ",Previously assessed through SHLAA as site 881,2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/wellingborough,Borough Council of Wellingborough,BFR W15,,"George Cox Shoes, Westfield Road, Wellingborough, NN8 3JR",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1616,OSGB36,488406.05,267919.85,0.549354,not owned by a public authority,,permissioned,full planning permission,"2017-05-02
+2017-06-06","WP/16/00375/FUL 
+WP/16/00492/FUL
+
+http://bit.ly/2rl6MY7",,76,"WP/16/00375/FUL - Demolition of existing buildings and erection of 45 Retirement Living Apartments for the elderly (category ll type accommodation), including communal facilities, landscaping and car parking. Approved 02/05/2017. Site currently under construction.
+
+WP/16/00492/FUL - Demolition of existing buildings and erection of 31 apartments with landscaped grounds and car/cycle parking. Designed to work in conjunction with the adjacent retirement living scheme to the north. Approved 06/06/2017. Site currently under construction.",,,31,76,,The site is currently under construction pursuant to the x2 permissions which exist.,"Previously assessed through SHLAA as site 893. 
+
+",2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/wellingborough,Borough Council of Wellingborough,BFR W19,,"Reddens Scrap Yard, Leys Road / Highfield Road, Wellingborough, NN8 1PL",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1617,OSGB36,489738.89,268548.97,1.13853,not owned by a public authority,,not permissioned,,,The site is included in the emerging plan for the Borough of Wellingborough under site specific policy site 7.  No new applications have been received. ,,50,,,,50,50,,,Previously assessed through SHLAA as site 898.,2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/wellingborough,Borough Council of Wellingborough,BFR W28,,"Car Park And Others, High Street/Jackson Lane, Wellingborough, NN8 4JJ",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1618,OSGB36,488882.73,267926.53,3.12237,owned by a public authority,,not permissioned,,,"Site is currently subject to a planning application for redevelopment of the existing car park for 113 houses, apartments and car parking (WP/14/00175/FUL). A decision on this is pending (revised plans were submitted in August 2017). Details are available here: 
+http://pawebsrv.wellingborough.gov.uk/online-applications/",,220,,,,220,220,,"Development here would support Town centre regeneration. 
+
+",Allocated as Site C in the 2009 Wellingborough Town Centre Area Action Plan,2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/wellingborough,Borough Council of Wellingborough,BFR W30,,"Former Post Office Sorting Office, Midland Road, Wellingborough, NN8 1DW",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1619,OSGB36,489353.2,267916.62,0.453093,not owned by a public authority,,not permissioned,,,Site was subject to application for 73 apartments in 2007 but this was subsequently withdrawn (WP/2007/0435). No further planning applications received. Allocated in the emerging Part 2 local plan for residential use. ,,73,,,,73,73,,,Allocated as Site I in the 2009 Wellingborough Town Centre Area Action Plan,2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/wellingborough,Borough Council of Wellingborough,BFR W32,,"East Of Eastfield Road, Wellingborough, NN8 1RJ",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1620,OSGB36,490181.41,268930.89,10.8758,not owned by a public authority,,permissioned,reserved matters approval,"2014-09-25
+2017-02-22","WP/14/00243/REM
+WP/16/00798/REM
+
+http://bit.ly/2DPydvT",,75,"WP/14/00243/REM - Proposed residential development of 156 no. dwellings. NEW AND AMENDED PLANS AND FURTHER INFORMATION.
+
+WP/16/00798/REM - Application for the access, appearance, landscape, layout and scale for the proposed development of 5 new dwellings together with associated accesses, parking and landscaping and the re-positioning of 2 dwellings and the pumping station, which have the benefit of an existing approval. ",,,75,75,,The site is included in the emerging plan for the Borough of Wellingborough under site specific policy site  6.,There have been x97 dwellings completed at Ladywell Park since 2014 pursuant to application WP/14/00243/REM.,2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/wellingborough,Borough Council of Wellingborough,BFR W36,,"Land Between Number 33 And 67, Milner Road, Finedon, NN9 5LW",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1621,OSGB36,491989.85,271644.52,1.38846,not owned by a public authority,,permissioned,full planning permission,2017-06-01 00:00:00,"WP/17/00118/FUL
+
+http://bit.ly/2rl6MY7",,50,WP/17/00118/FUL - New residential development to provide 50 dwellings on vacant site ,,,50,50,,Vacant site,"Site formerly identified as Saved Local Plan Allocation FN2 (Milner Road) from the 2007 Local Plan for Wellingborough (30 dwellings). 
+
+
+
+",2016-06-30 00:00:00,2017-12-31 00:00:00,Y
+http://opendatacommunities.org/id/district-council/wellingborough,Borough Council of Wellingborough,BFR W42,,"Site G TCAAP - Alma St/Cambridge Street Backlands, Cambridge Street, Wellingborough, NN8 4DJ",http://www.nnjpu.org.uk/publications/docdetail.asp?docid=1622,OSGB36,489355.11,268063.18,0.829819,not owned by a public authority,,permissioned,full planning permission,"2015-04-29
+2015-04-29
+2017-01-13
+","WP/15/00092/FUL
+WP/15/00094/FUL
+WP/16/00682/FUL
+
+http://bit.ly/2rl6MY7",,60,"WP/15/0092/FUL - Erection of a terrace of five 2-storey houses with room in the roof and associated works. 
+
+WP/15/00094/FUL - Conversion of upper floor to 5 self-contained residential units and the change of use of ground floor from D2 use class to D1 use class (non-residential Community Centre). Associated external alterations to the building. 
+
+WP/16/00682/FUL  - Conversion of ground and lower floors of former Working Mens Club to form four two-bed and one one-bed flats. ADDITIONAL BIN STORAGE (this permission partially supersedes 
+WP/15/00094/FUL)",,,60,60,,"The five dwelling units pursuant to WP/15/00092/FUL were completed in June 2016 and are located at the rear of the working mens club. 
+
+The 5 self-contained residential units pursuant to WP/15/00094/FUL were completed in September 2016.
+
+Works relating to WO/16/00682/FUL commenced in August 2017. ",Allocated as Site G in the 2009 Wellingborough Town Centre Area Action Plan,2016-06-30 00:00:00,2017-12-31 00:00:00,Y
