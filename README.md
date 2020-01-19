@@ -22,6 +22,8 @@ The collected resources are harmonised in the following steps:
 * [var/normalised](var/normalised) -- the normalised resource as CSV
 * [var/harmonised](var/harmonised) -- the harmonised resource as CSV
 
+Files which cannot be easily processed automatically are fixed by hand and kept in the [fixed](fixed) directory.
+
 The collection is then collated into a register for each organisation, and a national dataset (TBD).
 
 A number of index files are generated for the collection:
