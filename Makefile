@@ -1,11 +1,13 @@
-.PHONY: init collection collect second-pass validate index clobber black clean prune
+.PHONY: init collection collect second-pass normalise validate index clobber black clean prune
 .SECONDARY:
 .DELETE_ON_ERROR:
 .SUFFIXES: .json
 
 RESOURCE_DIR=collection/resource/
+FIXED_DIR=fixed/
+
 VALIDATION_DIR=validation/
-TMP_DIR=var/tmp/
+CONVERTED_DIR=var/converted/
 NORMALISED_DIR=var/normalised/
 
 DATASET_NAMES=brownfield-land
@@ -14,7 +16,14 @@ DATASET_FILES=dataset/brownfield-land.csv
 LOG_FILES:=$(wildcard collection/log/*/*.json)
 LOG_FILES_TODAY:=collection/log/$(shell date +%Y-%m-%d)/
 
-VALIDATION_FILES:=$(addsuffix .json,$(subst $(RESOURCE_DIR),$(VALIDATION_DIR),$(wildcard $(RESOURCE_DIR)*)))
+RESOURCE_FILES:=$(wildcard $(RESOURCE_DIR)*)
+FIXED_FILES:=$(wildcard $(FIXED_DIR)*.csv)
+FIXED_CONVERTED_FILES:=$(subst $(FIXED_DIR),$(CONVERTED_DIR),$(FIXED_FILES))
+VALIDATION_FILES:=$(addsuffix .json,$(subst $(RESOURCE_DIR),$(VALIDATION_DIR),$(RESOURCE_FILES)))
+CONVERTED_FILES:=$(addsuffix .csv,$(subst $(RESOURCE_DIR),$(CONVERTED_DIR),$(RESOURCE_FILES)))
+NORMALISED_FILES:=$(subst $(CONVERTED_DIR),$(NORMALISED_DIR),$(CONVERTED_FILES))
+
+
 COLLECTION_INDEX=\
 	collection/index.json\
 	index/link.csv\
@@ -39,25 +48,51 @@ collect:	$(DATASET_FILES)
 
 # restart the make process to pick-up collected files
 second-pass:
-	@make --no-print-directory validate index
+	@make --no-print-directory validate normalise index
+
 
 validate: $(VALIDATION_FILES)
 	@:
 
-# fix validation which the validator fails on ..
-$(BROKEN_VALIDATIONS):
-	echo '{ "meta_data": {}, "result": {"tables":[{}]} }' > $@
-
-$(VALIDATION_DIR)%.json: $(RESOURCE_DIR)%
-	@mkdir -p $(TMP_DIR) $(NORMALISED_DIR) $(VALIDATION_DIR)
-	validate --exclude-input --exclude-rows --tmp-dir "$(TMP_DIR)" --save-dir "$(NORMALISED_DIR)" --file $< --output $@
-
+normalise: $(NORMALISED_FILES)
+	@:
 
 index: $(COLLECTION_INDEX)
 	@:
 
+
+$(VALIDATION_DIR)%.json: $(RESOURCE_DIR)%
+	@mkdir -p $(VALIDATION_DIR)
+	validate --exclude-input --exclude-rows --file $< --output $@
+
+
+#
+#  pipeline to build national dataset
+#
 $(COLLECTION_INDEX): bin/index.py $(DATASET_FILES) $(LOG_FILES) $(VALIDATION_FILES)
-	bin/index.py brownfield-land
+	python3 bin/index.py brownfield-land
+
+$(CONVERTED_DIR)%.csv: $(RESOURCE_DIR)%
+	@mkdir -p $(CONVERTED_DIR)
+	python3 bin/convert.py $< $@
+
+$(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv
+	@mkdir -p $(NORMALISED_DIR)
+	python3 bin/normalise.py $< $@
+
+
+
+# hand-fixes for resources which can't be processed
+$(FIXED_CONVERTED_FILES):
+	@mkdir -p $(CONVERTED_DIR)
+	python3 bin/convert.py $(subst $(CONVERTED_DIR),$(FIXED_DIR),$@) $@
+
+# fix validation which the validator fails on ..
+$(BROKEN_VALIDATIONS):
+	@mkdir -p $(VALIDATION_DIR)
+	echo '{ "meta_data": {}, "result": {"tables":[{}]} }' > $@
+
+
 
 black:
 	black .
