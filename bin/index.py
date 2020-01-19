@@ -47,7 +47,11 @@ def valid_url(n, url):
 
 
 def valid_date(n, date):
-    if date != None and date != "" and date != datetime.strptime(date, "%Y-%m-%d").strftime("%Y-%m-%d"):
+    if (
+        date != None
+        and date != ""
+        and date != datetime.strptime(date, "%Y-%m-%d").strftime("%Y-%m-%d")
+    ):
         logging.error("line %d: invalid date %s" % (n, date))
 
 
@@ -61,7 +65,9 @@ def save_json(path, data):
 def csv_writer(path, fieldnames):
     logging.info(path)
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    writer = csv.DictWriter(open(path, 'w'), fieldnames=fieldnames, extrasaction="ignore")
+    writer = csv.DictWriter(
+        open(path, "w"), fieldnames=fieldnames, extrasaction="ignore"
+    )
     writer.writeheader()
     return writer
 
@@ -150,8 +156,13 @@ def add(path, date, key, h):
     if prune:
         for organisation in idx[key]["organisation"]:
             end_date = idx[key]["organisation"][organisation].get("end-date", None)
-            if end_date and datetime.strptime(end_date, "%Y-%m-%d") < datetime.strptime(date, "%Y-%m-%d"):
-                logging.warning("collection after %s end-date %s for %s: %s" % (organisation, end_date, h["url"], path))
+            if end_date and datetime.strptime(end_date, "%Y-%m-%d") < datetime.strptime(
+                date, "%Y-%m-%d"
+            ):
+                logging.warning(
+                    "collection after %s end-date %s for %s: %s"
+                    % (organisation, end_date, h["url"], path)
+                )
 
     idx[key]["log"][date] = e
 
@@ -182,7 +193,10 @@ if __name__ == "__main__":
     # check resources in the log exist as files
     for resource in resources:
         if resources[resource]:
-            logging.error("missing resource: %s listed in %s" % (resource, ", ".join(resources[resource])))
+            logging.error(
+                "missing resource: %s listed in %s"
+                % (resource, ", ".join(resources[resource]))
+            )
 
     # process validation
     for path in glob.glob("%s*.json" % (validation_dir)):
@@ -195,11 +209,11 @@ if __name__ == "__main__":
             logging.error("no resource file for %s" % (path))
 
         resources[resource] = {
-            'media-type': v['meta_data'].get('media_type', ""),
-            'suffix': v['meta_data'].get('suffix', ""),
-            'valid': v['result'].get('valid', False),
-            'error-count': v['result'].get('error-count', -1),
-            'row-count': v['result']['tables'][0].get('row-count', 0),
+            "media-type": v["meta_data"].get("media_type", ""),
+            "suffix": v["meta_data"].get("suffix", ""),
+            "valid": v["result"].get("valid", False),
+            "error-count": v["result"].get("error-count", -1),
+            "row-count": v["result"]["tables"][0].get("row-count", 0),
         }
 
     for resource, r in resources.items():
@@ -207,21 +221,37 @@ if __name__ == "__main__":
             logging.error("%s%s.json missing" % (validation_dir, resource))
 
     # save as single JSON file
-    save_json("collection/index.json", canonicaljson.encode_canonical_json({
-        'key': idx,
-        'resource': resources,
-    }))
+    save_json(
+        "collection/index.json",
+        canonicaljson.encode_canonical_json({"key": idx, "resource": resources,}),
+    )
 
     # save index CSV files
-    save_csv("resource", ["resource", "media-type", "suffix", "row-count", "error-count"], resources)
+    save_csv(
+        "resource",
+        ["resource", "media-type", "suffix", "row-count", "error-count"],
+        resources,
+    )
     save_csv("link", ["link", "url"], idx)
 
     log = {}
     for link in idx:
         for date, entry in idx[link]["log"].items():
-            entry = { key.lower(): value for key, value in entry.items() }
+            entry = {key.lower(): value for key, value in entry.items()}
             entry["link"] = link
             entry["date"] = date
-            log["%s-%s"%(date, link)] = entry
+            log["%s-%s" % (date, link)] = entry
 
-    save_csv("log", ["datetime", "link", "status", "elapsed", "resource", "content-type", "content-length"], log)
+    save_csv(
+        "log",
+        [
+            "datetime",
+            "link",
+            "status",
+            "elapsed",
+            "resource",
+            "content-type",
+            "content-length",
+        ],
+        log,
+    )
