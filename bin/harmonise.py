@@ -16,42 +16,27 @@ schema = {
         {
             "name": "OrganisationURI",
             "title": "Organisation URI",
-            "typos": [ "OrganistionURI", "LPA URL", "OPEN DATA WEBSITE", "Organisati" ]
+            "typos": ["OrganistionURI", "LPA URL", "OPEN DATA WEBSITE", "Organisati"],
         },
         {
             "name": "SiteReference",
             "title": "Site reference",
-            "typos": ["LA SITE REF", "SiteRefere"]
+            "typos": ["LA SITE REF", "SiteRefere"],
         },
-        {
-            "name": "GeoX",
-        },
-        {
-            "name": "GeoY",
-        },
-        {
-            "name": "Hectares",
-            "typos": ["AREA (HA)"]
-        },
-        {
-            "name": "FirstAddedDate",
-            "typos": ["FirstAdded"]
-        },
-        {
-            "name": "LastUpdatedDate",
-            "typos": ["LastUpdate"]
-        },
-        {
-            "name": "EndDate"
-        }
+        {"name": "GeoX",},
+        {"name": "GeoY",},
+        {"name": "Hectares", "typos": ["AREA (HA)"]},
+        {"name": "FirstAddedDate", "typos": ["FirstAdded"]},
+        {"name": "LastUpdatedDate", "typos": ["LastUpdate"]},
+        {"name": "EndDate"},
     ]
 }
 
-pattern = re.compile(r'[^a-z0-9]')
+pattern = re.compile(r"[^a-z0-9]")
 
 
 def name(name):
-    return re.sub(pattern, '', name.lower())
+    return re.sub(pattern, "", name.lower())
 
 
 if __name__ == "__main__":

@@ -15,13 +15,13 @@ import logging
 def detect_encoding(path):
     detector = UniversalDetector()
     detector.reset()
-    with open(path, 'rb') as f:
+    with open(path, "rb") as f:
         for line in f:
             detector.feed(line)
             if detector.done:
                 break
     detector.close()
-    return detector.result['encoding']
+    return detector.result["encoding"]
 
 
 def from_csv(path):
@@ -32,9 +32,9 @@ def from_csv(path):
 
     logging.debug(f"detected encoding {encoding}")
 
-    with open(path, encoding=encoding, newline='') as f:
+    with open(path, encoding=encoding, newline="") as f:
         content = f.read()
-        if content.lower().startswith('<!doctype '):
+        if content.lower().startswith("<!doctype "):
             logging.debug(f"{path} has <!doctype")
             return None
 
@@ -66,9 +66,10 @@ def from_excel(path):
     return data
 
 
-
 if __name__ == "__main__":
-    logging.basicConfig(level=logging.DEBUG, format="%(asctime)s %(levelname)s %(message)s")
+    logging.basicConfig(
+        level=logging.DEBUG, format="%(asctime)s %(levelname)s %(message)s"
+    )
 
     path = sys.argv[1]
 
