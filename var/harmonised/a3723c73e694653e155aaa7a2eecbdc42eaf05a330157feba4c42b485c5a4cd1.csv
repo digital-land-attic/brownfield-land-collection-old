@@ -1,4 +1,4 @@
 OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/15,http://www.exmoor-nationalpark.gov.uk/__data/assets/file/0006/1065183/BS_VORHotel.pdf,OSGB36,271988,,,
-http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/2,http://www.exmoor-nationalpark.gov.uk/__data/assets/file/0004/1065181/BS_MeadowCP.pdf,OSGB36,272078,,,
-http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/38,http://www.exmoor-nationalpark.gov.uk/__data/assets/file/0008/1065185/BS_TorsHotel.pdf,OSGB36,272488,,,
+http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/15,271988,149535,0.33,06/12/2017,06/12/2017,
+http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/2,272078,149286,0.41,06/12/2017,06/12/2017,
+http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/38,272488,149487,0.51,06/12/2017,06/12/2017,

@@ -38,17 +38,9 @@ def from_csv(path):
             logging.debug(f"{path} has <!doctype")
             return None
 
-        try:
-            dialect = csv.Sniffer().sniff(content)
-        except:
-            logging.error(f"{path} unable to detect CSV dialect")
-            return None
-
-        logging.debug(f"sniffed dialect delimiter=%s" % (dialect.delimiter))
-
         f.seek(0)
         data = []
-        for row in csv.reader(f, dialect):
+        for row in csv.reader(f):
             data.append(row)
         return data
 

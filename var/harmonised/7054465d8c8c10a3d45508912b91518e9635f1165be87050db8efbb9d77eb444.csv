@@ -1,14 +1,14 @@
 OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,194,522541,,162140,,09/11/2017,10/12/2019
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,535,521185,,160650,"Submitted application, pending decision for 60 extra care apartments (the 33 units yield is derived from the Housing Delivery Test Measurement Rule Book). Site forms part of the Emergency Services Site allocation in the Area Action Plan – Plan E",12/11/2019,10/12/2019
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,565,519159,,160088,"Submitted application, pending decision for 23 units.",04/12/2019,10/12/2019
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,893,521203,,165036,"Submitted application, pending decision for 15 units. Site already has approval for 13 units. ",06/11/2019,10/12/2019
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,1317,, Epsom,520924,,"Submitted application, pending decision for 9 units on upper floors.",11/12/2019
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,329,521457,,161331,Site developed,13/11/2017,10/12/2019
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,600,521751,,163218,Site developed,04/12/2018,10/12/2019
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,602,521418,,161335,Site developed,04/12/2018,10/12/2019
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,20,521113,,160788,Owner has not confirmed site is available,28/11/2017,10/12/2019
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,21,521544,,161111,Owner has not confirmed site is available,08/11/2017,10/12/2019
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,148,521237,,160696,Owner has not confirmed site is available,15/11/2017,10/12/2019
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,601,520848,,160765,Owner has not confirmed site is available,04/12/2018,10/12/2019
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,603,520878,,161452,Owner has not confirmed site is available,04/12/2018,10/12/2019
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,194,162140,522541,0.19,09/11/2017,10/12/2019,
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,535,160650,521185,0.37,12/11/2019,10/12/2019,
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,565,160088,519159,0.32,04/12/2019,10/12/2019,
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,893,165036,521203,0.27,06/11/2019,10/12/2019,
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,1317,160859,520924,0.3,11/12/2019,10/12/2019,
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,329,161331,521457,0.14,13/11/2017,10/12/2019,10/12/2019
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,600,163218,521751,0.55,04/12/2018,10/12/2019,17/09/2019
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,602,161335,521418,0.05,04/12/2018,10/12/2019,29/01/2019
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,20,160788,521113,0.23,28/11/2017,10/12/2019,10/12/2019
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,21,161111,521544,0.46,08/11/2017,10/12/2019,10/12/2019
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,148,160696,521237,0.14,15/11/2017,10/12/2019,10/12/2019
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,601,160765,520848,0.18,04/12/2018,10/12/2019,10/12/2019
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,603,161452,520878,0.07,04/12/2018,10/12/2019,10/12/2019
