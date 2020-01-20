@@ -81,11 +81,11 @@ $(CONVERTED_DIR)%.csv: $(RESOURCE_DIR)%
 	@mkdir -p $(CONVERTED_DIR)
 	python3 bin/convert.py $< $@
 
-$(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv
+$(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv bin/normalise.py
 	@mkdir -p $(NORMALISED_DIR)
 	python3 bin/normalise.py $< $@
 
-$(HARMONISED_DIR)%.csv: $(NORMALISED_DIR)%.csv
+$(HARMONISED_DIR)%.csv: $(NORMALISED_DIR)%.csv bin/harmonise.py
 	@mkdir -p $(HARMONISED_DIR)
 	python3 bin/harmonise.py $< $@
 
