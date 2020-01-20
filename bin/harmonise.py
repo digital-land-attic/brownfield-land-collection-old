@@ -16,14 +16,29 @@ schema = {
         {
             "name": "OrganisationURI",
             "title": "Organisation URI",
-            "description": "The URL of the organisation on https://opendatacommunities.org",
-            "type": "string",
-            "format": "uri",
-            "constraints": {
-                "required": True
-            },
-            "typos": [ "OrganistionURI" ]
+            "typos": [ "OrganistionURI", "LPA URL", "OPEN DATA WEBSITE" ]
         },
+        {
+            "name": "SiteReference",
+            "title": "Site reference",
+            "typos": ["LA SITE REF"]
+        },
+        {
+            "name": "GeoX",
+        },
+        {
+            "name": "GeoY",
+        },
+        {
+            "name": "Hectares",
+            "typos": ["AREA (HA)"]
+        },
+        {
+            "name": "FirstAddedDate"
+        },
+        {
+            "name": "LastUpdatedDate"
+        }
     ]
 }
 
@@ -35,14 +50,15 @@ def name(name):
 
 
 if __name__ == "__main__":
-
     fieldnames = [field["name"] for field in schema["fields"]]
 
     # index of typos
     typos = {}
     for field in schema["fields"]:
-        typos[name(field["title"])] = field["name"]
-        for typo in field["typos"]:
+        typos[name(field["name"])] = field["name"]
+        if "title" in field:
+            typos[name(field["title"])] = field["name"]
+        for typo in field.get("typos", []):
             typos[name(typo)] = field["name"]
 
     reader = csv.DictReader(open(sys.argv[1], newline=""))
@@ -52,9 +68,6 @@ if __name__ == "__main__":
     for field in reader.fieldnames:
         if name(field) in typos:
             headers[field] = typos[name(field)]
-
-    print("reader.fieldnames", reader.fieldnames)
-    print("headers", headers)
 
     with open(sys.argv[2], "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)

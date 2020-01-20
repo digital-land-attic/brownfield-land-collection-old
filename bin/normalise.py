@@ -21,8 +21,22 @@ if __name__ == "__main__":
         if not "".join(row):
             continue
 
-        # skip rows containing 1,2,3,4 ..
-        if row == [str(n) for n in range(1, len(row) + 1)]:
+        line = ",".join(row)
+
+        # skip sequence numbered rows
+        if line.startswith("1,2,3,4,5,6,7,8,"):
+            continue
+
+        # skip rows containing a lot of Unnamed values
+        # possibly too aggressive?
+        if row[0] == "Unnamed: 0":
+            continue
+
+        if "Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4" in line:
+            continue
+
+        # skip common notes row
+        if "Mandatory,Mandatory,Mandatory,Mandatory,Mandatory,Mandatory,Mandatory" in line:
             continue
 
         writer.writerow(row)
