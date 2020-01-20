@@ -1,29 +1,29 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA141,-1.560219,53.141519,0.98,06/12/2017,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA199,-1.556868,53.133163,1.16,06/12/2017,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA204,OSGB36,-1.71797,53.008199,"Allocated in the Local Plan, Policy HC2(b).",06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA217,-1.576585,53.070124,3.28,06/12/2017,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA266,OSGB36,-1.699701,53.001266,"Allocated in the Local Plan Policies HC2 (d) and DS8 Development at this site will extend beyond 2033, assumed completion of circa 800 dwellings 2017-2033.",06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA269,-1.572986,53.088566,9.46,06/12/2017,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA279,OSGB36,-1.797493,52.937241,,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA28,-1.579073,53.154982,6.31,06/12/2017,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA281,-1.601188,53.170451,10.16,"Schedule 2 of the 2017 Brownfield Land Regulations as """"there is no reasonable prospect that residential development will take place on the land within 5 years of the entry date","not included in the Local Plan five year housing land supply 2017-22."""
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA305,-1.725994,52.977634,2.1,06/12/2017,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA344,OSGB36,-1.555966,53.137498,Allocated in the Local Plan Policy HC2 (u).,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA384,OSGB36,-1.575422,53.142746,Allocated in the Local Plan Policy HC2 (y).,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA432,-1.572594,53.16246,0.88,06/12/2017,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA435,-1.567855,53.136655,15.66,06/12/2017,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA473,-1.580054,53.087342,61.51,06/12/2017,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA478,-1.516215,53.137616,1.04,06/12/2017,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA49,-1.569516,53.140532,26.6,06/12/2017,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA500,OSGB36,-1.702467,53.009065,Allocated in the Local Plan Policies HC2 (c) and DS1.,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA52,-1.540988,53.126654,2.9,06/12/2017,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA530,-1.61588,53.019158,0.39,06/12/2017,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA560,OSGB36,-1.575233,53.070325,,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA572,OSGB36,-1.717555,52.960449,,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA583,OSGB36,-1.740315,53.012365,,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA584,OSGB36,-1.622192,52.971202,,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA7,OSGB36,-1.733095,53.019714,,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA70,-1.58055,53.094979,2.47,06/12/2017,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA80,OSGB36,-1.53197,53.136632,,06/12/2017
-http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA83,OSGB36,-1.577271,53.073163,,06/12/2017
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA141,-1.560219,53.141519,0.98,06/12/2017,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA199,-1.556868,53.133163,1.16,06/12/2017,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA204,OSGB36,-1.71797,53.008199,"Allocated in the Local Plan, Policy HC2(b).",06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA217,-1.576585,53.070124,3.28,06/12/2017,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA266,OSGB36,-1.699701,53.001266,"Allocated in the Local Plan Policies HC2 (d) and DS8 Development at this site will extend beyond 2033, assumed completion of circa 800 dwellings 2017-2033.",06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA269,-1.572986,53.088566,9.46,06/12/2017,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA279,OSGB36,-1.797493,52.937241,,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA28,-1.579073,53.154982,6.31,06/12/2017,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA281,-1.601188,53.170451,10.16," Schedule 2 of the 2017 Brownfield Land Regulations as """"there is no reasonable prospect that residential development will take place on the land within 5 years of the entry date", not included in the Local Plan five year housing land supply 2017-22.,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA305,-1.725994,52.977634,2.1,06/12/2017,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA344,OSGB36,-1.555966,53.137498,Allocated in the Local Plan Policy HC2 (u). ,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA384,OSGB36,-1.575422,53.142746,Allocated in the Local Plan Policy HC2 (y). ,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA432,-1.572594,53.16246,0.88,06/12/2017,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA435,-1.567855,53.136655,15.66,06/12/2017,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA473,-1.580054,53.087342,61.51,06/12/2017,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA478,-1.516215,53.137616,1.04,06/12/2017,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA49,-1.569516,53.140532,26.6,06/12/2017,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA500,OSGB36,-1.702467,53.009065,Allocated in the Local Plan Policies HC2 (c) and DS1. ,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA52,-1.540988,53.126654,2.9,06/12/2017,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA530,-1.61588,53.019158,0.39,06/12/2017,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA560,OSGB36,-1.575233,53.070325,,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA572,OSGB36,-1.717555,52.960449,,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA583,OSGB36,-1.740315,53.012365,,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA584,OSGB36,-1.622192,52.971202,,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA7,OSGB36,-1.733095,53.019714,,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA70,-1.58055,53.094979,2.47,06/12/2017,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA80,OSGB36,-1.53197,53.136632,,06/12/2017,
+http://opendatacommunities.org/id/district-council/derbyshire-dales,SHLAA83,OSGB36,-1.577271,53.073163,,06/12/2017,

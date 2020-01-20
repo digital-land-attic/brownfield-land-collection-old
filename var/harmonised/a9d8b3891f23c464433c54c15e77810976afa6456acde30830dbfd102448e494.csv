@@ -1,7 +1,7 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate
-http://opendatacommunities.org/id/district-council/ryedale,Kirbymoorside-01,-0.922285,54.270260,0.38,2017-12-21,2017-12-21
-http://opendatacommunities.org/id/district-council/ryedale,Kirbymoorside-04,-0.929952,54.265857,0.64,2017-12-21,2017-12-21
-http://opendatacommunities.org/id/district-council/ryedale,Malton-02,-0.789411,54.139191,1.40,2017-12-21,2017-12-21
-http://opendatacommunities.org/id/district-council/ryedale,Norton-07,-0.786712,54.132817,0.74,2017-12-21,2017-12-21
-http://opendatacommunities.org/id/district-council/ryedale,Old_Malton-02,-0.780027,54.145702,0.46,2017-12-21,2017-12-21
-http://opendatacommunities.org/id/district-council/ryedale,Pickering-02,-0.773682,54.241593,0.48,2017-12-21,2017-12-21
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/ryedale,Kirbymoorside-01,-0.922285,54.270260,0.38,2017-12-21,2017-12-21,
+http://opendatacommunities.org/id/district-council/ryedale,Kirbymoorside-04,-0.929952,54.265857,0.64,2017-12-21,2017-12-21,
+http://opendatacommunities.org/id/district-council/ryedale,Malton-02,-0.789411,54.139191,1.40,2017-12-21,2017-12-21,
+http://opendatacommunities.org/id/district-council/ryedale,Norton-07,-0.786712,54.132817,0.74,2017-12-21,2017-12-21,
+http://opendatacommunities.org/id/district-council/ryedale,Old_Malton-02,-0.780027,54.145702,0.46,2017-12-21,2017-12-21,
+http://opendatacommunities.org/id/district-council/ryedale,Pickering-02,-0.773682,54.241593,0.48,2017-12-21,2017-12-21,

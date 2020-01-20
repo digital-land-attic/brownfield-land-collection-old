@@ -16,12 +16,12 @@ schema = {
         {
             "name": "OrganisationURI",
             "title": "Organisation URI",
-            "typos": [ "OrganistionURI", "LPA URL", "OPEN DATA WEBSITE" ]
+            "typos": [ "OrganistionURI", "LPA URL", "OPEN DATA WEBSITE", "Organisati" ]
         },
         {
             "name": "SiteReference",
             "title": "Site reference",
-            "typos": ["LA SITE REF"]
+            "typos": ["LA SITE REF", "SiteRefere"]
         },
         {
             "name": "GeoX",
@@ -34,10 +34,15 @@ schema = {
             "typos": ["AREA (HA)"]
         },
         {
-            "name": "FirstAddedDate"
+            "name": "FirstAddedDate",
+            "typos": ["FirstAdded"]
         },
         {
-            "name": "LastUpdatedDate"
+            "name": "LastUpdatedDate",
+            "typos": ["LastUpdate"]
+        },
+        {
+            "name": "EndDate"
         }
     ]
 }

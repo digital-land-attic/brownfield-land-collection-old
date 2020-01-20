@@ -7,15 +7,17 @@
 import sys
 import csv
 
+spaces = '\n\r\t\f"'
+
 if __name__ == "__main__":
     record = 0
     writer = csv.writer(open(sys.argv[2], "w", newline=""))
 
     for row in csv.reader(open(sys.argv[1], newline="")):
 
-        # strip whitespace from fields
+        # strip whitespace and quotes from ends of fields
         # normalise embedded line endings to CRLF
-        row = [v.strip().replace("\r", "").replace("\n", "\r\n") for v in row]
+        row = [v.strip(spaces).replace("\r", "").replace("\n", "\r\n") for v in row]
 
         # skip blank rows
         if not "".join(row):
@@ -36,7 +38,10 @@ if __name__ == "__main__":
             continue
 
         # skip common notes row
-        if "Mandatory,Mandatory,Mandatory,Mandatory,Mandatory,Mandatory,Mandatory" in line:
+        if (
+            "Mandatory,Mandatory,Mandatory,Mandatory,Mandatory,Mandatory,Mandatory"
+            in line
+        ):
             continue
 
         writer.writerow(row)

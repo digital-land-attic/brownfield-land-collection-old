@@ -1,18 +1,18 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate
-http://opendatacommunities.org/id/district-council/south-derbyshire,9/2014/0300,429782,319351,0.19,2017-12-31,2017-12-31
-http://opendatacommunities.org/id/district-council/south-derbyshire,9/2015/0396,428414,320405,0.27,2017-12-31,2017-12-31
-http://opendatacommunities.org/id/district-council/south-derbyshire,9/2016/0322,431192,319141,0.45,2017-12-31,2017-12-31
-http://opendatacommunities.org/id/district-council/south-derbyshire,9/2015/0730,432534,330118,0.11,2017-12-31,2017-12-31
-http://opendatacommunities.org/id/district-council/south-derbyshire,9/2013/0342,419398,330005,2.96,2017-12-31,2017-12-31
-http://opendatacommunities.org/id/district-council/south-derbyshire,LP HOUSING POLICY 7,425262,329741,16.91,2017-12-31,2017-12-31
-http://opendatacommunities.org/id/district-council/south-derbyshire,9/2011/0329,429900,320103,0.2,2017-12-31,2017-12-31
-http://opendatacommunities.org/id/district-council/south-derbyshire,9/2009/1026,430126,318970,0.08,2017-12-31,2017-12-31
-http://opendatacommunities.org/id/district-council/south-derbyshire,9/2015/0714,429836,318972,0.05,2017-12-31,2017-12-31
-http://opendatacommunities.org/id/district-council/south-derbyshire,LP HOUSING POLICY 23K,430064,319948,1.48,2017-12-31,2017-12-31
-http://opendatacommunities.org/id/district-council/south-derbyshire,9/2013/0675,429207,318110,0.13,2017-12-31,2017-12-31
-http://opendatacommunities.org/id/district-council/south-derbyshire,9/2010/0125,429431,328079,2.47,2017-12-31,2017-12-31
-http://opendatacommunities.org/id/district-council/south-derbyshire,LP HOUSING POLICY 6,424208,320042,37.57,2017-12-31,2017-12-31
-http://opendatacommunities.org/id/district-council/south-derbyshire,LP HOUSING POLICY 11,421747,330773,0.75,2017-12-31,2017-12-31
-http://opendatacommunities.org/id/district-council/south-derbyshire,LP HOUSING POLICY 3,429524,318330,0.87,2017-12-31,2017-12-31
-http://opendatacommunities.org/id/district-council/south-derbyshire,LP HOUSING POLICY 23M,431677,318552,5.02,2017-12-31,2017-12-31
-http://opendatacommunities.org/id/district-council/south-derbyshire,LP HOUSING POLICY H8,430064,319948,1.48,2017-12-31,2017-12-31
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/south-derbyshire,9/2014/0300,429782,319351,0.19,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/south-derbyshire,9/2015/0396,428414,320405,0.27,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/south-derbyshire,9/2016/0322,431192,319141,0.45,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/south-derbyshire,9/2015/0730,432534,330118,0.11,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/south-derbyshire,9/2013/0342,419398,330005,2.96,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/south-derbyshire,LP HOUSING POLICY 7,425262,329741,16.91,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/south-derbyshire,9/2011/0329,429900,320103,0.2,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/south-derbyshire,9/2009/1026,430126,318970,0.08,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/south-derbyshire,9/2015/0714,429836,318972,0.05,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/south-derbyshire,LP HOUSING POLICY 23K,430064,319948,1.48,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/south-derbyshire,9/2013/0675,429207,318110,0.13,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/south-derbyshire,9/2010/0125,429431,328079,2.47,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/south-derbyshire,LP HOUSING POLICY 6,424208,320042,37.57,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/south-derbyshire,LP HOUSING POLICY 11,421747,330773,0.75,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/south-derbyshire,LP HOUSING POLICY 3,429524,318330,0.87,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/south-derbyshire,LP HOUSING POLICY 23M,431677,318552,5.02,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/south-derbyshire,LP HOUSING POLICY H8,430064,319948,1.48,2017-12-31,2017-12-31,

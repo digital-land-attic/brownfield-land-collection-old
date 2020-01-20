@@ -1,18 +1,18 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate
-http://opendatacommunities.org/id/district-council/burnley,BURN001,-2.317230,53.784062,0.31,2018-01-12,2018-02-28
-http://opendatacommunities.org/id/district-council/burnley,BURN002,-2.272475,53.798344,0.23,2018-01-12,2018-02-28
-http://opendatacommunities.org/id/district-council/burnley,BURN003,http://www.burnley.gov.uk/attachments/APP20140382_314%200382%20Proposed%20Site%20Plan.pdf,ETRS89,-2.224710,,
-http://opendatacommunities.org/id/district-council/burnley,BURN004,ETRS89,-2.255995,53.768488,,2018-01-12
-http://opendatacommunities.org/id/district-council/burnley,BURN005,-2.242949,53.784426,3.2,2018-01-12,2018-02-28
-http://opendatacommunities.org/id/district-council/burnley,BURN006,-2.268806,53.785174,1.81,2018-01-12,2018-02-28
-http://opendatacommunities.org/id/district-council/burnley,BURN007,-2.306442,53.802634,6.9,2018-01-12,2018-02-28
-http://opendatacommunities.org/id/district-council/burnley,BURN008,-2.250105,53.788686,0.98,2018-01-12,2018-02-28
-http://opendatacommunities.org/id/district-council/burnley,BURN009,ETRS89,-2.278569,53.789624,Proposed Housing Allocation in Submission Burnley Local Plan (HS1/27),2018-01-12
-http://opendatacommunities.org/id/district-council/burnley,BURN010,ETRS89,-2.242842,53.810281,Proposed Housing Allocation in Submission Burnley Local Plan (HS1/37),2018-01-12
-http://opendatacommunities.org/id/district-council/burnley,BURN011,-2.311506,53.784249,6,2018-01-12,2018-02-28
-http://opendatacommunities.org/id/district-council/burnley,BURN012,-2.227403,53.807582,1.27,2018-01-12,2018-02-28
-http://opendatacommunities.org/id/district-council/burnley,BURN013,-2.260673,53.787583,1.18,2018-01-12,2018-02-28
-http://opendatacommunities.org/id/district-council/burnley,BURN014,-2.264192,53.785726,1.43,2018-01-12,2018-02-28
-http://opendatacommunities.org/id/district-council/burnley,BURN015,-2.243882,53.803610,0.95,2018-01-12,2018-02-28
-http://opendatacommunities.org/id/district-council/burnley,BURN016,-2.273022,53.790562,0.77,2018-01-12,2018-02-28
-http://opendatacommunities.org/id/district-council/burnley,BURN017,-2.245481,53.799301,0.6,2018-01-12,2018-02-28
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/burnley,BURN001,-2.317230,53.784062,0.31,2018-01-12,2018-02-28,
+http://opendatacommunities.org/id/district-council/burnley,BURN002,-2.272475,53.798344,0.23,2018-01-12,2018-02-28,
+http://opendatacommunities.org/id/district-council/burnley,BURN003,http://www.burnley.gov.uk/attachments/APP20140382_314%200382%20Proposed%20Site%20Plan.pdf,ETRS89,-2.224710,,,
+http://opendatacommunities.org/id/district-council/burnley,BURN004,ETRS89,-2.255995,53.768488,,2018-01-12,
+http://opendatacommunities.org/id/district-council/burnley,BURN005,-2.242949,53.784426,3.2,2018-01-12,2018-02-28,
+http://opendatacommunities.org/id/district-council/burnley,BURN006,-2.268806,53.785174,1.81,2018-01-12,2018-02-28,
+http://opendatacommunities.org/id/district-council/burnley,BURN007,-2.306442,53.802634,6.9,2018-01-12,2018-02-28,
+http://opendatacommunities.org/id/district-council/burnley,BURN008,-2.250105,53.788686,0.98,2018-01-12,2018-02-28,
+http://opendatacommunities.org/id/district-council/burnley,BURN009,ETRS89,-2.278569,53.789624,Proposed Housing Allocation in Submission Burnley Local Plan (HS1/27),2018-01-12,
+http://opendatacommunities.org/id/district-council/burnley,BURN010,ETRS89,-2.242842,53.810281,Proposed Housing Allocation in Submission Burnley Local Plan (HS1/37),2018-01-12,
+http://opendatacommunities.org/id/district-council/burnley,BURN011,-2.311506,53.784249,6,2018-01-12,2018-02-28,
+http://opendatacommunities.org/id/district-council/burnley,BURN012,-2.227403,53.807582,1.27,2018-01-12,2018-02-28,
+http://opendatacommunities.org/id/district-council/burnley,BURN013,-2.260673,53.787583,1.18,2018-01-12,2018-02-28,
+http://opendatacommunities.org/id/district-council/burnley,BURN014,-2.264192,53.785726,1.43,2018-01-12,2018-02-28,
+http://opendatacommunities.org/id/district-council/burnley,BURN015,-2.243882,53.803610,0.95,2018-01-12,2018-02-28,
+http://opendatacommunities.org/id/district-council/burnley,BURN016,-2.273022,53.790562,0.77,2018-01-12,2018-02-28,
+http://opendatacommunities.org/id/district-council/burnley,BURN017,-2.245481,53.799301,0.6,2018-01-12,2018-02-28,

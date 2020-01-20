@@ -1,5 +1,5 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate
-http://opendatacommunities.org/id/district-council/hambleton,3060,434919.9375,504452.46875,0.0709030032157898,2018-12-18T00:00:00.000Z,2018-12-18T00:00:00.000Z
-http://opendatacommunities.org/id/district-council/hambleton,3191,438192.46875,481867.78125,0.264730006456375,2018-12-18T00:00:00.000Z,2018-12-18T00:00:00.000Z
-http://opendatacommunities.org/id/district-council/hambleton,3182,436619.5,493698.15625,0.100569002330303,2018-12-18T00:00:00.000Z,2018-12-18T00:00:00.000Z
-http://opendatacommunities.org/id/district-council/hambleton,3035,439251,504847.4375,0.400157004594803,2018-12-18T00:00:00.000Z,2018-12-18T00:00:00.000Z
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/hambleton,3060,434919.9375,504452.46875,0.0709030032157898,2018-12-18T00:00:00.000Z,2018-12-18T00:00:00.000Z,
+http://opendatacommunities.org/id/district-council/hambleton,3191,438192.46875,481867.78125,0.264730006456375,2018-12-18T00:00:00.000Z,2018-12-18T00:00:00.000Z,
+http://opendatacommunities.org/id/district-council/hambleton,3182,436619.5,493698.15625,0.100569002330303,2018-12-18T00:00:00.000Z,2018-12-18T00:00:00.000Z,
+http://opendatacommunities.org/id/district-council/hambleton,3035,439251,504847.4375,0.400157004594803,2018-12-18T00:00:00.000Z,2018-12-18T00:00:00.000Z,

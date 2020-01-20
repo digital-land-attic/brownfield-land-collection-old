@@ -1,14 +1,14 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate
-http://opendatacommunities.org/id/district-council/mid-suffolk,SS0401,"IP146JJ""""""",http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:619251/y:266337/z:12/b:14/o:1599,ETRS89,,
-http://opendatacommunities.org/id/district-council/mid-suffolk,SS0101,http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:604477/y:258843/z:12/b:14/o:1599,ETRS89,52.1898,,
-http://opendatacommunities.org/id/district-council/mid-suffolk,SS0669,http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:608811/y:254839/z:12/b:14/o:1599,ETRS89,52.1522,,
-http://opendatacommunities.org/id/district-council/mid-suffolk,SS1005,http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:608505/y:255199/z:13/b:14/o:1599,ETRS89,52.1558,,
-http://opendatacommunities.org/id/district-council/mid-suffolk,SS0668,"IP145AT""""""",http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:605328/y:258824/z:13/b:14/o:1599,ETRS89,,
-http://opendatacommunities.org/id/district-council/mid-suffolk,SS0530,http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:608633/y:255229/z:12/b:14/o:1599,ETRS89,52.156,,
-http://opendatacommunities.org/id/district-council/mid-suffolk,SS0952,ETRS89,52.1095,1.1004,,See SHELAA (Aug 2017) Assessment Sheet
-http://opendatacommunities.org/id/district-council/mid-suffolk,SS0672,"IP237BE""""""",http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:614686/y:273912/z:13/b:14/o:1599,ETRS89,,
-http://opendatacommunities.org/id/district-council/mid-suffolk,SS0864,http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:612272/y:250494/z:11/b:14/o:1599,ETRS89,52.1121,,
-http://opendatacommunities.org/id/district-council/babergh,SS0754,baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:590958/y:233945/z:13/b:14/o:1599,ETRS89,51.9711,,
-http://opendatacommunities.org/id/district-council/babergh,SS0502,http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:602647/y:242710/z:13/b:14/o:1599,ETRS89,52.0457,,
-http://opendatacommunities.org/id/district-council/babergh,SS0537,http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:602236/y:242925/z:12/b:14/o:1599,ETRS89,52.0481,,
-http://opendatacommunities.org/id/district-council/babergh,SS0507,ETRS89,52.0044,1.0167,,See SHELAA (Aug 2017) Assessment Sheet
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/mid-suffolk,SS0401,IP146JJ,http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:619251/y:266337/z:12/b:14/o:1599,ETRS89,,,
+http://opendatacommunities.org/id/district-council/mid-suffolk,SS0101,http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:604477/y:258843/z:12/b:14/o:1599,ETRS89,52.1898,,,
+http://opendatacommunities.org/id/district-council/mid-suffolk,SS0669,http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:608811/y:254839/z:12/b:14/o:1599,ETRS89,52.1522,,,
+http://opendatacommunities.org/id/district-council/mid-suffolk,SS1005,http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:608505/y:255199/z:13/b:14/o:1599,ETRS89,52.1558,,,
+http://opendatacommunities.org/id/district-council/mid-suffolk,SS0668,IP145AT,http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:605328/y:258824/z:13/b:14/o:1599,ETRS89,,,
+http://opendatacommunities.org/id/district-council/mid-suffolk,SS0530,http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:608633/y:255229/z:12/b:14/o:1599,ETRS89,52.156,,,
+http://opendatacommunities.org/id/district-council/mid-suffolk,SS0952,ETRS89,52.1095,1.1004,,See SHELAA (Aug 2017) Assessment Sheet,
+http://opendatacommunities.org/id/district-council/mid-suffolk,SS0672,IP237BE,http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:614686/y:273912/z:13/b:14/o:1599,ETRS89,,,
+http://opendatacommunities.org/id/district-council/mid-suffolk,SS0864,http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:612272/y:250494/z:11/b:14/o:1599,ETRS89,52.1121,,,
+http://opendatacommunities.org/id/district-council/babergh,SS0754,baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:590958/y:233945/z:13/b:14/o:1599,ETRS89,51.9711,,,
+http://opendatacommunities.org/id/district-council/babergh,SS0502,http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:602647/y:242710/z:13/b:14/o:1599,ETRS89,52.0457,,,
+http://opendatacommunities.org/id/district-council/babergh,SS0537,http://baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:602236/y:242925/z:12/b:14/o:1599,ETRS89,52.0481,,,
+http://opendatacommunities.org/id/district-council/babergh,SS0507,ETRS89,52.0044,1.0167,,See SHELAA (Aug 2017) Assessment Sheet,

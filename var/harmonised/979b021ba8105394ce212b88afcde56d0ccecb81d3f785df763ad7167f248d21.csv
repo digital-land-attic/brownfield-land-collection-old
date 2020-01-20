@@ -1,16 +1,16 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate
-http://opendatacommunities.org/id/district-council/chichester,BLR0001,West Sussex,"PO19 7TT""""""",http://www.chichester.gov.uk/CHttpHandler.ashx?id=29225,,
-http://opendatacommunities.org/id/district-council/chichester,BLR0002,http://www.chichester.gov.uk/CHttpHandler.ashx?id=29226,OSGB36,486595,,http://www.chichester.gov.uk/CHttpHandler.ashx?id=21778&p=0
-http://opendatacommunities.org/id/district-council/chichester,BLR0003,West Sussex,"PO19 8FP""""""",http://www.chichester.gov.uk/CHttpHandler.ashx?id=29260,,
-http://opendatacommunities.org/id/district-council/chichester,BLR0004,West Sussex,"PO20 9DX""""""",http://www.chichester.gov.uk/CHttpHandler.ashx?id=29261,,
-http://opendatacommunities.org/id/district-council/chichester,BLR0005,"PO19 5RD""""""",http://www.chichester.gov.uk/CHttpHandler.ashx?id=29262,OSGB36,,https://www.chichester.gov.uk/CHttpHandler.ashx?id=21778&p=0
-http://opendatacommunities.org/id/district-council/chichester,BLR0006,Billingshurst,"RH14 0UA""""""",http://www.chichester.gov.uk/CHttpHandler.ashx?id=29263,,
-http://opendatacommunities.org/id/district-council/chichester,BLR0007,Billingshurst,West Sussex,"RH14 0RJ""""""",,
-http://opendatacommunities.org/id/district-council/chichester,BLR0008,Chichester,West Sussex,"PO20 2HS""""""",,
-http://opendatacommunities.org/id/district-council/chichester,BLR0009,West Sussex,"PO19 3HN""""""",http://www.chichester.gov.uk/CHttpHandler.ashx?id=29266,,
-http://opendatacommunities.org/id/district-council/chichester,BLR0010,West Sussex,"PO19 3HN""""""",http://www.chichester.gov.uk/CHttpHandler.ashx?id=29267,,
-http://opendatacommunities.org/id/district-council/chichester,BLR0011,"PO19 8AD""""""",http://www.chichester.gov.uk/CHttpHandler.ashx?id=29268,OSGB36,,
-http://opendatacommunities.org/id/district-council/chichester,BLR0012,West Sussex,"PO19 7UW""""""",http://www.chichester.gov.uk/CHttpHandler.ashx?id=29269,,
-http://opendatacommunities.org/id/district-council/chichester,BLR0013,West Sussex,"PO20 2JB""""""",http://www.chichester.gov.uk/CHttpHandler.ashx?id=29270,,
-http://opendatacommunities.org/id/district-council/chichester,BLR0014,"PO19 3JL""""""",http://www.chichester.gov.uk/CHttpHandler.ashx?id=29271,OSGB36,,
-http://opendatacommunities.org/id/district-council/chichester,BLR0015,http://www.chichester.gov.uk/CHttpHandler.ashx?id=29272,OSGB36,505401,https://www.chichester.gov.uk/CHttpHandler.ashx?id=21778&p=0,Allocated for housing development within the made Wisborough Green Neighbourhood Development Plan
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/chichester,BLR0001, West Sussex, PO19 7TT,http://www.chichester.gov.uk/CHttpHandler.ashx?id=29225,,,
+http://opendatacommunities.org/id/district-council/chichester,BLR0002,http://www.chichester.gov.uk/CHttpHandler.ashx?id=29226,OSGB36,486595,,http://www.chichester.gov.uk/CHttpHandler.ashx?id=21778&p=0,
+http://opendatacommunities.org/id/district-council/chichester,BLR0003, West Sussex, PO19 8FP,http://www.chichester.gov.uk/CHttpHandler.ashx?id=29260,,,
+http://opendatacommunities.org/id/district-council/chichester,BLR0004, West Sussex, PO20 9DX,http://www.chichester.gov.uk/CHttpHandler.ashx?id=29261,,,
+http://opendatacommunities.org/id/district-council/chichester,BLR0005, PO19 5RD,http://www.chichester.gov.uk/CHttpHandler.ashx?id=29262,OSGB36,,https://www.chichester.gov.uk/CHttpHandler.ashx?id=21778&p=0,
+http://opendatacommunities.org/id/district-council/chichester,BLR0006, Billingshurst, RH14 0UA,http://www.chichester.gov.uk/CHttpHandler.ashx?id=29263,,,
+http://opendatacommunities.org/id/district-council/chichester,BLR0007, Billingshurst, West Sussex, RH14 0RJ,,,
+http://opendatacommunities.org/id/district-council/chichester,BLR0008, Chichester, West Sussex, PO20 2HS,,,
+http://opendatacommunities.org/id/district-council/chichester,BLR0009, West Sussex, PO19 3HN,http://www.chichester.gov.uk/CHttpHandler.ashx?id=29266,,,
+http://opendatacommunities.org/id/district-council/chichester,BLR0010, West Sussex, PO19 3HN,http://www.chichester.gov.uk/CHttpHandler.ashx?id=29267,,,
+http://opendatacommunities.org/id/district-council/chichester,BLR0011, PO19 8AD,http://www.chichester.gov.uk/CHttpHandler.ashx?id=29268,OSGB36,,,
+http://opendatacommunities.org/id/district-council/chichester,BLR0012, West Sussex, PO19 7UW,http://www.chichester.gov.uk/CHttpHandler.ashx?id=29269,,,
+http://opendatacommunities.org/id/district-council/chichester,BLR0013, West Sussex, PO20 2JB,http://www.chichester.gov.uk/CHttpHandler.ashx?id=29270,,,
+http://opendatacommunities.org/id/district-council/chichester,BLR0014, PO19 3JL,http://www.chichester.gov.uk/CHttpHandler.ashx?id=29271,OSGB36,,,
+http://opendatacommunities.org/id/district-council/chichester,BLR0015,http://www.chichester.gov.uk/CHttpHandler.ashx?id=29272,OSGB36,505401,https://www.chichester.gov.uk/CHttpHandler.ashx?id=21778&p=0,Allocated for housing development within the made Wisborough Green Neighbourhood Development Plan,

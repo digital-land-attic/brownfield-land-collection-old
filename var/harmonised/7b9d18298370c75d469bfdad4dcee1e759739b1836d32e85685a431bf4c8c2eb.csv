@@ -1,27 +1,27 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate
-http://opendatacommunities.org/doc/district-council/spelthorne,BL01,-0.444415,51.428108,1.47,01/09/2017,22/12/2017
-http://opendatacommunities.org/doc/district-council/spelthorne,BL02,-0.453851,51.432444,0.47,01/09/2017,22/12/2017
-http://opendatacommunities.org/doc/district-council/spelthorne,BL03,-0.443777,51.432421,1.3,01/09/2017,22/12/2017
-http://opendatacommunities.org/doc/district-council/spelthorne,BL04,-0.458937,51.44597,0.58,01/09/2017,22/12/2017
-http://opendatacommunities.org/doc/district-council/spelthorne,BL05,-0.50432,51.432314,1.37,01/09/2017,22/12/2017
-http://opendatacommunities.org/doc/district-council/spelthorne,BL06,-0.443849,51.422604,0.26,09/11/2017,22/12/2017
-http://opendatacommunities.org/doc/district-council/spelthorne,BL07,-0.515553,51.437618,0.57,09/11/2017,22/12/2017
-http://opendatacommunities.org/doc/district-council/spelthorne,BL08,-0.448338,51.394406,0.67,13/11/2018,13/11/2018
-http://opendatacommunities.org/doc/district-council/spelthorne,BL09,-0.516626,51.434253,0.71,09/11/2017,22/12/2017
-http://opendatacommunities.org/doc/district-council/spelthorne,BL10,-0.509319,51.436083,0.86,09/11/2017,22/12/2017
-http://opendatacommunities.org/doc/district-council/spelthorne,BL11,-0.44724,51.390021,0.04,02/12/2017,22/12/2017
-http://opendatacommunities.org/doc/district-council/spelthorne,BL12,-0.429963,51.418195,0.17,02/12/2017,22/12/2017
-http://opendatacommunities.org/doc/district-council/spelthorne,BL13,-0.471731,51.434454,0.95,02/12/2017,22/12/2017
-http://opendatacommunities.org/doc/district-council/spelthorne,BL14,-0.468882,51.435732,0.1,13/11/2018,13/11/2018
-http://opendatacommunities.org/doc/district-council/spelthorne,BL15,-0.41684,51.41084,0.1,10/12/2018,21/12/2018
-http://opendatacommunities.org/doc/district-council/spelthorne,BL16,-0.503891,51.436153,1.05,02/12/2017,21/12/2018
-http://opendatacommunities.org/doc/district-council/spelthorne,Bl17,-0.514167,51.432914,0.14,10/12/2018,21/12/2018
-http://opendatacommunities.org/doc/district-council/spelthorne,BL18,-0.442715,51.39135,0.18,10/12/2018,21/12/2018
-http://opendatacommunities.org/doc/district-council/spelthorne,BL19,-0.43099,51.41618,0.35,10/12/2018,21/12/2017
-http://opendatacommunities.org/doc/district-council/spelthorne,BL20,-0.425377,51.420095,0.05,02/12/2017,22/12/2017
-http://opendatacommunities.org/doc/district-council/spelthorne,BL21,-0.51558,51.434237,0.06,02/12/2017,22/12/2017
-http://opendatacommunities.org/doc/district-council/spelthorne,BL22,-0.51597,51.43436,0.01,10/12/2018,21/12/2018
-http://opendatacommunities.org/doc/district-council/spelthorne,BL23,-0.51379,51.43358,0.01,10/12/2018,21/12/2018
-http://opendatacommunities.org/doc/district-council/spelthorne,BL24,-0.50008,51.4293,0.67,10/12/2018,21/12/2018
-http://opendatacommunities.org/doc/district-council/spelthorne,BL25,-0.50202,51.43305,0.02,10/12/2018,21/12/2018
-http://opendatacommunities.org/doc/district-council/spelthorne,BL26,-0.4075,51.41499,,10/12/2018,21/12/2018
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/doc/district-council/spelthorne,BL01,-0.444415,51.428108,1.47,01/09/2017,22/12/2017,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL02,-0.453851,51.432444,0.47,01/09/2017,22/12/2017,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL03,-0.443777,51.432421,1.3,01/09/2017,22/12/2017,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL04,-0.458937,51.44597,0.58,01/09/2017,22/12/2017,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL05,-0.50432,51.432314,1.37,01/09/2017,22/12/2017,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL06,-0.443849,51.422604,0.26,09/11/2017,22/12/2017,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL07,-0.515553,51.437618,0.57,09/11/2017,22/12/2017,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL08,-0.448338,51.394406,0.67,13/11/2018,13/11/2018,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL09,-0.516626,51.434253,0.71,09/11/2017,22/12/2017,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL10,-0.509319,51.436083,0.86,09/11/2017,22/12/2017,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL11,-0.44724,51.390021,0.04,02/12/2017,22/12/2017,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL12,-0.429963,51.418195,0.17,02/12/2017,22/12/2017,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL13,-0.471731,51.434454,0.95,02/12/2017,22/12/2017,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL14,-0.468882,51.435732,0.1,13/11/2018,13/11/2018,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL15,-0.41684,51.41084,0.1,10/12/2018,21/12/2018,
+http://opendatacommunities.org/doc/district-council/spelthorne ,BL16,-0.503891,51.436153,1.05,02/12/2017,21/12/2018,
+http://opendatacommunities.org/doc/district-council/spelthorne,Bl17,-0.514167,51.432914,0.14,10/12/2018,21/12/2018,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL18,-0.442715,51.39135,0.18,10/12/2018,21/12/2018,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL19,-0.43099,51.41618,0.35,10/12/2018,21/12/2017,
+http://opendatacommunities.org/doc/district-council/spelthorne ,BL20,-0.425377,51.420095,0.05,02/12/2017,22/12/2017,
+http://opendatacommunities.org/doc/district-council/spelthorne ,BL21,-0.51558,51.434237,0.06,02/12/2017,22/12/2017,
+http://opendatacommunities.org/doc/district-council/spelthorne ,BL22,-0.51597,51.43436,0.01,10/12/2018,21/12/2018,
+http://opendatacommunities.org/doc/district-council/spelthorne ,BL23,-0.51379,51.43358,0.01,10/12/2018,21/12/2018,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL24,-0.50008,51.4293,0.67,10/12/2018,21/12/2018,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL25,-0.50202,51.43305,0.02,10/12/2018,21/12/2018,
+http://opendatacommunities.org/doc/district-council/spelthorne,BL26,-0.4075,51.41499,,10/12/2018,21/12/2018,

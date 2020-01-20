@@ -1,47 +1,47 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
 http://opendatacommunities.org/id/district-council/torridge,BLR/BID/132,http://www.torridge.gov.uk/CHttpHandler.ashx?id=18220,ETRS89,-4.211446907,,"Allocated for housing development through saved policy BID7 of the Torridge District Local Plan 1997-2011
-Residential potential of site considered through SHLAA SHA/BID/32 (now archived) and SHLAA SHA/BID/132"
-http://opendatacommunities.org/id/district-council/torridge,BLR/NOR/158,"Bideford""""""",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18229,ETRS89,,
+Residential potential of site considered through SHLAA SHA/BID/32 (now archived) and SHLAA SHA/BID/132",
+http://opendatacommunities.org/id/district-council/torridge,BLR/NOR/158, Bideford,http://www.torridge.gov.uk/CHttpHandler.ashx?id=18229,ETRS89,,,
 http://opendatacommunities.org/id/district-council/torridge,BLR/BID/72,http://www.torridge.gov.uk/CHttpHandler.ashx?id=18218,ETRS89,-4.205965054,,"Permission for 8 apartments now lapsed. 1/0242/2010/FUL - Eight apartments and associated site works with small extension to the northern elevation - PER - 3.12.10
-Residential potential of site considered through SHLAA SHA/BID/72"
+Residential potential of site considered through SHLAA SHA/BID/72",
 http://opendatacommunities.org/id/district-council/torridge,BLR/BID/18,ETRS89,-4.201261901,51.00966577,"Residential capacity of site considered through SHLAA SHA/BID/18.
 Application 1/0041/2009/OUTM for 96 dwellings currently pending.
 Allocated for housing development through Saved Policy HSC1 of the Torridge District Local Plan 1997-2011.
-Non allocated strategic site in emerging North Devon and Torridge Local Plan 2011-2031",2017-12-22
+Non allocated strategic site in emerging North Devon and Torridge Local Plan 2011-2031",2017-12-22,
 http://opendatacommunities.org/id/district-council/torridge,BLR/BID/108,ETRS89,-4.207930341,51.0174002,"Site subject to planning permission 1/0700/2015/FUL Residential development comprising 9 dwellings with associated access, parking and sewers. PER 10/1/2017
-Ressidential potential of site considered through SHLAA - SHA/BID/108",2017-12-22
+Ressidential potential of site considered through SHLAA - SHA/BID/108",2017-12-22,
 http://opendatacommunities.org/id/district-council/torridge,BLR/PAR/4,ETRS89,-4.294482541,50.96775942,"Residential potential of site considered through SHLAA SHA/PAR/4
 Site covered by planning permission 1/1216/2015/OUTM for 21 dwellings PER 23/12/2016
-Only PDL element of site has been included in calculation of yield",2017-12-22
-http://opendatacommunities.org/id/district-council/torridge,BLR/NOR/72,"Bideford""""""",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18226,ETRS89,,
+Only PDL element of site has been included in calculation of yield",2017-12-22,
+http://opendatacommunities.org/id/district-council/torridge,BLR/NOR/72, Bideford,http://www.torridge.gov.uk/CHttpHandler.ashx?id=18226,ETRS89,,,
 http://opendatacommunities.org/id/district-council/torridge,BLR/BID/29,http://www.torridge.gov.uk/CHttpHandler.ashx?id=18212,ETRS89,-4.224623956,,"Site subject to outline permission for provision of 100 dwellings (1/1437/2001/OUT) - granted 02.09.2010 (resolution to permit at April 2010). Extension of time application (with resolution to permit subject to s106 - 1/0617/2013/EXT). 
 Site allocated within the adopted development plan (TDLP - HSC1) for comprehensive residential development.
-Residential potential of site considered through SHLAA SHA/BID/29"
-http://opendatacommunities.org/id/district-council/torridge,BLR/SHB/8,"Beaworthy""""""",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18231,ETRS89,,
-http://opendatacommunities.org/id/district-council/torridge,BLR/BID/38,"Bideford""""""",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18213,ETRS89,,
+Residential potential of site considered through SHLAA SHA/BID/29",
+http://opendatacommunities.org/id/district-council/torridge,BLR/SHB/8, Beaworthy,http://www.torridge.gov.uk/CHttpHandler.ashx?id=18231,ETRS89,,,
+http://opendatacommunities.org/id/district-council/torridge,BLR/BID/38, Bideford,http://www.torridge.gov.uk/CHttpHandler.ashx?id=18213,ETRS89,,,
 http://opendatacommunities.org/id/district-council/torridge,BLR/BID/52,ETRS89,-4.206114134,51.01157978,"The site is identified as a housing site through policy (HSC1) of the adopted development plan (TDLP).
 Site is part of proposed policy BID07 (Bideford Regeneration Sites) New Road in the emerging North Devon and Torridge Local Plan 2011-2031 for development that results in the enhancement to the southern gateway to Bideford.
 No other pertinent planning history in relation to the site.
-Residential potential of site considered through SHLAA SHA/BID/52",2017-12-22
+Residential potential of site considered through SHLAA SHA/BID/52",2017-12-22,
 http://opendatacommunities.org/id/district-council/torridge,BLR/BID/66,http://www.torridge.gov.uk/CHttpHandler.ashx?id=18217,ETRS89,-4.20592633,,"Residential potential of site considered through SHLAA SHA/BID/66.
-Site was subject to planning consent for the redevelopment of the site for provision of 6 self contained flats within a single building (1/0924/2006/FUL). Now lapsed."
+Site was subject to planning consent for the redevelopment of the site for provision of 6 self contained flats within a single building (1/0924/2006/FUL). Now lapsed.",
 http://opendatacommunities.org/id/district-council/torridge,BLR/ASW/6,ETRS89,-4.312303355,50.74952712,"Residential potential of site considered through SHLAA SHA/ASW/6
-Planning permission 1/0525/2015/FUL conversion of hotel to residential PER 17/11/2015",2017-12-22
+Planning permission 1/0525/2015/FUL conversion of hotel to residential PER 17/11/2015",2017-12-22,
 http://opendatacommunities.org/id/district-council/torridge,BLR/ASW/7,ETRS89,-4.279270368,50.73988822,"Residential potential of site considered through SHLAA SHA/ASW/7
-Planning permission 1/0593/2016/FUL for COU to 1 dwelling PER 25/8/2016",2017-12-22
+Planning permission 1/0593/2016/FUL for COU to 1 dwelling PER 25/8/2016",2017-12-22,
 http://opendatacommunities.org/id/district-council/torridge,BLR/GTT/36,http://www.torridge.gov.uk/CHttpHandler.ashx?id=18224,ETRS89,-4.146112287,,"Previous permission has now lapsed. 1/1396/2003/COU - Conversion of redundant building to 14 flats - PER - 12.12.2005
-Residential capacity of site considered through SHLAA SHA/GTT/36"
+Residential capacity of site considered through SHLAA SHA/GTT/36",
 http://opendatacommunities.org/id/district-council/torridge,BLR/NOR/115,http://www.torridge.gov.uk/CHttpHandler.ashx?id=18227,ETRS89,-4.22830109,,"Residential potential of site considered through SHLAA SHA/NOR/115
-Planning permission 1/0702/2015/FUL for three dwellings (resubmission of 1/1173/2014/FUL) PER 2.10.2015"
+Planning permission 1/0702/2015/FUL for three dwellings (resubmission of 1/1173/2014/FUL) PER 2.10.2015",
 http://opendatacommunities.org/id/district-council/torridge,BLR/LAN/11,http://www.torridge.gov.uk/CHttpHandler.ashx?id=18225,ETRS89,-4.237105341,,"Residential capacity of site considered through SHLAA SHA/LAN/11
-This site (together with part of SHA/LAN/13) is within proposed allocation LAG02 (Land at the Former cattle market and Land to North) for approximately 8 dwellings in the draft North Devon and Torridge Local Plan."
+This site (together with part of SHA/LAN/13) is within proposed allocation LAG02 (Land at the Former cattle market and Land to North) for approximately 8 dwellings in the draft North Devon and Torridge Local Plan.",
 http://opendatacommunities.org/id/district-council/torridge,BLR/BID/133,ETRS89,-4.211021706,51.02006906,"Allocated for housing development through saved policy BID7 of the Torridge District Local Plan 1997-2011
 Residential potential of site considered through SHLAA SHA/BID/32 (now archived) and SHLAA SHA/BID/133
-Planning permission 1/2587/2006/FUL for redevelopment of workshops to 2no. Dwellings - now lapsed.",2017-12-22
+Planning permission 1/2587/2006/FUL for redevelopment of workshops to 2no. Dwellings - now lapsed.",2017-12-22,
 http://opendatacommunities.org/id/district-council/torridge,BLR/BID/49,http://www.torridge.gov.uk/CHttpHandler.ashx?id=18214,ETRS89,-4.20669874,,"Allocated for housing development through saved policy HSC1 (Torridge District Local Plan 1997-2011)
 Site is part of proposed policy BID07 (Bideford Regeneration Sites) New Road (in emerging North Devon and Torridge Local Plan 2011-2031) for development that results in the enhancement to the southern gateway to Bideford.
 Residential capacity of site considered through SHLAA SHA/BID/49
-No relevant planning history."
+No relevant planning history.",
 http://opendatacommunities.org/id/district-council/torridge,BLR/GTT/56,http://www.torridge.gov.uk/CHttpHandler.ashx?id=18245,ETRS89,-4.155444699,,"Site allocated for housing development through draft Policy GTT01 in emerging North Devon and Torridge Local Plan 2011-2031
 Residential potential of site considered through SHLAA SHA/GTT/56 (previously SHA/GTT/11)
-Hybrid full application 1/0039/2016/OUTM for the erection of 13 dwellings on northern part of site with new access to Limer's Hill, outline application for the erection of up to 136 dwelling."
+Hybrid full application 1/0039/2016/OUTM for the erection of 13 dwellings on northern part of site with new access to Limer's Hill, outline application for the erection of up to 136 dwelling.",

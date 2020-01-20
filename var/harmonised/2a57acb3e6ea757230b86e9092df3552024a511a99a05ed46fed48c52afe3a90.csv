@@ -1,4 +1,4 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate
-http://opendatacommunities.org/doc/district-council/east-hampshire,BFL/001,"GU34 2NG""""""",Link to PDF of map,WGS84,,
-http://opendatacommunities.org/doc/district-council/east-hampshire,BFL/002,Link to PDF of map,WGS84,-0.996139999,,
-http://opendatacommunities.org/doc/district-council/east-hampshire,BFL/003,WGS84,-0.801819455,51.7766404,,01/05/2017
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/doc/district-council/east-hampshire,BFL/001, GU34 2NG,Link to PDF of map,WGS84,,,
+http://opendatacommunities.org/doc/district-council/east-hampshire,BFL/002,Link to PDF of map,WGS84,-0.996139999,,,
+http://opendatacommunities.org/doc/district-council/east-hampshire,BFL/003,WGS84,-0.801819455,51.7766404,,01/05/2017,

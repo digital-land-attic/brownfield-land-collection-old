@@ -1,8 +1,8 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate
-http://opendatacommunities.org/id/geography/administration/npark/E26000001,DNP08/011,275598,69510,0.76,07/08/2017,07/08/2017
-http://opendatacommunities.org/id/geography/administration/npark/E26000001,DNP08/014,275728,69644,0.59,07/08/2017,07/08/2017
-http://opendatacommunities.org/id/geography/administration/npark/E26000001,DNP08/017,275729,85679,2.88,07/08/2017,07/08/2017
-http://opendatacommunities.org/id/geography/administration/npark/E26000001,DNP14/076,274136,67103,4.19,07/08/2017,07/08/2017
-http://opendatacommunities.org/id/geography/administration/npark/E26000001,DNP14/112,275344,69560,1.27,07/08/2017,07/08/2017
-http://opendatacommunities.org/id/geography/administration/npark/E26000001,0354/12,269748,59673,0.56,07/08/2017,07/08/2017
-http://opendatacommunities.org/id/geography/administration/npark/E26000001,0853/07,250297,79388,0.64,07/08/2017,07/08/2017
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/geography/administration/npark/E26000001 ,DNP08/011,275598,69510,0.76,07/08/2017,07/08/2017,
+http://opendatacommunities.org/id/geography/administration/npark/E26000001,DNP08/014,275728,69644,0.59,07/08/2017,07/08/2017,
+http://opendatacommunities.org/id/geography/administration/npark/E26000001,DNP08/017,275729,85679,2.88,07/08/2017,07/08/2017,
+http://opendatacommunities.org/id/geography/administration/npark/E26000001,DNP14/076,274136,67103,4.19,07/08/2017,07/08/2017,
+http://opendatacommunities.org/id/geography/administration/npark/E26000001,DNP14/112,275344,69560,1.27,07/08/2017,07/08/2017,
+http://opendatacommunities.org/id/geography/administration/npark/E26000001,0354/12,269748,59673,0.56,07/08/2017,07/08/2017,
+http://opendatacommunities.org/id/geography/administration/npark/E26000001,0853/07,250297,79388,0.64,07/08/2017,07/08/2017,

@@ -1,43 +1,43 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate
-,BR-002,ETRS89,1.106021,51.277165,Strategic Allocation in Local Plan,01/11/2017
-,BR-004,ETRS89,1.076847,51.285042,Existing Allocation in Local Plan,01/11/2017
-,BR-005,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615399,158576,27700&scale=2000",ETRS89,1.087569,,Existing Allocation in Local Plan. Full Application is pending decision
-,BR-006,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614781,157530,27700&scale=500",ETRS89,1.078092,,Existing Allocation in Local Plan
-,BR-007,ETRS89,1.078642,51.273697,Existing Allocation in Local Plan,01/11/2017
-,BR-008,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615305,158415,27700&scale=500",ETRS89,1.086126,,Existing Allocation in Local Plan
-,BR-009,ETRS89,1.075498,51.275579,Existing Allocation in Local Plan,01/11/2017
-,BR-010,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615338,157302,27700&scale=1000",ETRS89,1.085929,,Existing Allocation in Local Plan
-,BR-011,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615144,157450,27700&scale=1000",ETRS89,1.083241,,Existing Allocation in Local Plan
-,BR-012,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614612,157566,27700&scale=500",ETRS89,1.075695,,Existing Allocation in Local Plan
-,BR-014,ETRS89,1.079038,51.278769,Existing Allocation in Local Plan,01/11/2017
-,BR-015,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615443,157600,27700&scale=500",ETRS89,1.087611,,Existing Allocation in Local Plan
-,BR-016,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614823,157744,27700&scale=500",ETRS89,1.078822,,Existing Allocation in Local Plan
-,BR-017,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615042,158292,27700&scale=500",ETRS89,1.082287,,Existing Allocation in Local Plan
-,BR-018,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614873,158392,27700&scale=500",ETRS89,1.079927,,Existing Allocation in Local Plan
-,BR-019,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614745,157561,27700&scale=500",ETRS89,1.077595,,Existing Allocation in Local Plan
-,BR-020,ETRS89,1.126311,51.369332,Existing Allocation in Local Plan,01/11/2017
-,BR-021,ETRS89,1.116319,51.364598,Existing Allocation in Local Plan,01/11/2017
-,BR-022,ETRS89,1.126575,51.370468,Part Of Herne Bay Action Plan HB1,01/11/2017
-,BR-023,ETRS89,1.126429,51.372324,Part Of Herne Bay Action Plan HB2,01/11/2017
-,BR-025,ETRS89,1.048979,51.363996,Existing Allocation in Local Plan,01/11/2017
-,BR-026,ETRS89,1.024079,51.35724,Existing Allocation in Local Plan,01/11/2017
-,BR-029,"CT6 5TD""""""","https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=618210,167173,27700&scale=2000",ETRS89,,
-,BR-034,"CT1 1EE""""""","https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=616452,159095,27700&scale=1000",ETRS89,,
-,BR-041,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=610739,165919,27700&scale=500",ETRS89,1.025181,,
-,BR-047,"CT2 8EA""""""","https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614039,158490,27700&scale=500",ETRS89,,
-,BR-053,"CT1 2NR""""""","https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614775,157773,27700&scale=500",ETRS89,,
-,BR-059,"CT1 1EZ""""""","https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615340,158367,27700&scale=500",ETRS89,,
-,BR-062,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615125,157506,27700&scale=500",ETRS89,1.083002,,
-,BR-063,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617086,168211,27700&scale=500",ETRS89,1.117588,,
-,BR-065,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614626,158205,27700&scale=500",ETRS89,1.076278,,
-,BR-066,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=612515,167140,27700&scale=500",ETRS89,1.051378,,
-,BR-087,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617748,168390,27700&scale=500",ETRS89,1.127194,,
-,BR-088,"CT6 8RH""""""","https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617063,168206,27700&scale=500",ETRS89,,
-,BR-091,ETRS89,1.113434,51.359341,This is part of a larger Local Plan allocated site for 40 dwellings,01/11/2017
-,BR-092,ETRS89,1.167528,51.312367,,22/11/2018
-,BR-095,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615448,156923,27700&scale=500",ETRS89,1.087275,,
-,BR-096,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=616264,157588,27700&scale=500",ETRS89,1.099357,,
-,BR-097,"CT4 6EA""""""","https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615069,149162,27700&scale=500",ETRS89,,
-,BR-099,Barham,"CT4 6EX""""""","https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=622064,149438,27700&scale=500",,
-,BR-100,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615380,157629,27700&scale=500",ETRS89,1.086727,,
-,BR-101,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614636,158076,27700&scale=500",ETRS89,1.076344,,
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
+,BR-002,ETRS89,1.106021,51.277165,Strategic Allocation in Local Plan,01/11/2017,
+,BR-004,ETRS89,1.076847,51.285042,Existing Allocation in Local Plan ,01/11/2017,
+,BR-005,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615399,158576,27700&scale=2000",ETRS89,1.087569,,Existing Allocation in Local Plan. Full Application is pending decision,
+,BR-006,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614781,157530,27700&scale=500",ETRS89,1.078092,,Existing Allocation in Local Plan ,
+,BR-007,ETRS89,1.078642,51.273697,Existing Allocation in Local Plan ,01/11/2017,
+,BR-008,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615305,158415,27700&scale=500",ETRS89,1.086126,,Existing Allocation in Local Plan ,
+,BR-009,ETRS89,1.075498,51.275579,Existing Allocation in Local Plan ,01/11/2017,
+,BR-010,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615338,157302,27700&scale=1000",ETRS89,1.085929,,Existing Allocation in Local Plan ,
+,BR-011,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615144,157450,27700&scale=1000",ETRS89,1.083241,,Existing Allocation in Local Plan ,
+,BR-012,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614612,157566,27700&scale=500",ETRS89,1.075695,,Existing Allocation in Local Plan ,
+,BR-014,ETRS89,1.079038,51.278769,Existing Allocation in Local Plan ,01/11/2017,
+,BR-015,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615443,157600,27700&scale=500",ETRS89,1.087611,,Existing Allocation in Local Plan ,
+,BR-016,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614823,157744,27700&scale=500",ETRS89,1.078822,,Existing Allocation in Local Plan ,
+,BR-017,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615042,158292,27700&scale=500",ETRS89,1.082287,,Existing Allocation in Local Plan ,
+,BR-018,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614873,158392,27700&scale=500",ETRS89,1.079927,,Existing Allocation in Local Plan ,
+,BR-019,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614745,157561,27700&scale=500",ETRS89,1.077595,,Existing Allocation in Local Plan ,
+,BR-020,ETRS89,1.126311,51.369332,Existing Allocation in Local Plan ,01/11/2017,
+,BR-021,ETRS89,1.116319,51.364598,Existing Allocation in Local Plan ,01/11/2017,
+,BR-022,ETRS89,1.126575,51.370468,Part Of Herne Bay Action Plan HB1,01/11/2017,
+,BR-023,ETRS89,1.126429,51.372324,Part Of Herne Bay Action Plan HB2,01/11/2017,
+,BR-025,ETRS89,1.048979,51.363996,Existing Allocation in Local Plan ,01/11/2017,
+,BR-026,ETRS89,1.024079,51.35724,Existing Allocation in Local Plan ,01/11/2017,
+,BR-029, CT6 5TD,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=618210,167173,27700&scale=2000",ETRS89,,,
+,BR-034, CT1 1EE,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=616452,159095,27700&scale=1000",ETRS89,,,
+,BR-041,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=610739,165919,27700&scale=500",ETRS89,1.025181,,,
+,BR-047, CT2 8EA,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614039,158490,27700&scale=500",ETRS89,,,
+,BR-053, CT1 2NR,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614775,157773,27700&scale=500",ETRS89,,,
+,BR-059, CT1 1EZ,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615340,158367,27700&scale=500",ETRS89,,,
+,BR-062,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615125,157506,27700&scale=500",ETRS89,1.083002,,,
+,BR-063,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617086,168211,27700&scale=500",ETRS89,1.117588,,,
+,BR-065,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614626,158205,27700&scale=500",ETRS89,1.076278,,,
+,BR-066,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=612515,167140,27700&scale=500",ETRS89,1.051378,,,
+,BR-087,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617748,168390,27700&scale=500",ETRS89,1.127194,,,
+,BR-088, CT6 8RH,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617063,168206,27700&scale=500",ETRS89,,,
+,BR-091,ETRS89,1.113434,51.359341,This is part of a larger Local Plan allocated site for 40 dwellings,01/11/2017,
+,BR-092,ETRS89,1.167528,51.312367,,22/11/2018,
+,BR-095,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615448,156923,27700&scale=500",ETRS89,1.087275,,,
+,BR-096,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=616264,157588,27700&scale=500",ETRS89,1.099357,,,
+,BR-097, CT4 6EA,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615069,149162,27700&scale=500",ETRS89,,,
+,BR-099, Barham, CT4 6EX,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=622064,149438,27700&scale=500",,,
+,BR-100,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615380,157629,27700&scale=500",ETRS89,1.086727,,,
+,BR-101,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614636,158076,27700&scale=500",ETRS89,1.076344,,,
