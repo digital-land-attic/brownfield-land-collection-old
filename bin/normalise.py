@@ -7,10 +7,10 @@
 import sys
 import csv
 
-data = []
-
 if __name__ == "__main__":
     record = 0
+    writer = csv.writer(open(sys.argv[2], "w", newline=""))
+
     for row in csv.reader(open(sys.argv[1], newline="")):
 
         # strip whitespace from fields
@@ -18,11 +18,11 @@ if __name__ == "__main__":
         row = [v.strip().replace("\r", "").replace("\n", "\r\n") for v in row]
 
         # skip blank rows
-        if "".join(row):
-            data.append(row)
+        if not "".join(row):
+            continue
 
-    #  TBD: remove blank columns?
+        # skip rows containing 1,2,3,4 ..
+        if row == [str(n) for n in range(1, len(row) + 1)]:
+            continue
 
-    w = csv.writer(open(sys.argv[2], "w", newline=""))
-    for row in data:
-        w.writerow(row)
+        writer.writerow(row)
