@@ -1,4 +1,4 @@
-.PHONY: init collection collect second-pass normalise validate index clobber black clean prune
+.PHONY: init collection collect second-pass normalise validate harmonise index clobber black clean prune
 .SECONDARY:
 .DELETE_ON_ERROR:
 .SUFFIXES: .json
@@ -9,6 +9,7 @@ FIXED_DIR=fixed/
 VALIDATION_DIR=validation/
 CONVERTED_DIR=var/converted/
 NORMALISED_DIR=var/normalised/
+HARMONISED_DIR=var/harmonised/
 
 DATASET_NAMES=brownfield-land
 DATASET_FILES=dataset/brownfield-land.csv
@@ -22,6 +23,7 @@ FIXED_CONVERTED_FILES:=$(subst $(FIXED_DIR),$(CONVERTED_DIR),$(FIXED_FILES))
 VALIDATION_FILES:=$(addsuffix .json,$(subst $(RESOURCE_DIR),$(VALIDATION_DIR),$(RESOURCE_FILES)))
 CONVERTED_FILES:=$(addsuffix .csv,$(subst $(RESOURCE_DIR),$(CONVERTED_DIR),$(RESOURCE_FILES)))
 NORMALISED_FILES:=$(subst $(CONVERTED_DIR),$(NORMALISED_DIR),$(CONVERTED_FILES))
+HARMONISED_FILES:=$(subst $(NORMALISED_DIR),$(HARMONISED_DIR),$(NORMALISED_FILES))
 
 
 COLLECTION_INDEX=\
@@ -48,13 +50,16 @@ collect:	$(DATASET_FILES)
 
 # restart the make process to pick-up collected files
 second-pass:
-	@make --no-print-directory validate normalise index
+	@make --no-print-directory validate harmonise index
 
 
 validate: $(VALIDATION_FILES)
 	@:
 
 normalise: $(NORMALISED_FILES)
+	@:
+
+harmonise: $(HARMONISED_FILES)
 	@:
 
 index: $(COLLECTION_INDEX)
@@ -80,6 +85,9 @@ $(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv
 	@mkdir -p $(NORMALISED_DIR)
 	python3 bin/normalise.py $< $@
 
+$(HARMONISED_DIR)%.csv: $(NORMALISED_DIR)%.csv
+	@mkdir -p $(HARMONISED_DIR)
+	python3 bin/harmonise.py $< $@
 
 
 # hand-fixes for resources which can't be processed
@@ -91,7 +99,6 @@ $(FIXED_CONVERTED_FILES):
 $(BROKEN_VALIDATIONS):
 	@mkdir -p $(VALIDATION_DIR)
 	echo '{ "meta_data": {}, "result": {"tables":[{}]} }' > $@
-
 
 
 black:

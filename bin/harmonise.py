@@ -5,28 +5,64 @@
 #  -- make it valid according to the 2019 guidance
 #  -- log fixes as suggestions for the user to amend
 #
-import os
-import logging
+
+import sys
+import re
 import csv
 
-rows = []
+# TBD: load full schema.json
+schema = {
+    "fields": [
+        {
+            "name": "OrganisationURI",
+            "title": "Organisation URI",
+            "description": "The URL of the organisation on https://opendatacommunities.org",
+            "type": "string",
+            "format": "uri",
+            "constraints": {
+                "required": True
+            },
+            "typos": [ "OrganistionURI" ]
+        },
+    ]
+}
 
-def load(path):
-    with open(path, newline='') as f:
-        for row in csv.reader(f):
-            rows.append(row)
+pattern = re.compile(r'[^a-z0-9]')
+
+
+def name(name):
+    return re.sub(pattern, '', name.lower())
 
 
 if __name__ == "__main__":
-    logging.basicConfig(
-        level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
-    )
 
-    #load('var/csv/000b261f1757b69b9435ec20bae8f2b141677d17c054f01b187c8952e117db33.csv')
+    fieldnames = [field["name"] for field in schema["fields"]]
 
-    # spaces in titles
-    #load('var/csv/47ae15c373da005ad5d1280e13163dca5725ed4a04b32374991d14004b9eab78.csv')
+    # index of typos
+    typos = {}
+    for field in schema["fields"]:
+        typos[name(field["title"])] = field["name"]
+        for typo in field["typos"]:
+            typos[name(typo)] = field["name"]
 
-    # UPPERCASE TITLES
-    load('var/csv/3875c4aecb090ce1db8446c0b3f56a90628d8dba570b230767c29b74fcf79b35.csv')
-    print(rows)
+    reader = csv.DictReader(open(sys.argv[1], newline=""))
+
+    # build index of read headers
+    headers = {}
+    for field in reader.fieldnames:
+        if name(field) in typos:
+            headers[field] = typos[name(field)]
+
+    print("reader.fieldnames", reader.fieldnames)
+    print("headers", headers)
+
+    with open(sys.argv[2], "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+
+        for row in reader:
+            o = {}
+            for header in headers:
+                o[headers[header]] = row[header]
+
+            writer.writerow(o)
