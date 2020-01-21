@@ -1,8 +1,8 @@
 OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/gedling,6/7,-1.082693,52.961695,1.18,01/04/2017,,
-http://opendatacommunities.org/id/district-council/gedling,6/18,-1.116093,53.003151,3.64,01/04/2017,,
-http://opendatacommunities.org/id/district-council/gedling,6/20,-1.180971,53.020485,6.01,01/04/2017,,
-http://opendatacommunities.org/id/district-council/gedling,6/49,-1.102291,53.004843,3.52,01/04/2017,,
+http://opendatacommunities.org/id/district-council/gedling,"""6/7""",-1.082693,52.961695,1.18,01/04/2017,,
+http://opendatacommunities.org/id/district-council/gedling,"""6/18""",-1.116093,53.003151,3.64,01/04/2017,,
+http://opendatacommunities.org/id/district-council/gedling,"""6/20""",-1.180971,53.020485,6.01,01/04/2017,,
+http://opendatacommunities.org/id/district-council/gedling,"""6/49""",-1.102291,53.004843,3.52,01/04/2017,,
 http://opendatacommunities.org/id/district-council/gedling,6/154,-1.081313,53.041747,0.11,01/04/2017,,
 http://opendatacommunities.org/id/district-council/gedling,6/209,-1.085982,52.967558,0.08,01/04/2017,,
 http://opendatacommunities.org/id/district-council/gedling,6/229,-1.087855,52.974219,0.09,01/04/2017,,
