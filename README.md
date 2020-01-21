@@ -5,6 +5,8 @@
 
 Collect data published by each Local Planning Authority, validate the publications, and build a national [dataset](dataset).
 
+# Collection
+
 The source list of registers collected is kept and maintained in [dataset/brownfield-land.csv](dataset/brownfield-land.csv).
 
 The [collection](collection) directory contains resources collected from sources:
@@ -12,19 +14,27 @@ The [collection](collection) directory contains resources collected from sources
 * [collection/log](collection/log) -- log entries by date (sha256 hash of the URL)
 * [collection/resource](collection/resource) -- collected files (sha256 of the contents)
 
+# Validation
+
 Each collected resource is processed, creating a file with the same basename as the resource in the following directories:
 
 * [validation](validation) -- validation results for each resource as JSON
 
-The collected resources are harmonised in the following steps:
+# Processing pipeline
 
-* [var/converted](var/converted) -- the resource converted into CSV
-* [var/normalised](var/normalised) -- the normalised resource as CSV
-* [var/harmonised](var/harmonised) -- the harmonised resource as CSV
+The collected resources are then processed in the following pipeline:
 
-Files which cannot be easily processed automatically are fixed by hand and kept in the [fixed](fixed) directory.
+* [var/converted](var/converted) -- the resource converted into UTF-8 encoded CSV
+* [var/normalised](var/normalised) -- removed padding, drop
+* [var/mapped](var/mapped) -- consistent column names
+* [var/harmonised](var/harmonised) -- dates, geospatial, and other values translated into a consistent format
+* [var/translated](var/translated) -- translated into a digital-land data model
 
-The collection is then collated into a register for each organisation, and a national dataset (TBD).
+# Indexes
+
+The collection is then collated into a register for each organisation, and a national dataset:
+
+* [index/dataset.csv](index/dataset.csv)
 
 A number of index files are generated for the collection:
 
@@ -34,6 +44,13 @@ A number of index files are generated for the collection:
 * [collection/index.json](collection/index.json) -- the entire index in a single JSON file (deprecated)
 
 These indexes are used by the [dataset](https://github.com/digital-land/brownfield-land/) and other code to build the [dataset](https://digital-land.github.io/dataset/brownfield-land/), [resource](https://digital-land.github.io/resource/), and other pages.
+
+# Manually fixed files
+
+Resources which are PDF documents or other formats which cannot be processable are fixed by the team:
+hand, and are introduced into the pipeline instead of the collected resource:
+
+* [fixed](fixed) -- manually fixed resources
 
 # Updating the collection
 
