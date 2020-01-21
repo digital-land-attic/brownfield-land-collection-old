@@ -10,6 +10,8 @@ import sys
 import re
 import csv
 
+
+
 # TBD: load full schema.json
 schema = {
     "fields": [
@@ -33,6 +35,15 @@ schema = {
 }
 
 pattern = re.compile(r"[^a-z0-9]")
+
+def normalise(field, value):
+    value = value or ""
+    # TBD: deduce type/format from schema
+    if field == "OrganisationURI":
+        value = "".join(value.split())
+    if field.endswith("Date"):
+        value = value.strip('"')
+    return value
 
 
 def name(name):
@@ -66,6 +77,7 @@ if __name__ == "__main__":
         for row in reader:
             o = {}
             for header in headers:
-                o[headers[header]] = row[header]
+                field = headers[header]
+                o[field] = normalise(field, row[header])
 
             writer.writerow(o)
