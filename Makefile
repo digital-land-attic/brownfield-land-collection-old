@@ -31,7 +31,10 @@ COLLECTION_INDEX=\
 	collection/index.json\
 	index/link.csv\
 	index/log.csv\
-	index/resource.csv
+	index/resource.csv\
+
+INDEXES=\
+	index/column.csv
 
 TBD_COLLECTION_INDEX=\
 	index/organisation-documentation.csv\
@@ -66,7 +69,7 @@ normalise: $(NORMALISED_FILES)
 harmonise: $(HARMONISED_FILES)
 	@:
 
-index: $(COLLECTION_INDEX)
+index: $(COLLECTION_INDEX) $(INDEXES)
 	@:
 
 dataset: $(NATIONAL_DATASET)
@@ -78,6 +81,8 @@ $(COLLECTION_INDEX): bin/index.py $(DATASET_FILES) $(LOG_FILES) $(VALIDATION_FIL
 $(NATIONAL_DATASET): bin/dataset.py $(HARMONISED_FILES)
 	python3 bin/dataset.py $(HARMONISED_DIR) $@
 
+index/column.csv: bin/columns.py $(NORMALISED_FILES)
+	python3 bin/columns.py $@
 
 #
 #  pipeline to build national dataset
@@ -94,7 +99,7 @@ $(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv bin/normalise.py
 	@mkdir -p $(NORMALISED_DIR)
 	python3 bin/normalise.py $< $@
 
-$(HARMONISED_DIR)%.csv: $(NORMALISED_DIR)%.csv bin/harmonise.py
+$(HARMONISED_DIR)%.csv: $(NORMALISED_DIR)%.csv bin/harmonise.py schema/brownfield-land.json
 	@mkdir -p $(HARMONISED_DIR)
 	python3 bin/harmonise.py $< $@
 
