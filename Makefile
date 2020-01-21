@@ -25,6 +25,7 @@ CONVERTED_FILES:=$(addsuffix .csv,$(subst $(RESOURCE_DIR),$(CONVERTED_DIR),$(RES
 NORMALISED_FILES:=$(subst $(CONVERTED_DIR),$(NORMALISED_DIR),$(CONVERTED_FILES))
 HARMONISED_FILES:=$(subst $(NORMALISED_DIR),$(HARMONISED_DIR),$(NORMALISED_FILES))
 
+NATIONAL_DATASET=index/dataset.csv
 
 COLLECTION_INDEX=\
 	collection/index.json\
@@ -50,10 +51,13 @@ collect:	$(DATASET_FILES)
 
 # restart the make process to pick-up collected files
 second-pass:
-	@make --no-print-directory validate harmonise index
+	@make --no-print-directory validate harmonise index dataset
 
 
 validate: $(VALIDATION_FILES)
+	@:
+
+convert: $(CONVERTED_FILES)
 	@:
 
 normalise: $(NORMALISED_FILES)
@@ -65,19 +69,24 @@ harmonise: $(HARMONISED_FILES)
 index: $(COLLECTION_INDEX)
 	@:
 
+dataset: $(NATIONAL_DATASET)
+	@:
 
-$(VALIDATION_DIR)%.json: $(RESOURCE_DIR)%
-	@mkdir -p $(VALIDATION_DIR)
-	validate --exclude-input --exclude-rows --file $< --output $@
+$(COLLECTION_INDEX): bin/index.py $(DATASET_FILES) $(LOG_FILES) $(VALIDATION_FILES)
+	python3 bin/index.py brownfield-land
+
+$(NATIONAL_DATASET): bin/dataset.py $(HARMONISED_FILES)
+	python3 bin/dataset.py $(HARMONISED_DIR) $@
 
 
 #
 #  pipeline to build national dataset
 #
-$(COLLECTION_INDEX): bin/index.py $(DATASET_FILES) $(LOG_FILES) $(VALIDATION_FILES)
-	python3 bin/index.py brownfield-land
+$(VALIDATION_DIR)%.json: $(RESOURCE_DIR)%
+	@mkdir -p $(VALIDATION_DIR)
+	validate --exclude-input --exclude-rows --file $< --output $@
 
-$(CONVERTED_DIR)%.csv: $(RESOURCE_DIR)%
+$(CONVERTED_DIR)%.csv: $(RESOURCE_DIR)% bin/convert.py
 	@mkdir -p $(CONVERTED_DIR)
 	python3 bin/convert.py $< $@
 
