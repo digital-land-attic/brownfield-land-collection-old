@@ -44,10 +44,9 @@ jobs:
       run: |
         git add validation
         git diff --quiet && git diff --staged --quiet || (git commit -m "Commit files validated on $(date +%F)"; git push origin master)
-    - name: Create indexes
-      run: make index
-    - name: Commit indexes
+    - name: Create dataset and indexes
+      run: make index dataset
+    - name: Commit dataset and indexes
       run: |
-        git add collection
-        git add validation
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Commit new index for $(date +%F)"; git push origin master)
+        git add var index collection/index.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Commit new dataset and indexes for $(date +%F)"; git push origin master)
