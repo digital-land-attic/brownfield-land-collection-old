@@ -40,9 +40,6 @@ def normalise_date(value):
     value = value.strip(' ",')
 
     # all of these patterns have been used!
-    if value in ["", "N/A", "#N/A", "???"]:
-        return ""
-
     for pattern in [
         "%Y-%m-%d",
         "%Y%m%d",
@@ -87,7 +84,9 @@ def normalise_uri(value):
 
 
 def normalise(fieldname, value):
-    value = value or ""
+    if value in [None, "", "N/A", "#N/A", "???"]:
+        return ""
+
     field = fields[fieldname]
 
     if field.get("format", "") == "uri":

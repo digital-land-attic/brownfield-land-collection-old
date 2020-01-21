@@ -9,7 +9,7 @@
             "constraints": {
                 "required": true
             },
-            "typos": ["OrganistionURI", "LPA URL", "OPEN DATA WEBSITE", "Organisati"]
+            "typos": ["OrganistionURI", "OrganisationURL", "LPA URL", "OPEN DATA WEBSITE", "Organisati"]
         },
         {
             "name": "OrganisationLabel",
