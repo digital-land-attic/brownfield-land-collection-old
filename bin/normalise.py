@@ -7,7 +7,7 @@
 import sys
 import csv
 
-spaces = '\n\r\t\f'
+spaces = " \n\r\t\f"
 
 if __name__ == "__main__":
     record = 0

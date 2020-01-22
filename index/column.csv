@@ -1,17 +1,5 @@
 count,name
 18767,
-1, CoordinateReferenceSystem
-1, Deliverable
-2, DevelopmentDescription
-1, FirstAddedDate
-1, Hectares
-1, NonHousingDevelopment
-1, Notes
-1, OrganisationLabel
-2, OrganisationURI
-1, PlanningHistory
-1, PreviouslyPartOf
-1, SiteNameAddress
 1,#
 1,0.28
 2,01/12/2017
@@ -37,10 +25,9 @@ count,name
 1,Achievable
 1,Achievable comment (Reg 4 (1)(d))
 4,AdditionReference
-3,Additional Notes 
+3,Additional Notes
 2,AdditionalNotes
-3,Address
-1,Address 
+4,Address
 1,All/Part Deliverable within 5 years
 1,All/part deliverable within 5 years
 2,Allocated site
@@ -60,12 +47,10 @@ count,name
 1,Alternative Reference 1 (Planning permission)
 1,Alternative Reference 2 (Local Plan PS Jan 2018)
 1,Alternative Reference 2 (Site Assessment)
-5,Alternative References
-1,Alternative References 
+6,Alternative References
 1,Alternative references
 15,AlternativeReference
-21,AlternativeReferences
-1,AlternativeReferences 
+22,AlternativeReferences
 1,App No.
 1,App_No
 1,Applica-tion is on Brown-field Land?
@@ -90,7 +75,7 @@ count,name
 4,BNG_Northing
 1,Brownfie_1
 1,Brownfield
-1,Brownfield Coverage 
+1,Brownfield Coverage
 1,Brownfield Land Register 2018
 1,Brownfield Land Register 2019
 3,Brownfield Register Reference
@@ -126,19 +111,17 @@ count,name
 3,Coordinate
 1,"Coordinate
 ReferenceSystem"
-26,Coordinate Reference System
-1,Coordinate Reference System 
+27,Coordinate Reference System
 1,CoordinateRef. System
 1,CoordinateRefSystem
 1,CoordinateReference System
-579,CoordinateReferenceSystem
-5,CoordinateReferenceSystem 
+585,CoordinateReferenceSystem
 1,CoordinateReferenceSystem2
 1,CoordinateReferenceSystem3
 1,CoordinateReferenceSystem_ETRS89
 1,CoordinateReferenceSystem_WGS84
 2,CoordinateRefernceSystem
-1,Coordinates (Latitude & Longitude) 
+1,Coordinates (Latitude & Longitude)
 2,Coordinates Ref System
 2,CordinateReferenceSystem
 1,CrossReference
@@ -146,7 +129,7 @@ ReferenceSystem"
 2,D1
 2,D2
 2,DATE ENTERED ON REGISTER
-2,DATE LAST UPDATED 
+2,DATE LAST UPDATED
 1,DELIVERABL
 9,DELIVERABLE
 2,DESCRIPTION OF PROPOSED HOUSING DEVELOPMENT
@@ -158,14 +141,13 @@ ReferenceSystem"
 1,Date Added
 2,Date Entered
 3,Date Entered on Part 1 of Brownfield Register
-2,Date Permission Lapses 
-2,Date Permission Obtained 
+2,Date Permission Lapses
+2,Date Permission Obtained
 2,DateUpdate
 1,Date_Permission
 2,Decision_Date
 2,Deliverabl
-681,Deliverable
-6,Deliverable 
+688,Deliverable
 1,Deliverable - mandatory if yes
 1,Description
 3,Description of Proposed Development
@@ -177,8 +159,7 @@ ReferenceSystem"
 1,Development description
 1,Development status (if site has full PP)
 1,DevelopmentDesciption
-563,DevelopmentDescription
-1,DevelopmentDescription 
+566,DevelopmentDescription
 1,DevelopmentDescription - mandatory where relevant
 2,Developmentdescription
 1,Discription/Notes
@@ -188,13 +169,11 @@ ReferenceSystem"
 16,EASTING
 2,ETRS89
 1,EVENTS
-88,Easting
-7,Easting 
+95,Easting
 5,Eastings
 1,Eastings (Geo X)
 2,EffectiveDate
-73,EndDate
-1,EndDate 
+74,EndDate
 1,EndReason
 1,Enddate
 3,Error
@@ -215,8 +194,7 @@ Date"
 3,FirstAdded
 1,"FirstAdded
 Date"
-650,FirstAddedDate
-1,FirstAddedDate 
+652,FirstAddedDate
 2,FirstAddedDate1
 2,FirstAddedDateBR
 1,FirstDateAdded
@@ -230,16 +208,14 @@ Date"
 9,Geo X
 9,Geo Y
 2,GeoPointLicensingURL
-678,GeoX
-2,GeoX 
+680,GeoX
 3,GeoX (Longitude or east grid)
 2,GeoX [East]
 1,GeoX_2
 1,GeoX_3
 1,GeoX_ETRS89
 1,GeoX_WGS84
-679,GeoY
-1,GeoY 
+680,GeoY
 3,GeoY (Latitude or north grid)
 2,GeoY [North]
 1,GeoY_2
@@ -260,19 +236,16 @@ Date"
 2,HELAAReference
 1,HSGESTIMAT
 1,Hazardous Substance[s] on site? [as identifiied in Application form]
-25,Hazardous Substances
-1,Hazardous Substances 
+26,Hazardous Substances
 1,Hazardous Substances - mandatory where relevant
 2,Hazardous Substances Regs 2015
 1,Hazardous Substances [as identifiied in Appl. form]
 3,Hazardous substances
 2,HazardousS
-615,HazardousSubstances
-1,HazardousSubstances 
+616,HazardousSubstances
 2,HazardousSubtances
 2,HazourdousSubstances
-689,Hectares
-5,Hectares 
+695,Hectares
 2,Hectares (gross)
 6,Housing Delivery Estimate
 1,Housing Est (remaining)
@@ -298,7 +271,7 @@ Date"
 2,LASTUPDATE
 7,LASTUPDATEDDATE
 2,LATITUDE
-2,LDD_Existing_Residential_Units 
+2,LDD_Existing_Residential_Units
 2,LDD_Net_Residential_Units
 2,LDD_Proposed_Residential_Units
 2,LDSSiteRef
@@ -328,8 +301,7 @@ Date"
 2,LastUpdated
 1,"LastUpdated
 Date"
-633,LastUpdatedDate
-4,LastUpdatedDate 
+637,LastUpdatedDate
 2,LastUpdatedDate1
 1,Last_updated_Date
 1,Latest_MostRelevantResidentialApplication
@@ -344,7 +316,7 @@ Date"
 1,Local_Authority
 16,Location
 1,Location / Address
-2,Location Coordinates North South 
+2,Location Coordinates North South
 1,Location___Address
 2,Locations Coordinates East West
 2,Longitude
@@ -370,8 +342,7 @@ Date"
 Dwellings"
 3,MinNet Dwellings
 1,MinNetDwel
-576,MinNetDwellings
-2,MinNetDwellings 
+578,MinNetDwellings
 3,MinNetDwellingsComment
 1,Min_Capacity
 1,Minimum Net Dwellings
@@ -401,13 +372,11 @@ Dwellings
 Range
 To"
 2,Net DwelingsRangeFrom
-25,Net Dwellings Range From
-1,Net Dwellings Range From 
-21,Net Dwellings Range To
-1,Net Dwellings Range To 
+26,Net Dwellings Range From
+22,Net Dwellings Range To
 2,Net Dwellings RangeTo
 1,Net dwelling range from?
-1,Net dwelling range to 
+1,Net dwelling range to
 2,Net dwellings
 1,Net dwellings Range From
 2,Net dwellings range From
@@ -417,25 +386,22 @@ To"
 2,NetDwellin
 2,NetDwellingRangeTo
 5,NetDwellingsRangeForm
-623,NetDwellingsRangeFrom
-2,NetDwellingsRangeFrom 
+625,NetDwellingsRangeFrom
 1,NetDwellingsRangeFrom - mandatory where relevant
 3,NetDwellingsRangeFromComment
-616,NetDwellingsRangeTo
-1,NetDwellingsRangeTo 
+617,NetDwellingsRangeTo
 1,NetDwellingsRangeTo - mandatory where relevant
 3,NetDwellingsRangeToComment
 5,NetDwellingsRangeto
 1,NetDwellingsrangeTo
 4,NetDwelllingsRangeTo
 2,NetDweloingsRangeTo
-1,Netdwellingrangefrom 
+1,Netdwellingrangefrom
 1,Netdwellingrangeto
 3,New Dwellings Range to
 1,NewDwellingsRangeFrom
 1,NewDwellingsRangeTo
-25,Non Housing Development
-1,Non Housing Development 
+26,Non Housing Development
 2,Non housing Development
 1,Non-Housing Development
 1,Non-Housing development
@@ -445,18 +411,15 @@ To"
 3,NonHousing development
 1,NonHousingDeveloment
 1,NonHousingDevelopemnt
-562,NonHousingDevelopment
-4,NonHousingDevelopment 
+567,NonHousingDevelopment
 1,NonHousingDevelopment - mandatory where relevant
 1,Non_Resi_Dev
-90,Northing
-4,Northing 
+94,Northing
 6,Northings
 1,Northings (Geo Y)
 1,Note
-679,Notes
-6,Notes 
-1,Notes UPRN for sites 
+686,Notes
+1,Notes UPRN for sites
 1,Notes.1
 10,OBJECTID
 2,OPEN DATA WEBSITE
@@ -495,9 +458,8 @@ Label"
 12,Organisation URL
 2,Organisation Uri
 1,Organisation label
-579,OrganisationLabel
-4,OrganisationLabel 
-645,OrganisationURI
+584,OrganisationLabel
+647,OrganisationURI
 1,OrganisationURI;OrganisationLabel;SiteReference;PreviouslyPartOf;SiteNameAddress;SiteplanURL;CoordinateReferenceSystem;GeoX;GeoY;Hectares;OwnershipStatus;Deliverable;PlanningStatus;PermissionType;PermissionDate;PlanningHistory;ProposedForPiP;MinNetDwellings;DevelopmentDescription;NonHousingDevelopment;Part2;NetDwellingsRangeFrom;NetDwellingsRangeTo;HazardousSubstances;SiteInformation;Notes;FirstAddedDate;LastUpdatedDate;SHLAARef;PlanPermission;PPRN
 11,OrganisationURL
 2,OrganisationURl
@@ -511,7 +473,7 @@ Label"
 1,OrgansiationURI
 2,Other
 2,Other.1
-2,OtherNotes 
+2,OtherNotes
 2,OtherSiteInformation
 3,OtherSiteReferences
 2,Outstanding development
@@ -526,8 +488,7 @@ Label"
 3,Ownership status
 1,"Ownership: PA_owner, not PA_own., mixed_o'ship, unknown"
 2,OwnershipS
-648,OwnershipStatus
-7,OwnershipStatus 
+655,OwnershipStatus
 1,Ownership_Status
 1,Ownership_Status: PA_owned [Public Autho-rity]; not PA_owned; mix. ownership; unknown
 3,PA1Status
@@ -562,8 +523,7 @@ Label"
 7,PROPOSEDFORPIP
 7,Parish
 32,Part 2
-550,Part2
-1,Part2 
+551,Part2
 1,Part2 - mandatory where relevant
 2,Part2allocation
 1,PermiDate
@@ -573,31 +533,28 @@ Label"
 1,Permission
 1,"Permission
 Date"
-39,Permission Date
-2,Permission Date 
+41,Permission Date
 1,Permission History
 36,Permission Type
 1,Permission Types as req. by Gov.
 1,Permission Types as required in BFLR
 1,Permission date
 1,Permission type
-638,PermissionDate
-4,PermissionDate 
+642,PermissionDate
 1,PermissionDate -  - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.
 2,PermissionDate1
 1,PermissionDatePlanningHistory
 4,PermissionHistory
 2,PermissionTyne
-645,PermissionType
-4,PermissionType 
+649,PermissionType
 1,PermissionType - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.
 1,PeviouslyPartof
 1,Plan
 3,PlanPermission
 1,Plan_Status: permissd. / pending / no app.
 1,Plan_Status: permissd. / pending / no application
-1,Planning Application Link 
-1,Planning Application Number 
+1,Planning Application Link
+1,Planning Application Number
 1,Planning Application Number and link to documents
 1,Planning Application Reference
 40,Planning History
@@ -607,8 +564,7 @@ Date"
 2,Planning Permission Status
 1,Planning Reference
 1,Planning Reference Number
-39,Planning Status
-4,Planning Status 
+43,Planning Status
 1,Planning application Reference
 2,Planning history
 3,Planning ref
@@ -623,19 +579,16 @@ Date"
 11,PlanningAuthority2
 11,PlanningAuthority3
 2,PlanningHi
-625,PlanningHistory
-9,PlanningHistory 
+635,PlanningHistory
 1,PlanningHistory (URL)
 1,PlanningHistoryURL
 7,PlanningReference
 3,PlanningSt
-650,PlanningStatus
-7,PlanningStatus 
+657,PlanningStatus
 2,Planning_Status
 2,Planning_Status_Reference
 1,Planningapplicationreference
-1,Polygon
-1,Polygon 
+2,Polygon
 3,Postcode
 1,Potential Housing Capacity (Min) (Gross)
 1,Potential Housing Capcity (Max) (Gross)
@@ -648,8 +601,7 @@ Date"
 1,Previously Part of
 2,Previously PartOf
 3,Previously part of
-557,PreviouslyPartOf
-2,PreviouslyPartOf 
+560,PreviouslyPartOf
 4,PreviouslyPartof
 2,Primary Source of Identification at DATE
 1,Progress
@@ -663,8 +615,7 @@ Date"
 3,Proposed for PiP
 1,ProposedFo
 2,ProposedFor PIP
-525,ProposedForPIP
-1,ProposedForPIP 
+526,ProposedForPIP
 1,ProposedForPIP - mandatory if yes
 5,ProposedForPiP
 1,Proposed_U
@@ -727,26 +678,23 @@ Date"
 2,Shape_Length
 1,Shape_STArea__
 1,Shape_STLength__
-5,Site Address 
-2,Site Area in ha 
+5,Site Address
+2,Site Area in ha
 1,Site Areaha [0.25ha min]
-30,Site Information
-1,Site Information 
+31,Site Information
 1,Site Information / constrains
 1,Site Information3
-3,Site Name
-2,Site Name 
+5,Site Name
 2,Site Name & Address
 26,Site Name Address
 1,"Site Name, Address"
-1,"Site Name, Address, Postcode "
+1,"Site Name, Address, Postcode"
 1,Site Plan
 22,Site Plan URL
 3,Site Ref
 1,Site Ref.
-42,Site Reference
-1,Site Reference 
-1,Site UPRN 
+43,Site Reference
+1,Site UPRN
 1,Site URL
 2,Site Yes (within 5 years)
 1,Site coordinate
@@ -761,8 +709,7 @@ Date"
 1,SiteInfo
 2,SiteInfomation
 1,SiteInform
-549,SiteInformation
-2,SiteInformation 
+551,SiteInformation
 1,SiteInformation - mandatory where relevant
 1,SiteInformation1
 1,SiteInformation2
@@ -770,14 +717,12 @@ Date"
 2,SiteName Address
 1,SiteName/Address
 2,SiteNameAd
-653,SiteNameAddress
-4,SiteNameAddress 
+658,SiteNameAddress
 1,SiteNameAddresss
 70,SitePlanURL
 2,SiteProforma
 2,SiteRefere
-642,SiteReference
-5,SiteReference 
+647,SiteReference
 3,SiteReference (also SHLAA Reference)
 1,SiteReferenceAlternate
 1,Site_Address
@@ -788,8 +733,7 @@ Date"
 8,Siteplan URL
 2,SiteplanUR
 1,SiteplanURI
-575,SiteplanURL
-4,SiteplanURL 
+579,SiteplanURL
 1,Siteref
 1,Skylark Motor Services Ltd The Ridge Woodfalls
 2,SortOrder
@@ -814,10 +758,9 @@ Date"
 1,Total area (Hectares)
 1,Total site area (hectares)
 1,Total_ha
-3,Type of Permission 
+3,Type of Permission
 1,Type_Permission
-16,UPRN
-1,UPRN 
+17,UPRN
 1,URI
 1,URLOrganisationLabel
 1,Uni_ID
