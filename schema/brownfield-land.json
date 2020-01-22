@@ -10,7 +10,13 @@
                 "required": true
             },
             "digital-land": {
-              "typos": ["OrganistionURI", "OrganisationURL", "LPA URL", "OPEN DATA WEBSITE", "Organisati"]
+                "typos": [
+                    "OrganistionURI",
+                    "OrganisationURL",
+                    "LPA URL",
+                    "OPEN DATA WEBSITE",
+                    "Organisati"
+                ]
             }
         },
         {
@@ -23,7 +29,9 @@
                 "deprecated": true
             },
             "digital-land": {
-              "typos": [ "OrganistionLabel" ]
+                "typos": [
+                    "OrganistionLabel"
+                ]
             }
         },
         {
@@ -36,8 +44,11 @@
                 "required": true
             },
             "digital-land": {
-              "typos": ["LA SITE REF", "SiteRefere"],
-              "field": "site"
+                "typos": [
+                    "LA SITE REF",
+                    "SiteRefere"
+                ],
+                "field": "site"
             }
         },
         {
@@ -57,7 +68,7 @@
                 "required": true
             },
             "digital-land": {
-              "field": "longitude"
+                "field": "longitude"
             }
         },
         {
@@ -69,7 +80,7 @@
                 "required": true
             },
             "digital-land": {
-              "field": "latitude"
+                "field": "latitude"
             }
         },
         {
@@ -91,14 +102,16 @@
                 "required": true
             },
             "digital-land": {
-              "typos": ["AREA (HA)"],
-              "field": "hectares"
+                "typos": [
+                    "AREA (HA)"
+                ],
+                "field": "hectares"
             }
         },
         {
             "name": "OwnershipStatus",
             "title": "Ownership status",
-            "description": "The site’s ownership",
+            "description": "The site\u2019s ownership",
             "type": "string",
             "constraints": {
                 "required": true,
@@ -137,7 +150,7 @@
         {
             "name": "PlanningHistory",
             "title": "Planning history",
-            "description": "Links to any web pages that give information on the site’s planning history. Multiple links must be separated by pipe character",
+            "description": "Links to any web pages that give information on the site\u2019s planning history. Multiple links must be separated by pipe character",
             "type": "string",
             "constraints": {
                 "required": false
@@ -199,8 +212,10 @@
                 "required": true
             },
             "digital-land": {
-              "typos": ["FirstAdded"],
-              "field": "start-date"
+                "typos": [
+                    "FirstAdded"
+                ],
+                "field": "start-date"
             }
         },
         {
@@ -212,8 +227,10 @@
                 "required": false
             },
             "digital-land": {
-              "typos": ["LastUpdate"],
-              "field": "entry-date"
+                "typos": [
+                    "LastUpdate"
+                ],
+                "field": "entry-date"
             }
         },
         {
@@ -225,11 +242,21 @@
                 "required": false
             },
             "digital-land": {
-              "field": "end-date"
+                "field": "end-date"
             }
         }
     ],
     "digital-land": {
-      "fields": [ "entry-date", "organisation", "site" , "latitude", "longitude", "hectares" ,"start-date", "end-date", "resource"]
+        "fields": [
+            "entry-date",
+            "organisation",
+            "site",
+            "latitude",
+            "longitude",
+            "hectares",
+            "start-date",
+            "end-date",
+            "resource"
+        ]
     }
- }
+}
