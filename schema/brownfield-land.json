@@ -13,9 +13,11 @@
                 "typos": [
                     "OrganistionURI",
                     "OrganisationURL",
+                    "Organisational URI",
                     "LPA URL",
                     "OPEN DATA WEBSITE",
-                    "Organisati"
+                    "Organisati",
+                    "Org. URI"
                 ],
                 "field": "organisation",
                 "values": {
@@ -35,7 +37,9 @@
             },
             "digital-land": {
                 "typos": [
-                    "OrganistionLabel"
+                    "OrganistionLabel",
+                    "OragisationLabel",
+                    "Org. Label"
                 ]
             }
         },
