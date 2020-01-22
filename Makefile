@@ -45,6 +45,7 @@ COLLECTION_INDEXES=\
 
 INDEXES=\
 	$(COLLECTION_INDEXES)\
+	index/fixed.csv\
 	index/column.csv
 
 TBD_COLLECTION_INDEXES=\
@@ -97,6 +98,9 @@ $(COLLECTION_INDEXES): bin/index.py $(DATASET_FILES) $(LOG_FILES) $(VALIDATION_F
 
 index/column.csv: bin/columns.py $(NORMALISED_FILES)
 	python3 bin/columns.py $@
+
+index/fixed.csv: bin/fixed.py $(FIXED_FILES)
+	python3 bin/fixed.py $@
 
 #
 #  validation
