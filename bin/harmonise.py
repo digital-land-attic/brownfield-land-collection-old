@@ -14,7 +14,7 @@ from datetime import datetime
 
 
 schema = json.load(open("schema/brownfield-land.json"))
-fieldnames = [field["name"] for field in schema["fields"]]
+fieldnames = schema["digital-land"]["fields"]
 
 # hard-coded for now
 fieldnames = [
@@ -111,8 +111,9 @@ if __name__ == "__main__":
         typos[name(fieldname)] = fieldname
         if "title" in field:
             typos[name(field["title"])] = fieldname
-        for typo in field.get("typos", []):
-            typos[name(typo)] = fieldname
+        if "digital-land" in field:
+            for typo in field["digital-land"].get("typos", []):
+                typos[name(typo)] = fieldname
 
     reader = csv.DictReader(open(sys.argv[1], newline=""))
 
