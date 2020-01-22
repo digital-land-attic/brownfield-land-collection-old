@@ -31,11 +31,27 @@ The collected resources are then processed in a pipeline:
 * [var/harmonised](var/harmonised) -- dates, geospatial, and other values translated into a consistent format
 * [var/transformed](var/transformed) -- transformed into the digital-land dataset model
 
-# Indexes
+# Dataset
 
 The collection is then collated into a register for each organisation, and a national dataset:
 
 * [index/dataset.csv](index/dataset.csv)
+
+which has the following fields, consistent with other datasets published by digital land:
+
+* entry-date
+* organisation -- the curie for the organisation
+* site -- a unique identifier for the site
+* latitude
+* longitude
+* hectares
+* minimum-net-dwellings
+* maximum-net-dwellings
+* start-date
+* end-date
+* resource -- the source resource for the entry
+
+# Indexes
 
 A number of index files are generated for the collection:
 
