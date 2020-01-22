@@ -12,28 +12,9 @@ import csv
 import json
 from datetime import datetime
 
-
 schema = json.load(open("schema/brownfield-land.json"))
-fieldnames = schema["digital-land"]["fields"]
-
-# hard-coded for now
-fieldnames = [
-    "OrganisationURI",
-    "SiteReference",
-    "GeoX",
-    "GeoY",
-    "Hectares",
-    "NetDwellingsRangeFrom",
-    "NetDwellingsRangeTo",
-    "FirstAddedDate",
-    "LastUpdatedDate",
-    "EndDate",
-]
-
-fields = {
-    field["name"]: field for field in schema["fields"] if field["name"] in fieldnames
-}
-
+fields = {field["name"]: field for field in schema["fields"]}
+fieldnames = fields.keys()
 
 pattern = re.compile(r"[^a-z0-9]")
 
