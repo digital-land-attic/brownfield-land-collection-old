@@ -1,5 +1,5 @@
 count,name
-18740,
+18741,
 1,#
 1,0.28
 2,01/12/2017
@@ -148,7 +148,7 @@ ReferenceSystem"
 1,Date_Permission
 2,Decision_Date
 2,Deliverabl
-692,Deliverable
+693,Deliverable
 1,Deliverable - mandatory if yes
 1,Description
 3,Description of Proposed Development
@@ -160,7 +160,7 @@ ReferenceSystem"
 1,Development description
 1,Development status (if site has full PP)
 1,DevelopmentDesciption
-570,DevelopmentDescription
+571,DevelopmentDescription
 1,DevelopmentDescription - mandatory where relevant
 2,Developmentdescription
 1,Discription/Notes
@@ -209,14 +209,14 @@ Date"
 9,Geo X
 9,Geo Y
 2,GeoPointLicensingURL
-684,GeoX
+685,GeoX
 3,GeoX (Longitude or east grid)
 2,GeoX [East]
 1,GeoX_2
 1,GeoX_3
 1,GeoX_ETRS89
 1,GeoX_WGS84
-684,GeoY
+685,GeoY
 3,GeoY (Latitude or north grid)
 2,GeoY [North]
 1,GeoY_2
@@ -243,10 +243,10 @@ Date"
 1,Hazardous Substances [as identifiied in Appl. form]
 3,Hazardous substances
 2,HazardousS
-620,HazardousSubstances
+621,HazardousSubstances
 2,HazardousSubtances
 2,HazourdousSubstances
-699,Hectares
+700,Hectares
 2,Hectares (gross)
 6,Housing Delivery Estimate
 1,Housing Est (remaining)
@@ -340,7 +340,7 @@ Date"
 Dwellings"
 3,MinNet Dwellings
 1,MinNetDwel
-582,MinNetDwellings
+583,MinNetDwellings
 3,MinNetDwellingsComment
 1,Min_Capacity
 1,Minimum Net Dwellings
@@ -384,10 +384,10 @@ To"
 2,NetDwellin
 2,NetDwellingRangeTo
 5,NetDwellingsRangeForm
-629,NetDwellingsRangeFrom
+630,NetDwellingsRangeFrom
 1,NetDwellingsRangeFrom - mandatory where relevant
 3,NetDwellingsRangeFromComment
-621,NetDwellingsRangeTo
+622,NetDwellingsRangeTo
 1,NetDwellingsRangeTo - mandatory where relevant
 3,NetDwellingsRangeToComment
 5,NetDwellingsRangeto
@@ -409,7 +409,7 @@ To"
 3,NonHousing development
 1,NonHousingDeveloment
 1,NonHousingDevelopemnt
-571,NonHousingDevelopment
+572,NonHousingDevelopment
 1,NonHousingDevelopment - mandatory where relevant
 1,Non_Resi_Dev
 94,Northing
@@ -485,7 +485,7 @@ Label"
 3,Ownership status
 1,"Ownership: PA_owner, not PA_own., mixed_o'ship, unknown"
 2,OwnershipS
-659,OwnershipStatus
+660,OwnershipStatus
 1,Ownership_Status
 1,Ownership_Status: PA_owned [Public Autho-rity]; not PA_owned; mix. ownership; unknown
 3,PA1Status
@@ -520,7 +520,7 @@ Label"
 7,PROPOSEDFORPIP
 7,Parish
 32,Part 2
-555,Part2
+556,Part2
 1,Part2 - mandatory where relevant
 2,Part2allocation
 1,PermiDate
@@ -537,13 +537,13 @@ Date"
 1,Permission Types as required in BFLR
 1,Permission date
 1,Permission type
-646,PermissionDate
+647,PermissionDate
 1,PermissionDate -  - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.
 2,PermissionDate1
 1,PermissionDatePlanningHistory
 4,PermissionHistory
 2,PermissionTyne
-653,PermissionType
+654,PermissionType
 1,PermissionType - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.
 1,PeviouslyPartof
 1,Plan
@@ -576,12 +576,12 @@ Date"
 13,PlanningAuthority2
 13,PlanningAuthority3
 2,PlanningHi
-639,PlanningHistory
+640,PlanningHistory
 1,PlanningHistory (URL)
 1,PlanningHistoryURL
 7,PlanningReference
 3,PlanningSt
-659,PlanningStatus
+660,PlanningStatus
 2,Planning_Status
 2,Planning_Status_Reference
 1,Planningapplicationreference
@@ -612,7 +612,7 @@ Date"
 3,Proposed for PiP
 1,ProposedFo
 2,ProposedFor PIP
-529,ProposedForPIP
+530,ProposedForPIP
 1,ProposedForPIP - mandatory if yes
 6,ProposedForPiP
 1,Proposed_U
@@ -706,7 +706,7 @@ Date"
 1,SiteInfo
 2,SiteInfomation
 1,SiteInform
-555,SiteInformation
+556,SiteInformation
 1,SiteInformation - mandatory where relevant
 1,SiteInformation1
 1,SiteInformation2
@@ -717,6 +717,7 @@ Date"
 662,SiteNameAddress
 1,SiteNameAddresss
 70,SitePlanURL
+1,SitePlanURL CoordinateReferenceSystem
 2,SiteProforma
 2,SiteRefere
 651,SiteReference
