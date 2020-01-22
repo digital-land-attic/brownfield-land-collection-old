@@ -116,7 +116,7 @@ ReferenceSystem"
 1,CoordinateRef. System
 1,CoordinateRefSystem
 1,CoordinateReference System
-587,CoordinateReferenceSystem
+589,CoordinateReferenceSystem
 1,CoordinateReferenceSystem2
 1,CoordinateReferenceSystem3
 1,CoordinateReferenceSystem_ETRS89
@@ -148,7 +148,7 @@ ReferenceSystem"
 1,Date_Permission
 2,Decision_Date
 2,Deliverabl
-690,Deliverable
+692,Deliverable
 1,Deliverable - mandatory if yes
 1,Description
 3,Description of Proposed Development
@@ -160,14 +160,14 @@ ReferenceSystem"
 1,Development description
 1,Development status (if site has full PP)
 1,DevelopmentDesciption
-568,DevelopmentDescription
+570,DevelopmentDescription
 1,DevelopmentDescription - mandatory where relevant
 2,Developmentdescription
 1,Discription/Notes
 1,District
 1,Dwelling_Range
 1,EAST
-16,EASTING
+18,EASTING
 2,ETRS89
 1,EVENTS
 95,Easting
@@ -195,7 +195,7 @@ Date"
 3,FirstAdded
 1,"FirstAdded
 Date"
-654,FirstAddedDate
+656,FirstAddedDate
 2,FirstAddedDate1
 2,FirstAddedDateBR
 1,FirstDateAdded
@@ -209,14 +209,14 @@ Date"
 9,Geo X
 9,Geo Y
 2,GeoPointLicensingURL
-682,GeoX
+684,GeoX
 3,GeoX (Longitude or east grid)
 2,GeoX [East]
 1,GeoX_2
 1,GeoX_3
 1,GeoX_ETRS89
 1,GeoX_WGS84
-682,GeoY
+684,GeoY
 3,GeoY (Latitude or north grid)
 2,GeoY [North]
 1,GeoY_2
@@ -243,10 +243,10 @@ Date"
 1,Hazardous Substances [as identifiied in Appl. form]
 3,Hazardous substances
 2,HazardousS
-618,HazardousSubstances
+620,HazardousSubstances
 2,HazardousSubtances
 2,HazourdousSubstances
-697,Hectares
+699,Hectares
 2,Hectares (gross)
 6,Housing Delivery Estimate
 1,Housing Est (remaining)
@@ -276,9 +276,6 @@ Date"
 2,LDD_Net_Residential_Units
 2,LDD_Proposed_Residential_Units
 2,LDSSiteRef
-2,LLDC1
-2,LLDC2
-1,LLDC3
 2,LOCAL AUTHORITY
 2,LONGITUDE
 2,LPA
@@ -302,7 +299,7 @@ Date"
 2,LastUpdated
 1,"LastUpdated
 Date"
-639,LastUpdatedDate
+641,LastUpdatedDate
 2,LastUpdatedDate1
 1,Last_updated_Date
 1,Latest_MostRelevantResidentialApplication
@@ -343,7 +340,7 @@ Date"
 Dwellings"
 3,MinNet Dwellings
 1,MinNetDwel
-580,MinNetDwellings
+582,MinNetDwellings
 3,MinNetDwellingsComment
 1,Min_Capacity
 1,Minimum Net Dwellings
@@ -361,7 +358,7 @@ Dwellings"
 1,NONHOUSING
 7,NONHOUSINGDEVELOPMENT
 1,NORTH
-16,NORTHING
+18,NORTHING
 11,NOTES
 2,Name of Local Authority
 2,"Net
@@ -387,10 +384,10 @@ To"
 2,NetDwellin
 2,NetDwellingRangeTo
 5,NetDwellingsRangeForm
-627,NetDwellingsRangeFrom
+629,NetDwellingsRangeFrom
 1,NetDwellingsRangeFrom - mandatory where relevant
 3,NetDwellingsRangeFromComment
-619,NetDwellingsRangeTo
+621,NetDwellingsRangeTo
 1,NetDwellingsRangeTo - mandatory where relevant
 3,NetDwellingsRangeToComment
 5,NetDwellingsRangeto
@@ -412,14 +409,14 @@ To"
 3,NonHousing development
 1,NonHousingDeveloment
 1,NonHousingDevelopemnt
-569,NonHousingDevelopment
+571,NonHousingDevelopment
 1,NonHousingDevelopment - mandatory where relevant
 1,Non_Resi_Dev
 94,Northing
 6,Northings
 1,Northings (Geo Y)
 1,Note
-688,Notes
+690,Notes
 1,Notes UPRN for sites
 1,Notes.1
 10,OBJECTID
@@ -459,8 +456,8 @@ Label"
 12,Organisation URL
 2,Organisation Uri
 1,Organisation label
-585,OrganisationLabel
-649,OrganisationURI
+587,OrganisationLabel
+651,OrganisationURI
 11,OrganisationURL
 2,OrganisationURl
 1,OrganisationUrI
@@ -488,7 +485,7 @@ Label"
 3,Ownership status
 1,"Ownership: PA_owner, not PA_own., mixed_o'ship, unknown"
 2,OwnershipS
-657,OwnershipStatus
+659,OwnershipStatus
 1,Ownership_Status
 1,Ownership_Status: PA_owned [Public Autho-rity]; not PA_owned; mix. ownership; unknown
 3,PA1Status
@@ -523,7 +520,7 @@ Label"
 7,PROPOSEDFORPIP
 7,Parish
 32,Part 2
-553,Part2
+555,Part2
 1,Part2 - mandatory where relevant
 2,Part2allocation
 1,PermiDate
@@ -540,13 +537,13 @@ Date"
 1,Permission Types as required in BFLR
 1,Permission date
 1,Permission type
-644,PermissionDate
+646,PermissionDate
 1,PermissionDate -  - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.
 2,PermissionDate1
 1,PermissionDatePlanningHistory
 4,PermissionHistory
 2,PermissionTyne
-651,PermissionType
+653,PermissionType
 1,PermissionType - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.
 1,PeviouslyPartof
 1,Plan
@@ -564,7 +561,7 @@ Date"
 2,Planning Permission Status
 1,Planning Reference
 1,Planning Reference Number
-43,Planning Status
+45,Planning Status
 1,Planning application Reference
 2,Planning history
 3,Planning ref
@@ -575,11 +572,11 @@ Date"
 2,PlanningApplicationReference
 1,PlanningAu
 6,PlanningAuthority
-11,PlanningAuthority1
-11,PlanningAuthority2
-11,PlanningAuthority3
+13,PlanningAuthority1
+13,PlanningAuthority2
+13,PlanningAuthority3
 2,PlanningHi
-637,PlanningHistory
+639,PlanningHistory
 1,PlanningHistory (URL)
 1,PlanningHistoryURL
 7,PlanningReference
@@ -601,7 +598,7 @@ Date"
 1,Previously Part of
 2,Previously PartOf
 3,Previously part of
-562,PreviouslyPartOf
+564,PreviouslyPartOf
 4,PreviouslyPartof
 2,Primary Source of Identification at DATE
 1,Progress
@@ -615,7 +612,7 @@ Date"
 3,Proposed for PiP
 1,ProposedFo
 2,ProposedFor PIP
-527,ProposedForPIP
+529,ProposedForPIP
 1,ProposedForPIP - mandatory if yes
 6,ProposedForPiP
 1,Proposed_U
@@ -709,7 +706,7 @@ Date"
 1,SiteInfo
 2,SiteInfomation
 1,SiteInform
-553,SiteInformation
+555,SiteInformation
 1,SiteInformation - mandatory where relevant
 1,SiteInformation1
 1,SiteInformation2
@@ -717,12 +714,12 @@ Date"
 2,SiteName Address
 1,SiteName/Address
 2,SiteNameAd
-660,SiteNameAddress
+662,SiteNameAddress
 1,SiteNameAddresss
 70,SitePlanURL
 2,SiteProforma
 2,SiteRefere
-649,SiteReference
+651,SiteReference
 3,SiteReference (also SHLAA Reference)
 1,SiteReferenceAlternate
 1,Site_Address
@@ -733,7 +730,7 @@ Date"
 8,Siteplan URL
 2,SiteplanUR
 1,SiteplanURI
-581,SiteplanURL
+583,SiteplanURL
 1,Siteref
 1,Skylark Motor Services Ltd The Ridge Woodfalls
 2,SortOrder
