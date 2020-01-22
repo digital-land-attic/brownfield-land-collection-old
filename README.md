@@ -16,13 +16,15 @@ The [collection](collection) directory contains resources collected from sources
 
 # Validation
 
-Each collected resource is processed, creating a file with the same basename as the resource in the following directories:
+Each collected resource is processed, and validated against the [frictionless data schema](https://frictionlessdata.io/specs/table-schema/):
 
-* [validation](validation) -- validation results for each resource as JSON
+* [schema/brownfield-land.json](schema/brownfield-land.json) file.
+
+the results are stored in the [validation](validation) directory.
 
 # Processing pipeline
 
-The collected resources are then processed in the following pipeline:
+The collected resources are then processed in a pipeline:
 
 * [var/converted](var/converted) -- the resource converted into UTF-8 encoded CSV
 * [var/normalised](var/normalised) -- removed padding, drop obviously spurious rows
