@@ -1,4 +1,4 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/15,271988,149535,0.33,2017-12-06,2017-12-06,
-http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/2,272078,149286,0.41,2017-12-06,2017-12-06,
-http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/38,272488,149487,0.51,2017-12-06,2017-12-06,
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,NetDwellingsRangeFrom,NetDwellingsRangeTo,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/15,271988,149535,0.33,10,10,2017-12-06,2017-12-06,
+http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/2,272078,149286,0.41,16,16,2017-12-06,2017-12-06,
+http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/38,272488,149487,0.51,,,2017-12-06,2017-12-06,

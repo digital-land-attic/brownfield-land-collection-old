@@ -1,2 +1,2 @@
-entry-date,organisation,site,latitude,longitude,hectares,start-date,end-date,resource
-,http://opendatacommunities.org/id/district-council/hambleton,3129,481674.184,442473.162,1.02,,,9185def17394394ea716e5558e3a113fe77bc48357c0b7fe00aeef42f505bb65
+entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,http://opendatacommunities.org/id/district-council/hambleton,3129,481674.184,442473.162,1.02,,,,,9185def17394394ea716e5558e3a113fe77bc48357c0b7fe00aeef42f505bb65

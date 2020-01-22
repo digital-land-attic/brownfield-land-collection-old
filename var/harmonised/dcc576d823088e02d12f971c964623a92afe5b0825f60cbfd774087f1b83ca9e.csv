@@ -1,2 +1,2 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/london-borough-council/city-of-london,15/00329/FULL,533352,181566,0.01,2017-12-31,2017-12-31,
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,NetDwellingsRangeFrom,NetDwellingsRangeTo,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/london-borough-council/city-of-london,15/00329/FULL,533352,181566,0.01,5,5,2017-12-31,2017-12-31,

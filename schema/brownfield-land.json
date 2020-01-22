@@ -173,6 +173,9 @@
             "type": "number",
             "constraints": {
                 "required": false
+            },
+            "digital-land": {
+                "field": "minimum-net-dwellings"
             }
         },
         {
@@ -182,6 +185,9 @@
             "type": "number",
             "constraints": {
                 "required": false
+            },
+            "digital-land": {
+                "field": "maximum-net-dwellings"
             }
         },
         {
@@ -254,6 +260,8 @@
             "latitude",
             "longitude",
             "hectares",
+            "minimum-net-dwellings",
+            "maximum-net-dwellings",
             "start-date",
             "end-date",
             "resource"

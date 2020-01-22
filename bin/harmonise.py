@@ -23,6 +23,8 @@ fieldnames = [
     "GeoX",
     "GeoY",
     "Hectares",
+    "NetDwellingsRangeFrom",
+    "NetDwellingsRangeTo",
     "FirstAddedDate",
     "LastUpdatedDate",
     "EndDate",

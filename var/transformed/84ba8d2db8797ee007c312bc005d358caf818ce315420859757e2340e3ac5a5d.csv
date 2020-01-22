@@ -1,5 +1,5 @@
-entry-date,organisation,site,latitude,longitude,hectares,start-date,end-date,resource
-2017-12-11,http://opendatacommunities.org/id/district-council/daventry,DA/2016/0800,262330,456877,0.06,2017-12-11,,84ba8d2db8797ee007c312bc005d358caf818ce315420859757e2340e3ac5a5d
-2017-12-11,http://opendatacommunities.org/id/district-council/daventry,DA/2015/1114,262266,456851,0.17,2017-12-11,,84ba8d2db8797ee007c312bc005d358caf818ce315420859757e2340e3ac5a5d
-2017-12-11,http://opendatacommunities.org/id/district-council/daventry,DA/2013/0066,271268,473779,2.77,2017-12-11,,84ba8d2db8797ee007c312bc005d358caf818ce315420859757e2340e3ac5a5d
-2017-12-11,http://opendatacommunities.org/id/district-council/daventry,DA/2016/0518,253521,451506,0.3,2017-12-11,,84ba8d2db8797ee007c312bc005d358caf818ce315420859757e2340e3ac5a5d
+entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2017-12-11,http://opendatacommunities.org/id/district-council/daventry,DA/2016/0800,262330,456877,0.06,10,10,2017-12-11,,84ba8d2db8797ee007c312bc005d358caf818ce315420859757e2340e3ac5a5d
+2017-12-11,http://opendatacommunities.org/id/district-council/daventry,DA/2015/1114,262266,456851,0.17,9,9,2017-12-11,,84ba8d2db8797ee007c312bc005d358caf818ce315420859757e2340e3ac5a5d
+2017-12-11,http://opendatacommunities.org/id/district-council/daventry,DA/2013/0066,271268,473779,2.77,9,9,2017-12-11,,84ba8d2db8797ee007c312bc005d358caf818ce315420859757e2340e3ac5a5d
+2017-12-11,http://opendatacommunities.org/id/district-council/daventry,DA/2016/0518,253521,451506,0.3,8,8,2017-12-11,,84ba8d2db8797ee007c312bc005d358caf818ce315420859757e2340e3ac5a5d

@@ -1,5 +1,5 @@
-entry-date,organisation,site,latitude,longitude,hectares,start-date,end-date,resource
-,http://opendatacommunities.org/id/district-council/west-devon,WD_32_11_13,86676,245826,1.51,2018-12-19,,e30b4383fed7f88ab2ed9586bae5cda32d4f25d1c1e2bd19544dd640c006dbf8
-,http://opendatacommunities.org/id/district-council/west-devon,WD_13_12_13,101629,265721,1.55,2018-12-19,,e30b4383fed7f88ab2ed9586bae5cda32d4f25d1c1e2bd19544dd640c006dbf8
-,http://opendatacommunities.org/id/district-council/west-devon,00682/2014,98132,257471,0.21,2018-12-19,,e30b4383fed7f88ab2ed9586bae5cda32d4f25d1c1e2bd19544dd640c006dbf8
-,http://opendatacommunities.org/id/district-council/west-devon,OP13,104459,253944,4.93,2018-12-19,,e30b4383fed7f88ab2ed9586bae5cda32d4f25d1c1e2bd19544dd640c006dbf8
+entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,http://opendatacommunities.org/id/district-council/west-devon,WD_32_11_13,86676,245826,1.51,,,2018-12-19,,e30b4383fed7f88ab2ed9586bae5cda32d4f25d1c1e2bd19544dd640c006dbf8
+,http://opendatacommunities.org/id/district-council/west-devon,WD_13_12_13,101629,265721,1.55,,,2018-12-19,,e30b4383fed7f88ab2ed9586bae5cda32d4f25d1c1e2bd19544dd640c006dbf8
+,http://opendatacommunities.org/id/district-council/west-devon,00682/2014,98132,257471,0.21,,,2018-12-19,,e30b4383fed7f88ab2ed9586bae5cda32d4f25d1c1e2bd19544dd640c006dbf8
+,http://opendatacommunities.org/id/district-council/west-devon,OP13,104459,253944,4.93,,,2018-12-19,,e30b4383fed7f88ab2ed9586bae5cda32d4f25d1c1e2bd19544dd640c006dbf8

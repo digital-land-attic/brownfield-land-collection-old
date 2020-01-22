@@ -1,52 +1,52 @@
-entry-date,organisation,site,latitude,longitude,hectares,start-date,end-date,resource
-,http://opendatacommunities.org/id/district-council/gravesham,EDC/16/0004,174574.0,562281.0,31.14,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20030315 ,173909.0,564831.0,0.54,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20120931,174280.0,564541.0,5.54,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20160046,174442.0,564396.0,0.55,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20120590,173775.0,564705.0,0.42,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20150502,173093.0,563083.0,0.22,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20140573,174229.0,565040.0,0.1,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20140715,174229.0,565040.0,0.1,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20130298,174061.0,563255.0,0.2,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20150028,174123.0,563521.0,0.17,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20140682,173529.0,565170.0,0.18,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20110994,174224.0,564865.0,0.08,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20120994,173992.0,565190.0,0.1,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20131133,174117.0,564829.0,0.06,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20140351,173932.0,565148.0,0.01,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20150156,174276.0,564399.0,0.03,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20151138,172664.0,564631.0,0.08,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20160427,174216.0,564915.0,0.01,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20150057,173967.0,564892.0,0.31,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20150149,173648.0,564133.0,0.06,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20150462,174409.0,564775.0,0.02,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20150486,173630.0,564114.0,0.06,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20151089,174221.0,564777.0,0.02,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20160539,173618.0,564595.0,0.01,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20160791,174239.0,564789.0,0.02,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20110352,165633.0,564141.0,0.82,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20120482,173915.0,564892.0,0.04,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20150553,174117.0,564829.0,0.06,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,20150693,172068.0,563892.0,0.16,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,,20140550,173519.24,564929.61,0.1,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,BLR01 (Expired 20120931),174280.0,564541.0,5.54,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,BLR02 (Expired 20110713),174220.0,565786.0,5.4,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,BLR03 (EDC/17/0038),174344.0,563438.0,12.06,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,BLR04  (2012 SLAA  page 160),17368.33,562765.07,0.99,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,BLR05 (20160670),174337.0,564476.0,0.39,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,BLR06  (2012 SLAA  page 103),174196.7,564834.3,0.12,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,,BLR07  (2012 SLAA  page 157),174038.5,565039.6,0.2,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,,BLR08  (2012 SLAA  page 151),174146.6,564904.0,0.1,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,BLR09  (Expired 20110275),173959.0,562607.0,0.04,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,BLR10 (Expired 20100773),174104.25,564530.37,0.12,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,BLR11 (Expired 20120418),174171.8,564425.74,0.08,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,BLR12 (Expired 20100521),171473.0,566544.0,0.1,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,BLR13 (Expired 20110996),174256.075797,564403.649071,0.03,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,BLR14 (Expired 20120188),174187.6,562465.8,0.03,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,BLR15 (Expired 20070681),174302.0,562191.0,0.05,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,BLR16 (Expired 20090233),174231.0,564902.0,0.02,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,,BLR17 (Expired 20070893),174374.0,561989.0,0.1,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,BLR18 (2017 Gravesham Authority Monitoring Report),175153.61,561280.29,0.17,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,http://opendatacommunities.org/id/district-council/gravesham,BLR19 (2017 Gravesham Authority Monitoring Report),174488.34,562090.35,0.13,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,,BLR20 (2017 Gravesham Authority Monitoring Report),174458.4,561608.81,0.56,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
-,,BLR21 (2017 Gravesham Authority Monitoring Report),174071.4,565889.54,1.0,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,http://opendatacommunities.org/id/district-council/gravesham,EDC/16/0004,174574.0,562281.0,31.14,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20030315 ,173909.0,564831.0,0.54,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20120931,174280.0,564541.0,5.54,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20160046,174442.0,564396.0,0.55,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20120590,173775.0,564705.0,0.42,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20150502,173093.0,563083.0,0.22,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20140573,174229.0,565040.0,0.1,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20140715,174229.0,565040.0,0.1,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20130298,174061.0,563255.0,0.2,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20150028,174123.0,563521.0,0.17,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20140682,173529.0,565170.0,0.18,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20110994,174224.0,564865.0,0.08,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20120994,173992.0,565190.0,0.1,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20131133,174117.0,564829.0,0.06,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20140351,173932.0,565148.0,0.01,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20150156,174276.0,564399.0,0.03,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20151138,172664.0,564631.0,0.08,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20160427,174216.0,564915.0,0.01,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20150057,173967.0,564892.0,0.31,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20150149,173648.0,564133.0,0.06,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20150462,174409.0,564775.0,0.02,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20150486,173630.0,564114.0,0.06,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20151089,174221.0,564777.0,0.02,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20160539,173618.0,564595.0,0.01,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20160791,174239.0,564789.0,0.02,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20110352,165633.0,564141.0,0.82,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20120482,173915.0,564892.0,0.04,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20150553,174117.0,564829.0,0.06,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,20150693,172068.0,563892.0,0.16,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,,20140550,173519.24,564929.61,0.1,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,BLR01 (Expired 20120931),174280.0,564541.0,5.54,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,BLR02 (Expired 20110713),174220.0,565786.0,5.4,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,BLR03 (EDC/17/0038),174344.0,563438.0,12.06,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,BLR04  (2012 SLAA  page 160),17368.33,562765.07,0.99,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,BLR05 (20160670),174337.0,564476.0,0.39,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,BLR06  (2012 SLAA  page 103),174196.7,564834.3,0.12,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,,BLR07  (2012 SLAA  page 157),174038.5,565039.6,0.2,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,,BLR08  (2012 SLAA  page 151),174146.6,564904.0,0.1,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,BLR09  (Expired 20110275),173959.0,562607.0,0.04,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,BLR10 (Expired 20100773),174104.25,564530.37,0.12,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,BLR11 (Expired 20120418),174171.8,564425.74,0.08,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,BLR12 (Expired 20100521),171473.0,566544.0,0.1,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,BLR13 (Expired 20110996),174256.075797,564403.649071,0.03,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,BLR14 (Expired 20120188),174187.6,562465.8,0.03,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,BLR15 (Expired 20070681),174302.0,562191.0,0.05,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,BLR16 (Expired 20090233),174231.0,564902.0,0.02,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,,BLR17 (Expired 20070893),174374.0,561989.0,0.1,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,BLR18 (2017 Gravesham Authority Monitoring Report),175153.61,561280.29,0.17,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,http://opendatacommunities.org/id/district-council/gravesham,BLR19 (2017 Gravesham Authority Monitoring Report),174488.34,562090.35,0.13,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,,BLR20 (2017 Gravesham Authority Monitoring Report),174458.4,561608.81,0.56,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e
+,,BLR21 (2017 Gravesham Authority Monitoring Report),174071.4,565889.54,1.0,,,2017-12-20,,07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e

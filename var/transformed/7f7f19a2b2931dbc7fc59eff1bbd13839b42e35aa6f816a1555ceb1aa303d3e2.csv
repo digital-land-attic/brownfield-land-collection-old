@@ -1,2 +1,2 @@
-entry-date,organisation,site,latitude,longitude,hectares,start-date,end-date,resource
-2019-01-09,http://opendatacommunities.org/id/unitary-authority/nottingham,2427,52.95520860203224,-1.2283100061321963,0.28,2019-01-09,,7f7f19a2b2931dbc7fc59eff1bbd13839b42e35aa6f816a1555ceb1aa303d3e2
+entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2019-01-09,http://opendatacommunities.org/id/unitary-authority/nottingham,2427,52.95520860203224,-1.2283100061321963,0.28,6,6,2019-01-09,,7f7f19a2b2931dbc7fc59eff1bbd13839b42e35aa6f816a1555ceb1aa303d3e2

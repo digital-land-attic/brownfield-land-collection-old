@@ -1,8 +1,8 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/geography/administration/npark/E26000008,S/05/2,-2.57899,54.21189,0.67,2017-11-13,2017-11-13,
-http://opendatacommunities.org/id/geography/administration/npark/E26000008,R/31/23F,-1.84286,54.39813,0.3,2017-11-13,2017-11-13,
-http://opendatacommunities.org/id/geography/administration/npark/E26000008,C/04/41G,-2.35448,54.11445,0.15,2017-11-13,2017-11-13,
-http://opendatacommunities.org/id/geography/administration/npark/E26000008,C/52/56C,-2.25404,54.02097,0.31,2017-11-13,2017-11-13,
-http://opendatacommunities.org/id/geography/administration/npark/E26000008,S/03/606,-2.52824,54.32418,0.14,2017-11-13,2017-11-13,
-http://opendatacommunities.org/id/geography/administration/npark/E26000008,S/03/148D,-2.52767,54.32347,0.05,2017-11-13,2017-11-13,
-http://opendatacommunities.org/id/geography/administration/npark/E26000008,211,-1.94089,54.38788,0.21,2017-11-13,2017-11-13,
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,NetDwellingsRangeFrom,NetDwellingsRangeTo,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/geography/administration/npark/E26000008,S/05/2,-2.57899,54.21189,0.67,,,2017-11-13,2017-11-13,
+http://opendatacommunities.org/id/geography/administration/npark/E26000008,R/31/23F,-1.84286,54.39813,0.3,,,2017-11-13,2017-11-13,
+http://opendatacommunities.org/id/geography/administration/npark/E26000008,C/04/41G,-2.35448,54.11445,0.15,,,2017-11-13,2017-11-13,
+http://opendatacommunities.org/id/geography/administration/npark/E26000008,C/52/56C,-2.25404,54.02097,0.31,,,2017-11-13,2017-11-13,
+http://opendatacommunities.org/id/geography/administration/npark/E26000008,S/03/606,-2.52824,54.32418,0.14,,,2017-11-13,2017-11-13,
+http://opendatacommunities.org/id/geography/administration/npark/E26000008,S/03/148D,-2.52767,54.32347,0.05,,,2017-11-13,2017-11-13,
+http://opendatacommunities.org/id/geography/administration/npark/E26000008,211,-1.94089,54.38788,0.21,,,2017-11-13,2017-11-13,

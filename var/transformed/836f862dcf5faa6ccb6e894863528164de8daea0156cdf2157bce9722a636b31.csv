@@ -1,5 +1,5 @@
-entry-date,organisation,site,latitude,longitude,hectares,start-date,end-date,resource
-2017-12-08,http://statistics.data.gov.uk/doc/statistical-geography/E26000006,NP/BLR/S/001,391686.52,426237.64,7.23,2017-12-08,,836f862dcf5faa6ccb6e894863528164de8daea0156cdf2157bce9722a636b31
-2017-12-08,http://statistics.data.gov.uk/doc/statistical-geography/E26000006,NP/BLR/DDD/002,381384.72,417412.97,2.18,2017-12-08,,836f862dcf5faa6ccb6e894863528164de8daea0156cdf2157bce9722a636b31
-2017-12-08,http://statistics.data.gov.uk/doc/statistical-geography/E26000006,NP/BLR/DDD/003,375026.46,415178.72,0.9,2017-12-08,,836f862dcf5faa6ccb6e894863528164de8daea0156cdf2157bce9722a636b31
-2017-12-08,http://statistics.data.gov.uk/doc/statistical-geography/E26000006,NP/BLR/DDD/004,360490.98,412512.33,1.78,2017-12-08,,836f862dcf5faa6ccb6e894863528164de8daea0156cdf2157bce9722a636b31
+entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2017-12-08,http://statistics.data.gov.uk/doc/statistical-geography/E26000006,NP/BLR/S/001,391686.52,426237.64,7.23,,,2017-12-08,,836f862dcf5faa6ccb6e894863528164de8daea0156cdf2157bce9722a636b31
+2017-12-08,http://statistics.data.gov.uk/doc/statistical-geography/E26000006,NP/BLR/DDD/002,381384.72,417412.97,2.18,,,2017-12-08,,836f862dcf5faa6ccb6e894863528164de8daea0156cdf2157bce9722a636b31
+2017-12-08,http://statistics.data.gov.uk/doc/statistical-geography/E26000006,NP/BLR/DDD/003,375026.46,415178.72,0.9,,,2017-12-08,,836f862dcf5faa6ccb6e894863528164de8daea0156cdf2157bce9722a636b31
+2017-12-08,http://statistics.data.gov.uk/doc/statistical-geography/E26000006,NP/BLR/DDD/004,360490.98,412512.33,1.78,,,2017-12-08,,836f862dcf5faa6ccb6e894863528164de8daea0156cdf2157bce9722a636b31

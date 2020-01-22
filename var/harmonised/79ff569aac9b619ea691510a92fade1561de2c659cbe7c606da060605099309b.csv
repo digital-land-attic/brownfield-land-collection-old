@@ -1,8 +1,8 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/hinckley-and-bosworth,AS86,444601,297109,0.8,2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/district-council/hinckley-and-bosworth,AS911,442388,293389,0.53,2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/district-council/hinckley-and-bosworth,AS477,451711,305298,0.91,2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/district-council/hinckley-and-bosworth,AS36,447022,307378,0.85,2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/district-council/hinckley-and-bosworth,AS589,432948,297239,0.85,2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/district-council/hinckley-and-bosworth,AS808,443284,293968,0.36,2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/district-council/hinckley-and-bosworth,AS977,441691,293614,1.17,2017-12-22,2017-12-22,
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,NetDwellingsRangeFrom,NetDwellingsRangeTo,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/hinckley-and-bosworth,AS86,444601,297109,0.8,23,30,2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/district-council/hinckley-and-bosworth,AS911,442388,293389,0.53,15,20,2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/district-council/hinckley-and-bosworth,AS477,451711,305298,0.91,23,32,2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/district-council/hinckley-and-bosworth,AS36,447022,307378,0.85,21,30,2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/district-council/hinckley-and-bosworth,AS589,432948,297239,0.85,21,30,2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/district-council/hinckley-and-bosworth,AS808,443284,293968,0.36,13,16,2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/district-council/hinckley-and-bosworth,AS977,441691,293614,1.17,34,43,2017-12-22,2017-12-22,

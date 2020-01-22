@@ -1,9 +1,9 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/south-staffordshire,BI/41,387488,302968,0.4,2017-11-21,2017-11-21,
-http://opendatacommunities.org/id/district-council/south-staffordshire,CD/191,385950,302740,0.79,2017-11-21,2017-11-21,
-http://opendatacommunities.org/id/district-council/south-staffordshire,GW/165,399950,306743,2.74,2017-11-21,2017-11-21,
-http://opendatacommunities.org/id/district-council/south-staffordshire,PK/165,392241,313067,5.52,2017-11-21,2017-11-21,
-http://opendatacommunities.org/id/district-council/south-staffordshire,WM/234,386422,292948,1.06,2017-11-21,2017-11-21,
-http://opendatacommunities.org/id/district-council/south-staffordshire,AC/82,396674,317135,0.7,2017-11-21,2017-11-21,
-http://opendatacommunities.org/id/district-council/south-staffordshire,SHLAA Site 141,399251,307492,1.2,2017-11-21,2017-11-21,
-http://opendatacommunities.org/id/district-council/south-staffordshire,SHLAA Site 228,386929,303191,0.7,2017-11-21,2017-11-21,
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,NetDwellingsRangeFrom,NetDwellingsRangeTo,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/south-staffordshire,BI/41,387488,302968,0.4,,,2017-11-21,2017-11-21,
+http://opendatacommunities.org/id/district-council/south-staffordshire,CD/191,385950,302740,0.79,,,2017-11-21,2017-11-21,
+http://opendatacommunities.org/id/district-council/south-staffordshire,GW/165,399950,306743,2.74,,,2017-11-21,2017-11-21,
+http://opendatacommunities.org/id/district-council/south-staffordshire,PK/165,392241,313067,5.52,,,2017-11-21,2017-11-21,
+http://opendatacommunities.org/id/district-council/south-staffordshire,WM/234,386422,292948,1.06,,,2017-11-21,2017-11-21,
+http://opendatacommunities.org/id/district-council/south-staffordshire,AC/82,396674,317135,0.7,,,2017-11-21,2017-11-21,
+http://opendatacommunities.org/id/district-council/south-staffordshire,SHLAA Site 141,399251,307492,1.2,,,2017-11-21,2017-11-21,
+http://opendatacommunities.org/id/district-council/south-staffordshire,SHLAA Site 228,386929,303191,0.7,,,2017-11-21,2017-11-21,

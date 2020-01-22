@@ -1,8 +1,8 @@
-entry-date,organisation,site,latitude,longitude,hectares,start-date,end-date,resource
-2017-12-18,http://opendatacommunities.org/id/district-council/north-norfolk,BLR01,52.93284541,1.286255367,1.03,2017-12-18,,232c6cab386276d5fbd262f6e0cd04571e1ba8f51d7faa9bd5baa75131ac04fb
-2017-12-18,http://opendatacommunities.org/id/district-council/north-norfolk,BLR02,52.83630874,0.850794989,0.21,2017-12-18,,232c6cab386276d5fbd262f6e0cd04571e1ba8f51d7faa9bd5baa75131ac04fb
-2017-12-18,http://opendatacommunities.org/id/district-council/north-norfolk,BLR03,52.82416259,1.380457263,0.82,2017-12-18,,232c6cab386276d5fbd262f6e0cd04571e1ba8f51d7faa9bd5baa75131ac04fb
-2017-12-18,http://opendatacommunities.org/id/district-council/north-norfolk,BLR04,52.82819059,1.401852538,1.09,2017-12-18,,232c6cab386276d5fbd262f6e0cd04571e1ba8f51d7faa9bd5baa75131ac04fb
-2017-12-18,http://opendatacommunities.org/id/district-council/north-norfolk,BLR05,52.82080451,1.39212061,0.54,2017-12-18,,232c6cab386276d5fbd262f6e0cd04571e1ba8f51d7faa9bd5baa75131ac04fb
-2017-12-15,http://opendatacommunities.org/id/district-council/north-norfolk,BLR06,52.93776455,1.204369073,0.44,2017-12-18,,232c6cab386276d5fbd262f6e0cd04571e1ba8f51d7faa9bd5baa75131ac04fb
-2017-12-18,http://opendatacommunities.org/id/district-council/north-norfolk,BLR07,52.73939625,1.534578133,0.26,2017-12-18,,232c6cab386276d5fbd262f6e0cd04571e1ba8f51d7faa9bd5baa75131ac04fb
+entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2017-12-18,http://opendatacommunities.org/id/district-council/north-norfolk,BLR01,52.93284541,1.286255367,1.03,25,29,2017-12-18,,232c6cab386276d5fbd262f6e0cd04571e1ba8f51d7faa9bd5baa75131ac04fb
+2017-12-18,http://opendatacommunities.org/id/district-council/north-norfolk,BLR02,52.83630874,0.850794989,0.21,,,2017-12-18,,232c6cab386276d5fbd262f6e0cd04571e1ba8f51d7faa9bd5baa75131ac04fb
+2017-12-18,http://opendatacommunities.org/id/district-council/north-norfolk,BLR03,52.82416259,1.380457263,0.82,20,23,2017-12-18,,232c6cab386276d5fbd262f6e0cd04571e1ba8f51d7faa9bd5baa75131ac04fb
+2017-12-18,http://opendatacommunities.org/id/district-council/north-norfolk,BLR04,52.82819059,1.401852538,1.09,,,2017-12-18,,232c6cab386276d5fbd262f6e0cd04571e1ba8f51d7faa9bd5baa75131ac04fb
+2017-12-18,http://opendatacommunities.org/id/district-council/north-norfolk,BLR05,52.82080451,1.39212061,0.54,,,2017-12-18,,232c6cab386276d5fbd262f6e0cd04571e1ba8f51d7faa9bd5baa75131ac04fb
+2017-12-15,http://opendatacommunities.org/id/district-council/north-norfolk,BLR06,52.93776455,1.204369073,0.44,,,2017-12-18,,232c6cab386276d5fbd262f6e0cd04571e1ba8f51d7faa9bd5baa75131ac04fb
+2017-12-18,http://opendatacommunities.org/id/district-council/north-norfolk,BLR07,52.73939625,1.534578133,0.26,,,2017-12-18,,232c6cab386276d5fbd262f6e0cd04571e1ba8f51d7faa9bd5baa75131ac04fb

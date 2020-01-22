@@ -1,7 +1,7 @@
-entry-date,organisation,site,latitude,longitude,hectares,start-date,end-date,resource
-,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR001,195684,594967,0.06,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
-,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR003,211067,589774,0.27,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
-,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR005,211067,589774,2.07,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
-,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR006,209063,587047,0.3,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
-,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR007,208126,585426,0.1,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
-,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR008,210580,595719,0.39,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
+entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR001,195684,594967,0.06,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
+,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR003,211067,589774,0.27,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
+,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR005,211067,589774,2.07,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
+,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR006,209063,587047,0.3,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
+,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR007,208126,585426,0.1,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
+,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR008,210580,595719,0.39,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd

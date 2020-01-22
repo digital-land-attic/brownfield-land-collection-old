@@ -1,29 +1,29 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/braintree,BCBG144,0.563915,51.878839,2.13,2017-12-22,2018-12-22,
-http://opendatacommunities.org/id/district-council/braintree,BRS35,0.555406,51.868169,0.09,2017-12-22,2019-12-18,
-http://opendatacommunities.org/id/district-council/braintree,GRYE 275,0.562537,52.013376,2.19,2017-12-22,2019-12-18,2019-12-18
-http://opendatacommunities.org/id/district-council/braintree,15/01103/OUT,0.598066,51.776791,0.22,2017-12-22,2019-12-18,
-http://opendatacommunities.org/id/district-council/braintree,16/00850/FUL,0.637769,51.941767,0.3,2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/district-council/braintree,16/01525/OUT,0.440652,52.041388,0.84,2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/district-council/braintree,16/00661/FUL,0.543869,51.886136,0.14,2017-12-22,2019-12-18,
-http://opendatacommunities.org/id/district-council/braintree,17/01340/FUL,0.63265,51.943806,0.02,2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/district-council/braintree,16/00418/FUL,0.740376,51.862368,0.26,2017-12-22,2019-12-18,2019-12-18
-http://opendatacommunities.org/id/district-council/braintree,16/01470/FUL,0.439289,51.944817,0.41,2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/district-council/braintree,17/00119/OUT,0.59318,51.926796,0.48,2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/district-council/braintree,16/02096/OUT,0.589975,51.7783,3.83,2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/district-council/braintree,BOB1,0.552781,51.880304,0.33,2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/district-council/braintree,BRE17H,0.578255,51.871448,0.59,2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/district-council/braintree,BRC77,0.558907,51.875854,0.08,2017-12-22,2019-12-18,2019-12-18
-http://opendatacommunities.org/id/district-council/braintree,WITN425,0.637535,51.80647,0.41,2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/district-council/braintree,BRC34,0.555536,51.876107,0.22,2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/district-council/braintree,BOCS 700,0.557584,51.890164,1.69,2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/district-council/braintree,16/00211/FUL,0.549775,51.880082,0.18,2018-12-22,2019-12-18,
-http://opendatacommunities.org/id/district-council/braintree,18/01272/COUPA,0.563557,51.877642,0.06,2018-12-22,2018-12-22,
-http://opendatacommunities.org/id/district-council/braintree,18/00581/FUL,0.552284,51.876664,0.07,2018-12-22,2019-12-18,2019-12-18
-http://opendatacommunities.org/id/district-council/braintree,17/01894/FUL,0.561304,51.877889,0.07,2018-12-22,2019-12-18,2019-12-18
-http://opendatacommunities.org/id/district-council/braintree,BLAN 633,0.535404,51.860707,0.15,2018-12-22,2019-12-18,
-http://opendatacommunities.org/id/district-council/braintree,COGG 506,0.674767,51.869517,1.28,2019-12-18,2019-12-18,
-http://opendatacommunities.org/id/district-council/braintree,BRC6H,0.549213,51.879644,0.17,2019-12-18,2019-12-18,
-http://opendatacommunities.org/id/district-council/braintree,18/00601/FUL,0.550786,51.879457,0.03,2019-12-18,2019-12-18,
-http://opendatacommunities.org/id/district-council/braintree,18/00460/FUL,0.552354,51.876105,0.18,2019-12-18,2019-12-18,
-http://opendatacommunities.org/id/district-council/braintree,18/00011/FUL,0.637517,51.807163,0.08,2019-12-18,2019-12-18,
+OrganisationURI,SiteReference,GeoX,GeoY,Hectares,NetDwellingsRangeFrom,NetDwellingsRangeTo,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/braintree,BCBG144,0.563915,51.878839,2.13,74,74,2017-12-22,2018-12-22,
+http://opendatacommunities.org/id/district-council/braintree,BRS35,0.555406,51.868169,0.09,14,14,2017-12-22,2019-12-18,
+http://opendatacommunities.org/id/district-council/braintree,GRYE 275,0.562537,52.013376,2.19,60,60,2017-12-22,2019-12-18,2019-12-18
+http://opendatacommunities.org/id/district-council/braintree,15/01103/OUT,0.598066,51.776791,0.22,9,9,2017-12-22,2019-12-18,
+http://opendatacommunities.org/id/district-council/braintree,16/00850/FUL,0.637769,51.941767,0.3,22,22,2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/district-council/braintree,16/01525/OUT,0.440652,52.041388,0.84,9,9,2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/district-council/braintree,16/00661/FUL,0.543869,51.886136,0.14,9,9,2017-12-22,2019-12-18,
+http://opendatacommunities.org/id/district-council/braintree,17/01340/FUL,0.63265,51.943806,0.02,6,6,2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/district-council/braintree,16/00418/FUL,0.740376,51.862368,0.26,11,11,2017-12-22,2019-12-18,2019-12-18
+http://opendatacommunities.org/id/district-council/braintree,16/01470/FUL,0.439289,51.944817,0.41,8,8,2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/district-council/braintree,17/00119/OUT,0.59318,51.926796,0.48,8,8,2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/district-council/braintree,16/02096/OUT,0.589975,51.7783,3.83,145,145,2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/district-council/braintree,BOB1,0.552781,51.880304,0.33,16,16,2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/district-council/braintree,BRE17H,0.578255,51.871448,0.59,10,10,2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/district-council/braintree,BRC77,0.558907,51.875854,0.08,10,10,2017-12-22,2019-12-18,2019-12-18
+http://opendatacommunities.org/id/district-council/braintree,WITN425,0.637535,51.80647,0.41,30,30,2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/district-council/braintree,BRC34,0.555536,51.876107,0.22,10,10,2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/district-council/braintree,BOCS 700,0.557584,51.890164,1.69,30,30,2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/district-council/braintree,16/00211/FUL,0.549775,51.880082,0.18,12,12,2018-12-22,2019-12-18,
+http://opendatacommunities.org/id/district-council/braintree,18/01272/COUPA,0.563557,51.877642,0.06,8,8,2018-12-22,2018-12-22,
+http://opendatacommunities.org/id/district-council/braintree,18/00581/FUL,0.552284,51.876664,0.07,8,8,2018-12-22,2019-12-18,2019-12-18
+http://opendatacommunities.org/id/district-council/braintree,17/01894/FUL,0.561304,51.877889,0.07,5,5,2018-12-22,2019-12-18,2019-12-18
+http://opendatacommunities.org/id/district-council/braintree,BLAN 633,0.535404,51.860707,0.15,5,5,2018-12-22,2019-12-18,
+http://opendatacommunities.org/id/district-council/braintree,COGG 506,0.674767,51.869517,1.28,30,36,2019-12-18,2019-12-18,
+http://opendatacommunities.org/id/district-council/braintree,BRC6H,0.549213,51.879644,0.17,9,9,2019-12-18,2019-12-18,
+http://opendatacommunities.org/id/district-council/braintree,18/00601/FUL,0.550786,51.879457,0.03,6,6,2019-12-18,2019-12-18,
+http://opendatacommunities.org/id/district-council/braintree,18/00460/FUL,0.552354,51.876105,0.18,7,7,2019-12-18,2019-12-18,
+http://opendatacommunities.org/id/district-council/braintree,18/00011/FUL,0.637517,51.807163,0.08,10,10,2019-12-18,2019-12-18,
