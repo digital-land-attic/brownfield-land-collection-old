@@ -20,7 +20,7 @@ if __name__ == "__main__":
     writer = csv.DictWriter(open(sys.argv[2], "w", newline=""), fieldnames=fieldnames)
     writer.writeheader()
 
-    for path in glob.glob(sys.argv[1] + "*.csv"):
+    for path in sorted(glob.glob(sys.argv[1] + "*.csv")):
         resource = os.path.basename(os.path.splitext(path)[0])
 
         for row in csv.DictReader(open(path, newline="")):

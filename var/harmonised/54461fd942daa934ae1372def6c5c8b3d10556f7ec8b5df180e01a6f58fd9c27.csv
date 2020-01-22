@@ -1,1 +1,1 @@
-OrganisationURI,SiteReference,GeoX,GeoY,Hectares,NetDwellingsRangeFrom,NetDwellingsRangeTo,FirstAddedDate,LastUpdatedDate,EndDate
+OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,Deliverable,NetDwellingsRangeFrom,NetDwellingsRangeTo,HazardousSubstances,Notes,FirstAddedDate,LastUpdatedDate,EndDate

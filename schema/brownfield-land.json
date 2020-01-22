@@ -16,7 +16,12 @@
                     "LPA URL",
                     "OPEN DATA WEBSITE",
                     "Organisati"
-                ]
+                ],
+                "field": "organisation",
+                "values": {
+                  "dataset": "organisation",
+                  "key": "opendatacommunities"
+                }
             }
         },
         {
