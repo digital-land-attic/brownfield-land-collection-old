@@ -25,10 +25,9 @@ Each collected resource is processed, creating a file with the same basename as 
 The collected resources are then processed in the following pipeline:
 
 * [var/converted](var/converted) -- the resource converted into UTF-8 encoded CSV
-* [var/normalised](var/normalised) -- removed padding, drop
-* [var/mapped](var/mapped) -- consistent column names
+* [var/normalised](var/normalised) -- removed padding, drop obviously spurious rows
 * [var/harmonised](var/harmonised) -- dates, geospatial, and other values translated into a consistent format
-* [var/translated](var/translated) -- translated into a digital-land data model
+* [var/transformed](var/transformed) -- transformed into the digital-land dataset model
 
 # Indexes
 
