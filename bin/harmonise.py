@@ -6,11 +6,16 @@
 #  -- log fixes as suggestions for the user to amend
 #
 
+import os
 import sys
 import re
 import csv
 import json
 from datetime import datetime
+import logging
+
+path = sys.argv[1]
+resource = os.path.basename(os.path.splitext(path)[0])
 
 schema = json.load(open("schema/brownfield-land.json"))
 fields = {field["name"]: field for field in schema["fields"]}
@@ -18,8 +23,12 @@ fieldnames = fields.keys()
 
 pattern = re.compile(r"[^a-z0-9]")
 
+def log_issue(field, fieldtype, value):
+    # TBD: log to file for reporting
+    logging.info("cannot process %s as a %s: \"%s\"" % (field, fieldtype, value))
 
-def normalise_date(value):
+
+def normalise_date(context, value):
     value = value.strip(' ",')
 
     # all of these patterns have been used!
@@ -58,10 +67,11 @@ def normalise_date(value):
         except ValueError:
             pass
 
+    log_issue(field, "date", value)
     return ""
 
 
-def normalise_uri(value):
+def normalise_uri(field, value):
     # some URIs have line-breaks and spaces
     return "".join(value.split())
 
@@ -73,10 +83,10 @@ def normalise(fieldname, value):
     field = fields[fieldname]
 
     if field.get("format", "") == "uri":
-        return normalise_uri(value)
+        return normalise_uri(fieldname, value)
 
     if field.get("type", "") == "date":
-        return normalise_date(value)
+        return normalise_date(fieldname, value)
 
     return value
 
@@ -86,6 +96,9 @@ def name(name):
 
 
 if __name__ == "__main__":
+    logging.basicConfig(
+        level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
+    )
 
     # index of typos
     typos = {}
@@ -98,7 +111,7 @@ if __name__ == "__main__":
             for typo in field["digital-land"].get("typos", []):
                 typos[name(typo)] = fieldname
 
-    reader = csv.DictReader(open(sys.argv[1], newline=""))
+    reader = csv.DictReader(open(path, newline=""))
 
     # build index of read headers
     headers = {}
