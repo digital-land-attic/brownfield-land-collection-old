@@ -1,0 +1,20 @@
+row-number,field,datatype,value
+5,PermissionDate,date,27/11/2013|04/11/2015
+8,PermissionDate,date,11/10/2012|10/03/2014|01/07/2016
+9,PermissionDate,date,24/04/2014| 10/09/2014
+22,PermissionDate,date,09/12/2002|10/10/2014
+49,PermissionDate,date,22/08/2011|14/10/2014|08/09/2016
+61,PermissionDate,date,12/02/2013|09/06/2014|16/11/2016
+69,PermissionDate,date,14/03/2014| 27/01/2015|16/3/2017
+70,PermissionDate,date,11/10/2013|03/12/2015
+77,PermissionDate,date,07/09/2015|22/12/2016
+82,PermissionDate,date,05/12/2014|20/10/2016
+83,PermissionDate,date,08/11/2010| 22/08/2014
+89,PermissionDate,date,31/01/2014|12/12/2016
+92,PermissionDate,date,11/03/2015|02/11/2016
+101,PermissionDate,date,20/05/2013|31/03/2016|23/12/2016
+110,PermissionDate,date,15/11/2016|06/02/2017
+132,PermissionDate,date,31/03/2014|15/12/2016
+137,PermissionDate,date,ALA
+169,PermissionDate,date,14/08/2013|31/01/2017
+186,PermissionDate,date,20/07/2009|06/12/2012

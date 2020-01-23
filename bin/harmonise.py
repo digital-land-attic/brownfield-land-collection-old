@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 #
-#  fix obvious issues in a brownfield land CSV
-#  -- make it valid according to the 2019 guidance
+#  normalise values by type defined in the schema
+#  -- output is valid according to the 2019 guidance
 #  -- log fixes as suggestions for the user to amend
 #
 
@@ -12,21 +12,31 @@ import re
 import csv
 import json
 from datetime import datetime
-import logging
 
-path = sys.argv[1]
-resource = os.path.basename(os.path.splitext(path)[0])
 
-schema = json.load(open("schema/brownfield-land.json"))
+input_path = sys.argv[1]
+output_path = sys.argv[2]
+schema_path = sys.argv[3]
+log_path = sys.argv[4]
+
+resource = os.path.basename(os.path.splitext(input_path)[0])
+
+schema = json.load(open(schema_path))
 fields = {field["name"]: field for field in schema["fields"]}
-fieldnames = fields.keys()
+fieldnames = [field["name"] for field in schema["fields"]]
 
-pattern = re.compile(r"[^a-z0-9]")
+log_fieldnames = ["row-number", "field", "datatype", "value"]
+log_writer = csv.DictWriter(
+    open(log_path, "w", newline=""), fieldnames=log_fieldnames
+)
+log_writer.writeheader()
+row_number = 0
 
 
-def log_issue(field, fieldtype, value):
-    # TBD: log to file for reporting
-    logging.info('cannot process %s as a %s: "%s"' % (field, fieldtype, value))
+def log_issue(field, datatype, value):
+    log_writer.writerow(
+        {"field": field, "datatype": datatype, "value": value, "row-number": row_number}
+    )
 
 
 def normalise_date(context, value):
@@ -51,6 +61,7 @@ def normalise_date(context, value):
         "%d-%m-%Y",
         "%d-%m-%y",
         "%d-%m-%Y",
+        "%d.%m.%Y",
         "%d.%m.%y",
         "%d/%m/%Y",
         "%d/%m/%y",
@@ -92,42 +103,17 @@ def normalise(fieldname, value):
     return value
 
 
-def name(name):
-    return re.sub(pattern, "", name.lower())
-
-
 if __name__ == "__main__":
-    logging.basicConfig(
-        level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
-    )
+    reader = csv.DictReader(open(input_path, newline=""))
 
-    # index of typos
-    typos = {}
-    for fieldname in fieldnames:
-        field = fields[fieldname]
-        typos[name(fieldname)] = fieldname
-        if "title" in field:
-            typos[name(field["title"])] = fieldname
-        if "digital-land" in field:
-            for typo in field["digital-land"].get("typos", []):
-                typos[name(typo)] = fieldname
-
-    reader = csv.DictReader(open(path, newline=""))
-
-    # build index of read headers
-    headers = {}
-    for field in reader.fieldnames:
-        if name(field) in typos:
-            headers[field] = typos[name(field)]
-
-    with open(sys.argv[2], "w", newline="") as f:
+    with open(output_path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
 
         for row in reader:
+            row_number += 1
             o = {}
-            for header in headers:
-                field = headers[header]
-                o[field] = normalise(field, row[header])
+            for field in fieldnames:
+                o[field] = normalise(field, row[field])
 
             writer.writerow(o)
