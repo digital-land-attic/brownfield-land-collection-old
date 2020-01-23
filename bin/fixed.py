@@ -12,4 +12,4 @@ writer.writeheader()
 
 for path in sorted(glob.glob("fixed/*.csv")):
     resource = os.path.basename(os.path.splitext(path)[0])
-    writer.writerow({ "resource": resource })
+    writer.writerow({"resource": resource})

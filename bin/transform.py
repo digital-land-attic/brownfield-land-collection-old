@@ -37,8 +37,8 @@ if __name__ == "__main__":
 
         for row in reader:
             o = {}
-            row['resource'] = resource
-            row['organisation'] = row["OrganisationURI"]
+            row["resource"] = resource
+            row["organisation"] = row["OrganisationURI"]
             for field in fieldnames:
                 o[field] = row[fields[field]]
 

@@ -23,9 +23,10 @@ fieldnames = fields.keys()
 
 pattern = re.compile(r"[^a-z0-9]")
 
+
 def log_issue(field, fieldtype, value):
     # TBD: log to file for reporting
-    logging.info("cannot process %s as a %s: \"%s\"" % (field, fieldtype, value))
+    logging.info('cannot process %s as a %s: "%s"' % (field, fieldtype, value))
 
 
 def normalise_date(context, value):
