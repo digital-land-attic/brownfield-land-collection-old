@@ -57,7 +57,7 @@ These indexes are used by the [dataset](https://github.com/digital-land/brownfie
 
 # Manual fixes
 
-Resources which cannot be automatically processed are fixed by the team using the following data:
+Resources which cannot be automatically processed are fixed manually using the following configuration and data:
 
 * [fixed](fixed) -- manually fixed resources introduced into the pipeline instead of the collected resource
 * [patches/organisation.csv](patches/organisation) -- a map of OrganisationURI to organisation CURIE values
