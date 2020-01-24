@@ -14,30 +14,23 @@ The [collection](collection) directory contains resources collected from sources
 * [collection/log](collection/log) -- log entries by date (sha256 hash of the URL)
 * [collection/resource](collection/resource) -- collected files (sha256 of the contents)
 
-# Validation
-
-Each collected resource is processed, and validated against the [frictionless data schema](https://frictionlessdata.io/specs/table-schema/):
-
-* [schema/brownfield-land.json](schema/brownfield-land.json) file.
-
-the results are stored in the [validation](validation) directory.
-
 # Processing pipeline
 
 The collected resources are then processed in a pipeline:
 
 * [var/converted](var/converted) -- the resource converted into UTF-8 encoded CSV
 * [var/normalised](var/normalised) -- removed padding, drop obviously spurious rows
+* [var/mapped](var/mapped) -- column names mapped to ones in the schema
 * [var/harmonised](var/harmonised) -- dates, geospatial, and other values translated into a consistent format
 * [var/transformed](var/transformed) -- transformed into the digital-land dataset model
 
 # Dataset
 
-The collection is then collated into a register for each organisation, and a national dataset:
+The collection is then collated into a national dataset:
 
 * [index/dataset.csv](index/dataset.csv)
 
-which has the following fields, consistent with other datasets published by digital land:
+which has the following fields, to be consistent with other datasets published by digital land:
 
 * entry-date
 * organisation -- the curie for the organisation
@@ -62,12 +55,16 @@ A number of index files are generated for the collection:
 
 These indexes are used by the [dataset](https://github.com/digital-land/brownfield-land/) and other code to build the [dataset](https://digital-land.github.io/dataset/brownfield-land/), [resource](https://digital-land.github.io/resource/), and other pages.
 
-# Manually fixed files
+# Manual fixes
 
-Resources which are PDF documents or other formats which cannot be processable are fixed by the team:
-hand, and are introduced into the pipeline instead of the collected resource:
+Resources which cannot be automatically processed are fixed by the team using the following data:
 
-* [fixed](fixed) -- manually fixed resources
+* [fixed](fixed) -- manually fixed resources introduced into the pipeline instead of the collected resource
+* [patches/organisation.csv](patches/organisation) -- a map of OrganisationURI to organisation CURIE values
+
+# Validation
+
+Each collected resource is tested for conformance to the [schema](schema/brownfield-land.json) which is a [frictionless data schema](https://frictionlessdata.io/specs/table-schema/) with extensions to support the pipeline. The results of validation are stored in the [validation](validation) directory, and included in the indexes.
 
 # Updating the collection
 
