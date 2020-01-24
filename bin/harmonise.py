@@ -13,7 +13,6 @@ import csv
 import json
 from datetime import datetime
 
-
 input_path = sys.argv[1]
 output_path = sys.argv[2]
 schema_path = sys.argv[3]
@@ -25,10 +24,10 @@ schema = json.load(open(schema_path))
 fields = {field["name"]: field for field in schema["fields"]}
 fieldnames = [field["name"] for field in schema["fields"]]
 
+organisation_uri = {}
+
 log_fieldnames = ["row-number", "field", "datatype", "value"]
-log_writer = csv.DictWriter(
-    open(log_path, "w", newline=""), fieldnames=log_fieldnames
-)
+log_writer = csv.DictWriter(open(log_path, "w", newline=""), fieldnames=log_fieldnames)
 log_writer.writeheader()
 row_number = 0
 
@@ -39,8 +38,54 @@ def log_issue(field, datatype, value):
     )
 
 
-def normalise_date(context, value):
-    value = value.strip(' ",')
+def lower_uri(value):
+    return "".join(value.split()).lower()
+
+
+def end_of_uri(value):
+    return re.sub(r".*/", "", value.rstrip("/").lower())
+
+
+def load_organisations():
+    organisation = {}
+    for row in csv.DictReader(open("var/cache/organisation.csv", newline="")):
+        organisation[row["organisation"]] = row
+        if "opendatacommunities" in row:
+            uri = row["opendatacommunities"].lower()
+            organisation_uri[uri] = uri
+            organisation_uri[end_of_uri(uri)] = uri
+            organisation_uri[row["statistical-geography"].lower()] = uri
+            if "local-authority-eng" in row["organisation"]:
+                dl_url = "https://digital-land.github.io/organisation/%s/" % (
+                    row["organisation"]
+                )
+                dl_url = dl_url.lower().replace("-eng:", "-eng/")
+                organisation_uri[dl_url] = uri
+
+    for row in csv.DictReader(open("patch/organisation.csv", newline="")):
+        value = lower_uri(row["value"])
+        if row["organisation"]:
+            organisation_uri[value] = organisation[row["organisation"]][
+                "opendatacommunities"
+            ]
+
+
+def normalise_organisation_uri(field, fieldvalue):
+    value = lower_uri(fieldvalue)
+
+    if value in organisation_uri:
+        return organisation_uri[value]
+
+    s = end_of_uri(value)
+    if s in organisation_uri:
+        return organisation_uri[s]
+
+    log_issue(field, "opendatacommunities-uri", fieldvalue)
+    return ""
+
+
+def normalise_date(context, fieldvalue):
+    value = fieldvalue.strip(' ",')
 
     # all of these patterns have been used!
     for pattern in [
@@ -53,7 +98,7 @@ def normalise_date(context, value):
         "%Y/%m/%d",
         "%Y %m %d",
         "%Y.%m.%d",
-        "%Y-%d-%m",
+        "%Y-%d-%m",  # risky!
         "%Y",
         "%Y.0",
         "%d/%m/%Y %H:%M:%S",
@@ -65,13 +110,13 @@ def normalise_date(context, value):
         "%d.%m.%y",
         "%d/%m/%Y",
         "%d/%m/%y",
-        "%m/%d/%Y",
         "%d-%b-%Y",
         "%d-%b-%y",
         "%d %B %Y",
         "%b %d, %Y",
         "%b %d, %y",
         "%b-%y",
+        "%m/%d/%Y",  # risky!
     ]:
         try:
             date = datetime.strptime(value, pattern)
@@ -79,7 +124,7 @@ def normalise_date(context, value):
         except ValueError:
             pass
 
-    log_issue(field, "date", value)
+    log_issue(field, "date", fieldvalue)
     return ""
 
 
@@ -94,6 +139,9 @@ def normalise(fieldname, value):
 
     field = fields[fieldname]
 
+    if fieldname == "OrganisationURI":
+        return normalise_organisation_uri(fieldname, value)
+
     if field.get("format", "") == "uri":
         return normalise_uri(fieldname, value)
 
@@ -105,6 +153,8 @@ def normalise(fieldname, value):
 
 if __name__ == "__main__":
     reader = csv.DictReader(open(input_path, newline=""))
+
+    load_organisations()
 
     with open(output_path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)

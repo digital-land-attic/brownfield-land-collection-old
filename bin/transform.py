@@ -10,12 +10,22 @@ import sys
 import csv
 import json
 
+input_path = sys.argv[1]
+output_path = sys.argv[2]
+schema_path = sys.argv[3]
+
+schema = json.load(open("schema/brownfield-land.json"))
+
 
 if __name__ == "__main__":
 
-    # TBD: make this a command-line option
-    schema = json.load(open("schema/brownfield-land.json"))
+    # map of OrganisationURI to organisation CURIE
+    organisation = {}
+    for row in csv.DictReader(open("var/cache/organisation.csv", newline="")):
+        if "opendatacommunities" in row:
+            organisation[row["opendatacommunities"]] = row["organisation"]
 
+    # map of harmonised fields to digital-land fields
     fieldnames = schema["digital-land"]["fields"]
     fields = {
         field["digital-land"]["field"]: field["name"]
@@ -26,19 +36,17 @@ if __name__ == "__main__":
         if not field in fields:
             fields[field] = field
 
-    path = sys.argv[1]
-    resource = os.path.basename(os.path.splitext(path)[0])
+    resource = os.path.basename(os.path.splitext(input_path)[0])
+    reader = csv.DictReader(open(input_path, newline=""))
 
-    reader = csv.DictReader(open(path, newline=""))
-
-    with open(sys.argv[2], "w", newline="") as f:
+    with open(output_path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
 
         for row in reader:
             o = {}
             row["resource"] = resource
-            row["organisation"] = row["OrganisationURI"]
+            row["OrganisationURI"] = organisation[row["OrganisationURI"]]
             for field in fieldnames:
                 o[field] = row[fields[field]]
 

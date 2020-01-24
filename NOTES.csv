@@ -47,3 +47,4 @@ ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be,one row has mis
 2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab,OrganisationURI is "For more information visit the Government's open data website: http://opendatacommunities.ord/id/london-borough-council/lewisham"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,OrganisationURL [sic] is "Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 68e1c58d69de37d3f39b10191eb44733289ad38618d1bb0f51967776e5c9d776,mostly good, but has an entry with an OrganisationURI of "BLR"
+0a2acb3630049c97f654ba03d73bd03261a00ec702ff5e8403433afef412e84f,published by Stafford, has sites with old OrganisationURI values eg http://opendatacommunities.org/id/geography/administration/nmd/E07000230 - Kennet, disolved in 2009 https://en.wikipedia.org/wiki/Kennet_District
