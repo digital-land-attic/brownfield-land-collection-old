@@ -51,6 +51,7 @@ A number of index files are generated for the collection:
 * [index/link.csv](index/link.csv) -- url, link (hash)
 * [index/log.csv](index/log.csv) -- datetime, link, resource, HTTP status, content-type, elapsed time
 * [index/resource.csv](index/resource.csv) -- resource (hash), media-type, suffix, row-count, error-count
+* [index/issue.csv](index/issue.csv) -- resource, row-number, field and value which can't be processed
 * [collection/index.json](collection/index.json) -- the entire index in a single JSON file
 
 These indexes are used by the [dataset](https://github.com/digital-land/brownfield-land/) and other code to build the [dataset](https://digital-land.github.io/dataset/brownfield-land/), [resource](https://digital-land.github.io/resource/), and other pages.
