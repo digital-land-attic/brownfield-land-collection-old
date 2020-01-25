@@ -12,6 +12,13 @@ import re
 import csv
 import json
 from datetime import datetime
+from pyproj import Transformer
+from decimal import Decimal
+
+# convert from OSGB to WGS84
+# https://epsg.io/27700
+# https://epsg.io/4326
+osgb_to_wgs84 = Transformer.from_crs(27700, 4326)
 
 input_path = sys.argv[1]
 output_path = sys.argv[2]
@@ -36,6 +43,55 @@ def log_issue(field, datatype, value):
     log_writer.writerow(
         {"field": field, "datatype": datatype, "value": value, "row-number": row_number}
     )
+
+
+def normalise_decimal(field, value):
+    try:
+        d = Decimal(value)
+    except Exception as e:
+        log_issue(field, "decimal", value)
+        return ''
+    return d
+
+
+def within_england(geox, geoy):
+    return geoy > 49.5 and geoy < 56.0 and geox > -7.0 and geox < 2
+
+
+# TBD: also try values from Eastings/Northings fields
+def normalise_geometry(row):
+    row_geox = row["GeoX"]
+    row_geoy = row["GeoY"]
+
+    if row_geox == "" or row_geoy == "":
+        return row
+
+    row["GeoX"] = row["GeoY"] = ""
+
+    if row_geox == "" or row_geoy == "":
+        return row
+
+    geox = normalise_decimal("GeoX", row_geox)
+    geoy = normalise_decimal("GeoY", row_geoy)
+
+    if isinstance(geox, str) or isinstance(geoy, str):
+        return row
+
+    if within_england(geox, geoy):
+        lon, lat = geox, geoy
+    elif within_england(geoy, geox):
+        lon, lat = geoy, geox
+    else:
+        lat, lon = osgb_to_wgs84.transform(geox, geoy)
+        if not within_england(lon, lat):
+            lat, lon = osgb_to_wgs84.transform(geoy, geox)
+            if not within_england(lon, lat):
+                log_issue("GeoX,GeoY", "OSGB", ",".join([row_geox, row_geoy]))
+                return row
+
+    row["GeoX"] = "%.6f" % lon
+    row["GeoY"] = "%.6f" % lat
+    return row
 
 
 def lower_uri(value):
@@ -165,5 +221,7 @@ if __name__ == "__main__":
             o = {}
             for field in fieldnames:
                 o[field] = normalise(field, row[field])
+
+            o = normalise_geometry(o)
 
             writer.writerow(o)
