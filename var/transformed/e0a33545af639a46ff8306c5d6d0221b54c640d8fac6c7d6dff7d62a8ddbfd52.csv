@@ -1,8 +1,8 @@
 entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-11-09,http://opendatacommunities.org/id/district-council/richmondshire,SHLAA120,497851,417542,0.85,,,2017-11-09,,e0a33545af639a46ff8306c5d6d0221b54c640d8fac6c7d6dff7d62a8ddbfd52
-2017-11-09,http://opendatacommunities.org/id/district-council/richmondshire,SHLAA157,498018,420699,6.78,,,2017-11-09,,e0a33545af639a46ff8306c5d6d0221b54c640d8fac6c7d6dff7d62a8ddbfd52
-2017-11-09,http://opendatacommunities.org/id/district-council/richmondshire,SHLAA185,498338,420839,0.9,20,25,2017-11-09,,e0a33545af639a46ff8306c5d6d0221b54c640d8fac6c7d6dff7d62a8ddbfd52
-2017-11-09,http://opendatacommunities.org/id/district-council/richmondshire,SHLAA186,498423,420836,0.56,15,20,2017-11-09,,e0a33545af639a46ff8306c5d6d0221b54c640d8fac6c7d6dff7d62a8ddbfd52
-2017-11-09,http://opendatacommunities.org/id/district-council/richmondshire,SHLAA228,501036,417040,0.06,,,2017-11-09,,e0a33545af639a46ff8306c5d6d0221b54c640d8fac6c7d6dff7d62a8ddbfd52
-2017-11-09,http://opendatacommunities.org/id/district-council/richmondshire,SHLAA307,493040,419238,0.05,,,2017-11-09,,e0a33545af639a46ff8306c5d6d0221b54c640d8fac6c7d6dff7d62a8ddbfd52
-2017-11-09,http://opendatacommunities.org/id/district-council/richmondshire,SHLAA153,508777,423006,0.15,,,2017-11-09,,e0a33545af639a46ff8306c5d6d0221b54c640d8fac6c7d6dff7d62a8ddbfd52
+2017-11-09,local-authority-eng:RIH,SHLAA120,54.375864,-1.731460,0.85,,,2017-11-09,,e0a33545af639a46ff8306c5d6d0221b54c640d8fac6c7d6dff7d62a8ddbfd52
+2017-11-09,local-authority-eng:RIH,SHLAA157,54.377247,-1.682850,6.78,,,2017-11-09,,e0a33545af639a46ff8306c5d6d0221b54c640d8fac6c7d6dff7d62a8ddbfd52
+2017-11-09,local-authority-eng:RIH,SHLAA185,54.380117,-1.680673,0.9,20,25,2017-11-09,,e0a33545af639a46ff8306c5d6d0221b54c640d8fac6c7d6dff7d62a8ddbfd52
+2017-11-09,local-authority-eng:RIH,SHLAA186,54.380881,-1.680713,0.56,15,20,2017-11-09,,e0a33545af639a46ff8306c5d6d0221b54c640d8fac6c7d6dff7d62a8ddbfd52
+2017-11-09,local-authority-eng:RIH,SHLAA228,54.404504,-1.739007,0.06,,,2017-11-09,,e0a33545af639a46ff8306c5d6d0221b54c640d8fac6c7d6dff7d62a8ddbfd52
+2017-11-09,local-authority-eng:RIH,SHLAA307,54.332566,-1.705661,0.05,,,2017-11-09,,e0a33545af639a46ff8306c5d6d0221b54c640d8fac6c7d6dff7d62a8ddbfd52
+2017-11-09,local-authority-eng:RIH,SHLAA153,54.473838,-1.646505,0.15,,,2017-11-09,,e0a33545af639a46ff8306c5d6d0221b54c640d8fac6c7d6dff7d62a8ddbfd52

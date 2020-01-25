@@ -1,14 +1,33 @@
 row-number,field,datatype,value
+1,GeoX,decimal,ETRS89
+2,GeoX,decimal,ETRS89
+3,GeoX,decimal,ETRS89
+4,GeoX,decimal,ETRS89
+5,GeoX,decimal,ETRS89
 6,PermissionDate,date,full planning permission
+6,GeoX,decimal,ETRS89
 7,PermissionDate,date,full planning permission
+7,GeoX,decimal,ETRS89
 8,PermissionDate,date,full planning permission
+8,GeoX,decimal,ETRS89
 9,PermissionDate,date,full planning permission
+9,GeoX,decimal,ETRS89
 10,PermissionDate,date,full planning permission
+10,GeoX,decimal,ETRS89
 11,PermissionDate,date,full planning permission
+11,GeoX,decimal,ETRS89
 12,PermissionDate,date,full planning permission
+12,GeoX,decimal,ETRS89
 13,PermissionDate,date,full planning permission
+13,GeoX,decimal,ETRS89
 14,PermissionDate,date,-0.330961
+14,GeoX,decimal,North Street
+14,GeoY,decimal,Leatherhead
 15,PermissionDate,date,full planning permission
+15,GeoX,decimal,ETRS89
 16,PermissionDate,date,outline planning permission
+16,GeoX,decimal,ETRS89
 17,PermissionDate,date,full planning permission
+17,GeoX,decimal,ETRS89
 18,PermissionDate,date,full planning permission
+18,GeoX,decimal,ETRS89

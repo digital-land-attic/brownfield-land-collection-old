@@ -1,4 +1,4 @@
 entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-06,http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/15,149535,271988,0.33,10,10,2017-12-06,,a3723c73e694653e155aaa7a2eecbdc42eaf05a330157feba4c42b485c5a4cd1
-2017-12-06,http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/2,149286,272078,0.41,16,16,2017-12-06,,a3723c73e694653e155aaa7a2eecbdc42eaf05a330157feba4c42b485c5a4cd1
-2017-12-06,http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/38,149487,272488,0.51,,,2017-12-06,,a3723c73e694653e155aaa7a2eecbdc42eaf05a330157feba4c42b485c5a4cd1
+2017-12-06,national-park-authority:Q72617784,SHA/LYN/15,51.230602,-3.834822,0.33,10,10,2017-12-06,,a3723c73e694653e155aaa7a2eecbdc42eaf05a330157feba4c42b485c5a4cd1
+2017-12-06,national-park-authority:Q72617784,SHA/LYN/2,51.228385,-3.833445,0.41,16,16,2017-12-06,,a3723c73e694653e155aaa7a2eecbdc42eaf05a330157feba4c42b485c5a4cd1
+2017-12-06,national-park-authority:Q72617784,SHA/LYN/38,51.230283,-3.827648,0.51,,,2017-12-06,,a3723c73e694653e155aaa7a2eecbdc42eaf05a330157feba4c42b485c5a4cd1

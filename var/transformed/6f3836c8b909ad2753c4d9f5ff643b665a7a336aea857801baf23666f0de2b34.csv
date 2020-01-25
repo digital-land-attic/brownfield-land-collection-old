@@ -1,6 +1,6 @@
 entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-22,http://opendatacommunities.org/id/unitary-authority/rutland,LPR/GLA/01 (part of),52.59301218,-0.67535257,0.27,10,12,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
-2017-12-22,http://opendatacommunities.org/id/unitary-authority/rutland,Policy SP2. site H7,52.63468631,-0.54492928,1.31,37,45,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
-2017-12-22,http://opendatacommunities.org/id/unitary-authority/rutland,LPR/MOR/01 (part of),52.59350978,-0.63248081,0.18,1,5,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
-2017-12-22,http://opendatacommunities.org/id/unitary-authority/rutland,LPR/NOR/02,52.62106398,-0.62015999,0.21,6,8,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
-2017-12-22,http://opendatacommunities.org/id/unitary-authority/rutland,LPR/TIN/01 (part of),52.64685798,-0.51351704,0.18,5,6,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
+2017-12-22,local-authority-eng:RUT,LPR/GLA/01 (part of),52.593012,-0.675353,0.27,10,12,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
+2017-12-22,local-authority-eng:RUT,Policy SP2. site H7,52.634686,-0.544929,1.31,37,45,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
+2017-12-22,local-authority-eng:RUT,LPR/MOR/01 (part of),52.593510,-0.632481,0.18,1,5,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
+2017-12-22,local-authority-eng:RUT,LPR/NOR/02,52.621064,-0.620160,0.21,6,8,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
+2017-12-22,local-authority-eng:RUT,LPR/TIN/01 (part of),52.646858,-0.513517,0.18,5,6,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34

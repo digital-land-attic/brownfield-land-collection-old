@@ -7,3 +7,4 @@ row-number,field,datatype,value
 7,PermissionDate,date,n/a
 8,PermissionDate,date,n/a
 9,PermissionDate,date,n/a
+30,"GeoX,GeoY",OSGB,"5399093,144590"

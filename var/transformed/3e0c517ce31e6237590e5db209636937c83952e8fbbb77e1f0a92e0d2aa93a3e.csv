@@ -1,7 +1,7 @@
 entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR001,195684,594967,0.06,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
-,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR002,206911,585381,0.02,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
-,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR003,211067,589774,0.27,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
-,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR004,207076,584590,0.24,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
-,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR005,211067,589774,2.07,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
-,http://opendatacommunities.org/doc/district-council/maldon,MDCBLR006,209063,587047,0.3,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
+,local-authority-eng:MAL,MDCBLR001,51.626186,0.815372,0.06,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
+,local-authority-eng:MAL,MDCBLR002,51.730257,0.683002,0.02,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
+,local-authority-eng:MAL,MDCBLR003,51.766112,0.748803,0.27,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
+,local-authority-eng:MAL,MDCBLR004,51.732000,0.671649,0.24,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
+,local-authority-eng:MAL,MDCBLR005,51.766112,0.748803,2.07,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
+,local-authority-eng:MAL,MDCBLR006,51.749031,0.708253,0.3,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e

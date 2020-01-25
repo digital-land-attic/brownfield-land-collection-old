@@ -1,49 +1,49 @@
 entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2018-12-21,http://opendatacommunities.org/doc/district-council/south-oxfordshire,P17/S4127/PDO,205232,472005,,45,45,2018-12-03,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2018-12-21,http://opendatacommunities.org/doc/district-council/south-oxfordshire,P17/S1865/FUL,205647,459479,,15,15,2018-12-03,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2018-12-21,http://opendatacommunities.org/doc/district-council/south-oxfordshire,P17/S3501/FUL,180365,471138,,6,6,2018-12-03,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P12/S1424/FUL,182795,475747,,97,97,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,"P15/S1880/O
-(SHELAA: 184)",191220,451174,,280,400,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P15/S2685/FUL,181342,464704,,20,20,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P16/S0375/FUL,182152,464903,,9,9,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P16/S1227/FUL,182380,475799,,23,23,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,"P16/S3922/FUL
-(SHELAA 200)",190162,463953,,6,6,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P16/S4117/FUL,200556,475084,,6,20,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,"P16/S4177/FUL
-(SHELAA 401)",185924,458080,,5,5,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P16/S4234/FUL,182995,476024,,6,6,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P17/S0259/FUL,175784,475388,,5,5,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,"P17/S3853/FUL
-(SHELAA 867)",183181,474686,,5,5,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P17/S2178/PDO,181922,476438,,5,5,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P17/S2446/FUL,181665,476662,,5,5,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,SHELAA: 1034,206017,460200,,0,300,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,SHELAA: 1050,183937,468159,,0,25,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,SHELAA: 1085,180837,459973,,0,8,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,SHELAA: 1195,196735,457420,,0,12,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,SHELAA: 148,180119,464692,,0,7,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P15/S2159/O (SHELAA: 185),190420,452553,,300,300,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2018-12-21,http://opendatacommunities.org/id/district-council/south-oxfordshire,P16/S3525/FUL (SHELAA: 202),206131,470664,,8,41,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,SHELAA: 274,190695,451752,,0,300,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P15/S3387/FUL (SHELAA: 302),188265,461193,,91,91,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P17/S2624/PDO (SHELAA: 308),205199,471943,,45,91,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P10/W0093 (SHELAA: 335),203077,460176,,8,8,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P15/S3848/FUL (SHELAA: 347),205743,471004,,29,29,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,SHELAA: 360,182464,475961,,0,42,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P15/S3385/FUL (SHELAA: 390),181640,476845,,64,64,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2018-12-21,http://opendatacommunities.org/id/district-council/south-oxfordshire,P16/S1514/FUL (SHELAA: 395),189262,460640,,22,22,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P16/S2593/FUL (SHELAA: 398),179518,477654,,16,16,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P16/S2932/FUL (SHELAA: 399),200640,458387,,10,10,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P17/S0322/O (SHELAA: 402),203264,465448,,5,5,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,SHELAA: 822,203326,458427,,0,29,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P16/S0375/FUL (SHELAA: 824),182142,464881,,9,9,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P17/S0024/RM (SHELAA: 853),181318,474192,,170,536,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,SHELAA: 869,181208,463992,,0,17,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,SHELAA: 870,196072,457078,,0,24,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,P11/W2357 (SHELAA: 940),187590,460948,,166,166,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,SHELAA: 949,182392,475297,,0,184,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,SHELAA: 979,205572,471763,,0,5,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,SHELAA: 991,181810,475139,,0,27,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
-2017-12-22,http://opendatacommunities.org/id/district-council/south-oxfordshire,SHELAA: 999,181330,464158,,0,89,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2018-12-21,local-authority-eng:SOX,P17/S4127/PDO,51.741176,-0.958559,,45,45,2018-12-03,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2018-12-21,local-authority-eng:SOX,P17/S1865/FUL,51.746373,-1.139877,,15,15,2018-12-03,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2018-12-21,local-authority-eng:SOX,P17/S3501/FUL,51.517736,-0.976157,,6,6,2018-12-03,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P12/S1424/FUL,51.538983,-0.909224,,97,97,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,"P15/S1880/O
+(SHELAA: 184)",51.617487,-1.262269,,280,400,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P15/S2685/FUL,51.527292,-1.068691,,20,20,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P16/S0375/FUL,51.534551,-1.065674,,9,9,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P16/S1227/FUL,51.535245,-0.908563,,23,23,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,"P16/S3922/FUL
+(SHELAA 200)",51.606671,-1.077913,,6,6,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P16/S4117/FUL,51.698737,-0.914981,,6,20,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,"P16/S4177/FUL
+(SHELAA 401)",51.569205,-1.163409,,5,5,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P16/S4234/FUL,51.540744,-0.905187,,6,6,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P17/S0259/FUL,51.476003,-0.915896,,5,5,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,"P17/S3853/FUL
+(SHELAA 867)",51.542594,-0.924437,,5,5,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P17/S2178/PDO,51.531042,-0.899452,,5,5,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P17/S2446/FUL,51.528701,-0.896279,,5,5,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,SHELAA: 1034,51.749623,-1.129371,,0,300,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,SHELAA: 1050,51.550216,-1.018393,,0,25,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,SHELAA: 1085,51.523273,-1.136965,,0,8,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,SHELAA: 1195,51.666467,-1.171162,,0,12,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,SHELAA: 148,51.516298,-1.069088,,0,7,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P15/S2159/O (SHELAA: 185),51.610168,-1.242473,,300,300,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2018-12-21,local-authority-eng:SOX,P16/S3525/FUL (SHELAA: 202),51.749428,-0.977795,,8,41,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,SHELAA: 274,51.612714,-1.253999,,0,300,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P15/S3387/FUL (SHELAA: 302),51.589923,-1.118092,,91,91,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P17/S2624/PDO (SHELAA: 308),51.740887,-0.959464,,45,91,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P10/W0093 (SHELAA: 335),51.723195,-1.130226,,8,8,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P15/S3848/FUL (SHELAA: 347),51.745897,-0.972950,,29,29,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,SHELAA: 360,51.535979,-0.906210,,0,42,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P15/S3385/FUL (SHELAA: 390),51.528452,-0.893647,,64,64,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2018-12-21,local-authority-eng:SOX,P16/S1514/FUL (SHELAA: 395),51.598946,-1.125902,,22,22,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P16/S2593/FUL (SHELAA: 398),51.509265,-0.882454,,16,16,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P16/S2932/FUL (SHELAA: 399),51.701474,-1.156530,,10,10,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P17/S0322/O (SHELAA: 402),51.724286,-1.053878,,5,5,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,SHELAA: 822,51.725618,-1.155502,,0,29,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P16/S0375/FUL (SHELAA: 824),51.534464,-1.065993,,9,9,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P17/S0024/RM (SHELAA: 853),51.525911,-0.931951,,170,536,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,SHELAA: 869,51.526168,-1.078977,,0,17,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,SHELAA: 870,51.660541,-1.176214,,0,24,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,P11/W2357 (SHELAA: 940),51.583881,-1.121745,,166,166,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,SHELAA: 949,51.535420,-0.915797,,0,184,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,SHELAA: 979,51.744263,-0.961993,,0,5,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,SHELAA: 991,51.530209,-0.918198,,0,27,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa
+2017-12-22,local-authority-eng:SOX,SHELAA: 999,51.527246,-1.076562,,0,89,2017-12-22,,ea0d0eb808d415aeff93b9b600217a766e8624d3c9a55cdab97cdb37188d6ffa

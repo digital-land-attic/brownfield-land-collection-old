@@ -1,12 +1,12 @@
 entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2019-11-28,http://opendatacommunities.org/id/district-council/test-valley,SHELAA28,,,1.5,,,2017-10-06,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
-2019-11-28,http://opendatacommunities.org/id/district-council/test-valley,SHELAA118,,,0.97,,,2017-10-26,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
-2019-11-28,http://opendatacommunities.org/id/district-council/test-valley,SHELAA131,,,1.1,,,2017-10-26,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
-2019-11-28,http://opendatacommunities.org/id/district-council/test-valley,SHELAA195,,,1.489,,,2017-10-26,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
-2019-11-28,http://opendatacommunities.org/id/district-council/test-valley,Policy LE14,,,1.67,,,2017-12-06,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
-2019-11-28,http://opendatacommunities.org/id/district-council/test-valley,TVS.00515,,,2.68,,,2017-12-06,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
-2019-11-28,http://opendatacommunities.org/id/district-council/test-valley,14/00245/FULLN,,,0.3,,,2017-12-14,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
-2019-11-28,http://opendatacommunities.org/id/district-council/test-valley,15/01261/FULLS,,,0.66,,,2017-12-14,2019-11-28,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
-2019-11-28,http://opendatacommunities.org/id/district-council/test-valley,SHELAA156,,,0.04,,,2018-12-10,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
-2019-11-28,http://opendatacommunities.org/id/district-council/test-valley,SHELAA251,,,3.78,,,2017-12-14,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
-2019-11-28,http://opendatacommunities.org/id/district-council/test-valley,SHELAA318,,,0.14,,,2019-11-28,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
+2019-11-28,local-authority-eng:TES,SHELAA28,,,1.5,,,2017-10-06,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
+2019-11-28,local-authority-eng:TES,SHELAA118,,,0.97,,,2017-10-26,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
+2019-11-28,local-authority-eng:TES,SHELAA131,,,1.1,,,2017-10-26,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
+2019-11-28,local-authority-eng:TES,SHELAA195,,,1.489,,,2017-10-26,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
+2019-11-28,local-authority-eng:TES,Policy LE14,,,1.67,,,2017-12-06,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
+2019-11-28,local-authority-eng:TES,TVS.00515,,,2.68,,,2017-12-06,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
+2019-11-28,local-authority-eng:TES,14/00245/FULLN,,,0.3,,,2017-12-14,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
+2019-11-28,local-authority-eng:TES,15/01261/FULLS,,,0.66,,,2017-12-14,2019-11-28,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
+2019-11-28,local-authority-eng:TES,SHELAA156,,,0.04,,,2018-12-10,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
+2019-11-28,local-authority-eng:TES,SHELAA251,,,3.78,,,2017-12-14,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6
+2019-11-28,local-authority-eng:TES,SHELAA318,,,0.14,,,2019-11-28,,9e63b86b2654beea49356ccf8cde06153f38adbfbb81a6412a3d0a691fa6ecc6

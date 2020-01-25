@@ -14,6 +14,8 @@ row-number,field,datatype,value
 13,FirstAddedDate,date,31-06-2017
 14,PermissionDate,date,Permission Date
 14,FirstAddedDate,date,31-06-2017
+14,GeoX,decimal,GeoX
+14,GeoY,decimal,GeoY
 15,FirstAddedDate,date,31-06-2017
 16,FirstAddedDate,date,31-06-2017
 17,FirstAddedDate,date,31-06-2017
@@ -30,6 +32,7 @@ row-number,field,datatype,value
 28,FirstAddedDate,date,31-06-2017
 29,FirstAddedDate,date,31-06-2017
 30,FirstAddedDate,date,31-06-2017
+31,OrganisationURI,opendatacommunities-uri,BLR
 31,FirstAddedDate,date,31-06-2017
 32,FirstAddedDate,date,31-06-2017
 33,FirstAddedDate,date,31-06-2017

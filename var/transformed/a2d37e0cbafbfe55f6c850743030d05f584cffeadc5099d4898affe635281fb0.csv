@@ -1,9 +1,9 @@
 entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2018-11-22,http://opendatacommunities.org/id/district-council/richmondshire,SHLAA120,497851,417542,0.85,,,2017-11-09,,a2d37e0cbafbfe55f6c850743030d05f584cffeadc5099d4898affe635281fb0
-2018-11-22,http://opendatacommunities.org/id/district-council/richmondshire,SHLAA185,498338,420839,0.9,20,25,2017-11-09,,a2d37e0cbafbfe55f6c850743030d05f584cffeadc5099d4898affe635281fb0
-2018-11-22,http://opendatacommunities.org/id/district-council/richmondshire,SHLAA186,498423,420836,0.56,15,20,2017-11-09,,a2d37e0cbafbfe55f6c850743030d05f584cffeadc5099d4898affe635281fb0
-2018-11-22,http://opendatacommunities.org/id/district-council/richmondshire,SHLAA228,501036,417040,0.06,,,2017-11-09,,a2d37e0cbafbfe55f6c850743030d05f584cffeadc5099d4898affe635281fb0
-2018-11-22,http://opendatacommunities.org/id/district-council/richmondshire,SHLAA307,493040,419238,0.05,,,2017-11-09,,a2d37e0cbafbfe55f6c850743030d05f584cffeadc5099d4898affe635281fb0
-2018-11-22,http://opendatacommunities.org/id/district-council/richmondshire,SHLAA153,508777,423006,0.15,,,2017-11-09,,a2d37e0cbafbfe55f6c850743030d05f584cffeadc5099d4898affe635281fb0
-2018-11-22,http://opendatacommunities.org/id/district-council/richmondshire,SHLAA371,497678,419054,5.8,100,125,2018-11-22,,a2d37e0cbafbfe55f6c850743030d05f584cffeadc5099d4898affe635281fb0
-2018-11-22,http://opendatacommunities.org/id/district-council/richmondshire,SHLAA378,497481,418936,4,,,2018-11-22,,a2d37e0cbafbfe55f6c850743030d05f584cffeadc5099d4898affe635281fb0
+2018-11-22,local-authority-eng:RIH,SHLAA120,54.375864,-1.731460,0.85,,,2017-11-09,,a2d37e0cbafbfe55f6c850743030d05f584cffeadc5099d4898affe635281fb0
+2018-11-22,local-authority-eng:RIH,SHLAA185,54.380117,-1.680673,0.9,20,25,2017-11-09,,a2d37e0cbafbfe55f6c850743030d05f584cffeadc5099d4898affe635281fb0
+2018-11-22,local-authority-eng:RIH,SHLAA186,54.380881,-1.680713,0.56,15,20,2017-11-09,,a2d37e0cbafbfe55f6c850743030d05f584cffeadc5099d4898affe635281fb0
+2018-11-22,local-authority-eng:RIH,SHLAA228,54.404504,-1.739007,0.06,,,2017-11-09,,a2d37e0cbafbfe55f6c850743030d05f584cffeadc5099d4898affe635281fb0
+2018-11-22,local-authority-eng:RIH,SHLAA307,54.332566,-1.705661,0.05,,,2017-11-09,,a2d37e0cbafbfe55f6c850743030d05f584cffeadc5099d4898affe635281fb0
+2018-11-22,local-authority-eng:RIH,SHLAA153,54.473838,-1.646505,0.15,,,2017-11-09,,a2d37e0cbafbfe55f6c850743030d05f584cffeadc5099d4898affe635281fb0
+2018-11-22,local-authority-eng:RIH,SHLAA371,54.374255,-1.708196,5.8,100,125,2018-11-22,,a2d37e0cbafbfe55f6c850743030d05f584cffeadc5099d4898affe635281fb0
+2018-11-22,local-authority-eng:RIH,SHLAA378,54.372489,-1.710025,4,,,2018-11-22,,a2d37e0cbafbfe55f6c850743030d05f584cffeadc5099d4898affe635281fb0

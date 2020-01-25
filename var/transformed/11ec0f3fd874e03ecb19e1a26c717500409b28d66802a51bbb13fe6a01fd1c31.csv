@@ -1,16 +1,16 @@
 entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2018-03-20,http://opendatacommunities.org/doc/district-council/swale,BF/023,161656.53,601607.16,0.3,10,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
-2018-03-20,http://opendatacommunities.org/doc/district-council/swale,BF/136,171994.0,591139.0,0.37,37,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
-2018-03-20,http://opendatacommunities.org/doc/district-council/swale,BF/167,163724.0,589481.0,1.7,70,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
-2018-03-20,http://opendatacommunities.org/doc/district-council/swale,BF/237,164191.0,589452.0,1.8,75,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
-2018-03-20,http://opendatacommunities.org/doc/district-council/swale,BF/256,172104.0,590730.0,1.45,80,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
-2018-03-20,http://opendatacommunities.org/doc/district-council/swale,BF/257,161125.0,602826.0,2.9,105,105,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
-2018-03-20,http://opendatacommunities.org/doc/district-council/swale,BF/258,172061.0,590977.0,13.31,379,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
-2018-03-20,http://opendatacommunities.org/doc/district-council/swale,BF/265,163508.0,590919.0,0.9,120,165,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
-2018-03-20,http://opendatacommunities.org/doc/district-council/swale,BF/275,161967.0,601970.0,0.95,10,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
-2018-03-20,http://opendatacommunities.org/doc/district-council/swale,BF/281,172061.0,590977.0,7.0,380,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
-2018-03-20,http://opendatacommunities.org/doc/district-council/swale,BF/283,164307.0,589517.0,1.5,60,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
-2018-03-20,http://opendatacommunities.org/doc/district-council/swale,BF/373,171743.0,591195.0,4.0,240,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
-2018-03-20,http://opendatacommunities.org/doc/district-council/swale,BF/505,165722.0,587044.0,0.5,6,6,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
-2018-03-20,http://opendatacommunities.org/doc/district-council/swale,BF/508,166556.0,583096.0,0.5,13,13,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
-2018-03-20,http://opendatacommunities.org/doc/district-council/swale,BF/511,155654.0,603847.0,1.0,5,5,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
+2018-03-20,local-authority-eng:SWL,BF/023,51.318282,0.891776,0.3,10,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
+2018-03-20,local-authority-eng:SWL,BF/136,51.414737,0.747297,0.37,37,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
+2018-03-20,local-authority-eng:SWL,BF/167,51.341017,0.719076,1.7,70,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
+2018-03-20,local-authority-eng:SWL,BF/237,51.345221,0.718908,1.8,75,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
+2018-03-20,local-authority-eng:SWL,BF/256,51.415863,0.741481,1.45,80,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
+2018-03-20,local-authority-eng:SWL,BF/257,51.313076,0.908941,2.9,105,105,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
+2018-03-20,local-authority-eng:SWL,BF/258,51.415394,0.745006,13.31,379,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
+2018-03-20,local-authority-eng:SWL,BF/265,51.338596,0.739581,0.9,120,165,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
+2018-03-20,local-authority-eng:SWL,BF/275,51.320942,0.897152,0.95,10,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
+2018-03-20,local-authority-eng:SWL,BF/281,51.415394,0.745006,7.0,380,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
+2018-03-20,local-authority-eng:SWL,BF/283,51.346241,0.719902,1.5,60,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
+2018-03-20,local-authority-eng:SWL,BF/373,51.412464,0.747966,4.0,240,To be determined by planning application,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
+2018-03-20,local-authority-eng:SWL,BF/505,51.359769,0.685177,0.5,6,6,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
+2018-03-20,local-authority-eng:SWL,BF/508,51.368545,0.628965,0.5,13,13,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31
+2018-03-20,local-authority-eng:SWL,BF/511,51.263582,0.920450,1.0,5,5,2018-03-20,,11ec0f3fd874e03ecb19e1a26c717500409b28d66802a51bbb13fe6a01fd1c31

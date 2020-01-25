@@ -3,6 +3,10 @@ row-number,field,datatype,value
  04.09.2014"
 31,PermissionDate,date,"17.12.2014
 06.10.2015"
+39,GeoX,decimal,"622935
+(ref for 12/00143/ET only)"
+39,GeoY,decimal,"309079
+(ref for 12/00143/ET only)"
 74,PermissionDate,date,"30.01.2009
 12.07.2013"
 78,PermissionDate,date,"30.08.2017

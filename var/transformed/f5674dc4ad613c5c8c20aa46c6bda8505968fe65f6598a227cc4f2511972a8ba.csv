@@ -1,16 +1,16 @@
 entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2019-07-04,http://opendatacommunities.org/id/district-council/south-ribble,2031,-2.7848,53.7145,4.64,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,http://opendatacommunities.org/id/district-council/south-ribble,MF02b,-2.6984,53.7392,9.45,,,2016-06-03,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,http://opendatacommunities.org/id/district-council/south-ribble,MF02c,-2.6987,53.7405,1.17,,,2016-06-03,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,http://opendatacommunities.org/id/district-council/south-ribble,TG08,-2.6888,53.7337,1.9,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,http://opendatacommunities.org/id/district-council/south-ribble,2013,-2.8148,53.6951,0.63,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,http://opendatacommunities.org/id/district-council/south-ribble,2016,-2.8005,53.7079,0.26,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,http://opendatacommunities.org/id/district-council/south-ribble,1987,-2.7921,53.7254,0.26,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,http://opendatacommunities.org/id/district-council/south-ribble,1395,-2.7762,53.7122,0.41,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,http://opendatacommunities.org/id/district-council/south-ribble,2017,-2.7238,53.7042,0.28,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,http://opendatacommunities.org/id/district-council/south-ribble,NLH08b (NE part),-2.7405,53.7218,0.26,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,http://opendatacommunities.org/id/district-council/south-ribble,MS02,-2.7276,53.7006,40.6,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,http://opendatacommunities.org/id/district-council/south-ribble,BBW02,-2.6695,53.7279,2.7,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,http://opendatacommunities.org/id/district-council/south-ribble,TG05,-2.688,53.7255,1.5,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,http://opendatacommunities.org/id/district-council/south-ribble,SW13,-2.6454,53.742,2.3,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,http://opendatacommunities.org/id/district-council/south-ribble,HP01,-2.7615,53.7466,2.4,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,2031,53.714500,-2.784800,4.64,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,MF02b,53.739200,-2.698400,9.45,,,2016-06-03,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,MF02c,53.740500,-2.698700,1.17,,,2016-06-03,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,TG08,53.733700,-2.688800,1.9,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,2013,53.695100,-2.814800,0.63,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,2016,53.707900,-2.800500,0.26,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,1987,53.725400,-2.792100,0.26,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,1395,53.712200,-2.776200,0.41,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,2017,53.704200,-2.723800,0.28,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,NLH08b (NE part),53.721800,-2.740500,0.26,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,MS02,53.700600,-2.727600,40.6,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,BBW02,53.727900,-2.669500,2.7,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,TG05,53.725500,-2.688000,1.5,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,SW13,53.742000,-2.645400,2.3,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,HP01,53.746600,-2.761500,2.4,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba

@@ -1,5 +1,5 @@
 entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-22,http://opendatacommunities.org/id/district-council/west-devon,WD_32_11_13,86676,245826,1.51,,,2017-12-22,,7e51cf5ac9a1e5bc143656b0831033f8e003b0f2c7cad24f83e2eedfe0da944c
-2017-12-22,http://opendatacommunities.org/id/district-council/west-devon,WD_13_12_13,101629,265721,1.55,,,2017-12-22,,7e51cf5ac9a1e5bc143656b0831033f8e003b0f2c7cad24f83e2eedfe0da944c
-2017-12-22,http://opendatacommunities.org/id/district-council/west-devon,00682/2014,98132,257471,0.21,,,2017-12-22,,7e51cf5ac9a1e5bc143656b0831033f8e003b0f2c7cad24f83e2eedfe0da944c
-2017-12-22,http://opendatacommunities.org/id/district-council/west-devon,OP13,104459,253944,4.93,,,2017-12-22,,7e51cf5ac9a1e5bc143656b0831033f8e003b0f2c7cad24f83e2eedfe0da944c
+2017-12-22,local-authority-eng:WDE,WD_32_11_13,50.659297,-4.182629,1.51,,,2017-12-22,,7e51cf5ac9a1e5bc143656b0831033f8e003b0f2c7cad24f83e2eedfe0da944c
+2017-12-22,local-authority-eng:WDE,WD_13_12_13,50.798621,-3.906781,1.55,,,2017-12-22,,7e51cf5ac9a1e5bc143656b0831033f8e003b0f2c7cad24f83e2eedfe0da944c
+2017-12-22,local-authority-eng:WDE,00682/2014,50.765222,-4.022415,0.21,,,2017-12-22,,7e51cf5ac9a1e5bc143656b0831033f8e003b0f2c7cad24f83e2eedfe0da944c
+2017-12-22,local-authority-eng:WDE,OP13,50.821203,-4.074911,4.93,,,2017-12-22,,7e51cf5ac9a1e5bc143656b0831033f8e003b0f2c7cad24f83e2eedfe0da944c
