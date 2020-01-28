@@ -116,7 +116,7 @@ ReferenceSystem"
 1,CoordinateRef. System
 1,CoordinateRefSystem
 1,CoordinateReference System
-646,CoordinateReferenceSystem
+647,CoordinateReferenceSystem
 1,CoordinateReferenceSystem2
 1,CoordinateReferenceSystem3
 1,CoordinateReferenceSystem_ETRS89
@@ -148,7 +148,7 @@ ReferenceSystem"
 1,Date_Permission
 3,Decision_Date
 2,Deliverabl
-751,Deliverable
+752,Deliverable
 1,Deliverable - mandatory if yes
 1,Description
 3,Description of Proposed Development
@@ -160,7 +160,7 @@ ReferenceSystem"
 1,Development description
 1,Development status (if site has full PP)
 1,DevelopmentDesciption
-626,DevelopmentDescription
+627,DevelopmentDescription
 1,DevelopmentDescription - mandatory where relevant
 3,Developmentdescription
 1,Discription/Notes
@@ -170,7 +170,7 @@ ReferenceSystem"
 20,EASTING
 3,ETRS89
 1,EVENTS
-112,Easting
+113,Easting
 6,Eastings
 1,Eastings (Geo X)
 2,EffectiveDate
@@ -195,7 +195,7 @@ Date"
 3,FirstAdded
 1,"FirstAdded
 Date"
-713,FirstAddedDate
+714,FirstAddedDate
 2,FirstAddedDate1
 2,FirstAddedDateBR
 1,FirstDateAdded
@@ -209,14 +209,14 @@ Date"
 9,Geo X
 9,Geo Y
 2,GeoPointLicensingURL
-743,GeoX
+744,GeoX
 3,GeoX (Longitude or east grid)
 2,GeoX [East]
 1,GeoX_2
 1,GeoX_3
 1,GeoX_ETRS89
 1,GeoX_WGS84
-743,GeoY
+744,GeoY
 3,GeoY (Latitude or north grid)
 2,GeoY [North]
 1,GeoY_2
@@ -243,10 +243,10 @@ Date"
 1,Hazardous Substances [as identifiied in Appl. form]
 3,Hazardous substances
 2,HazardousS
-676,HazardousSubstances
+677,HazardousSubstances
 2,HazardousSubtances
 2,HazourdousSubstances
-758,Hectares
+759,Hectares
 2,Hectares (gross)
 6,Housing Delivery Estimate
 1,Housing Est (remaining)
@@ -299,7 +299,7 @@ Date"
 2,LastUpdated
 1,"LastUpdated
 Date"
-696,LastUpdatedDate
+697,LastUpdatedDate
 2,LastUpdatedDate1
 1,Last_updated_Date
 1,Latest_MostRelevantResidentialApplication
@@ -312,7 +312,7 @@ Date"
 1,LocalPlanPolRef
 1,LocalPlanURL
 1,Local_Authority
-25,Location
+26,Location
 1,Location / Address
 2,Location Coordinates North South
 1,Location___Address
@@ -340,7 +340,7 @@ Date"
 Dwellings"
 3,MinNet Dwellings
 1,MinNetDwel
-640,MinNetDwellings
+641,MinNetDwellings
 4,MinNetDwellingsComment
 1,Min_Capacity
 2,Minimum Net Dwellings
@@ -384,10 +384,10 @@ To"
 2,NetDwellin
 2,NetDwellingRangeTo
 7,NetDwellingsRangeForm
-683,NetDwellingsRangeFrom
+684,NetDwellingsRangeFrom
 1,NetDwellingsRangeFrom - mandatory where relevant
 4,NetDwellingsRangeFromComment
-677,NetDwellingsRangeTo
+678,NetDwellingsRangeTo
 1,NetDwellingsRangeTo - mandatory where relevant
 4,NetDwellingsRangeToComment
 6,NetDwellingsRangeto
@@ -409,14 +409,14 @@ To"
 3,NonHousing development
 2,NonHousingDeveloment
 1,NonHousingDevelopemnt
-627,NonHousingDevelopment
+628,NonHousingDevelopment
 1,NonHousingDevelopment - mandatory where relevant
 1,Non_Resi_Dev
-111,Northing
+112,Northing
 7,Northings
 1,Northings (Geo Y)
 1,Note
-747,Notes
+748,Notes
 1,Notes UPRN for sites
 1,Notes.1
 10,OBJECTID
@@ -456,8 +456,8 @@ Label"
 12,Organisation URL
 2,Organisation Uri
 1,Organisation label
-644,OrganisationLabel
-706,OrganisationURI
+645,OrganisationLabel
+707,OrganisationURI
 12,OrganisationURL
 3,OrganisationURl
 1,OrganisationUrI
@@ -485,7 +485,7 @@ Label"
 3,Ownership status
 1,"Ownership: PA_owner, not PA_own., mixed_o'ship, unknown"
 2,OwnershipS
-717,OwnershipStatus
+718,OwnershipStatus
 1,Ownership_Status
 1,Ownership_Status: PA_owned [Public Autho-rity]; not PA_owned; mix. ownership; unknown
 3,PA1Status
@@ -520,7 +520,7 @@ Label"
 7,PROPOSEDFORPIP
 8,Parish
 32,Part 2
-611,Part2
+612,Part2
 1,Part2 - mandatory where relevant
 2,Part2allocation
 1,PermiDate
@@ -537,13 +537,13 @@ Date"
 1,Permission Types as required in BFLR
 1,Permission date
 1,Permission type
-703,PermissionDate
+704,PermissionDate
 1,PermissionDate -  - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.
 2,PermissionDate1
 1,PermissionDatePlanningHistory
 4,PermissionHistory
 2,PermissionTyne
-710,PermissionType
+711,PermissionType
 1,PermissionType - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.
 1,PeviouslyPartof
 1,Plan
@@ -576,12 +576,12 @@ Date"
 15,PlanningAuthority2
 15,PlanningAuthority3
 2,PlanningHi
-695,PlanningHistory
+696,PlanningHistory
 1,PlanningHistory (URL)
 1,PlanningHistoryURL
 7,PlanningReference
 3,PlanningSt
-716,PlanningStatus
+717,PlanningStatus
 2,Planning_Status
 2,Planning_Status_Reference
 1,Planningapplicationreference
@@ -598,7 +598,7 @@ Date"
 1,Previously Part of
 2,Previously PartOf
 3,Previously part of
-618,PreviouslyPartOf
+619,PreviouslyPartOf
 5,PreviouslyPartof
 2,Primary Source of Identification at DATE
 1,Progress
@@ -612,7 +612,7 @@ Date"
 3,Proposed for PiP
 1,ProposedFo
 2,ProposedFor PIP
-583,ProposedForPIP
+584,ProposedForPIP
 1,ProposedForPIP - mandatory if yes
 6,ProposedForPiP
 1,Proposed_U
@@ -706,7 +706,7 @@ Date"
 1,SiteInfo
 2,SiteInfomation
 1,SiteInform
-611,SiteInformation
+612,SiteInformation
 1,SiteInformation - mandatory where relevant
 1,SiteInformation1
 1,SiteInformation2
@@ -714,13 +714,13 @@ Date"
 2,SiteName Address
 1,SiteName/Address
 2,SiteNameAd
-719,SiteNameAddress
+720,SiteNameAddress
 1,SiteNameAddresss
 77,SitePlanURL
 1,SitePlanURL CoordinateReferenceSystem
 3,SiteProforma
 2,SiteRefere
-708,SiteReference
+709,SiteReference
 3,SiteReference (also SHLAA Reference)
 1,SiteReferenceAlternate
 1,Site_Address
@@ -731,7 +731,7 @@ Date"
 9,Siteplan URL
 2,SiteplanUR
 1,SiteplanURI
-631,SiteplanURL
+632,SiteplanURL
 1,Siteref
 1,Skylark Motor Services Ltd The Ridge Woodfalls
 2,SortOrder
