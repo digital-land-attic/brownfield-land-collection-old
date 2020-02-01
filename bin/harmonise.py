@@ -45,13 +45,17 @@ def log_issue(field, datatype, value):
     )
 
 
+def format_decimal(value, precision=6):
+    return str(round(Decimal(value), precision).normalize())
+
+
 def normalise_decimal(field, value):
     try:
         d = Decimal(value)
     except Exception as e:
         log_issue(field, "decimal", value)
-        return ''
-    return d
+        return ""
+    return format_decimal(d)
 
 
 def within_england(geox, geoy):
@@ -60,19 +64,11 @@ def within_england(geox, geoy):
 
 # TBD: also try values from Eastings/Northings fields
 def normalise_geometry(row):
-    row_geox = row["GeoX"]
-    row_geoy = row["GeoY"]
-
-    if row_geox == "" or row_geoy == "":
+    if row["GeoX"] == "" or row["GeoY"] == "":
         return row
 
-    row["GeoX"] = row["GeoY"] = ""
-
-    if row_geox == "" or row_geoy == "":
-        return row
-
-    geox = normalise_decimal("GeoX", row_geox)
-    geoy = normalise_decimal("GeoY", row_geoy)
+    geox = Decimal(row["GeoX"])
+    geoy = Decimal(row["GeoY"])
 
     if isinstance(geox, str) or isinstance(geoy, str):
         return row
@@ -86,11 +82,11 @@ def normalise_geometry(row):
         if not within_england(lon, lat):
             lat, lon = osgb_to_wgs84.transform(geoy, geox)
             if not within_england(lon, lat):
-                log_issue("GeoX,GeoY", "OSGB", ",".join([row_geox, row_geoy]))
+                log_issue("GeoX,GeoY", "OSGB", ",".join([row["GeoX"], row["GeoY"]]))
                 return row
 
-    row["GeoX"] = "%.6f" % lon
-    row["GeoY"] = "%.6f" % lat
+    row["GeoX"] = format_decimal(lon)
+    row["GeoY"] = format_decimal(lat)
     return row
 
 
@@ -198,6 +194,13 @@ def normalise(fieldname, value):
     if fieldname == "OrganisationURI":
         return normalise_organisation_uri(fieldname, value)
 
+    if fieldname in ["Hectares", "GeoX", "GeoY"]:
+        return normalise_decimal(fieldname, value)
+
+    # TBD, normalise numbers ..
+    # if field.get("type", "") == "number":
+    # return normalise_int(fieldname, value)
+
     if field.get("format", "") == "uri":
         return normalise_uri(fieldname, value)
 
@@ -222,6 +225,7 @@ if __name__ == "__main__":
             for field in fieldnames:
                 o[field] = normalise(field, row[field])
 
+            # TBD: driven by schema
             o = normalise_geometry(o)
 
             writer.writerow(o)
