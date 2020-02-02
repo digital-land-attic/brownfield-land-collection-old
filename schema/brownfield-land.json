@@ -17,7 +17,8 @@
                     "LPA URL",
                     "OPEN DATA WEBSITE",
                     "Organisati",
-                    "Org. URI"
+                    "Org. URI",
+                    "OrgURL"
                 ],
                 "field": "organisation",
                 "values": {
@@ -39,7 +40,8 @@
                 "typos": [
                     "OrganistionLabel",
                     "OragisationLabel",
-                    "Org. Label"
+                    "Org. Label",
+                    "OrgLabel"
                 ]
             }
         },
@@ -77,7 +79,8 @@
                 "required": true
             },
             "digital-land": {
-                "field": "longitude"
+                "field": "longitude",
+                "precision": 6
             }
         },
         {
@@ -89,7 +92,8 @@
                 "required": true
             },
             "digital-land": {
-                "field": "latitude"
+                "field": "latitude",
+                "precision": 6
             }
         },
         {
@@ -114,7 +118,13 @@
                 "typos": [
                     "AREA (HA)"
                 ],
-                "field": "hectares"
+                "field": "hectares",
+                "precision": 2,
+                "strip": [
+                  "\\s*Hectares$",
+                  "\\s*hectares$",
+                  "\\s*ha$"
+                ]
             }
         },
         {
@@ -179,7 +189,7 @@
             "name": "NetDwellingsRangeFrom",
             "title": "Net dwellings range from",
             "description": "The minimum number of dwellings that the local authority estimates the site should support, as defined in http://www.legislation.gov.uk/uksi/2017/403/regulation/2/made",
-            "type": "number",
+            "type": "integer",
             "constraints": {
                 "required": false
             },
@@ -191,7 +201,7 @@
             "name": "NetDwellingsRangeTo",
             "title": "Net dwellings range to",
             "description": "The maximum number of dwellings that the local authority estimates the site should support, as defined in regulation 2 of the 2017 Regulations (http://www.legislation.gov.uk/uksi/2017/403/regulation/2/made)",
-            "type": "number",
+            "type": "integer",
             "constraints": {
                 "required": false
             },

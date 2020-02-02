@@ -45,11 +45,25 @@ def log_issue(field, datatype, value):
     )
 
 
+def format_integer(value):
+    return str(int(value))
+
+
 def format_decimal(value, precision=6):
     return str(round(Decimal(value), precision).normalize())
 
 
-def normalise_decimal(field, value):
+def normalise_integer(field, value):
+    value = re.sub(r"\.0+$", "", value, 1)
+    try:
+        n = int(value)
+    except Exception as e:
+        log_issue(field, "integer", value)
+        return ""
+    return format_integer(n)
+
+
+def normalise_decimal(field, value, precision):
     try:
         d = Decimal(value)
     except Exception as e:
@@ -62,9 +76,8 @@ def within_england(geox, geoy):
     return geoy > 49.5 and geoy < 56.0 and geox > -7.0 and geox < 2
 
 
-# TBD: also try values from Eastings/Northings fields
 def normalise_geometry(row):
-    if row["GeoX"] == "" or row["GeoY"] == "":
+    if row.get("GeoX", "") == "" or row.get("GeoY", "") == "":
         return row
 
     geox = Decimal(row["GeoX"])
@@ -186,20 +199,23 @@ def normalise_uri(field, value):
 
 
 def normalise(fieldname, value):
-    if value in [None, "", "N/A", "#N/A", "???"]:
+    if value.lower() in [None, "", "-", "n/a", "#n/a", "???", "<null>"]:
         return ""
 
     field = fields[fieldname]
+    extras = field.get("digital-land", {})
+
+    for strip in extras.get("strip", []):
+        value = re.sub(strip, "", value)
 
     if fieldname == "OrganisationURI":
         return normalise_organisation_uri(fieldname, value)
 
-    if fieldname in ["Hectares", "GeoX", "GeoY"]:
-        return normalise_decimal(fieldname, value)
+    if field.get("type", "") == "integer":
+        return normalise_integer(fieldname, value)
 
-    # TBD, normalise numbers ..
-    # if field.get("type", "") == "number":
-    # return normalise_int(fieldname, value)
+    if field.get("type", "") == "number":
+        return normalise_decimal(fieldname, value, extras.get("precision", 6))
 
     if field.get("format", "") == "uri":
         return normalise_uri(fieldname, value)
@@ -225,7 +241,6 @@ if __name__ == "__main__":
             for field in fieldnames:
                 o[field] = normalise(field, row[field])
 
-            # TBD: driven by schema
             o = normalise_geometry(o)
 
             writer.writerow(o)
