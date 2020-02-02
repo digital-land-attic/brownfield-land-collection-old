@@ -4,12 +4,29 @@
 #  normalise CSV file formatting
 #
 
+import re
 import sys
 import csv
 
 spaces = " \n\r\t\f"
 
+patterns = []
+
+
+def skip(row):
+    line = ",".join(row)
+    for pattern in patterns:
+        if pattern.match(line):
+            return True
+    return False
+
+
 if __name__ == "__main__":
+
+    # load skip patterns
+    for row in csv.DictReader(open("patch/skip.csv", newline="")):
+        patterns.append(re.compile(row["pattern"]))
+
     record = 0
     writer = csv.writer(open(sys.argv[2], "w", newline=""))
 
@@ -23,25 +40,7 @@ if __name__ == "__main__":
         if not "".join(row):
             continue
 
-        line = ",".join(row)
-
-        # skip sequence numbered rows
-        if line.startswith("1,2,3,4,5,6,7,8,"):
-            continue
-
-        # skip rows containing a lot of Unnamed values
-        # possibly too aggressive?
-        if row[0] == "Unnamed: 0":
-            continue
-
-        if "Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4" in line:
-            continue
-
-        # skip common notes row
-        if (
-            "Mandatory,Mandatory,Mandatory,Mandatory,Mandatory,Mandatory,Mandatory"
-            in line
-        ):
+        if skip(row):
             continue
 
         writer.writerow(row)

@@ -42,6 +42,10 @@ HARMONISED_FILES := $(subst $(CONVERTED_DIR),$(HARMONISED_DIR),$(CONVERTED_FILES
 ISSUE_FILES := $(subst $(CONVERTED_DIR),$(ISSUE_DIR),$(CONVERTED_FILES))
 TRANSFORMED_FILES:= $(subst $(CONVERTED_DIR),$(TRANSFORMED_DIR),$(CONVERTED_FILES))
 
+# data needed for normalisation
+NORMALISE_DATA:=\
+	$(PATCH_DIR)/skip.csv
+
 # data needed for harmonisation
 HARMONISE_DATA:=\
 	$(CACHE_DIR)/organisation.csv\
@@ -144,7 +148,7 @@ $(CONVERTED_DIR)%.csv: $(RESOURCE_DIR)% bin/convert.py
 	@mkdir -p $(CONVERTED_DIR)
 	python3 bin/convert.py $< $@
 
-$(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv bin/normalise.py
+$(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv bin/normalise.py $(NORMALISE_DATA)
 	@mkdir -p $(NORMALISED_DIR)
 	python3 bin/normalise.py $< $@
 
