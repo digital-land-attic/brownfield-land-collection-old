@@ -109,7 +109,7 @@ count,name
 1,Contraints
 1,Coodinate Reference System
 1,Coodinate_Reference_System
-3,Coordinate
+4,Coordinate
 1,"Coordinate
 ReferenceSystem"
 28,Coordinate Reference System
@@ -147,14 +147,14 @@ ReferenceSystem"
 2,DateUpdate
 1,Date_Permission
 3,Decision_Date
-2,Deliverabl
+3,Deliverabl
 754,Deliverable
 1,Deliverable - mandatory if yes
 1,Description
 3,Description of Proposed Development
 1,Developable area (ha)
 1,Developed: extant/ commc'd./ part. compltd.
-1,Developmen
+2,Developmen
 43,Development Description
 1,Development Status: extant/ commc'd./ part. compltd.
 1,Development description
@@ -167,7 +167,7 @@ ReferenceSystem"
 1,District
 1,Dwelling_Range
 1,EAST
-20,EASTING
+21,EASTING
 3,ETRS89
 1,EVENTS
 113,Easting
@@ -192,7 +192,7 @@ Date"
 31,First Added Date
 3,First Added date
 1,FirstAdd
-3,FirstAdded
+4,FirstAdded
 1,"FirstAdded
 Date"
 716,FirstAddedDate
@@ -200,6 +200,7 @@ Date"
 2,FirstAddedDateBR
 1,FirstDateAdded
 1,Firstaddeddate
+1,GEOMETRY
 10,GEOX
 10,GEOY
 3,GF / PDL
@@ -209,14 +210,14 @@ Date"
 9,Geo X
 9,Geo Y
 2,GeoPointLicensingURL
-746,GeoX
+747,GeoX
 3,GeoX (Longitude or east grid)
 2,GeoX [East]
 1,GeoX_2
 1,GeoX_3
 1,GeoX_ETRS89
 1,GeoX_WGS84
-746,GeoY
+747,GeoY
 3,GeoY (Latitude or north grid)
 2,GeoY [North]
 1,GeoY_2
@@ -242,11 +243,11 @@ Date"
 2,Hazardous Substances Regs 2015
 1,Hazardous Substances [as identifiied in Appl. form]
 3,Hazardous substances
-2,HazardousS
+3,HazardousS
 679,HazardousSubstances
 2,HazardousSubtances
 2,HazourdousSubstances
-761,Hectares
+762,Hectares
 2,Hectares (gross)
 6,Housing Delivery Estimate
 1,Housing Est (remaining)
@@ -294,7 +295,7 @@ Date"
 2,Last updated
 3,Last updated date
 3,LastAddedDate
-2,LastUpdate
+3,LastUpdate
 4,LastUpdateDate
 2,LastUpdated
 1,"LastUpdated
@@ -325,7 +326,7 @@ Date"
 2,MINIMUM NET DWELLINGS
 1,MINNETDWEL
 7,MINNETDWELLINGS
-6,MI_PRINX
+7,MI_PRINX
 1,MORE_INFORMATION
 2,Map Weblink
 1,Mapping link [Siteplan URL]
@@ -339,7 +340,7 @@ Date"
 1,"MinNet
 Dwellings"
 3,MinNet Dwellings
-1,MinNetDwel
+2,MinNetDwel
 641,MinNetDwellings
 4,MinNetDwellingsComment
 1,Min_Capacity
@@ -358,7 +359,7 @@ Dwellings"
 1,NONHOUSING
 7,NONHOUSINGDEVELOPMENT
 1,NORTH
-20,NORTHING
+21,NORTHING
 12,NOTES
 2,Name of Local Authority
 2,"Net
@@ -379,9 +380,9 @@ To"
 1,Net dwellings Range From
 2,Net dwellings range From
 2,Net dwellings range To
-1,NetDwell00
+2,NetDwell00
 1,NetDwell_1
-2,NetDwellin
+3,NetDwellin
 2,NetDwellingRangeTo
 7,NetDwellingsRangeForm
 686,NetDwellingsRangeFrom
@@ -404,7 +405,7 @@ To"
 2,Non-Housing Development
 1,Non-Housing development
 5,Non-housing development
-1,NonHousing
+2,NonHousing
 5,NonHousing Development
 3,NonHousing development
 2,NonHousingDeveloment
@@ -416,7 +417,7 @@ To"
 7,Northings
 1,Northings (Geo Y)
 1,Note
-750,Notes
+751,Notes
 1,Notes UPRN for sites
 1,Notes.1
 10,OBJECTID
@@ -444,8 +445,8 @@ To"
 1,OragisationLabel
 1,Org. Label
 1,Org. URI
-1,OrgLabel
-1,OrgURL
+2,OrgLabel
+2,OrgURL
 1,OrgainisationURL
 1,Organisati
 1,Organisation
@@ -484,7 +485,7 @@ Label"
 41,Ownership Status
 3,Ownership status
 1,"Ownership: PA_owner, not PA_own., mixed_o'ship, unknown"
-2,OwnershipS
+3,OwnershipS
 720,OwnershipStatus
 1,Ownership_Status
 1,Ownership_Status: PA_owned [Public Autho-rity]; not PA_owned; mix. ownership; unknown
@@ -520,11 +521,11 @@ Label"
 7,PROPOSEDFORPIP
 8,Parish
 32,Part 2
-612,Part2
+613,Part2
 1,Part2 - mandatory where relevant
 2,Part2allocation
-1,PermiDate
-1,PermiType
+2,PermiDate
+2,PermiType
 4,PermisionType
 1,Permissi_1
 1,Permission
@@ -566,21 +567,21 @@ Date"
 2,Planning history
 3,Planning ref
 1,Planning status
-1,PlanningA1
-1,PlanningA2
+2,PlanningA1
+2,PlanningA2
 4,PlanningAppNumber
 2,PlanningApplicationReference
-1,PlanningAu
+2,PlanningAu
 7,PlanningAuthority
 15,PlanningAuthority1
 15,PlanningAuthority2
 15,PlanningAuthority3
-2,PlanningHi
+3,PlanningHi
 698,PlanningHistory
 1,PlanningHistory (URL)
 1,PlanningHistoryURL
 7,PlanningReference
-3,PlanningSt
+4,PlanningSt
 719,PlanningStatus
 2,Planning_Status
 2,Planning_Status_Reference
@@ -593,7 +594,7 @@ Date"
 1,PrevSHLAARef
 2,Previous Use
 2,PreviousReference
-1,Previously
+2,Previously
 27,Previously Part Of
 1,Previously Part of
 2,Previously PartOf
@@ -610,7 +611,7 @@ Date"
 1,Proposed demolition of existing buildings and construction of 7 dwellings including formation of access and parking and associated works.
 8,Proposed for PIP
 3,Proposed for PiP
-1,ProposedFo
+2,ProposedFo
 2,ProposedFor PIP
 584,ProposedForPIP
 1,ProposedForPIP - mandatory if yes
@@ -666,7 +667,7 @@ Date"
 7,SITEREFERENCE
 1,SIteInformation
 3,SIteReference
-3,SOURCE
+4,SOURCE
 2,STATUS
 6,Settlement
 4,ShapeSTArea
@@ -705,7 +706,7 @@ Date"
 3,SiteAreasqm
 1,SiteInfo
 2,SiteInfomation
-1,SiteInform
+2,SiteInform
 612,SiteInformation
 1,SiteInformation - mandatory where relevant
 1,SiteInformation1
@@ -713,13 +714,13 @@ Date"
 5,SiteName
 2,SiteName Address
 1,SiteName/Address
-2,SiteNameAd
+3,SiteNameAd
 722,SiteNameAddress
 1,SiteNameAddresss
 78,SitePlanURL
 1,SitePlanURL CoordinateReferenceSystem
 3,SiteProforma
-2,SiteRefere
+3,SiteRefere
 711,SiteReference
 3,SiteReference (also SHLAA Reference)
 1,SiteReferenceAlternate
@@ -729,7 +730,7 @@ Date"
 1,Site_Ref
 7,Siteplan
 9,Siteplan URL
-2,SiteplanUR
+3,SiteplanUR
 1,SiteplanURI
 633,SiteplanURL
 1,Siteref
