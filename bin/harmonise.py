@@ -11,6 +11,7 @@ import sys
 import re
 import csv
 import json
+import validators
 from datetime import datetime
 from pyproj import Transformer
 from decimal import Decimal
@@ -195,7 +196,13 @@ def normalise_date(context, fieldvalue):
 
 def normalise_uri(field, value):
     # some URIs have line-breaks and spaces
-    return "".join(value.split())
+    uri = "".join(value.split())
+
+    if validators.url(uri):
+        return uri
+
+    log_issue(field, "uri", value)
+    return ""
 
 
 def normalise(fieldname, value):

@@ -10,6 +10,7 @@
                 "required": true
             },
             "digital-land": {
+                "field": "organisation",
                 "typos": [
                     "OrganistionURI",
                     "OrganisationURL",
@@ -20,7 +21,6 @@
                     "Org. URI",
                     "OrgURL"
                 ],
-                "field": "organisation",
                 "values": {
                   "dataset": "organisation",
                   "key": "opendatacommunities"
@@ -104,6 +104,20 @@
             "format": "uri",
             "constraints": {
                 "required": true
+            },
+            "digital-land": {
+              "field": "site-plan-url",
+              "typos": [
+                "Site Plan",
+                "Site Plan URL",
+                "SitePlanURL",
+                "Site plan (url)",
+                "Site plan URL",
+                "Siteplan",
+                "Siteplan URL",
+                "SiteplanUR",
+                "SiteplanURI"
+              ]
             }
         },
         {
@@ -115,15 +129,15 @@
                 "required": true
             },
             "digital-land": {
-                "typos": [
-                    "AREA (HA)"
-                ],
                 "field": "hectares",
                 "precision": 2,
                 "strip": [
                   "\\s*Hectares$",
                   "\\s*hectares$",
                   "\\s*ha$"
+                ],
+                "typos": [
+                    "AREA (HA)"
                 ]
             }
         },
@@ -276,6 +290,7 @@
             "entry-date",
             "organisation",
             "site",
+            "site-plan-url",
             "latitude",
             "longitude",
             "hectares",
