@@ -26,13 +26,13 @@ DATASET_FILES=dataset/$(DATASET_NAME).csv
 LOG_FILES:=$(wildcard collection/log/*/*.json)
 LOG_FILES_TODAY:=collection/log/$(shell date +%Y-%m-%d)/
 
-# validation targets
-VALIDATION_FILES:=$(addsuffix .json,$(subst $(RESOURCE_DIR),$(VALIDATION_DIR),$(RESOURCE_FILES)))
-
 # sources of resources
 RESOURCE_FILES:=$(wildcard $(RESOURCE_DIR)*)
 FIXED_FILES:=$(wildcard $(FIXED_DIR)*.csv)
 FIXED_CONVERTED_FILES:=$(subst $(FIXED_DIR),$(CONVERTED_DIR),$(FIXED_FILES))
+
+# validation targets
+VALIDATION_FILES:=$(addsuffix .json,$(subst $(RESOURCE_DIR),$(VALIDATION_DIR),$(RESOURCE_FILES)))
 
 # pipeline targets
 CONVERTED_FILES  := $(addsuffix .csv,$(subst $(RESOURCE_DIR),$(CONVERTED_DIR),$(RESOURCE_FILES)))
