@@ -68,6 +68,26 @@
             "description": "The name of the site and it's address",
             "constraints": {
                 "required": true
+            },
+            "digital-land": {
+                "field": "site-address",
+                "format": "address",
+                "typos": [
+                  "Address",
+                  "Location / Address",
+                  "Location___Address",
+                  "Site Address",
+                  "Site Name & Address",
+                  "Site Name Address",
+                  "Site Name, Address",
+                  "Site Name, Address, Postcode",
+                  "Site name/address",
+                  "SiteName Address",
+                  "SiteName/Address",
+                  "SiteNameAddress",
+                  "SiteNameAddresss",
+                  "Site_Address"
+                ]
             }
         },
         {
@@ -148,7 +168,13 @@
             "type": "string",
             "constraints": {
                 "required": true,
-                "pattern": "(?i)(owned by a public authority|mixed ownership|not owned by a public authority)"
+                "pattern": "(?i)(owned by a public authority|mixed ownership|not owned by a public authority)",
+                "enum": [
+                  "owned by a public authority",
+                  "not owned by a public authority",
+                  "mixed ownership",
+                  ""
+                ]
             }
         },
         {
@@ -290,6 +316,7 @@
             "entry-date",
             "organisation",
             "site",
+            "site-address",
             "site-plan-url",
             "latitude",
             "longitude",
