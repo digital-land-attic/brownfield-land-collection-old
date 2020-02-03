@@ -12,7 +12,7 @@ entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hecta
 ,local-authority-eng:LEW,BL005,86-92 Bell Green,,51.429209,-0.037628,0.04,19,19,2019-10-21,,2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab
 2019-10-21,local-authority-eng:LEW,BR001,"302-308, 310-312 New Cross Road",,51.47538,-0.0374,0.09,11,11,2017-11-30,,2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab
 ,local-authority-eng:LEW,BR003,1 Brockley Cross,,51.46578,-0.03528,0.02,5,5,2017-11-30,,2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab
-2018-10-22,local-authority-eng:LEW,BR004,97 - 103 Florence Road,,51.47231,-0.03072,0.09,9,,2017-11-30,,2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab
+2018-10-22,local-authority-eng:LEW,BR004,97-103 Florence Road,,51.47231,-0.03072,0.09,9,,2017-11-30,,2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab
 2018-10-22,local-authority-eng:LEW,BR005,Land adjoining 196 Brockley Road,,51.46276,-0.03592,0.02,5,,2017-11-30,,2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab
 2018-10-22,local-authority-eng:LEW,BR006,111 and 115 Endwell Road,,51.46592,-0.0366,0.43,40,,2017-11-30,,2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab
 2019-10-21,local-authority-eng:LEW,BR008,219 Stanstead Road,,51.44242,-0.04098,0.05,11,11,2017-11-30,,2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab
@@ -149,7 +149,7 @@ entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hecta
 2018-10-22,local-authority-eng:LEW,BK005,"Tower House, 65-71 Lewisham High Street",,51.46289,-0.0096,0.17,56,56,2017-11-30,2019-10-21,2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab
 ,local-authority-eng:LEW,BK002,"BMW site, Lee Terrace",,51.46352,0.000695,0.35,30,30,2017-11-30,2019-10-21,2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab
 ,local-authority-eng:LEW,CS002,246 Brownhill Road,,51.44462,-0.00603,0.1,5,5,2017-11-30,2019-10-21,2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab
-,local-authority-eng:LEW,CP002,33 - 39 Beadnell Road,,51.44341,-0.04968,0.09,9,9,2017-11-30,2019-10-21,2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab
+,local-authority-eng:LEW,CP002,33-39 Beadnell Road,,51.44341,-0.04968,0.09,9,9,2017-11-30,2019-10-21,2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab
 ,local-authority-eng:LEW,CP003,437-439 Brockley Road,,51.45317,-0.03803,0.05,7,7,2017-11-30,2019-10-21,2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab
 ,local-authority-eng:LEW,EV004,Marine Wharf East,,51.48174,-0.03544,0.87,225,225,2017-11-30,2019-10-21,2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab
 ,local-authority-eng:LEW,FH006,14 Westwood Park,,51.44299,-0.05843,0.05,7,7,2017-11-30,2019-10-21,2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab
