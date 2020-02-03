@@ -1227,6 +1227,10 @@ resource,row-number,field,datatype,value
 370dae5fa1397606d1adab337a12a76e64b4d729ba713ea75a09f94a6f8653df,61,"GeoX,GeoY",OSGB,","
 370dae5fa1397606d1adab337a12a76e64b4d729ba713ea75a09f94a6f8653df,62,"GeoX,GeoY",OSGB,","
 370dae5fa1397606d1adab337a12a76e64b4d729ba713ea75a09f94a6f8653df,63,"GeoX,GeoY",OSGB,","
+37c83e866049a80b0b525cb002568ee8f9950e01c9be065488bab30a8206f725,1,OrganisationURI,opendatacommunities-uri,local-authority-eng:HAE
+37c83e866049a80b0b525cb002568ee8f9950e01c9be065488bab30a8206f725,2,OrganisationURI,opendatacommunities-uri,local-authority-eng:HAE
+37c83e866049a80b0b525cb002568ee8f9950e01c9be065488bab30a8206f725,3,OrganisationURI,opendatacommunities-uri,local-authority-eng:HAE
+37c83e866049a80b0b525cb002568ee8f9950e01c9be065488bab30a8206f725,4,OrganisationURI,opendatacommunities-uri,local-authority-eng:HAE
 386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735,52,"GeoX,GeoY",OSGB,","
 3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea,34,GeoX,decimal,52.200.96
 3c6a9a9d1c175350d98273d0dd73e85a5de2e55c4744b880426e818a3b62db90,3,Hectares,decimal,0..46
