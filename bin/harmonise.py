@@ -55,13 +55,16 @@ def format_decimal(value, precision=6):
 
 
 def normalise_integer(field, value):
-    value = re.sub(r"\.0+$", "", value, 1)
+    value = normalise_integer.regex.sub("", value, 1)
     try:
         n = int(value)
     except Exception as e:
         log_issue(field, "integer", value)
         return ""
     return format_integer(n)
+
+
+normalise_integer.regex = re.compile(r"\.0+$")
 
 
 def normalise_decimal(field, value, precision):
@@ -112,7 +115,10 @@ def lower_uri(value):
 
 
 def end_of_uri(value):
-    return re.sub(r".*/", "", value.rstrip("/").lower())
+    return end_of_uri.regex.sub("", value.rstrip("/").lower())
+
+
+end_of_uri.regex = re.compile(r".*/")
 
 
 def load_organisations():
