@@ -122,7 +122,7 @@ entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-n
 ,local-authority-eng:COV,OUT/2016/2230,http://planning.coventry.gov.uk/portal/servlets/ApplicationSearchServlet,52.403931,-1.506693,0.1525,,,,,ec1ff31625d546423b174d6e6eafca40efa4f10525199b0cbc6990ceb7d748a9
 ,local-authority-eng:COV,OUT/2013/0569,http://planning.coventry.gov.uk/portal/servlets/ApplicationSearchServlet,52.443984,-1.488121,0.1448,,,,,ec1ff31625d546423b174d6e6eafca40efa4f10525199b0cbc6990ceb7d748a9
 ,local-authority-eng:COV,OUT/2013/0041,http://planning.coventry.gov.uk/portal/servlets/ApplicationSearchServlet,52.43781,-1.490766,16.1,,,,,ec1ff31625d546423b174d6e6eafca40efa4f10525199b0cbc6990ceb7d748a9
-,local-authority-eng:COV,54800,http://planning.coventry.gov.uk/portal/servlets/ApplicationSearchServlet,8.2E+2,365,85.93,,,,,ec1ff31625d546423b174d6e6eafca40efa4f10525199b0cbc6990ceb7d748a9
+,local-authority-eng:COV,54800,http://planning.coventry.gov.uk/portal/servlets/ApplicationSearchServlet,,,85.93,,,,,ec1ff31625d546423b174d6e6eafca40efa4f10525199b0cbc6990ceb7d748a9
 ,local-authority-eng:COV,OUT/2014/2538,http://planning.coventry.gov.uk/portal/servlets/ApplicationSearchServlet,52.423177,-1.49992,19.64,,,,,ec1ff31625d546423b174d6e6eafca40efa4f10525199b0cbc6990ceb7d748a9
 ,local-authority-eng:COV,Ho10,http://planning.coventry.gov.uk/portal/servlets/ApplicationSearchServlet,52.438752,-1.5205,30.1,,,,,ec1ff31625d546423b174d6e6eafca40efa4f10525199b0cbc6990ceb7d748a9
 ,local-authority-eng:COV,H2:10,http://www.coventry.gov.uk/downloads/file/25899/final_local_plan_december_2017,52.42452,-1.465802,5.2,,,,,ec1ff31625d546423b174d6e6eafca40efa4f10525199b0cbc6990ceb7d748a9

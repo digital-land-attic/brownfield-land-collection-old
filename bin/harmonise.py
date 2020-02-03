@@ -84,6 +84,9 @@ def normalise_geometry(row):
     geox = Decimal(row["GeoX"])
     geoy = Decimal(row["GeoY"])
 
+    row["GeoX"] = ""
+    row["GeoY"] = ""
+
     if isinstance(geox, str) or isinstance(geoy, str):
         return row
 

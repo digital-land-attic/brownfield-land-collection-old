@@ -37,9 +37,9 @@ entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-n
 ,local-authority-eng:YOR,BR-024,https://www.york.gov.uk/downloads/download/4172/brownfield_register,53.9748,-1.0791,4.7,0,0,,,e60f9cc9cc6a66cb190e6f404e4a40ab1b93c687e3b9e97064b9add6560b9397
 ,local-authority-eng:YOR,BR-047,https://www.york.gov.uk/downloads/download/4172/brownfield_register,53.9553,-1.0772,0.27,0,0,,,e60f9cc9cc6a66cb190e6f404e4a40ab1b93c687e3b9e97064b9add6560b9397
 ,local-authority-eng:YOR,BR-048,https://www.york.gov.uk/downloads/download/4172/brownfield_register,53.9568,-1.0775,0.11,0,0,,,e60f9cc9cc6a66cb190e6f404e4a40ab1b93c687e3b9e97064b9add6560b9397
-,local-authority-eng:YOR,BR-025c,https://www.york.gov.uk/downloads/download/4172/brownfield_register,0,0,0,0,0,,,e60f9cc9cc6a66cb190e6f404e4a40ab1b93c687e3b9e97064b9add6560b9397
+,local-authority-eng:YOR,BR-025c,https://www.york.gov.uk/downloads/download/4172/brownfield_register,,,0,0,0,,,e60f9cc9cc6a66cb190e6f404e4a40ab1b93c687e3b9e97064b9add6560b9397
 ,local-authority-eng:YOR,BR-025b,https://www.york.gov.uk/downloads/download/4172/brownfield_register,53.9591,-1.0751,1.57,0,0,2017-12-21,,e60f9cc9cc6a66cb190e6f404e4a40ab1b93c687e3b9e97064b9add6560b9397
-,local-authority-eng:YOR,BR-049,https://www.york.gov.uk/downloads/download/4172/brownfield_register,0,0,0,0,0,,,e60f9cc9cc6a66cb190e6f404e4a40ab1b93c687e3b9e97064b9add6560b9397
-,local-authority-eng:YOR,BR-050,https://www.york.gov.uk/downloads/download/4172/brownfield_register,0,0,0,0,0,,,e60f9cc9cc6a66cb190e6f404e4a40ab1b93c687e3b9e97064b9add6560b9397
-,local-authority-eng:YOR,BR-051,https://www.york.gov.uk/downloads/download/4172/brownfield_register,0,0,0,0,0,,,e60f9cc9cc6a66cb190e6f404e4a40ab1b93c687e3b9e97064b9add6560b9397
-,local-authority-eng:YOR,BR-052,https://www.york.gov.uk/downloads/download/4172/brownfield_register,0,0,0,0,0,,,e60f9cc9cc6a66cb190e6f404e4a40ab1b93c687e3b9e97064b9add6560b9397
+,local-authority-eng:YOR,BR-049,https://www.york.gov.uk/downloads/download/4172/brownfield_register,,,0,0,0,,,e60f9cc9cc6a66cb190e6f404e4a40ab1b93c687e3b9e97064b9add6560b9397
+,local-authority-eng:YOR,BR-050,https://www.york.gov.uk/downloads/download/4172/brownfield_register,,,0,0,0,,,e60f9cc9cc6a66cb190e6f404e4a40ab1b93c687e3b9e97064b9add6560b9397
+,local-authority-eng:YOR,BR-051,https://www.york.gov.uk/downloads/download/4172/brownfield_register,,,0,0,0,,,e60f9cc9cc6a66cb190e6f404e4a40ab1b93c687e3b9e97064b9add6560b9397
+,local-authority-eng:YOR,BR-052,https://www.york.gov.uk/downloads/download/4172/brownfield_register,,,0,0,0,,,e60f9cc9cc6a66cb190e6f404e4a40ab1b93c687e3b9e97064b9add6560b9397

@@ -80,5 +80,5 @@ entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-n
 2018-11-23,local-authority-eng:BNE,17/0594/FUL,https://maps.london.gov.uk/brownfield-site-register/,51.614822,-0.176138,0.04,,,2018-11-23,,6d411b3c1436ec3e10e4bf3a63bb96456e14e34790752fd72189885036108f45
 2018-11-23,local-authority-eng:BNE,17/2581/PNO,https://maps.london.gov.uk/brownfield-site-register/,51.609475,-0.1811,0.11,,,2018-11-23,,6d411b3c1436ec3e10e4bf3a63bb96456e14e34790752fd72189885036108f45
 2018-11-23,local-authority-eng:BNE,17/6150/PNO,https://maps.london.gov.uk/brownfield-site-register/,51.622788,-0.177194,0.05,,,2018-11-23,,6d411b3c1436ec3e10e4bf3a63bb96456e14e34790752fd72189885036108f45
-2018-11-23,local-authority-eng:BNE,North Finchley SPD 2018 Site 4,https://maps.london.gov.uk/brownfield-site-register/,-0.175218,-0.175218,0.56,,,2018-11-23,,6d411b3c1436ec3e10e4bf3a63bb96456e14e34790752fd72189885036108f45
-2018-11-23,local-authority-eng:BNE,North Finchley SPD 2018 Site 5,https://maps.london.gov.uk/brownfield-site-register/,-0.175924,-0.175924,0.61,,,2018-11-23,,6d411b3c1436ec3e10e4bf3a63bb96456e14e34790752fd72189885036108f45
+2018-11-23,local-authority-eng:BNE,North Finchley SPD 2018 Site 4,https://maps.london.gov.uk/brownfield-site-register/,,,0.56,,,2018-11-23,,6d411b3c1436ec3e10e4bf3a63bb96456e14e34790752fd72189885036108f45
+2018-11-23,local-authority-eng:BNE,North Finchley SPD 2018 Site 5,https://maps.london.gov.uk/brownfield-site-register/,,,0.61,,,2018-11-23,,6d411b3c1436ec3e10e4bf3a63bb96456e14e34790752fd72189885036108f45
