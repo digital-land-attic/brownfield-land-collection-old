@@ -281,6 +281,7 @@ local-authority-eng:GRY,https://www.great-yarmouth.gov.uk/brownfield-land-regist
 local-authority-eng:HAA,https://www.havant.gov.uk/strategic-housing-land-availability-assessment,https://www.havant.gov.uk/havant-brownfield-register-2017-pdf-18-kb,,
 local-authority-eng:HAE,,http://hambleton.gov.uk/download/downloads/id/3686/brownfield_register.csv,,
 local-authority-eng:HAE,https://www.hambleton.gov.uk/info/20172/planning_policy/745/brownfield_land_register,https://opendata.arcgis.com/datasets/580f1ae73bcb4aaa9355b3faf458684e_0.csv,,
+local-authority-eng:HAE,https://www.hambleton.gov.uk/info/20172/planning_policy/745/brownfield_land_register,https://opendata.arcgis.com/datasets/eb4ffb7c2da7404d9d5faada94565df5_0.csv,2020-02-03,
 local-authority-eng:HAG,,https://www.harrogate.gov.uk/download/downloads/id/3132/12-12-2017_harrogate_brownfield_register_rev_1.csv,2017-12-12,2019-12-12
 local-authority-eng:HAG,https://www.harrogate.gov.uk/info/20101/planning_policy_and_the_local_plan/1049/brownfield_land_register,https://www.harrogate.gov.uk/download/downloads/id/3132/harrogate_brownfield_register_rev_1.csv,2017-12-12,
 local-authority-eng:HAG,https://www.harrogate.gov.uk/info/20101/planning_policy_and_the_local_plan/1049/brownfield_land_register,https://www.harrogate.gov.uk/download/downloads/id/3132/brownfield_land_register.csv,2019-12-20,
@@ -295,6 +296,7 @@ local-authority-eng:HAS,https://www.hastings.gov.uk/planning/policy/BrownfieldRe
 local-authority-eng:HAS,https://www.hastings.gov.uk/planning/policy/BrownfieldRegister/,https://www.hastings.gov.uk/content/planning/planning_policy/pdfs/Brownfield_Land_Register_CSV_final_December_2019.csv,,
 local-authority-eng:HAT,,https://www.hart.gov.uk/sites/default/files/4_The_Council/Policies_and_published_documents/Planning_policy/hart_brownfieldregister_2017-12-22_rev1.csv,2017-12-22,
 local-authority-eng:HAT,https://www.hart.gov.uk/Evidence-base,https://www.hart.gov.uk/sites/default/files/4_The_Council/Policies_and_published_documents/Planning_policy/hart_brownfieldregister_2018-12-21_rev1.csv,2019-12-21,
+local-authority-eng:HAT,https://www.hart.gov.uk/Evidence-base,https://www.hart.gov.uk/sites/default/files/4_The_Council/Policies_and_published_documents/Planning_policy/brownfield-land.csv,2020-02-03,
 local-authority-eng:HAV,https://www.havering.gov.uk/downloads/file/2999/brownfield_land_register_csv_file,https://www.havering.gov.uk/download/downloads/id/2999/brownfield_land_register_csv_file.csv,,
 local-authority-eng:HCK,,https://www.hackney.gov.uk/media/10019/brownfield-land-register/spreadsheet/hackney-brownfield-register,,2019-11-24
 local-authority-eng:HCK,https://hackney.gov.uk/brownfield-land-register,,2019-06-25,2019-10-20
