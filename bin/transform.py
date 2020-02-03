@@ -22,7 +22,7 @@ if __name__ == "__main__":
     # map of OrganisationURI to organisation CURIE
     organisation = {}
     for row in csv.DictReader(open("var/cache/organisation.csv", newline="")):
-        if "opendatacommunities" in row:
+        if row.get("opendatacommunities", None):
             organisation[row["opendatacommunities"]] = row["organisation"]
 
     # map of harmonised fields to digital-land fields
@@ -46,7 +46,10 @@ if __name__ == "__main__":
         for row in reader:
             o = {}
             row["resource"] = resource
-            row["OrganisationURI"] = organisation[row["OrganisationURI"]]
+
+            # translate OrganisationURI into an organisation CURIE
+            row["OrganisationURI"] = organisation.get(row["OrganisationURI"], "")
+
             for field in fieldnames:
                 o[field] = row[fields[field]]
 
