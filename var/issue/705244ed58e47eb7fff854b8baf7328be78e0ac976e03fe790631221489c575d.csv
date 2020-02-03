@@ -1,4 +1,4 @@
 row-number,field,datatype,value
 11,Hectares,decimal,<0.1
 12,Hectares,decimal,<0.1
-35,"GeoX,GeoY",OSGB,"31.3157,-0.7486"
+35,"GeoX,GeoY",OSGB,","
