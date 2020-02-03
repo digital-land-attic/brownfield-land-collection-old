@@ -1,4 +1,4 @@
-OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,Deliverable,NetDwellingsRangeFrom,NetDwellingsRangeTo,HazardousSubstances,Notes,FirstAddedDate,LastUpdatedDate,EndDate
+OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
 Wigan Council,,,,,,,0.80129598,,,,,,,,,,A/18/85712 refers,Apr-16,Nov-18,
 Wigan Council,,,,,,,0.259401687,,,,,,,,,,,Apr-16,Nov-18,
 Wigan Council,,,,,,,0.305647515,,,,,,,,,,A/15/81816 refers,Apr-16,Nov-18,
