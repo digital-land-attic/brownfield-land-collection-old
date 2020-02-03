@@ -215,6 +215,8 @@ def normalise_uri(field, value):
 
 
 def normalise_address(field, value):
+    # remove newlines and double-quotes, normalise spaces
+    value = " ".join(value.split()).replace('"', "")
     return value
 
 
@@ -223,9 +225,9 @@ def normalise(fieldname, value):
         return ""
 
     field = fields[fieldname]
-    extras = field.get("digital-land", {})
+    extra = field.get("digital-land", {})
 
-    for strip in extras.get("strip", []):
+    for strip in extra.get("strip", []):
         value = re.sub(strip, "", value)
 
     if fieldname == "OrganisationURI":
@@ -235,16 +237,15 @@ def normalise(fieldname, value):
         return normalise_integer(fieldname, value)
 
     if field.get("type", "") == "number":
-        return normalise_decimal(fieldname, value, extras.get("precision", 6))
-
-    if field.get("format", "") == "uri":
-        return normalise_uri(fieldname, value)
+        return normalise_decimal(fieldname, value, extra.get("precision", 6))
 
     if field.get("type", "") == "date":
         return normalise_date(fieldname, value)
 
-    # TBD: consider "format"
-    if fieldname.endswith("Address"):
+    if field.get("format", "") == "uri":
+        return normalise_uri(fieldname, value)
+
+    if extra.get("format", "") == "address":
         return normalise_address(fieldname, value)
 
     return value
