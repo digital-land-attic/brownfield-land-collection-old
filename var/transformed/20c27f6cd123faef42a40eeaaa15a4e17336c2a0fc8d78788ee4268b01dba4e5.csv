@@ -1,25 +1,25 @@
-entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:WYR,BR001,https://arcg.is/0nuG4n,,,0.61,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR002,https://arcg.is/0nuG4n,,,2.87,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR003,https://arcg.is/0nuG4n,,,0.05,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR004,https://arcg.is/0nuG4n,,,5.16,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR005,https://arcg.is/0nuG4n,,,0.12,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR006,https://arcg.is/0nuG4n,,,0.12,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR007,https://arcg.is/0nuG4n,,,0.14,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR008,https://arcg.is/0nuG4n,,,1.18,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR009,https://arcg.is/0nuG4n,,,0.6,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR010,https://arcg.is/0nuG4n,,,0.43,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR011,https://arcg.is/0nuG4n,,,1.69,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR012,https://arcg.is/0nuG4n,,,0.27,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR013,https://arcg.is/0nuG4n,,,0.61,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR014,https://arcg.is/0nuG4n,,,0.05,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR015,https://arcg.is/0nuG4n,,,0.07,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR016,https://arcg.is/0nuG4n,,,0.14,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR017,https://arcg.is/0nuG4n,,,0.07,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR018,https://arcg.is/0nuG4n,,,0.22,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR019,https://arcg.is/0nuG4n,,,0.07,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR020,https://arcg.is/0nuG4n,,,13.61,220,338,2017-12-15,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR021,https://arcg.is/0nuG4n,,,10.32,120,120,2017-12-15,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR022,https://arcg.is/0nuG4n,,,0.29,9,9,2017-12-15,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR023,https://arcg.is/0nuG4n,,,0.34,,,2017-12-15,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
-,local-authority-eng:WYR,BR024,https://arcg.is/0nuG4n,,,0.41,,,2017-12-15,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,local-authority-eng:WYR,BR001,"Normoss Farm, Normoss Road, Poulton",https://arcg.is/0nuG4n,,,0.61,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR002,"South of Kepple Lane, Garstang",https://arcg.is/0nuG4n,,,2.87,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR003,"52-60 Poulton Road, Fleetwood",https://arcg.is/0nuG4n,,,0.05,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR004,"Land north and east of Bourne Road, Thornton.",https://arcg.is/0nuG4n,,,5.16,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR005,"Royal Oak, 64 Breck Road, Poulton",https://arcg.is/0nuG4n,,,0.12,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR006,"Preesall Service Station, Sandy Lane, Preesall",https://arcg.is/0nuG4n,,,0.12,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR007,"Brimelows Garage, 54 Hardhorn Road, Poulton",https://arcg.is/0nuG4n,,,0.14,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR008,"Fairfield Nurseries, Puddle House Lane, Poulton",https://arcg.is/0nuG4n,,,1.18,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR009,"West of Nightingale Way, Catterall",https://arcg.is/0nuG4n,,,0.6,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR010,"Lincluden, Wallace Lane, Forton",https://arcg.is/0nuG4n,,,0.43,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR011,"North of Garstang Road, Pilling",https://arcg.is/0nuG4n,,,1.69,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR012,"Throstles Nest, Whinney Brow Lane, Forton",https://arcg.is/0nuG4n,,,0.27,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR013,"Prospect Farm, Skippool Road, Thornton",https://arcg.is/0nuG4n,,,0.61,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR014,"Rear The Steamer, Victoria Street, Fleetwood",https://arcg.is/0nuG4n,,,0.05,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR015,"5 Lockwood Avenue, Poulton",https://arcg.is/0nuG4n,,,0.07,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR016,"Barneys Bingo Club, Poulton Road, Fleetwood",https://arcg.is/0nuG4n,,,0.14,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR017,"Garstang Business & Community Centre, 96 High Street, Garstang",https://arcg.is/0nuG4n,,,0.07,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR018,"Fleetwood Pier, The Esplanade, Fleetwood",https://arcg.is/0nuG4n,,,0.22,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR019,"Carleton Court, 155-161 Lord Street, Fleetwood",https://arcg.is/0nuG4n,,,0.07,,,2017-12-14,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR020,"North of Norcross Lane, Thornton Cleveleys",https://arcg.is/0nuG4n,,,13.61,220,338,2017-12-15,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR021,"South of Fleetwood Dock, Fleetwood",https://arcg.is/0nuG4n,,,10.32,120,120,2017-12-15,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR022,"Garstang Country Hotel & Golf Club, Garstang Road, Bowgreave",https://arcg.is/0nuG4n,,,0.29,9,9,2017-12-15,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR023,Island Farm Cartmell Lane Nateby Preston Lancashire PR3 0LU,https://arcg.is/0nuG4n,,,0.34,,,2017-12-15,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5
+,local-authority-eng:WYR,BR024,Lakeland View Laidleys Walk Fleetwood Lancashire FY7 7JL,https://arcg.is/0nuG4n,,,0.41,,,2017-12-15,,20c27f6cd123faef42a40eeaaa15a4e17336c2a0fc8d78788ee4268b01dba4e5

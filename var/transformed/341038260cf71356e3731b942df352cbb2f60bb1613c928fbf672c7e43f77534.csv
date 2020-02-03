@@ -1,23 +1,23 @@
-entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:SNR,BFL 1,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-2017-11-21,local-authority-eng:SNR,BFL 2,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-,local-authority-eng:SNR,BFL 3,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-,local-authority-eng:SNR,BFL 4,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-2017-11-21,local-authority-eng:SNR,BFL 5,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-2017-11-21,local-authority-eng:SNR,BFL 6,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-,local-authority-eng:SNR,BFL 7,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-,local-authority-eng:SNR,BFL 8,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-2017-11-21,local-authority-eng:SNR,BFL 11,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-,local-authority-eng:SNR,BFL 13,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-,local-authority-eng:SNR,BFL 14,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-2017-11-21,local-authority-eng:SNR,BFL 15,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-,local-authority-eng:SNR,BFL 16,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-,local-authority-eng:SNR,BFL 17,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-2017-11-21,local-authority-eng:SNR,BFL 18,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-2017-11-21,local-authority-eng:SNR,BFL 19,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-2017-11-21,local-authority-eng:SNR,BFL 20,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-2017-11-21,local-authority-eng:SNR,BFL 21,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-2017-11-21,local-authority-eng:SNR,BFL 22,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-2017-11-21,local-authority-eng:SNR,BFL 23,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-2017-11-21,local-authority-eng:SNR,BFL 24,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
-2017-11-21,local-authority-eng:SNR,BFL 26,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,local-authority-eng:SNR,BFL 1,"Land West of Ashton Rd., Roade, NN7 2LF",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+2017-11-21,local-authority-eng:SNR,BFL 2,"Burcote Road, Towcester, NN12 6TF & NN12 6LX",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+,local-authority-eng:SNR,BFL 3,"Brackley Sawmills, Northampton Road Brackley, NN13 7DL",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+,local-authority-eng:SNR,BFL 4,"Moat Lane, Towcester, NN12 6AD [58 units]",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+2017-11-21,local-authority-eng:SNR,BFL 5,"Land south of Syresham Village Hall, Syresham, NN13 5HL [next to 42a High Sreet, Syresham ]",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+2017-11-21,local-authority-eng:SNR,BFL 6,"Hayes Road, Deanshanger, MK19 6HP & MK19 6FA & MK19 6HR",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+,local-authority-eng:SNR,BFL 7,"Moat Lane, Towcester, NN12 6AD [17 units]",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+,local-authority-eng:SNR,BFL 8,"Britannia Works, High Street & Maltings Row, Deanshanger, MK19 6HR",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+2017-11-21,local-authority-eng:SNR,BFL 11,"The Hunters, The Green Deanshanger, MK19 6HL",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+,local-authority-eng:SNR,BFL 13,"Sun Moon and Stars, 64 High Street Blisworth NN7 3BJ",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+,local-authority-eng:SNR,BFL 14,"Aynhoe Park House, Aynhoe Park, Aynhoe, OX17 3BQ",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+2017-11-21,local-authority-eng:SNR,BFL 15,"Mill Lane, Brackley, NN13 7AL [&NN13 7XU ]",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+,local-authority-eng:SNR,BFL 16,"100 High Street, Brackley, NN13 7DR",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+,local-authority-eng:SNR,BFL 17,"Old School House, Station Road, Cogenhoe",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+2017-11-21,local-authority-eng:SNR,BFL 18,"50 Church Street, Cogenhoe",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+2017-11-21,local-authority-eng:SNR,BFL 19,"Silverstone C Of E Primary [Junior] School Green Lane, Silverstone, 4 Home Cl, Silverstone, Towcester NN12 8DL [to 5 res.units]",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+2017-11-21,local-authority-eng:SNR,BFL 20,"Hartwell Road, Roade",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+2017-11-21,local-authority-eng:SNR,BFL 21,"Silverstone Infants School High Street Silverstone NN12 8US, Silverstone [to 4 res. units]",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+2017-11-21,local-authority-eng:SNR,BFL 22,"Mill Lane, Brackley, NN13 7AL [&NN13 7XU ]",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+2017-11-21,local-authority-eng:SNR,BFL 23,"Tuwesten Road, Brackley",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+2017-11-21,local-authority-eng:SNR,BFL 24,Short Lane,,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534
+2017-11-21,local-authority-eng:SNR,BFL 26,"Green Lane Nursery Springfield,Towcester NN12 6TQ",,,,,,,,,341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534

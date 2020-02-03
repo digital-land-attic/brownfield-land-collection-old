@@ -1,4 +1,4 @@
-entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-05-01,local-authority-eng:EHA,BFL/001,,51.15936,-0.96696,0.41,6,12,2017-05-01,,2a57acb3e6ea757230b86e9092df3552024a511a99a05ed46fed48c52afe3a90
-2017-05-01,local-authority-eng:EHA,BFL/002,,50.909805,-0.99614,7.46,68,135,2017-05-01,,2a57acb3e6ea757230b86e9092df3552024a511a99a05ed46fed48c52afe3a90
-2017-05-01,local-authority-eng:EHA,BFL/003,,51.77664,-0.801819,0.37,5,11,2017-05-01,,2a57acb3e6ea757230b86e9092df3552024a511a99a05ed46fed48c52afe3a90
+entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2017-05-01,local-authority-eng:EHA,BFL/001,"Convent School, Anstey Lane, Alton, GU34 2NG",,51.15936,-0.96696,0.41,6,12,2017-05-01,,2a57acb3e6ea757230b86e9092df3552024a511a99a05ed46fed48c52afe3a90
+2017-05-01,local-authority-eng:EHA,BFL/002,"Keydell Nurseries, Havant Road, Horndean",,50.909805,-0.99614,7.46,68,135,2017-05-01,,2a57acb3e6ea757230b86e9092df3552024a511a99a05ed46fed48c52afe3a90
+2017-05-01,local-authority-eng:EHA,BFL/003,"Land rear of 8-10 London Road, Liphook",,51.77664,-0.801819,0.37,5,11,2017-05-01,,2a57acb3e6ea757230b86e9092df3552024a511a99a05ed46fed48c52afe3a90

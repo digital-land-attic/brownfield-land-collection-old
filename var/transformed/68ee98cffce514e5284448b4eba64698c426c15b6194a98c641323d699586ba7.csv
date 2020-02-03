@@ -1,19 +1,19 @@
-entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-11-28,local-authority-eng:MOL,BLR02,https://maps.molevalley.gov.uk/,51.232473,-0.329811,0.5,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR06,https://maps.molevalley.gov.uk/,51.293989,-0.331253,0.21,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR04,https://maps.molevalley.gov.uk/,51.297151,-0.330567,1.85,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR01,https://maps.molevalley.gov.uk/,51.276444,-0.37199,0.33,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR05,https://maps.molevalley.gov.uk/,51.295224,-0.332044,0.77,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR03,https://maps.molevalley.gov.uk/,51.234295,-0.333982,0.33,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR09,https://maps.molevalley.gov.uk/,51.293447,-0.32739,0.07,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR12,https://maps.molevalley.gov.uk/,51.23337,-0.325781,0.11,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR13,https://maps.molevalley.gov.uk/,51.232904,-0.327615,0.08,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR14,https://maps.molevalley.gov.uk/,51.232398,-0.329025,0.1,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR15,https://maps.molevalley.gov.uk/,51.236557,-0.32354,0.25,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR16,https://maps.molevalley.gov.uk/,51.239156,-0.321137,0.04,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR10,https://maps.molevalley.gov.uk/,51.293765,-0.315605,0.11,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR17,https://maps.molevalley.gov.uk/,51.230391,-0.326652,0.21,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR08,https://maps.molevalley.gov.uk/,51.299528,-0.329087,0.06,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR19,https://maps.molevalley.gov.uk/,51.314723,-0.352017,9.25,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR11,https://maps.molevalley.gov.uk/,51.296136,-0.32784,0.14,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR18,https://maps.molevalley.gov.uk/,51.23175,-0.330087,0.05,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2017-11-28,local-authority-eng:MOL,BLR02,"St Martin's Walk Centre (Upper Floors), Dorking RH4 1UX",https://maps.molevalley.gov.uk/,51.232473,-0.329811,0.5,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR06,"Claire House and James House, Bridge St, Leatherhead KT22 8BZ",https://maps.molevalley.gov.uk/,51.293989,-0.331253,0.21,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR04,"Bull Hill Site, Leatherhead, KT22 7AH",https://maps.molevalley.gov.uk/,51.297151,-0.330567,1.85,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR01,"Grove Corner, Lower Shott/Guildford Road, Bookham KT23 4LP",https://maps.molevalley.gov.uk/,51.276444,-0.37199,0.33,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR05,"Sorting Office, Station Rd, Leatherhead KT22 7AE and Telephone Exchange, Station Rd, Leatherhead KT22 7AF",https://maps.molevalley.gov.uk/,51.295224,-0.332044,0.77,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR03,"Vine Court, Chalkpit Lane, Dorking RH4 1XG",https://maps.molevalley.gov.uk/,51.234295,-0.333982,0.33,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR09,"Devonshire House, 66 Church St, Leatherhead KT22 8DP",https://maps.molevalley.gov.uk/,51.293447,-0.32739,0.07,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR12,"Land to the rear of 272-294 High St, Dorking RH4 1QT",https://maps.molevalley.gov.uk/,51.23337,-0.325781,0.11,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR13,"207-213 High St, Dorking RH4 1RU",https://maps.molevalley.gov.uk/,51.232904,-0.327615,0.08,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR14,"145-153 High St, Dorking RH4 1AG",https://maps.molevalley.gov.uk/,51.232398,-0.329025,0.1,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR15,"Magistrates Court, London Road, Dorking RH4 1SX",https://maps.molevalley.gov.uk/,51.236557,-0.32354,0.25,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR16,"46-48 Lincoln Rd, Dorking RH4 1TD",https://maps.molevalley.gov.uk/,51.239156,-0.321137,0.04,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR10,"Fortyfoot Hall, Fortyfoot Rd, Leatherhead KT22 8RY",https://maps.molevalley.gov.uk/,51.293765,-0.315605,0.11,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR17,"Institute Of Further Education, Dene St, Dorking RH4 3EB",https://maps.molevalley.gov.uk/,51.230391,-0.326652,0.21,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR08,"37 & 39 Kingston Rd, Leatherhead KT22 7SL",https://maps.molevalley.gov.uk/,51.299528,-0.329087,0.06,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR19,"Queen Elizabeth Foundation, Woodlands Rd, Leatherhead KT22 0BN",https://maps.molevalley.gov.uk/,51.314723,-0.352017,9.25,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR11,"Fairfield Works, Upper Fairfield Rd, Leatherhead KT22 7HJ",https://maps.molevalley.gov.uk/,51.296136,-0.32784,0.14,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR18,"87-99 High St, Dorking RH4 1AN",https://maps.molevalley.gov.uk/,51.23175,-0.330087,0.05,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7

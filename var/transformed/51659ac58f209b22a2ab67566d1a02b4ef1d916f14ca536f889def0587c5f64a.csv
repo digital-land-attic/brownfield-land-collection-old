@@ -1,34 +1,34 @@
-entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-21,local-authority-eng:BAS,BRABB100,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.06,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,BRCHS100,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.07,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,BRK100,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.08,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,BRLAN100,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.02,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,BRLAN101,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.19,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,BRMAR100,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.06,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,BRMSN100,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.03,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,BROLD100,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.4,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,BRPEN100,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.17,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,BRPEN101,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.6,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,BRWES100,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.05,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,BRWES101,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.02,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,BRWFD100,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.21,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,BRWID100,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.04,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,CLU1,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.66,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,K4,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.59,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,KING10,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.43,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,KING11A,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.11,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,KING11B,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.19,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,KING12A,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.1,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,KING12B,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.34,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,KING15,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.72,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,LAN1,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.96,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,MSN14,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,2.24,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,NEW1,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,1.67,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,RAD15,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,1.94,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,RAD9,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.34,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,SSV20,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.13,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,TIM1,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.85,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,TWT1,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.62,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,WES1B,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,5.11,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,WES1C,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,1.14,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
-2017-12-21,local-authority-eng:BAS,WES2,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,2.2,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2017-12-21,local-authority-eng:BAS,BRABB100,"7 Lower Borough Walls, Bath",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.06,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,BRCHS100,"Newbridge House, Bristol Road, Chew Stoke",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.07,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,BRK100,"St Augustines Surgery, 4 Station Road, Keynsham",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.08,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,BRLAN100,"Parish Centre, Harley Street, Bath",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.02,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,BRLAN101,"E Block, MoD Ensleigh, Bath",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.19,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,BRMAR100,"Westways Garage, Bath Road, Marksbury",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.06,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,BRMSN100,"The Island, Midsomer Norton",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.03,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,BROLD100,"33 Oldfield Road, Bath",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.4,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,BRPEN100,"Pensford Garage, New Road, Pensford",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.17,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,BRPEN101,"Old Colliery Yard, Wick Lane, Pensford",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.6,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,BRWES100,"Unit 2 Lymore Gardens, Bath",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.05,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,BRWES101,"151 - 152 High Street Twerton, Bath",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.02,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,BRWFD100,"Designer Composites, Fosseway, Westfield",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.21,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,BRWID100,"44 Lower Bristol Road, Bath",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.04,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,CLU1,"The Wharf, Greensbrook, Clutton",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.66,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,K4,"Riverside, Keynsham",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.59,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,KING10,Hinton Garage,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.43,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,KING11A,East of Onega Terrace,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.11,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,KING11B,Onega Centre,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.19,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,KING12A,West of Onega Terrace,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.1,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,KING12B,Army Reserves Centre,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.34,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,KING15,"SB8 Windsor Bridge Road/Upper Bristol Road, Bath",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.72,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,LAN1,SB16 Burlington Street,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.96,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,MSN14,"SSV11 St Peter's Factory, Westfield",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,2.24,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,NEW1,"SB15 Hartwells Garage, Bath",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,1.67,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,RAD15,"Old Pit Yard, Clandown, Radstock",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,1.94,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,RAD9,"SSV17 Former Radstock County Infants, Radstock",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.34,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,SSV20,"SSV20 Former St Nicholas School, Radstock",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.13,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,TIM1,"SR14 Wheelers Manufacturing Blockworks, Timsbury",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.85,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,TWT1,"SB14 Twerton Park, Bath (part redevelopment)",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,0.62,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,WES1B,"Bath Western Riverside, Bath (western)",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,5.11,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,WES1C,SB8 Recycling Centre,https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,1.14,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a
+2017-12-21,local-authority-eng:BAS,WES2,"Bath Press, Bath",https://isharemaps.bathnes.gov.uk/atMyCouncil.aspx,,,2.2,,,2017-12-21,,51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a

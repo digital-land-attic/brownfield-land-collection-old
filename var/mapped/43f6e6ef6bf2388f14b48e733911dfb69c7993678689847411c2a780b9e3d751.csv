@@ -1,92 +1,193 @@
 OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,Deliverable,NetDwellingsRangeFrom,NetDwellingsRangeTo,HazardousSubstances,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.84,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.43,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.3,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.62,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.32,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.66,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.67,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.42,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.21,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,22.59,Mixed Ownership,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.07,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.17,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.28,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.16,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.6,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.49,Mixed Ownership,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.43,Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.56,Owned by a public authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.42,Owned by a public authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.66,Owned by a public authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.4,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.05,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.13,Owned by a public authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.81,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.62,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.66,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.18,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.26,Owned by a public authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.18,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.02,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.14,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.19,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.26,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.23,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.28,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.14,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.5,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.11,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.06,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.38,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.95,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.86,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.36,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.3,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.15,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.24,Owned by a public authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.51,Owned by a public authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.6,Owned by a public authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.65,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-,,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.81,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.11,Owned by a public authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.07,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.06,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.3,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.11,Owned by a public authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.15,Owned by a public authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.077,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.45,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.28,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.02,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.06,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.214,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.15,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.46,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.62,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.098,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0912,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.13,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.31,Owned by a public authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0912,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.3,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.195,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,4.0,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.5,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.098,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.97,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.14,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.083,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.15,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0994,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0479,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.09,Owned by a public authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0737,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.2635,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.38,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.04,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.297,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.12,Owned by a public authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.4127,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.02,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.04,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,St. Just 1 Powell Road Buckhurst Hill IG9 5RF,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.84,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Lower Car Park,Queens Road Buckhurst Hill IG9 5BZ",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.43,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,2-7 Lower Queens Road Buckhurst Hill IG9 6DL,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.3,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Grove Lane Chigwell IG7 6JF,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.62,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Woodview Lambourne Road Chigwell IG7 6HX,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.32,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,245 High Road Chigwell IG7 5BL,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.66,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,801-803 Chigwell Road Woodford Bridge IG8 8AU,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.67,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Grange Court 72 High Road Chigwell IG7 6PT,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.42,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,The Maypole 171 Lambourne Road Chigwell IG7 6EF,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.21,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,The Limes Estate Chigwell IG7 5LP,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,22.59,Mixed Ownership,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,105 Manor Road Chigwell IG7 5PN,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.07,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,146 Hainault Road Chigwell IG7 5DL,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.17,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,The Stag Pub Brentwood Road Ongar CM5 9DH,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.28,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,28-91 Parklands Coopersale CM16 7RE,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.16,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Epping Station Epping CM16 4HW,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.6,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Land at St John Road Epping CM16 5DU,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.49,Mixed Ownership,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,25 Hemnall Street Epping CM16 4LU,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.43,Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Cottis Lane Epping CM16 4BL,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.56,Owned by a public authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Car Park Bakers Lane Epping  CM16 5,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.42,Owned by a public authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Civic Offices 323 High Street Epping CM16 4BX,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.66,Owned by a public authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,17 Bower Vale Epping CM16 7AS,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.4,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,287-291 High Street Epping CM16 4DA,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.05,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Epping Library St Johns Road Epping CM16 5DN,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.13,Owned by a public authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Land at Gypsy Mead Ongar Road Fyfield CM5 0RB,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.81,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Loughton Station Car Park Station Road Loughton IG10 4NZ,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.62,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Debden Station Car Park Chigwell Lane Loughton IG10 3TG,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.66,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Land at Vere Road Loughton IG10 3S,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.18,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Loughton Library Traps Hill Loughton IG10 1HD,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.26,Owned by a public authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Car Park, High Road, Loughton",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.18,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Former Epping Forest College Borders Lane Loughton IG10 3SA,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.02,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,46-48 Station Road Loughton IG10 4NX,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.14,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Former Electricity Substation Roding Road Loughton IG10 3ED,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.19,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,63 Wellfields Loughton IG10 1PA,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.26,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,70 Wellfields Loughton IG10 1NY,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.23,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,13 Alderton Hill Loughton IG10 3JD,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.28,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,60 Traps Hill Loughton IG10 1TD,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.14,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,St Thomas Moore Church 106 Willingale Road Loughton IG10 2DA,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.5,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,268-278 High Road Loughton IG10 4BG,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.11,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,9-11 High Beech Road Loughton IG10 4BN,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.06,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Avenue Home London Road, Latton Common, CM17 9NJ",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.38,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Norton Heath Riding Centre Fingrith Hall Lane High Ongar CM4 0JP,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.95,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Fencing Centre Pecks Hill Nazeing EN9 2NY,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.86,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Kingsmead School Epping Road Roydon CM19 5HU,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.36,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Theydon Bois London Underground Car Park Station Approach Theydon Bois CM16 7HR,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.3,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Wain Coppice Row Theydon Bois CM16 7ER,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.15,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Fire Station Sewardstone Road Waltham Abbey EN9 1PA,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.24,Owned by a public authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Waltham Abbey Community Centre Saxon Way Waltham Abbey EN9 1QD,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.51,Owned by a public authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Waltham Abbey Swimming Pool, Roundhills, Waltham Abbey, EN9 1UP",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.6,Owned by a public authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Pine Tree Nursery Avey Lane Waltham Abbey EN9 3QH,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.65,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+,,,Chase Farm Business Centre Vicarage Lane West North Weald CM16 6AL,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.81,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Land and Garages Chequers Road Site B 
+Loughton 
+Essex 
+IG10 3QF",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.11,Owned by a public authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Bridge House
+Roding Road 
+Loughton 
+Essex 
+IG10 3ED",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.07,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Hillview   St Leonards Road   Nazeing   Waltham Abbey   Essex  EN9 2HQ,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.06,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Central House 
+High Street 
+Ongar 
+Essex 
+CM5 9AA",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.3,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Garages adj 92/94 Beechfield Walk  Waltham Abbey  Essex  EN9 3AD,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.11,Owned by a public authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Land and Garages   Ladyfields   Loughton   Essex   IG10 3RP,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.15,Owned by a public authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Former Total Service Station  Nazeing Road  Nazeing  Essex  EN9 2JL,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.077,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Burleigh Nursery  Hoe Lane  Nazeing  Essex  EN9 2RJ,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.45,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Rylston 
+Sewardstone Road 
+Waltham Abbey 
+Essex 
+E4 7RF",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.28,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"94 Lawton Road 
+Loughton 
+Essex 
+IG10 2AA",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.02,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Mackays Stores Ltd 
+213 - 215 High Road 
+Loughton 
+Essex 
+IG10 1BB",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.06,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Land r/o 33-37 Hillyfields  Loughton  Essex  IG10 2PT,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.214,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Sixteen String Jack   Coppice Row   Theydon Bois   Epping  Essex   CM16 7DS,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.15,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Cobmead Cobmead  Honey Lane  Waltham Abbey  Essex  EN9 3BA,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.46,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,The Paddock  Grove Lane  Chigwell  Essex  IG7 6JF,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.62,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"89 High Road
+Loughton
+Essex
+IG10 4JD",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.098,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"188 - 194 High Road
+Loughton
+Essex
+IG10 1DN",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0912,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Land to the rear of 268-278 High Road
+Loughton 
+Essex 
+IG10 4BG",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.13,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Garages behind 17 Queens Road 
+North Weald 
+Essex
+CM16 6JE",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.31,Owned by a public authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"188-194 High Road 
+Loughton 
+Essex
+IG10 1DN",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0912,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Stoneshot Farm 
+Hoe Lane 
+Nazeing 
+Essex 
+EN9 2RW",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.3,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"North Weald Golf Club 
+Rayley Lane 
+North Weald 
+Essex
+CM16 6AR",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.195,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Barnfield   Epping Road   Roydon   Essex  CM19 5DW,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,4.0,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Chimes Garden Centre 
+Old Nazeing Road 
+Nazeing 
+Waltham Abbey 
+Essex
+EN10 6RJ",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.5,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Pyrles Lane Nursery 
+Pyrles Lane 
+Loughton 
+Essex 
+IG10 2NL",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.098,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,Sterling House  Langston Road  Loughton  Essex  IG10 3TS,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.97,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Royal Oak
+Forest Road
+Loughton
+Essex
+IG10 1EG",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.14,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"32 Palmerston Road
+Buckhurst Hill
+Essex
+IG9 5LW",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.083,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"126 Manor Road
+Chigwell
+Essex
+IG7 5PR",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.15,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"160 Manor Road
+Chigwell
+Essex
+IG7 5PX",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0994,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"2 and 3 Sewardstone Road
+Waltham Abbey
+Essex
+EN9 1NA",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0479,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Adj Garage Block
+Pentlow Way
+Buckhurst Hill
+Essex
+IG9 6BZ",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.09,Owned by a public authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"2 Connaught Avenue
+Loughton
+Essex
+IG10 4DP",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0737,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Woodlands
+152 High Road
+Chigwell
+Essex
+IG7 5BQ",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.2635,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Pine Lodge Riding Centre
+Lippitts Hill
+Loughton
+Essex
+IG10 4AL",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.38,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"The Retreat
+Market Place
+Abridge
+Essex
+RM4 1AU",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.04,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Herb Farm Granaries
+London Road
+Hastingwood
+Essex
+CM17 9LH",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.297,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Land and Garages
+Woollard Street
+Waltham Abbey
+Essex
+EN9 1HE",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.12,Owned by a public authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,"Land at Burleigh Lodge
+Hoe Lane
+Nazeing
+Essex
+EN9 2RJ",,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.4127,Not Owned by a Public Authority,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,111 Church Hill Loughton IG10 4BE,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.02,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,,1 Spring Grove Loughton IG10 4QA,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.04,Not Owned by a Public Authority,Not Permissioned,,,,,,,,,,,

@@ -1,46 +1,46 @@
-entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:NEL,BS0001,,,,0.8,32,32,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0002,,,,0.27,24,30,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0003,,,,3.76,110,110,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0004,,,,0.54,14,14,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0005,,,,3.96,118,118,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0006,,,,0.18,14,14,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0007,,,,0.21,35,80,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0008,,,,4.16,176,260,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0009,,,,0.58,13,22,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0010,,,,0.43,32,34,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0011,,,,3.22,113,113,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0012,,,,10.38,390,390,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0013,,,,0.43,13,13,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0015,,,,0.5,19,19,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0016,,,,0.18,12,12,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0017,,,,0.66,8,8,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0018,,,,0.18,14,14,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0020,,,,0.34,18,18,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0021,,,,0.08,11,11,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0022,,,,0.27,21,21,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0027,,,,0.2,8,8,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0028,,,,0.81,8,8,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0030,,,,0.58,7,7,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0031,,,,0.15,1,4,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0032,,,,0.16,5,5,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0033,,,,0.14,9,9,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0034,,,,0.08,4,4,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0035,,,,0.05,4,4,2019-11-06,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0037,,,,0.09,5,5,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0038,,,,0.26,9,9,2017-10-19,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0039,,,,0.17,3,3,2017-10-20,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0045,,,,0.026,7,7,2018-10-22,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0046,,,,0.14,3,5,2018-10-22,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0047,,,,0.97,7,7,2018-10-22,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0049,,,,0.57,30,30,2018-10-22,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0052,,,,0.09,8,8,2018-11-01,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0058,,,,1.25,30,30,2018-11-01,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0061,,,,0.24,3,3,2018-11-01,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0066,,,,0.24,2,2,2018-11-01,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0067,,,,0.52,8,8,2018-11-01,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0068,,,,0.02,6,6,2019-11-06,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0069,,,,0.01,5,5,2019-11-06,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0070,,,,0.02,5,5,2019-11-06,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0071,,,,0.09,9,9,2019-11-06,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
-,local-authority-eng:NEL,BS0072,,,,0.29,6,6,2019-11-06,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,local-authority-eng:NEL,BS0001,"Tower Place, Waterworks Street, Immingham",,,,0.8,32,32,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0002,"71-85 Hamilton Street, Grimsby",,,,0.27,24,30,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0003,"Chapman's pond, Hawthorne Avenue, Cleethorpes",,,,3.76,110,110,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0004,"Land off Pelham Road, Cleethorpes (1)",,,,0.54,14,14,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0005,"Land off Pelham Road, Cleethorpes (2)",,,,3.96,118,118,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0006,"Land west of Cartergate, Grimsby",,,,0.18,14,14,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0007,"Former Clifton Bingo, Grant Street, Grimsby",,,,0.21,35,80,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0008,"Former Birds-eye factory site, Ladysmith Road, Grimsby",,,,4.16,176,260,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0009,"Claremont House, 7 Welholme Avenue, Grimsby",,,,0.58,13,22,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0010,"The Cedars offices, Eastern Inway, Grimsby",,,,0.43,32,34,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0011,"Cordage Mill, Convamore Road, Grimsby",,,,3.22,113,113,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0012,"Former Western School site, Cambridge Road, Grimsby",,,,10.38,390,390,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0013,"Land off College Street, Grimsby",,,,0.43,13,13,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0015,"Land at north west of Diana Princess of Wales Hospital site, Grimsby",,,,0.5,19,19,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0016,"Fletchers Yard, Wellowgate, Grimsby",,,,0.18,12,12,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0017,"Land at Willows Farm, Immingham",,,,0.66,8,8,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0018,"Land at 65 Park Street/brereton Avenue, Cleethorpes",,,,0.18,14,14,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0020,"Land at Trenchard close, Immingham",,,,0.34,18,18,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0021,"29-31 Chantry Lane, Grimsby",,,,0.08,11,11,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0022,"Former leaking boot public house, Grimsby Road and Suggitts Lane, Cleethorpes",,,,0.27,21,21,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0027,"Land at Utgard Way, Grimsby",,,,0.2,8,8,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0028,"7 Barkhouse Lane, Cleethorpes",,,,0.81,8,8,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0030,"Land at Station Road, Stallingborough",,,,0.58,7,7,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0031,"St James Tennis club, Hereford Avenue, Grimsby",,,,0.15,1,4,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0032,"Garages Service Road 8, Grimsby",,,,0.16,5,5,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0033,"r/o 71 and 73 Sea View Street, Cleethorpes",,,,0.14,9,9,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0034,"Land adjacent to 103 Roberts Street, Grimsby",,,,0.08,4,4,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0035,"279 Willingham Street, Grimsby",,,,0.05,4,4,2019-11-06,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0037,"Land at Norfolk Lane, Cleethorpes",,,,0.09,5,5,2017-10-18,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0038,"The Oak Tree, Norwich Avenue, Grimsby",,,,0.26,9,9,2017-10-19,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0039,"r/o 59 Cheapside, Waltham",,,,0.17,3,3,2017-10-20,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0045,"r/o Helsenor Cheapside, Waltham",,,,0.026,7,7,2018-10-22,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0046,"20 Yarra Road, Cleethorpes",,,,0.14,3,5,2018-10-22,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0047,"Wentworth House, Church Lane, Stallingborough",,,,0.97,7,7,2018-10-22,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0049,"Land at Church Lane, Old Clee Grimsby",,,,0.57,30,30,2018-10-22,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0052,"Rear of 110 Harold Street, Grimsby",,,,0.09,8,8,2018-11-01,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0058,"Land at Rear 184 Humberston Avenue, Humberston",,,,1.25,30,30,2018-11-01,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0061,"46 & 50 Humberston Avenue, Humberston",,,,0.24,3,3,2018-11-01,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0066,"Land adjacent to South Sea Lane Barns, Humberston",,,,0.24,2,2,2018-11-01,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0067,"Willows Centre, Barnmouth Drive, Grimsby",,,,0.52,8,8,2018-11-01,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0068,"183-185 Cleethorpe Road, Grimsby",,,,0.02,6,6,2019-11-06,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0069,"138-140 Cleethorpe Road, Grimsby",,,,0.01,5,5,2019-11-06,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0070,"3 Hainton Avenue, Grimsby",,,,0.02,5,5,2019-11-06,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0071,"Eleanor House, Eleanor Street, Grimsby",,,,0.09,9,9,2019-11-06,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e
+,local-authority-eng:NEL,BS0072,"Toll Bar Farm, Louth Road, New Waltham",,,,0.29,6,6,2019-11-06,,5468cd3bd8482633be5a3dd547b51124836fd11ff1986766fc9e503bff653e9e

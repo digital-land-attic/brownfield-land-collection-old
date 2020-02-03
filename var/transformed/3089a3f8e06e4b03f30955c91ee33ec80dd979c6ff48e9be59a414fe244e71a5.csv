@@ -1,39 +1,39 @@
-entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:WFT,2014/1061/OUT,https://maps.london.gov.uk/brownfield-site-register,51.623249,-0.004999,0.11,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,132613,https://maps.london.gov.uk/brownfield-site-register,51.628231,0.018193,0.1,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,181043,https://maps.london.gov.uk/brownfield-site-register,51.635222,0.008518,0.09,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,151810,https://maps.london.gov.uk/brownfield-site-register,51.569529,0.009676,0.06,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,171743,https://maps.london.gov.uk/brownfield-site-register,51.560085,-0.016118,0.43,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,LHCSS17310271,https://maps.london.gov.uk/brownfield-site-register,51.559336,-0.013814,2.89,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,160233,https://maps.london.gov.uk/brownfield-site-register,51.608178,-0.016651,0.15,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,162160,https://maps.london.gov.uk/brownfield-site-register,51.568765,0.011777,0.15,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,171712,https://maps.london.gov.uk/brownfield-site-register,51.607607,0.000034,0.03,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,153229,https://maps.london.gov.uk/brownfield-site-register,51.631881,0.003544,0.03,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,174038,https://maps.london.gov.uk/brownfield-site-register,51.571093,0.011837,0.08,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,141775,https://maps.london.gov.uk/brownfield-site-register,51.566382,0.002308,0.04,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,182249,https://maps.london.gov.uk/brownfield-site-register,51.611167,-0.003594,1.03,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,183989,https://maps.london.gov.uk/brownfield-site-register,51.582896,-0.017506,0.36,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,183424,https://maps.london.gov.uk/brownfield-site-register,51.590574,-0.038784,1.7,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,182917,https://maps.london.gov.uk/brownfield-site-register,51.587407,-0.042472,0.73,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,160923,https://maps.london.gov.uk/brownfield-site-register,51.558909,-0.016227,5.16,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,170893,https://maps.london.gov.uk/brownfield-site-register,51.587933,-0.042189,1.25,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,162056,https://maps.london.gov.uk/brownfield-site-register,51.587379,-0.040784,0.23,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,180378,https://maps.london.gov.uk/brownfield-site-register,51.592828,-0.038615,0.09,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,160148,https://maps.london.gov.uk/brownfield-site-register,51.567873,0.002907,0.06,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,153860,https://maps.london.gov.uk/brownfield-site-register,51.584385,-0.000489,0.156681,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,164164,https://maps.london.gov.uk/brownfield-site-register,51.590316,-0.036928,0.173561,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,173059,https://maps.london.gov.uk/brownfield-site-register,51.608227,-0.000677,0.277016,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,181889,https://maps.london.gov.uk/brownfield-site-register,51.562701,0.009689,0.065035,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,173437,https://maps.london.gov.uk/brownfield-site-register,51.635436,-0.012608,0.222919,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,180621,https://maps.london.gov.uk/brownfield-site-register,51.583585,-0.018433,0.091331,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,153261,https://maps.london.gov.uk/brownfield-site-register,51.582618,-0.030737,0.18373,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,181707,https://maps.london.gov.uk/brownfield-site-register,51.569914,0.011507,0.250893,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,171355,https://maps.london.gov.uk/brownfield-site-register,51.583251,-0.023758,2.807851,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,173950,https://maps.london.gov.uk/brownfield-site-register,51.571903,-0.008946,0.052323,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,162568,https://maps.london.gov.uk/brownfield-site-register,51.562428,-0.007793,0.214881,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,180761,https://maps.london.gov.uk/brownfield-site-register,51.575899,-0.007614,0.623784,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,180272,https://maps.london.gov.uk/brownfield-site-register,51.593995,-0.017482,0.012176,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,173636,https://maps.london.gov.uk/brownfield-site-register,51.584222,-0.023575,0.020478,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,151013,https://maps.london.gov.uk/brownfield-site-register,51.558265,0.006597,0.019513,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,172620,https://maps.london.gov.uk/brownfield-site-register,51.55971,0.007187,0.046536,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
-,local-authority-eng:WFT,172133,https://maps.london.gov.uk/brownfield-site-register,51.562748,-0.013272,0.017529,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,local-authority-eng:WFT,2014/1061/OUT,Land to the Rear 35-47 Jordan Court,https://maps.london.gov.uk/brownfield-site-register,51.623249,-0.004999,0.11,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,132613,1-20 Forest Court,https://maps.london.gov.uk/brownfield-site-register,51.628231,0.018193,0.1,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,181043,16 Forest View,https://maps.london.gov.uk/brownfield-site-register,51.635222,0.008518,0.09,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,151810,Kirkdale House 7 Kirkdale Road,https://maps.london.gov.uk/brownfield-site-register,51.569529,0.009676,0.06,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,171743,9 Osier Way,https://maps.london.gov.uk/brownfield-site-register,51.560085,-0.016118,0.43,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,LHCSS17310271,Oliver Road (Score Centre - Preferred options NOF 8),https://maps.london.gov.uk/brownfield-site-register,51.559336,-0.013814,2.89,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,160233,Rowden Parade,https://maps.london.gov.uk/brownfield-site-register,51.608178,-0.016651,0.15,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,162160,676-678 High Road Leytonstone,https://maps.london.gov.uk/brownfield-site-register,51.568765,0.011777,0.15,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,171712,428 Hale End Road,https://maps.london.gov.uk/brownfield-site-register,51.607607,0.000034,0.03,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,153229,Gresham Works Rear of 1-3 Mornington Road,https://maps.london.gov.uk/brownfield-site-register,51.631881,0.003544,0.03,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,174038,The Substation Gainsborough Road,https://maps.london.gov.uk/brownfield-site-register,51.571093,0.011837,0.08,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,141775,370-372 Grove Green Road,https://maps.london.gov.uk/brownfield-site-register,51.566382,0.002308,0.04,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,182249,Naseberry Court 2 Meriam Close SSA11,https://maps.london.gov.uk/brownfield-site-register,51.611167,-0.003594,1.03,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,183989,Juniper House Hoe Street,https://maps.london.gov.uk/brownfield-site-register,51.582896,-0.017506,0.36,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,183424,Webbs Industrial Estate 108 BHL06,https://maps.london.gov.uk/brownfield-site-register,51.590574,-0.038784,1.7,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,182917,Blackhorse Road Car Park (TfL Forest Road Carpark - Part of BHL site 1),https://maps.london.gov.uk/brownfield-site-register,51.587407,-0.042472,0.73,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,160923,Osier Way (Bywaters Waste Site - NOF Site 7 also BEA3),https://maps.london.gov.uk/brownfield-site-register,51.558909,-0.016227,5.16,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,170893,"Forest Works, 1 Forest Road",https://maps.london.gov.uk/brownfield-site-register,51.587933,-0.042189,1.25,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,162056,"Standard Music Venue The Tryst, 1 Blackhorse Lane",https://maps.london.gov.uk/brownfield-site-register,51.587379,-0.040784,0.23,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,180378,30-32 Sutherland Road,https://maps.london.gov.uk/brownfield-site-register,51.592828,-0.038615,0.09,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,160148,15 Drayton Road,https://maps.london.gov.uk/brownfield-site-register,51.567873,0.002907,0.06,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,153860,245 Wood Street,https://maps.london.gov.uk/brownfield-site-register,51.584385,-0.000489,0.156681,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,164164,37 Sutherland Road,https://maps.london.gov.uk/brownfield-site-register,51.590316,-0.036928,0.173561,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,173059,480-510 Larkshall Road,https://maps.london.gov.uk/brownfield-site-register,51.608227,-0.000677,0.277016,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,181889,526 High Rd Leytonstone,https://maps.london.gov.uk/brownfield-site-register,51.562701,0.009689,0.065035,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,173437,60-74 Sewardstone Road,https://maps.london.gov.uk/brownfield-site-register,51.635436,-0.012608,0.222919,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,180621,Central House 189-203 Hoe Street,https://maps.london.gov.uk/brownfield-site-register,51.583585,-0.018433,0.091331,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,153261,Former Cinema Buxton Road,https://maps.london.gov.uk/brownfield-site-register,51.582618,-0.030737,0.18373,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,181707,Lemna Road (Job Centre Plus in Leytonstone),https://maps.london.gov.uk/brownfield-site-register,51.569914,0.011507,0.250893,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,171355,Selbourne Walk (The Mall),https://maps.london.gov.uk/brownfield-site-register,51.583251,-0.023758,2.807851,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,173950,"SNA Motors, 2 Skeltons Lane",https://maps.london.gov.uk/brownfield-site-register,51.571903,-0.008946,0.052323,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,162568,Tyndall Gardens 60 Tyndall Road,https://maps.london.gov.uk/brownfield-site-register,51.562428,-0.007793,0.214881,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,180761,92 Leyton Green Road & the Summerfield Centre,https://maps.london.gov.uk/brownfield-site-register,51.575899,-0.007614,0.623784,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,180272,"159 Chingford Road, Walthamstow, London, E17 4PN",https://maps.london.gov.uk/brownfield-site-register,51.593995,-0.017482,0.012176,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,173636,"201 High Street, Walthamstow, London, E17 7BH",https://maps.london.gov.uk/brownfield-site-register,51.584222,-0.023575,0.020478,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,151013,463 High Road Leytonstone,https://maps.london.gov.uk/brownfield-site-register,51.558265,0.006597,0.019513,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,172620,"Hand Car Wash, 509-515 High Road Leytonstone",https://maps.london.gov.uk/brownfield-site-register,51.55971,0.007187,0.046536,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5
+,local-authority-eng:WFT,172133,"Miller House, 30-30a Wilmot Road",https://maps.london.gov.uk/brownfield-site-register,51.562748,-0.013272,0.017529,,,,,3089a3f8e06e4b03f30955c91ee33ec80dd979c6ff48e9be59a414fe244e71a5

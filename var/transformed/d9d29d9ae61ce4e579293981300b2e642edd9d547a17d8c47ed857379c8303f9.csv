@@ -1,23 +1,23 @@
-entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2001-12-18,local-authority-eng:SNR,BFL 1,,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 2,,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 3,,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 4,,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 6,,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 7,,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 8,,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 9,,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 11,,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 12,,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 13,,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 14,,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 15,,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 16,,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 17,,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 18,,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 19,,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 20,,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 21,,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 22,,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 24,,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
-2001-12-18,local-authority-eng:SNR,BFL 26,,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2001-12-18,local-authority-eng:SNR,BFL 1,"Land West of Ashton Rd., Roade, NN7 2LF",,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 2,"Burcote Road, Outline stage, Towcester, NN12 6TF & NN12 6LX",,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 3,"Brackley Sawmills, Stage 2, Northampton Road, Brackley, NN13 7DL,",,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 4,"Moat Lane, Outline stage, Towcester, NN12 6AD",,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 6,"Hayes Road, Deanshanger, MK19 6HP & MK19 6FA & MK19 6HR",,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 7,"Moat Lane, stage 2, Towcester, NN12 6AD",,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 8,"Britannia Works, High Street & Maltings Row, Deanshanger, MK19 6HR",,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 9,"Brackley Sawmills, Outline stage, Brackley, NN13 5GF & NN13 5GG",,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 11,"The Hunters, The Green Deanshanger, MK19 6HL",,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 12,"Chaplins Yard, Stratford Road, Roade, NN7 2GB & NN7 2NJ",,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 13,"Sun Moon and Stars, 64 High Street Blisworth NN7 3BJ",,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 14,"Aynhoe Park House, Aynhoe Park, Aynhoe, OX17 3BQ",,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 15,"Mill Lane, Brackley, stage 1, NN13 7AL [&NN13 7XU ]",,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 16,"100 High Street, Brackley, NN13 7DR",,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 17,"Old School House, Station Road, Cogenhoe, NN7 1LT",,,,,,,,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 18,Manor Works 50 Church Street Cogenhoe NN7 1LS,,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 19,Silverstone C Of E Junior School Green Lane Silverstone NN12 8ES,,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 20,"Hartwell Road, Roade NN7 2NT",,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 21,"Silverstone Infants School High Street Silverstone NN12 8US, Silverstone",,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 22,"Mill Lane, Brackley, stage 2, NN13 7AL [&NN13 7XU ]",,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 24,"Short Lane, Cogenhoe, NN7 1LE",,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9
+2001-12-18,local-authority-eng:SNR,BFL 26,"Green Lane Nursery Springfield,Towcester NN12 8ES & NN12 6TQ",,,,,,,2017-11-21,,d9d29d9ae61ce4e579293981300b2e642edd9d547a17d8c47ed857379c8303f9

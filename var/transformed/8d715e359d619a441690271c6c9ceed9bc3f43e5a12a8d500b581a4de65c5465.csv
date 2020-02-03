@@ -1,15 +1,15 @@
-entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:HAO,A/MH/HSG/46,,52.47216,-0.921711,0.46,11,16,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
-,local-authority-eng:HAO,A/MH/HSG/58,,52.479019,-0.91363,0.38,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
-,local-authority-eng:HAO,A/MH/HSG/59,,52.4781,-0.912931,0.43,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
-,local-authority-eng:HAO,,,,,0.14,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
-,local-authority-eng:HAO,A/DB/HSG/03,,52.512244,-1.186091,0.18,2,2,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
-,local-authority-eng:HAO,,,,,0.96,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
-,local-authority-eng:HAO,RC014/10,,,,0.75,8,8,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
-,local-authority-eng:HAO,,,,,0.75,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
-,local-authority-eng:HAO,,,,,,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
-,local-authority-eng:HAO,,,,,,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
-,local-authority-eng:HAO,,,,,0.26,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
-,local-authority-eng:HAO,,,,,0.44,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
-,local-authority-eng:HAO,,,,,0.67,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
-,local-authority-eng:HAO,A/BL/HSG/02,,52.612865,-0.940383,0.22,7,7,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
+entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,local-authority-eng:HAO,A/MH/HSG/46,"Ex-garage site at Naseby Square/ Newcombe St., M'k't Harborough",,52.47216,-0.921711,0.46,11,16,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
+,local-authority-eng:HAO,A/MH/HSG/58,"Former Travis Perkins site, Clarence Street, M'k't Harborough",,52.479019,-0.91363,0.38,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
+,local-authority-eng:HAO,A/MH/HSG/59,"Former Harboro' Rubber site, 124 - 128, St Mary's Rd, M'k't Harborough",,52.4781,-0.912931,0.43,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
+,local-authority-eng:HAO,,West of footbridge Rockingham Road M'k't Harborough,,,,0.14,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
+,local-authority-eng:HAO,A/DB/HSG/03,"Merrie Monk, 38 Station Road, Dunton Bassett",,52.512244,-1.186091,0.18,2,2,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
+,local-authority-eng:HAO,,"Old Station Yard, Rockingham Rd, n'r Great Easton",,,,0.96,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
+,local-authority-eng:HAO,RC014/10,"Midland Handling Equipment Ltd., Stretton Road, Great Glen",,,,0.75,8,8,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
+,local-authority-eng:HAO,,"Land at Fishers Farm, Main Street, Foxton",,,,0.75,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
+,local-authority-eng:HAO,,"Garden Centre adjacent to 80 Dunton Road, Broughton Astley",,,,,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
+,local-authority-eng:HAO,,"Self Unlimited East Midlands Region, Melton Road, Shangton",,,,,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
+,local-authority-eng:HAO,,"Clover Court, Hearth Street, Market Harborough",,,,0.26,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
+,local-authority-eng:HAO,,"7 - 35 Knights Close, Billesdon",,,,0.44,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
+,local-authority-eng:HAO,,"Former railway station, Station Street, Kibworth Beauchamp",,,,0.67,,,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
+,local-authority-eng:HAO,A/BL/HSG/02,"Car/lorry park, Gaulby Road, Billesdon",,52.612865,-0.940383,0.22,7,7,2017-11-07,,8d715e359d619a441690271c6c9ceed9bc3f43e5a12a8d500b581a4de65c5465
