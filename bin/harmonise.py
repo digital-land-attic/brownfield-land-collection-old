@@ -215,9 +215,25 @@ def normalise_uri(field, value):
 
 
 def normalise_address(field, value):
-    # remove newlines and double-quotes, normalise spaces
-    value = " ".join(value.split()).replace('"', "")
+    # replace newlines and semi-colons with commas
+    value = ", ".join(value.split("\n"))
+    value = value.replace(";", ",")
+
+    # normalise duplicate commas
+    value = normalise_address.comma.sub(", ", value)
+    value = value.strip(", ")
+
+    # remove spaces around hyphens
+    value = normalise_address.hyphen.sub("-", value)
+
+    # remove double-quotes, normalise spaces
+    value = " ".join(value.split()).replace('"', "").replace("”", "")
+
     return value
+
+
+normalise_address.comma = re.compile(r'(\s*,\s*){1,}')
+normalise_address.hyphen = re.compile(r'(\s*-\s*){1,}')
 
 
 def normalise(fieldname, value):
