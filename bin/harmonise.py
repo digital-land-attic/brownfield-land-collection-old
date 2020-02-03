@@ -214,6 +214,10 @@ def normalise_uri(field, value):
     return ""
 
 
+def normalise_address(field, value):
+    return value
+
+
 def normalise(fieldname, value):
     if value.lower() in [None, "", "-", "n/a", "#n/a", "???", "<null>"]:
         return ""
@@ -238,6 +242,10 @@ def normalise(fieldname, value):
 
     if field.get("type", "") == "date":
         return normalise_date(fieldname, value)
+
+    # TBD: consider "format"
+    if fieldname.endswith("Address"):
+        return normalise_address(fieldname, value)
 
     return value
 
