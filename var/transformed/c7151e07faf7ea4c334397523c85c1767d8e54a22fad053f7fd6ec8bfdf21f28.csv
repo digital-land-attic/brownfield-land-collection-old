@@ -1,3 +1,3 @@
-entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:IOS,SHLAA A7-a,49.916017,-6.310517,0.2,,,,,c7151e07faf7ea4c334397523c85c1767d8e54a22fad053f7fd6ec8bfdf21f28
-,local-authority-eng:IOS,SHLAA A7,49.916017,-6.310517,0.6,,,,,c7151e07faf7ea4c334397523c85c1767d8e54a22fad053f7fd6ec8bfdf21f28
+entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,local-authority-eng:IOS,SHLAA A7-a,http://www.scilly.gov.uk/sites/default/files/document/planning/SHLAA%20Methodology%20and%20Site%20Assessments%20FINAL%202017.pdf,49.916017,-6.310517,0.2,,,,,c7151e07faf7ea4c334397523c85c1767d8e54a22fad053f7fd6ec8bfdf21f28
+,local-authority-eng:IOS,SHLAA A7,http://www.scilly.gov.uk/sites/default/files/document/planning/SHLAA%20Methodology%20and%20Site%20Assessments%20FINAL%202017.pdf,49.916017,-6.310517,0.6,,,,,c7151e07faf7ea4c334397523c85c1767d8e54a22fad053f7fd6ec8bfdf21f28

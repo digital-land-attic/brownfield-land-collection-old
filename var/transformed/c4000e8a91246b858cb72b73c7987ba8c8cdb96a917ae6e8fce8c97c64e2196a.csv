@@ -1,52 +1,52 @@
-entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2018-03-23,local-authority-eng:SOL,BLR/010,52.427860,-1.691732,5.21,5,10,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/013,52.389309,-1.765544,1,1,2,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/014,52.387777,-1.852390,0.13,2,4,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/015,52.436305,-1.703691,0.5,1,2,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/016,52.383457,-1.631819,1.37,10,20,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/017,52.444016,-1.706390,3.6,50,125,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/018,52.380648,-1.636396,0.3,2,3,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/020,52.422052,-1.632086,0.83,2,4,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/021,52.390105,-1.852000,0.87,5,10,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/024,52.381704,-1.736304,3.01,1,3,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/025,52.383201,-1.734047,1.46,1,3,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/036,52.401273,-1.657877,0.66,12,18,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/037,52.400532,-1.659632,5.81,14,16,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/038,52.398751,-1.659351,0.84,8,10,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/039,52.413855,-1.776617,4.15,50,200,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/040,52.428935,-1.730875,0.74,2,4,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/044,52.399355,-1.647618,3.83,1,2,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/054,52.421148,-1.734216,1.85,20,25,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/057,52.405817,-1.823960,0.228,30,75,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,BLR/058,52.455174,-1.714366,73.42,250,600,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,CfS 48,52.368033,-1.813447,0.85,1,2,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,CfS 108,52.389925,-1.768112,1.85,1,2,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,CfS 124,52.393814,-1.817233,19.32,400,400,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,CfS 155,52.379170,-1.749320,0.95,31,31,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,CfS 222,52.425521,-1.774749,3.05,150,150,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,CfS 224,52.440585,-1.808846,0.54,17,17,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,CfS 301,52.427336,-1.774637,1.96,150,150,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR1,52.485817,-1.752588,0.2,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR2,52.433845,-1.816465,0.02,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR3,52.433826,-1.815832,0.04,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR4,52.411387,-1.827745,0.14,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR5,52.438241,-1.649088,0.01,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR6,52.435760,-1.646181,0.26,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR7,52.391305,-1.649431,0.07,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR8,52.500924,-1.745712,0.8,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR9,52.371463,-1.667728,0.96,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR10,52.445009,-1.809459,0.13,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR11,52.422648,-1.776881,0.12,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR12,52.435373,-1.636976,0.23,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR13,52.356431,-1.779461,0.13,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR14,52.398411,-1.807970,0.55,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR15,52.502626,-1.751168,0.1,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR16,52.375919,-1.838680,0.1,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR17,52.408731,-1.675710,0.08,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR18,52.355967,-1.699162,0.03,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR19,52.408732,-1.714328,2.15,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR20,52.408732,-1.714328,2.15,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR21,52.406873,-1.868481,0.03,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR22,52.464306,-1.744981,0.26,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR23,52.415562,-1.830390,1.49,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
-2018-03-23,local-authority-eng:SOL,PR24,52.422538,-1.830114,0.16,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2018-03-23,local-authority-eng:SOL,BLR/010,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-010.pdf,52.42786,-1.691732,5.21,5,10,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/013,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-013.pdf,52.389309,-1.765544,1,1,2,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/014,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-014.pdf,52.387777,-1.85239,0.13,2,4,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/015,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-015.pdf,52.436305,-1.703691,0.5,1,2,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/016,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-016.pdf,52.383457,-1.631819,1.37,10,20,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/017,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-017.pdf,52.444016,-1.70639,3.6,50,125,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/018,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-018.pdf,52.380648,-1.636396,0.3,2,3,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/020,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-020.pdf,52.422052,-1.632086,0.83,2,4,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/021,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-021.pdf,52.390105,-1.852,0.87,5,10,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/024,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-024.pdf,52.381704,-1.736304,3.01,1,3,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/025,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-025.pdf,52.383201,-1.734047,1.46,1,3,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/036,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-036.pdf,52.401273,-1.657877,0.66,12,18,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/037,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-037.pdf,52.400532,-1.659632,5.81,14,16,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/038,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-038.pdf,52.398751,-1.659351,0.84,8,10,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/039,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-039.pdf,52.413855,-1.776617,4.15,50,200,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/040,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-040.pdf,52.428935,-1.730875,0.74,2,4,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/044,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-044.pdf,52.399355,-1.647618,3.83,1,2,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/054,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-054.pdf,52.421148,-1.734216,1.85,20,25,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/057,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-057.pdf,52.405817,-1.82396,0.228,30,75,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,BLR/058,http://www.solihull.gov.uk/Portals/0/Planning/BLR/BLR-058.pdf,52.455174,-1.714366,73.42,250,600,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,CfS 48,http://www.solihull.gov.uk/Portals/0/Planning/BLR/CfS-48.pdf,52.368033,-1.813447,0.85,1,2,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,CfS 108,http://www.solihull.gov.uk/Portals/0/Planning/BLR/CfS-108.pdf,52.389925,-1.768112,1.85,1,2,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,CfS 124,http://www.solihull.gov.uk/Portals/0/Planning/BLR/CfS-124.pdf,52.393814,-1.817233,19.32,400,400,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,CfS 155,http://www.solihull.gov.uk/Portals/0/Planning/BLR/CfS-155.pdf,52.37917,-1.74932,0.95,31,31,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,CfS 222,http://www.solihull.gov.uk/Portals/0/Planning/BLR/CfS-222.pdf,52.425521,-1.774749,3.05,150,150,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,CfS 224,http://www.solihull.gov.uk/Portals/0/Planning/BLR/CfS-224.pdf,52.440585,-1.808846,0.54,17,17,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,CfS 301,http://www.solihull.gov.uk/Portals/0/Planning/BLR/CfS-301.pdf,52.427336,-1.774637,1.96,150,150,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR1,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-1.pdf,52.485817,-1.752588,0.2,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR2,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-2.pdf,52.433845,-1.816465,0.02,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR3,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-3.pdf,52.433826,-1.815832,0.04,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR4,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-4.pdf,52.411387,-1.827745,0.14,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR5,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-5.pdf,52.438241,-1.649088,0.01,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR6,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-6.pdf,52.43576,-1.646181,0.26,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR7,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-7.pdf,52.391305,-1.649431,0.07,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR8,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-8.pdf,52.500924,-1.745712,0.8,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR9,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-9.pdf,52.371463,-1.667728,0.96,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR10,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-10.pdf,52.445009,-1.809459,0.13,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR11,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-11.pdf,52.422648,-1.776881,0.12,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR12,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-12.pdf,52.435373,-1.636976,0.23,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR13,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-13.pdf,52.356431,-1.779461,0.13,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR14,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-14.pdf,52.398411,-1.80797,0.55,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR15,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-15.pdf,52.502626,-1.751168,0.1,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR16,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-16.pdf,52.375919,-1.83868,0.1,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR17,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-17.pdf,52.408731,-1.67571,0.08,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR18,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-18.pdf,52.355967,-1.699162,0.03,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR19,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-19.pdf,52.408732,-1.714328,2.15,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR20,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-20.pdf,52.408732,-1.714328,2.15,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR21,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-21.pdf,52.406873,-1.868481,0.03,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR22,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-22.pdf,52.464306,-1.744981,0.26,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR23,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-23.pdf,52.415562,-1.83039,1.49,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a
+2018-03-23,local-authority-eng:SOL,PR24,http://www.solihull.gov.uk/Portals/0/Planning/BLR/PR-24.pdf,52.422538,-1.830114,0.16,,,2018-03-23,,c4000e8a91246b858cb72b73c7987ba8c8cdb96a917ae6e8fce8c97c64e2196a

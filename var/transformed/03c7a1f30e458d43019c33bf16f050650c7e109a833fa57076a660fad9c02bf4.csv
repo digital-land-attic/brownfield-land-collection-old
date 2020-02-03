@@ -1,49 +1,49 @@
-entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:SHE,,51.094505,1.144608,,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,50.985518,0.931869,0.425 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,,,,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,51.087708,1.184680,0.05 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,51.069611,1.081687,0.13 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,,,0.03 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,51.077506,1.176797,0.25 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,,,0.158 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,,,0.035 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,51.081259,1.178382,0.034 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,51.083794,1.166160,0.08 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,51.074577,1.093897,0.125 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,,,0.05 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,51.070750,1.085218,0.08 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,,,0.016 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,51.080187,1.153204,0.24 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,51.079610,1.165560,0.26 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,51.075997,1.167126,0.147 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,UA1,51.086034,1.188650,1.25 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,,,0.043 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,,,0.2 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,UA2,51.076856,1.185134,23 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,51.079718,1.140235,0.69 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,,,0.1 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,ND1,51.112735,1.149033,3.75 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,51.080490,1.184484,0.0291 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,,51.076407,1.143952,1.44 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,UA3,,,1 hectare,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,UA4,,,0.15 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,UA7,,,1.5 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,UA8,,,0.9 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,UA9,,,0.87 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,UA10,,,0.23 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,UA11,,,2.87 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,UA12,,,1.65 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,UA13,,,3.2 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,UA16,,,1.14 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,UA17,,,5.9 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,UA19,,,0.5 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,RM3,,,0.84 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,RM8,,,0.87 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,RM9,,,1.6 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,RM10,,,0.23 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,RM11,,,0.47 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,RM12,,,0.27 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,ND3,,,,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,ND5,,,0.45 hectares,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
-,local-authority-eng:SHE,ND9,,,,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,local-authority-eng:SHE,,,51.094505,1.144608,,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,50.985518,0.931869,0.425,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,,,,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,51.087708,1.18468,0.05,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,51.069611,1.081687,0.13,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,,,0.03,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,51.077506,1.176797,0.25,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,,,0.158,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,,,0.035,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,51.081259,1.178382,0.034,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,51.083794,1.16616,0.08,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,51.074577,1.093897,0.125,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,,,0.05,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,51.07075,1.085218,0.08,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,,,0.016,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,51.080187,1.153204,0.24,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,51.07961,1.16556,0.26,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,51.075997,1.167126,0.147,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,UA1,,51.086034,1.18865,1.25,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,,,0.043,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,,,0.2,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,UA2,,51.076856,1.185134,23,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,51.079718,1.140235,0.69,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,,,0.1,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,ND1,,51.112735,1.149033,3.75,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,51.08049,1.184484,0.0291,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,,,51.076407,1.143952,1.44,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,UA3,,,,,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,UA4,,,,0.15,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,UA7,,,,1.5,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,UA8,,,,0.9,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,UA9,,,,0.87,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,UA10,,,,0.23,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,UA11,,,,2.87,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,UA12,,,,1.65,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,UA13,,,,3.2,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,UA16,,,,1.14,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,UA17,,,,5.9,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,UA19,,,,0.5,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,RM3,,,,0.84,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,RM8,,,,0.87,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,RM9,,,,1.6,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,RM10,,,,0.23,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,RM11,,,,0.47,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,RM12,,,,0.27,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,ND3,,,,,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,ND5,,,,0.45,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4
+,local-authority-eng:SHE,ND9,,,,,,,,,03c7a1f30e458d43019c33bf16f050650c7e109a833fa57076a660fad9c02bf4

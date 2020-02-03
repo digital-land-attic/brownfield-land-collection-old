@@ -1,5 +1,5 @@
-entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2018-12-18,local-authority-eng:HAE,3060,54.434298,-1.463177,0.0709030032157898,,,2018-12-18,,73b84ea63509bbd2b3d39a48e0b1b6c705355bdee8942b77a581e1a121c4a0b0
-2018-12-18,local-authority-eng:HAE,3191,54.231102,-1.415613,0.264730006456375,,,2018-12-18,,73b84ea63509bbd2b3d39a48e0b1b6c705355bdee8942b77a581e1a121c4a0b0
-2018-12-18,local-authority-eng:HAE,3182,54.337534,-1.438298,0.100569002330303,,,2018-12-18,,73b84ea63509bbd2b3d39a48e0b1b6c705355bdee8942b77a581e1a121c4a0b0
-2018-12-18,local-authority-eng:HAE,3035,54.437532,-1.396360,0.400157004594803,,,2018-12-18,,73b84ea63509bbd2b3d39a48e0b1b6c705355bdee8942b77a581e1a121c4a0b0
+entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2018-12-18,local-authority-eng:HAE,3060,"https://hambletondc.maps.arcgis.com/apps/webappviewer/index.html?id=9ec6e3a0205f48cc8082316c2f992d5b&center=434919.931986,504452.470477,27700&level=18",54.434298,-1.463177,0.070903,,,2018-12-18,,73b84ea63509bbd2b3d39a48e0b1b6c705355bdee8942b77a581e1a121c4a0b0
+2018-12-18,local-authority-eng:HAE,3191,"https://hambletondc.maps.arcgis.com/apps/webappviewer/index.html?id=9ec6e3a0205f48cc8082316c2f992d5b&center=438192.477981,481867.773926,27700&level=18",54.231102,-1.415613,0.26473,,,2018-12-18,,73b84ea63509bbd2b3d39a48e0b1b6c705355bdee8942b77a581e1a121c4a0b0
+2018-12-18,local-authority-eng:HAE,3182,"https://hambletondc.maps.arcgis.com/apps/webappviewer/index.html?id=9ec6e3a0205f48cc8082316c2f992d5b&center=436619.51001,493698.157281,27700&level=18",54.337534,-1.438298,0.100569,,,2018-12-18,,73b84ea63509bbd2b3d39a48e0b1b6c705355bdee8942b77a581e1a121c4a0b0
+2018-12-18,local-authority-eng:HAE,3035,"https://hambletondc.maps.arcgis.com/apps/webappviewer/index.html?id=9ec6e3a0205f48cc8082316c2f992d5b&center=439250.995411,504847.42947,27700&level=18",54.437532,-1.39636,0.400157,,,2018-12-18,,73b84ea63509bbd2b3d39a48e0b1b6c705355bdee8942b77a581e1a121c4a0b0

@@ -1,1 +1,5 @@
 row-number,field,datatype,value
+171,NetDwellingsRangeFrom,integer,"1,697"
+171,NetDwellingsRangeTo,integer,"1,697"
+191,NetDwellingsRangeFrom,integer,"1,030"
+191,NetDwellingsRangeTo,integer,"1,030"

@@ -1,103 +1,103 @@
-entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:HRW,AAP Site 7,51.592452,-0.325630,5.76,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,AAP Site 9,51.589667,-0.334390,4.68,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,Site Allocations H15,51.604852,-0.275029,0.26,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,AAP Site 13,51.583278,-0.332832,0.89,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,Site Allocations R3,51.562481,-0.357072,0.53,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,Site Allocations H6,51.575022,-0.372178,0.80,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,Site Allocations H10,51.618930,-0.301375,1.45,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,Site Allocations H17,51.609249,-0.294739,0.42,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW, P/1619/16,51.592963,-0.333262,0.67,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,17150212,51.593556,-0.332509,0.26,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/0832/11,51.585929,-0.333842,2.21,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/1870/13,51.580257,-0.333132,0.36,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/4042/13,51.579778,-0.334700,0.05,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/3518/13,51.591778,-0.332791,0.08,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/2571/13,51.579382,-0.339112,0.13,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,17150151,51.595819,-0.383776,0.35,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/0607/15,51.580777,-0.338524,0.08,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/4013/14,51.593064,-0.382489,0.15,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/4168/14,51.607737,-0.376179,0.02,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/3489/16,51.580922,-0.333361,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/4150/15,51.581224,-0.342908,0.33,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/3118/11,51.580623,-0.331670,0.95,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/5250/16,51.591186,-0.381134,0.16,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/4071/14,51.624181,-0.340634,6.74,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/2437/16,51.576779,-0.342474,0.13,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/4225/15,51.585391,-0.334425,0.22,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/4885/15,51.580643,-0.330413,0.13,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/2212/15,51.580449,-0.340678,0.02,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/0312/16,51.580337,-0.338830,0.10,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/0291/16,51.579253,-0.331716,1.29,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/0640/16,51.564122,-0.366245,0.28,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/4480/15,51.580360,-0.338837,0.09,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/4482/15,51.581163,-0.331015,0.08,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/4481/15,51.581161,-0.331019,0.08,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/5343/15,51.585664,-0.329669,0.18,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/3820/15,51.581114,-0.326431,0.39,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/0737/15,51.579462,-0.335517,0.64,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/2982/15,51.595995,-0.350856,8.22,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/2336/11,51.588402,-0.351718,1.40,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/2652/12,51.600557,-0.317279,0.09,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/1778/12,51.570202,-0.363573,1.05,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/0905/13,51.592203,-0.387597,0.08,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/3075/12,51.598485,-0.314731,1.43,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/1208/12,51.570302,-0.362630,0.75,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/2103/14,51.616699,-0.342367,0.39,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/4011/14,51.581208,-0.334582,0.02,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/2427/13,51.580586,-0.333801,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/1679/14,51.620739,-0.316492,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/0026/15,51.598812,-0.337784,0.16,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/2418/12,51.593716,-0.335853,0.16,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/0604/15,51.580766,-0.333462,0.13,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/0615/15,51.580593,-0.338118,0.11,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/4655/14,51.581163,-0.334367,0.06,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/2957/16,51.595593,-0.292566,0.77,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/3749/16,51.576676,-0.370014,0.18,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/3748/16,51.576674,-0.370014,0.19,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/3260/16,51.580960,-0.325794,0.04,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/3896/16,51.595113,-0.292168,0.17,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/4809/16,51.576256,-0.369357,0.60,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/2516/16,51.592024,-0.344877,0.23,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/5140/16,51.617589,-0.312272,0.04,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/5189/16,51.585161,-0.380558,0.07,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/1484/16,51.581802,-0.333959,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/0326/17,51.572842,-0.341323,0.18,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/4418/16,51.589738,-0.332425,0.08,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/0133/17,51.609133,-0.278319,0.30,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/5994/16,51.582275,-0.353499,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/1470/17/PRIOR,51.618453,-0.311664,0.30,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/0120/17,51.594291,-0.334630,0.24,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/5592/16,51.557385,-0.361630,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/1320/16,51.618927,-0.303369,0.68,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/3644/16,51.580447,-0.340677,0.02,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/1175/17,51.563600,-0.359062,0.06,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/1727/17/PRIOR,51.594291,-0.334630,0.24,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/5545/15,51.583617,-0.334059,0.19,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/2764/14,51.562220,-0.331415,0.64,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/3388/15,51.616380,-0.313200,0.07,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/3723/15,51.580321,-0.339327,0.05,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/2163/15,51.566193,-0.351554,0.28,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/2905/16,51.565499,-0.352229,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/3046/16,51.617366,-0.313472,0.09,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/0586/15,51.581928,-0.331527,0.38,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/4164/15,51.580333,-0.339171,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/5562/15,51.587724,-0.329166,0.14,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/0449/16,51.604265,-0.340243,0.04,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/2165/15,51.595107,-0.345791,16.09,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/5080/15,51.602265,-0.296577,0.28,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/1092/16,51.580281,-0.339975,0.16,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/5789/15,51.563267,-0.374564,0.15,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/3191/12,51.631321,-0.309069,26.55,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/2542/14,51.594291,-0.334630,0.24,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/0412/14,51.618617,-0.310235,0.99,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/2443/14,51.617131,-0.313574,0.12,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/3859/14,51.590104,-0.332486,0.04,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/3468/17,51.579505,-0.342696,0.13,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/4602/15,51.570225,-0.365140,1.75,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/1466/16,51.581163,-0.334367,0.06,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,P/3524/16,51.569245,-0.351034,4.10,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,Site Allocations R1,51.574571,-0.370540,0.11,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,Site Allocations H2,51.565434,-0.351778,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,Site Allocations H19,51.579372,-0.340276,0.07,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
-,local-authority-eng:HRW,AAP Site 17,51.579832,-0.335309,0.09,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,local-authority-eng:HRW,AAP Site 7,https://maps.london.gov.uk/brownfield-site-register,51.592452,-0.32563,5.76,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,AAP Site 9,https://maps.london.gov.uk/brownfield-site-register,51.589667,-0.33439,4.68,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,Site Allocations H15,https://maps.london.gov.uk/brownfield-site-register,51.604852,-0.275029,0.26,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,AAP Site 13,https://maps.london.gov.uk/brownfield-site-register,51.583278,-0.332832,0.89,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,Site Allocations R3,https://maps.london.gov.uk/brownfield-site-register,51.562481,-0.357072,0.53,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,Site Allocations H6,https://maps.london.gov.uk/brownfield-site-register,51.575022,-0.372178,0.8,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,Site Allocations H10,https://maps.london.gov.uk/brownfield-site-register,51.61893,-0.301375,1.45,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,Site Allocations H17,https://maps.london.gov.uk/brownfield-site-register,51.609249,-0.294739,0.42,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW, P/1619/16,https://maps.london.gov.uk/brownfield-site-register,51.592963,-0.333262,0.67,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,17150212,https://maps.london.gov.uk/brownfield-site-register,51.593556,-0.332509,0.26,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/0832/11,https://maps.london.gov.uk/brownfield-site-register,51.585929,-0.333842,2.21,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/1870/13,https://maps.london.gov.uk/brownfield-site-register,51.580257,-0.333132,0.36,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/4042/13,https://maps.london.gov.uk/brownfield-site-register,51.579778,-0.3347,0.05,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/3518/13,https://maps.london.gov.uk/brownfield-site-register,51.591778,-0.332791,0.08,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/2571/13,https://maps.london.gov.uk/brownfield-site-register,51.579382,-0.339112,0.13,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,17150151,https://maps.london.gov.uk/brownfield-site-register,51.595819,-0.383776,0.35,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/0607/15,https://maps.london.gov.uk/brownfield-site-register,51.580777,-0.338524,0.08,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/4013/14,https://maps.london.gov.uk/brownfield-site-register,51.593064,-0.382489,0.15,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/4168/14,https://maps.london.gov.uk/brownfield-site-register,51.607737,-0.376179,0.02,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/3489/16,https://maps.london.gov.uk/brownfield-site-register,51.580922,-0.333361,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/4150/15,https://maps.london.gov.uk/brownfield-site-register,51.581224,-0.342908,0.33,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/3118/11,https://maps.london.gov.uk/brownfield-site-register,51.580623,-0.33167,0.95,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/5250/16,https://maps.london.gov.uk/brownfield-site-register,51.591186,-0.381134,0.16,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/4071/14,https://maps.london.gov.uk/brownfield-site-register,51.624181,-0.340634,6.74,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/2437/16,https://maps.london.gov.uk/brownfield-site-register,51.576779,-0.342474,0.13,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/4225/15,https://maps.london.gov.uk/brownfield-site-register,51.585391,-0.334425,0.22,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/4885/15,https://maps.london.gov.uk/brownfield-site-register,51.580643,-0.330413,0.13,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/2212/15,https://maps.london.gov.uk/brownfield-site-register,51.580449,-0.340678,0.02,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/0312/16,https://maps.london.gov.uk/brownfield-site-register,51.580337,-0.33883,0.1,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/0291/16,https://maps.london.gov.uk/brownfield-site-register,51.579253,-0.331716,1.29,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/0640/16,https://maps.london.gov.uk/brownfield-site-register,51.564122,-0.366245,0.28,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/4480/15,https://maps.london.gov.uk/brownfield-site-register,51.58036,-0.338837,0.09,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/4482/15,https://maps.london.gov.uk/brownfield-site-register,51.581163,-0.331015,0.08,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/4481/15,https://maps.london.gov.uk/brownfield-site-register,51.581161,-0.331019,0.08,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/5343/15,https://maps.london.gov.uk/brownfield-site-register,51.585664,-0.329669,0.18,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/3820/15,https://maps.london.gov.uk/brownfield-site-register,51.581114,-0.326431,0.39,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/0737/15,https://maps.london.gov.uk/brownfield-site-register,51.579462,-0.335517,0.64,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/2982/15,https://maps.london.gov.uk/brownfield-site-register,51.595995,-0.350856,8.22,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/2336/11,https://maps.london.gov.uk/brownfield-site-register,51.588402,-0.351718,1.4,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/2652/12,https://maps.london.gov.uk/brownfield-site-register,51.600557,-0.317279,0.09,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/1778/12,https://maps.london.gov.uk/brownfield-site-register,51.570202,-0.363573,1.05,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/0905/13,https://maps.london.gov.uk/brownfield-site-register,51.592203,-0.387597,0.08,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/3075/12,https://maps.london.gov.uk/brownfield-site-register,51.598485,-0.314731,1.43,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/1208/12,https://maps.london.gov.uk/brownfield-site-register,51.570302,-0.36263,0.75,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/2103/14,https://maps.london.gov.uk/brownfield-site-register,51.616699,-0.342367,0.39,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/4011/14,https://maps.london.gov.uk/brownfield-site-register,51.581208,-0.334582,0.02,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/2427/13,https://maps.london.gov.uk/brownfield-site-register,51.580586,-0.333801,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/1679/14,https://maps.london.gov.uk/brownfield-site-register,51.620739,-0.316492,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/0026/15,https://maps.london.gov.uk/brownfield-site-register,51.598812,-0.337784,0.16,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/2418/12,https://maps.london.gov.uk/brownfield-site-register,51.593716,-0.335853,0.16,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/0604/15,https://maps.london.gov.uk/brownfield-site-register,51.580766,-0.333462,0.13,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/0615/15,https://maps.london.gov.uk/brownfield-site-register,51.580593,-0.338118,0.11,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/4655/14,https://maps.london.gov.uk/brownfield-site-register,51.581163,-0.334367,0.06,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/2957/16,https://maps.london.gov.uk/brownfield-site-register,51.595593,-0.292566,0.77,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/3749/16,https://maps.london.gov.uk/brownfield-site-register,51.576676,-0.370014,0.18,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/3748/16,https://maps.london.gov.uk/brownfield-site-register,51.576674,-0.370014,0.19,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/3260/16,https://maps.london.gov.uk/brownfield-site-register,51.58096,-0.325794,0.04,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/3896/16,https://maps.london.gov.uk/brownfield-site-register,51.595113,-0.292168,0.17,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/4809/16,https://maps.london.gov.uk/brownfield-site-register,51.576256,-0.369357,0.6,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/2516/16,https://maps.london.gov.uk/brownfield-site-register,51.592024,-0.344877,0.23,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/5140/16,https://maps.london.gov.uk/brownfield-site-register,51.617589,-0.312272,0.04,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/5189/16,https://maps.london.gov.uk/brownfield-site-register,51.585161,-0.380558,0.07,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/1484/16,https://maps.london.gov.uk/brownfield-site-register,51.581802,-0.333959,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/0326/17,https://maps.london.gov.uk/brownfield-site-register,51.572842,-0.341323,0.18,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/4418/16,https://maps.london.gov.uk/brownfield-site-register,51.589738,-0.332425,0.08,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/0133/17,https://maps.london.gov.uk/brownfield-site-register,51.609133,-0.278319,0.3,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/5994/16,https://maps.london.gov.uk/brownfield-site-register,51.582275,-0.353499,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/1470/17/PRIOR,https://maps.london.gov.uk/brownfield-site-register,51.618453,-0.311664,0.3,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/0120/17,https://maps.london.gov.uk/brownfield-site-register,51.594291,-0.33463,0.24,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/5592/16,https://maps.london.gov.uk/brownfield-site-register,51.557385,-0.36163,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/1320/16,https://maps.london.gov.uk/brownfield-site-register,51.618927,-0.303369,0.68,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/3644/16,https://maps.london.gov.uk/brownfield-site-register,51.580447,-0.340677,0.02,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/1175/17,https://maps.london.gov.uk/brownfield-site-register,51.5636,-0.359062,0.06,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/1727/17/PRIOR,https://maps.london.gov.uk/brownfield-site-register,51.594291,-0.33463,0.24,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/5545/15,https://maps.london.gov.uk/brownfield-site-register,51.583617,-0.334059,0.19,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/2764/14,https://maps.london.gov.uk/brownfield-site-register,51.56222,-0.331415,0.64,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/3388/15,https://maps.london.gov.uk/brownfield-site-register,51.61638,-0.3132,0.07,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/3723/15,https://maps.london.gov.uk/brownfield-site-register,51.580321,-0.339327,0.05,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/2163/15,https://maps.london.gov.uk/brownfield-site-register,51.566193,-0.351554,0.28,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/2905/16,https://maps.london.gov.uk/brownfield-site-register,51.565499,-0.352229,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/3046/16,https://maps.london.gov.uk/brownfield-site-register,51.617366,-0.313472,0.09,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/0586/15,https://maps.london.gov.uk/brownfield-site-register,51.581928,-0.331527,0.38,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/4164/15,https://maps.london.gov.uk/brownfield-site-register,51.580333,-0.339171,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/5562/15,https://maps.london.gov.uk/brownfield-site-register,51.587724,-0.329166,0.14,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/0449/16,https://maps.london.gov.uk/brownfield-site-register,51.604265,-0.340243,0.04,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/2165/15,https://maps.london.gov.uk/brownfield-site-register,51.595107,-0.345791,16.09,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/5080/15,https://maps.london.gov.uk/brownfield-site-register,51.602265,-0.296577,0.28,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/1092/16,https://maps.london.gov.uk/brownfield-site-register,51.580281,-0.339975,0.16,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/5789/15,https://maps.london.gov.uk/brownfield-site-register,51.563267,-0.374564,0.15,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/3191/12,https://maps.london.gov.uk/brownfield-site-register,51.631321,-0.309069,26.55,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/2542/14,https://maps.london.gov.uk/brownfield-site-register,51.594291,-0.33463,0.24,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/0412/14,https://maps.london.gov.uk/brownfield-site-register,51.618617,-0.310235,0.99,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/2443/14,https://maps.london.gov.uk/brownfield-site-register,51.617131,-0.313574,0.12,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/3859/14,https://maps.london.gov.uk/brownfield-site-register,51.590104,-0.332486,0.04,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/3468/17,https://maps.london.gov.uk/brownfield-site-register,51.579505,-0.342696,0.13,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/4602/15,https://maps.london.gov.uk/brownfield-site-register,51.570225,-0.36514,1.75,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/1466/16,https://maps.london.gov.uk/brownfield-site-register,51.581163,-0.334367,0.06,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,P/3524/16,https://maps.london.gov.uk/brownfield-site-register,51.569245,-0.351034,4.1,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,Site Allocations R1,https://maps.london.gov.uk/brownfield-site-register,51.574571,-0.37054,0.11,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,Site Allocations H2,https://maps.london.gov.uk/brownfield-site-register,51.565434,-0.351778,0.03,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,Site Allocations H19,https://maps.london.gov.uk/brownfield-site-register,51.579372,-0.340276,0.07,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c
+,local-authority-eng:HRW,AAP Site 17,https://maps.london.gov.uk/brownfield-site-register,51.579832,-0.335309,0.09,,,,,e7c2b88e2e60a8f8477e9c9838b57cb1d7f998277df2641673f9ea0cba00e47c

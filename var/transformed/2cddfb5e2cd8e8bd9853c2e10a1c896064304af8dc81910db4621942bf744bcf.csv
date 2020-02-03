@@ -1,8 +1,8 @@
-entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-11-13,national-park-authority:Q27178932,S/05/2,54.211890,-2.578990,0.67,,,2017-11-13,,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
-2017-11-13,national-park-authority:Q27178932,R/31/23F,54.398130,-1.842860,0.3,,,2017-11-13,,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
-2017-11-13,national-park-authority:Q27178932,C/04/41G,54.114450,-2.354480,0.15,,,2017-11-13,,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
-2017-11-13,national-park-authority:Q27178932,C/52/56C,54.020970,-2.254040,0.31,,,2017-11-13,,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
-2017-11-13,national-park-authority:Q27178932,S/03/606,54.324180,-2.528240,0.14,,,2017-11-13,,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
-2017-11-13,national-park-authority:Q27178932,S/03/148D,54.323470,-2.527670,0.05,,,2017-11-13,,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
-2017-11-13,national-park-authority:Q27178932,211,54.387880,-1.940890,0.21,,,2017-11-13,,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
+entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2017-11-13,national-park-authority:Q27178932,S/05/2,http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0008/977309/Casterton.pdf,54.21189,-2.57899,0.67,,,2017-11-13,,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
+2017-11-13,national-park-authority:Q27178932,R/31/23F,http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0006/977316/Stables-Marske.pdf,54.39813,-1.84286,0.3,,,2017-11-13,,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
+2017-11-13,national-park-authority:Q27178932,C/04/41G,http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0007/977317/Townhead-Austwick.pdf,54.11445,-2.35448,0.15,,,2017-11-13,,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
+2017-11-13,national-park-authority:Q27178932,C/52/56C,http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0010/977311/Greengate-Long-P.pdf,54.02097,-2.25404,0.31,,,2017-11-13,,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
+2017-11-13,national-park-authority:Q27178932,S/03/606,http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0011/977312/Kings-Yard-Sedbergh.pdf,54.32418,-2.52824,0.14,,,2017-11-13,,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
+2017-11-13,national-park-authority:Q27178932,S/03/148D,http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0003/977313/Main-St-Sedbergh.pdf,54.32347,-2.52767,0.05,,,2017-11-13,,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
+2017-11-13,national-park-authority:Q27178932,211,http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0005/977315/Park-Lea-Reeth.pdf,54.38788,-1.94089,0.21,,,2017-11-13,,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf

@@ -1,33 +1,53 @@
 row-number,field,datatype,value
 1,GeoX,decimal,ETRS89
+1,SiteplanURL,uri,"St Martin's Walk Centre (Upper Floors), Dorking, RH4 1UX"
 2,GeoX,decimal,ETRS89
+2,SiteplanURL,uri,"Claire House and James House, Bridge St, Leatherhead KT22 8BZ"
 3,GeoX,decimal,ETRS89
+3,SiteplanURL,uri,"Bull Hill Site, Leatherhead, KT22 7AH"
 4,GeoX,decimal,ETRS89
+4,SiteplanURL,uri,"Grove Corner, Lower Shott/Guildford Road, Bookham KT23 4LP"
 5,GeoX,decimal,ETRS89
-6,PermissionDate,date,full planning permission
+5,SiteplanURL,uri,"Sorting Office, Station Rd, Leatherhead KT22 7AE and Telephone Exchange,Station Rd, Leatherhead KT22 7AF"
 6,GeoX,decimal,ETRS89
-7,PermissionDate,date,full planning permission
+6,SiteplanURL,uri,"Land to the rear of 272-294 High St,Dorking RH4 1QT"
+6,PermissionDate,date,full planning permission
 7,GeoX,decimal,ETRS89
-8,PermissionDate,date,full planning permission
+7,SiteplanURL,uri,"Fortyfoot Hall,Fortyfoot Rd,Leatherhead KT22 8RY"
+7,PermissionDate,date,full planning permission
 8,GeoX,decimal,ETRS89
-9,PermissionDate,date,full planning permission
+8,SiteplanURL,uri,"Institute Of Further Education,Dene St,Dorking RH4 3EB"
+8,PermissionDate,date,full planning permission
 9,GeoX,decimal,ETRS89
-10,PermissionDate,date,full planning permission
+9,SiteplanURL,uri,"37 & 39 Kingston Rd,Leatherhead KT22 7SL"
+9,PermissionDate,date,full planning permission
 10,GeoX,decimal,ETRS89
-11,PermissionDate,date,full planning permission
+10,SiteplanURL,uri,"87-99 High St,Dorking RH4 1AN"
+10,PermissionDate,date,full planning permission
 11,GeoX,decimal,ETRS89
-12,PermissionDate,date,full planning permission
+11,SiteplanURL,uri,"176-180,High Street,Dorking,Surrey,RH4 1QR"
+11,PermissionDate,date,full planning permission
 12,GeoX,decimal,ETRS89
-13,PermissionDate,date,full planning permission
+12,SiteplanURL,uri,"Two Ways,Oxshott Road,Leatherhead,Surrey,KT22 0EG"
+12,PermissionDate,date,full planning permission
 13,GeoX,decimal,ETRS89
-14,PermissionDate,date,-0.330961
+13,SiteplanURL,uri,"Whitefriars,Ottways Lane,Ashtead,Surrey,KT21 2PB"
+13,PermissionDate,date,full planning permission
 14,GeoX,decimal,North Street
 14,GeoY,decimal,Leatherhead
-15,PermissionDate,date,full planning permission
+14,SiteplanURL,uri,Rear of Grantham House
+14,Hectares,decimal,Surrey
+14,PermissionDate,date,-0.330961
+14,NetDwellingsRangeFrom,integer,http://www.molevalley.gov.uk/swiftlg/apas/run/WPHAPPDETAIL.DisplayUrl?theApnID=MO/2018/0738
 15,GeoX,decimal,ETRS89
-16,PermissionDate,date,outline planning permission
+15,SiteplanURL,uri,"Stocks House,9,North Street,Leatherhead,Surrey,KT22 7AX"
+15,PermissionDate,date,full planning permission
 16,GeoX,decimal,ETRS89
-17,PermissionDate,date,full planning permission
+16,SiteplanURL,uri,"British Food Manu Research Assoc,Randalls Way,Leatherhead,Surrey,KT22 7RY"
+16,PermissionDate,date,outline planning permission
 17,GeoX,decimal,ETRS89
-18,PermissionDate,date,full planning permission
+17,SiteplanURL,uri,"Surrey Hills Hotel,Horsham Road,Beare Green,Surrey"
+17,PermissionDate,date,full planning permission
 18,GeoX,decimal,ETRS89
+18,SiteplanURL,uri,"80a,86 and 88 Woodfield Lane,Ashtead,KT21 2BS"
+18,PermissionDate,date,full planning permission

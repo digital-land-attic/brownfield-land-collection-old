@@ -1,1 +1,17 @@
 row-number,field,datatype,value
+1,SiteplanURL,uri,Naseby Square
+2,SiteplanURL,uri,Clarence Street
+3,SiteplanURL,uri,Former Harboro' Rubber site
+4,SiteplanURL,uri,Rockingham Road
+5,SiteplanURL,uri,"Merrie Monk, Dunton Bassett"
+6,SiteplanURL,uri,"Old Station Yard, n'r Great Easton"
+7,SiteplanURL,uri,"Stretton Road, Great Glen"
+8,SiteplanURL,uri,"Fishers Farm, Foxton"
+9,SiteplanURL,uri,"Garden Centre, Broughton Astley"
+9,Hectares,decimal,0.40.
+10,SiteplanURL,uri,"Melton Road, Shangton"
+10,Hectares,decimal,2.90.
+11,SiteplanURL,uri,"Clover Court, Hearth Street"
+12,SiteplanURL,uri,"Knights Close, Billesdon"
+13,SiteplanURL,uri,"Former railway station, Kibworth Beauchamp"
+14,SiteplanURL,uri,"Car/lorry park, Gaulby Road, Billesdon"

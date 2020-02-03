@@ -12,10 +12,12 @@ row-number,field,datatype,value
 11,FirstAddedDate,date,31-06-2017
 12,FirstAddedDate,date,31-06-2017
 13,FirstAddedDate,date,31-06-2017
-14,PermissionDate,date,Permission Date
-14,FirstAddedDate,date,31-06-2017
 14,GeoX,decimal,GeoX
 14,GeoY,decimal,GeoY
+14,SiteplanURL,uri,SiteplanURL
+14,Hectares,decimal,
+14,PermissionDate,date,Permission Date
+14,FirstAddedDate,date,31-06-2017
 15,FirstAddedDate,date,31-06-2017
 16,FirstAddedDate,date,31-06-2017
 17,FirstAddedDate,date,31-06-2017

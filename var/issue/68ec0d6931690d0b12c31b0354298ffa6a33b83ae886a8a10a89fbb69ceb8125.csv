@@ -1,8 +1,2 @@
 row-number,field,datatype,value
-2,PermissionDate,date,n/a
-3,PermissionDate,date,n/a
-4,PermissionDate,date,n/a
-7,PermissionDate,date,n/a
-8,PermissionDate,date,n/a
-9,PermissionDate,date,n/a
-66,"GeoX,GeoY",OSGB,"534357,1401970"
+66,"GeoX,GeoY",OSGB,"534357,1.40197E+6"

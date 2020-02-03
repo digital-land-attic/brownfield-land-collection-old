@@ -1,5 +1,5 @@
-entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-08,national-park-authority:Q72617988,NP/BLR/S/001,53.421330,-1.606660,7.23,,,2017-12-08,,836f862dcf5faa6ccb6e894863528164de8daea0156cdf2157bce9722a636b31
-2017-12-08,national-park-authority:Q72617988,NP/BLR/DDD/002,53.329095,-1.740009,2.18,,,2017-12-08,,836f862dcf5faa6ccb6e894863528164de8daea0156cdf2157bce9722a636b31
-2017-12-08,national-park-authority:Q72617988,NP/BLR/DDD/003,53.272011,-1.773858,0.9,,,2017-12-08,,836f862dcf5faa6ccb6e894863528164de8daea0156cdf2157bce9722a636b31
-2017-12-08,national-park-authority:Q72617988,NP/BLR/DDD/004,53.141424,-1.814404,1.78,,,2017-12-08,,836f862dcf5faa6ccb6e894863528164de8daea0156cdf2157bce9722a636b31
+entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2017-12-08,national-park-authority:Q72617988,NP/BLR/S/001,http://www.peakdistrict.gov.uk/brownfield,53.42133,-1.60666,7.23,,,2017-12-08,,836f862dcf5faa6ccb6e894863528164de8daea0156cdf2157bce9722a636b31
+2017-12-08,national-park-authority:Q72617988,NP/BLR/DDD/002,http://www.peakdistrict.gov.uk/brownfield,53.329095,-1.740009,2.18,,,2017-12-08,,836f862dcf5faa6ccb6e894863528164de8daea0156cdf2157bce9722a636b31
+2017-12-08,national-park-authority:Q72617988,NP/BLR/DDD/003,http://www.peakdistrict.gov.uk/brownfield,53.272011,-1.773858,0.9,,,2017-12-08,,836f862dcf5faa6ccb6e894863528164de8daea0156cdf2157bce9722a636b31
+2017-12-08,national-park-authority:Q72617988,NP/BLR/DDD/004,http://www.peakdistrict.gov.uk/brownfield,53.141424,-1.814404,1.78,,,2017-12-08,,836f862dcf5faa6ccb6e894863528164de8daea0156cdf2157bce9722a636b31

@@ -1,29 +1,29 @@
-entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2018-12-18,local-authority-eng:ASF,AG7c,51.138216,0.882819,7.7,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,BE16,51.140725,0.859348,2.79,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,BE17,51.140002,0.861157,3.82,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,DW32,51.223163,0.877193,0.486,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,NO1,51.133420,0.865427,0.403,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,NW3,51.157612,0.900833,4.5,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,ST3,51.152686,0.878218,4,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,ST8,51.149506,0.885622,1,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,VC1 & VC2,51.145917,0.864829,0.75,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,VC1 & VC2,51.145917,0.864829,0.48,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,VC60,51.146170,0.870028,1.01,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,VC17,51.146672,0.863173,2.307,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,VC3,51.143649,0.871423,2.401,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,VC4,51.146637,0.850497,2.014,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,VC50,51.145801,0.851580,1.2,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,VC54,51.151959,0.865460,0.1237,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,VC57 & VC59,51.143335,0.870359,0.186,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,WC37,51.110178,0.734096,0.86,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,WC45 & WC46,51.102478,0.698889,1.226,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,WC55,51.103085,0.711190,1.51,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,WC77,51.170681,0.742524,0.219,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,WY3,51.187790,0.943756,1.5,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,WY24,51.162922,0.930920,1.2,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,WS77,51.069547,0.776404,0.27,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,TN4,51.069919,0.685633,0.14,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,WS14,51.111017,0.831079,0.7,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,SS8,51.122122,0.976080,0.41,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
-2018-12-18,local-authority-eng:ASF,VC20,51.150896,0.868879,0.51,,,2018-12-18,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2018-12-18,local-authority-eng:ASF,AG7c,https://www.ashford.gov.uk/media/5753/ag7c.pdf,51.138216,0.882819,7.7,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,BE16,https://www.ashford.gov.uk/media/5754/be16.pdf,51.140725,0.859348,2.79,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,BE17,https://www.ashford.gov.uk/media/5755/be17.pdf,51.140002,0.861157,3.82,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,DW32,https://www.ashford.gov.uk/media/5756/dw32.pdf,51.223163,0.877193,0.486,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,NO1,https://www.ashford.gov.uk/media/5757/no1.pdf,51.13342,0.865427,0.403,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,NW3,https://www.ashford.gov.uk/media/5758/nw3.pdf,51.157612,0.900833,4.5,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,ST3,https://www.ashford.gov.uk/media/5760/st3.pdf,51.152686,0.878218,4,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,ST8,https://www.ashford.gov.uk/media/5761/st8.pdf,51.149506,0.885622,1,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,VC1 & VC2,https://www.ashford.gov.uk/media/5763/vc1andvc2.pdf,51.145917,0.864829,0.75,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,VC1 & VC2,https://www.ashford.gov.uk/media/5763/vc1andvc2.pdf,51.145917,0.864829,0.48,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,VC60,https://www.ashford.gov.uk/media/5770/vc60.pdf,51.14617,0.870028,1.01,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,VC17,https://www.ashford.gov.uk/media/5766/vc17.pdf,51.146672,0.863173,2.307,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,VC3,https://www.ashford.gov.uk/media/5764/vc3.pdf,51.143649,0.871423,2.401,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,VC4,https://www.ashford.gov.uk/media/5765/vc4.pdf,51.146637,0.850497,2.014,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,VC50,https://www.ashford.gov.uk/media/5767/vc50.pdf,51.145801,0.85158,1.2,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,VC54,https://www.ashford.gov.uk/media/5768/vc54.pdf,51.151959,0.86546,0.1237,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,VC57 & VC59,https://www.ashford.gov.uk/media/5769/vc57andvc59.pdf,51.143335,0.870359,0.186,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,WC37,https://www.ashford.gov.uk/media/5771/wc37.pdf,51.110178,0.734096,0.86,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,WC45 & WC46,https://www.ashford.gov.uk/media/5772/wc45andwc46.pdf,51.102478,0.698889,1.226,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,WC55,https://www.ashford.gov.uk/media/5773/wc55.pdf,51.103085,0.71119,1.51,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,WC77,https://www.ashford.gov.uk/media/5774/wc77.pdf,51.170681,0.742524,0.219,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,WY3,https://www.ashford.gov.uk/media/5777/wy3.pdf,51.18779,0.943756,1.5,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,WY24,https://www.ashford.gov.uk/media/5778/wy24.pdf,51.162922,0.93092,1.2,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,WS77,https://www.ashford.gov.uk/media/5776/ws77.pdf,51.069547,0.776404,0.27,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,TN4,https://www.ashford.gov.uk/media/5762/tn4.pdf,51.069919,0.685633,0.14,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,WS14,https://www.ashford.gov.uk/media/5775/ws14.pdf,51.111017,0.831079,0.7,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,SS8,https://www.ashford.gov.uk/media/5759/ss8.pdf,51.122122,0.97608,0.41,,,2018-02-26,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328
+2018-12-18,local-authority-eng:ASF,VC20,,51.150896,0.868879,0.51,,,2018-12-18,,33dba14b8bea82c6e6daaf50c1f1a7d5d600e918df2e1755bb34d28c375e8328

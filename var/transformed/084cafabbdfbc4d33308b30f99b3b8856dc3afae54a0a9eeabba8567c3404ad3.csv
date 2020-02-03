@@ -1,30 +1,30 @@
-entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-31,local-authority-eng:MEL,15/00569/OUT,52.873447,-0.858327,0.24,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,08/00703/OUT,52.839310,-0.927500,0.26,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,17/00784/FUL,52.853528,-0.809990,0.27,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,16/00931/FUL,52.759231,-0.885856,0.3,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,15/00889/FUL,52.728177,-0.930450,0.33,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,MBC/023/15,52.873144,-0.890888,0.34,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,14/00496/FUL,52.752959,-0.876607,0.34,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,16/00202/FUL,52.701736,-0.960651,0.34,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,15/00357/FUL,52.807898,-0.999408,0.36,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,16/00622/FUL,52.808460,-0.998831,0.37,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,MBC/037/13 (MEL5 in submitted Plan),52.773045,-0.886393,0.4,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,16/00502/FUL,52.800047,-0.793132,0.42,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,15/00135/FUL,52.938771,-0.791404,0.43,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,16/00577/FUL,52.823643,-0.971413,0.46,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,MBC/134/13 (HAR2 in submitted Plan),52.874777,-0.896315,0.5,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,MBC/135/13,52.763439,-0.883970,0.5,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,MBC/136/13,52.764090,-0.889141,0.5,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,16/00838/OUT,52.750126,-0.901452,0.5,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,MBC/021/17,52.771266,-0.888395,0.79,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,17/00001/FUL,52.848665,-0.849296,1,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,15/01016/OUT,52.937832,-0.794555,1.02,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,MBC/133/14,52.765813,-0.877433,1.12,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,MBC/186/15,52.769388,-0.891407,1.41,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,MBC/150/15 (LONG3 in submitted Plan),52.839527,-0.916716,2.16,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,MBC/020/13 (HAR3 in submitted Plan),52.874410,-0.901301,3.12,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,15/00537/OUT,52.741843,-0.874316,3.9,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,MBC/028/17,52.762347,-0.924412,5.11,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,MBC/032/13,52.754880,-0.877239,5.52,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
-2017-12-31,local-authority-eng:MEL,MBC/123/13,52.759440,-0.886058,6,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2017-12-31,local-authority-eng:MEL,15/00569/OUT,https://arcg.is/1CDCS,52.873447,-0.858327,0.24,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,08/00703/OUT,https://arcg.is/1CDCS,52.83931,-0.9275,0.26,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,17/00784/FUL,https://arcg.is/1CDCS,52.853528,-0.80999,0.27,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,16/00931/FUL,https://arcg.is/1CDCS,52.759231,-0.885856,0.3,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,15/00889/FUL,https://arcg.is/1CDCS,52.728177,-0.93045,0.33,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,MBC/023/15,https://arcg.is/1CDCS,52.873144,-0.890888,0.34,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,14/00496/FUL,https://arcg.is/1CDCS,52.752959,-0.876607,0.34,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,16/00202/FUL,https://arcg.is/1CDCS,52.701736,-0.960651,0.34,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,15/00357/FUL,https://arcg.is/1CDCS,52.807898,-0.999408,0.36,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,16/00622/FUL,https://arcg.is/1CDCS,52.80846,-0.998831,0.37,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,MBC/037/13 (MEL5 in submitted Plan),https://arcg.is/1CDCS,52.773045,-0.886393,0.4,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,16/00502/FUL,https://arcg.is/1CDCS,52.800047,-0.793132,0.42,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,15/00135/FUL,https://arcg.is/1CDCS,52.938771,-0.791404,0.43,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,16/00577/FUL,https://arcg.is/1CDCS,52.823643,-0.971413,0.46,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,MBC/134/13 (HAR2 in submitted Plan),https://arcg.is/1CDCS,52.874777,-0.896315,0.5,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,MBC/135/13,https://arcg.is/1CDCS,52.763439,-0.88397,0.5,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,MBC/136/13,https://arcg.is/1CDCS,52.76409,-0.889141,0.5,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,16/00838/OUT,https://arcg.is/1CDCS,52.750126,-0.901452,0.5,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,MBC/021/17,https://arcg.is/1CDCS,52.771266,-0.888395,0.79,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,17/00001/FUL,https://arcg.is/1CDCS,52.848665,-0.849296,1,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,15/01016/OUT,https://arcg.is/1CDCS,52.937832,-0.794555,1.02,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,MBC/133/14,https://arcg.is/1CDCS,52.765813,-0.877433,1.12,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,MBC/186/15,https://arcg.is/1CDCS,52.769388,-0.891407,1.41,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,MBC/150/15 (LONG3 in submitted Plan),https://arcg.is/1CDCS,52.839527,-0.916716,2.16,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,MBC/020/13 (HAR3 in submitted Plan),https://arcg.is/1CDCS,52.87441,-0.901301,3.12,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,15/00537/OUT,https://arcg.is/1CDCS,52.741843,-0.874316,3.9,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,MBC/028/17,https://arcg.is/1CDCS,52.762347,-0.924412,5.11,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,MBC/032/13,https://arcg.is/1CDCS,52.75488,-0.877239,5.52,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3
+2017-12-31,local-authority-eng:MEL,MBC/123/13,https://arcg.is/1CDCS,52.75944,-0.886058,6,,,2017-12-31,,084cafabbdfbc4d33308b30f99b3b8856dc3afae54a0a9eeabba8567c3404ad3

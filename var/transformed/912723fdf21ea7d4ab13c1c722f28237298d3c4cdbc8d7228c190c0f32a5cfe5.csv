@@ -1,2 +1,2 @@
-entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,transport-authority:Q7834921,,,,,,,,,912723fdf21ea7d4ab13c1c722f28237298d3c4cdbc8d7228c190c0f32a5cfe5
+entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,,,,,,,,,,,912723fdf21ea7d4ab13c1c722f28237298d3c4cdbc8d7228c190c0f32a5cfe5

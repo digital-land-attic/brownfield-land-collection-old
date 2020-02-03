@@ -1,16 +1,16 @@
-entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2019-07-04,local-authority-eng:SRI,2031,53.714500,-2.784800,4.64,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,local-authority-eng:SRI,MF02b,53.739200,-2.698400,9.45,,,2016-06-03,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,local-authority-eng:SRI,MF02c,53.740500,-2.698700,1.17,,,2016-06-03,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,local-authority-eng:SRI,TG08,53.733700,-2.688800,1.9,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,local-authority-eng:SRI,2013,53.695100,-2.814800,0.63,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,local-authority-eng:SRI,2016,53.707900,-2.800500,0.26,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,local-authority-eng:SRI,1987,53.725400,-2.792100,0.26,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,local-authority-eng:SRI,1395,53.712200,-2.776200,0.41,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,local-authority-eng:SRI,2017,53.704200,-2.723800,0.28,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,local-authority-eng:SRI,NLH08b (NE part),53.721800,-2.740500,0.26,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,local-authority-eng:SRI,MS02,53.700600,-2.727600,40.6,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,local-authority-eng:SRI,BBW02,53.727900,-2.669500,2.7,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,local-authority-eng:SRI,TG05,53.725500,-2.688000,1.5,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,local-authority-eng:SRI,SW13,53.742000,-2.645400,2.3,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
-2019-07-04,local-authority-eng:SRI,HP01,53.746600,-2.761500,2.4,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2019-07-04,local-authority-eng:SRI,2031,https://www.southribble.gov.uk/content/housing-land-availability,53.7145,-2.7848,4.64,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,MF02b,https://www.southribble.gov.uk/content/housing-land-availability,53.7392,-2.6984,9.45,,,2016-06-03,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,MF02c,https://www.southribble.gov.uk/content/housing-land-availability,53.7405,-2.6987,1.17,,,2016-06-03,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,TG08,https://www.southribble.gov.uk/content/housing-land-availability,53.7337,-2.6888,1.9,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,2013,https://www.southribble.gov.uk/content/housing-land-availability,53.6951,-2.8148,0.63,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,2016,https://www.southribble.gov.uk/content/housing-land-availability,53.7079,-2.8005,0.26,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,1987,https://www.southribble.gov.uk/content/housing-land-availability,53.7254,-2.7921,0.26,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,1395,https://www.southribble.gov.uk/content/housing-land-availability,53.7122,-2.7762,0.41,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,2017,https://www.southribble.gov.uk/content/housing-land-availability,53.7042,-2.7238,0.28,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,NLH08b (NE part),https://www.southribble.gov.uk/content/housing-land-availability,53.7218,-2.7405,0.26,,,2019-07-04,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,MS02,https://www.southribble.gov.uk/content/housing-land-availability,53.7006,-2.7276,40.6,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,BBW02,https://www.southribble.gov.uk/content/housing-land-availability,53.7279,-2.6695,2.7,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,TG05,https://www.southribble.gov.uk/content/housing-land-availability,53.7255,-2.688,1.5,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,SW13,https://www.southribble.gov.uk/content/housing-land-availability,53.742,-2.6454,2.3,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba
+2019-07-04,local-authority-eng:SRI,HP01,https://www.southribble.gov.uk/content/housing-land-availability,53.7466,-2.7615,2.4,,,2017-09-20,,f5674dc4ad613c5c8c20aa46c6bda8505968fe65f6598a227cc4f2511972a8ba

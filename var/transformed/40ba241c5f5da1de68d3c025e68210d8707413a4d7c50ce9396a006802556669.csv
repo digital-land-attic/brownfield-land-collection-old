@@ -1,4 +1,4 @@
-entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-11-30,development-corporation:Q6670544,LLDC1,51.534424,-0.008506,2.9,,,2017-11-30,,40ba241c5f5da1de68d3c025e68210d8707413a4d7c50ce9396a006802556669
-2017-11-30,development-corporation:Q6670544,LLDC2,51.533663,-0.003976,3.34,,,2017-11-30,,40ba241c5f5da1de68d3c025e68210d8707413a4d7c50ce9396a006802556669
-2017-11-30,development-corporation:Q6670544,LLDC3,51.525300,-0.010554,0.99,,,2017-11-30,,40ba241c5f5da1de68d3c025e68210d8707413a4d7c50ce9396a006802556669
+entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2017-11-30,development-corporation:Q6670544,LLDC1,http://www.queenelizabetholympicpark.co.uk/-/media/lldc/planning/brownfield-register/lldc1.ashx?la=en,51.534424,-0.008506,2.9,,,2017-11-30,,40ba241c5f5da1de68d3c025e68210d8707413a4d7c50ce9396a006802556669
+2017-11-30,development-corporation:Q6670544,LLDC2,http://www.queenelizabetholympicpark.co.uk/-/media/lldc/planning/brownfield-register/lldc2.ashx?la=en,51.533663,-0.003976,3.34,,,2017-11-30,,40ba241c5f5da1de68d3c025e68210d8707413a4d7c50ce9396a006802556669
+2017-11-30,development-corporation:Q6670544,LLDC3,http://www.queenelizabetholympicpark.co.uk/-/media/lldc/planning/brownfield-register/lldc3.ashx?la=en,51.5253,-0.010554,0.99,,,2017-11-30,,40ba241c5f5da1de68d3c025e68210d8707413a4d7c50ce9396a006802556669

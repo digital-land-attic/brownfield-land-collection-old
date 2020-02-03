@@ -1,74 +1,142 @@
 OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,Deliverable,NetDwellingsRangeFrom,NetDwellingsRangeTo,HazardousSubstances,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
+Site Allocations in the Local Plan,,,,,,,,,,,,,,,,,,,,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR1,"Gas Holder Site, Homesdale Road, Bromley, BR1 2UE",51.40075258,0.032183239,"Link to the site boundary of the Gas Holder Site, Homesdale Road, Bickley supporting the Site Allocation in the Local Plan",1,Unknown Ownership,Not permissioned,N/A,N/A,None relevant.,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR2,"Land adjacent to Bickley Station,BR1 2EB",51.39967957,0.042702504,Link to the site boundary of the Land adjacent to Bickley Station supporting the Site Allocation in the Local Plan,0.9,Unknown Ownership,Not permissioned,N/A,N/A,None relevant.,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR3,Opportunity Site B Corner of Tweedy Road/London Road,51.40885202,0.012023238,Link to Appendix 5 of Bromley Town Centre's Area Action Plan. A map of Opportunity Site B is included on p.155,0.37,Owned by the London Borough of Bromley,Not permissioned,N/A,N/A,"Link to full planning permission 17/05084/FULL1 for 24 x 2 bed flats on land adjacent to Bromley College, London Road",yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR4,"Opportunity Site C, Old Town Hall, 30 Tweedy Road,  BR1 3FE",51.40662835,0.017921393,Link to the map of Bromley's Old Town Hall and Associated Carparking associated with Full planning permission 16/01175/FULL1,0.7,Owned by the London Borough of Bromley,Permissioned,Full Planning Permission,2016-08-11,Link to Full planning permission 16/01175/FULL1 for Old Town Hall 30 Tweedy Road,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR5,"Opportunity Site P, Sainsbury's  West Street, Bromley BR1 1TP",51.40715323,0.013544628,Link to Appendix 5 of Bromley Town Centre's Area Action Plan. A map of Opportunity Site P is included on p.173,1.25,Unknown Ownership,Not permissioned,N/A,N/A,None relevant.,No,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR6,"Bromley Civic Centre, Stockwell Close, BR1 3UH",51.40367621,0.021198841,Link to the site boundary of the Bromley Civic Centre site supporting the Site Allocation in the Local Plan,5.75,Owned by the London Borough of Bromley,Not permissioned,N/A,N/A,None relevant.,No,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR7,"West of Bromley High Street and Land at Bromley South, BR1/BR2",51.40132401,0.015746875,Link to the site boundary of West of Bromley High Street and Land at Bromley South site associated with the Site Allocation in the Local Plan,4.54,Mixed ownership,Not permissioned,N/A,N/A,None relevant.,No,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR8,"Land adjacent to Bromley North Station, Tweedy Road, Bromley, BR1",51.40927164,0.017433937,Link to the site boundary of  the Land adjacent to Bromley North associated with the Site Allocation in the Local Plan,3,Mixed ownership,Not permissioned,N/A,N/A,None relevant.,Yes Part,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR9,"The Hill Car Park & Adjacent Lands,BR2 0DA",51.40642665,0.011341532,Link to the site boundary of the Hill Muti Storey Car Park and Adjacent Sites associated with the Site Allocation in the Local Plan,1.25,Mixed ownership,Not permissioned,N/A,N/A,None relevant.,No,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR10,"Banbury House, Bushell Way, Chislehurst, BR7 6SF",51.42306416,0.059481434,Link to the site boundary of Banbury House Bushell Way associated with the Site Allocation in the Local Plan,0.27,Owned by the London Borough of Bromley,Not permissioned,N/A,N/A,None relevant.,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR11,"Bromley Valley Gym and Adjacent Lands, Chipperfield Road, St Paul?s Cray, BR5 2QR",51.40546566,0.103479952,Link to the site boundary of Bromley Valley Gym and Adjacent Lands Chipperfield Road St Paul's Cray associated with the Site Allocation in the Local Plan,2.8,Owned by the London Borough of Bromley,Not permissioned,N/A,N/A,None relevant.,No,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR12,"Small Halls York Rise, Orpington, BR6 8AD",51.37348597,0.086481679,Link to the site boundary of Small Halls York Rise Orpington associated with the Site Allocation in the Local Plan,0.46,Owned by the London Borough of Bromley,Not permissioned,N/A,N/A,Link to Temporary Planning Permission 16/02808/REG3 for Temporary use of site as public car park for 60 spaces (including 6 disabled bays) for up to 3 years,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR13,"18-44 Homefield Rise Orpington, BR6 ORU",51.37475659,0.101425519,Link to the site boundary of Homefield Rise Orpington associated with the Site Allocation in the Local Plan,0.75,Unknown Ownership,Not permissioned,N/A,N/A,None relevant.,Yes,,,,,,N/A,
+Sites with Planning Permission,,,,,,,,,,,,,,,,,,,,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR14,"6 Woodlands Road,  BR1 2AF, Bickley",51.40367828,0.045971807,Link to the map of  6 Woodlands Road associated with Outline planning permission 1404512/OUT,0.89,Unknown Ownership,Permissioned,Hybrid Full/Outline planning permission with All Matters Reserved.,2015-03-02,Link to Hybrid Full Outline planning permission 1404512/Full for 6 Woodlands Road,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR17,"42 Orchard Road,  BR1 2PS",51.40957602,0.034170679,Link to the map of 42 Orchard Road associated with Full planning permission 17/01241/FULL1,0.17,Unknown Ownership,Permissioned,Full Planning Permission,2017-08-07,Link to Full planning permission 17/01241/FULL1 for 42 Orchard Road,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR19,"Site of Former 41 Sunningvale Avenue, Sunningvale Close,  TN16 3BX",51.31729941,0.030059865,Link to the map of the Site of former 41 Sunningdale Avenue Sunningdale Close associated with planning permission 17/02081/FULL1,0.3,Unknown Ownership,Permissioned,Full Planning Permission,2017-07-20,Link to Full planning permission for the Site of Former 41 Sunningvale Avenue Sunningvale Close reference 17/02081/FULL1,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR23,"7 Sandford Road, BR2 9AL",51.39770278,0.017154833,Link to the map of 7 Sandford Road associated with Full planning permission16/04621/FULL1,,Unknown Ownership,Permissioned,Full Planning Permission,2016-11-30,Link to Full planning permission 16/04621/FULL1 for 7 Sandford Road Bromley,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR25,"9 London Road,  BR1 1BY",51.40801658,0.010922487,Link to the map of 9 London Road Bromley associated with Full planning permission 16/00859/FULL3,0.05,Unknown Ownership,Permissioned,Full Planning Permission Subject to Legal Agreement,2016-11-02,Link to Full planning permission 16/00859/FULL3 for 9 London Road Bromley,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR26,"Upfield Hillbrow Road,  BR1 4JL",51.41717487,0.000207456,Link to the map of Upfield Hillbrow Road associated with Full planning permission 16/04910/FULL1,0.1,Unknown Ownership,Permissioned,Full planning permission,2016-11-02,Link to Full planning permission 16/04910/FULL1 for Upfield Hillbrow Road Bromley,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR29,"Hasells Nursery, Jackson Road,  BR2 8NS",51.37488756,0.049876478,Link to the map of Hasells Nursery Jackson Road BR28NS associated with Full planning permission 16/05353/FULL1,0.7,Unknown Ownership,Permissioned,Full Planning Permission,2017-08-10,Link to Full planning permission 16/05353/FULL1 for Hasells Nursery Jackson Road,Yes,,,,,,N/A,
+BLR,N/A,BLR30,"Ontario Centre, Helegan Close,  BR6 9XJ",51.36478243,0.094964367,Link to the map of Ontario Centre Helegan Close associated with Outline Planning Permission 16/05900/OUT,0.18,Unknown Ownership,Permissioned,Outline Planning Permission,2017-05-19,Link to Outline Planning Permission 16/05900/OUT for Ontario Centre 9 Helegan Close Orpington,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR31,"63-65 Chislehurst Road,  BR7 5NP",51.40774043,0.055887687,Link to the map of 63-35 Chislehurst Road associated with Full planning application 16/01032/FULL1,0.035,Unknown Ownership,Permissioned,Full Planning Permission,2016-09-14,Link to Full planning permission 16/01032/FULL1 for 63 - 65 Chislehurst Road Chislehurst,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR33,"3 Beckenham Road,  BR3 4ES",51.4070294,-0.032659557,Link to the map of 3 Beckenham Road associated with Full planning permission 16/04145/FULL1,0.10,Unknown Ownership,Permissioned,Full Planning Permission,2016-12-22,Link to Full planning permission 16/04145/FULL1 for 3 Beckenham Road Beckenham,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR37,"Beechers Court, High Street,  BR3 1AQ",51.40679456,-0.027780867,Link to the map of Beechers Court High Street Beckenham associated with Full planning permission 17/01348/FULL1,0.030,Unknown Ownership,Permissioned,Full Planning Permission,2017-05-26,Link to Full planning permission 17/01348/FULL1 for Beechers Court High Street Beckenham,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR39,"28 Park Hill Road,  BR2 0LF",51.4050238,-0.000754457,Link to the map of 28 Park Hill Road Shortlands associated with Outline planning application 16/00218/OUT,0.260,Unknown Ownership,Permissioned,Outline Planning Permission,2016-06-23,Link to Outline Planning Permission 16/00218/OUT for 28 Park Hill Road Shortlands Bromley allowed on Appeal (re: 16/00381/S78),Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR40,"Beck House 36a, Copers Cope Road,  BR3 1NH",51.41340283,-0.031436903,Link to the map of Beck House 36A Copers Cope Road Beckenham associated with planning application 16/02136/FULL1,0.250,Unknown Ownership,Permissioned,Full Planning Permission,2016-07-15,Link to Full Planning Permission 16/02136/FULL1 for Beck House 36A Copers Cope Road Beckenham BR31NH,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR41,"Conifer House, Southend Road , BR3 1SL",51.41788353,-0.023017784,Link to the Map of  Conifer House 44 Southend Road Beckenham associated with Planning Permission 16/02179/FULL1,0.150,Unknown Ownership,Permissioned,Full Planning Permission,2016-07-17,Link to Full Planning Permission 16/02179/FULL1 for Conifer House 44 Southend Road Beckenham,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR43,"122 Anerley Road,  SE20 8DL",51.41522245,-0.071641046,Link to Map of 122 Anerley Road Penge London associated with Full planning permission 17/02975/FULL1,0.036,Unknown Ownership,Permissioned,Full Planning Permission,2016-04-21,Link to Full Planning Permission 17/02975/FULL1 for 122 Anerley Road Penge London,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR44,"69-71 Church Road,  SE19 2TA",51.41779454,-0.080406629,Link to the map of 69-71 Church Road associated with Full planning permission 16/01297/FULL1,0.090,Unknown Ownership,Permissioned,Full Planning Permission,2016-10-17,Link to Full planning permission 16/01297/FULL1 for 69 - 71 Church Road Anerley,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR46,"Crystal Palace Park Crystal Palace Park Road, Thicket Road, Crystal Palace Parade, Anerley Hill, SE20 8DT",51.42091634,-0.067359812,Link to the map of Crystal palace Park associated with Outline planning permission 07/03897/OUT,1.973,Owned by the London Borough of Bromley,Permissioned,Part Outline Part Full Planning Permission,2010-12-14,Link to Outline Planning Permission 07/03897/OUT associated with Crystal Palace Park Thicket Road London,Yes Part,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR47,"Warren Farm, Berrys Green Road,  TN16 3AJ",51.31107728,0.061381446,Link to the map of Warren Farm Berrys Road associated with Outline Planning Permission 17/01895/FULL1,0.740,Unknown Ownership,Permissioned,Outline Planning Permission,2016-08-01,Link to Outline Planning Application 16/01961/OUT for Warren Farm Berrys Green Road Berrys Green Westerham,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR48,"39 Oregon Square,  BR6 8NH",51.37441572,0.078190146,Link to the map of 39 Oregon Square Orpington  associated with Outline planning permission 16/00634/OUT,0.267,Unknown Ownership,Permissioned,N/A,N/A,Link to Outline planning permission 16/00634/OUT for 39 Oregon Square Orpington,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR49,"Lubbock House, 1 Northolme Rise,  BR6 9RF",51.3701222,0.084992758,Link to the map associated with Full Planning Permission 16/04956/FULL1 for Lubbock House 1 Northolme Rise Orpington,0.137,Unknown Ownership,Permissioned,N/A,N/A,Link to Full Planning Permission 16/04956/FULL1 for Lubbock House 1 Northolme Rise Orpington,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR51,"Eden Parade, Eden Road,  BR3 4AU",51.39823943,-0.045328225,Link to the map for Eden Parade Eden Road Beckenham  associated with Full planning permission 17/01579/FULL1,0.051,Unknown Ownership,Permissioned,Full Planning Permission,2017-07-12,Link to Full planning application 17/01579/FULL1 for Eden Parade Eden Road Beckenham,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR52,"Jacanda Lodge, North Drive,
+BR3 3XQ",51.39841756,-0.017905538,Link to the map of  Jacanda Lodge North Drive Beckenham associated with Full Planning Permission 16/01330/FULL1,0.088,Unknown Ownership,Permissioned,Full Planning Permission,2016-10-10,Link to Full Planning Permission 16/01330/FULL1 for Jacanda Lodge North Drive Beckenham,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR53,"First Floor 155-159 High Street Orpington, BR6 0LN",51.37739114,0.100942556,Link to the  Map of 155 159 High Street Orpington associated with Full planning permission 15/01690/FULL3,0.1,Not owned by a public authority,Permissioned,Full Planning Permission,2015-09-03,Link to Planning Application 15/01690/FULL3 for First Floor 155-159 High Street Orpington,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR55,"First Floor, 50-52 The Walnuts,  BR6 0TW",51.37684101,0.100529389,Link to the map of 50-52 The Walnuts Orpington associated with Full planning permission 16/03878/FULL1,0.041,Unknown Ownership,Permissioned,Full Planning Permission,2017-05-12,Link to Full Planning Permission 16/03878/FULL1 for 50 - 52 The Walnuts Orpington,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR59,"2 Crampton Road,  SE20 7AT",51.41807873,-0.058907638,Link to the map of for 2 Crampton Road Penge associated with Full planning permission 16/00377/FULL1,0.073,Unknown Ownership,Permissioned,Full Planning Permission,2017-01-12,Link to Full Planning Permission 16/00377/FULL1 for 2 Crampton Road Penge,Yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR60,"44 Westmoreland Road
+Bromley
+BR2 0QS","51.397435,",0.012417,link to map of 44 Westmoreland Road Bromley associated with Full Planning permission 17/02524/FULL1,0.051,Unknown Ownership,Permissioned,Full,2017-08-17,link to full planning application 17/02524/FULL1 at 44 Westmoreland Road,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR61,"136 Main Road
+Biggin Hill 
+TN16 3BA",51.310677,0.035295,Link to the map of 136 Main Road Biggin Hill associated with the full planning permission 17/02291/FULL1,0.100,Unknown Ownership,Permissioned,Full,2017-09-05,Link to full planning application 17/02291/FULL1 at 136 Main Road Biggin Hill,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR62,"173-175 High Street 
+Orpington
+BR6 0LW",51.377043,0.100462,Link to the map of 173-175 High Street Orpington associated with full planning permission 17/02330/FULL1,0.014,Unknown Ownership,Permissioned,Full,2017-09-05,link to full planning application ref 17/02330/FULL1 at 173-175 High Street Orpington,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR63,"36 Great Elms Road 
+Bromley
+BR2 9NF",51.396089,0.028754,Link to the map of 36 Great Elms Road associated with full planning permission 17/01322/FULL1,0.038,Unknown Ownership,Permissioned,Full,2017-09-07,link to full planning application 17/03122/FULL1 at 36 Great Elms Road,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR64,"56a Foxgrove Road
+Beckenham
+BR3 5DB",51.411984,-0.011001,Link to the map of 56a Foxgrove Road associated with outline planning permission 17/00624/OUT,0.260,Unknown Ownership,Permissioned,Outline,2017-09-28,Link to outline planning application 17/00624/OUT at 56a Foxgrove Road,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR65,"Alan Hills Motors 
+Alma Place
+Anerley
+London",51.417353,-0.080479,"Link to the map of Alan Hills Motors, Alma Place, associated with full planning permission 17/02876/FULL1",0.170,Unknown Ownership,Permissioned,Full,2017-11-13,Link to full planning application 17/02876/FULL1 at Alma Place,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR66,"286-290 High Street 
+Orpington
+BR6 0LU",51.374971,0.098524,Link to the map of 286-290 High Street Orpington associated with full planning permission 17/04642/FULL1,0.100,Unknown Ownership,Permissioned,Full,2017-12-04,Link to full planning application 17/04642/FULL1 at 286-290 High Street Orpington,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR67,"Heatherwood, 
+33 Station Road
+Orpington",51.372091,0.09364,"Link to map of Heatherwood, 33 Station Road, Orpington associated with full planning permission 17/04378/FULL1",0.060,Unknown Ownership,Permissioned,Full,2018-01-04,"Link to full planning application 17/04378/FULL1 at Heatherwood, 33 Station Road",yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR68,"Warren Farm, 
+Berrys Green Road,
+Westerham",51.310981,0.061251,Link to the map of Warren Farm Berrys Green Road associated with full planning permission 17/01895/FULL1,0.740,Unknown Ownership,Permissioned,Full,2018-01-04,Link to full planning application 17/01895/FULL1 at Warren Farm,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR69,"115 High Street
+Beckenham
+BR3 1AG",51.406987,-0.027787,Link to the map of 115 High Street Beckenham associated with full planning permission 17/05068/FULL1,0.065,Unknown Ownership,Permissioned,Full,2018-01-12,Link to full planning application 17/05068/FULL1 at 115 High Street Beckenham,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR70,"19 Anerley Road
+Penge
+London
+SE19 2AS",51.417067,-0.07313,Link to the map of 19 Anerley Road associated with full planning permission 17/04076/FULL1,0.022,Unknown Ownership,Permissioned,Full,2018-01-30,Link to full planning application 17/04076/FULL1 at 19 Anerley Road,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR71,"112 Beckenham Road
+Beckenham
+BR3 4RH",51.40964,-0.042691,Link to the map of 112 Beckenham Road associated with full planning permission 17/05279/FULL1,0.030,Unknown Ownership,Permissioned,Full,2018-02-14,Link to full planning application 17/05279/FULL1 at 112 Beckenham Road,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR72,"Hollywood House
+1 Station Road
+Penge
+London",51.419417,-0.055548,"Link to the map of Hollywood House, 1 Station Road associated with full planning permission 17/05864/FULL1",0.023,Unknown Ownership,Permissioned,Full,2018-02-26,"Link to full planning application 17/05864/FULL1 at Hollywood House Station Road, Penge",yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR73,"16 St John's Road
+Penge
+London
+SE20 7ED",51.41813,-0.054176,"Link to the map of 16 St John's Road, Penge, associated with full planning permission 17/05514/FULL1",0.047,Unknown Ownership,Permissioned,Full,2018-03-16,Link to full planning application 17/05514/FULL at 16 St John's Road,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR74,"Land At Junction With South Eden Park Road And
+Bucknall Way
+Beckenham",51.397669,-0.018818,Link to the map of Land at Junction with South Eden Park Road and Bucknall Way associated with outline planning permission 17/00757/OUT,1.620,Unknown Ownership,Permissioned,Outline,2018-03-22,Link to outline planning application 17/00757/OUT at Land at Junction with South Eden Park Road and Bucknall Way,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR75,"Land At Junction With South Eden Park Road And
+Bucknall Way
+Beckenham",51.397669,-0.018818,https://searchapplications.bromley.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=O82VDCBTG4M00,1.620,Unknown ownership,Permissioned,outline,2018-03-22,Link to outline planning permission 16/02613/OUT for land at junction of South Eden Park Road and Bucknall Way,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR76,"100 High Street
+Orpington
+BR6 0JY",51.379493,0.102473,Link to the map of 100 High Street Orpington associated with full planning permission 18/01242/FULL1,0.060,Unknown Ownership,Permissioned,Full,2018-05-17,Link to full planning application 18/01242/FULL1 at 100 High Street Orpington,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR77,"8 Page Heath Lane
+Bickley
+Bromley
+BR1 2DS",51.400742,0.037514,Link to the map of 8 Page Heath Lane Bickley associated with full planning permission 18/01783/FULL1,0.044,Unknown Ownership,Permissioned,Full,2018-05-31,Link to full planning application 18/01783FULL1 at 8 Page Heath Lane,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR78,"255 Elmers End Road
+Beckenham
+BR3 4EJ",51.399923,-0.050729,Link to the map of 255 Elmers End Road associated with full planning permission 18/00717/FULL1,0.060,Unknown Ownership,Permissioned,Full,2018-06-04,Link to full planning application 18/00717/FULL1 at 255 Elmers End Road,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR79,"Barn Hawe 
+Church Hill
+Orpington
+BR6 0HE",51.378837,0.102788,Link to the map of Barne Hawe Church Hill Orpington associated with full planning permission 18/00967/FULL1,0.100,Unknown Ownership,Permissioned,Full,2018-06-15,"Link to full planning application 18/00967/FULL1 at Barne Hawe, Church Hill",yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR80,"46 Crystal Palace Park Road
+Sydenham
+London
+SE26 6UG",51.422365,-0.062197,Link to the map of 46 Crystal Palace Park Road associated with full planning permission 18/01228/FULL1,0.068,Unknown Ownership,Permissioned,Full,2018-06-18,https://searchapplications.bromley.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=P5N4TFBT0RD00,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR81,"156 - 158 Main Road
+Biggin Hill
+TN16 3BA",51.309954,0.036271,Link to the map of 156-158 Main Road Biggin Hill associated with full planning permission 18/01234/FULL1,0.080,Unknown Ownership,Permissioned,Full,2018-07-05,Link to full planning application 18/01234/FULL1 at 156-158 Main Road Biggin Hill,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR82,"Maybrey Business Park
+Worsley Bridge Road
+London
+SE26 5AZ",51.423602,-0.031674,Link to the map of Maybrey Business Park associated with full planning permission 16/05987/FULL1,0.600,Unknown Ownership,Permissioned,Full,2018-07-16,Link to full planning application 16/05897/FULL1 at Maybrey Business Park,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR83,"15 Bromley Common
+Bromley
+BR2 9LS",51.395044,0.027099,Link to the map of 15 Bromley Common associated with full planning permission 18/01946/FULL1,0.059,Unknown Ownership,Permissioned,Full,2018-07-20,Link to full planning application 18/01946/FULL1 at 15 Bromley Common,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR84,"129 High Street
+Penge
+London
+SE20 7DS",51.415151,-0.052497,Link to the map of 129 High Street Penge associated with full planning permission 18/02481/FULL1,0.018,Unknown Ownership,Permissioned,Full,2018-07-25,Link to full planning application 18/02481/FULL1 at 129 High Street Penge,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR85,"County House
+241 Beckenham Road
+Beckenham
+BR3 4FD",51.40947,-0.044742,"Link to the map of County House, 241 Beckenham Rad associated with full planning permission 18/01890/FULL1",0.218,Unknown Ownership,Permissioned,Full,2018-08-09,"Link to full planning application 18/01890/FULL1 at County House, 241 Beckenham Road",yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR86,"67 Bromley Road
+Beckenham
+BR3 5PA",51.406957,-0.010564,Link to the map of 67 Bromley Road Beckenham associated with full planning permission 18/02102/FULL1,0.133,Unknown Ownership,Permissioned,Full,2018-08-10,Link to full planning application 18/02012/FULL1 at 67 Bromley Road,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR87,"Land Adjacent To Bromley College
+London Road
+Bromley",51.408852,0.011889,"Link to the map of land adjacent to Bromley College, London Road, associated with full planning permission 17/05084/FULL1",0.300,Unknown Ownership,Permissioned,Full,2018-09-25,Link to full planning application 17/05084/FULL1 at Land adjacent to Bromley College,yes,,,,,,N/A,
+http://opendatacommunities.org/id/london-borough-council/bromley,London Borough of Bromley,BLR88,"Tahoma Lodge 
+70 Lubbock Road
+Chislehurst
+BR7 5JX",51.408983,0.05874,"Link to the map of Tahmoa Lodge, 70 Lubbock Road associated with full planning permission 18/02745/FULL1",0.180,Unknown Ownership,Permissioned,Full,2018-10-11,"Link to full planning application 18/02745/FULL1 at Tahoma Lodge, 70 Lubbock Road",yes,,,,,,N/A,
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,

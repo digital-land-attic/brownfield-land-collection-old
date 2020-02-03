@@ -1,24 +1,24 @@
-entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:HPL,BR1 - Blakelock Road,54.675333,-1.231234,0.6,10.0,15.0,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR2 - Brenda Road East,54.657138,-1.206668,4.72,100.0,140.0,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR3 - Britmag Central,54.705631,-1.203922,3.6,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR4 - Britmag North,54.710979,-1.220611,21.0,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR5 - Britmag South,54.704251,-1.200364,1.2,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR6 - Carr & Hopps,54.689592,-1.220912,2.2,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR7 - Close Farm Cottage,54.653795,-1.336851,3.01,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR8 - Former Brierton Road Site,54.666862,-1.238945,1.39,100.0,110.0,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,"BR9 - Former Fairground Site, Seaton Carew",54.657036,-1.184535,0.49,15.0,30.0,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR10 - Former King Oswy Public House,54.710806,-1.234304,0.25,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR11 - Former Mas Agraa Palace,54.684843,-1.205011,0.45,6.0,9.0,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR12 - Garden Centre & Amenity Block,54.668348,-1.221009,0.47,8.0,12.0,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR13 - Hartlepool Hospital,54.703112,-1.225712,3.38,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR14 - Inspirations Coffee House,54.668282,-1.221940,0.41,6.0,10.0,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR16 - Marina Slake Terrace_Blocks 28 32 31,54.689349,-1.198842,0.4,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR17 - North Farm,54.685143,-1.292614,0.73,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR18 - Oxford Road,54.674970,-1.216602,0.74,15.0,25.0,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR19 - Raby Gardens Phase 2,54.695907,-1.221862,1.36,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR20 - Seaton Coach Park,54.656502,-1.183972,1.25,30.0,50.0,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR21 - South of Maritime Avenue,54.682807,-1.200181,5.11,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR22 - Surtees Street,54.684818,-1.203972,0.6,15.0,20.0,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR23 - The Woodcutter Pub,54.672092,-1.230365,0.29,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
-,local-authority-eng:HPL,BR24 - Trincomalee Wharf,54.689188,-1.204414,0.64,20.0,50.0,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,local-authority-eng:HPL,BR1 - Blakelock Road,,54.675333,-1.231234,0.6,10,15,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR2 - Brenda Road East,,54.657138,-1.206668,4.72,100,140,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR3 - Britmag Central,,54.705631,-1.203922,3.6,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR4 - Britmag North,,54.710979,-1.220611,21,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR5 - Britmag South,,54.704251,-1.200364,1.2,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR6 - Carr & Hopps,,54.689592,-1.220912,2.2,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR7 - Close Farm Cottage,,54.653795,-1.336851,3.01,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR8 - Former Brierton Road Site,,54.666862,-1.238945,1.39,100,110,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,"BR9 - Former Fairground Site, Seaton Carew",,54.657036,-1.184535,0.49,15,30,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR10 - Former King Oswy Public House,,54.710806,-1.234304,0.25,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR11 - Former Mas Agraa Palace,,54.684843,-1.205011,0.45,6,9,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR12 - Garden Centre & Amenity Block,,54.668348,-1.221009,0.47,8,12,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR13 - Hartlepool Hospital,,54.703112,-1.225712,3.38,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR14 - Inspirations Coffee House,,54.668282,-1.22194,0.41,6,10,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR16 - Marina Slake Terrace_Blocks 28 32 31,,54.689349,-1.198842,0.4,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR17 - North Farm,,54.685143,-1.292614,0.73,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR18 - Oxford Road,,54.67497,-1.216602,0.74,15,25,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR19 - Raby Gardens Phase 2,,54.695907,-1.221862,1.36,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR20 - Seaton Coach Park,,54.656502,-1.183972,1.25,30,50,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR21 - South of Maritime Avenue,,54.682807,-1.200181,5.11,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR22 - Surtees Street,,54.684818,-1.203972,0.6,15,20,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR23 - The Woodcutter Pub,,54.672092,-1.230365,0.29,,,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436
+,local-authority-eng:HPL,BR24 - Trincomalee Wharf,,54.689188,-1.204414,0.64,20,50,2017-12-17,,e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436

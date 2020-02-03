@@ -1,48 +1,48 @@
-entry-date,organisation,site,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-22,local-authority-eng:HAT,15/01603/FUL,51.278094,-0.961103,0.55,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,16/03378/FUL,51.277317,-0.960690,0.6,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,16/00883/PRIOR 17/02465/FUL,51.287490,-0.917354,1.69,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2017-12-22,local-authority-eng:HAT,13/00720/MAJOR,51.287490,-0.917354,0.98,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2017-12-22,local-authority-eng:HAT,13/01215/MAJOR,51.307383,-0.899212,0.25,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2017-12-22,local-authority-eng:HAT,15/01083/FUL,51.246721,-0.878382,0.3,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2017-12-22,local-authority-eng:HAT,15/00276/REM,51.282800,-0.840724,0.09,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2017-12-22,local-authority-eng:HAT,15/01540/FUL,51.298456,-0.831667,0.48,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2017-12-22,local-authority-eng:HAT,16/01441/FUL,51.298164,-0.825850,0.61,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2017-12-22,local-authority-eng:HAT,16/01445/PRIOR,51.298164,-0.825850,0.61,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2017-12-22,local-authority-eng:HAT,16/03072/PRIOR,51.331569,-0.777384,0.16,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2017-12-22,local-authority-eng:HAT,17/00530/FUL,51.331569,-0.777384,0.16,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2017-12-22,local-authority-eng:HAT,17/01111/FUL,51.283276,-0.962391,0.18,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2017-12-22,local-authority-eng:HAT,15/00230/FUL,51.277732,-0.845712,0.05,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,15/02977/FUL,51.224315,-0.846304,2.15,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2017-12-22,local-authority-eng:HAT,14/02454/PNDW,51.281214,-0.843116,0.08,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,17/00244/PRIOR,51.252444,-0.849139,0.45,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2017-12-22,local-authority-eng:HAT,17/02762/FUL,51.279394,-0.840953,0.05,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,17/02008/PRIOR 17/02010/PRIOR 17/02011/PRIOR,51.283660,-0.837735,0.1,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,17/01977/FUL 18/00649/PRIOR,51.296227,-0.830002,0.32,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,17/01978/FUL 18/00650/PRIOR,51.296919,-0.830013,0.43,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,17/02118/PRIOR,51.298611,-0.824663,0.29,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,17/00525/PRIOR 17/02652/PRIOR,51.278869,-0.959207,0.15,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,18/00624/PRIOR,51.278517,-0.949967,2.15,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,17/00771/FUL,51.305951,-0.793070,12,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,17/02644/PRIOR,51.281300,-0.962607,0.19,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,18/00931/PRIOR,51.283452,-0.838514,0.59,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,17/00219/PRIOR,51.279398,-0.955023,1.11,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,17/02484/PRIOR,51.279128,-0.846838,0.49,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,16/02784/PRIOR,51.282533,-0.841032,0.11,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,16/02083/PRIOR,51.298686,-0.831302,0.5,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,16/01267/PRIOR 16/03332/FUL,51.297814,-0.830492,0.77,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,16/01704/PRIOR,51.341889,-0.820929,0.11,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,17/01912/FUL,51.283158,-0.962250,0.09,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,17/01793/FUL,51.291831,-0.920967,0.37,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,17/00471/OUT,51.283946,-0.807055,56,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,17/02501/FUL,51.237508,-0.833672,0.26,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,17/02492/FUL,51.294571,-0.829103,0.25,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+entry-date,organisation,site,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2017-12-22,local-authority-eng:HAT,15/01603/FUL,https://publicaccess.hart.gov.uk/online-applications/,51.278094,-0.961103,0.55,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,16/03378/FUL,https://publicaccess.hart.gov.uk/online-applications/,51.277317,-0.96069,0.6,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,16/00883/PRIOR 17/02465/FUL,https://publicaccess.hart.gov.uk/online-applications/,51.28749,-0.917354,1.69,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2017-12-22,local-authority-eng:HAT,13/00720/MAJOR,https://publicaccess.hart.gov.uk/online-applications/,51.28749,-0.917354,0.98,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2017-12-22,local-authority-eng:HAT,13/01215/MAJOR,https://publicaccess.hart.gov.uk/online-applications/,51.307383,-0.899212,0.25,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2017-12-22,local-authority-eng:HAT,15/01083/FUL,https://publicaccess.hart.gov.uk/online-applications/,51.246721,-0.878382,0.3,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2017-12-22,local-authority-eng:HAT,15/00276/REM,https://publicaccess.hart.gov.uk/online-applications/,51.2828,-0.840724,0.09,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2017-12-22,local-authority-eng:HAT,15/01540/FUL,https://publicaccess.hart.gov.uk/online-applications/,51.298456,-0.831667,0.48,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2017-12-22,local-authority-eng:HAT,16/01441/FUL,https://publicaccess.hart.gov.uk/online-applications/,51.298164,-0.82585,0.61,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2017-12-22,local-authority-eng:HAT,16/01445/PRIOR,https://publicaccess.hart.gov.uk/online-applications/,51.298164,-0.82585,0.61,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2017-12-22,local-authority-eng:HAT,16/03072/PRIOR,https://publicaccess.hart.gov.uk/online-applications/,51.331569,-0.777384,0.16,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2017-12-22,local-authority-eng:HAT,17/00530/FUL,https://publicaccess.hart.gov.uk/online-applications/,51.331569,-0.777384,0.16,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2017-12-22,local-authority-eng:HAT,17/01111/FUL,https://publicaccess.hart.gov.uk/online-applications/,51.283276,-0.962391,0.18,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2017-12-22,local-authority-eng:HAT,15/00230/FUL,https://publicaccess.hart.gov.uk/online-applications/,51.277732,-0.845712,0.05,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,15/02977/FUL,https://publicaccess.hart.gov.uk/online-applications/,51.224315,-0.846304,2.15,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2017-12-22,local-authority-eng:HAT,14/02454/PNDW,https://publicaccess.hart.gov.uk/online-applications/,51.281214,-0.843116,0.08,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,17/00244/PRIOR,https://publicaccess.hart.gov.uk/online-applications/,51.252444,-0.849139,0.45,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2017-12-22,local-authority-eng:HAT,17/02762/FUL,https://publicaccess.hart.gov.uk/online-applications/,51.279394,-0.840953,0.05,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,17/02008/PRIOR 17/02010/PRIOR 17/02011/PRIOR,https://publicaccess.hart.gov.uk/online-applications/,51.28366,-0.837735,0.1,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,17/01977/FUL 18/00649/PRIOR,https://publicaccess.hart.gov.uk/online-applications/,51.296227,-0.830002,0.32,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,17/01978/FUL 18/00650/PRIOR,https://publicaccess.hart.gov.uk/online-applications/,51.296919,-0.830013,0.43,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,17/02118/PRIOR,https://publicaccess.hart.gov.uk/online-applications/,51.298611,-0.824663,0.29,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,17/00525/PRIOR 17/02652/PRIOR,https://publicaccess.hart.gov.uk/online-applications/,51.278869,-0.959207,0.15,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,18/00624/PRIOR,https://publicaccess.hart.gov.uk/online-applications/,51.278517,-0.949967,2.15,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,17/00771/FUL,https://publicaccess.hart.gov.uk/online-applications/,51.305951,-0.79307,12,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,17/02644/PRIOR,https://publicaccess.hart.gov.uk/online-applications/,51.2813,-0.962607,0.19,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,18/00931/PRIOR,https://publicaccess.hart.gov.uk/online-applications/,51.283452,-0.838514,0.59,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,17/00219/PRIOR,https://publicaccess.hart.gov.uk/online-applications/,51.279398,-0.955023,1.11,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,17/02484/PRIOR,https://publicaccess.hart.gov.uk/online-applications/,51.279128,-0.846838,0.49,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,16/02784/PRIOR,https://publicaccess.hart.gov.uk/online-applications/,51.282533,-0.841032,0.11,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,16/02083/PRIOR,https://publicaccess.hart.gov.uk/online-applications/,51.298686,-0.831302,0.5,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,16/01267/PRIOR 16/03332/FUL,https://publicaccess.hart.gov.uk/online-applications/,51.297814,-0.830492,0.77,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,16/01704/PRIOR,https://publicaccess.hart.gov.uk/online-applications/,51.341889,-0.820929,0.11,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,17/01912/FUL,https://publicaccess.hart.gov.uk/online-applications/,51.283158,-0.96225,0.09,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,17/01793/FUL,https://publicaccess.hart.gov.uk/online-applications/,51.291831,-0.920967,0.37,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,17/00471/OUT,https://publicaccess.hart.gov.uk/online-applications/,51.283946,-0.807055,56,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,17/02501/FUL,https://publicaccess.hart.gov.uk/online-applications/,51.237508,-0.833672,0.26,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,17/02492/FUL,https://publicaccess.hart.gov.uk/online-applications/,51.294571,-0.829103,0.25,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
 2018-12-20,local-authority-eng:HAT,"SHL038 
-18/00110/FUL",51.278768,-0.961059,1.13,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,SHL041 18/02285/FUL,51.279561,-0.841537,0.05,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,SHL192 18/02321/FUL,51.282178,-0.842446,0.21,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2017-12-22,local-authority-eng:HAT,SHL104,51.289409,-0.872939,0.84,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2017-12-22,local-authority-eng:HAT,SHL195,51.284035,-0.845655,0.98,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2017-12-22,local-authority-eng:HAT,SHL208,51.279683,-0.847441,0.46,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,SHL047,51.284890,-0.954733,1.87,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
-2018-12-20,local-authority-eng:HAT,14/02101/MAJOR,51.285213,-0.836563,0.17,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+18/00110/FUL",https://publicaccess.hart.gov.uk/online-applications/,51.278768,-0.961059,1.13,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,SHL041 18/02285/FUL,https://www.hart.gov.uk/Evidence-base#SHLAADocs,51.279561,-0.841537,0.05,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,SHL192 18/02321/FUL,https://www.hart.gov.uk/Evidence-base#SHLAADocs,51.282178,-0.842446,0.21,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2017-12-22,local-authority-eng:HAT,SHL104,https://www.hart.gov.uk/Evidence-base#SHLAADocs,51.289409,-0.872939,0.84,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2017-12-22,local-authority-eng:HAT,SHL195,https://www.hart.gov.uk/Evidence-base#SHLAADocs,51.284035,-0.845655,0.98,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2017-12-22,local-authority-eng:HAT,SHL208,https://www.hart.gov.uk/Evidence-base#SHLAADocs,51.279683,-0.847441,0.46,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,SHL047,,51.28489,-0.954733,1.87,,,2018-12-20,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
+2018-12-20,local-authority-eng:HAT,14/02101/MAJOR,https://publicaccess.hart.gov.uk/online-applications/,51.285213,-0.836563,0.17,,,2017-12-22,,3dcd17e2bf20e2b4c4fd6d46b0b8bec12dbd0ebe011a9ed4d5987ba217888d2d
