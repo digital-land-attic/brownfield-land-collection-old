@@ -100,7 +100,11 @@
             },
             "digital-land": {
                 "field": "longitude",
-                "precision": 6
+                "precision": 6,
+                "typos": [
+                  "GeoX (Longitude or east grid)",
+                  "GeoX [East]"
+                ]
             }
         },
         {
@@ -113,7 +117,11 @@
             },
             "digital-land": {
                 "field": "latitude",
-                "precision": 6
+                "precision": 6,
+                "typos": [
+                  "GeoY (Latitude or north grid)",
+                  "GeoY [North]"
+                ]
             }
         },
         {
@@ -175,6 +183,25 @@
                   "mixed ownership",
                   ""
                 ]
+            },
+            "digital-land": {
+                "field": "ownership-status",
+                "typos": [
+                    "OwenrshipStatus"
+                ]
+            }
+        },
+        {
+            "name": "HazardousSubstances",
+            "title": "Hazardous substances",
+            "description": "This indicates if the local authority is required by regulation 26(3) of the Planning (Hazardous Substances) Regulations 2015 (https://www.legislation.gov.uk/uksi/2015/627/regulation/26/made) to conduct an environmental impact assessment on the proposed development",
+            "type": "string",
+            "constraints": {
+                "required": false,
+                "pattern": "(?i)(y|yes)"
+            },
+            "digital-land": {
+                "field": "hazardous-substances"
             }
         },
         {
@@ -185,6 +212,9 @@
             "constraints": {
                 "required": true,
                 "pattern": "(?i)(permissioned|not permissioned|pending decision)"
+            },
+            "digital-land": {
+                "field": "planning-permission-status"
             }
         },
         {
@@ -195,6 +225,9 @@
             "constraints": {
                 "required": false,
                 "pattern": "(?i)(full planning permission|outline planning permission|reserved matters approval|permission in principle|technical details consent|planning permission granted under an order|other)"
+            },
+            "digital-land": {
+                "field": "planning-permission-type"
             }
         },
         {
@@ -204,6 +237,9 @@
             "type": "date",
             "constraints": {
                 "required": false
+            },
+            "digital-land": {
+                "field": "planning-permission-date"
             }
         },
         {
@@ -213,16 +249,9 @@
             "type": "string",
             "constraints": {
                 "required": false
-            }
-        },
-        {
-            "name": "Deliverable",
-            "title": "Deliverable",
-            "description": "This indicates if there is a reasonable prospect that residential development will take place on the land within 5 years of the date you enter this site inthe register",
-            "type": "string",
-            "constraints": {
-                "required": false,
-                "pattern": "(?i)(y|yes)"
+            },
+            "digital-land": {
+                "field": "planning-permission-history"
             }
         },
         {
@@ -250,13 +279,16 @@
             }
         },
         {
-            "name": "HazardousSubstances",
-            "title": "Hazardous substances",
-            "description": "This indicates if the local authority is required by regulation 26(3) of the Planning (Hazardous Substances) Regulations 2015 (https://www.legislation.gov.uk/uksi/2015/627/regulation/26/made) to conduct an environmental impact assessment on the proposed development",
+            "name": "Deliverable",
+            "title": "Deliverable",
+            "description": "This indicates if there is a reasonable prospect that residential development will take place on the land within 5 years of the date you enter this site in the register",
             "type": "string",
             "constraints": {
                 "required": false,
                 "pattern": "(?i)(y|yes)"
+            },
+            "digital-land": {
+                "field": "deliverable"
             }
         },
         {
@@ -266,6 +298,9 @@
             "type": "string",
             "constraints": {
                 "required": false
+            },
+            "digital-land": {
+                "field": "notes"
             }
         },
         {
@@ -277,10 +312,10 @@
                 "required": true
             },
             "digital-land": {
+                "field": "start-date",
                 "typos": [
                     "FirstAdded"
-                ],
-                "field": "start-date"
+                ]
             }
         },
         {
