@@ -222,7 +222,7 @@ if __name__ == "__main__":
 
     # save as single JSON file
     save_json(
-        "collection/index.json",
+        "index/index.json",
         canonicaljson.encode_canonical_json({"key": idx, "resource": resources,}),
     )
 

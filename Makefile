@@ -53,7 +53,7 @@ HARMONISE_DATA:=\
 
 # indexes
 COLLECTION_INDEXES=\
-	collection/index.json\
+	index/index.json\
 	index/link.csv\
 	index/log.csv\
 	index/resource.csv\

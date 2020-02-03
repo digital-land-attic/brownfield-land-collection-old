@@ -53,7 +53,7 @@ A number of index files are generated for the collection:
 * [index/resource.csv](index/resource.csv) -- resource (hash), media-type, suffix, row-count, error-count
 * [index/issue.csv](index/issue.csv) -- resource, row-number, field and value which can't be processed
 * [index/column.csv](index/column.csv) -- count of the column names found in normalised files
-* [collection/index.json](collection/index.json) -- the entire index in a single JSON file
+* [index/index.json](collection/index.json) -- an index of the collection in a single JSON file
 
 These indexes are used by the [dataset](https://github.com/digital-land/brownfield-land/) and other code to build the [dataset](https://digital-land.github.io/dataset/brownfield-land/), [resource](https://digital-land.github.io/resource/), and other pages.
 
