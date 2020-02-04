@@ -1,4 +1,4 @@
-.PHONY: init collection collect second-pass normalise validate harmonise transform index clear-cache clobber clobber-today black clean prune
+.PHONY: init collection collect second-pass normalise validate harmonise transform index dataset clear-cache clobber clobber-today black clean prune
 .SECONDARY:
 .DELETE_ON_ERROR:
 .SUFFIXES: .json
@@ -82,7 +82,7 @@ collect:	$(DATASET_FILES)
 
 # restart the make process to pick-up collected files
 second-pass:
-	@make --no-print-directory validate harmonise index dataset
+	@make --no-print-directory validate harmonise dataset index
 
 
 validate: $(VALIDATION_FILES)
@@ -100,10 +100,10 @@ map: $(MAPPED_FILES)
 harmonise: $(HARMONISED_FILES)
 	@:
 
-index: $(INDEXES)
+dataset: $(NATIONAL_DATASET) $(TRANSFORMED_FILES)
 	@:
 
-dataset: $(NATIONAL_DATASET)
+index: $(INDEXES)
 	@:
 
 #
@@ -112,7 +112,8 @@ dataset: $(NATIONAL_DATASET)
 $(NATIONAL_DATASET): bin/dataset.py $(TRANSFORMED_FILES) $(SCHEMA)
 	python3 bin/dataset.py $(TRANSFORMED_DIR) $@
 
-$(COLLECTION_INDEXES): bin/index.py $(DATASET_FILES) $(LOG_FILES) $(VALIDATION_FILES)
+# having multiple targets can trigger this multiple times ..
+$(COLLECTION_INDEXES): bin/index.py $(NATIONAL_DATASET) $(DATASET_FILES) $(LOG_FILES) $(VALIDATION_FILES)
 	python3 bin/index.py $(DATASET_NAME)
 
 index/column.csv: bin/columns.py $(NORMALISED_FILES)
