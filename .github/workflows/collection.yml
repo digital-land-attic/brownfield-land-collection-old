@@ -48,5 +48,5 @@ jobs:
       run: make index dataset
     - name: Commit dataset and indexes
       run: |
-        git add var index collection/index.json
+        git add var index
         git diff --quiet && git diff --staged --quiet || (git commit -m "Commit new dataset and indexes for $(date +%F)"; git push origin master)
