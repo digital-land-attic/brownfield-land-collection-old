@@ -12,8 +12,8 @@ for path in glob.glob("var/normalised/*.csv"):
         column[field] = column.get(field, 0) + 1
 
     writer = csv.DictWriter(
-        open(sys.argv[1], "w", newline=""), fieldnames=["count", "name"]
+        open(sys.argv[1], "w", newline=""), fieldnames=["column", "count"]
     )
     writer.writeheader()
     for name in sorted(column):
-        writer.writerow({"name": name, "count": column[name]})
+        writer.writerow({"column": name, "count": column[name]})
