@@ -5,14 +5,12 @@
 
 DATASET_NAME=brownfield-land
 
-# generated dataset
-NATIONAL_DATASET=index/dataset.csv
-
 RESOURCE_DIR=collection/resource/
 VALIDATION_DIR=validation/
 FIXED_DIR=fixed/
 PATCH_DIR=patch/
 CACHE_DIR=var/cache
+INDEX_DIR=index/
 CONVERTED_DIR=var/converted/
 NORMALISED_DIR=var/normalised/
 MAPPED_DIR=var/mapped/
@@ -20,9 +18,13 @@ HARMONISED_DIR=var/harmonised/
 ISSUE_DIR=var/issue/
 TRANSFORMED_DIR=var/transformed/
 
-SCHEMA=schema/$(DATASET_NAME).json
+# data sources
 DATASET_FILES=dataset/$(DATASET_NAME).csv
 
+# schema for collected files, and transformation pipeline
+SCHEMA=schema/$(DATASET_NAME).json
+
+# collection log
 LOG_FILES:=$(wildcard collection/log/*/*.json)
 LOG_FILES_TODAY:=collection/log/$(shell date +%Y-%m-%d)/
 
@@ -51,31 +53,33 @@ HARMONISE_DATA:=\
 	$(CACHE_DIR)/organisation.csv\
 	$(PATCH_DIR)/organisation.csv
 
-# indexes
+# generated indexes
 COLLECTION_INDEXES=\
-	index/index.json\
-	index/link.csv\
-	index/log.csv\
-	index/resource.csv\
+	$(INDEX_DIR)index.json\
+	$(INDEX_DIR)link.csv\
+	$(INDEX_DIR)log.csv\
+	$(INDEX_DIR)resource.csv\
 
 INDEXES=\
 	$(COLLECTION_INDEXES)\
-	index/fixed.csv\
-	index/issue.csv\
-	index/column.csv
+	$(INDEX_DIR)fixed.csv\
+	$(INDEX_DIR)issue.csv\
+	$(INDEX_DIR)column.csv
 
 TBD_COLLECTION_INDEXES=\
-	index/organisation-documentation.csv\
-	index/organisation-link.csv\
-	index/organisation-resource.csv\
+	$(INDEX_DIR)organisation-documentation.csv\
+	$(INDEX_DIR)organisation-link.csv\
+	$(INDEX_DIR)organisation-resource.csv\
 
 BROKEN_VALIDATIONS=\
 	validation/7ba205f5d2619398a931669c1e6d4c8850f6fbefe2d6838a3ebbbe5f9200b702.json\
 	validation/9155144a6fefb61252f68c817b8e2050c14e10072260cd985f53cb74c09a4650.json
 
+# generated national dataset
+NATIONAL_DATASET=$(INDEX_DIR)dataset.csv
+
 
 all: collect second-pass
-
 
 collect:	$(DATASET_FILES)
 	python3 bin/collector.py $(DATASET_NAME)
@@ -83,7 +87,6 @@ collect:	$(DATASET_FILES)
 # restart the make process to pick-up collected files
 second-pass:
 	@make --no-print-directory validate harmonise dataset index
-
 
 validate: $(VALIDATION_FILES)
 	@:
@@ -116,22 +119,21 @@ $(NATIONAL_DATASET): bin/dataset.py $(TRANSFORMED_FILES) $(SCHEMA)
 $(COLLECTION_INDEXES): bin/index.py $(NATIONAL_DATASET) $(DATASET_FILES) $(LOG_FILES) $(VALIDATION_FILES)
 	python3 bin/index.py $(DATASET_NAME)
 
-index/column.csv: bin/columns.py $(NORMALISED_FILES)
+$(INDEX_DIR)column.csv: bin/columns.py $(NORMALISED_FILES)
 	python3 bin/columns.py $@
 
-index/fixed.csv: bin/fixed.py $(FIXED_FILES)
+$(INDEX_DIR)fixed.csv: bin/fixed.py $(FIXED_FILES)
 	python3 bin/fixed.py $@
 
-index/issue.csv: bin/issue.py $(ISSUE_FILES)
+$(INDEX_DIR)issue.csv: bin/issue.py $(ISSUE_FILES)
 	python3 bin/issue.py $(ISSUE_DIR) $@
 
 
 #
 #  validation
-#  -- depends on schema
-#  -- but this is expensive to rebuild during development
 #
-#$(VALIDATION_DIR)%.json: $(RESOURCE_DIR)% $(SCHEMA)
+#  -- depends on the schema, but this is expensive to rebuild during development
+#
 $(VALIDATION_DIR)%.json: $(RESOURCE_DIR)%
 	@mkdir -p $(VALIDATION_DIR)
 	validate --exclude-input --exclude-rows --file $< --output $@
