@@ -45,7 +45,7 @@ jobs:
         git add validation
         git diff --quiet && git diff --staged --quiet || (git commit -m "Commit files validated on $(date +%F)"; git push origin master)
     - name: Create dataset and indexes
-      run: make index dataset
+      run: make harmonise dataset index
     - name: Commit dataset and indexes
       run: |
         git add var index
