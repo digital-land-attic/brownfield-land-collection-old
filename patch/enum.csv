@@ -17,6 +17,7 @@ HazardousSubstances,yes,potentially subject to broken glass
 HazardousSubstances,yes,y
 OwnershipStatus,not owned by a public authority,in public ownership
 OwnershipStatus,not owned by a public authority,local authority
+OwnershipStatus,mixed ownership,local authority unknown
 OwnershipStatus,mixed ownership,mixed
 OwnershipStatus,mixed ownership,mixed owner
 OwnershipStatus,,multiple ownership
@@ -33,7 +34,6 @@ OwnershipStatus,owned by a public authority,owmed by a public authority
 OwnershipStatus,owned by a public authority,owned by a public authori
 OwnershipStatus,owned by a public authority,owned by a public authority
 OwnershipStatus,owned by a public authority,owned by a public authority - hbc
-OwnershipStatus,mixed ownership,"local authority, unknown"
 OwnershipStatus,mixed ownership,owned by a public authority part
 OwnershipStatus,owned by a public authority,owned by a public authorty
 OwnershipStatus,owned by a public authority,owned by public authority
@@ -129,3 +129,36 @@ PermissionType,other,technical details co
 PermissionType,other,under construction
 PermissionType,full planning permission,with full permission
 PermissionType,outline planning permission,with outline permission
+PlanningStatus,permissioned,approved
+PlanningStatus,pending decision,decision pending
+PlanningStatus,not permissioned,expired permission
+PlanningStatus,permissioned,full consent
+PlanningStatus,permissioned,full planning permission
+PlanningStatus,not permissioned,lp site not permissioned
+PlanningStatus,not permissioned,no permissioned
+PlanningStatus,not permissioned,not consented
+PlanningStatus,not permissioned,not in planning system
+PlanningStatus,not permissioned,not permisioned
+PlanningStatus,not permissioned,not permissed
+PlanningStatus,not permissioned,not permissionsed
+PlanningStatus,not permissioned,not permissoned
+PlanningStatus,pending decision,outline consent
+PlanningStatus,pending decision,outline permission
+PlanningStatus,pending decision,outline planning permission
+PlanningStatus,pending decision,part permissioned
+PlanningStatus,pending decision,pending
+PlanningStatus,pending decision,pending decision appeal lodged
+PlanningStatus,pending decision,pending descision
+PlanningStatus,pending decision,pending permission
+PlanningStatus,pending decision,pendingdecision
+PlanningStatus,permissioned,permisioned
+PlanningStatus,permissioned,permission
+PlanningStatus,permissioned,permission granted
+PlanningStatus,permissioned,permissiond
+PlanningStatus,permissioned,permissioned part
+PlanningStatus,permissioned,permissoned
+PlanningStatus,permissioned,planningstatus
+PlanningStatus,pending decision,prior notification
+PlanningStatus,pending decision,reserve mattes permi
+PlanningStatus,permissioned,under construction
+PlanningStatus,permissioned,yes
