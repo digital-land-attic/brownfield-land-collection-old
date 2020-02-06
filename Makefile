@@ -195,7 +195,7 @@ $(MAPPED_DIR)%.csv: $(NORMALISED_DIR)%.csv bin/map.py $(SCHEMA)
 	@mkdir -p $(MAPPED_DIR)
 	python3 bin/map.py $< $@ $(SCHEMA)
 
-$(HARMONISED_DIR)%.csv: $(MAPPED_DIR)%.csv bin/harmonise.py $(SCHEMA) $(HARMONISE_DATA)
+$(HARMONISED_DIR)%.csv $(ISSUE_DIR)%.csv: $(MAPPED_DIR)%.csv bin/harmonise.py $(SCHEMA) $(HARMONISE_DATA)
 	@mkdir -p $(HARMONISED_DIR) $(ISSUE_DIR)
 	python3 bin/harmonise.py $< $@ $(SCHEMA) $(subst $(HARMONISED_DIR),$(ISSUE_DIR),$@)
 
