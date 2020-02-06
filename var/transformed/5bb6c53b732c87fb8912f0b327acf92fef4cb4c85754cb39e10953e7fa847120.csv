@@ -1,32 +1,32 @@
-entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-11-03,local-authority-eng:STV,714,Archer Road NC,,51.909622,-0.183968,0.5,24,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,721,Bedwell Crescent Neighbourhood Centre,,51.902226,-0.188961,1.62,45,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-,,,,,,,,,,,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,707,Burwell Road Neighbourhood Centre,,51.897355,-0.170509,0.66,20,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,,"DuPont (UK) Ltd, Wedgwood Way, SG1 4QN",,51.922939,-0.170618,2.22,200,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,BFR3,Former Lonsdale School,,51.911615,-0.187304,3.8,67,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,213,"Former Redemption Academy, Eliot Road",,51.909008,-0.165296,0.28,16,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,214,"Fry Road day nursery, Fry Road",,51.902424,-0.170376,0.29,6,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,107,"Ken Brown car showroom, Shephall Way",,51.898556,-0.174298,0.29,36,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,701,Kenilworth Close Neighbourhood Centre,,51.874824,-0.166644,0.63,65,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,217,Longfield Fire and Rescue,,51.918375,-0.214195,2.67,95,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,710,Marymead Neighbourhood Centre,,51.881836,-0.178709,0.54,60,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-,,,,,,,,,,,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,141,Matalan,,51.900458,-0.203844,1.38,526,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,126,Park Place,,51.902741,-0.20025,0.5,202,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-,,,,,,,,,,,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,BFR5,"Pond Close, 11 Walkern Road",,51.913587,-0.207421,0.78,12,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,611,"Rugby Club, North Road",,51.926547,-0.214089,2.55,149,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-,,,,,,,,,,,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-,,,,,,,,,,,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,212,"Scout Hut, Drakes Drive",,51.912081,-0.1709,0.28,18,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,,Symonds Green NC,,51.913071,-0.221995,0.93,22,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,709,The Glebe Neighbourhood Centre,,51.909262,-0.170025,1.39,35,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,703,The Hyde Neighbourhood Centre,,51.892366,-0.169477,1.23,50,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,704,The Oval Neighbourhood Centre,,51.919182,-0.179423,1.81,275,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,201,"The Shephall Centre, Shephall Green",,51.890881,-0.179245,0.7,34,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-,,,,,,,,,,,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-,,,,,,,,,,,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
-2017-11-03,local-authority-eng:STV,BFR7,Town Centre,,,,51.69,2000,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2017-11-03,local-authority-eng:STV,714,Archer Road NC,,yes,,51.909622,-0.183968,0.5,24,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,721,Bedwell Crescent Neighbourhood Centre,,,,51.902226,-0.188961,1.62,45,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+,,,,,,,,,,,,,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,707,Burwell Road Neighbourhood Centre,,yes,,51.897355,-0.170509,0.66,20,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,,"DuPont (UK) Ltd, Wedgwood Way, SG1 4QN",,yes,,51.922939,-0.170618,2.22,200,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,BFR3,Former Lonsdale School,,yes,,51.911615,-0.187304,3.8,67,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,213,"Former Redemption Academy, Eliot Road",,yes,,51.909008,-0.165296,0.28,16,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,214,"Fry Road day nursery, Fry Road",,,,51.902424,-0.170376,0.29,6,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,107,"Ken Brown car showroom, Shephall Way",,,,51.898556,-0.174298,0.29,36,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,701,Kenilworth Close Neighbourhood Centre,,yes,,51.874824,-0.166644,0.63,65,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,217,Longfield Fire and Rescue,,yes,,51.918375,-0.214195,2.67,95,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,710,Marymead Neighbourhood Centre,,,,51.881836,-0.178709,0.54,60,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+,,,,,,,,,,,,,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,141,Matalan,,yes,,51.900458,-0.203844,1.38,526,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,126,Park Place,,,,51.902741,-0.20025,0.5,202,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+,,,,,,,,,,,,,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,BFR5,"Pond Close, 11 Walkern Road",,yes,,51.913587,-0.207421,0.78,12,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,611,"Rugby Club, North Road",,yes,,51.926547,-0.214089,2.55,149,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+,,,,,,,,,,,,,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+,,,,,,,,,,,,,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,212,"Scout Hut, Drakes Drive",,,,51.912081,-0.1709,0.28,18,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,,Symonds Green NC,,yes,,51.913071,-0.221995,0.93,22,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,709,The Glebe Neighbourhood Centre,,,,51.909262,-0.170025,1.39,35,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,703,The Hyde Neighbourhood Centre,,,,51.892366,-0.169477,1.23,50,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,704,The Oval Neighbourhood Centre,,,,51.919182,-0.179423,1.81,275,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,201,"The Shephall Centre, Shephall Green",,,,51.890881,-0.179245,0.7,34,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+,,,,,,,,,,,,,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+,,,,,,,,,,,,,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+2017-11-03,local-authority-eng:STV,BFR7,Town Centre,,,,,,51.69,2000,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
 2017-11-03,local-authority-eng:STV,"Check if complete - started (SMART)
-002","Vincent Court, Fishers Green Road",,51.918255,-0.218141,1.13,37,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120
+002","Vincent Court, Fishers Green Road",,yes,,51.918255,-0.218141,1.13,37,,2017-11-03,,5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120

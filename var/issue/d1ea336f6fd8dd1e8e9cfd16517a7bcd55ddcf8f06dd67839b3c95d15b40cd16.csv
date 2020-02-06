@@ -1,1 +1,326 @@
 row-number,field,datatype,value
+1,PlanningStatus,enum,Other Commitment
+10,PlanningStatus,enum,Completed During 2017/18
+12,PlanningStatus,enum,Completed During 2017/18
+16,PlanningStatus,enum,Completed During 2018/19
+19,PlanningStatus,enum,Completed During 2018/19
+24,PlanningStatus,enum,Completed During 2018/19
+30,PlanningStatus,enum,Completed During 2018/19
+39,PlanningStatus,enum,Completed During 2016/17
+41,PlanningStatus,enum,Completed During 2017/18
+51,PlanningStatus,enum,Completed During 2017/18
+52,PlanningStatus,enum,Completed During 2018/19
+54,PlanningStatus,enum,Completed During 2017/18
+55,PlanningStatus,enum,Completed During 2017/18
+57,PlanningStatus,enum,Completed During 2016/17
+58,PlanningStatus,enum,Completed During 2016/17
+59,PlanningStatus,enum,Completed During 2016/17
+60,PlanningStatus,enum,Completed During 2016/17
+61,PlanningStatus,enum,Completed During 2016/17
+63,PlanningStatus,enum,Completed During 2016/17
+64,PlanningStatus,enum,Completed During 2016/17
+65,PlanningStatus,enum,Completed During 2016/17
+66,PlanningStatus,enum,Other Commitment
+67,PlanningStatus,enum,Other Commitment
+68,PlanningStatus,enum,Other Commitment
+69,PlanningStatus,enum,Other Commitment
+70,PlanningStatus,enum,Other Commitment
+71,PlanningStatus,enum,Other Commitment
+72,PlanningStatus,enum,Other Commitment
+73,PlanningStatus,enum,Other Commitment
+74,PlanningStatus,enum,Other Commitment
+75,PlanningStatus,enum,Other Commitment
+79,PlanningStatus,enum,Other Commitment
+84,PlanningStatus,enum,Other Commitment
+86,PlanningStatus,enum,Other Commitment
+87,PlanningStatus,enum,Completed During 2018/19
+89,PlanningStatus,enum,Completed During 2018/19
+90,PlanningStatus,enum,Completed During 2018/19
+91,PlanningStatus,enum,Other Commitment
+92,PlanningStatus,enum,Other Commitment
+93,PlanningStatus,enum,Completed During 2017/18
+96,PlanningStatus,enum,Other Commitment
+97,PlanningStatus,enum,Other Commitment
+98,PlanningStatus,enum,Other Commitment
+99,PlanningStatus,enum,Other Commitment
+100,PlanningStatus,enum,Other Commitment
+101,PlanningStatus,enum,Other Commitment
+103,PlanningStatus,enum,Other Commitment
+104,PlanningStatus,enum,Other Commitment
+106,PlanningStatus,enum,Completed During 2017/18
+107,PlanningStatus,enum,Other Commitment
+109,PlanningStatus,enum,Other Commitment
+110,PlanningStatus,enum,Other Commitment
+111,PlanningStatus,enum,Other Commitment
+112,PlanningStatus,enum,Completed During 2016/17
+113,PlanningStatus,enum,Other Commitment
+114,PlanningStatus,enum,Other Commitment
+116,PlanningStatus,enum,Adopted Local Plan
+117,PlanningStatus,enum,Other Commitment
+118,PlanningStatus,enum,Other Commitment
+119,PlanningStatus,enum,Other Commitment
+120,PlanningStatus,enum,Other Commitment
+121,PlanningStatus,enum,Completed During 2018/19
+122,PlanningStatus,enum,Other Commitment
+123,PlanningStatus,enum,Other Commitment
+124,PlanningStatus,enum,Completed During 2017/18
+127,PlanningStatus,enum,Completed During 2017/18
+128,PlanningStatus,enum,Completed During 2018/19
+129,PlanningStatus,enum,Other Commitment
+131,PlanningStatus,enum,Other Commitment
+132,PlanningStatus,enum,Other Commitment
+133,PlanningStatus,enum,Other Commitment
+134,PlanningStatus,enum,Other Commitment
+135,PlanningStatus,enum,Other Commitment
+136,PlanningStatus,enum,Other Commitment
+137,PlanningStatus,enum,Other Commitment
+138,PlanningStatus,enum,Other Commitment
+139,PlanningStatus,enum,Completed During 2017/18
+141,PlanningStatus,enum,Other Commitment
+142,PlanningStatus,enum,Other Commitment
+143,PlanningStatus,enum,Other Commitment
+144,PlanningStatus,enum,Other Commitment
+146,PlanningStatus,enum,Other Commitment
+147,PlanningStatus,enum,Other Commitment
+148,PlanningStatus,enum,Other Commitment
+149,PlanningStatus,enum,Other Commitment
+151,PlanningStatus,enum,Other Commitment
+152,PlanningStatus,enum,Other Commitment
+154,PlanningStatus,enum,Other Commitment
+155,PlanningStatus,enum,Other Commitment
+156,PlanningStatus,enum,Other Commitment
+158,PlanningStatus,enum,Other Commitment
+160,PlanningStatus,enum,Other Commitment
+161,PlanningStatus,enum,Other Commitment
+162,PlanningStatus,enum,Other Commitment
+164,PlanningStatus,enum,Other Commitment
+166,PlanningStatus,enum,Other Commitment
+167,PlanningStatus,enum,Other Commitment
+168,PlanningStatus,enum,Completed During 2017/18
+169,PlanningStatus,enum,Other Commitment
+170,PlanningStatus,enum,Other Commitment
+171,PlanningStatus,enum,Other Commitment
+172,PlanningStatus,enum,Other Commitment
+174,PlanningStatus,enum,Other Commitment
+175,PlanningStatus,enum,Other Commitment
+176,PlanningStatus,enum,Other Commitment
+177,PlanningStatus,enum,Other Commitment
+178,PlanningStatus,enum,Other Commitment
+180,PlanningStatus,enum,Other Commitment
+181,PlanningStatus,enum,Completed During 2017/18
+182,PlanningStatus,enum,Other Commitment
+183,PlanningStatus,enum,Other Commitment
+184,PlanningStatus,enum,Other Commitment
+185,PlanningStatus,enum,Other Commitment
+186,PlanningStatus,enum,Completed During 2017/18
+187,PlanningStatus,enum,Other Commitment
+188,PlanningStatus,enum,Other Commitment
+189,PlanningStatus,enum,Other Commitment
+191,PlanningStatus,enum,Other Commitment
+192,PlanningStatus,enum,Completed During 2017/18
+193,PlanningStatus,enum,Completed During 2018/19
+194,PlanningStatus,enum,Other Commitment
+195,PlanningStatus,enum,Other Commitment
+196,PlanningStatus,enum,Other Commitment
+197,PlanningStatus,enum,Other Commitment
+198,PlanningStatus,enum,Completed During 2018/19
+199,PlanningStatus,enum,Completed During 2016/17
+200,PlanningStatus,enum,Other Commitment
+201,PlanningStatus,enum,Completed During 2018/19
+202,PlanningStatus,enum,Other Commitment
+203,PlanningStatus,enum,Completed During 2017/18
+204,PlanningStatus,enum,Completed During 2018/19
+205,PlanningStatus,enum,Other Commitment
+206,PlanningStatus,enum,Other Commitment
+207,PlanningStatus,enum,Completed During 2017/18
+209,PlanningStatus,enum,Other Commitment
+211,PlanningStatus,enum,Other Commitment
+212,PlanningStatus,enum,Other Commitment
+214,PlanningStatus,enum,Adopted Local Plan
+216,PlanningStatus,enum,Other Commitment
+217,PlanningStatus,enum,Other Commitment
+218,PlanningStatus,enum,Completed During 2017/18
+219,PlanningStatus,enum,Completed During 2018/19
+220,PlanningStatus,enum,Other Commitment
+221,PlanningStatus,enum,Other Commitment
+222,PlanningStatus,enum,Other Commitment
+223,PlanningStatus,enum,Completed During 2017/18
+224,PlanningStatus,enum,Other Commitment
+225,PlanningStatus,enum,Other Commitment
+227,PlanningStatus,enum,Other Commitment
+229,PlanningStatus,enum,Completed During 2018/19
+232,PlanningStatus,enum,Completed During 2018/19
+233,PlanningStatus,enum,Completed During 2017/18
+234,PlanningStatus,enum,Completed During 2017/18
+236,PlanningStatus,enum,Completed During 2018/19
+237,PlanningStatus,enum,Adopted Local Plan
+239,PlanningStatus,enum,Completed During 2016/17
+240,PlanningStatus,enum,Other Commitment
+241,PlanningStatus,enum,Completed During 2018/19
+242,PlanningStatus,enum,Completed During 2016/17
+243,PlanningStatus,enum,Completed During 2016/17
+244,PlanningStatus,enum,Completed During 2017/18
+245,PlanningStatus,enum,Other Commitment
+249,PlanningStatus,enum,Other Commitment
+250,PlanningStatus,enum,Completed During 2018/19
+252,PlanningStatus,enum,Completed During 2018/19
+254,PlanningStatus,enum,Other Commitment
+255,PlanningStatus,enum,Completed During 2017/18
+256,PlanningStatus,enum,Other Commitment
+258,PlanningStatus,enum,Other Commitment
+260,PlanningStatus,enum,Completed During 2018/19
+263,PlanningStatus,enum,Completed During 2018/19
+264,PlanningStatus,enum,Other Commitment
+266,PlanningStatus,enum,Completed During 2018/19
+267,PlanningStatus,enum,Completed During 2018/19
+268,PlanningStatus,enum,Other Commitment
+269,PlanningStatus,enum,Completed During 2018/19
+270,PlanningStatus,enum,Other Commitment
+271,PlanningStatus,enum,Other Commitment
+272,PlanningStatus,enum,Other Commitment
+273,PlanningStatus,enum,Other Commitment
+275,PlanningStatus,enum,Completed During 2018/19
+276,PlanningStatus,enum,Completed During 2017/18
+278,PlanningStatus,enum,Completed During 2017/18
+280,PlanningStatus,enum,Completed During 2017/18
+281,PlanningStatus,enum,Completed During 2017/18
+282,PlanningStatus,enum,Completed During 2016/17
+284,PlanningStatus,enum,Completed During 2016/17
+285,PlanningStatus,enum,Completed During 2018/19
+287,PlanningStatus,enum,Other Commitment
+288,PlanningStatus,enum,Other Commitment
+289,PlanningStatus,enum,Completed During 2016/17
+290,PlanningStatus,enum,Other Commitment
+291,PlanningStatus,enum,Other Commitment
+292,PlanningStatus,enum,Completed During 2018/19
+294,PlanningStatus,enum,Completed During 2018/19
+295,PlanningStatus,enum,Completed During 2016/17
+296,PlanningStatus,enum,Completed During 2016/17
+297,PlanningStatus,enum,Completed During 2018/19
+298,PlanningStatus,enum,Other Commitment
+299,PlanningStatus,enum,Completed During 2016/17
+300,PlanningStatus,enum,Other Commitment
+301,PlanningStatus,enum,Completed During 2016/17
+303,PlanningStatus,enum,Completed During 2018/19
+306,PlanningStatus,enum,Completed During 2016/17
+309,PlanningStatus,enum,Completed During 2016/17
+310,PlanningStatus,enum,Completed During 2018/19
+311,PlanningStatus,enum,Completed During 2017/18
+313,PlanningStatus,enum,Completed During 2017/18
+316,PlanningStatus,enum,Completed During 2018/19
+318,PlanningStatus,enum,Other Commitment
+319,PlanningStatus,enum,Completed During 2016/17
+321,PlanningStatus,enum,Completed During 2016/17
+322,PlanningStatus,enum,Completed During 2016/17
+323,PlanningStatus,enum,Completed During 2018/19
+325,PlanningStatus,enum,Other Commitment
+327,PlanningStatus,enum,Completed During 2018/19
+328,PlanningStatus,enum,Completed During 2016/17
+330,PlanningStatus,enum,Completed During 2018/19
+331,PlanningStatus,enum,Other Commitment
+333,PlanningStatus,enum,Completed During 2018/19
+334,PlanningStatus,enum,Completed During 2016/17
+338,PlanningStatus,enum,Completed During 2017/18
+341,PlanningStatus,enum,Other Commitment
+342,PlanningStatus,enum,Completed During 2017/18
+344,PlanningStatus,enum,Completed During 2017/18
+345,PlanningStatus,enum,Completed During 2016/17
+346,PlanningStatus,enum,Completed During 2018/19
+352,PlanningStatus,enum,Completed During 2017/18
+355,PlanningStatus,enum,Completed During 2018/19
+356,PlanningStatus,enum,Completed During 2018/19
+357,PlanningStatus,enum,Completed During 2017/18
+358,PlanningStatus,enum,Completed During 2016/17
+360,PlanningStatus,enum,Other Commitment
+361,PlanningStatus,enum,Completed During 2018/19
+362,PlanningStatus,enum,Completed During 2017/18
+366,PlanningStatus,enum,Other Commitment
+367,PlanningStatus,enum,Completed During 2016/17
+368,PlanningStatus,enum,Completed During 2017/18
+369,PlanningStatus,enum,Adopted Local Plan
+370,PlanningStatus,enum,Completed During 2018/19
+373,PlanningStatus,enum,Completed During 2016/17
+374,PlanningStatus,enum,Completed During 2017/18
+375,PlanningStatus,enum,Completed During 2017/18
+377,PlanningStatus,enum,Completed During 2017/18
+379,PlanningStatus,enum,Adopted Local Plan
+381,PlanningStatus,enum,Completed During 2016/17
+383,PlanningStatus,enum,Completed During 2016/17
+384,PlanningStatus,enum,Adopted Local Plan
+385,PlanningStatus,enum,Adopted Local Plan
+386,PlanningStatus,enum,Completed During 2017/18
+387,PlanningStatus,enum,Completed During 2018/19
+388,PlanningStatus,enum,Completed During 2017/18
+389,PlanningStatus,enum,Completed During 2017/18
+390,PlanningStatus,enum,Completed During 2018/19
+392,PlanningStatus,enum,Other Commitment
+393,PlanningStatus,enum,Completed During 2018/19
+395,PlanningStatus,enum,Completed During 2017/18
+397,PlanningStatus,enum,Completed During 2017/18
+398,PlanningStatus,enum,Other Commitment
+399,PlanningStatus,enum,Completed During 2017/18
+401,PlanningStatus,enum,Other Commitment
+402,PlanningStatus,enum,Adopted Local Plan
+403,PlanningStatus,enum,Adopted Local Plan
+405,PlanningStatus,enum,Adopted Local Plan
+406,PlanningStatus,enum,Adopted Local Plan
+407,PlanningStatus,enum,Adopted Local Plan
+408,PlanningStatus,enum,Adopted Local Plan
+409,PlanningStatus,enum,Adopted Local Plan
+411,PlanningStatus,enum,Adopted Local Plan
+412,PlanningStatus,enum,Adopted Local Plan
+413,PlanningStatus,enum,Adopted Local Plan
+414,PlanningStatus,enum,Adopted Local Plan
+415,PlanningStatus,enum,Adopted Local Plan
+416,PlanningStatus,enum,Adopted Local Plan
+417,PlanningStatus,enum,Adopted Local Plan
+418,PlanningStatus,enum,Adopted Local Plan
+419,PlanningStatus,enum,Adopted Local Plan
+421,PlanningStatus,enum,Completed During 2018/19
+423,PlanningStatus,enum,Completed During 2016/17
+424,PlanningStatus,enum,Adopted Local Plan
+426,PlanningStatus,enum,Adopted Local Plan
+427,PlanningStatus,enum,Adopted Local Plan
+428,PlanningStatus,enum,Other Commitment
+433,PlanningStatus,enum,Completed During 2016/17
+434,PlanningStatus,enum,Completed During 2017/18
+435,PlanningStatus,enum,Other Commitment
+436,PlanningStatus,enum,Completed During 2016/17
+438,PlanningStatus,enum,Completed During 2017/18
+441,PlanningStatus,enum,Completed During 2016/7
+444,PlanningStatus,enum,Completed During 2018/19
+445,PlanningStatus,enum,Other Commitment
+450,PlanningStatus,enum,Completed During 2017/18
+451,PlanningStatus,enum,Completed During 2018/19
+453,PlanningStatus,enum,Completed During 2018/19
+454,PlanningStatus,enum,Completed During 2018/19
+459,PlanningStatus,enum,Completed During 2018/19
+460,PlanningStatus,enum,Completed During 2018/19
+463,PlanningStatus,enum,Completed During 2018/19
+464,PlanningStatus,enum,Completed During 2018/19
+466,PlanningStatus,enum,Completed During 2018/19
+468,PlanningStatus,enum,Completed During 2018/19
+470,PlanningStatus,enum,Completed During 2018/19
+481,PlanningStatus,enum,Completed During 2018/19
+482,PlanningStatus,enum,Completed During 2017/18
+486,PlanningStatus,enum,Completed During 2018/19
+487,PlanningStatus,enum,Completed During 2018/19
+494,PlanningStatus,enum,Completed During 2018/19
+496,PlanningStatus,enum,Completed During 2017/18
+498,PlanningStatus,enum,Other Commitment
+499,PlanningStatus,enum,Completed During 2017/18
+500,PlanningStatus,enum,Other Commitment
+501,PlanningStatus,enum,Other Commitment
+504,PlanningStatus,enum,Other Commitment
+505,PlanningStatus,enum,Completed During 2018/19
+506,PlanningStatus,enum,Completed During 2018/19
+535,PlanningStatus,enum,Completed During 2018/19
+536,PlanningStatus,enum,Completed During 2018/19
+537,PlanningStatus,enum,Completed During 2018/19
+538,PlanningStatus,enum,Completed During 2018/19
+539,PlanningStatus,enum,Completed During 2018/19
+540,PlanningStatus,enum,Completed During 2018/19
+541,PlanningStatus,enum,Completed During 2018/19
+542,PlanningStatus,enum,Completed During 2018/19
+543,PlanningStatus,enum,Completed During 2018/19
+544,PlanningStatus,enum,Completed During 2018/19

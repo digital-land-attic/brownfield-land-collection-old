@@ -1,53 +1,92 @@
 row-number,field,datatype,value
 1,GeoX,decimal,ETRS89
 1,SiteplanURL,uri,"St Martin's Walk Centre (Upper Floors), Dorking, RH4 1UX"
+1,OwnershipStatus,enum,0.5
+1,Deliverable,enum,owned by a public authority
 2,GeoX,decimal,ETRS89
 2,SiteplanURL,uri,"Claire House and James House, Bridge St, Leatherhead KT22 8BZ"
+2,OwnershipStatus,enum,0.21
+2,Deliverable,enum,owned by a public authority
 3,GeoX,decimal,ETRS89
 3,SiteplanURL,uri,"Bull Hill Site, Leatherhead, KT22 7AH"
+3,OwnershipStatus,enum,1.85
+3,Deliverable,enum,owned by a public authority
 4,GeoX,decimal,ETRS89
 4,SiteplanURL,uri,"Grove Corner, Lower Shott/Guildford Road, Bookham KT23 4LP"
+4,OwnershipStatus,enum,0.33
+4,Deliverable,enum,owned by a public authority
 5,GeoX,decimal,ETRS89
 5,SiteplanURL,uri,"Sorting Office, Station Rd, Leatherhead KT22 7AE and Telephone Exchange,Station Rd, Leatherhead KT22 7AF"
+5,OwnershipStatus,enum,0.77
+5,Deliverable,enum,not owned by a public authority
 6,GeoX,decimal,ETRS89
 6,SiteplanURL,uri,"Land to the rear of 272-294 High St,Dorking RH4 1QT"
+6,OwnershipStatus,enum,0.11
 6,PermissionDate,date,full planning permission
+6,Deliverable,enum,not owned by a public authority
 7,GeoX,decimal,ETRS89
 7,SiteplanURL,uri,"Fortyfoot Hall,Fortyfoot Rd,Leatherhead KT22 8RY"
+7,OwnershipStatus,enum,0.11
 7,PermissionDate,date,full planning permission
+7,Deliverable,enum,not owned by a public authority
 8,GeoX,decimal,ETRS89
 8,SiteplanURL,uri,"Institute Of Further Education,Dene St,Dorking RH4 3EB"
+8,OwnershipStatus,enum,0.21
 8,PermissionDate,date,full planning permission
+8,Deliverable,enum,owned by a public authority
 9,GeoX,decimal,ETRS89
 9,SiteplanURL,uri,"37 & 39 Kingston Rd,Leatherhead KT22 7SL"
+9,OwnershipStatus,enum,0.06
 9,PermissionDate,date,full planning permission
+9,Deliverable,enum,not owned by a public authority
 10,GeoX,decimal,ETRS89
 10,SiteplanURL,uri,"87-99 High St,Dorking RH4 1AN"
+10,OwnershipStatus,enum,0.05
 10,PermissionDate,date,full planning permission
+10,Deliverable,enum,not owned by a public authority
 11,GeoX,decimal,ETRS89
 11,SiteplanURL,uri,"176-180,High Street,Dorking,Surrey,RH4 1QR"
+11,OwnershipStatus,enum,0.05
 11,PermissionDate,date,full planning permission
+11,Deliverable,enum,not owned by a public authority
 12,GeoX,decimal,ETRS89
 12,SiteplanURL,uri,"Two Ways,Oxshott Road,Leatherhead,Surrey,KT22 0EG"
+12,OwnershipStatus,enum,0.14
 12,PermissionDate,date,full planning permission
+12,Deliverable,enum,not owned by a public authority
 13,GeoX,decimal,ETRS89
 13,SiteplanURL,uri,"Whitefriars,Ottways Lane,Ashtead,Surrey,KT21 2PB"
+13,OwnershipStatus,enum,0.20
 13,PermissionDate,date,full planning permission
+13,Deliverable,enum,not owned by a public authority
 14,GeoX,decimal,North Street
 14,GeoY,decimal,Leatherhead
 14,SiteplanURL,uri,Rear of Grantham House
 14,Hectares,decimal,Surrey
+14,OwnershipStatus,enum,"KT22 7AX"""
+14,HazardousSubstances,enum,9
+14,PlanningStatus,enum,ETRS89
+14,PermissionType,enum,51.295518
 14,PermissionDate,date,-0.330961
 14,NetDwellingsRangeFrom,integer,http://www.molevalley.gov.uk/swiftlg/apas/run/WPHAPPDETAIL.DisplayUrl?theApnID=MO/2018/0738
+14,Deliverable,enum,https://maps.molevalley.gov.uk/
 15,GeoX,decimal,ETRS89
 15,SiteplanURL,uri,"Stocks House,9,North Street,Leatherhead,Surrey,KT22 7AX"
+15,OwnershipStatus,enum,0.16
 15,PermissionDate,date,full planning permission
+15,Deliverable,enum,not owned by a public authority
 16,GeoX,decimal,ETRS89
 16,SiteplanURL,uri,"British Food Manu Research Assoc,Randalls Way,Leatherhead,Surrey,KT22 7RY"
+16,OwnershipStatus,enum,1.54
 16,PermissionDate,date,outline planning permission
+16,Deliverable,enum,not owned by a public authority
 17,GeoX,decimal,ETRS89
 17,SiteplanURL,uri,"Surrey Hills Hotel,Horsham Road,Beare Green,Surrey"
+17,OwnershipStatus,enum,0.36
 17,PermissionDate,date,full planning permission
+17,Deliverable,enum,not owned by a public authority
 18,GeoX,decimal,ETRS89
 18,SiteplanURL,uri,"80a,86 and 88 Woodfield Lane,Ashtead,KT21 2BS"
+18,OwnershipStatus,enum,0.04
 18,PermissionDate,date,full planning permission
+18,Deliverable,enum,not owned by a public authority

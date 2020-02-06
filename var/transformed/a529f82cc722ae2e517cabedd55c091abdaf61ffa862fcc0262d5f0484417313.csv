@@ -1,34 +1,34 @@
-entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:WNM,H00036,Sunningdale Park Civil Service College Silwood Road Ascot Berkshire SL5 0LS,,51.40042,-0.638624,4,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00037a,Land at ICL Silwood Campus-Zone A Imperial College Silwood Park Buckhurst Road Ascot,,51.407218,-0.643268,3,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00037b,Land at ICL Silwood Campus-Zone B Imperial College Silwood Park Buckhurst Road Ascot,,51.408609,-0.641429,3,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00040,"Land west of St George's Lane, including Shorts Recycling, Ascot",,51.407853,-0.669618,6,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00066,Boyn Valley Rd/Kings Grove Industrial Area,,51.517767,-0.730007,4,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00066a,Boyn Valley Rd/Kings Grove Industrial Area,,51.518151,-0.728959,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00069,"Straight Works, Straight Road, Old Windsor",,51.457966,-0.577697,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00070,"OW NP site: 95 Straight Road, Old Windsor",,51.455787,-0.575994,0,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00077,Gas Holder Station Whyteladyes Lane Cookham Maidenhead,,51.553035,-0.730165,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00080,St Cloud's Gate,,51.52542,-0.718551,3,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00082a,West Street Opportunity Area (AAP),,51.523537,-0.722265,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00086a,Broadway Opportunity Area (AAP),,51.52092,-0.721444,3,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00113,(Osbornes Garage) 55 St Marks Road Maidenhead Berkshire SL6 6DL,,51.522984,-0.741826,0,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00115,School on College Avenue,,51.524718,-0.731702,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00117,"DTC Research, Belmont Road, Maidenhead",,51.52791,-0.731686,2,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00120,"Middlehurst Ltd, 99-103 Boyn Valley Road",,51.51684,-0.734948,0,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00128,Ascot Station,,51.40606,-0.67407,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00142,"National Grid Gasholder Site, Bridge Road, Sunninghill",,51.399178,-0.654086,2,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00162a,Sunningdale Broomhall Centre,,51.393596,-0.629427,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00187a,Tithe Farm Tithe Lane Wraysbury Staines,,51.457742,-0.546901,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00204a,Windsor and Eton Riverside Station Car Park,,51.487399,-0.605501,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00216,Territorial Army Centre Bolton Road Windsor,,51.47039,-0.611189,0,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00221,Vale Road Industrial site,,51.481835,-0.633984,2,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00230,"Squires Garden Centre, Maidenhead Road, Windsor",,51.484155,-0.640151,3,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00231a,"Wyevale Garden Centre, Dedworth Road, Oakley Green",,51.480028,-0.658966,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00250a,"Land at Water Oakley Farm, Bray",,51.491301,-0.677692,3,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00270,Tectonic Place Holyport Road Maidenhead Berkshire SL6 2YE,,51.495314,-0.706949,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00314a,"Reform Road, Maidenhead",,51.522024,-0.711396,4,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00315c,York Road Opportunity Area-AAP,,51.520948,-0.718201,2,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00407,Windsor Area Police Station Alma Road Windsor SL4 3ES,,,,0,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00416,Heatherwood Hospital,,51.410166,-0.687352,16,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,local-authority-eng:WNM,H00417b,Minton Place Victoria Street Windsor SL4 1EG,,51.480675,-0.611006,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
-,,,,,,,,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,local-authority-eng:WNM,H00036,Sunningdale Park Civil Service College Silwood Road Ascot Berkshire SL5 0LS,,,,51.40042,-0.638624,4,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00037a,Land at ICL Silwood Campus-Zone A Imperial College Silwood Park Buckhurst Road Ascot,,,,51.407218,-0.643268,3,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00037b,Land at ICL Silwood Campus-Zone B Imperial College Silwood Park Buckhurst Road Ascot,,,,51.408609,-0.641429,3,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00040,"Land west of St George's Lane, including Shorts Recycling, Ascot",,,,51.407853,-0.669618,6,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00066,Boyn Valley Rd/Kings Grove Industrial Area,,,,51.517767,-0.730007,4,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00066a,Boyn Valley Rd/Kings Grove Industrial Area,,,,51.518151,-0.728959,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00069,"Straight Works, Straight Road, Old Windsor",,,,51.457966,-0.577697,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00070,"OW NP site: 95 Straight Road, Old Windsor",,,,51.455787,-0.575994,0,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00077,Gas Holder Station Whyteladyes Lane Cookham Maidenhead,,,,51.553035,-0.730165,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00080,St Cloud's Gate,,,,51.52542,-0.718551,3,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00082a,West Street Opportunity Area (AAP),,,,51.523537,-0.722265,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00086a,Broadway Opportunity Area (AAP),,,,51.52092,-0.721444,3,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00113,(Osbornes Garage) 55 St Marks Road Maidenhead Berkshire SL6 6DL,,,,51.522984,-0.741826,0,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00115,School on College Avenue,,,,51.524718,-0.731702,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00117,"DTC Research, Belmont Road, Maidenhead",,,,51.52791,-0.731686,2,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00120,"Middlehurst Ltd, 99-103 Boyn Valley Road",,,,51.51684,-0.734948,0,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00128,Ascot Station,,,,51.40606,-0.67407,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00142,"National Grid Gasholder Site, Bridge Road, Sunninghill",,,,51.399178,-0.654086,2,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00162a,Sunningdale Broomhall Centre,,,,51.393596,-0.629427,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00187a,Tithe Farm Tithe Lane Wraysbury Staines,,,,51.457742,-0.546901,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00204a,Windsor and Eton Riverside Station Car Park,,,,51.487399,-0.605501,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00216,Territorial Army Centre Bolton Road Windsor,,,,51.47039,-0.611189,0,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00221,Vale Road Industrial site,,,,51.481835,-0.633984,2,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00230,"Squires Garden Centre, Maidenhead Road, Windsor",,,,51.484155,-0.640151,3,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00231a,"Wyevale Garden Centre, Dedworth Road, Oakley Green",,,,51.480028,-0.658966,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00250a,"Land at Water Oakley Farm, Bray",,,,51.491301,-0.677692,3,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00270,Tectonic Place Holyport Road Maidenhead Berkshire SL6 2YE,,,,51.495314,-0.706949,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00314a,"Reform Road, Maidenhead",,,,51.522024,-0.711396,4,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00315c,York Road Opportunity Area-AAP,,,,51.520948,-0.718201,2,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00407,Windsor Area Police Station Alma Road Windsor SL4 3ES,,,,,,0,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00416,Heatherwood Hospital,,,,51.410166,-0.687352,16,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,local-authority-eng:WNM,H00417b,Minton Place Victoria Street Windsor SL4 1EG,,,,51.480675,-0.611006,1,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313
+,,,,,,,,,,,,2018-01-19,,a529f82cc722ae2e517cabedd55c091abdaf61ffa862fcc0262d5f0484417313

@@ -1,2 +1,59 @@
 row-number,field,datatype,value
+1,PlanningStatus,enum,"Permitted
+Planning ref Y16/0403/SH"
+2,PlanningStatus,enum,"Permitted
+Planning ref Y14/1428/SH"
+3,PlanningStatus,enum,"Permitted
+Planning ref Y11/0121/SH"
+4,PlanningStatus,enum,"Permitted
+Planning ref Y16/0220/SH"
+5,PlanningStatus,enum,"Permitted
+Planning ref Y16/0987/SH"
+6,PlanningStatus,enum,"Permitted
+Planning ref Y05/1391/SH"
+7,PlanningStatus,enum,"Permitted
+Planning ref Y08/1212/SH"
+8,PlanningStatus,enum,"Permitted
+Planning ref Y12/1000/SH"
+9,PlanningStatus,enum,"Permitted
+Planning ref Y13/0166/SH"
+10,PlanningStatus,enum,"Permitted
+Planning ref Y14/0411/SH"
+11,PlanningStatus,enum,"Permitted
+Planning ref Y14/0834/SH"
+12,PlanningStatus,enum,"Permitted
+Planning ref
+Y10/0717/SH"
+13,PlanningStatus,enum,"Permitted
+Planning ref
+Y14/0703/SH"
+14,PlanningStatus,enum,"Permitted
+Planning ref 
+Y15/0467/SH"
+15,PlanningStatus,enum,"Permitted
+Planning ref
+Y05/0237/SH"
+16,PlanningStatus,enum,"Permitted
+Planning ref 
+Y14/1149/SH"
+17,PlanningStatus,enum,"Permitted
+Planning ref Y15/0178/SH"
+18,PlanningStatus,enum,"Permitted
+Planning ref Y12/0650/SH"
+19,PlanningStatus,enum,"Permitted
+Planning ref Y14/0928/SH"
+20,PlanningStatus,enum,"Permitted
+Planning ref Y15/0533/SH"
+21,PlanningStatus,enum,"Permitted
+Planning ref Y14/0578/SH"
+22,PlanningStatus,enum,"Permitted
+Planning ref Y12/0897/SH"
+23,PlanningStatus,enum,"Permitted
+Planning ref Y16/0463/SH"
+24,PlanningStatus,enum,"Permitted
+Planning ref Y13/0858/SH"
+25,PlanningStatus,enum,"Resolution to grant
+Y15/0030/SH"
+26,PlanningStatus,enum,Y15/0072/SH
+27,PlanningStatus,enum,Y11/0137/SH
 28,Hectares,decimal,1 hectare

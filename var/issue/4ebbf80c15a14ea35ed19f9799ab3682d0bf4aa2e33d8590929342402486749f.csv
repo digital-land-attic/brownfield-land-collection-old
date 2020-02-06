@@ -1,1 +1,6 @@
 row-number,field,datatype,value
+16,PermissionType,enum,JPA
+22,PermissionType,enum,LDO
+23,PermissionType,enum,OUT
+29,PermissionType,enum,JPA
+30,PermissionType,enum,JPA

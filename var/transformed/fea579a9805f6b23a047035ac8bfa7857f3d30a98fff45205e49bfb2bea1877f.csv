@@ -1,17 +1,17 @@
-entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-10-26,local-authority-eng:WLA,WL002,"Former Hope High School, Tanhouse Road, Skelmersdale",,53.544701,-2.751925,1.8,,,2016-08-03,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
-2018-12-11,local-authority-eng:WLA,WL004,"Land at Findon, Skelmersdale",,53.553449,-2.771123,3.34,,,2016-08-03,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
-2018-12-11,local-authority-eng:WLA,WL005,"Site of Former Sports Centre, Digmoor Road, Skelmersdale",,53.541465,-2.768379,2.56,,,2016-08-03,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
-2018-11-08,local-authority-eng:WLA,WL006,"Site of Former Greaves Hall Hospital, Greaves Hall Avenue, Banks",,53.676507,-2.91439,10.26,,,2016-08-04,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
-2018-11-08,local-authority-eng:WLA,WL007,"Longreach Warpers Moss Lane, Burscough",,53.607522,-2.836296,0.51,,,2016-08-04,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
-2017-10-26,local-authority-eng:WLA,WL008," Site of Former 111 Aughton Street, Ormskirk",,53.564807,-2.889392,0.26,,,2016-08-04,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
-2018-11-08,local-authority-eng:WLA,WL010,"Bull And Dog Inn, 5 Liverpool Road South, Burscough",,53.588021,-2.862039,0.27,,,2016-08-04,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
-2018-11-08,local-authority-eng:WLA,WL012,"Downholland Bridge Business Park, Mairscough Lane, Downholland",,53.553569,-2.958746,0.26,,,2016-08-05,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
-2018-11-08,local-authority-eng:WLA,WL013,"The Barrons 104 Church Road, Tarleton",,53.679616,-2.829326,0.76,,,2016-08-05,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
-2018-11-08,local-authority-eng:WLA,WL014,"Land to the rear of 69-75 Town Green Lane, Aughton",,53.542832,-2.905238,0.23,,,2016-08-05,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
-2018-11-08,local-authority-eng:WLA,WL015,"The Almond Tree, Abbeystead, Digmoor, Skelmersdale",,53.540033,-2.770818,0.17,,,2016-08-05,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
-2018-11-08,local-authority-eng:WLA,WL028,"The Comrades Club, Witham Road, Skelmersdale",,53.550898,-2.805693,0.1,,,2017-06-13,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
-2018-11-08,local-authority-eng:WLA,WL029,"Land the The Stiles, Ormskirk",,53.568479,-2.88653,0.12,,,2017-06-13,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
-2018-11-08,local-authority-eng:WLA,WL038,"Former Silver Birch Hotel, Floron, Birch Green, Skelmersdale",,53.553586,-2.762776,0.22,,,2017-06-13,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
-2018-11-08,local-authority-eng:WLA,WL040,"Garages to the east of Arnian Court, Molyneux Road, Skelmersdale",,53.542849,-2.903018,0.15,,,2017-06-13,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
-2018-12-07,local-authority-eng:WLA,WL064,"Land at New Lane, Crossens",,53.669536,-2.943646,0.9,,,2018-12-06,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
+entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2017-10-26,local-authority-eng:WLA,WL002,"Former Hope High School, Tanhouse Road, Skelmersdale",,yes,,53.544701,-2.751925,1.8,,,2016-08-03,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
+2018-12-11,local-authority-eng:WLA,WL004,"Land at Findon, Skelmersdale",,yes,,53.553449,-2.771123,3.34,,,2016-08-03,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
+2018-12-11,local-authority-eng:WLA,WL005,"Site of Former Sports Centre, Digmoor Road, Skelmersdale",,yes,,53.541465,-2.768379,2.56,,,2016-08-03,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
+2018-11-08,local-authority-eng:WLA,WL006,"Site of Former Greaves Hall Hospital, Greaves Hall Avenue, Banks",,yes,,53.676507,-2.91439,10.26,,,2016-08-04,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
+2018-11-08,local-authority-eng:WLA,WL007,"Longreach Warpers Moss Lane, Burscough",,yes,,53.607522,-2.836296,0.51,,,2016-08-04,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
+2017-10-26,local-authority-eng:WLA,WL008," Site of Former 111 Aughton Street, Ormskirk",,yes,,53.564807,-2.889392,0.26,,,2016-08-04,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
+2018-11-08,local-authority-eng:WLA,WL010,"Bull And Dog Inn, 5 Liverpool Road South, Burscough",,yes,,53.588021,-2.862039,0.27,,,2016-08-04,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
+2018-11-08,local-authority-eng:WLA,WL012,"Downholland Bridge Business Park, Mairscough Lane, Downholland",,yes,,53.553569,-2.958746,0.26,,,2016-08-05,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
+2018-11-08,local-authority-eng:WLA,WL013,"The Barrons 104 Church Road, Tarleton",,yes,,53.679616,-2.829326,0.76,,,2016-08-05,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
+2018-11-08,local-authority-eng:WLA,WL014,"Land to the rear of 69-75 Town Green Lane, Aughton",,yes,,53.542832,-2.905238,0.23,,,2016-08-05,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
+2018-11-08,local-authority-eng:WLA,WL015,"The Almond Tree, Abbeystead, Digmoor, Skelmersdale",,yes,,53.540033,-2.770818,0.17,,,2016-08-05,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
+2018-11-08,local-authority-eng:WLA,WL028,"The Comrades Club, Witham Road, Skelmersdale",,yes,,53.550898,-2.805693,0.1,,,2017-06-13,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
+2018-11-08,local-authority-eng:WLA,WL029,"Land the The Stiles, Ormskirk",,yes,,53.568479,-2.88653,0.12,,,2017-06-13,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
+2018-11-08,local-authority-eng:WLA,WL038,"Former Silver Birch Hotel, Floron, Birch Green, Skelmersdale",,yes,,53.553586,-2.762776,0.22,,,2017-06-13,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
+2018-11-08,local-authority-eng:WLA,WL040,"Garages to the east of Arnian Court, Molyneux Road, Skelmersdale",,yes,,53.542849,-2.903018,0.15,,,2017-06-13,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f
+2018-12-07,local-authority-eng:WLA,WL064,"Land at New Lane, Crossens",,yes,,53.669536,-2.943646,0.9,,,2018-12-06,,fea579a9805f6b23a047035ac8bfa7857f3d30a98fff45205e49bfb2bea1877f

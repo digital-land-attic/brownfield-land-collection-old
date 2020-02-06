@@ -1,21 +1,21 @@
-entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2018-12-13,local-authority-eng:FOR,,"WarrenClose, Brandon",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:FOR,,"LandOffGasHouseLane, Brandon",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:FOR,,"Landrearof65, 69, 73StationRoad, Lakenheath",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:FOR,,"MatthewsNurserySite, DumplingBridgeLane, Lakenheath",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:FOR,,"DistrictCouncilOffices, CollegeHeathRoad, Mildenhall",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:FOR,,"LandAtWamilCourt, Mildenhall",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:FOR,,"FormerSwimmingPoolSite, Newmarket",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:FOR,,"StFelixMiddleSchoolSite, Newmarket",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:FOR,,"LandOffTurnpikeRoad, RedLodge",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:SED,,"BuryStEdmundsGardenCentre, BuryStEdmunds",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:SED,,"GaragesAndBusDepot, CottonLane, BuryStEdmunds",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:SED,,"HospitalSite, HospitalRoad, BuryStEdmunds",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:SED,,"LandAtRamMeadow, BuryStEdmunds",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:SED,,"SchoolYard, BuryStEdmunds",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:SED,,"StationHill, BuryStEdmunds",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:SED,,"TayfenRoad, BuryStEdmunds",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:SED,,"WeymedSite, BuryStEdmunds",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:SED,,"AttertonAndEllisSite, Haverhill ",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:SED,,"FormerGasworks, WithersfieldRoad, Haverhill",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
-2018-12-13,local-authority-eng:SED,,"FormerWestfieldPrimarySchool, ManorRoad, Haverhill",,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2018-12-13,local-authority-eng:FOR,,"WarrenClose, Brandon",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:FOR,,"LandOffGasHouseLane, Brandon",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:FOR,,"Landrearof65, 69, 73StationRoad, Lakenheath",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:FOR,,"MatthewsNurserySite, DumplingBridgeLane, Lakenheath",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:FOR,,"DistrictCouncilOffices, CollegeHeathRoad, Mildenhall",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:FOR,,"LandAtWamilCourt, Mildenhall",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:FOR,,"FormerSwimmingPoolSite, Newmarket",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:FOR,,"StFelixMiddleSchoolSite, Newmarket",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:FOR,,"LandOffTurnpikeRoad, RedLodge",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:SED,,"BuryStEdmundsGardenCentre, BuryStEdmunds",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:SED,,"GaragesAndBusDepot, CottonLane, BuryStEdmunds",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:SED,,"HospitalSite, HospitalRoad, BuryStEdmunds",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:SED,,"LandAtRamMeadow, BuryStEdmunds",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:SED,,"SchoolYard, BuryStEdmunds",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:SED,,"StationHill, BuryStEdmunds",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:SED,,"TayfenRoad, BuryStEdmunds",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:SED,,"WeymedSite, BuryStEdmunds",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:SED,,"AttertonAndEllisSite, Haverhill ",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:SED,,"FormerGasworks, WithersfieldRoad, Haverhill",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a
+2018-12-13,local-authority-eng:SED,,"FormerWestfieldPrimarySchool, ManorRoad, Haverhill",,yes,,,,,,,2017-09-01,,9a31213fcec9f37a7431258ed42e8998d9e90f6929bba9e3372a7d21c923169a

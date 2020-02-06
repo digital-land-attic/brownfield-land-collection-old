@@ -1,6 +1,6 @@
-entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-22,local-authority-eng:RUT,LPR/GLA/01 (part of),"Land East of Seaton Road, Glaston",,52.593012,-0.675353,0.27,10,12,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
-2017-12-22,local-authority-eng:RUT,Policy SP2. site H7,"The Crescent, High Street, Ketton",,52.634686,-0.544929,1.31,37,45,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
-2017-12-22,local-authority-eng:RUT,LPR/MOR/01 (part of),"part of The White Horse Inn, Morcott",,52.59351,-0.632481,0.18,1,5,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
-2017-12-22,local-authority-eng:RUT,LPR/NOR/02,"Pinfold Close, North Luffenham",,52.621064,-0.62016,0.21,6,8,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
-2017-12-22,local-authority-eng:RUT,LPR/TIN/01 (part of),"Land adjacent to Holme Farm, Tinwell",,52.646858,-0.513517,0.18,5,6,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
+entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2017-12-22,local-authority-eng:RUT,LPR/GLA/01 (part of),"Land East of Seaton Road, Glaston",,yes,,52.593012,-0.675353,0.27,10,12,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
+2017-12-22,local-authority-eng:RUT,Policy SP2. site H7,"The Crescent, High Street, Ketton",,yes,,52.634686,-0.544929,1.31,37,45,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
+2017-12-22,local-authority-eng:RUT,LPR/MOR/01 (part of),"part of The White Horse Inn, Morcott",,yes,,52.59351,-0.632481,0.18,1,5,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
+2017-12-22,local-authority-eng:RUT,LPR/NOR/02,"Pinfold Close, North Luffenham",,yes,,52.621064,-0.62016,0.21,6,8,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34
+2017-12-22,local-authority-eng:RUT,LPR/TIN/01 (part of),"Land adjacent to Holme Farm, Tinwell",,yes,,52.646858,-0.513517,0.18,5,6,2017-12-22,,6f3836c8b909ad2753c4d9f5ff643b665a7a336aea857801baf23666f0de2b34

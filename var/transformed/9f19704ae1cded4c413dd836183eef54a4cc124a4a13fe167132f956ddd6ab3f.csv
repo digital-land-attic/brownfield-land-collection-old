@@ -1,10 +1,10 @@
-entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-19,local-authority-eng:EPS,20,"Epsom Baptist Church, Church Street",,51.333297,-0.26289,0.23,,,2017-11-28,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
-2017-12-19,local-authority-eng:EPS,21,"Rail Land, Mill Road",,51.336108,-0.256596,0.46,,,2017-11-08,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
-2017-12-19,local-authority-eng:EPS,148,"The Epsom Club, Church Street",,51.332553,-0.261282,0.14,,,2017-11-30,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
-2017-12-19,local-authority-eng:EPS,148,"United Reformed Church, Church Street",,51.332443,-0.261142,0.14,,,2017-11-15,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
-2017-12-19,local-authority-eng:EPS,186,31 to 37 East Street,,51.33588,-0.26308,0.29,,,2017-11-17,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
-2017-12-19,local-authority-eng:EPS,186,Land to the rear of 29 East Street,,51.33567,-0.263418,0.5,,,2017-11-29,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
-2017-12-19,local-authority-eng:EPS,194,"Etwell House and former coach depot, Station Approach",,51.345142,-0.241938,0.19,,,2017-11-09,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
-2017-12-19,local-authority-eng:EPS,329,"King's Arms Public House, East Street",,51.338104,-0.25777,0.14,,,2017-11-13,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
-2017-12-19,local-authority-eng:EPS,570,"Sunnybank House, 39a East Street",,51.335995,-0.2623,0.1,,,2017-11-17,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2017-12-19,local-authority-eng:EPS,20,"Epsom Baptist Church, Church Street",,,,51.333297,-0.26289,0.23,,,2017-11-28,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+2017-12-19,local-authority-eng:EPS,21,"Rail Land, Mill Road",,yes,,51.336108,-0.256596,0.46,,,2017-11-08,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+2017-12-19,local-authority-eng:EPS,148,"The Epsom Club, Church Street",,,,51.332553,-0.261282,0.14,,,2017-11-30,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+2017-12-19,local-authority-eng:EPS,148,"United Reformed Church, Church Street",,,,51.332443,-0.261142,0.14,,,2017-11-15,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+2017-12-19,local-authority-eng:EPS,186,31 to 37 East Street,,,,51.33588,-0.26308,0.29,,,2017-11-17,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+2017-12-19,local-authority-eng:EPS,186,Land to the rear of 29 East Street,,,,51.33567,-0.263418,0.5,,,2017-11-29,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+2017-12-19,local-authority-eng:EPS,194,"Etwell House and former coach depot, Station Approach",,,,51.345142,-0.241938,0.19,,,2017-11-09,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+2017-12-19,local-authority-eng:EPS,329,"King's Arms Public House, East Street",,,,51.338104,-0.25777,0.14,,,2017-11-13,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+2017-12-19,local-authority-eng:EPS,570,"Sunnybank House, 39a East Street",,,,51.335995,-0.2623,0.1,,,2017-11-17,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f

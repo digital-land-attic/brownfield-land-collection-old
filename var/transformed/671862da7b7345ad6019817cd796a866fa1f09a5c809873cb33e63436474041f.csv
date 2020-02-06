@@ -1,24 +1,24 @@
-entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,,,"104-106 Denmark Street, Diss",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"The Bungalow, Station Road, Spooner Row, Wymondham, NR18 9JR",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"A140 Cars, Norwich Road, Swainsthorpe, Norfolk, NR14 8PU",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"Friarscroft Garage, 2 Friarscroft Lane, Wymondham",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"Former Haulage Depot, Park Road, Diss",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"Former Howard Rotavator Works, Mendham Lane, Harleston",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"Cooper's scrapyard, Church Road, Aslacton",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"Former Hamlin's Factory site, Diss",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"Former Sale Ground, Cemetery Rd, Wymondham",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"Feather Factory site, Diss",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"Maltings, Tudor Rose Way, Harleston",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"Long Lane, Framingham Earl",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"The Business Centre, Intwood Road, Cringleford",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"Cedar House, Church Road, Yelverton, Norfolk, NR14 7PB",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"High Oaks Works, Wicklewood",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"Cook's Garage, Carleton Rode",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,Costessey: North of the River Tud/Queen's Hills,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"Rackham's Builders Yard, Diss",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"Former workshop, Yarmouth Road, Hales",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"Roundwell Works, Costessey",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"Off Ipswich Road, Dickleburgh and Rushall",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"Apollo Club, Mendham Lane, Harleston",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
-,,,"May Gurney & Keir site & Carrow Yacht Club, Trowse",,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,,,"104-106 Denmark Street, Diss",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"The Bungalow, Station Road, Spooner Row, Wymondham, NR18 9JR",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"A140 Cars, Norwich Road, Swainsthorpe, Norfolk, NR14 8PU",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"Friarscroft Garage, 2 Friarscroft Lane, Wymondham",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"Former Haulage Depot, Park Road, Diss",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"Former Howard Rotavator Works, Mendham Lane, Harleston",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"Cooper's scrapyard, Church Road, Aslacton",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"Former Hamlin's Factory site, Diss",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"Former Sale Ground, Cemetery Rd, Wymondham",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"Feather Factory site, Diss",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"Maltings, Tudor Rose Way, Harleston",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"Long Lane, Framingham Earl",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"The Business Centre, Intwood Road, Cringleford",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"Cedar House, Church Road, Yelverton, Norfolk, NR14 7PB",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"High Oaks Works, Wicklewood",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"Cook's Garage, Carleton Rode",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,Costessey: North of the River Tud/Queen's Hills,,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"Rackham's Builders Yard, Diss",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"Former workshop, Yarmouth Road, Hales",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"Roundwell Works, Costessey",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"Off Ipswich Road, Dickleburgh and Rushall",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"Apollo Club, Mendham Lane, Harleston",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f
+,,,"May Gurney & Keir site & Carrow Yacht Club, Trowse",,,,,,,,,,,671862da7b7345ad6019817cd796a866fa1f09a5c809873cb33e63436474041f

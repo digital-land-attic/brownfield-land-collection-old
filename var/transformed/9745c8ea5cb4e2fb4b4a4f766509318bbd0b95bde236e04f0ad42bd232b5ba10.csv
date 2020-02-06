@@ -1,55 +1,55 @@
-entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2019-12-04,local-authority-eng:WYE,AS/3,Service Station Chester Road South,,52.380518,-2.239693,0.41,10,15,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,AS/6,Lea Street School Lea Street,,52.387165,-2.23826,0.47,24,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,AS/7,Former Polish Club St.Georges Terrace,,52.386663,-2.241989,0.11,8,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,AS/8,Adjacent 78 Cherry Orchard,,52.385613,-2.240838,0.06,5,7,2017-12-31,2019-09-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2018-12-31,local-authority-eng:WYE,AS/9,"Railway Corner, Stanklyn Lane",,52.361502,-2.233795,0.22,6,10,2018-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,BHS/7,93-94 New Road,,52.384978,-2.248122,0.06,8,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,BHS/8,site of British Heart Foundation Market Street,,52.385761,-2.247773,0.05,10,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,BHS/10,Frank Stone Building Green Street,,52.383399,-2.246467,0.32,16,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2019-12-04,local-authority-eng:WYE,BHS/15,37 Park Lane,,52.384863,-2.251309,0.05,7,7,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,BHS/16,Timber Yard Park Lane,,52.386496,-2.252964,2.1,55,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,BHS/17,Rock Works Park Lane,,52.387645,-2.253838,0.358,20,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2019-12-04,local-authority-eng:WYE,BHS/27/28,17-26 Vicar Street,,52.387493,-2.249267,0.2,16,16,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,BHS/31,Woodfield House Bewdley Road,,52.387137,-2.259771,0.31,9,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,BHS/33,Land at Mill Street,,52.389018,-2.254786,0.02,5,5,2017-12-31,2019-02-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,BHS/38,Kidderminster Fire Station Castle Road,,52.383364,-2.250023,0.38,40,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,BHS/39,Boucher Building Green Street,,52.383956,-2.246501,0.03,10,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,BHS/40,10-12 Bull Ring,,52.388491,-2.249699,0.02,6,6,2017-12-31,2019-07-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,BHS/41,Tower Buildings Blackwell Street,,52.389367,-2.247162,0.215,39,46,2017-12-31,2019-06-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2018-12-31,local-authority-eng:WYE,BHS/42,Rowland Hill Centre,,52.387319,-2.248257,0.321,50,70,2018-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2019-12-16,local-authority-eng:WYE,BW/1,Churchfields Business Park Clensmore Street,,52.392265,-2.250029,7.09,231,241,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,BW/2,Limekiln Bridge Clensmore Street,,52.391827,-2.252731,1.164,80,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2019-12-04,local-authority-eng:WYE,BW/3,Sladen School Hurcott Road,,52.394385,-2.241929,0.709,20,20,2017-12-31,2019-12-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,FPH/5,Ambulance Station Stourport Road,,52.374171,-2.261032,0.21,12,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,FPH/10,British Sugar phase 2 Silverwoods Way,,52.371913,-2.253219,2.86,58,70,2017-12-31,2019-07-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,FPH/15,Rifle Range Shops Severn Grove,,52.372964,-2.269911,0.586,12,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,FHN/9,Land at 78 Mill Street,,52.390003,-2.256393,0.2,13,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,FHN/11,BT building Mill Street,,52.390262,-2.257262,0.599,10,40,2017-12-31,2019-12-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2019-12-16,local-authority-eng:WYE,OC/11,Stourminster School Comberton Road,,52.378839,-2.225038,2.15,56,57,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,AKR/1,Former Lloyds Garage site Bridge Street,,52.338397,-2.281516,0.137,17,20,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,AKR/2,Cheapside Business Park Severn Road,,52.335917,-2.276951,2.21,72,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,AKR/7,Land rear of Swan Hotel Lickhill Road,,52.340585,-2.280091,1.018,20,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,AKR/8,Land adjacent Toll House Bridge Street,,52.336107,-2.284025,0.09,6,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,AKR/10,Shops and garages Queens Road,,52.329461,-2.285274,0.468,14,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,AKR/11,The Squirrel Inn Areley Common,,52.328005,-2.291985,0.19,7,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,AKR/18,Land off Yew Tree Walk,,52.342526,-2.291244,2.489,85,,2017-12-31,2019-06-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,AKR/20,Carpets of Worth site Severn Road,,52.337108,-2.275079,3.305,170,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,MI/1,County Buildings Worcester Street,,52.343271,-2.277202,0.67,40,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,MI/5,Land off Baldwin Road,,52.341764,-2.271601,0.8316,55,72,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2019-12-16,local-authority-eng:WYE,MI/6,Land off Steatite Way,,52.349385,-2.291554,3.31,106,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,MI/7,Car sales Worcester Road (southern parcel),,52.336949,-2.270235,0.293,15,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,MI/11,3 Sandy Lane Titton,,52.329375,-2.263805,0.32,13,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,MI/12,Robbins Depot Manor Road,,52.347633,-2.272355,0.19,12,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2018-12-31,local-authority-eng:WYE,MI/29,Former Chichester Caravans Vale Road,,52.342276,-2.275581,0.34,28,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,MI/34,106 Minster Road,,52.343914,-2.274961,0.15,,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2019-12-16,local-authority-eng:WYE,WFR/WC/15,Lea Castle Hospital Park Gate Road,,52.413115,-2.221934,48.66,600,600,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2019-12-16,local-authority-eng:WYE,WFR/WC/18,Sion Hill Middle School Sion Hill,,52.404258,-2.236853,2.1,56,56,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,WFR/BR/5,Yieldingtree Packers Hackman Gate,,52.398568,-2.155077,0.91,9,9,2017-12-31,2018-11-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,BR/BE/1,Bewdley Fire Station Load Street car park,,52.376796,-2.316207,0.186,15,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,BR/RO/1,Land at Clows Top,,52.343601,-2.418649,1.44,5,9,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,BR/RO/26,Bliss Gate Inn,,52.350318,-2.372321,0.158,6,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2017-12-31,local-authority-eng:WYE,WA/UA/1,Land at Bellmans Cross Shatterford,,52.428631,-2.310181,0.8,20,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2019-12-16,local-authority-eng:WYE,WFR/ST/1,"Land at Captains, Bromsgrove Road",,52.373918,-2.22231,2.6,116,135,2019-12-16,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-2019-12-18,local-authority-eng:WYE,WFR/WC/30,"Land at Wolverley Lodge, Lea Lane",,52.41876,-2.246621,1.754,2,4,2019-12-18,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-,,,,,,,,,,,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2019-12-04,local-authority-eng:WYE,AS/3,Service Station Chester Road South,,yes,,52.380518,-2.239693,0.41,10,15,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,AS/6,Lea Street School Lea Street,,yes,,52.387165,-2.23826,0.47,24,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,AS/7,Former Polish Club St.Georges Terrace,,yes,,52.386663,-2.241989,0.11,8,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,AS/8,Adjacent 78 Cherry Orchard,,yes,,52.385613,-2.240838,0.06,5,7,2017-12-31,2019-09-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2018-12-31,local-authority-eng:WYE,AS/9,"Railway Corner, Stanklyn Lane",,yes,,52.361502,-2.233795,0.22,6,10,2018-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,BHS/7,93-94 New Road,,yes,,52.384978,-2.248122,0.06,8,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,BHS/8,site of British Heart Foundation Market Street,,yes,,52.385761,-2.247773,0.05,10,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,BHS/10,Frank Stone Building Green Street,,yes,,52.383399,-2.246467,0.32,16,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2019-12-04,local-authority-eng:WYE,BHS/15,37 Park Lane,,yes,,52.384863,-2.251309,0.05,7,7,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,BHS/16,Timber Yard Park Lane,,yes,,52.386496,-2.252964,2.1,55,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,BHS/17,Rock Works Park Lane,,yes,,52.387645,-2.253838,0.358,20,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2019-12-04,local-authority-eng:WYE,BHS/27/28,17-26 Vicar Street,,yes,,52.387493,-2.249267,0.2,16,16,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,BHS/31,Woodfield House Bewdley Road,,yes,,52.387137,-2.259771,0.31,9,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,BHS/33,Land at Mill Street,,yes,,52.389018,-2.254786,0.02,5,5,2017-12-31,2019-02-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,BHS/38,Kidderminster Fire Station Castle Road,,yes,,52.383364,-2.250023,0.38,40,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,BHS/39,Boucher Building Green Street,,yes,,52.383956,-2.246501,0.03,10,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,BHS/40,10-12 Bull Ring,,yes,,52.388491,-2.249699,0.02,6,6,2017-12-31,2019-07-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,BHS/41,Tower Buildings Blackwell Street,,yes,,52.389367,-2.247162,0.215,39,46,2017-12-31,2019-06-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2018-12-31,local-authority-eng:WYE,BHS/42,Rowland Hill Centre,,yes,,52.387319,-2.248257,0.321,50,70,2018-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2019-12-16,local-authority-eng:WYE,BW/1,Churchfields Business Park Clensmore Street,,yes,,52.392265,-2.250029,7.09,231,241,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,BW/2,Limekiln Bridge Clensmore Street,,yes,,52.391827,-2.252731,1.164,80,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2019-12-04,local-authority-eng:WYE,BW/3,Sladen School Hurcott Road,,yes,,52.394385,-2.241929,0.709,20,20,2017-12-31,2019-12-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,FPH/5,Ambulance Station Stourport Road,,yes,,52.374171,-2.261032,0.21,12,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,FPH/10,British Sugar phase 2 Silverwoods Way,,yes,,52.371913,-2.253219,2.86,58,70,2017-12-31,2019-07-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,FPH/15,Rifle Range Shops Severn Grove,,yes,,52.372964,-2.269911,0.586,12,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,FHN/9,Land at 78 Mill Street,,yes,,52.390003,-2.256393,0.2,13,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,FHN/11,BT building Mill Street,,yes,,52.390262,-2.257262,0.599,10,40,2017-12-31,2019-12-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2019-12-16,local-authority-eng:WYE,OC/11,Stourminster School Comberton Road,,yes,,52.378839,-2.225038,2.15,56,57,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,AKR/1,Former Lloyds Garage site Bridge Street,,yes,,52.338397,-2.281516,0.137,17,20,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,AKR/2,Cheapside Business Park Severn Road,,yes,,52.335917,-2.276951,2.21,72,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,AKR/7,Land rear of Swan Hotel Lickhill Road,,yes,,52.340585,-2.280091,1.018,20,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,AKR/8,Land adjacent Toll House Bridge Street,,yes,,52.336107,-2.284025,0.09,6,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,AKR/10,Shops and garages Queens Road,,yes,,52.329461,-2.285274,0.468,14,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,AKR/11,The Squirrel Inn Areley Common,,yes,,52.328005,-2.291985,0.19,7,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,AKR/18,Land off Yew Tree Walk,,yes,,52.342526,-2.291244,2.489,85,,2017-12-31,2019-06-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,AKR/20,Carpets of Worth site Severn Road,,yes,,52.337108,-2.275079,3.305,170,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,MI/1,County Buildings Worcester Street,,yes,,52.343271,-2.277202,0.67,40,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,MI/5,Land off Baldwin Road,,yes,,52.341764,-2.271601,0.8316,55,72,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2019-12-16,local-authority-eng:WYE,MI/6,Land off Steatite Way,,yes,,52.349385,-2.291554,3.31,106,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,MI/7,Car sales Worcester Road (southern parcel),,yes,,52.336949,-2.270235,0.293,15,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,MI/11,3 Sandy Lane Titton,,yes,,52.329375,-2.263805,0.32,13,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,MI/12,Robbins Depot Manor Road,,yes,,52.347633,-2.272355,0.19,12,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2018-12-31,local-authority-eng:WYE,MI/29,Former Chichester Caravans Vale Road,,yes,,52.342276,-2.275581,0.34,28,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,MI/34,106 Minster Road,,yes,,52.343914,-2.274961,0.15,,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2019-12-16,local-authority-eng:WYE,WFR/WC/15,Lea Castle Hospital Park Gate Road,,yes,,52.413115,-2.221934,48.66,600,600,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2019-12-16,local-authority-eng:WYE,WFR/WC/18,Sion Hill Middle School Sion Hill,,yes,,52.404258,-2.236853,2.1,56,56,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,WFR/BR/5,Yieldingtree Packers Hackman Gate,,yes,,52.398568,-2.155077,0.91,9,9,2017-12-31,2018-11-01,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,BR/BE/1,Bewdley Fire Station Load Street car park,,yes,,52.376796,-2.316207,0.186,15,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,BR/RO/1,Land at Clows Top,,yes,,52.343601,-2.418649,1.44,5,9,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,BR/RO/26,Bliss Gate Inn,,yes,,52.350318,-2.372321,0.158,6,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2017-12-31,local-authority-eng:WYE,WA/UA/1,Land at Bellmans Cross Shatterford,,yes,,52.428631,-2.310181,0.8,20,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2019-12-16,local-authority-eng:WYE,WFR/ST/1,"Land at Captains, Bromsgrove Road",,yes,,52.373918,-2.22231,2.6,116,135,2019-12-16,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+2019-12-18,local-authority-eng:WYE,WFR/WC/30,"Land at Wolverley Lodge, Lea Lane",,yes,,52.41876,-2.246621,1.754,2,4,2019-12-18,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+,,,,,,,,,,,,,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10

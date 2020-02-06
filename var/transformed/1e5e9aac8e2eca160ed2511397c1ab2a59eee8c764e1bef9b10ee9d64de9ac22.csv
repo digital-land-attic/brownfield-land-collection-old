@@ -1,26 +1,26 @@
-entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2018-12-01,local-authority-eng:SHO,BLR/SPA/001,"Former Network Rail Depot, Kings Road, Spalding",,52.791491,-0.153864,1.29,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/SPA/005,"Land immediately adjact to Spalding Library, Victoria Street, Spalding",,52.787091,-0.154791,0.14,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/SPA/006,"The Robin Hood Inn, 1 Bourne Road, Spalding",,52.784219,-0.167888,0.03,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/SPA/007,"Banbury Close, Spalding",,52.795519,-0.148101,0.35,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/SPA/009,"Land off Willow Walk (Former Laws Yard), Spalding",,52.790378,-0.143589,0.52,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/SPA/010,"Former Glen Farrow premises, land off Spalding Road, Pinchbeck",,52.805238,-0.153326,0.37,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/SPA/011,"Spalding Lifestyle, Spalding Road, Pinchbeck",,52.802831,-0.151173,1.68,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/SPA/012,"36 Holbeach Road, Spalding",,52.795735,-0.138332,0.05,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/CRO/003,"Land to the east of Crease Drove, Crowland",,52.670499,-0.171081,1.54,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/DON/001,"Former Red Cow Hotel, 8 High Street, Donington",,52.905614,-0.20341,0.33,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/DON/002,"Land off Park Lane, Donington",,52.905029,-0.207568,0.12,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/HOB/005,"The Bell Inn, 21 High Street, Holbeach",,52.803971,0.015182,0.02,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/LOS/001,"The Bull Hotel, Market Place, Long Sutton",,52.787512,-0.012718,0.64,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/PIN/001,"Land to the west of Bear Lane, Pinchbeck",,52.816967,-0.16056,0.26,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/PIN/002,"Former Dairy Depot, Pennyfield, Pinchbeck",,52.809218,-0.165294,0.44,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/PIN/003,"Birchgrove Garden Centre, Surfleet Road, Pinchbeck",,52.824244,-0.151511,2.44,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/PIN/004,"Land to the north of Market Way, Pinchbeck",,52.807941,-0.161223,1.32,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/SUB/001,"Land to the south of Bridge Road, Sutton Bridge",,52.769744,0.184229,0.24,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/COW/001,"Paul Cott Transport, Barrier Bank, Cowbit",,52.746642,-0.140989,0.24,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/COW/002,"Land to the west of Mill Drove, Cowbit",,52.746298,-0.126588,0.65,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/MOU/001,"Former Gardman Premises, High Street, Moulton",,52.79713,-0.061511,2.58,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/QUA/001,"Land south of Main Road, Quadring",,52.883105,-0.185332,0.64,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/SUR/001,"3-11 Park Lane, Surfleet",,52.835803,-0.1433,0.19,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/SUJ/001,"Land to the south of Chapel Gate, Sutton St James",,52.744046,0.067426,0.53,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
-2018-12-01,local-authority-eng:SHO,BLR/WHA/002,"The Sycamores Farm, Church Gate, Whaplode",,52.79708,-0.036579,0.67,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2018-12-01,local-authority-eng:SHO,BLR/SPA/001,"Former Network Rail Depot, Kings Road, Spalding",,yes,,52.791491,-0.153864,1.29,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/SPA/005,"Land immediately adjact to Spalding Library, Victoria Street, Spalding",,yes,,52.787091,-0.154791,0.14,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/SPA/006,"The Robin Hood Inn, 1 Bourne Road, Spalding",,yes,,52.784219,-0.167888,0.03,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/SPA/007,"Banbury Close, Spalding",,yes,,52.795519,-0.148101,0.35,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/SPA/009,"Land off Willow Walk (Former Laws Yard), Spalding",,yes,,52.790378,-0.143589,0.52,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/SPA/010,"Former Glen Farrow premises, land off Spalding Road, Pinchbeck",,yes,,52.805238,-0.153326,0.37,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/SPA/011,"Spalding Lifestyle, Spalding Road, Pinchbeck",,yes,,52.802831,-0.151173,1.68,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/SPA/012,"36 Holbeach Road, Spalding",,yes,,52.795735,-0.138332,0.05,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/CRO/003,"Land to the east of Crease Drove, Crowland",,yes,,52.670499,-0.171081,1.54,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/DON/001,"Former Red Cow Hotel, 8 High Street, Donington",,yes,,52.905614,-0.20341,0.33,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/DON/002,"Land off Park Lane, Donington",,yes,,52.905029,-0.207568,0.12,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/HOB/005,"The Bell Inn, 21 High Street, Holbeach",,yes,,52.803971,0.015182,0.02,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/LOS/001,"The Bull Hotel, Market Place, Long Sutton",,yes,,52.787512,-0.012718,0.64,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/PIN/001,"Land to the west of Bear Lane, Pinchbeck",,yes,,52.816967,-0.16056,0.26,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/PIN/002,"Former Dairy Depot, Pennyfield, Pinchbeck",,yes,,52.809218,-0.165294,0.44,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/PIN/003,"Birchgrove Garden Centre, Surfleet Road, Pinchbeck",,yes,,52.824244,-0.151511,2.44,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/PIN/004,"Land to the north of Market Way, Pinchbeck",,yes,,52.807941,-0.161223,1.32,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/SUB/001,"Land to the south of Bridge Road, Sutton Bridge",,yes,,52.769744,0.184229,0.24,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/COW/001,"Paul Cott Transport, Barrier Bank, Cowbit",,yes,,52.746642,-0.140989,0.24,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/COW/002,"Land to the west of Mill Drove, Cowbit",,yes,,52.746298,-0.126588,0.65,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/MOU/001,"Former Gardman Premises, High Street, Moulton",,yes,,52.79713,-0.061511,2.58,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/QUA/001,"Land south of Main Road, Quadring",,yes,,52.883105,-0.185332,0.64,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/SUR/001,"3-11 Park Lane, Surfleet",,yes,,52.835803,-0.1433,0.19,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/SUJ/001,"Land to the south of Chapel Gate, Sutton St James",,yes,,52.744046,0.067426,0.53,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22
+2018-12-01,local-authority-eng:SHO,BLR/WHA/002,"The Sycamores Farm, Church Gate, Whaplode",,yes,,52.79708,-0.036579,0.67,,,2017-11-22,,1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22

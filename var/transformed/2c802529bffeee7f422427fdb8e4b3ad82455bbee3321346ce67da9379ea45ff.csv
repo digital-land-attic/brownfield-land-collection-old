@@ -1,401 +1,401 @@
-entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:HEF,101020,"Former Methodist Chapel, Almley, Woonton, Herefordshire, HR3 6PY",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=101020,52.167023,-2.975626,0.08,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,162384,"Uphampton Farm, Belgate Lane, Uphampton Shobdon, Leominster, Herefordshire, HR6 9PA",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162384,52.269537,-2.876817,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161067,"Land at Bush House, Bush Bank, Herefordshire, HR4 8PQ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161067,52.15737,-2.800951,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,151090,"Land at The Walled Garden, Bodenham Manor, Bodenham, Hereford, Herefordshire, HR1 3JS",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151090,52.158296,-2.691581,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,162438,"Land at Wynmoor, Bodenham, Hereford, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162438,52.153532,-2.667887,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,162506,"Bodenham Manor, Bodenham, Hereford, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162506,52.158296,-2.691581,0.34,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,162618,"The Forge, Bodenham, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162618,52.1564,-2.682065,0.44,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,164128,"The Annexe, The Croft, Swinmore, Munsley, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164128,52.073256,-2.472509,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,152897,"Land at Ash Ingen Place, Bridstow, Ross-on-Wye, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152897,51.93219,-2.611464,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,153594,"Orles Barn Hotel, Old Nursery Close, Ross-on-Wye, Herefordshire, HR9 6AE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153594,51.914962,-2.599512,0.23,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,160361,"Site at The Beech, Haynall Lane, Little Hereford, herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160361,52.306165,-2.677149,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161877,"52 New Road, Bromyard, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161877,52.187921,-2.511565,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,162480,"Site at Old Grammar School, Church Street, Bromyard, Herefordshire, HR7 4DP",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162480,52.190621,-2.504648,0.09,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,162820,"Flats at 38 High Street, Bromyard, Herefordshire, HR7 4AE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162820,52.189602,-2.50743,0.05,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,153810,"Tillington Fruit Farm, Tillington, Hereford, Herefordshire, HR4 8LD",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153810,52.098761,-2.779302,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,160600,"Coach House at Fruit Farm Tillington Estate, Crowmoor Lane, Tillington, Herefordshire, HR4 8LD",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160600,52.099351,-2.779809,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,174386,"Tillington Fruit Farm, Tillington, Hereford, Herefordshire, HR4 8LD",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=174386,52.098761,-2.779302,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,160340,"Stables at The Backwoods, Westhope, Hereford, Herefordshire, HR4 8BU",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160340,52.155506,-2.775776,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,162311,"Site adjacent to Summerlease, Westhope Hill, Westhope, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162311,52.154302,-2.785271,0.39,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,142860,"Part OS 1330, The Garlands, Priory Wood, Clifford, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=142860,52.10108,-3.079274,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,160200,"Site adjacent to Oakdene, Clifford, Whitney on Wye, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160200,52.105853,-3.100722,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,170353,"Land at The Garlands, Priory Wood, Clifford, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=170353,52.101081,-3.079187,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,163936,"Flats at Queenswood, Cradley, Malvern, WR13 5NF",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163936,52.124764,-2.385894,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,30719,"Crown Inn, Cradley, Malvern, Herefordshire, WR13 5LS",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=30719,52.119289,-2.40062,0.32,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161944,"Land to the rear of Butterfields, Bosbury Road, Cradley, Worcestershire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161944,52.117149,-2.402098,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,163491,"Woodavens, Dormington, Herefordshire, HR1 4ES",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163491,52.058142,-2.60977,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,143678,"Site adjacent to Cooper's Hall, Chapel Lane, Dorstone, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143678,52.068887,-2.999323,0.14,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,163056,"Land adjacent to The Chapel, Chapel Lane, Dorstone, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163056,52.068689,-3.000354,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,164098,"Church of St Michael and All Angels, Dulas, Herefordshire, HR2 0HL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164098,51.959661,-2.915683,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,143624,"The Surgery, Eardisley, Hereford, Herefordshire, HR3 6NS",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143624,52.135893,-3.005015,0.07,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161674,"Land to the rear of the Laurels Veterinary Practice, Pontrilas Road, Ewyas Harold, Herefordshire, HR2 0EL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161674,51.944173,-2.885936,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,152955,"New Inn, Fownhope, Hereford, HR1 4PE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152955,52.006652,-2.61481,0.22,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,152359,"Former Activity Barn, Hole-in-the-wall, Foy, Ross-on-Wye, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152359,51.95332,-2.56999,0.85,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,170132,"Land adjacent to Gas Works, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=170132,51.875878,-2.623759,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,153500,"6a Graftonbury Mews, Grafton Lane, Hereford, Herefordshire, HR2 8BN",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153500,52.029529,-2.734982,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,164079,"Lower House Farm, Netherwood Lane, Hereford, HR1 1UT",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164079,52.060467,-2.679436,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,162033,"Cobnash House, Hostel Lane, Cobnash, Kingsland, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162033,52.238088,-2.807456,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,163290,"Land at The Garden House, Orchard Close, Kingsland, Leominster, Herefordshire, HR6 9QS",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163290,52.248225,-2.809413,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,162468,"Brookfield Lodge, Thruxton, Hereford, Herefordshire, HR2 9BB",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162468,52.008984,-2.828486,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,113545,"Land behind 43 Duke Street, Kington, Herefordshire, HR5 3BL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=113545,52.204298,-3.028596,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,141330,"Kingswood Hall, Kingswood Road, Kington, Hereford, HR5 3HE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=141330,52.195935,-3.028783,0.23,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161093,"Land to the rear of Owls Rest, Lower Cross Lane, Kington, Herefordshire, HR5 3BG",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161093,52.204329,-3.029182,0.06,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,162420,"Old Bakery, 12 Church Street, Kington, Herefordshire, HR5 3AZ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162420,52.20391,-3.031865,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,163478,"The Oaklands, Kingswood, Kington, Herefordshire, HR5 3HF",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163478,52.185132,-3.03241,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,160663,"Land at The Old Carpenters Shop, Kinnersley, Hereford, Herefordshire, HR3 6QB",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160663,52.137426,-2.967893,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,163836,"The Sign Shop at Little Heath, Heath Road, Leysters, Herefordshire, HR6 0HT",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163836,52.258313,-2.650913,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,143537,"Tinsmiths, Rear of 8A High Street, Ledbury, Herefordshire, HR8 1DS",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143537,52.036687,-2.421435,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,151075,"Land at 1 Bridge Street, Ledbury, Herefordshire, HR8 2AJ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151075,52.036452,-2.426943,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,162063,"4 High Street, Ledbury, Herefordshire, HR8 1DS",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162063,52.036883,-2.422122,0.04,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,163055,"4 The Southend, Ledbury, Herefordshire, HR8 2EY",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163055,52.035551,-2.422444,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,150996,"Land at rear of 48 Watling Street, Leintwardine, Craven Arms, Shropshire, SY 7 0LL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150996,52.363212,-2.875131,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,100122,"Barons Cross Camp, Cholstrey Road, Leominster, HR6 8RT",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=100122,52.224758,-2.770761,1.39,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,141006,"Land off Ebnal Close, Leominster, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=141006,52.224058,-2.760838,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,141022,"Land at, Pinsley Road, Leominster, Herefordshire, HR6 8NN",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=141022,52.227692,-2.732116,0.45,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,160226,"Land adjacent 87 Bridge Street, Leominster, Herefordshire, HR6 8EA",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160226,52.233368,-2.743133,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161456,"26 High Street, Morris Mews, Leominster",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161456,52.227225,-2.739312,0.04,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161937,"Site at The Birdcage, Barons Cross Road, Leominster, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161937,52.223014,-2.762343,0.04,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,153016,"East View, Bromsash, Ross-On-Wye, Herefordshire, HR9 7PN",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153016,51.913726,-2.510652,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,163753,"Land at The Three Horseshoes Inn, Little Cowarne, Hereford, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163753,52.154337,-2.580492,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161338,"Tredunnock Farm, Llangarron, Ross-on-Wye, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161338,51.885067,-2.698755,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,163814,"Building adjacent The Old Vicarage, Lucton, Leominster, Herefordshire, HR6 9PN",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163814,52.278437,-2.824489,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,132123,"Chapel adjacent to The Cottage, New Street, Lyonshall, Herefordshire, HR5 3HT",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=132123,52.204766,-2.972356,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161501,"Penrhos Court, Lyonshall, Kington, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161501,52.198938,-3.000526,0.38,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,152247,"Llanrosser Methodist Church, Michaelchurch Escley, Hereford, Herefordshire, HR2 0PU",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152247,52.033201,-3.0379,0.08,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,143339,"Former village hall and rifle club, Kingsthorne, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143339,51.900149,-2.785089,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,153552,"Land adjacent Rangers Lodge, Little Birch Road, Kingsthorne, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153552,51.982314,-2.724045,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,160819,"Land to the rear of Post Office and Shop, Wormelow, Hereford",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160819,51.966818,-2.740622,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,150405,"Fir Tree Inn, Much Cowarne, Herefordshire, HR7 4JN",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150405,52.117924,-2.510705,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,143737,"Land at Park House, Wormelow, Hereford, Herefordshire, HR2 8EQ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143737,51.967957,-2.745327,0.08,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,151492,"Land to the rear of Myrtle Cottage, Much Dewchurch, Herefordshire, HR2 8DL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151492,51.977279,-2.755397,0.12,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,163531,"The Castle, Ashperton, Ledbury",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163531,52.063427,-2.511921,0.03,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,162150,"Norton House School, Norton Canon, Herefordshire, HR4 7BH",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162150,52.128137,-2.907023,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,160258,"Burley Gate House, Burley Gate, Hereford, Herefordshire, HR1 3QR",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160258,52.122362,-2.590417,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,160489,"The Cave, Orcop Hill, Orcop, Herefordshire, HR2 8SF",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160489,51.947965,-2.761568,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161033,"Workshop at Orchard Farm, Orleton, Herefordshire, SY8 4HE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161033,52.305445,-2.743122,0.14,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,151944,"Former Doctors Surgery, East Street, Pembridge, Herefordshire, HR6 9HA",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151944,52.218774,-2.890308,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,152982,"Coach House at Wellbrook, Peterchurch, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152982,52.04114,-2.947207,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,143204,"Mason's Potatoes, The Packhouse, Dadnor, Ross-on-Wye, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143204,51.931659,-2.635324,0.7,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,152872,"White House, Preston Wynne, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152872,52.119052,-2.650532,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,150419,"High Bank, Richards Castle, Ludlow, Herefordshire, SY8 4EL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150419,52.321817,-2.743045,0.44,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,142121,"Watsons Car Park Site, Church Street, Ross-on-Wye, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=142121,51.913679,-2.584637,0.16,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,160868,"Workshop Adjacent to Quyfields, Shobdon, Leominster, Herefordshire, HR6 9NX",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160868,52.255202,-2.860214,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,152414,"Oakfields, Stoke Lacy, Bromyard, Herefordshire, HR7 4HE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152414,52.14987,-2.54831,0.06,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,153149,"The Forge, Tarrington, Herefordshire, HR1 4HX",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153149,52.064116,-2.559905,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,160774,"Site of former Myrtle Cottage, Vowchurch, Herefordshire, HR2 0RL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160774,52.030315,-2.923423,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,153570,"Stable Block At Arthurs Dingle, Leys Hill, Walford, Ross-On-Wye, Herefordshire, HR9 5QU",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153570,51.865923,-2.601648,4.82,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161689,"Land at Cats, Leys Hill Road, Walford, Ross-on-Wye, Herefordshire, HR9 5QU",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161689,51.866417,-2.601727,1.46,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,170294,"Kiln Rise, Howle Hill, Ross-On-Wye, Herefordshire, HR9 5SH",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=170294,51.880479,-2.578366,0.26,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,160358,"Welsh Newton Garage, Welsh Newton, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160358,51.860061,-2.730285,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,143436,"Land adjoining Porch Cottages, Weston Under Penyard, Ross-on-Wye, Herefordshire, HR9 7PG",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143436,51.914477,-2.530084,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,160282,"Land at Wigmore Hall, Wigmore, Leominster, Herefordshire, HR6 9UL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160282,52.313264,-2.858846,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,140905,"St Andrews Church, Wolferlow, Bromyard, Herefordshire, HR7 4QA",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=140905,52.252748,-2.486719,0.12,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161056,"Workshop opposite Terrace Hall, Woolhope, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161056,52.012323,-2.579919,0.02,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,123177,"Land East of 20 Belmont Avenue, Hereford, Herefordshire, HR2 7JQ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=123177,52.048881,-2.722729,0.29,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,142197,"Land at Bridge Inn, College Road, Hereford, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=142197,52.071668,-2.708741,0.29,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,143495,"11-13 Maylord Street, Hereford, Herefordshire, HR1 2DS",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143495,52.057491,-2.715809,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,143799,"Land off Grosvenor Place, Hereford",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143799,52.072666,-2.743613,0.07,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,150244,"30 Union Street, Hereford, Herefordshire, HR1 2BT",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150244,52.056655,-2.712864,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,150630,"Land off Catherine Street, Hereford",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150630,52.058741,-2.714283,0.07,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,151031,"8 Cotterell Street, Hereford, HR4 0HQ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151031,52.058476,-2.731125,0.02,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,151077,"Chandos Street Methodist Church, Chandos Street, Hereford, Herefordshire, HR4 0EX",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151077,52.057127,-2.731161,0.04,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,151352,"85 Aylestone Hil, Hereford, Herefordshire, HR1 1HX",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151352,52.066507,-2.698185,0.04,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,152246,"1 St Martins Street, Hereford, Herefordshire, HR2 7RD",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152246,52.052036,-2.718478,0.03,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,152422,"Outbuilding at Mavis Holt, 35 Hampton Park Road, Hereford, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152422,52.049763,-2.691056,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,153057,"Land at 114 Eign Road, Hereford, Herefordshire, HR1 2RX",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153057,52.050704,-2.700797,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,153254,"82 Widemarsh Street, Hereford",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153254,52.059016,-2.714958,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,153506,"20 Broad Street, Hereford, HR4 9AP",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153506,52.054976,-2.716936,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,160076,"92-94 Widemarsh Street, Hereford, HR4 9HG",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160076,52.059268,-2.714875,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,160322,"Land at 82-84, Church Road, Hereford, HR1 1RS",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160322,52.056384,-2.688839,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,160687,"12 Kyrle Street, Hereford, HR1 2ET",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160687,52.057259,-2.709563,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161205,"Lyndale Care Home, 24 Southbank Close, Hereford, Herefordshire, HR1 2TQ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161205,52.05768,-2.70394,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161356,"Land at 40 Newtown Road, Hereford, HR4 9LL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161356,52.064217,-2.715771,0.07,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161414,"Plot adjacent to 83 Broomy Hill, Hereford",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161414,52.050279,-2.737903,0.26,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,163176,"Land at 36 Holme Lacy Road, Hereford, HR2 6BY",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163176,52.043051,-2.717547,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,163301,"Second Floor Flat, 24 Eign Gate, Hereford, HR4 0AB",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163301,52.056564,-2.718901,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,163501,"The Moorfield Inn, Moorfield Street, Hereford",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163501,52.059188,-2.720737,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,163555,"37 Whitecross Road, Hereford, HR4 0DE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163555,52.057863,-2.727002,0.03,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,163719,"129-131 Eign Street, Hereford, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163719,52.056649,-2.721221,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,163751,"Flats at 15-17 Eign Gate, Hereford, HR4 0AB",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163751,52.056317,-2.718212,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,164042,"18-20 Commercial Street, Hereford, HR1 2DE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164042,52.057334,-2.713619,0.03,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,164105,"12A Bridge Street, Hereford, HR4 9DF",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164105,52.053572,-2.718576,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,164135,"The Cotterell Arms, 65-67 Cotterell Street, Hereford",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164135,52.058916,-2.73421,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,164111,"52 Broomy Hill, Hereford, HR4 0LH",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164111,52.052603,-2.731452,0.2,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,170350,"Land at 98 Kings Acre Road, Hereford, HR4 0RG",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=170350,52.065572,-2.749315,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,130784,"First floor, 27 Gloucester Road, Ross-on-Wye, Herefordshire, HR9 5LE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=130784,51.913653,-2.580827,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,131206,"Land rear of The Kings Head, High Street, Ross-on-Wye, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=131206,51.914629,-2.585289,0.1,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,150055,"46 Broad Street, Ross-on-Wye, Herefordshire, HR9 7DY",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150055,51.915047,-2.582546,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,150234,"Rosswyn Hotel, 16-19 High Street, Ross-On-Wye, Herefordshire, HR9 5BZ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150234,51.913524,-2.583123,0.14,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,152308,"Site adjacent to Thrushes Nest, Rope Walk, Ross-On-Wye, Herefordshire, HR9 7BU",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152308,51.916812,-2.585651,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,153001,"Land adjacent to Chase View Veterinary Clinic, Hildersley, Ross on Wye, Herefordshire, HR9 7NJ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153001,51.913022,-2.56442,0.58,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,153155,"39 High Street, Ross-on-Wye, Herefordshire, HR9 5HD",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153155,51.914165,-2.58441,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,153797,"12 Gloucester Road, Ross-On-Wye, Herefordshire, HR9 5BU",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153797,51.913988,-2.582155,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161429,"Land at Twigworth, Camp Road, Ross-on-Wye, Herefordshire, HR9 5NJ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161429,51.912288,-2.574951,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161967,"5-6 High Street, Ross-on-Wye, Herefordshire, HR9 5HL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161967,51.914511,-2.585433,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,162035,"12 Brookend Street, Ross-On-Wye, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162035,51.916768,-2.581754,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,160948,"Outbuildings at Laurel Cottage, Hope under Dinmore, Leominster, Herefordshire, HR6 0PX",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160948,52.158048,-2.72685,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,150173,"T J Crump Oakwrights Ltd, The Lakes, Swainshill, Herefordshire, HR4 7PU",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150173,52.073125,-2.789156,1.21,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,152524,"Travellers Rest Inn, Stretton Sugwas, Hereford, Herefordshire, HR4 7AL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152524,52.077932,-2.781537,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,local-authority-eng:HEF,161262,"Khotla, Wellington, Hereford, Herefordshire, HR4 8AT",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161262,52.12917,-2.74261,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
-,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,local-authority-eng:HEF,101020,"Former Methodist Chapel, Almley, Woonton, Herefordshire, HR3 6PY",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=101020,,,52.167023,-2.975626,0.08,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,162384,"Uphampton Farm, Belgate Lane, Uphampton Shobdon, Leominster, Herefordshire, HR6 9PA",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162384,,,52.269537,-2.876817,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161067,"Land at Bush House, Bush Bank, Herefordshire, HR4 8PQ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161067,,,52.15737,-2.800951,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,151090,"Land at The Walled Garden, Bodenham Manor, Bodenham, Hereford, Herefordshire, HR1 3JS",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151090,,,52.158296,-2.691581,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,162438,"Land at Wynmoor, Bodenham, Hereford, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162438,,,52.153532,-2.667887,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,162506,"Bodenham Manor, Bodenham, Hereford, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162506,,,52.158296,-2.691581,0.34,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,162618,"The Forge, Bodenham, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162618,,,52.1564,-2.682065,0.44,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,164128,"The Annexe, The Croft, Swinmore, Munsley, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164128,,,52.073256,-2.472509,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,152897,"Land at Ash Ingen Place, Bridstow, Ross-on-Wye, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152897,,,51.93219,-2.611464,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,153594,"Orles Barn Hotel, Old Nursery Close, Ross-on-Wye, Herefordshire, HR9 6AE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153594,,,51.914962,-2.599512,0.23,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,160361,"Site at The Beech, Haynall Lane, Little Hereford, herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160361,,,52.306165,-2.677149,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161877,"52 New Road, Bromyard, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161877,,,52.187921,-2.511565,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,162480,"Site at Old Grammar School, Church Street, Bromyard, Herefordshire, HR7 4DP",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162480,,,52.190621,-2.504648,0.09,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,162820,"Flats at 38 High Street, Bromyard, Herefordshire, HR7 4AE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162820,,,52.189602,-2.50743,0.05,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,153810,"Tillington Fruit Farm, Tillington, Hereford, Herefordshire, HR4 8LD",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153810,,,52.098761,-2.779302,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,160600,"Coach House at Fruit Farm Tillington Estate, Crowmoor Lane, Tillington, Herefordshire, HR4 8LD",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160600,,,52.099351,-2.779809,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,174386,"Tillington Fruit Farm, Tillington, Hereford, Herefordshire, HR4 8LD",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=174386,,,52.098761,-2.779302,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,160340,"Stables at The Backwoods, Westhope, Hereford, Herefordshire, HR4 8BU",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160340,,,52.155506,-2.775776,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,162311,"Site adjacent to Summerlease, Westhope Hill, Westhope, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162311,,,52.154302,-2.785271,0.39,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,142860,"Part OS 1330, The Garlands, Priory Wood, Clifford, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=142860,,,52.10108,-3.079274,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,160200,"Site adjacent to Oakdene, Clifford, Whitney on Wye, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160200,,,52.105853,-3.100722,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,170353,"Land at The Garlands, Priory Wood, Clifford, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=170353,,,52.101081,-3.079187,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,163936,"Flats at Queenswood, Cradley, Malvern, WR13 5NF",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163936,,,52.124764,-2.385894,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,30719,"Crown Inn, Cradley, Malvern, Herefordshire, WR13 5LS",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=30719,,,52.119289,-2.40062,0.32,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161944,"Land to the rear of Butterfields, Bosbury Road, Cradley, Worcestershire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161944,,,52.117149,-2.402098,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,163491,"Woodavens, Dormington, Herefordshire, HR1 4ES",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163491,,,52.058142,-2.60977,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,143678,"Site adjacent to Cooper's Hall, Chapel Lane, Dorstone, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143678,,,52.068887,-2.999323,0.14,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,163056,"Land adjacent to The Chapel, Chapel Lane, Dorstone, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163056,,,52.068689,-3.000354,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,164098,"Church of St Michael and All Angels, Dulas, Herefordshire, HR2 0HL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164098,,,51.959661,-2.915683,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,143624,"The Surgery, Eardisley, Hereford, Herefordshire, HR3 6NS",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143624,,,52.135893,-3.005015,0.07,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161674,"Land to the rear of the Laurels Veterinary Practice, Pontrilas Road, Ewyas Harold, Herefordshire, HR2 0EL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161674,,,51.944173,-2.885936,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,152955,"New Inn, Fownhope, Hereford, HR1 4PE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152955,,,52.006652,-2.61481,0.22,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,152359,"Former Activity Barn, Hole-in-the-wall, Foy, Ross-on-Wye, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152359,,,51.95332,-2.56999,0.85,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,170132,"Land adjacent to Gas Works, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=170132,,,51.875878,-2.623759,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,153500,"6a Graftonbury Mews, Grafton Lane, Hereford, Herefordshire, HR2 8BN",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153500,,,52.029529,-2.734982,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,164079,"Lower House Farm, Netherwood Lane, Hereford, HR1 1UT",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164079,,,52.060467,-2.679436,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,162033,"Cobnash House, Hostel Lane, Cobnash, Kingsland, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162033,,,52.238088,-2.807456,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,163290,"Land at The Garden House, Orchard Close, Kingsland, Leominster, Herefordshire, HR6 9QS",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163290,,,52.248225,-2.809413,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,162468,"Brookfield Lodge, Thruxton, Hereford, Herefordshire, HR2 9BB",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162468,,,52.008984,-2.828486,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,113545,"Land behind 43 Duke Street, Kington, Herefordshire, HR5 3BL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=113545,,,52.204298,-3.028596,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,141330,"Kingswood Hall, Kingswood Road, Kington, Hereford, HR5 3HE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=141330,,,52.195935,-3.028783,0.23,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161093,"Land to the rear of Owls Rest, Lower Cross Lane, Kington, Herefordshire, HR5 3BG",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161093,,,52.204329,-3.029182,0.06,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,162420,"Old Bakery, 12 Church Street, Kington, Herefordshire, HR5 3AZ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162420,,,52.20391,-3.031865,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,163478,"The Oaklands, Kingswood, Kington, Herefordshire, HR5 3HF",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163478,,,52.185132,-3.03241,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,160663,"Land at The Old Carpenters Shop, Kinnersley, Hereford, Herefordshire, HR3 6QB",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160663,,,52.137426,-2.967893,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,163836,"The Sign Shop at Little Heath, Heath Road, Leysters, Herefordshire, HR6 0HT",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163836,,,52.258313,-2.650913,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,143537,"Tinsmiths, Rear of 8A High Street, Ledbury, Herefordshire, HR8 1DS",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143537,,,52.036687,-2.421435,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,151075,"Land at 1 Bridge Street, Ledbury, Herefordshire, HR8 2AJ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151075,,,52.036452,-2.426943,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,162063,"4 High Street, Ledbury, Herefordshire, HR8 1DS",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162063,,,52.036883,-2.422122,0.04,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,163055,"4 The Southend, Ledbury, Herefordshire, HR8 2EY",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163055,,,52.035551,-2.422444,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,150996,"Land at rear of 48 Watling Street, Leintwardine, Craven Arms, Shropshire, SY 7 0LL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150996,,,52.363212,-2.875131,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,100122,"Barons Cross Camp, Cholstrey Road, Leominster, HR6 8RT",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=100122,,,52.224758,-2.770761,1.39,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,141006,"Land off Ebnal Close, Leominster, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=141006,,,52.224058,-2.760838,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,141022,"Land at, Pinsley Road, Leominster, Herefordshire, HR6 8NN",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=141022,,,52.227692,-2.732116,0.45,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,160226,"Land adjacent 87 Bridge Street, Leominster, Herefordshire, HR6 8EA",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160226,,,52.233368,-2.743133,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161456,"26 High Street, Morris Mews, Leominster",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161456,,,52.227225,-2.739312,0.04,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161937,"Site at The Birdcage, Barons Cross Road, Leominster, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161937,,,52.223014,-2.762343,0.04,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,153016,"East View, Bromsash, Ross-On-Wye, Herefordshire, HR9 7PN",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153016,,,51.913726,-2.510652,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,163753,"Land at The Three Horseshoes Inn, Little Cowarne, Hereford, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163753,,,52.154337,-2.580492,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161338,"Tredunnock Farm, Llangarron, Ross-on-Wye, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161338,,,51.885067,-2.698755,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,163814,"Building adjacent The Old Vicarage, Lucton, Leominster, Herefordshire, HR6 9PN",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163814,,,52.278437,-2.824489,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,132123,"Chapel adjacent to The Cottage, New Street, Lyonshall, Herefordshire, HR5 3HT",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=132123,,,52.204766,-2.972356,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161501,"Penrhos Court, Lyonshall, Kington, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161501,,,52.198938,-3.000526,0.38,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,152247,"Llanrosser Methodist Church, Michaelchurch Escley, Hereford, Herefordshire, HR2 0PU",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152247,,,52.033201,-3.0379,0.08,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,143339,"Former village hall and rifle club, Kingsthorne, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143339,,,51.900149,-2.785089,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,153552,"Land adjacent Rangers Lodge, Little Birch Road, Kingsthorne, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153552,,,51.982314,-2.724045,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,160819,"Land to the rear of Post Office and Shop, Wormelow, Hereford",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160819,,,51.966818,-2.740622,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,150405,"Fir Tree Inn, Much Cowarne, Herefordshire, HR7 4JN",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150405,,,52.117924,-2.510705,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,143737,"Land at Park House, Wormelow, Hereford, Herefordshire, HR2 8EQ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143737,,,51.967957,-2.745327,0.08,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,151492,"Land to the rear of Myrtle Cottage, Much Dewchurch, Herefordshire, HR2 8DL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151492,,,51.977279,-2.755397,0.12,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,163531,"The Castle, Ashperton, Ledbury",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163531,,,52.063427,-2.511921,0.03,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,162150,"Norton House School, Norton Canon, Herefordshire, HR4 7BH",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162150,,,52.128137,-2.907023,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,160258,"Burley Gate House, Burley Gate, Hereford, Herefordshire, HR1 3QR",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160258,,,52.122362,-2.590417,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,160489,"The Cave, Orcop Hill, Orcop, Herefordshire, HR2 8SF",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160489,,,51.947965,-2.761568,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161033,"Workshop at Orchard Farm, Orleton, Herefordshire, SY8 4HE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161033,,,52.305445,-2.743122,0.14,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,151944,"Former Doctors Surgery, East Street, Pembridge, Herefordshire, HR6 9HA",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151944,,,52.218774,-2.890308,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,152982,"Coach House at Wellbrook, Peterchurch, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152982,,,52.04114,-2.947207,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,143204,"Mason's Potatoes, The Packhouse, Dadnor, Ross-on-Wye, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143204,,,51.931659,-2.635324,0.7,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,152872,"White House, Preston Wynne, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152872,,,52.119052,-2.650532,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,150419,"High Bank, Richards Castle, Ludlow, Herefordshire, SY8 4EL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150419,,,52.321817,-2.743045,0.44,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,142121,"Watsons Car Park Site, Church Street, Ross-on-Wye, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=142121,,,51.913679,-2.584637,0.16,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,160868,"Workshop Adjacent to Quyfields, Shobdon, Leominster, Herefordshire, HR6 9NX",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160868,,,52.255202,-2.860214,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,152414,"Oakfields, Stoke Lacy, Bromyard, Herefordshire, HR7 4HE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152414,,,52.14987,-2.54831,0.06,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,153149,"The Forge, Tarrington, Herefordshire, HR1 4HX",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153149,,,52.064116,-2.559905,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,160774,"Site of former Myrtle Cottage, Vowchurch, Herefordshire, HR2 0RL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160774,,,52.030315,-2.923423,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,153570,"Stable Block At Arthurs Dingle, Leys Hill, Walford, Ross-On-Wye, Herefordshire, HR9 5QU",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153570,,,51.865923,-2.601648,4.82,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161689,"Land at Cats, Leys Hill Road, Walford, Ross-on-Wye, Herefordshire, HR9 5QU",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161689,,,51.866417,-2.601727,1.46,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,170294,"Kiln Rise, Howle Hill, Ross-On-Wye, Herefordshire, HR9 5SH",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=170294,,,51.880479,-2.578366,0.26,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,160358,"Welsh Newton Garage, Welsh Newton, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160358,,,51.860061,-2.730285,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,143436,"Land adjoining Porch Cottages, Weston Under Penyard, Ross-on-Wye, Herefordshire, HR9 7PG",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143436,,,51.914477,-2.530084,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,160282,"Land at Wigmore Hall, Wigmore, Leominster, Herefordshire, HR6 9UL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160282,,,52.313264,-2.858846,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,140905,"St Andrews Church, Wolferlow, Bromyard, Herefordshire, HR7 4QA",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=140905,,,52.252748,-2.486719,0.12,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161056,"Workshop opposite Terrace Hall, Woolhope, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161056,,,52.012323,-2.579919,0.02,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,123177,"Land East of 20 Belmont Avenue, Hereford, Herefordshire, HR2 7JQ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=123177,,,52.048881,-2.722729,0.29,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,142197,"Land at Bridge Inn, College Road, Hereford, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=142197,,,52.071668,-2.708741,0.29,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,143495,"11-13 Maylord Street, Hereford, Herefordshire, HR1 2DS",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143495,,,52.057491,-2.715809,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,143799,"Land off Grosvenor Place, Hereford",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143799,,,52.072666,-2.743613,0.07,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,150244,"30 Union Street, Hereford, Herefordshire, HR1 2BT",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150244,,,52.056655,-2.712864,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,150630,"Land off Catherine Street, Hereford",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150630,,,52.058741,-2.714283,0.07,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,151031,"8 Cotterell Street, Hereford, HR4 0HQ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151031,,,52.058476,-2.731125,0.02,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,151077,"Chandos Street Methodist Church, Chandos Street, Hereford, Herefordshire, HR4 0EX",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151077,,,52.057127,-2.731161,0.04,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,151352,"85 Aylestone Hil, Hereford, Herefordshire, HR1 1HX",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151352,,,52.066507,-2.698185,0.04,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,152246,"1 St Martins Street, Hereford, Herefordshire, HR2 7RD",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152246,,,52.052036,-2.718478,0.03,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,152422,"Outbuilding at Mavis Holt, 35 Hampton Park Road, Hereford, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152422,,,52.049763,-2.691056,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,153057,"Land at 114 Eign Road, Hereford, Herefordshire, HR1 2RX",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153057,,,52.050704,-2.700797,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,153254,"82 Widemarsh Street, Hereford",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153254,,,52.059016,-2.714958,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,153506,"20 Broad Street, Hereford, HR4 9AP",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153506,,,52.054976,-2.716936,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,160076,"92-94 Widemarsh Street, Hereford, HR4 9HG",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160076,,,52.059268,-2.714875,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,160322,"Land at 82-84, Church Road, Hereford, HR1 1RS",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160322,,,52.056384,-2.688839,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,160687,"12 Kyrle Street, Hereford, HR1 2ET",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160687,,,52.057259,-2.709563,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161205,"Lyndale Care Home, 24 Southbank Close, Hereford, Herefordshire, HR1 2TQ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161205,,,52.05768,-2.70394,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161356,"Land at 40 Newtown Road, Hereford, HR4 9LL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161356,,,52.064217,-2.715771,0.07,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161414,"Plot adjacent to 83 Broomy Hill, Hereford",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161414,,,52.050279,-2.737903,0.26,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,163176,"Land at 36 Holme Lacy Road, Hereford, HR2 6BY",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163176,,,52.043051,-2.717547,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,163301,"Second Floor Flat, 24 Eign Gate, Hereford, HR4 0AB",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163301,,,52.056564,-2.718901,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,163501,"The Moorfield Inn, Moorfield Street, Hereford",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163501,,,52.059188,-2.720737,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,163555,"37 Whitecross Road, Hereford, HR4 0DE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163555,,,52.057863,-2.727002,0.03,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,163719,"129-131 Eign Street, Hereford, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163719,,,52.056649,-2.721221,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,163751,"Flats at 15-17 Eign Gate, Hereford, HR4 0AB",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163751,,,52.056317,-2.718212,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,164042,"18-20 Commercial Street, Hereford, HR1 2DE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164042,,,52.057334,-2.713619,0.03,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,164105,"12A Bridge Street, Hereford, HR4 9DF",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164105,,,52.053572,-2.718576,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,164135,"The Cotterell Arms, 65-67 Cotterell Street, Hereford",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164135,,,52.058916,-2.73421,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,164111,"52 Broomy Hill, Hereford, HR4 0LH",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164111,,,52.052603,-2.731452,0.2,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,170350,"Land at 98 Kings Acre Road, Hereford, HR4 0RG",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=170350,,,52.065572,-2.749315,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,130784,"First floor, 27 Gloucester Road, Ross-on-Wye, Herefordshire, HR9 5LE",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=130784,,,51.913653,-2.580827,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,131206,"Land rear of The Kings Head, High Street, Ross-on-Wye, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=131206,,,51.914629,-2.585289,0.1,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,150055,"46 Broad Street, Ross-on-Wye, Herefordshire, HR9 7DY",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150055,,,51.915047,-2.582546,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,150234,"Rosswyn Hotel, 16-19 High Street, Ross-On-Wye, Herefordshire, HR9 5BZ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150234,,,51.913524,-2.583123,0.14,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,152308,"Site adjacent to Thrushes Nest, Rope Walk, Ross-On-Wye, Herefordshire, HR9 7BU",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152308,,,51.916812,-2.585651,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,153001,"Land adjacent to Chase View Veterinary Clinic, Hildersley, Ross on Wye, Herefordshire, HR9 7NJ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153001,,,51.913022,-2.56442,0.58,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,153155,"39 High Street, Ross-on-Wye, Herefordshire, HR9 5HD",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153155,,,51.914165,-2.58441,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,153797,"12 Gloucester Road, Ross-On-Wye, Herefordshire, HR9 5BU",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153797,,,51.913988,-2.582155,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161429,"Land at Twigworth, Camp Road, Ross-on-Wye, Herefordshire, HR9 5NJ",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161429,,,51.912288,-2.574951,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161967,"5-6 High Street, Ross-on-Wye, Herefordshire, HR9 5HL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161967,,,51.914511,-2.585433,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,162035,"12 Brookend Street, Ross-On-Wye, Herefordshire",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162035,,,51.916768,-2.581754,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,160948,"Outbuildings at Laurel Cottage, Hope under Dinmore, Leominster, Herefordshire, HR6 0PX",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160948,,,52.158048,-2.72685,0.01,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,150173,"T J Crump Oakwrights Ltd, The Lakes, Swainshill, Herefordshire, HR4 7PU",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150173,,,52.073125,-2.789156,1.21,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,152524,"Travellers Rest Inn, Stretton Sugwas, Hereford, Herefordshire, HR4 7AL",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152524,,,52.077932,-2.781537,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,local-authority-eng:HEF,161262,"Khotla, Wellington, Hereford, Herefordshire, HR4 8AT",https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161262,,,52.12917,-2.74261,0,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff
+,,,,,,,,,,,,,,2c802529bffeee7f422427fdb8e4b3ad82455bbee3321346ce67da9379ea45ff

@@ -16,6 +16,8 @@ row-number,field,datatype,value
 14,GeoY,decimal,GeoY
 14,SiteplanURL,uri,SiteplanURL
 14,Hectares,decimal,
+14,OwnershipStatus,enum,Ownership Status
+14,PermissionType,enum,Permission Type
 14,PermissionDate,date,Permission Date
 14,FirstAddedDate,date,31-06-2017
 15,FirstAddedDate,date,31-06-2017

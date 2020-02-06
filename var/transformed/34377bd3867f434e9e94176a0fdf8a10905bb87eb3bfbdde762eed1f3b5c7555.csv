@@ -1,2 +1,2 @@
-entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2019-04-08,local-authority-eng:EHA,BFL/001,Molson Coors Brewery,,51.149028,-0.973751,5.1,140,200,2019-04-08,,34377bd3867f434e9e94176a0fdf8a10905bb87eb3bfbdde762eed1f3b5c7555
+entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2019-04-08,local-authority-eng:EHA,BFL/001,Molson Coors Brewery,,yes,,51.149028,-0.973751,5.1,140,200,2019-04-08,,34377bd3867f434e9e94176a0fdf8a10905bb87eb3bfbdde762eed1f3b5c7555

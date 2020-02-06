@@ -1,18 +1,18 @@
-entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,,,Saffron Walden CB10 1EF,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,,,"Rear of 10-12 Bridge Street, Saffron Walden CB10 1BU",,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,,,"Parsonage Downs, Great Dunmow, CM6 2AU",,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,,,"Bardfield Road, Thaxted, CM6 2LW",,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,,,"Thaxted Road, Saffron Walden CB11 3AA",,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,,,"North Street, Great Dunmow, CM6 1BA",,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,,,"14 Stortford Road, Great Dunmow, CM6 1DF",,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,,,"New Street, Great Dunmow, CM6 1BH",,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,,,"Thaxted Road, Saffron Walden, CB10 2UQ",,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,,,"Stansted Mountfitchet, CM24 8BZ",,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,,,"Royston Road, Wendens Ambo, CB11 4JX",,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,,,Church End Broxted CM6 2BZ,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,,,"Chelmsford Road, White Roding CM6 1RF",,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,,,"86 Cambridge Road, Stansted, CM22 7BL",,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,,,"Dunmow Road, Hatfield Heath, CM22 7BL",,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,,,"Clapton Hall Lane, Dunmow CM6 1JF",,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,,,"Dunmow Road, Stebbing CM6 3LF",,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,,,Saffron Walden CB10 1EF,,yes,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,,,"Rear of 10-12 Bridge Street, Saffron Walden CB10 1BU",,yes,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,,,"Parsonage Downs, Great Dunmow, CM6 2AU",,yes,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,,,"Bardfield Road, Thaxted, CM6 2LW",,yes,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,,,"Thaxted Road, Saffron Walden CB11 3AA",,yes,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,,,"North Street, Great Dunmow, CM6 1BA",,yes,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,,,"14 Stortford Road, Great Dunmow, CM6 1DF",,yes,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,,,"New Street, Great Dunmow, CM6 1BH",,yes,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,,,"Thaxted Road, Saffron Walden, CB10 2UQ",,yes,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,,,"Stansted Mountfitchet, CM24 8BZ",,yes,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,,,"Royston Road, Wendens Ambo, CB11 4JX",,yes,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,,,Church End Broxted CM6 2BZ,,yes,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,,,"Chelmsford Road, White Roding CM6 1RF",,yes,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,,,"86 Cambridge Road, Stansted, CM22 7BL",,yes,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,,,"Dunmow Road, Hatfield Heath, CM22 7BL",,yes,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,,,"Clapton Hall Lane, Dunmow CM6 1JF",,yes,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,,,"Dunmow Road, Stebbing CM6 3LF",,yes,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e

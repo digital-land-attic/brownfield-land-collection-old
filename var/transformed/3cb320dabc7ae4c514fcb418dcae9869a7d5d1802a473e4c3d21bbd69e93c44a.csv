@@ -1,11 +1,11 @@
-entry-date,organisation,site,site-address,site-plan-url,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-11-24,local-authority-eng:TON,TMBC-BFR-002,"180 High Street, Tonbridge, Kent, TN9 1BX",,51.198212,0.274958,0.07,,,2017-11-24,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
-2017-11-25,local-authority-eng:TON,TMBC-BFR-003,"Land Rear Of 182 High Street, Tonbridge, Kent, TN9 1BE",,51.198315,0.275192,0.06,,,2017-11-25,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
-2017-11-28,local-authority-eng:TON,TMBC-BFR-004,"Ferns Surfacing Ltd, Bellingham Way, Larkfield, Aylesford, Kent",,51.308026,0.44726,0.53,,,2017-11-28,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
-2017-12-04,local-authority-eng:TON,TMBC-BFR-006,"Cricketts Farm House, Borough Green Road, Ightham, Sevenoaks, Kent",,51.29527,0.295145,0.71,,,2017-12-04,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
-2017-12-08,local-authority-eng:TON,TMBC-BFR-007,"Land At East Street, Snodland, Kent",,51.328011,0.447635,0.69,,,2017-12-08,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
-2017-12-09,local-authority-eng:TON,TMBC-BFR-008,"Pickfords (brs Depot), Mill Hall, Aylesford, Kent",,51.302081,0.466585,1.19,,,2017-12-09,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
-2017-12-09,local-authority-eng:TON,TMBC-BFR-009,"The River Centre Medway Wharf Road, Tonbridge, Kent",,51.194014,0.279045,0.35,,,2017-12-09,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
-2017-12-09,local-authority-eng:TON,TMBC-BFR-010,"Platt C Of E Primary School, Maidstone Road, Platt, Sevenoaks, Kent, TN15 8JY",,51.292944,0.326442,0.32,,,2017-12-09,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
-2017-12-13,local-authority-eng:TON,TMBC-BFR-011,"Drayton Road Industial Estate, Tonbridge",,51.186923,0.276448,1.68,,,2017-12-13,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
-2017-11-14,local-authority-eng:TON,TMBC-BFR-012,"Office site, Quarry Hill Rd, Borough Green",,51.28841,0.302863,0.28,,,2017-11-14,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
+entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2017-11-24,local-authority-eng:TON,TMBC-BFR-002,"180 High Street, Tonbridge, Kent, TN9 1BX",,yes,,51.198212,0.274958,0.07,,,2017-11-24,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
+2017-11-25,local-authority-eng:TON,TMBC-BFR-003,"Land Rear Of 182 High Street, Tonbridge, Kent, TN9 1BE",,yes,,51.198315,0.275192,0.06,,,2017-11-25,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
+2017-11-28,local-authority-eng:TON,TMBC-BFR-004,"Ferns Surfacing Ltd, Bellingham Way, Larkfield, Aylesford, Kent",,yes,,51.308026,0.44726,0.53,,,2017-11-28,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
+2017-12-04,local-authority-eng:TON,TMBC-BFR-006,"Cricketts Farm House, Borough Green Road, Ightham, Sevenoaks, Kent",,yes,,51.29527,0.295145,0.71,,,2017-12-04,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
+2017-12-08,local-authority-eng:TON,TMBC-BFR-007,"Land At East Street, Snodland, Kent",,yes,,51.328011,0.447635,0.69,,,2017-12-08,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
+2017-12-09,local-authority-eng:TON,TMBC-BFR-008,"Pickfords (brs Depot), Mill Hall, Aylesford, Kent",,yes,,51.302081,0.466585,1.19,,,2017-12-09,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
+2017-12-09,local-authority-eng:TON,TMBC-BFR-009,"The River Centre Medway Wharf Road, Tonbridge, Kent",,yes,,51.194014,0.279045,0.35,,,2017-12-09,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
+2017-12-09,local-authority-eng:TON,TMBC-BFR-010,"Platt C Of E Primary School, Maidstone Road, Platt, Sevenoaks, Kent, TN15 8JY",,yes,,51.292944,0.326442,0.32,,,2017-12-09,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
+2017-12-13,local-authority-eng:TON,TMBC-BFR-011,"Drayton Road Industial Estate, Tonbridge",,yes,,51.186923,0.276448,1.68,,,2017-12-13,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a
+2017-11-14,local-authority-eng:TON,TMBC-BFR-012,"Office site, Quarry Hill Rd, Borough Green",,yes,,51.28841,0.302863,0.28,,,2017-11-14,,3cb320dabc7ae4c514fcb418dcae9869a7d5d1802a473e4c3d21bbd69e93c44a

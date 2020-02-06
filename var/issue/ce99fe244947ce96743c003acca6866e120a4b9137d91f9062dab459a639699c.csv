@@ -1,4 +1,7 @@
 row-number,field,datatype,value
+1,Deliverable,enum,Not available
+3,Deliverable,enum,Not available
+11,Deliverable,enum,Not available
 18,NetDwellingsRangeFrom,integer,TBC
 28,NetDwellingsRangeFrom,integer,TBC
 28,NetDwellingsRangeTo,integer,TBC
