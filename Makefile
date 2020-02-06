@@ -3,6 +3,10 @@
 .DELETE_ON_ERROR:
 .SUFFIXES: .json
 
+# for collation
+LANGUAGE := en_GB:en
+LANG := en_GB.UTF-8
+
 DATASET_NAME=brownfield-land
 
 RESOURCE_DIR=collection/resource/
