@@ -1,9 +1,9 @@
 field,value,count
-Deliverable,yes,21952
-Deliverable,"",18471
+Deliverable,yes,21990
+Deliverable,"",18503
 Deliverable,Yes,9272
 Deliverable,true,1920
-Deliverable,Y,981
+Deliverable,Y,987
 Deliverable,No,377
 Deliverable,deliverable,349
 Deliverable,Deliverable,203
@@ -13,6 +13,7 @@ Deliverable,N/A,33
 Deliverable,Developable,32
 Deliverable,False,27
 Deliverable,no,23
+Deliverable,y,21
 Deliverable,True,18
 Deliverable,not owned by a public authority,12
 Deliverable,-,10
@@ -20,7 +21,6 @@ Deliverable,Unsuitable,7
 Deliverable,owned by a public authority,5
 Deliverable,Yes Part,4
 Deliverable,Not available,3
-Deliverable,y,1
 Deliverable,The land is deliverable,1
 Deliverable,Possibly Developable,1
 Deliverable,#N/A,1

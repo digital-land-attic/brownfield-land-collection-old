@@ -1,11 +1,11 @@
 field,value,count
-PlanningStatus,permissioned,22082
-PlanningStatus,not permissioned,12899
+PlanningStatus,permissioned,22167
+PlanningStatus,not permissioned,12906
 PlanningStatus,Permissioned,8630
-PlanningStatus,"",2538
+PlanningStatus,"",2539
 PlanningStatus,Not permissioned,2265
 PlanningStatus,Not Permissioned,2105
-PlanningStatus,pending decision,1419
+PlanningStatus,pending decision,1422
 PlanningStatus,Full Planning Permission,430
 PlanningStatus,Pending decision,323
 PlanningStatus,Other Commitment,230
