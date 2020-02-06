@@ -66,17 +66,15 @@ NORMALISE_DATA:=\
 # data needed for harmonisation
 HARMONISE_DATA:=\
 	$(CACHE_DIR)/organisation.csv\
-	$(PATCH_DIR)/organisation.csv
+	$(PATCH_DIR)/organisation.csv\
+	$(PATCH_DIR)/enum.csv
 
 # generated indexes
-COLLECTION_INDEXES=\
+INDEXES=\
 	$(INDEX_DIR)index.json\
 	$(INDEX_DIR)link.csv\
 	$(INDEX_DIR)log.csv\
 	$(INDEX_DIR)resource.csv\
-
-INDEXES=\
-	$(COLLECTION_INDEXES)\
 	$(INDEX_DIR)fixed.csv\
 	$(INDEX_DIR)issue.csv\
 	$(COUNT_DIR)column.csv\
@@ -91,7 +89,7 @@ INDEXES=\
 TBD_COLLECTION_INDEXES=\
 	$(INDEX_DIR)organisation-documentation.csv\
 	$(INDEX_DIR)organisation-link.csv\
-	$(INDEX_DIR)organisation-resource.csv\
+	$(INDEX_DIR)organisation-resource.csv
 
 # dataset of mapped files
 MAPPED_DATASET=$(TMP_DIR)mapped.csv

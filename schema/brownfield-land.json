@@ -176,7 +176,6 @@
             "type": "string",
             "constraints": {
                 "required": true,
-                "pattern": "(?i)(owned by a public authority|mixed ownership|not owned by a public authority)",
                 "enum": [
                   "owned by a public authority",
                   "not owned by a public authority",
@@ -198,7 +197,10 @@
             "type": "string",
             "constraints": {
                 "required": false,
-                "pattern": "(?i)(y|yes)"
+                "enum": [
+                  "yes",
+                  ""
+                ]
             },
             "digital-land": {
                 "field": "hazardous-substances"
@@ -211,7 +213,12 @@
             "type": "string",
             "constraints": {
                 "required": true,
-                "pattern": "(?i)(permissioned|not permissioned|pending decision)"
+                "enum": [
+                  "permissioned",
+                  "not permissioned",
+                  "pending decision",
+                  ""
+                ]
             },
             "digital-land": {
                 "field": "planning-permission-status"
@@ -224,7 +231,16 @@
             "type": "string",
             "constraints": {
                 "required": false,
-                "pattern": "(?i)(full planning permission|outline planning permission|reserved matters approval|permission in principle|technical details consent|planning permission granted under an order|other)"
+                "enum": [
+                  "full planning permission",
+                  "outline planning permission",
+                  "reserved matters approval",
+                  "permission in principle",
+                  "technical details consent",
+                  "planning permission granted under an order",
+                  "other",
+                  ""
+                ]
             },
             "digital-land": {
                 "field": "planning-permission-type"
@@ -285,7 +301,10 @@
             "type": "string",
             "constraints": {
                 "required": false,
-                "pattern": "(?i)(y|yes)"
+                "enum" : [
+                  "yes",
+                  ""
+                ]
             },
             "digital-land": {
                 "field": "deliverable"
@@ -353,6 +372,8 @@
             "site",
             "site-address",
             "site-plan-url",
+            "deliverable",
+            "hazardous-substances",
             "latitude",
             "longitude",
             "hectares",

@@ -33,6 +33,7 @@ fields = {field["name"]: field for field in schema["fields"]}
 fieldnames = [field["name"] for field in schema["fields"]]
 
 organisation_uri = {}
+field_value = {}
 
 log_fieldnames = ["row-number", "field", "datatype", "value"]
 log_writer = csv.DictWriter(open(log_path, "w", newline=""), fieldnames=log_fieldnames)
@@ -236,6 +237,31 @@ normalise_address.comma = re.compile(r'(\s*,\s*){1,}')
 normalise_address.hyphen = re.compile(r'(\s*-\s*){1,}')
 
 
+def load_field_value():
+    # load enum values from schema
+    for field in schema["fields"]:
+        if "constraints" in field and "enum" in field["constraints"]:
+            field_value.setdefault(field["name"], {})
+            for value in field["constraints"]["enum"]:
+                field_value[field["name"]][value.lower()] = value
+
+    # load fix-ups from patch file
+    for row in csv.DictReader(open("patch/enum.csv", newline="")):
+        field_value.setdefault(row["field"], {})
+        field_value[row["field"]][row["value"].lower()] = row["enum"]
+
+
+def normalise_enum(field, value, enum):
+    if value in enum:
+        return value
+
+    if field in field_value and value.lower() in field_value[field]:
+        return field_value[field][value.lower()]
+
+    log_issue(field, "enum", value)
+    return ""
+
+
 def normalise(fieldname, value):
     if value.lower() in [None, "", "-", "n/a", "#n/a", "???", "<null>"]:
         return ""
@@ -264,6 +290,9 @@ def normalise(fieldname, value):
     if extra.get("format", "") == "address":
         return normalise_address(fieldname, value)
 
+    if "enum" in field.get("constraints", {}):
+        return normalise_enum(fieldname, value, field["constraints"]["enum"])
+
     return value
 
 
@@ -271,6 +300,7 @@ if __name__ == "__main__":
     reader = csv.DictReader(open(input_path, newline=""))
 
     load_organisations()
+    load_field_value()
 
     with open(output_path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
