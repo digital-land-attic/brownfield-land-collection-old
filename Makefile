@@ -134,10 +134,11 @@ $(NATIONAL_DATASET): bin/dataset.py $(TRANSFORMED_FILES) $(SCHEMA)
 	@mkdir -p $(INDEX_DIR)
 	python3 bin/dataset.py $(TRANSFORMED_DIR) $@
 
-# having multiple targets can trigger this multiple times ..
-$(COLLECTION_INDEXES): bin/index.py $(NATIONAL_DATASET) $(DATASET_FILES) $(LOG_FILES) $(VALIDATION_FILES)
+$(INDEX_DIR)index.json: bin/index.py $(NATIONAL_DATASET) $(DATASET_FILES) $(LOG_FILES) $(VALIDATION_FILES)
 	@mkdir -p $(INDEX_DIR)
 	python3 bin/index.py $(DATASET_NAME)
+
+$(INDEX_DIR)link.csv $(INDEX_DIR)log.csv $(INDEX_DIR)resource.csv: $(INDEX_DIR)index.json
 
 $(INDEX_DIR)column.csv: bin/columns.py $(NORMALISED_FILES)
 	@mkdir -p $(INDEX_DIR)
