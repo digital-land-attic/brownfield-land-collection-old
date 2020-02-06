@@ -70,7 +70,7 @@ def fetch(dataset, organisation, url, end_date):
         headers["request-headers"] = dict(response.request.headers)
         headers["response-headers"] = dict(response.headers)
 
-        if headers["status"] == "200" and not headers["response-headers"][
+        if headers["status"] == "200" and not response.headers[
             "Content-Type"
         ].startswith("text/html"):
             resource = hashlib.sha256(response.content).hexdigest()
