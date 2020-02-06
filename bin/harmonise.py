@@ -33,6 +33,7 @@ fields = {field["name"]: field for field in schema["fields"]}
 fieldnames = [field["name"] for field in schema["fields"]]
 
 organisation_uri = {}
+field_enum = {}
 field_value = {}
 
 log_fieldnames = ["row-number", "field", "datatype", "value"]
@@ -233,32 +234,46 @@ def normalise_address(field, value):
     return value
 
 
-normalise_address.comma = re.compile(r'(\s*,\s*){1,}')
-normalise_address.hyphen = re.compile(r'(\s*-\s*){1,}')
+normalise_address.comma = re.compile(r"(\s*,\s*){1,}")
+normalise_address.hyphen = re.compile(r"(\s*-\s*){1,}")
+
+
+def normalise_enum_value(value):
+    return " ".join(normalise_enum_value.strip.sub(" ", value.lower()).split())
+
+
+normalise_enum_value.strip = re.compile(r"([^a-z0-9-_ ]+)")
 
 
 def load_field_value():
     # load enum values from schema
     for field in schema["fields"]:
+        fieldname = field["name"]
         if "constraints" in field and "enum" in field["constraints"]:
-            field_value.setdefault(field["name"], {})
-            for value in field["constraints"]["enum"]:
-                field_value[field["name"]][value.lower()] = value
+            field_enum.setdefault(fieldname, {})
+            field_value.setdefault(fieldname, {})
+            for enum in field["constraints"]["enum"]:
+                value = normalise_enum_value(enum)
+                field_enum[fieldname][enum] = enum
+                field_value[fieldname][value] = enum
 
     # load fix-ups from patch file
     for row in csv.DictReader(open("patch/enum.csv", newline="")):
-        field_value.setdefault(row["field"], {})
-        field_value[row["field"]][row["value"].lower()] = row["enum"]
+        fieldname = row["field"]
+        enum = row["enum"]
+        value = normalise_enum_value(row['value'])
+        if enum not in field_enum[fieldname]:
+            raise ValueError("invalid '%s' enum '%s' in patch/enum.csv" % (fieldname, enum))
+        field_value.setdefault(fieldname, {})
+        field_value[fieldname][value] = enum
 
 
-def normalise_enum(field, value, enum):
-    if value in enum:
-        return value
+def normalise_enum(field, fieldvalue):
+    value = normalise_enum_value(fieldvalue)
+    if field in field_value and value in field_value[field]:
+        return field_value[field][value]
 
-    if field in field_value and value.lower() in field_value[field]:
-        return field_value[field][value.lower()]
-
-    log_issue(field, "enum", value)
+    log_issue(field, "enum", fieldvalue)
     return ""
 
 
@@ -291,7 +306,7 @@ def normalise(fieldname, value):
         return normalise_address(fieldname, value)
 
     if "enum" in field.get("constraints", {}):
-        return normalise_enum(fieldname, value, field["constraints"]["enum"])
+        return normalise_enum(fieldname, value)
 
     return value
 
