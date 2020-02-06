@@ -171,7 +171,7 @@
         },
         {
             "name": "OwnershipStatus",
-            "title": "Ownership status",
+            "title": "Ownership",
             "description": "The site\u2019s ownership",
             "type": "string",
             "constraints": {
@@ -184,7 +184,7 @@
                 ]
             },
             "digital-land": {
-                "field": "ownership-status",
+                "field": "ownership",
                 "typos": [
                     "OwenrshipStatus"
                 ]
@@ -373,6 +373,9 @@
             "site-address",
             "site-plan-url",
             "deliverable",
+            "ownership",
+            "planning-permission-status",
+            "planning-permission-type",
             "hazardous-substances",
             "latitude",
             "longitude",

@@ -1,7 +1,7 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:MAL,MDCBLR001,171-173 STATION ROAD BURNHAM-ON-CROUCH,,yes,,51.626186,0.815372,0.06,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
-,local-authority-eng:MAL,MDCBLR003,THE OLD ENGINE SHED STATION ROAD MALDON,,yes,,51.766112,0.748803,0.27,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
-,local-authority-eng:MAL,MDCBLR005,SADDS WHARFS STATION ROAD MALDON,,yes,,51.766112,0.748803,2.07,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
-,local-authority-eng:MAL,MDCBLR006,HEYBRIDGE SWIFTS SCARLEY ROAD MALDON,,yes,,51.749031,0.708253,0.3,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
-,local-authority-eng:MAL,MDCBLR007,WORKSHOP FORMER HUNTERS GARAGE THE SQUARE HEYBRIDGE,,yes,,51.741154,0.6843,0.1,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
-,local-authority-eng:MAL,MDCBLR008,62 NEW ROAD TOLLESBURY,,yes,,51.759694,0.834571,0.39,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,local-authority-eng:MAL,MDCBLR001,171-173 STATION ROAD BURNHAM-ON-CROUCH,,yes,not owned by a public authority,permissioned,full planning permission,,51.626186,0.815372,0.06,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
+,local-authority-eng:MAL,MDCBLR003,THE OLD ENGINE SHED STATION ROAD MALDON,,yes,not owned by a public authority,permissioned,outline planning permission,,51.766112,0.748803,0.27,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
+,local-authority-eng:MAL,MDCBLR005,SADDS WHARFS STATION ROAD MALDON,,yes,not owned by a public authority,permissioned,full planning permission,,51.766112,0.748803,2.07,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
+,local-authority-eng:MAL,MDCBLR006,HEYBRIDGE SWIFTS SCARLEY ROAD MALDON,,yes,not owned by a public authority,not permissioned,,,51.749031,0.708253,0.3,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
+,local-authority-eng:MAL,MDCBLR007,WORKSHOP FORMER HUNTERS GARAGE THE SQUARE HEYBRIDGE,,yes,not owned by a public authority,permissioned,full planning permission,,51.741154,0.6843,0.1,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd
+,local-authority-eng:MAL,MDCBLR008,62 NEW ROAD TOLLESBURY,,yes,not owned by a public authority,permissioned,full planning permission,,51.759694,0.834571,0.39,,,,,326a317ce815c8e097c7375f212621f75b8348aa48d9d7b7975c056c12c375bd

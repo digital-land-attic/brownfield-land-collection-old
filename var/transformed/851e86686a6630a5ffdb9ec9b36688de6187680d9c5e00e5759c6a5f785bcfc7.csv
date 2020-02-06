@@ -1,24 +1,24 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2016-07-14,,SHLAA Site 3,"Exwick Middle School, Higher Exwick Hill, Exeter",,,,,,1.24,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 5,"Foxhayes School, Gloucester Road, Exeter",,,,,,0.76,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 14,"8 and 10 Church Road, Alphington, Exeter",,,,,,0.14,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 101,"Middlemoor HQ Site A, Greenwood Drive, Exeter",,,,,,0.99,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 102,"Middlemoor HQ Site B, Alderson Drive, Exeter",,,,,,1.56,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 111,"Eagle Yard, Tudor Street",,,,,,0.1,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 118,"Brewers Court, Frickers Yard, Willeys Avenue, Exeter",,,,,,0.12,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 124,"23 Cathedral Yard and 55-56 High Street, Exeter",,,,,,0.04,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 131,"91-97 Wonford Street, Exeter",,,,,,0.08,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 336,"102-104 Fore Street, Exeter",,,,,,0.07,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 345,"130 Fore Street, Exeter",,,,,,0.03,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 350,"Corner of Summerland Street and Red Lion Lane, Exeter",,,,,,0.05,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 378,"30-32 Longbrook Street, Exeter",,,,,,0.02,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA site 381,"Radmore and Tucker, Frog Street",,,,,,0.17,,,3026-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 1906,"68 Bovemoors Lane, Exeter",,,,,,0.12,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 2084,"78-84 and garage court to rear of Bovemoors Lane, Exeter",,,,,,0.24,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 2088,"Land to south east of 106 Hamlin Gardens, Exeter",,,,,,0.18,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 2089,"Land rear of 94-106 Thornpark Rise, Exeter",,,,,,0.32,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 2159,"38 Commercial Road, Exeter",,,,,,0.11,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 2178,"9a North Street, Exeter",,,,,,0.03,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 2187,"Renslade House, Bonhay Road",,,,,,0.58,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-08-01,,SHLAA Site 2188,,,,,,,0.17,,,2016-08-01,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
-2016-07-14,,SHLAA Site 2194,"18 Cathedral Yard, Exeter",,,,,,0.02,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2016-07-14,,SHLAA Site 3,"Exwick Middle School, Higher Exwick Hill, Exeter",,,owned by a public authority,not permissioned,,,,,1.24,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 5,"Foxhayes School, Gloucester Road, Exeter",,,owned by a public authority,not permissioned,,,,,0.76,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 14,"8 and 10 Church Road, Alphington, Exeter",,,not owned by a public authority,permissioned,,,,,0.14,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 101,"Middlemoor HQ Site A, Greenwood Drive, Exeter",,,owned by a public authority,permissioned,,,,,0.99,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 102,"Middlemoor HQ Site B, Alderson Drive, Exeter",,,owned by a public authority,permissioned,,,,,1.56,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 111,"Eagle Yard, Tudor Street",,,not owned by a public authority,permissioned,,,,,0.1,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 118,"Brewers Court, Frickers Yard, Willeys Avenue, Exeter",,,not owned by a public authority,permissioned,,,,,0.12,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 124,"23 Cathedral Yard and 55-56 High Street, Exeter",,,not owned by a public authority,permissioned,,,,,0.04,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 131,"91-97 Wonford Street, Exeter",,,owned by a public authority,not permissioned,,,,,0.08,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 336,"102-104 Fore Street, Exeter",,,not owned by a public authority,permissioned,,,,,0.07,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 345,"130 Fore Street, Exeter",,,not owned by a public authority,permissioned,,,,,0.03,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 350,"Corner of Summerland Street and Red Lion Lane, Exeter",,,not owned by a public authority,permissioned,,,,,0.05,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 378,"30-32 Longbrook Street, Exeter",,,not owned by a public authority,permissioned,,,,,0.02,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA site 381,"Radmore and Tucker, Frog Street",,,not owned by a public authority,pending decision,,,,,0.17,,,3026-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 1906,"68 Bovemoors Lane, Exeter",,,not owned by a public authority,permissioned,,,,,0.12,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 2084,"78-84 and garage court to rear of Bovemoors Lane, Exeter",,,owned by a public authority,permissioned,,,,,0.24,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 2088,"Land to south east of 106 Hamlin Gardens, Exeter",,,owned by a public authority,permissioned,,,,,0.18,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 2089,"Land rear of 94-106 Thornpark Rise, Exeter",,,owned by a public authority,pending decision,,,,,0.32,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 2159,"38 Commercial Road, Exeter",,,not owned by a public authority,permissioned,,,,,0.11,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 2178,"9a North Street, Exeter",,,not owned by a public authority,permissioned,,,,,0.03,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 2187,"Renslade House, Bonhay Road",,,not owned by a public authority,permissioned,,,,,0.58,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-08-01,,SHLAA Site 2188,,,,not owned by a public authority,pending decision,,,,,0.17,,,2016-08-01,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7
+2016-07-14,,SHLAA Site 2194,"18 Cathedral Yard, Exeter",,,not owned by a public authority,permissioned,,,,,0.02,,,2016-07-14,,851e86686a6630a5ffdb9ec9b36688de6187680d9c5e00e5759c6a5f785bcfc7

@@ -1,2 +1,2 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:EPP,,,,,,,,,,,,,be4239dcf59b4f7a52751625a6c35a93ca452b03fae658a15ccfb151b88f6591
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,local-authority-eng:EPP,,,,,,,,,,,,,,,,be4239dcf59b4f7a52751625a6c35a93ca452b03fae658a15ccfb151b88f6591

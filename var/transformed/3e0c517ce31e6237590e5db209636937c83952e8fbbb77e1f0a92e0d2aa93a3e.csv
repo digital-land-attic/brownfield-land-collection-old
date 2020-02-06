@@ -1,7 +1,7 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:MAL,MDCBLR001,171-173 STATION ROAD BURNHAM-ON-CROUCH,,yes,,51.626186,0.815372,0.06,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
-,local-authority-eng:MAL,MDCBLR002,123 HIGH STREET MALDON,,yes,,51.730257,0.683002,0.02,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
-,local-authority-eng:MAL,MDCBLR003,THE OLD ENGINE SHED STATION ROAD MALDON,,yes,,51.766112,0.748803,0.27,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
-,local-authority-eng:MAL,MDCBLR004,"ALL SAINTS CHURCH OF ENGLAND PRIMARY SCHOOL, LONDON ROAD MALDON",,yes,,51.732,0.671649,0.24,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
-,local-authority-eng:MAL,MDCBLR005,SADDS WHARFS STATION ROAD MALDON,,yes,,51.766112,0.748803,2.07,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
-,local-authority-eng:MAL,MDCBLR006,HEYBRIDGE SWIFTS SCARLEY ROAD MALDON,,yes,,51.749031,0.708253,0.3,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,local-authority-eng:MAL,MDCBLR001,171-173 STATION ROAD BURNHAM-ON-CROUCH,,yes,not owned by a public authority,permissioned,full planning permission,,51.626186,0.815372,0.06,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
+,local-authority-eng:MAL,MDCBLR002,123 HIGH STREET MALDON,,yes,not owned by a public authority,permissioned,full planning permission,,51.730257,0.683002,0.02,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
+,local-authority-eng:MAL,MDCBLR003,THE OLD ENGINE SHED STATION ROAD MALDON,,yes,not owned by a public authority,permissioned,outline planning permission,,51.766112,0.748803,0.27,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
+,local-authority-eng:MAL,MDCBLR004,"ALL SAINTS CHURCH OF ENGLAND PRIMARY SCHOOL, LONDON ROAD MALDON",,yes,not owned by a public authority,permissioned,full planning permission,,51.732,0.671649,0.24,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
+,local-authority-eng:MAL,MDCBLR005,SADDS WHARFS STATION ROAD MALDON,,yes,not owned by a public authority,permissioned,full planning permission,,51.766112,0.748803,2.07,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e
+,local-authority-eng:MAL,MDCBLR006,HEYBRIDGE SWIFTS SCARLEY ROAD MALDON,,yes,not owned by a public authority,not permissioned,,,51.749031,0.708253,0.3,,,,,3e0c517ce31e6237590e5db209636937c83952e8fbbb77e1f0a92e0d2aa93a3e

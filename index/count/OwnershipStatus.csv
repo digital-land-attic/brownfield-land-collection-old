@@ -1,27 +1,27 @@
 field,value,count
-OwnershipStatus,not owned by a public authority,23690
+OwnershipStatus,not owned by a public authority,23691
 OwnershipStatus,unknown ownership,5249
-OwnershipStatus,Not owned by a public authority,4845
-OwnershipStatus,owned by a public authority,4194
-OwnershipStatus,Unknown ownership,3399
-OwnershipStatus,"",3085
+OwnershipStatus,Not owned by a public authority,4999
+OwnershipStatus,owned by a public authority,4195
+OwnershipStatus,Unknown ownership,3400
+OwnershipStatus,"",2785
 OwnershipStatus,unkown ownership,1800
 OwnershipStatus,mixed ownership,1422
-OwnershipStatus,Owned by a public authority,1011
+OwnershipStatus,Owned by a public authority,1030
 OwnershipStatus,Unknown,870
 OwnershipStatus,Unknown Ownership,861
 OwnershipStatus,Not in public ownership,421
-OwnershipStatus,Mixed ownership,378
+OwnershipStatus,Mixed ownership,385
 OwnershipStatus,Not Owned by a Public Authority,325
 OwnershipStatus,Unkown ownership,308
 OwnershipStatus,Owned by a Public Authority,285
+OwnershipStatus,Not in Public Ownership,209
 OwnershipStatus,Not owned by a Public Authority,163
 OwnershipStatus,Not owned by public authority,156
-OwnershipStatus,Not in Public Ownership,131
 OwnershipStatus,Mixed Ownership,96
+OwnershipStatus,Public Ownership,95
 OwnershipStatus,unknown,87
 OwnershipStatus,Unkown Ownership,82
-OwnershipStatus,Public Ownership,79
 OwnershipStatus,Promoted,74
 OwnershipStatus,Not owned by a public authority.,71
 OwnershipStatus,Notownedbyapublicauthority,66
@@ -30,12 +30,12 @@ OwnershipStatus,not owned by public authority,51
 OwnershipStatus,Not owned by a  Public Authority,50
 OwnershipStatus,Public ownership,47
 OwnershipStatus,NOT OWNED BY A PUBLIC AUTHORITY,43
+OwnershipStatus,Owned by public authority,42
 OwnershipStatus,not in public ownership,38
 OwnershipStatus,owned by public authority,37
 OwnershipStatus,Local Authority,37
 OwnershipStatus,Not owned by a \npublic authority,26
 OwnershipStatus,Private,24
-OwnershipStatus,Owned by public authority,20
 OwnershipStatus,Mixed owner,20
 OwnershipStatus,mixed owner,20
 OwnershipStatus,"Local Authority, Unknown",20
@@ -77,6 +77,7 @@ OwnershipStatus,Unknown ownerhip,1
 OwnershipStatus,Unknown Owership,1
 OwnershipStatus,Swindon Borough Council and others,1
 OwnershipStatus,Qwned by a public authority,1
+OwnershipStatus,Part Public part Not in Public Ownership,1
 OwnershipStatus,ownership unknown,1
 OwnershipStatus,Ownership Status,1
 OwnershipStatus,owned by a public authority (part),1

@@ -1,11 +1,11 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:BRM,BBLR1,"Finstall Training Centre, Stoke Road, Bromsgrove",,yes,,52.32195,-2.051541,0.48,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
-,local-authority-eng:BRM,BBLR2,"The Council House, Burcot Lane, Bromsgrove",,yes,,52.341037,-2.018215,1.213,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
-,local-authority-eng:BRM,BBLR3,"The Birches, New Road, Bromsgrove, B60 2LB",,yes,,52.326554,-2.050915,0.32,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
-,local-authority-eng:BRM,BBLR4,"Polymer Latex, Stoke Prior, Bromsgrove",,yes,,52.494147,-2.081672,8.5,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
-,local-authority-eng:BRM,BBLR5,"7&9 Worcester Road, Bromsgrove",,yes,,50.238691,-3.687253,0.239,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
-,local-authority-eng:BRM,BBLR6,"Land Adjacent To 145, Perryfields Road Bromsgrove",,yes,,52.345322,-2.073191,0.27,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
-,local-authority-eng:BRM,BBLR7,"Burcot Grange, Burcot",,yes,,52.346602,-2.020111,2.06,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
-,local-authority-eng:BRM,BBLR8,"The Greyhound, 30 Rock Hill, Bromsgrove, B61 7LR",,yes,,52.325832,-2.072674,0.28,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
-,local-authority-eng:BRM,BBLR9,"50, 52 & 54 Rear of Red Lion Street, Alvechurch",,yes,,52.353628,-1.96121,0.25,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
-,local-authority-eng:BRM,BBLR10,"The Retreat, Curr Lane, Upper Bentley, Worcestershire",,yes,,52.304799,-1.995702,0.81,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+,local-authority-eng:BRM,BBLR1,"Finstall Training Centre, Stoke Road, Bromsgrove",,yes,owned by a public authority,not permissioned,,,52.32195,-2.051541,0.48,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
+,local-authority-eng:BRM,BBLR2,"The Council House, Burcot Lane, Bromsgrove",,yes,owned by a public authority,permissioned,full planning permission,,52.341037,-2.018215,1.213,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
+,local-authority-eng:BRM,BBLR3,"The Birches, New Road, Bromsgrove, B60 2LB",,yes,owned by a public authority,not permissioned,,,52.326554,-2.050915,0.32,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
+,local-authority-eng:BRM,BBLR4,"Polymer Latex, Stoke Prior, Bromsgrove",,yes,not owned by a public authority,permissioned,full planning permission,,52.494147,-2.081672,8.5,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
+,local-authority-eng:BRM,BBLR5,"7&9 Worcester Road, Bromsgrove",,yes,not owned by a public authority,not permissioned,,,50.238691,-3.687253,0.239,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
+,local-authority-eng:BRM,BBLR6,"Land Adjacent To 145, Perryfields Road Bromsgrove",,yes,not owned by a public authority,permissioned,full planning permission,,52.345322,-2.073191,0.27,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
+,local-authority-eng:BRM,BBLR7,"Burcot Grange, Burcot",,yes,not owned by a public authority,permissioned,full planning permission,,52.346602,-2.020111,2.06,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
+,local-authority-eng:BRM,BBLR8,"The Greyhound, 30 Rock Hill, Bromsgrove, B61 7LR",,yes,not owned by a public authority,not permissioned,full planning permission,,52.325832,-2.072674,0.28,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
+,local-authority-eng:BRM,BBLR9,"50, 52 & 54 Rear of Red Lion Street, Alvechurch",,yes,not owned by a public authority,,,,52.353628,-1.96121,0.25,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc
+,local-authority-eng:BRM,BBLR10,"The Retreat, Curr Lane, Upper Bentley, Worcestershire",,yes,not owned by a public authority,permissioned,full planning permission,,52.304799,-1.995702,0.81,,,,,845027581bc719a0b9105ec54805fef59416870be552efa576e1967230234dfc

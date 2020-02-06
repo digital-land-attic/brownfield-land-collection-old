@@ -1,30 +1,30 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2016-06-03,local-authority-eng:SRI,BBN06,,,,,,,0.47,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,SS05,,,,,,,0.67,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,FW12,,,,,,,1.88,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,MF02b,,,,,,,9.45,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,MF02c,,,,,,,1.17,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,LYC03,,,,,,,0.455,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,LHU04,,,,,,,0.68,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,NLH12,,,,,,,1.67,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,TG03,,,,,,,12,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,SS11,,,,,,,0.18,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,WLDW01,,,,,,,0.2,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,BBW02,,,,,,,2.7,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,TG05,,,,,,,1.5,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,MS02,,,,,,,40.6,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,SW13,,,,,,,2.3,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,TG08,,,,,,,1.9,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,HP01,,,,,,,2.4,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,BBW05,,,,,,,0.46,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,WLD01,,,,,,,0.41,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,SS09,,,,,,,0.39,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,LHU12,,,,,,,0.37,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,FE05,,,,,,,0.34,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,TG02,,,,,,,0.29,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,GH03,,,,,,,0.23,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,HP02,,,,,,,0.23,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,LSM04,,,,,,,0.15,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,BBE15,,,,,,,0.2,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,BBE12,,,,,,,0.07,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
-2016-06-03,local-authority-eng:SRI,FW09b,,,,,,,6.49,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
+2016-06-03,local-authority-eng:SRI,BBN06,,,,not owned by a public authority,permissioned,,,,,0.47,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,SS05,,,,not owned by a public authority,permissioned,,,,,0.67,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,FW12,,,,not owned by a public authority,permissioned,,,,,1.88,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,MF02b,,,,not owned by a public authority,permissioned,,,,,9.45,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,MF02c,,,,not owned by a public authority,permissioned,,,,,1.17,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,LYC03,,,,not owned by a public authority,permissioned,,,,,0.455,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,LHU04,,,,not owned by a public authority,permissioned,,,,,0.68,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,NLH12,,,,not owned by a public authority,permissioned,,,,,1.67,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,TG03,,,,not owned by a public authority,permissioned,,,,,12,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,SS11,,,,not owned by a public authority,permissioned,,,,,0.18,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,WLDW01,,,,not owned by a public authority,permissioned,,,,,0.2,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,BBW02,,,,owned by a public authority,not permissioned,,,,,2.7,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,TG05,,,,owned by a public authority,not permissioned,,,,,1.5,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,MS02,,,,not owned by a public authority,not permissioned,,,,,40.6,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,SW13,,,,not owned by a public authority,not permissioned,,,,,2.3,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,TG08,,,,not owned by a public authority,not permissioned,,,,,1.9,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,HP01,,,,owned by a public authority,not permissioned,,,,,2.4,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,BBW05,,,,not owned by a public authority,not permissioned,,,,,0.46,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,WLD01,,,,not owned by a public authority,not permissioned,,,,,0.41,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,SS09,,,,not owned by a public authority,not permissioned,,,,,0.39,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,LHU12,,,,not owned by a public authority,not permissioned,,,,,0.37,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,FE05,,,,not owned by a public authority,not permissioned,,,,,0.34,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,TG02,,,,not owned by a public authority,not permissioned,,,,,0.29,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,GH03,,,,not owned by a public authority,not permissioned,,,,,0.23,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,HP02,,,,not owned by a public authority,not permissioned,,,,,0.23,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,LSM04,,,,not owned by a public authority,not permissioned,,,,,0.15,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,BBE15,,,,not owned by a public authority,not permissioned,,,,,0.2,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,BBE12,,,,,not permissioned,,,,,0.07,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
+2016-06-03,local-authority-eng:SRI,FW09b,,,,not owned by a public authority,permissioned,,,,,6.49,,,2016-06-03,,a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf
