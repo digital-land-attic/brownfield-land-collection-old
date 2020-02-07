@@ -179,6 +179,7 @@ $(MAPPED_DATASET): $(MAPPED_FILES) bin/csvcat.sh bin/csvescape.py
 $(VALIDATION_DIR)%.json: $(RESOURCE_DIR)%
 	@mkdir -p $(VALIDATION_DIR)
 	validate --exclude-input --exclude-rows --file $< --output $@
+	@rm -f $<.csv
 
 # fix validation which the validator fails on ..
 $(BROKEN_VALIDATIONS):
