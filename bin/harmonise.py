@@ -129,6 +129,7 @@ def load_organisations():
         organisation[row["organisation"]] = row
         if "opendatacommunities" in row:
             uri = row["opendatacommunities"].lower()
+            organisation_uri[row["organisation"].lower()] = uri
             organisation_uri[uri] = uri
             organisation_uri[end_of_uri(uri)] = uri
             organisation_uri[row["statistical-geography"].lower()] = uri
