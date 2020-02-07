@@ -14,6 +14,8 @@
                 "typos": [
                     "OrganistionURI",
                     "OrganisationURL",
+                    "OrgansiationURI",
+                    "OrgainisationURL",
                     "Organisational URI",
                     "LPA URL",
                     "OPEN DATA WEBSITE",
@@ -21,7 +23,8 @@
                     "Org. URI",
                     "OrgURL",
                     "Publisher URL",
-                    "URI"
+                    "URI",
+                    "District"
                 ],
                 "values": {
                   "dataset": "organisation",
@@ -58,6 +61,7 @@
             },
             "digital-land": {
                 "typos": [
+                    "Brownfield Register Reference",
                     "LA SITE REF",
                     "SiteRefere",
                     "Site reference"
@@ -114,7 +118,8 @@
                 "precision": 6,
                 "typos": [
                   "GeoX (Longitude or east grid)",
-                  "GeoX [East]"
+                  "GeoX [East]",
+                  "Eastings"
                 ]
             }
         },
@@ -131,7 +136,8 @@
                 "precision": 6,
                 "typos": [
                   "GeoY (Latitude or north grid)",
-                  "GeoY [North]"
+                  "GeoY [North]",
+                  "Northings"
                 ]
             }
         },
