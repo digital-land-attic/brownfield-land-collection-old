@@ -75,6 +75,7 @@
             "digital-land": {
                 "concatenate": {
                   "fields": [
+                    "Site Name",
                     "Address 1",
                     "Address 2"
                   ],
@@ -289,7 +290,10 @@
                 "required": false
             },
             "digital-land": {
-                "field": "minimum-net-dwellings"
+                "field": "minimum-net-dwellings",
+                "typos": [
+                  "Min dwellings"
+                ]
             }
         },
         {
@@ -301,7 +305,10 @@
                 "required": false
             },
             "digital-land": {
-                "field": "maximum-net-dwellings"
+                "field": "maximum-net-dwellings",
+                "typos": [
+                  "Max dwellings"
+                ]
             }
         },
         {
@@ -343,7 +350,8 @@
             "digital-land": {
                 "field": "start-date",
                 "typos": [
-                    "FirstAdded"
+                    "FirstAdded",
+                    "Date first entered on the register"
                 ]
             }
         },
@@ -359,7 +367,10 @@
                 "typos": [
                     "LastUpdate"
                 ],
-                "field": "entry-date"
+                "field": "entry-date",
+                "typos": [
+                  "Date last updated on the register"
+                ]
             }
         },
         {
