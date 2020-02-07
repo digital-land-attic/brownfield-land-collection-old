@@ -65,6 +65,7 @@ TRANSFORMED_FILES:= $(subst $(CONVERTED_DIR),$(TRANSFORMED_DIR),$(CONVERTED_FILE
 
 # data needed for normalisation
 NORMALISE_DATA:=\
+	$(PATCH_DIR)/null.csv\
 	$(PATCH_DIR)/skip.csv
 
 # data needed for harmonisation

@@ -278,7 +278,7 @@ def normalise_enum(field, fieldvalue):
 
 
 def normalise(fieldname, value):
-    if value.lower() in [None, "", "-", "n/a", "#n/a", "???", "<null>"]:
+    if not value:
         return ""
 
     field = fields[fieldname]

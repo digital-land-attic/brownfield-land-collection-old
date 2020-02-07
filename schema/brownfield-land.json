@@ -19,7 +19,9 @@
                     "OPEN DATA WEBSITE",
                     "Organisati",
                     "Org. URI",
-                    "OrgURL"
+                    "OrgURL",
+                    "Publisher URL",
+                    "URI"
                 ],
                 "values": {
                   "dataset": "organisation",
@@ -57,7 +59,8 @@
             "digital-land": {
                 "typos": [
                     "LA SITE REF",
-                    "SiteRefere"
+                    "SiteRefere",
+                    "Site reference"
                 ],
                 "field": "site"
             }
