@@ -21,7 +21,7 @@ fieldnames = [field["name"] for field in schema["fields"]]
 pattern = re.compile(r"[^a-z0-9]")
 
 
-def name(name):
+def normalise(name):
     return re.sub(pattern, "", name.lower())
 
 
@@ -30,20 +30,23 @@ if __name__ == "__main__":
     typos = {}
     for fieldname in fieldnames:
         field = fields[fieldname]
-        typos[name(fieldname)] = fieldname
+        typos[normalise(fieldname)] = fieldname
         if "title" in field:
-            typos[name(field["title"])] = fieldname
+            typos[normalise(field["title"])] = fieldname
         if "digital-land" in field:
             for typo in field["digital-land"].get("typos", []):
-                typos[name(typo)] = fieldname
+                typos[normalise(typo)] = fieldname
 
     reader = csv.DictReader(open(input_path, newline=""))
 
     # build index of headers from the input
     headers = {}
     for field in reader.fieldnames:
-        if name(field) in typos:
-            headers[field] = typos[name(field)]
+        fieldname = normalise(field)
+
+        if fieldname not in fieldnames:
+            if fieldname in typos:
+                headers[field] = typos[fieldname]
 
     with open(output_path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
