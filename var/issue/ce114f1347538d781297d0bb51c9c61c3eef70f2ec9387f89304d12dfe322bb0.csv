@@ -1,1 +1,38 @@
 row-number,field,datatype,value
+4,PermissionDate,date,"10.11.2016
+10.07.2018"
+26,PermissionDate,date,"02.10.2015
+03.08.2018
+24.11.2017"
+29,PermissionDate,date,"17.12.2014
+06.10.2015"
+36,GeoX,decimal,"622935
+(ref for 12/00143/ET only)"
+36,GeoY,decimal,"309079
+(ref for 12/00143/ET only)"
+38,PermissionDate,date,"16.04.2015
+23.11.2018"
+41,PermissionDate,date,"25.10.2016
+22.12.2017
+16.02.2017"
+49,PermissionType,enum,"full planning permission
+Reserved matters"
+49,PermissionDate,date,"17.12.2015
+21.12.2018"
+53,PermissionType,enum,demolition
+54,PermissionDate,date,"19.07.2016
+15.02.2018"
+59,PermissionType,enum,"outline planning permission
+full planning permission"
+59,PermissionDate,date,"15.11.2012
+04.09.2019"
+63,PermissionDate,date,"05.11.2013
+19.02.2019"
+65,PermissionDate,date,"30.01.2009
+12.07.2013"
+88,PermissionDate,date,"19.07.2018
+14.08.2018"
+89,PermissionDate,date,"15.05.2018
+22.10.2019"
+102,PermissionDate,date,"15.03.2018
+30.07.2018"

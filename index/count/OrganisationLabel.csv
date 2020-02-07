@@ -1,5 +1,5 @@
 field,value,count
-OrganisationLabel,"",9330
+OrganisationLabel,"",9128
 OrganisationLabel,London Borough of Camden,2617
 OrganisationLabel,Southwark Council,1038
 OrganisationLabel,Haringey Council,923
@@ -37,6 +37,7 @@ OrganisationLabel,St. Helens Borough Council,304
 OrganisationLabel,Kirklees Council,301
 OrganisationLabel,Wakefield Council,299
 OrganisationLabel,Sevenoaks District Council,294
+OrganisationLabel,Norwich City Council,293
 OrganisationLabel,Woking Borough Council,290
 OrganisationLabel,Charnwood Borough Council,290
 OrganisationLabel,Coventry City Council,270
@@ -120,7 +121,6 @@ OrganisationLabel,Isle of Wight Council,100
 OrganisationLabel,Worthing Borough Council,99
 OrganisationLabel,Hart District Council,99
 OrganisationLabel,East Riding of Yorkshire,99
-OrganisationLabel,Norwich City Council,98
 OrganisationLabel,Forest of Dean District Council,98
 OrganisationLabel,Borough Council of Kings Lynn and West Norfolk,98
 OrganisationLabel,Barnsley Metropolitan Borough Council,98

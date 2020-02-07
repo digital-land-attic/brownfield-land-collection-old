@@ -1234,7 +1234,86 @@ Y15/0030/SH"
 341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534,17,PermissionType,enum,MAF
 341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534,18,PermissionType,enum,OUT
 341038260cf71356e3731b942df352cbb2f60bb1613c928fbf672c7e43f77534,19,PermissionType,enum,MAF
-3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,8,"GeoX,GeoY",OSGB,","
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,1,GeoX,decimal,"447,370"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,1,GeoY,decimal,"338,640"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,2,GeoX,decimal,"446,416"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,2,GeoY,decimal,"342,845"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,3,GeoX,decimal,"446,167"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,3,GeoY,decimal,"342,250"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,4,GeoX,decimal,"448,640"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,4,GeoY,decimal,"334,493"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,5,GeoX,decimal,"446,683"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,5,GeoY,decimal,"342,704"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,6,GeoX,decimal,"449,653"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,6,GeoY,decimal,"333,825"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,7,GeoX,decimal,"449,072"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,7,GeoY,decimal,"334,291"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,8,GeoX,decimal,"436,103"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,8,GeoY,decimal,"341,279"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,9,GeoX,decimal,"449,375"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,9,GeoY,decimal,"333,012"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,10,GeoX,decimal,"449,097"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,10,GeoY,decimal,"333,334"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,11,GeoX,decimal,"446,438"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,11,GeoY,decimal,"341,634"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,12,GeoX,decimal,"446,765"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,12,GeoY,decimal,"340,502"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,13,GeoX,decimal,"444,272"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,13,GeoY,decimal,"342,143"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,14,GeoX,decimal,"445,133"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,14,GeoY,decimal,"339,800"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,15,GeoX,decimal,"447,188"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,15,GeoY,decimal,"341,367"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,16,GeoX,decimal,"446,232"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,16,GeoY,decimal,"344,261"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,17,GeoX,decimal,"449,009"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,17,GeoY,decimal,"334,357"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,18,GeoX,decimal,"446,435"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,18,GeoY,decimal,"342,220"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,19,GeoX,decimal,"446,572"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,19,GeoY,decimal,"341,621"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,20,GeoX,decimal,"448,743"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,20,GeoY,decimal,"334,376"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,21,GeoX,decimal,"437,408"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,21,GeoY,decimal,"339,278"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,22,GeoX,decimal,"447,703"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,22,GeoY,decimal,"334,475"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,23,GeoX,decimal,"449,448"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,23,GeoY,decimal,"333,456"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,24,GeoX,decimal,"446,783"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,24,GeoY,decimal,"342,222"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,25,GeoX,decimal,"447,275"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,25,GeoY,decimal,"342,542"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,26,GeoX,decimal,"446,634"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,26,GeoY,decimal,"343,890"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,27,GeoX,decimal,"442,112"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,27,GeoY,decimal,"334,396"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,28,GeoX,decimal,"446,591"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,28,GeoY,decimal,"342,384"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,29,GeoX,decimal,"448,921"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,29,GeoY,decimal,"333,426"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,30,GeoX,decimal,"446,606"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,30,GeoY,decimal,"341,877"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,31,GeoX,decimal,"449,009"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,31,GeoY,decimal,"333,837"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,32,GeoX,decimal,"446,514"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,32,GeoY,decimal,"342,192"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,33,GeoX,decimal,"448,037"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,33,GeoY,decimal,"333,960"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,34,GeoX,decimal,"449,141"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,34,GeoY,decimal,"333,567"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,35,GeoX,decimal,"449,141"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,35,GeoY,decimal,"333,567"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,36,GeoX,decimal,"446,668"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,36,GeoY,decimal,"342,319"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,37,GeoX,decimal,"446,277"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,37,GeoY,decimal,"343,290"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,38,GeoX,decimal,"446,531"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,38,GeoY,decimal,"341,873"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,39,GeoX,decimal,"449,327"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,39,GeoY,decimal,"333,457"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,40,GeoX,decimal,"447,354"
+3431d591a6d589b43c7fba3a2851d316a09ca29e06dba5c1de13c2d6cbd22125,40,GeoY,decimal,"340,623"
 34377bd3867f434e9e94176a0fdf8a10905bb87eb3bfbdde762eed1f3b5c7555,1,SiteplanURL,uri,Link to PDF of map
 370dae5fa1397606d1adab337a12a76e64b4d729ba713ea75a09f94a6f8653df,1,"GeoX,GeoY",OSGB,","
 370dae5fa1397606d1adab337a12a76e64b4d729ba713ea75a09f94a6f8653df,2,"GeoX,GeoY",OSGB,","
@@ -1788,243 +1867,124 @@ Y15/0030/SH"
 51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a,31,"GeoX,GeoY",OSGB,","
 51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a,32,"GeoX,GeoY",OSGB,","
 51659ac58f209b22a2ab67566d1a02b4ef1d916f14ca536f889def0587c5f64a,33,"GeoX,GeoY",OSGB,","
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,1,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,1,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,2,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,2,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,3,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,3,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,4,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,4,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,5,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,5,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,6,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,6,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,7,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,7,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,8,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,8,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,9,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,9,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,10,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,10,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,11,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,11,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,12,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,12,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,13,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,13,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,14,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,14,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,15,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,15,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,16,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,16,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,17,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,17,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,18,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,18,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,19,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,19,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,20,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,20,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,21,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,21,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,22,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,22,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,23,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,23,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,24,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,24,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,25,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,25,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,26,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,26,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,27,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,27,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,28,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,28,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,29,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,29,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,30,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,30,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,31,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,31,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,32,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,32,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,33,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,33,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,34,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,34,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,35,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,35,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,36,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,36,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,37,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,37,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,38,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,38,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,39,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,39,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,40,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,40,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,41,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,41,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,42,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,42,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,43,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,43,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,44,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,44,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,45,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,45,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,46,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,46,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,47,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,47,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,48,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,48,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,49,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,49,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,50,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,50,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,51,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,51,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,52,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,52,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,53,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,53,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,54,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,54,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,55,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,55,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,56,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,56,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,57,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,57,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,58,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,58,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,59,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,59,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,60,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,60,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,61,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,61,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,62,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,62,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,63,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,63,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,64,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,64,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,65,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,65,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,66,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,66,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,67,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,67,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,68,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,68,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,69,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,69,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,70,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,70,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,71,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,71,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,72,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,72,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,73,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,73,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,74,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,74,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,75,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,75,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,76,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,76,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,77,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,77,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,78,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,78,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,79,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,79,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,80,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,80,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,81,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,81,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,82,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,82,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,83,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,83,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,84,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,84,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,85,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,85,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,86,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,86,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,87,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,87,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,88,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,88,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,89,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,89,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,90,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,90,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,91,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,91,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,92,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,92,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,93,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,93,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,94,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,94,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,95,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,95,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,96,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,96,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,97,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,97,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,98,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,98,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,99,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,99,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,100,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,100,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,101,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,101,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,102,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,102,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,103,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,103,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,104,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,104,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,105,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,105,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,106,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,106,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,107,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,107,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,108,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,108,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,109,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,109,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,110,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,110,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,111,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,111,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,112,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,112,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,113,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,113,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,114,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,114,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,115,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,115,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,116,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,116,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,117,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,117,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,118,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,118,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
-51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,119,OrganisationURI,opendatacommunities-uri,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
 51e028895eff24df83dfe680347999382385cb87edd36855a80290fc8341459c,119,SiteplanURL,uri,Click here to go to the city council strategic housing land availability assessment (SHLAA) and brownfield land register map
 522aab8864dc6cc89047515f3028d44784dc5247288b53b317cd04741912894a,1,GeoX,decimal,"543575, 543397"
 522aab8864dc6cc89047515f3028d44784dc5247288b53b317cd04741912894a,1,GeoY,decimal,"178738, 178601"
@@ -2403,35 +2363,6 @@ Y15/0030/SH"
 540726a456ad6481487b2953dd8404dd1bd29f9e584158abe4efd237e522db85,53,"GeoX,GeoY",OSGB,","
 596733d3c7172c621cdd97986a883cd97edff9464fff17f963a61b057e74370f,36,FirstAddedDate,date,208-12-12
 5a3db14fbc2f2637f49abf268ae787cd1dda00c10d1c403724d753a93fee0f84,52,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,1,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,2,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,3,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,4,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,5,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,6,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,7,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,8,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,9,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,10,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,11,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,12,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,13,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,14,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,15,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,16,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,17,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,18,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,19,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,20,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,21,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,22,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,23,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,24,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,25,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,26,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,27,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,28,"GeoX,GeoY",OSGB,","
-5a68fbb4a8f0451e5d2f0a04923f5d60634a6df031c7610819ea0b3294905d57,29,"GeoX,GeoY",OSGB,","
 5a9a3931e7a19f4fba128bdc1dcb544f0860ceeba17ce15f7621f02c25062a81,1,"GeoX,GeoY",OSGB,","
 5a9a3931e7a19f4fba128bdc1dcb544f0860ceeba17ce15f7621f02c25062a81,2,"GeoX,GeoY",OSGB,","
 5a9a3931e7a19f4fba128bdc1dcb544f0860ceeba17ce15f7621f02c25062a81,3,"GeoX,GeoY",OSGB,","
@@ -2820,7 +2751,86 @@ Y15/0030/SH"
 64f7e6abdcf67614d513571e3acf6b4a3d011e8f61ee98ca4d0f9f5c76b0ab52,31,PermissionDate,date,08/21/18
 64f7e6abdcf67614d513571e3acf6b4a3d011e8f61ee98ca4d0f9f5c76b0ab52,33,PermissionDate,date,04/20/18
 64f7e6abdcf67614d513571e3acf6b4a3d011e8f61ee98ca4d0f9f5c76b0ab52,35,PermissionDate,date,05/14/18
-66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,8,"GeoX,GeoY",OSGB,","
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,1,GeoX,decimal,"447,370"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,1,GeoY,decimal,"338,640"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,2,GeoX,decimal,"446,416"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,2,GeoY,decimal,"342,845"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,3,GeoX,decimal,"446,167"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,3,GeoY,decimal,"342,250"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,4,GeoX,decimal,"448,640"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,4,GeoY,decimal,"334,493"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,5,GeoX,decimal,"446,683"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,5,GeoY,decimal,"342,704"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,6,GeoX,decimal,"449,653"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,6,GeoY,decimal,"333,825"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,7,GeoX,decimal,"449,072"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,7,GeoY,decimal,"334,291"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,8,GeoX,decimal,"436,103"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,8,GeoY,decimal,"341,279"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,9,GeoX,decimal,"449,375"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,9,GeoY,decimal,"333,012"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,10,GeoX,decimal,"449,097"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,10,GeoY,decimal,"333,334"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,11,GeoX,decimal,"446,438"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,11,GeoY,decimal,"341,634"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,12,GeoX,decimal,"446,765"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,12,GeoY,decimal,"340,502"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,13,GeoX,decimal,"444,272"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,13,GeoY,decimal,"342,143"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,14,GeoX,decimal,"445,133"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,14,GeoY,decimal,"339,800"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,15,GeoX,decimal,"447,188"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,15,GeoY,decimal,"341,367"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,16,GeoX,decimal,"446,232"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,16,GeoY,decimal,"344,261"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,17,GeoX,decimal,"449,009"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,17,GeoY,decimal,"334,357"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,18,GeoX,decimal,"446,435"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,18,GeoY,decimal,"342,220"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,19,GeoX,decimal,"446,572"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,19,GeoY,decimal,"341,621"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,20,GeoX,decimal,"448,743"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,20,GeoY,decimal,"334,376"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,21,GeoX,decimal,"437,408"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,21,GeoY,decimal,"339,278"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,22,GeoX,decimal,"447,703"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,22,GeoY,decimal,"334,475"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,23,GeoX,decimal,"449,448"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,23,GeoY,decimal,"333,456"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,24,GeoX,decimal,"446,783"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,24,GeoY,decimal,"342,222"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,25,GeoX,decimal,"447,275"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,25,GeoY,decimal,"342,542"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,26,GeoX,decimal,"446,634"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,26,GeoY,decimal,"343,890"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,27,GeoX,decimal,"442,112"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,27,GeoY,decimal,"334,396"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,28,GeoX,decimal,"446,591"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,28,GeoY,decimal,"342,384"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,29,GeoX,decimal,"448,921"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,29,GeoY,decimal,"333,426"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,30,GeoX,decimal,"446,606"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,30,GeoY,decimal,"341,877"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,31,GeoX,decimal,"449,009"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,31,GeoY,decimal,"333,837"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,32,GeoX,decimal,"446,514"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,32,GeoY,decimal,"342,192"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,33,GeoX,decimal,"448,037"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,33,GeoY,decimal,"333,960"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,34,GeoX,decimal,"449,141"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,34,GeoY,decimal,"333,567"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,35,GeoX,decimal,"449,141"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,35,GeoY,decimal,"333,567"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,36,GeoX,decimal,"446,668"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,36,GeoY,decimal,"342,319"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,37,GeoX,decimal,"446,277"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,37,GeoY,decimal,"343,290"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,38,GeoX,decimal,"446,531"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,38,GeoY,decimal,"341,873"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,39,GeoX,decimal,"449,327"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,39,GeoY,decimal,"333,457"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,40,GeoX,decimal,"447,354"
+66daee00d094ebb5805f605d75ecf079681352a6bbecd3b4ccb2105ee09d4416,40,GeoY,decimal,"340,623"
 68badca0e891be42cf6759262c8cf4ae3792dd4563e067fb066c0ba4dd49c08d,1,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
 68badca0e891be42cf6759262c8cf4ae3792dd4563e067fb066c0ba4dd49c08d,2,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
 68badca0e891be42cf6759262c8cf4ae3792dd4563e067fb066c0ba4dd49c08d,3,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
@@ -3579,6 +3589,23 @@ Y15/0030/SH"
 705ceb15dcf386c1df3b529f229bea20a994c75e1b8ddc1a76c171a15520586b,181,"GeoX,GeoY",OSGB,","
 705ceb15dcf386c1df3b529f229bea20a994c75e1b8ddc1a76c171a15520586b,182,"GeoX,GeoY",OSGB,","
 76b5d6f58c019347ef23ddae1e190f368c1976adc72bb10ee4dd6504c4fc1563,42,PermissionDate,date,2017-03-07 | 2015-06-04
+76c6dce53abe00fecfa27b133afe59ed83df64c32a3882261ade2814b787311f,2,PermissionType,enum,demolition
+76c6dce53abe00fecfa27b133afe59ed83df64c32a3882261ade2814b787311f,25,PermissionDate,date,"25.11.2014;
+ 04.09.2014"
+76c6dce53abe00fecfa27b133afe59ed83df64c32a3882261ade2814b787311f,31,PermissionDate,date,"17.12.2014
+06.10.2015"
+76c6dce53abe00fecfa27b133afe59ed83df64c32a3882261ade2814b787311f,38,GeoX,decimal,"622935
+(ref for 12/00143/ET only)"
+76c6dce53abe00fecfa27b133afe59ed83df64c32a3882261ade2814b787311f,38,GeoY,decimal,"309079
+(ref for 12/00143/ET only)"
+76c6dce53abe00fecfa27b133afe59ed83df64c32a3882261ade2814b787311f,72,PermissionDate,date,"30.01.2009
+12.07.2013"
+76c6dce53abe00fecfa27b133afe59ed83df64c32a3882261ade2814b787311f,76,PermissionDate,date,"30.08.2017
+08.08.2017"
+76c6dce53abe00fecfa27b133afe59ed83df64c32a3882261ade2814b787311f,89,FirstAddedDate,date,43100
+76c6dce53abe00fecfa27b133afe59ed83df64c32a3882261ade2814b787311f,89,LastUpdatedDate,date,43100
+76c6dce53abe00fecfa27b133afe59ed83df64c32a3882261ade2814b787311f,93,FirstAddedDate,date,43100
+76c6dce53abe00fecfa27b133afe59ed83df64c32a3882261ade2814b787311f,93,LastUpdatedDate,date,43100
 773b254a277d51a73d83ecd753e5c34ee2ae5b72b5ccfdf61c4cc7bd3e759e40,30,"GeoX,GeoY",OSGB,","
 777b5e1e380b516359eb70605aee15b4f502a52005b239f5857dbdef6949ce45,36,Hectares,decimal,"0,09"
 777b5e1e380b516359eb70605aee15b4f502a52005b239f5857dbdef6949ce45,37,"GeoX,GeoY",OSGB,","
@@ -5069,6 +5096,77 @@ bea1b5b3b6cf1191e83218616bbb3da7e988b81d3f1241d3b275080c1d38855a,27,"GeoX,GeoY",
 bea1b5b3b6cf1191e83218616bbb3da7e988b81d3f1241d3b275080c1d38855a,28,"GeoX,GeoY",OSGB,","
 bea1b5b3b6cf1191e83218616bbb3da7e988b81d3f1241d3b275080c1d38855a,72,"GeoX,GeoY",OSGB,","
 bea1b5b3b6cf1191e83218616bbb3da7e988b81d3f1241d3b275080c1d38855a,83,"GeoX,GeoY",OSGB,","
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,1,NetDwellingsRangeFrom,integer,162.25
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,4,NetDwellingsRangeFrom,integer,1.5
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,6,Hectares,decimal,0.39 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,6,NetDwellingsRangeFrom,integer,9.75
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,7,PermissionType,enum,planning permission granted
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,8,Hectares,decimal,0.11 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,8,PermissionType,enum,under an order
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,9,Hectares,decimal,6.26 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,9,NetDwellingsRangeFrom,integer,156.5
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,10,Hectares,decimal,3.8 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,12,Hectares,decimal,0.37 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,14,Hectares,decimal,0.09 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,14,NetDwellingsRangeFrom,integer,2.25 06/2005/1124 for 25 apartments has now lapsed. CCP allocation SP4.6
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,16,NetDwellingsRangeFrom,integer,45 lapsed.
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,17,NetDwellingsRangeFrom,integer,2 06/2004/0757 change of use from offices to 6 apartments. Various permissions but none implemented.
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,18,NetDwellingsRangeFrom,integer,1 06/2017/0074 change of use of part of ground floor anf first floor to 1 apartment
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,19,NetDwellingsRangeFrom,integer,1.5 06/2017/0251 for 19 apartments.
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,20,NetDwellingsRangeFrom,integer,8.25 06/2007/1092 for conversion to 45 apartments Not implemented
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,21,NetDwellingsRangeFrom,integer,32.5 PLP Site HS1.3. Still in employment use - redevelopment unlikely in short term.
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,22,Hectares,decimal,0.29 Owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,22,NetDwellingsRangeFrom,integer,7.25 Site still vacant. No pp.
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,24,Hectares,decimal,0.5 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,24,NetDwellingsRangeFrom,integer,12.5 PLP Site HS1.12 No pp.
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,25,Hectares,decimal,1.75 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,25,NetDwellingsRangeFrom,integer,43.75 CCP Policy OP1 - Corporation Street. No pp. Still operational railway land?
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,27,Hectares,decimal,0.14 Unknown ownership
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,27,NetDwellingsRangeFrom,integer,3.5 of appeal decision for adj property on Laurel St (06/2011/00297).
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,29,Hectares,decimal,0.11 Unknown ownership
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,29,NetDwellingsRangeFrom,integer,2.75 06/2002/0438 lapsed for student accommodation not implemented.
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,30,Hectares,decimal,0.03 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,30,NetDwellingsRangeFrom,integer,0.75 06/2011/0911 for Student accommodation has now lapsed. Time ext to 06/2008/0889
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,31,Hectares,decimal,0.25 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,31,NetDwellingsRangeFrom,integer,6.25
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,34,Hectares,decimal,0.09 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,34,NetDwellingsRangeFrom,integer,2.25 Mission building
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,36,Hectares,decimal,0.06 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,36,NetDwellingsRangeFrom,integer,1.5 06/2008/0140 Student accom. PP lapsed
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,37,Hectares,decimal,0.15 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,37,NetDwellingsRangeFrom,integer,3.75 06/2016/1165 conversion of offices to 14 apartments
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,38,PermissionType,enum,planning permission granted
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,39,Hectares,decimal,0.7 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,39,PermissionType,enum,under an order
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,39,NetDwellingsRangeFrom,integer,"0 and offices (B1) at upper floors, to student accommodation"
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,40,Hectares,decimal,0.29 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,40,NetDwellingsRangeFrom,integer,7.25 Local Plan Allocation HS1.6. 06/2014/0972 erection of 11 townhouses
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,41,PermissionType,enum,planning permission granted
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,42,Hectares,decimal,0.04 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,42,PermissionType,enum,under an order
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,42,NetDwellingsRangeFrom,integer,0 06/2013/0591 Prior notification submission for conversion from B1 offices to C3 residential.
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,43,PermissionType,enum,planning permission granted
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,44,Hectares,decimal,0.03 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,44,PermissionType,enum,under an order
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,44,NetDwellingsRangeFrom,integer,0 residential.
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,45,Hectares,decimal,0.02 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,45,NetDwellingsRangeFrom,integer,0 06/2013/0752 Conversion of upper floors and attic to 9 flats.
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,46,Hectares,decimal,0.08 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,46,NetDwellingsRangeFrom,integer,2 06/2014/0084 Change of use from B1 offices to 8 apartments (C3).
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,47,PermissionType,enum,planning permission granted
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,48,PermissionType,enum,under an order
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,48,NetDwellingsRangeFrom,integer,0 (Class C3)
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,50,NetDwellingsRangeFrom,integer,25 06/2014/0028 Erection of 14 dwellings following demolition of existing utility building.
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,51,NetDwellingsRangeFrom,integer,87.25 06/2015/0173 Erection of 7 dwellings following demolition of exisiting kennels etc.
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,52,NetDwellingsRangeFrom,integer,0.25 06/2015/0564 Conversion and extension of dwelling to create 7 bedsits.
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,53,NetDwellingsRangeFrom,integer,37.5 Local Plan Allocation HS1.1
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,54,NetDwellingsRangeFrom,integer,107.5 Local Plan Allocation HS1.2 Not all of site will come forward in 5 yrs. Housing Zone site.
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,56,Hectares,decimal,0.71 Not owned by a public authority
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,56,NetDwellingsRangeFrom,integer,17.75 Local Plan Allocation HS1.7 & 06/2014/0494 Erection of three storey terrace of 4no. town houses
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,57,Hectares,decimal,0.2 Unknown ownership
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,57,NetDwellingsRangeFrom,integer,5 SP4.3
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,58,Hectares,decimal,0.4 Unknown ownership
+c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4,58,NetDwellingsRangeFrom,integer,10 SP4.4
 c6c270475bad4d9e82a9e199b1edf5c3230b9e6800cea0ebb32738a7644aab69,1,"GeoX,GeoY",OSGB,","
 c6c270475bad4d9e82a9e199b1edf5c3230b9e6800cea0ebb32738a7644aab69,2,"GeoX,GeoY",OSGB,","
 c6c270475bad4d9e82a9e199b1edf5c3230b9e6800cea0ebb32738a7644aab69,3,"GeoX,GeoY",OSGB,","
@@ -5139,6 +5237,43 @@ cd075088f9481d6851dadc289d03ffcad6a8b995d16ea46458a603fa0a4573ae,34,SiteplanURL,
 cd075088f9481d6851dadc289d03ffcad6a8b995d16ea46458a603fa0a4573ae,35,SiteplanURL,uri,www.hertsmere.gov.uk/Documents/09-Planning--Building-Control/Planning-Policy/BR035-Adj-Haven-Ct-Glenhaven-Ave-Borehamwood.pdf
 cd075088f9481d6851dadc289d03ffcad6a8b995d16ea46458a603fa0a4573ae,36,SiteplanURL,uri,www.hertsmere.gov.uk/Documents/09-Planning--Building-Control/Planning-Policy/BR036-Cecil-Rosen-Ct-High-Rd-Bushey16-0848-VOC.pdf
 cd075088f9481d6851dadc289d03ffcad6a8b995d16ea46458a603fa0a4573ae,37,SiteplanURL,uri,www.hertsmere.gov.uk/Documents/09-Planning--Building-Control/Planning-Policy/BR052-61-63-Bushey-Hall-Rd-Abbeyfield-Society-Bushey.pdf
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,4,PermissionDate,date,"10.11.2016
+10.07.2018"
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,26,PermissionDate,date,"02.10.2015
+03.08.2018
+24.11.2017"
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,29,PermissionDate,date,"17.12.2014
+06.10.2015"
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,36,GeoX,decimal,"622935
+(ref for 12/00143/ET only)"
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,36,GeoY,decimal,"309079
+(ref for 12/00143/ET only)"
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,38,PermissionDate,date,"16.04.2015
+23.11.2018"
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,41,PermissionDate,date,"25.10.2016
+22.12.2017
+16.02.2017"
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,49,PermissionType,enum,"full planning permission
+Reserved matters"
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,49,PermissionDate,date,"17.12.2015
+21.12.2018"
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,53,PermissionType,enum,demolition
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,54,PermissionDate,date,"19.07.2016
+15.02.2018"
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,59,PermissionType,enum,"outline planning permission
+full planning permission"
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,59,PermissionDate,date,"15.11.2012
+04.09.2019"
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,63,PermissionDate,date,"05.11.2013
+19.02.2019"
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,65,PermissionDate,date,"30.01.2009
+12.07.2013"
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,88,PermissionDate,date,"19.07.2018
+14.08.2018"
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,89,PermissionDate,date,"15.05.2018
+22.10.2019"
+ce114f1347538d781297d0bb51c9c61c3eef70f2ec9387f89304d12dfe322bb0,102,PermissionDate,date,"15.03.2018
+30.07.2018"
 ce99fe244947ce96743c003acca6866e120a4b9137d91f9062dab459a639699c,1,Deliverable,enum,Not available
 ce99fe244947ce96743c003acca6866e120a4b9137d91f9062dab459a639699c,3,Deliverable,enum,Not available
 ce99fe244947ce96743c003acca6866e120a4b9137d91f9062dab459a639699c,11,Deliverable,enum,Not available

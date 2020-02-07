@@ -1,10 +1,11 @@
 column,count
-,18737
+,18660
 #,1
 0.28,1
 01/12/2017,2
 04/10/2016,1
 120125,1
+2018 Site Reference (where changed),1
 419779,1
 7,1
 "<?xml version=""1.0"" encoding=""UTF-8""?>",1
@@ -50,7 +51,7 @@ Alternative Reference 1 (Planning permission),1
 Alternative Reference 2 (Local Plan PS Jan 2018),1
 Alternative Reference 2 (Site Assessment),1
 Alternative References,6
-Alternative references,1
+Alternative references,3
 AlternativeReference,15
 AlternativeReferences,25
 App No.,1
@@ -80,8 +81,6 @@ BNG_Northing,4
 Brownfie_1,1
 Brownfield,1
 Brownfield Coverage,1
-Brownfield Land Register 2018,1
-Brownfield Land Register 2019,1
 Brownfield Register Reference,3
 Brownfield coverage*,1
 Brownfield/GreenfieldMix?,2
@@ -105,6 +104,7 @@ Capacity max remaining,2
 Capacity min remaining,2
 Co-ordinate Reference System,3
 Co-ordinate system,2
+Column1,1
 Comments,1
 ConservationArea,1
 Constraints,4
@@ -112,10 +112,10 @@ ConstructionStatus,4
 Contraints,1
 Coodinate Reference System,1
 Coodinate_Reference_System,1
-Coordinate,4
+Coordinate,3
 "Coordinate
 ReferenceSystem",1
-Coordinate Reference System,29
+Coordinate Reference System,31
 Coordinate referencing system,1
 CoordinateRef. System,1
 CoordinateRefSystem,1
@@ -155,15 +155,16 @@ DateUpdate,2
 Date_Permission,1
 Decision_Date,3
 Deliverabl,3
-Deliverable,763
+Deliverable,766
 Deliverable - mandatory if yes,1
-Description,1
+Description,2
 Description of Proposed Development,3
 Description of the development,1
 Developable area (ha),1
 Developed: extant/ commc'd./ part. compltd.,1
 Developmen,2
-Development Description,43
+Development,1
+Development Description,45
 Development Status: extant/ commc'd./ part. compltd.,1
 Development description,1
 Development status (if site has full PP),1
@@ -197,13 +198,13 @@ Fields,2
 Added
 Date",2
 First Added,2
-First Added Date,31
+First Added Date,33
 First Added date,3
 FirstAdd,1
 FirstAdded,4
 "FirstAdded
 Date",1
-FirstAddedDate,723
+FirstAddedDate,724
 FirstAddedDate1,2
 FirstAddedDateBR,2
 FirstDateAdded,1
@@ -218,14 +219,14 @@ Geo Longitude,2
 Geo X,9
 Geo Y,9
 GeoPointLicensingURL,2
-GeoX,755
+GeoX,758
 GeoX (Longitude or east grid),3
 GeoX [East],2
 GeoX_2,1
 GeoX_3,1
 GeoX_ETRS89,1
 GeoX_WGS84,1
-GeoY,755
+GeoY,758
 GeoY (Latitude or north grid),3
 GeoY [North],2
 GeoY_2,1
@@ -246,7 +247,7 @@ HELAA note,1
 HELAAReference,2
 HSGESTIMAT,1
 Hazardous Substance[s] on site? [as identifiied in Application form],1
-Hazardous Substances,27
+Hazardous Substances,29
 Hazardous Substances - mandatory where relevant,1
 Hazardous Substances Regs 2015,2
 Hazardous Substances [as identifiied in Appl. form],1
@@ -255,9 +256,9 @@ HazardousS,3
 HazardousSubstances,686
 HazardousSubtances,2
 HazourdousSubstances,2
-Hectares,770
+Hectares,773
 Hectares (gross),2
-Housing Delivery Estimate,6
+Housing Delivery Estimate,8
 Housing Est (remaining),1
 Housing Estimate (remaining),1
 HousingEstimate,6
@@ -297,7 +298,7 @@ LandAllocationsReference,2
 Lapse date,2
 Last Update,2
 Last Updated,4
-Last Updated Date,33
+Last Updated Date,35
 Last Updated date,3
 Last UpdatedDate,2
 Last updated,2
@@ -308,7 +309,7 @@ LastUpdateDate,4
 LastUpdated,2
 "LastUpdated
 Date",1
-LastUpdatedDate,706
+LastUpdatedDate,707
 LastUpdatedDate1,2
 Last_updated_Date,1
 Latest_MostRelevantResidentialApplication,1
@@ -341,8 +342,9 @@ Mapping link [Siteplan URL],1
 Mapping link [SiteplanURL],1
 Max dwellings,1
 Maximum amount of Dwellings,3
+Min Dwellings,1
 Min Net Dwelling,2
-Min Net Dwellings,32
+Min Net Dwellings,34
 Min dwellings,1
 Min-Max range of Net Dwellings,2
 MinDetDwellings,3
@@ -381,8 +383,8 @@ Dwellings
 Range
 To",2
 Net DwelingsRangeFrom,3
-Net Dwellings Range From,27
-Net Dwellings Range To,23
+Net Dwellings Range From,29
+Net Dwellings Range To,25
 Net Dwellings RangeTo,2
 Net dwelling range from?,1
 Net dwelling range to,1
@@ -411,7 +413,7 @@ New Dwellings Range to,3
 NewDwellingsRangeFrom,1
 NewDwellingsRangeTo,1
 No. of dwellings granted (net),1
-Non Housing Development,27
+Non Housing Development,29
 Non housing Development,2
 Non housing development,1
 Non-Housing Development,2
@@ -429,7 +431,7 @@ Northing,114
 Northings,7
 Northings (Geo Y),1
 Note,1
-Notes,758
+Notes,760
 Notes UPRN for sites,1
 Notes.1,1
 OBJECTID,10
@@ -465,13 +467,13 @@ Organisati,1
 Organisation,1
 "Organisation
 Label",1
-Organisation Label,34
-Organisation URI,23
+Organisation Label,36
+Organisation URI,25
 Organisation URL,12
 Organisation Uri,2
 Organisation label,1
 OrganisationLabel,649
-OrganisationURI,716
+OrganisationURI,717
 OrganisationURL,13
 OrganisationURl,3
 OrganisationUrI,1
@@ -492,11 +494,11 @@ Outstanding development,2
 OwenrshipStatus,1
 Owners,9
 Owners (if known),2
-Owners (if public sector or HA),1
+Owners (if public sector or HA),3
 Ownership,3
 Ownership 2,1
 Ownership Information,3
-Ownership Status,42
+Ownership Status,45
 Ownership status,4
 "Ownership: PA_owner, not PA_own., mixed_o'ship, unknown",1
 OwnershipS,3
@@ -534,7 +536,7 @@ PROPFORPIP,1
 PROPOSED FOR PIP,3
 PROPOSEDFORPIP,7
 Parish,8
-Part 2,32
+Part 2,34
 Part2,616
 Part2 - mandatory where relevant,1
 Part2allocation,2
@@ -545,14 +547,14 @@ Permissi_1,1
 Permission,1
 "Permission
 Date",1
-Permission Date,43
+Permission Date,45
 Permission History,1
-Permission Type,38
+Permission Type,41
 Permission Types as req. by Gov.,1
 Permission Types as required in BFLR,1
 Permission date,1
 Permission type,2
-PermissionDate,713
+PermissionDate,714
 PermissionDate -  - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.,1
 PermissionDate1,2
 PermissionDatePlanningHistory,1
@@ -569,14 +571,14 @@ Planning Application Link,1
 Planning Application Number,1
 Planning Application Number and link to documents,1
 Planning Application Reference,1
-Planning History,42
+Planning History,44
 Planning History URL,1
 Planning History link,2
 Planning Permission,1
 Planning Permission Status,2
 Planning Reference,1
 Planning Reference Number,1
-Planning Status,48
+Planning Status,51
 Planning application Reference,1
 Planning history,2
 Planning ref,3
@@ -609,7 +611,7 @@ PrevSHLAARef,1
 Previous Use,2
 PreviousReference,2
 Previously,2
-Previously Part Of,28
+Previously Part Of,29
 Previously Part of,1
 Previously PartOf,2
 Previously part of,3
@@ -618,7 +620,7 @@ PreviouslyPartof,5
 Primary Source of Identification at DATE,2
 Progress,1
 PropUse,1
-Proposed For PIP,21
+Proposed For PIP,23
 Proposed For PiP,2
 Proposed ForPIP,2
 Proposed Use,2
@@ -693,19 +695,19 @@ Shape_STLength__,1
 Site Address,5
 Site Area in ha,2
 Site Areaha [0.25ha min],1
-Site Information,32
+Site Information,34
 Site Information / constrains,1
 Site Information3,1
 Site Name,6
 Site Name & Address,2
-Site Name Address,28
+Site Name Address,31
 "Site Name, Address",1
 "Site Name, Address, Postcode",1
 Site Plan,1
-Site Plan URL,22
+Site Plan URL,23
 Site Ref,3
 Site Ref.,1
-Site Reference,45
+Site Reference,48
 Site UPRN,1
 Site URL,1
 Site Yes (within 5 years),2
@@ -717,7 +719,7 @@ Site part of SHLAA [2012 Reference],1
 Site plan (url),1
 Site plan URL,5
 Site reference,1
-Site status,6
+Site status,8
 SiteAddress,4
 SiteAreasqm,3
 SiteInfo,1
@@ -765,6 +767,7 @@ Supersed'/ c' replace,1
 Superseded or replaced previous planning application,1
 Supportg. 5+ dwellings or more than 0.25ha i.size,1
 Supportg. 5+ dwellings or more than 0.25ha in size,1
+System Reference,1
 TOTAL NET CAPACITY,1
 TOTAL_NET_CAPACITY,1
 TOWNSHIP,2

@@ -1,1 +1,72 @@
 row-number,field,datatype,value
+1,NetDwellingsRangeFrom,integer,162.25
+4,NetDwellingsRangeFrom,integer,1.5
+6,Hectares,decimal,0.39 Not owned by a public authority
+6,NetDwellingsRangeFrom,integer,9.75
+7,PermissionType,enum,planning permission granted
+8,Hectares,decimal,0.11 Not owned by a public authority
+8,PermissionType,enum,under an order
+9,Hectares,decimal,6.26 Not owned by a public authority
+9,NetDwellingsRangeFrom,integer,156.5
+10,Hectares,decimal,3.8 Not owned by a public authority
+12,Hectares,decimal,0.37 Not owned by a public authority
+14,Hectares,decimal,0.09 Not owned by a public authority
+14,NetDwellingsRangeFrom,integer,2.25 06/2005/1124 for 25 apartments has now lapsed. CCP allocation SP4.6
+16,NetDwellingsRangeFrom,integer,45 lapsed.
+17,NetDwellingsRangeFrom,integer,2 06/2004/0757 change of use from offices to 6 apartments. Various permissions but none implemented.
+18,NetDwellingsRangeFrom,integer,1 06/2017/0074 change of use of part of ground floor anf first floor to 1 apartment
+19,NetDwellingsRangeFrom,integer,1.5 06/2017/0251 for 19 apartments.
+20,NetDwellingsRangeFrom,integer,8.25 06/2007/1092 for conversion to 45 apartments Not implemented
+21,NetDwellingsRangeFrom,integer,32.5 PLP Site HS1.3. Still in employment use - redevelopment unlikely in short term.
+22,Hectares,decimal,0.29 Owned by a public authority
+22,NetDwellingsRangeFrom,integer,7.25 Site still vacant. No pp.
+24,Hectares,decimal,0.5 Not owned by a public authority
+24,NetDwellingsRangeFrom,integer,12.5 PLP Site HS1.12 No pp.
+25,Hectares,decimal,1.75 Not owned by a public authority
+25,NetDwellingsRangeFrom,integer,43.75 CCP Policy OP1 - Corporation Street. No pp. Still operational railway land?
+27,Hectares,decimal,0.14 Unknown ownership
+27,NetDwellingsRangeFrom,integer,3.5 of appeal decision for adj property on Laurel St (06/2011/00297).
+29,Hectares,decimal,0.11 Unknown ownership
+29,NetDwellingsRangeFrom,integer,2.75 06/2002/0438 lapsed for student accommodation not implemented.
+30,Hectares,decimal,0.03 Not owned by a public authority
+30,NetDwellingsRangeFrom,integer,0.75 06/2011/0911 for Student accommodation has now lapsed. Time ext to 06/2008/0889
+31,Hectares,decimal,0.25 Not owned by a public authority
+31,NetDwellingsRangeFrom,integer,6.25
+34,Hectares,decimal,0.09 Not owned by a public authority
+34,NetDwellingsRangeFrom,integer,2.25 Mission building
+36,Hectares,decimal,0.06 Not owned by a public authority
+36,NetDwellingsRangeFrom,integer,1.5 06/2008/0140 Student accom. PP lapsed
+37,Hectares,decimal,0.15 Not owned by a public authority
+37,NetDwellingsRangeFrom,integer,3.75 06/2016/1165 conversion of offices to 14 apartments
+38,PermissionType,enum,planning permission granted
+39,Hectares,decimal,0.7 Not owned by a public authority
+39,PermissionType,enum,under an order
+39,NetDwellingsRangeFrom,integer,"0 and offices (B1) at upper floors, to student accommodation"
+40,Hectares,decimal,0.29 Not owned by a public authority
+40,NetDwellingsRangeFrom,integer,7.25 Local Plan Allocation HS1.6. 06/2014/0972 erection of 11 townhouses
+41,PermissionType,enum,planning permission granted
+42,Hectares,decimal,0.04 Not owned by a public authority
+42,PermissionType,enum,under an order
+42,NetDwellingsRangeFrom,integer,0 06/2013/0591 Prior notification submission for conversion from B1 offices to C3 residential.
+43,PermissionType,enum,planning permission granted
+44,Hectares,decimal,0.03 Not owned by a public authority
+44,PermissionType,enum,under an order
+44,NetDwellingsRangeFrom,integer,0 residential.
+45,Hectares,decimal,0.02 Not owned by a public authority
+45,NetDwellingsRangeFrom,integer,0 06/2013/0752 Conversion of upper floors and attic to 9 flats.
+46,Hectares,decimal,0.08 Not owned by a public authority
+46,NetDwellingsRangeFrom,integer,2 06/2014/0084 Change of use from B1 offices to 8 apartments (C3).
+47,PermissionType,enum,planning permission granted
+48,PermissionType,enum,under an order
+48,NetDwellingsRangeFrom,integer,0 (Class C3)
+50,NetDwellingsRangeFrom,integer,25 06/2014/0028 Erection of 14 dwellings following demolition of existing utility building.
+51,NetDwellingsRangeFrom,integer,87.25 06/2015/0173 Erection of 7 dwellings following demolition of exisiting kennels etc.
+52,NetDwellingsRangeFrom,integer,0.25 06/2015/0564 Conversion and extension of dwelling to create 7 bedsits.
+53,NetDwellingsRangeFrom,integer,37.5 Local Plan Allocation HS1.1
+54,NetDwellingsRangeFrom,integer,107.5 Local Plan Allocation HS1.2 Not all of site will come forward in 5 yrs. Housing Zone site.
+56,Hectares,decimal,0.71 Not owned by a public authority
+56,NetDwellingsRangeFrom,integer,17.75 Local Plan Allocation HS1.7 & 06/2014/0494 Erection of three storey terrace of 4no. town houses
+57,Hectares,decimal,0.2 Unknown ownership
+57,NetDwellingsRangeFrom,integer,5 SP4.3
+58,Hectares,decimal,0.4 Unknown ownership
+58,NetDwellingsRangeFrom,integer,10 SP4.4

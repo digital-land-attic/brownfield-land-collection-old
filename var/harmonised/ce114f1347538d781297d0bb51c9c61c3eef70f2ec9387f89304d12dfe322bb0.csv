@@ -1,104 +1,182 @@
 OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/CAG/001,"Two sites at Hurricane Way, Airport Industrial Estate, Norwich",1.28654,52.666335,,2.02,owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/29,30,40,,Proposed allocated site in draft GNLP for 30 dwellings,2017-12-31,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/CAG/002,"Start Rite Factory Site, 28 Mousehold Lane, Norwich NR7 8HE",1.312351,52.64949,,0.86,not owned by a public authority,,permissioned,full planning permission,2019-06-06,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/18",,,,Proposed allocated site in draft GNLP for 40 dwellings,2017-12-31,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/CAG/006,"297 Aylsham Road/Land at Arminghall Close, Norwich",1.281767,52.651403,,2.27,not owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/21,,,,Part implemented (LIDL store),2017-12-31,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/CRO/001,"Land At Corner Of Knox Road and Plumstead Road, Norwich NR1 4LQ",1.320005,52.634976,,0.21,not owned by a public authority,,permissioned,full planning permission,,https://planning.norwich.gov.uk/online-applications/,,,yes,"""For planning history search for '16/01354/O and 18/00727/F' at link provided""",2017-12-31,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/CRO/004,"Former Church, Heartsease Lane, Norwich",1.325971,52.642093,,2.44,not owned by a public authority,,not permissioned,,,https://planning.norwich.gov.uk/online-applications/,,,,"Planning permission granted for ""Construction of new church auditorium with associated children and youth facilities, nursery and car parking with external works and new pedestrian access. (19/00007/F) but not yet implemented""",2017-12-31,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,,N/CRO/005,"126-128 Barrack Street, Norwich",1.30478,52.636553,,0.11,not owned by a public authority,,permissioned,full planning permission,2009-04-22,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/16",,,,"""For planning history search for '06/00964/F' at the first link provided.""",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/EAT/001,"Bartram Mowers Ltd, Land West of Blubell Road, Norwich",1.247844,52.610735,,5.47,not owned by a public authority,,permissioned,full planning permission,2016-05-14,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/24",62,122,yes,"15/01646/F - complete
+Application currently pending for 32 bungalows and 22 apartments (19/00911/F)
+Proposed allocated site in draft GNLP for 60 units",2017-12-31,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/EAT/002,"Norfolk Learning Difficulties Centre, Ipswich Road, Norwich",1.278158,52.603576,,0.78,owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/2,,,,Proposed allocated site in draft GNLP for 15 units.,2017-12-31,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/GAG/003,"Land North Side Of Windmill Road, Norwich",1.309606,52.650143,,0.19,not owned by a public authority,,permissioned,full planning permission,2015-10-07,https://planning.norwich.gov.uk/online-applications/,,,yes,"""For planning history search for '14/00847/F' at link provided""",2017-12-31,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/LAK/001,"John Youngs Limited, 24 City Road, Norwich NR1 3AN",1.299689,52.619598,,0.89,not owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/7,,,,"""Higher density scheme of 75 dwellings may be needed to allow the site to be developed""
+Proposed allocated site in draft GNLP for 45 units",2017-12-31,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/LAK/003,"Hewett Yard, Hall Road, Norwich",1.291798,52.610932,,0.44,owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/4,,,,,2017-12-31,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/LAK/004,"Parish Hall And Vicarage Garden Site, Little John Road, Norwich",1.284532,52.610577,,0.48,not owned by a public authority,,permissioned,full planning permission,2011-05-20,https://planning.norwich.gov.uk/online-applications/,,,yes,"""For planning history search for '10/01926/F' at the link provided""",2017-12-31,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/LAK/005,"Deal Ground, Bracondale, Norwich",1.317769,52.617546,,16.24,not owned by a public authority,,permissioned,outline planning permission,2013-07-11,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/9",,,,"""For planning history search for '12/00875/O' at the first link provided""
+Proposed allocated site in GNLP (Deal Ground, Utilities Site and Carrow Works (GNLP0360 & GNLP3053) for 2000 dwellings.",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/LAK/006,"Land at Lily Terrace, Norwich",1.301104,52.622104,,0.1,not owned by a public authority,,permissioned,outline planning permission,2017-02-09,https://planning.norwich.gov.uk/online-applications/,,,yes,"""For planning history search for '16/01574/O and 18/01641/RM' at the link provided""",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/002,"Ivory House, All Saints Green, Norwich NR1 3NB",1.293651,52.623418,,0.09,not owned by a public authority,,permissioned,full planning permission,2016-08-24,https://planning.norwich.gov.uk/online-applications/,,,,"""For planning history search for 'Ivory House' at the link provided""
+Permission expired 31 August 19",2017-12-31,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/003,"Anglia Square, Norwich",1.294489,52.636327,,4.35,not owned by a public authority,,not permissioned,,,https://planning.norwich.gov.uk/online-applications/,,,,"""For planning history search for 'Anglia Square' at the link provided"". 
+Application pending (18/00330/F) for Part Full/Outline application for the comprehensive redevelopment of Anglia Square and adjacent land on Edward Street for: up to 1250 dwellings, hotel, ground floor retail and commercial floorspace, cinema, multi-storey car parks, place of worship and associated works to the highway and public realm areas. Planning Committee resolution 6 Dec 2018 to approve 18/00330/F but called in.  Awaiting outcome of public inquiry due to start early 2020. Proposed allocated site in draft GNLP allocation for 1200 dwellings. Original planning consent for 198 dwellings unlikely to be built out.",2017-12-31,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/004,"Barn Road Car Park, Norwich",1.286202,52.632079,,0.42,owned by a public authority,,permissioned,full planning permission,2018-11-26,https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/23,,,,302 student bedroom equivilent to 120 units,2017-12-31,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/005,"5, 6a and 6B Beckham Place, Edward Street, Norwich NR3 3DZ",1.295139,52.637694,,0.27,not owned by a public authority,,permissioned,full planning permission,2011-03-23,https://planning.norwich.gov.uk/online-applications/,,,,"""For planning history search for '5, 6A And 6B Beckham Place' at the link provided""",2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/006,"60-70 Ber Street, Norwich NR1 3EW",1.298279,52.624036,,0.19,owned by a public authority,,not permissioned,,,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations",,,,"""For planning history search for '70 Ber Street' at the first link provided""",2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/007,"10-14 Ber Street, Norwich NR1 3EJ",1.296956,52.625502,,0.1,owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/3,,,,Proposed allocated site in draft GNLP for 10 units.,2017-12-31,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/008,"113-119 Ber Street, Norwich NR1 3EY",1.298088,52.623267,,0.07,not owned by a public authority,,permissioned,full planning permission,2016-11-10,https://planning.norwich.gov.uk/online-applications/,,,yes,"""For planning history search for '16/01266/F' at the link provided""",2017-12-31,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/009,"147-153 Ber Street, Norwich NR1 3EY",1.298843,52.622293,,0.18,not owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/2,,,,Proposed allocated site in GNLP for 150 units (combined with 84-120 Ber Street) - GNLP2159.,2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/010,"Land at Argyle Street, Norwich",1.303725,52.621383,,0.32,owned by a public authority,,not permissioned,,,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/11",,,yes,"""For planning history search for '14/01574/NF3' at the first link provided""
+Proposed allocated site in GNLP for 15 units.",2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/012,"Land to rear of City Hall, Bethel Street, Norwich",1.290912,52.628665,,0.4,owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/25,,,,Proposed allocated site in GNLP for 20 units.,2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/013,"59 Bethel Street, Norwich NR2 1NR",1.28807,52.628601,,0.11,not owned by a public authority,,not permissioned,,,https://planning.norwich.gov.uk/online-applications/,,,yes,"""For planning history search for '59 Bethel Street' and/or '09/01005/L' at the link provided""
+Conversion element complete (8 units). 14 units still to be built to the rear.",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/014,"St Peters House, 23 Cattle Market Street, Norwich NR1 3DY",1.298358,52.626848,,0.16,not owned by a public authority,,permissioned,planning permission granted under an order,,https://planning.norwich.gov.uk/online-applications/,,,yes,"""Prior approval notice.
+For planning history search for '15/01256/PDD, 18/00830/PDD & 17/01482/F' at the link provided""",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/015,"24 Cattle Market Street, Norwich NR1 3DY",1.298253,52.62722,,0.07,not owned by a public authority,,permissioned,full planning permission,2019-01-31,https://planning.norwich.gov.uk/online-applications/,,,yes,"""For planning history search for '13/01686/F', 17/00205/F' and/or 18/01749/F at the link provided""",2017-12-31,2019-12-12,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/016,"36-42 Duke Street, Norwich NR3 3AR",1.292002,52.63333,,0.18,not owned by a public authority,,permissioned,full planning permission,2016-08-23,https://planning.norwich.gov.uk/online-applications/,,,yes,"""For planning history search for '16/00699/F' at the link provided""",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/017,"Former Eastern Electricity Board Site, Duke's Wharf, Duke Street, Norwich",1.292096,52.631241,,0.84,not owned by a public authority,,permissioned,full planning permission,,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/22",,,yes,"""Revised plans being submitted. GNLP allocation for 100
+14/01103/F expired on 17.17.2014.
+For planning history search for '14/01103/F' and/or '15/00916/F' at the first link provided.
+For Greater Norwich Local Plan (GNLP) Call for Sites information enter 'GNLP0401 Call for Sites' into browser""
+Proposed allocated site in GNLP for 100 units. 
+18/01117/F approved Jan 2019 for continued use as car park until August 2019.",2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/018,"St. Mary's Works, Duke Street, Norwich NR3 3AF",1.29108,52.634633,,1.1,not owned by a public authority,,permissioned,outline planning permission,2018-05-03,https://planning.norwich.gov.uk/online-applications/,,,,"""16/01950/O: Outline permission approved.
+For planning history search for '16/01950/O' at the link provided""",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/019,"Friars Quay/Colegate, Norwich",1.294988,52.632743,,0.13,not owned by a public authority,,not permissioned,,,https://planning.norwich.gov.uk/online-applications/,,,,"""14/01282/F - withdrawn. Linked to 16/01285/PDD - Merchants Court. No development has gone ahead.
+For planning history search for '14/01282/F' at the link provided""",2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/020,"Land at Garden Street, Norwich",1.299269,52.624619,,1.08,owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/10,,,,Proposed allocated site within GNLP for 100 units.,2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/021,"Land At Goldsmith Street Greyhound Opening And Haslips Close, Norwich",1.281085,52.634415,,2.5,owned by a public authority,,permissioned,full planning permission,2015-10-01,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/27",,,yes,"For planning history search for 15/00272/F at the first link provided""
+49 units already complete",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/023,"34 Magpie Road, Norwich NR3 1JQ",1.29305,52.638625,,0.04,not owned by a public authority,,permissioned,full planning permission,2016-09-20,https://planning.norwich.gov.uk/online-applications/,,,yes,"""For planning history search for '16/00485/F' at the link provided""
+Permission expired 3.10.2019",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/024,"Mary Chapman Court, Norwich NR3 3DX",1.29242,52.632005,,0.2,not owned by a public authority,,permissioned,full planning permission,2019-01-18,https://planning.norwich.gov.uk/online-applications/,,,yes,100 beds Equivalent to 40 dwellings,2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/025,"St George's Works, Muspole Street incl Seymour Hse, 30-34 Muspole St, Norwich NR3 1DJ & The Guildyard, 51 Colegate, Norwich NR3 1DD",,,,0.57,not owned by a public authority,,not permissioned,,,https://planning.norwich.gov.uk/online-applications/,,,,"""For planning history search for '12/00143/ET', '15/01512/PDD' and/or '15/01713/PDD' at the link provided""
+Proposed allocated site in GNLP for 110 units (GNLP2114)",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/026,"140-154 Oak Street, Norwich NR3 3BP",1.289006,52.636741,,0.15,owned by a public authority,,not permissioned,,,https://https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/19,,,,Proposed allocated site in GNLP for 27 units (in conjuction with 70-72 Sussex Street),2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/027,"161 Oak Street, Norwich NR3 3AY",1.287961,52.63739,,0.43,not owned by a public authority,,permissioned,full planning permission,,https://planning.norwich.gov.uk/online-applications/,,,yes,"""For planning history search for '15/00245/O and 18/00004/F' at the link provided""",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/028,"Pottergate Car Park site, Norwich",1.290489,52.629918,,0.07,owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/24,,,,,2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/029,"Land at Queens Road and Surrey Street, Norwich",1.295712,52.622515,,0.5,not owned by a public authority,,permissioned,full planning permission,2018-06-21,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/30",,,yes,"""For planning history search for '18/00437/F' at the first link provided.
+Note: application incorporates different area from allocation""
+Proposed allocated site within GNLP for 40 dwellings (GNLP0451)
+252 students beds equivilent to 101 dwellings",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/031,"Merchants Court, St Georges Street, Norwich NR3 1AB",1.294229,52.632476,,0.19,not owned by a public authority,,permissioned,planning permission granted under an order,,https://planning.norwich.gov.uk/online-applications/,,,,"""For planning history search for  'Merchants Court' at the link provided.
+17/01811/PDD is pending decision""",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/032,"St Crispins Road/Pitt Street, Norwich NR3 1DF",1.291729,52.635793,,0.75,owned by a public authority,,not permissioned,,,,,,,,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/033,"Land North West Side Of 25-27 Surrey Street, Norwich NR1 3NX",1.293821,52.624304,,0.06,owned by a public authority,,permissioned,full planning permission,2016-05-18,https://planning.norwich.gov.uk/online-applications/,,,yes,"""For planning history search for '16/00431/F' at the link provided""
+Proposed allocated site in GNLP",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/035,"Furniture Store/Land and buildings incl 70-72 Sussex Street, Norwich NR3 3DE",1.289253,52.637076,,0.21,not owned by a public authority,,permissioned,full planning permission,2009-06-11,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/20",,,yes,"""For planning history search for '09/00296/F' at the first link provided""
+Proposed allocated site within the GNLP (to be developed in conjunction with 140-154 Oak Street).",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/036,"Westwick Street car park, Norwich",1.287518,52.63385,,0.3,owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/31,,,,Proposed allocated site within GNLP for 30 units.,2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/038,"St Stephens Street, Norwich",1.292374,52.624713,,1.5,not owned by a public authority,,permissioned,full planning permission,2017-07-03,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/28",,,yes,"""For planning history search for '17/00357/F' at the first link provided""",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/040,"Oak Street and Sussex Street commercial sites, 160-162 Oak Street, Norwich",1.288841,52.637501,,0.23,owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/21,,,,,2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/042,"84-110 Ber Street Norwich, NR1 3ES",1.299219,52.622975,,0.62,not owned by a public authority,,permissioned,full planning permission,2011-03-23,https://planning.norwich.gov.uk/online-applications/,,,,"2008 planning application has expired.
+The site was originally allocated (CC2)in the adopted City of Norwich
+Local Plan (2004), under policy HOU12 A34, for 25 dwellings.
+Proposed allocated site in draft GNLP (GNLP2159) for 150 dwellings",2018-11-26,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MIC/002,"Land Adjoining Lime Kiln Mews, Drayton Road, Norwich NR3 2DF",1.28559,52.64225,,0.56,not owned by a public authority,,permissioned,,,https://planning.norwich.gov.uk/online-applications/,,,yes,"""For planning history search for '15/00024/F' at the link provided""
+19/00837/F - application pending for Development of site to provide 29 residential units with associated landscaping and highways works.",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MIC/004,"Land at Havers Road, Mile Cross, Norwich",1.28012,52.642851,,2.25,not owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/35,,,,,2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MIC/005,"Mile Cross Depot, Mile Cross Road, Norwich NR3 2DY",1.272836,52.643305,,4.4,owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/36,,,,Proposed allocated site in GNLP for 170 units.,2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MIC/007,"81-93 Drayton Road, Norwich",1.28283,52.643693,,0.58,not owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/25,,,,,2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MIC/008,"Former Kings Arms P. H., 100 Mile Cross Road, Norwich, Norfolk, NR3 2LD",1.278674,52.648215,,0.1,not owned by a public authority,,permissioned,,2015-12-10,https://planning.norwich.gov.uk/online-applications/,,,,Demolished in 2016. No subsequent application for development,2018-11-26,2018-12-20,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/NEL/001,"Flordon House, 195 Unthank Road, Norwich NR2 2PQ",1.273403,52.622208,,0.05,not owned by a public authority,,permissioned,full planning permission,,https://planning.norwich.gov.uk/online-applications/,,,yes,"""For planning history search for '16/00227/F and 17/01791/F' at the link provided""",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/NEL/002,"Norwich Community Hospital Site, Bowthorpe Road, Norwich NR2 3TU",1.261728,52.634312,,2.06,owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/37,,,yes,"Proposed allocated site in GNLP for 80 units. 
+18/00372/O - Outline application including matters of access for redevelopment of the site to provide a new hospital; residential care home; extra care units; key worker units; change of use of Woodlands House to provide residential units; mixed provision of ancillary office space, independent B1 space, A1 retail space; and associated car parking and landscaping (additional / revised information). pending consideration",2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/NEL/003,"Site of Earl of Leicester PH, 238 Dereham Road, Norwich NR2 3TL",1.268878,52.635041,,0.14,not owned by a public authority,,not permissioned,,,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/33",,,,"""For planning history search for '238 Dereham Road' at the first link provided.
+Permissions expired""
+Proposed allocated site in GNLP for 10 units.",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/SEW/001,"Site of Van Dal Shoes, Dibden Road, Norwich NR3 4RR",1.304758,52.64097,,0.54,not owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/17,,,,Proposed allocated site in GNLP for 25 units.,2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/SEW/002,"Site of 118 Magdalen Road, Norwich NR3 4AN",1.296629,52.642959,,0.12,not owned by a public authority,,permissioned,full planning permission,2011-02-10,https://planning.norwich.gov.uk/online-applications/,,,yes,"""For planning history search for '10/02009/F' at the link provided""",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/002,"Barrack Street Development Site, Norwich",1.304033,52.635666,,2.83,not owned by a public authority,,permissioned,,,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/17",,,yes,"""For planning history search for '15/01927/O and 18/01286/F' at the first link provided""
+Proposed allocated site in GNLP for 300 dwellings (GNLP409R)",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/003,"Land east of Bishop Bridge Road (incl 29-31 Bishop Bridge Road), Norwich",1.310512,52.633173,,1.09,not owned by a public authority,,permissioned,outline planning permission,2010-12-13,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/14",,,,"""For planning history search for '31 Bishop Bridge Road' at the first link provided""
+Proposed allocated site in GNLP for 80 dwellings",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/006,"Utilities Site, Cremorne Lane, Norwich",1.319549,52.621543,,6.92,not owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/10,,,,"""Application withdrawn. Developer in insolvency. Need for hazardous substance consent.""
+Proposed allocated site in GNLP (Deal Ground, Utilities Site and Carrow Works (GNLP0360 & GNLP3053) for 2000 dwellings.",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/007,"Gas Holder site, Gas Hill, Norwich",1.310335,52.631622,,0.3,owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/13,,,,,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/008,"Land adjoining Norwich City Football Club (incl Groundsmans Hut and Players Car Park) & Land North Of Carrow Quay, Kerrison Road, Norwich",1.311122,52.620709,,3.24,not owned by a public authority,,permissioned,full planning permission,,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/16",,,yes,"""Permission for 250 flats covers part of site: land north of Carrow Quay.
+For planning history search for '11/02104/O' at the first link provided.
+Remainder of site incl groundsman's hut and players car park not permissioned.""
+Proposed allocated site in GNLP for 270 units.",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/009,"Site of ATB Laurence Scott, Kerrison Road/Hardy Road, Norwich NR1 1JN",1.314188,52.62119,,4.64,not owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/11,,,,"""Suitable alternative accommodation for the existing use has yet to be secured.""",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/011,"Land at Hobrough Lane/125-129 & 131-133 King Street, Norwich NR1 1QE",1.30226,52.625085,,0.35,not owned by a public authority,,permissioned,full planning permission,,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/7",,,,"""For planning history search for '12/02099/F' (for nos.125-129) and/or '07/00412/F' (for nos. 131&133) at the first link provided""
+Proposed allocated site in GNLP for 20 units",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/012,"King Street Stores, and adj land/buildings, King Street, Norwich",1.303539,52.623034,,0.21,not owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/8,,,,Proposed allocated site in GNLP for 20 units.,2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/013,"St Annes Wharf and adjoining land, King Street, Norwich",1.301802,52.626069,,2.07,not owned by a public authority,,permissioned,full planning permission,2017-03-09,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/6",,,yes,"""For planning history search for '04/00605/F' at the first link provided""",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/014,"191 King Street, Norwich NR1 2DF",1.303802,52.622604,,0.26,not owned by a public authority,,permissioned,full planning permission,2016-04-21,https://planning.norwich.gov.uk/online-applications/,,,yes,"""For planning history search for '15/01810/F' at the link provided""
+19/01389/F for Partial demolition of buildings, construction of 41 dwellings and associated works pending consideration",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/018,"Norwich Mail Centre, 13-17 Thorpe Road, Norwich NR1 1AA",1.310058,52.626378,,1.52,owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/15,,,,,2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/019,"66 Rosary Road, Norwich",1.308713,52.628925,,0.03,not owned by a public authority,,permissioned,full planning permission,2007-03-15,https://planning.norwich.gov.uk/online-applications/,,,yes,"""For planning history search for '07/00117/F' at the link provided""",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/021,"Land at Rose Lane & Mountergate, Norwich",1.302687,52.627609,,3.56,mixed ownership,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/4,,,,Proposed allocated site in GNLP for 250 units (200 on CC4b and 50 on CC4a),2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/027,"Land at Ketts Hill and Bishop Bridge Road, Norwich",1.310702,52.633932,,0.57,not owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/15,,,,,2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/029,"Land at Lower Clarence Road, Norwich",1.311175,52.625123,,1,not owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/13,,,,"""Currently used as car park""",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/030,"Busseys Garage Site, Thorpe Road and Lower Clarence Road, Norwich",1.312453,52.625411,,0.45,not owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/14,,,,,2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/031,"Ailwyn Hall, Lower Clarence Road, Norwich, NR1 1HD",1.308572,52.626662,,1.085,not owned by a public authority,,permissioned,full planning permission,2008-05-06,https://www.norwich.gov.uk/info/20199/adopted_local_plan/1544/city_centre_site_specific_allocations/13,,,,Consent granted in 2008 for 21 flats - 06/00963/F extended in 2010 10/01560/ET,2018-12-10,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/UNI/001,"The Blackdale Building, Bluebell Road, Norwich",1.245584,52.624512,,0.89,owned by a public authority,,permissioned,full planning permission,2015-05-22,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/40",,,yes,"""For planning history search for '15/00121/F' at the first link provided""
+Proposed allocated site in GNLP for 160 units",2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/WEN/002,"Vikings Venture Scout Hut Adjacent To 420 Dereham Road, Norwich NR5 8QQ",1.25085,52.637525,,0.12,not owned by a public authority,,not permissioned,,,https://planning.norwich.gov.uk/online-applications/,,,,"""For planning history search for '14/00618/F' at the link provided""",2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/WEN/004,"Land adjacent to and including 349a-349b Dereham Road, Norwich NR2 3UT",1.266441,52.636862,,0.61,not owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/34,,,,Subject to enforcement action 17/00175/ENF. Owner has requested the site is removed from allocation as they do not want to develop it,2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/WEN/005,"120-130 Northumberland Street, Norwich NR2 4EH",1.272249,52.637628,,0.46,not owned by a public authority,,permissioned,full planning permission,2017-05-09,"https://planning.norwich.gov.uk/online-applications/
+
+https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/32",,,yes,"""For planning history search for '16/00835/F' at the first link provided. 36 homes now proposed""",2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/WEN/006,"Heigham Water Treatment Works, Waterworks Road, Norwich NR2 4DA",1.271339,52.640288,,5,owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/31,,,,Proposed allocated site in GNLP for 150 units.,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/WEN/007,"Site north of Raynham Street, Norwich",1.280251,52.640446,,1.01,not owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/26,,,,,2017-12-31,2019-12-18,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/WEN/008,"231-243 Heigham Street, Norwich",1.277391,52.640166,,0.36,not owned by a public authority,,not permissioned,,,https://www.norwich.gov.uk/info/20199/local_plan/1582/site_specific_allocations_in_the_remainder_of_the_city/28,,,,,2017-12-31,2017-12-31,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/032,Ferry Lane Garages The Close,1.305498,52.630588,,0.12,not owned by a public authority,,permissioned,full planning permission,2018-10-17,https://planning.norwich.gov.uk/online-applications/,,,yes,,2019-12-12,2019-12-12,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/SEW/003,Constitution Motors Ltd 140-142 Constitution Hill,1.300673,52.649349,,0.24,not owned by a public authority,,permissioned,outline planning permission,2019-02-14,https://planning.norwich.gov.uk/online-applications/,,,yes,,2019-12-12,2019-12-12,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/043,41-43 St Augustines Street,1.292283,52.638053,,0.04,not owned by a public authority,,permissioned,full planning permission,2018-07-20,https://planning.norwich.gov.uk/online-applications/,,,yes,,2019-12-12,2019-12-12,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/044,"Kiln House, 27-43 Pottergate",1.290448,52.630351,,0.26,not owned by a public authority,,permissioned,full planning permission,2018-10-19,https://planning.norwich.gov.uk/online-applications/,,,yes,,2019-12-12,2019-12-12,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/033,The Dell Ballroom Waggon And Horses Lane,1.297551,52.631449,,0.07,not owned by a public authority,,permissioned,full planning permission,2018-05-15,https://planning.norwich.gov.uk/online-applications/,,,yes,,2019-12-12,2019-12-12,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/045,Boars Head Yard and 1-17 Westlegate and 1-9 St Stephens Street,1.293491,52.625608,,0.09,not owned by a public authority,,permissioned,full planning permission,,https://planning.norwich.gov.uk/online-applications/,,,yes,,2019-12-12,2019-12-12,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/NEL/004,3A Unthank Road,1.282896,52.628393,,0.27,not owned by a public authority,,permissioned,full planning permission,,https://planning.norwich.gov.uk/online-applications/,,,yes,,2019-12-12,2019-12-12,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/SEW/004,"Mountfield, Millcroft",1.295297,52.646675,,0.45,not owned by a public authority,,permissioned,full planning permission,2018-10-03,https://planning.norwich.gov.uk/online-applications/,,,yes,46 Bedrooms (5 dwellings equiv.),2019-12-12,2019-12-12,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/EAT/003,2 Church Lane and 18 Eaton Street,1.252135,52.608423,,0.92,not owned by a public authority,,permissioned,full planning permission,2017-04-20,https://planning.norwich.gov.uk/online-applications/,,,yes,,2019-12-12,2019-12-12,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/046,73-77 Dereham Road,1.280927,52.633287,,0.03,not owned by a public authority,,permissioned,full planning permission,2017-07-24,https://planning.norwich.gov.uk/online-applications/,,,yes,,2019-12-12,2019-12-12,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/047,Site rear of 67-69 Magdalen Street,1.29705,52.635986,,0.03,not owned by a public authority,,permissioned,outline planning permission,2018-01-09,https://planning.norwich.gov.uk/online-applications/,,,yes,19/01352/F - Construction of 9no. Flats is pending consideration.,2019-12-12,2019-12-12,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/048,1-4 Music House Lane,1.301083,52.624569,,0.15,not owned by a public authority,,permissioned,full planning permission,2017-08-30,https://planning.norwich.gov.uk/online-applications/,,,yes,,2019-12-12,2019-12-12,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/049,24 and 26 Pottergate,1.291014,52.630021,,0.02,not owned by a public authority,,permissioned,full planning permission,2017-08-25,https://planning.norwich.gov.uk/online-applications/,,,yes,,2019-12-12,2019-12-12,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/034,9-10 Redwell Street,1.296604,52.630648,,0.01,not owned by a public authority,,permissioned,full planning permission,2018-03-19,https://planning.norwich.gov.uk/online-applications/,,,yes,,2019-12-12,2019-12-12,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/THH/035,60 St Faiths Lane,1.302244,52.62978,,0.01,not owned by a public authority,,permissioned,full planning permission,2018-01-17,https://planning.norwich.gov.uk/online-applications/,,,yes,,2019-12-12,2019-12-12,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/SEW/005,"Starling Road, Industrial Site",1.293656,52.639211,,0.13,not owned by a public authority,,permissioned,full planning permission,2019-06-05,https://planning.norwich.gov.uk/online-applications/,,,yes,"Outline application including matters of access, layout and scale for the demolition of derelict workshops and construction of 19 flats with associated works pending consideration (18/00952/O)",2019-12-12,2019-12-12,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/050,"Westwick Street, BT exchange Site",1.288406,52.632683,,0.25,not owned by a public authority,,permissioned,full planning permission,2017-04-26,https://planning.norwich.gov.uk/online-applications/,,,yes,,2019-12-13,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/MAN/051,"Duke Street, St Crispins House",1.293064,52.634676,,0.74,not owned by a public authority,,permissioned,full planning permission,2018-03-20,https://planning.norwich.gov.uk/online-applications/,,,,614 student beds is equivilent to 246 units,2019-12-13,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/UNI/002,112 St Mildreds Road,1.230608,52.635264,,0.11,not owned by a public authority,,permissioned,full planning permission,2018-01-17,https://planning.norwich.gov.uk/online-applications/,,,yes,34 student beds is equivilent to 14 units,2019-12-13,2019-12-13,
+http://opendatacommunities.org/id/district-council/norwich,Norwich City Council,N/WEN/009,"Hellesdon Road, Marlpit PH",1.246396,52.642261,,0.46,not owned by a public authority,,permissioned,full planning permission,,https://planning.norwich.gov.uk/online-applications/,,,yes,,2019-12-13,2019-12-13,

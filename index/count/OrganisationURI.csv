@@ -6,7 +6,6 @@ OrganisationURI,http://opendatacommunities.org/id/london-borough-council/southwa
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/haringey,932
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/brighton-and-hove,884
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/bradford,859
-OrganisationURI,"",850
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/croydon,759
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/leeds,708
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/wandsworth,691
@@ -24,6 +23,7 @@ OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lewisha
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/greenwich,487
 OrganisationURI,www.liverpool.gov.uk,465
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/sandwell,437
+OrganisationURI,"",436
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/lonb/E09000032,429
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/kirklees,419
 OrganisationURI,http://opendatacommunities.org/doc/unitary-authority/reading,414
@@ -36,16 +36,17 @@ OrganisationURI,http://opendatacommunities.org/id/london-borough-council/richmon
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/kensington-and-chelsea,355
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/south-gloucestershire,351
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/luton,350
+OrganisationURI,http://opendatacommunities.org/doc/unitary-authority/plymouth,349
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/stoke-on-trent,332
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/leicester,330
 OrganisationURI,http://opendatacommunities.org/doc/london-borough-council/kingston,320
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/gateshead,319
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/st-helens,304
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/wakefield,299
+OrganisationURI,http://opendatacommunities.org/id/district-council/norwich,296
 OrganisationURI,http://opendatacommunities.org/id/district-council/woking,290
 OrganisationURI,http://opendatacommunities.org/id/district-council/charnwood,290
 OrganisationURI,http://opendatacommunities.org/doc/metropolitan-district-council/coventry,270
-OrganisationURI,http://opendatacommunities.org/doc/unitary-authority/plymouth,262
 OrganisationURI,Wigan Council,255
 OrganisationURI,http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,255
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/hillingdon,252
@@ -104,6 +105,7 @@ OrganisationURI,http://opendatacommunities.org/id/unitary-authority/torbay,147
 OrganisationURI,http://opendatacommunities.org/id/district-council/tandridge,147
 OrganisationURI,http://opendatacommunities.org/id/district-council/chesterfield,143
 OrganisationURI,http://opendatacommunities.org/id/district-council/nuneaton-and-bedworth,142
+OrganisationURI,http://opendatacommunities.org/id/district-council/canterbury,138
 OrganisationURI,http://opendatacommunities.org/id/district-council/dacorum,133
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/bury,129
 OrganisationURI,http://opendatacommunities.org/id/district-council/south-ribble,128
@@ -131,19 +133,18 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/mid-sussex,10
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/county-durham,108
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/calderdale,108
 OrganisationURI,http://opendatacommunities.org/id/district-council/wyre-forest,106
+OrganisationURI,http://opendatacommunities.org/id/district-council/preston,106
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/sutton,103
 OrganisationURI,E06000041,103
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/newcastle,101
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/isle-of-wight,100
 OrganisationURI,http://opendatacommunities.org/id/district-council/worthing,100
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/east-riding,99
-OrganisationURI,http://opendatacommunities.org/id/district-council/norwich,99
 OrganisationURI,http://opendatacommunities.org/id/district-council/hart,99
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/barnsley,98
 OrganisationURI,http://opendatacommunities.org/doc/district-council/west-norfolk,98
 OrganisationURI,http://opendatacommunities.org/id/district-council/cheltenham,97
 OrganisationURI,http://opendatacommunities.org/id/district-council/forest-of-dean,96
-OrganisationURI,http://opendatacommunities.org/id/district-council/canterbury,96
 OrganisationURI,http://opendatacommunities.org/id/district-council/brentwood,96
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/west-berkshire,95
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/knowsley,95
@@ -250,7 +251,6 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/weymouth-and-
 OrganisationURI,http://opendatacommunities.org/id/district-council/st-albans,48
 OrganisationURI,http://opendatacommunities.org/id/district-council/south-norfolk,48
 OrganisationURI,http://opendatacommunities.org/id/district-council/shepway,48
-OrganisationURI,http://opendatacommunities.org/id/district-council/preston,48
 OrganisationURI,http://opendatacommunities.org/doc/district-council/melton,48
 OrganisationURI,http://opendatacommunities.org/id/district-council/west-dorset,47
 OrganisationURI,http://opendatacommunities.org/id/district-council/high-peak,46
@@ -310,6 +310,7 @@ OrganisationURI,http://opendatacommunities.org/doc/district-council/breckland,25
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/npark/E26000009,24
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000088,24
 OrganisationURI,http://opendatacommunities.org/doc/metropolitan-district-council/south-tyneside,24
+OrganisationURI,South Norfolk,23
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/ua/E06000009,23
 OrganisationURI,http://opendatacommunities.org/id/district-council/stevenage,23
 OrganisationURI,http://opendatacommunities.org/id/district-council/rochford,23
