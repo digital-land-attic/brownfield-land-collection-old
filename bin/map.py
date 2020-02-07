@@ -18,11 +18,12 @@ schema = json.load(open(schema_path))
 fields = {field["name"]: field for field in schema["fields"]}
 fieldnames = [field["name"] for field in schema["fields"]]
 
-pattern = re.compile(r"[^a-z0-9]")
-
 
 def normalise(name):
-    return re.sub(pattern, "", name.lower())
+    return re.sub(normalise.pattern, "", name.lower())
+
+
+normalise.pattern = re.compile(r"[^a-z0-9]")
 
 
 if __name__ == "__main__":
@@ -57,5 +58,11 @@ if __name__ == "__main__":
             for header in headers:
                 field = headers[header]
                 o[field] = row[header]
+
+            for fieldname, field in fields.items():
+                if "concatenate" in field.get('digital-land', {}):
+                    cat = field["digital-land"]['concatenate']
+                    o.setdefault(fieldname, "")
+                    o[fieldname] = cat['sep'].join([o[fieldname]] + [row[h] for h in cat['fields'] if h in row])
 
             writer.writerow(o)

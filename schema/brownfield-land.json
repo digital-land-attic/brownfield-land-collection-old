@@ -73,6 +73,13 @@
                 "required": true
             },
             "digital-land": {
+                "concatenate": {
+                  "fields": [
+                    "Address 1",
+                    "Address 2"
+                  ],
+                  "sep": ", "
+                },
                 "field": "site-address",
                 "format": "address",
                 "typos": [
