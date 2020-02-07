@@ -1,5 +1,5 @@
 column,count
-,18762
+,18737
 #,1
 0.28,1
 01/12/2017,2
@@ -28,6 +28,8 @@ AdditionReference,4
 Additional Notes,3
 AdditionalNotes,2
 Address,4
+Address 1,1
+Address 2,1
 All/Part Deliverable within 5 years,1
 All/part deliverable within 5 years,1
 Allocated site,2
@@ -72,6 +74,7 @@ B1,2
 B2,2
 B8,2
 BF_ha,1
+BLR reference,1
 BNG_Easting,4
 BNG_Northing,4
 Brownfie_1,1
@@ -113,10 +116,11 @@ Coordinate,4
 "Coordinate
 ReferenceSystem",1
 Coordinate Reference System,29
+Coordinate referencing system,1
 CoordinateRef. System,1
 CoordinateRefSystem,1
 CoordinateReference System,1
-CoordinateReferenceSystem,649
+CoordinateReferenceSystem,650
 CoordinateReferenceSystem2,1
 CoordinateReferenceSystem3,1
 CoordinateReferenceSystem_ETRS89,1
@@ -144,14 +148,18 @@ Date Entered,2
 Date Entered on Part 1 of Brownfield Register,3
 Date Permission Lapses,2
 Date Permission Obtained,2
+Date first entered on the register,1
+Date granted,1
+Date last updated on the register,1
 DateUpdate,2
 Date_Permission,1
 Decision_Date,3
 Deliverabl,3
-Deliverable,761
+Deliverable,763
 Deliverable - mandatory if yes,1
 Description,1
 Description of Proposed Development,3
+Description of the development,1
 Developable area (ha),1
 Developed: extant/ commc'd./ part. compltd.,1
 Developmen,2
@@ -160,7 +168,7 @@ Development Status: extant/ commc'd./ part. compltd.,1
 Development description,1
 Development status (if site has full PP),1
 DevelopmentDesciption,1
-DevelopmentDescription,629
+DevelopmentDescription,630
 DevelopmentDescription - mandatory where relevant,1
 Developmentdescription,3
 Discription/Notes,1
@@ -170,7 +178,7 @@ EAST,1
 EASTING,21
 ETRS89,3
 EVENTS,1
-Easting,114
+Easting,115
 Eastings,6
 Eastings (Geo X),1
 EffectiveDate,2
@@ -195,7 +203,7 @@ FirstAdd,1
 FirstAdded,4
 "FirstAdded
 Date",1
-FirstAddedDate,722
+FirstAddedDate,723
 FirstAddedDate1,2
 FirstAddedDateBR,2
 FirstDateAdded,1
@@ -210,14 +218,14 @@ Geo Longitude,2
 Geo X,9
 Geo Y,9
 GeoPointLicensingURL,2
-GeoX,754
+GeoX,755
 GeoX (Longitude or east grid),3
 GeoX [East],2
 GeoX_2,1
 GeoX_3,1
 GeoX_ETRS89,1
 GeoX_WGS84,1
-GeoY,754
+GeoY,755
 GeoY (Latitude or north grid),3
 GeoY [North],2
 GeoY_2,1
@@ -244,10 +252,10 @@ Hazardous Substances Regs 2015,2
 Hazardous Substances [as identifiied in Appl. form],1
 Hazardous substances,3
 HazardousS,3
-HazardousSubstances,685
+HazardousSubstances,686
 HazardousSubtances,2
 HazourdousSubstances,2
-Hectares,769
+Hectares,770
 Hectares (gross),2
 Housing Delivery Estimate,6
 Housing Est (remaining),1
@@ -300,7 +308,7 @@ LastUpdateDate,4
 LastUpdated,2
 "LastUpdated
 Date",1
-LastUpdatedDate,705
+LastUpdatedDate,706
 LastUpdatedDate1,2
 Last_updated_Date,1
 Latest_MostRelevantResidentialApplication,1
@@ -310,6 +318,7 @@ Local Plan Ref,2
 Local Plan Site Allocation Reference / SLAA Site Reference,1
 Local Plan reference/SLAA reference,2
 Local authority URI expressed in the form http://opendatacom munities.org/id/follo wed by relevant type of authority and name of local authority,2
+Local authority name,1
 LocalPlanPolRef,1
 LocalPlanURL,1
 Local_Authority,1
@@ -320,7 +329,6 @@ Location___Address,1
 Locations Coordinates East West,2
 Longitude,2
 MAXIMUM NET DWELLINGS,2
-MBC Brownfield Land Register (2019) : Part 1,1
 MIN NET DWELLINGS,3
 MINHOMES,1
 MINIMUM NET DWELLINGS,2
@@ -331,9 +339,11 @@ MORE_INFORMATION,1
 Map Weblink,2
 Mapping link [Siteplan URL],1
 Mapping link [SiteplanURL],1
+Max dwellings,1
 Maximum amount of Dwellings,3
 Min Net Dwelling,2
 Min Net Dwellings,32
+Min dwellings,1
 Min-Max range of Net Dwellings,2
 MinDetDwellings,3
 MinHomes,5
@@ -341,7 +351,7 @@ MinHomes,5
 Dwellings",1
 MinNet Dwellings,3
 MinNetDwel,2
-MinNetDwellings,643
+MinNetDwellings,644
 MinNetDwellingsComment,4
 Min_Capacity,1
 Minimum Net Dwellings,2
@@ -385,10 +395,10 @@ NetDwell_1,1
 NetDwellin,3
 NetDwellingRangeTo,2
 NetDwellingsRangeForm,7
-NetDwellingsRangeFrom,692
+NetDwellingsRangeFrom,693
 NetDwellingsRangeFrom - mandatory where relevant,1
 NetDwellingsRangeFromComment,4
-NetDwellingsRangeTo,685
+NetDwellingsRangeTo,686
 NetDwellingsRangeTo - mandatory where relevant,1
 NetDwellingsRangeToComment,4
 NetDwellingsRangeto,7
@@ -400,8 +410,10 @@ Netdwellingrangeto,1
 New Dwellings Range to,3
 NewDwellingsRangeFrom,1
 NewDwellingsRangeTo,1
+No. of dwellings granted (net),1
 Non Housing Development,27
 Non housing Development,2
+Non housing development,1
 Non-Housing Development,2
 Non-Housing development,1
 Non-housing development,5
@@ -410,14 +422,14 @@ NonHousing Development,5
 NonHousing development,3
 NonHousingDeveloment,2
 NonHousingDevelopemnt,1
-NonHousingDevelopment,630
+NonHousingDevelopment,631
 NonHousingDevelopment - mandatory where relevant,1
 Non_Resi_Dev,1
-Northing,113
+Northing,114
 Northings,7
 Northings (Geo Y),1
 Note,1
-Notes,757
+Notes,758
 Notes UPRN for sites,1
 Notes.1,1
 OBJECTID,10
@@ -458,8 +470,8 @@ Organisation URI,23
 Organisation URL,12
 Organisation Uri,2
 Organisation label,1
-OrganisationLabel,648
-OrganisationURI,715
+OrganisationLabel,649
+OrganisationURI,716
 OrganisationURL,13
 OrganisationURl,3
 OrganisationUrI,1
@@ -471,6 +483,7 @@ OrganistionURI,2
 OrgansiationLabel,1
 OrgansiationURI,1
 Other,2
+Other reference,1
 Other.1,2
 OtherNotes,2
 OtherSiteInformation,2
@@ -484,10 +497,10 @@ Ownership,3
 Ownership 2,1
 Ownership Information,3
 Ownership Status,42
-Ownership status,3
+Ownership status,4
 "Ownership: PA_owner, not PA_own., mixed_o'ship, unknown",1
 OwnershipS,3
-OwnershipStatus,726
+OwnershipStatus,727
 Ownership_Status,1
 Ownership_Status: PA_owned [Public Autho-rity]; not PA_owned; mix. ownership; unknown,1
 PA1Status,3
@@ -522,7 +535,7 @@ PROPOSED FOR PIP,3
 PROPOSEDFORPIP,7
 Parish,8
 Part 2,32
-Part2,615
+Part2,616
 Part2 - mandatory where relevant,1
 Part2allocation,2
 PermiDate,2
@@ -538,14 +551,14 @@ Permission Type,38
 Permission Types as req. by Gov.,1
 Permission Types as required in BFLR,1
 Permission date,1
-Permission type,1
-PermissionDate,712
+Permission type,2
+PermissionDate,713
 PermissionDate -  - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.,1
 PermissionDate1,2
 PermissionDatePlanningHistory,1
 PermissionHistory,4
 PermissionTyne,2
-PermissionType,719
+PermissionType,720
 PermissionType - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.,1
 PeviouslyPartof,1
 Plan,1
@@ -567,7 +580,7 @@ Planning Status,48
 Planning application Reference,1
 Planning history,2
 Planning ref,3
-Planning status,1
+Planning status,2
 PlanningA1,2
 PlanningA2,2
 PlanningAppNumber,4
@@ -578,12 +591,12 @@ PlanningAuthority1,15
 PlanningAuthority2,15
 PlanningAuthority3,15
 PlanningHi,3
-PlanningHistory,704
+PlanningHistory,705
 PlanningHistory (URL),1
 PlanningHistoryURL,1
 PlanningReference,7
 PlanningSt,4
-PlanningStatus,725
+PlanningStatus,726
 Planning_Status,2
 Planning_Status_Reference,2
 Planningapplicationreference,1
@@ -600,7 +613,7 @@ Previously Part Of,28
 Previously Part of,1
 Previously PartOf,2
 Previously part of,3
-PreviouslyPartOf,621
+PreviouslyPartOf,622
 PreviouslyPartof,5
 Primary Source of Identification at DATE,2
 Progress,1
@@ -614,7 +627,7 @@ Proposed for PIP,8
 Proposed for PiP,4
 ProposedFo,2
 ProposedFor PIP,2
-ProposedForPIP,585
+ProposedForPIP,586
 ProposedForPIP - mandatory if yes,1
 ProposedForPiP,7
 Proposed_U,1
@@ -683,7 +696,7 @@ Site Areaha [0.25ha min],1
 Site Information,32
 Site Information / constrains,1
 Site Information3,1
-Site Name,5
+Site Name,6
 Site Name & Address,2
 Site Name Address,28
 "Site Name, Address",1
@@ -696,19 +709,21 @@ Site Reference,45
 Site UPRN,1
 Site URL,1
 Site Yes (within 5 years),2
+Site area (ha),1
 Site coordinate,1
 Site information,1
 Site name/address,1
 Site part of SHLAA [2012 Reference],1
 Site plan (url),1
 Site plan URL,5
+Site reference,1
 Site status,6
 SiteAddress,4
 SiteAreasqm,3
 SiteInfo,1
 SiteInfomation,2
 SiteInform,2
-SiteInformation,614
+SiteInformation,615
 SiteInformation - mandatory where relevant,1
 SiteInformation1,1
 SiteInformation2,1
@@ -716,13 +731,13 @@ SiteName,5
 SiteName Address,2
 SiteName/Address,1
 SiteNameAd,3
-SiteNameAddress,728
+SiteNameAddress,729
 SiteNameAddresss,1
 SitePlanURL,78
 SitePlanURL CoordinateReferenceSystem,1
 SiteProforma,3
 SiteRefere,3
-SiteReference,717
+SiteReference,718
 SiteReference (also SHLAA Reference),3
 SiteReferenceAlternate,1
 Site_Address,1
@@ -733,11 +748,12 @@ Siteplan,7
 Siteplan URL,10
 SiteplanUR,3
 SiteplanURI,1
-SiteplanURL,639
+SiteplanURL,640
 Siteref,1
 Skylark Motor Services Ltd The Ridge Woodfalls,1
 SortOrder,2
 Source,9
+Source of the Site,1
 SourcesOtherReference,1
 Status,4
 Status source,1
@@ -760,8 +776,9 @@ Total_ha,1
 Type of Permission,3
 Type_Permission,1
 UPRN,17
-URI,1
+URI,2
 URLOrganisationLabel,1
+Under construction at 1 April 2018,1
 Uni_ID,1
 Unnamed: 28,1
 Unnamed: 30,1

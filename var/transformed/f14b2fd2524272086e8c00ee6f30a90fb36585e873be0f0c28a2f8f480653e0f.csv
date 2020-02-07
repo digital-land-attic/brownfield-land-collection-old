@@ -1,32 +1,32 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,,,"High Road Broxbourne, Broxbourne, EN10 7DD",,,owned by a public authority,permissioned,,,,,6.093,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"Park Lane Paradise, Cheshunt, EN7 6TD",,,not owned by a public authority,permissioned,,,,,2.238,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"Rosedale Way, Cheshunt, Waltham Cross, Hertfordshire, EN7 6HR",,,owned by a public authority,permissioned,,,,,0.5224,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"6 Windmill Lane, Cheshunt, EN8 9AA",,,owned by a public authority,permissioned,,,,,0.158,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"Delamare Road, Cheshunt",,,not owned by a public authority,not permissioned,,,,,12.46,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"Bishops College, Churchgate, Cheshunt, EN8 9XG",,,owned by a public authority,not permissioned,,,,,1.911,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"Theobalds Lane, Cheshunt, Hertfordshire, EN8 8RU",,,owned by a public authority,not permissioned,,,,,5.304,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"577-579 Goffs Lane, Goffs Oak, EN7 5HJ",,,not owned by a public authority,not permissioned,,,,,1.883,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"104 Cuffley Hill, Goffs Oak, EN7 5EY",,,not owned by a public authority,not permissioned,,,,,1.208,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"Rye Road, Hoddesdon, EN11",,,not owned by a public authority,not permissioned,,,,,0.5787,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"Lord Street, Hoddesdon, EN11 8NL",,,not owned by a public authority,not permissioned,,,,,0.3019,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"Essex Road, Hoddesdon, EN11 0BX",,,not owned by a public authority,permissioned,,,,,0.908,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"Amwell Street, Hoddesdon, EN11 8TS",,,not owned by a public authority,not permissioned,,,,,0.3858,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"Police Station, High Street, Hoddesdon, EN11 8BJ",,,owned by a public authority,not permissioned,,,,,0.321,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"16 Westfield Road, Hoddesdon, EN11 8QX",,,,not permissioned,,,,,1.272,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,Waltham Cross,,,not owned by a public authority,not permissioned,,,,,2.641,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"High Street, Waltham Cross, EN8 7BG",,,owned by a public authority,not permissioned,,,,,0.3539,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"High Road, Turnford, EN10 6DB",,,not owned by a public authority,permissioned,,,,,0.504,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"74 High Road, Wormley, EN10 6DU",,,not owned by a public authority,permissioned,,,,,0.076,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"56-58 Turners Hill, Cheshunt, EN8 9BD",,,not owned by a public authority,permissioned,,,,,0.061,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"110 Turners Hill, Cheshunt, EN8 9BN",,,not owned by a public authority,permissioned,,,,,0.077,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"210A Windmill Lane, Cheshunt, EN8 9AF",,,not owned by a public authority,permissioned,,,,,0.022,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"134 Crossbrook Street, Cheshunt, EN8 8JH",,,not owned by a public authority,permissioned,,,,,0.042,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"90 Ware Road, Hoddesdon, EN11 9ET",,,not owned by a public authority,permissioned,,,,,0.148,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"Rear of 40 Park Lane, Waltham Cross, EN8 8BE",,,not owned by a public authority,permissioned,,,,,0.26,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"75-81 High Street, Waltham Cross, EN8 7AF",,,not owned by a public authority,permissioned,,,,,0.076,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"Fitzpatrick Contractors Ltd, Woollens Brook, Hertford Road, Hoddesdon, EN11 9BX",,,not owned by a public authority,permissioned,,,,,1.532,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"St Laurence Drive, Wormley, EN10 6LH",,,,permissioned,,,,,0.384,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"Trust Road, Waltham Cross, EN8 7HF",,,not owned by a public authority,permissioned,,,,,0.095,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"Cameron Drive, EN8 8BN",,,not owned by a public authority,permissioned,,,,,0.06,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
-,,,"Cameron Drive, EN8 8BN",,,not owned by a public authority,permissioned,,,,,0.03,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"High Road Broxbourne, Broxbourne, EN10 7DD, Broxbourne School",,,owned by a public authority,permissioned,,,,,6.093,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"Park Lane Paradise, Cheshunt, EN7 6TD, Cheshunt Park Farm",,,not owned by a public authority,permissioned,,,,,2.238,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"Rosedale Way, Cheshunt, Waltham Cross, Hertfordshire, EN7 6HR, Fourfields",,,owned by a public authority,permissioned,,,,,0.5224,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"6 Windmill Lane, Cheshunt, EN8 9AA, Wolsey Hall",,,owned by a public authority,permissioned,,,,,0.158,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"Delamare Road, Cheshunt, Cheshunt Lakeside",,,not owned by a public authority,not permissioned,,,,,12.46,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"Bishops College, Churchgate, Cheshunt, EN8 9XG, Broxbourne Borough Council Offices and Car Park",,,owned by a public authority,not permissioned,,,,,1.911,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"Theobalds Lane, Cheshunt, Hertfordshire, EN8 8RU, Cheshunt Football Club",,,owned by a public authority,not permissioned,,,,,5.304,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"577-579 Goffs Lane, Goffs Oak, EN7 5HJ, South of Goffs Lane",,,not owned by a public authority,not permissioned,,,,,1.883,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"104 Cuffley Hill, Goffs Oak, EN7 5EY, CG Edwards",,,not owned by a public authority,not permissioned,,,,,1.208,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"Rye Road, Hoddesdon, EN11, Turnford Surfacing Site",,,not owned by a public authority,not permissioned,,,,,0.5787,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"Lord Street, Hoddesdon, EN11 8NL, Rosehill Bowls Club",,,not owned by a public authority,not permissioned,,,,,0.3019,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"Essex Road, Hoddesdon, EN11 0BX, Oaklands Yard",,,not owned by a public authority,permissioned,,,,,0.908,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"Amwell Street, Hoddesdon, EN11 8TS, 19 Amwell Street and Scania House",,,not owned by a public authority,not permissioned,,,,,0.3858,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"Police Station, High Street, Hoddesdon, EN11 8BJ, Former Hoddesdon Police Station",,,owned by a public authority,not permissioned,,,,,0.321,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"16 Westfield Road, Hoddesdon, EN11 8QX, Westfield Primary School",,,,not permissioned,,,,,1.272,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"Waltham Cross, Northern High Street/Land Off Sturlas Way",,,not owned by a public authority,not permissioned,,,,,2.641,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"High Street, Waltham Cross, EN8 7BG, Theobalds Grove Station Cark Park",,,owned by a public authority,not permissioned,,,,,0.3539,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"High Road, Turnford, EN10 6DB, New River Arms",,,not owned by a public authority,permissioned,,,,,0.504,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"74 High Road, Wormley, EN10 6DU, 74 High Road",,,not owned by a public authority,permissioned,,,,,0.076,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"56-58 Turners Hill, Cheshunt, EN8 9BD, 56-58 Turners Hill",,,not owned by a public authority,permissioned,,,,,0.061,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"110 Turners Hill, Cheshunt, EN8 9BN, 110 Turners Hill",,,not owned by a public authority,permissioned,,,,,0.077,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"210A Windmill Lane, Cheshunt, EN8 9AF, The Windmill",,,not owned by a public authority,permissioned,,,,,0.022,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"134 Crossbrook Street, Cheshunt, EN8 8JH, 134 Crossbrook Street",,,not owned by a public authority,permissioned,,,,,0.042,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"90 Ware Road, Hoddesdon, EN11 9ET, The Coach House",,,not owned by a public authority,permissioned,,,,,0.148,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"Rear of 40 Park Lane, Waltham Cross, EN8 8BE, Rear of 40 Park Lane",,,not owned by a public authority,permissioned,,,,,0.26,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"75-81 High Street, Waltham Cross, EN8 7AF, 75-81 High Street",,,not owned by a public authority,permissioned,,,,,0.076,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"Fitzpatrick Contractors Ltd, Woollens Brook, Hertford Road, Hoddesdon, EN11 9BX, Volker Fitzpatrick",,,not owned by a public authority,permissioned,,,,,1.532,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"St Laurence Drive, Wormley, EN10 6LH, Former Wormley Primary",,,,permissioned,,,,,0.384,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"Trust Road, Waltham Cross, EN8 7HF, Wellington House",,,not owned by a public authority,permissioned,,,,,0.095,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"Cameron Drive, EN8 8BN, Former Rivers Education Centre",,,not owned by a public authority,permissioned,,,,,0.06,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f
+,,,"Cameron Drive, EN8 8BN, Former Rivers Education Centre Car Park",,,not owned by a public authority,permissioned,,,,,0.03,,,,,f14b2fd2524272086e8c00ee6f30a90fb36585e873be0f0c28a2f8f480653e0f

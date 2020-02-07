@@ -1,13 +1,13 @@
 field,value,count
-OwnershipStatus,not owned by a public authority,23845
+OwnershipStatus,not owned by a public authority,23864
 OwnershipStatus,unknown ownership,5249
-OwnershipStatus,Not owned by a public authority,4999
+OwnershipStatus,Not owned by a public authority,5150
 OwnershipStatus,owned by a public authority,4199
 OwnershipStatus,Unknown ownership,3400
-OwnershipStatus,"",2785
+OwnershipStatus,"",2378
 OwnershipStatus,unkown ownership,1800
 OwnershipStatus,mixed ownership,1424
-OwnershipStatus,Owned by a public authority,1032
+OwnershipStatus,Owned by a public authority,1033
 OwnershipStatus,Unknown,870
 OwnershipStatus,Unknown Ownership,861
 OwnershipStatus,Not in public ownership,421
@@ -36,53 +36,57 @@ OwnershipStatus,owned by public authority,37
 OwnershipStatus,Local Authority,37
 OwnershipStatus,Not owned by a \npublic authority,26
 OwnershipStatus,Private,24
-OwnershipStatus,mixed owner,20
 OwnershipStatus,Mixed owner,20
+OwnershipStatus,mixed owner,20
 OwnershipStatus,"Local Authority, Unknown",20
 OwnershipStatus,Public Authority,18
-OwnershipStatus,Ownedbyapublicauthority,16
 OwnershipStatus,Owned by the london borough of bromley,16
+OwnershipStatus,Ownedbyapublicauthority,16
 OwnershipStatus,Owned by the London Borough of Bromley,15
 OwnershipStatus,owned by a public authori,14
-OwnershipStatus,N/A,13
 OwnershipStatus,multiple ownership,12
-OwnershipStatus,in public ownership,9
 OwnershipStatus,Owned by a  Public Authority,9
-OwnershipStatus,unknown owner,8
-OwnershipStatus,not owned by a public authority ,8
+OwnershipStatus,in public ownership,9
 OwnershipStatus,Unknown owner,8
+OwnershipStatus,unknown owner,8
 OwnershipStatus,Owned by a public authority.,8
 OwnershipStatus,Not Owned by a public authority,8
+OwnershipStatus,not owned by a public authority ,8
 OwnershipStatus,Public - Thurrock Council,6
-OwnershipStatus,mixed,4
 OwnershipStatus,OWNED BY A PUBLIC AUTHORITY,4
 OwnershipStatus,MultipleOwners,4
 OwnershipStatus,Mixed,4
+OwnershipStatus,mixed,4
 OwnershipStatus,Owned by a public authority - HBC,3
 OwnershipStatus,Onwed by a public authorty,3
-OwnershipStatus,public authority,2
-OwnershipStatus,owned by a public authorty,2
+OwnershipStatus,Kent County Council,3
 OwnershipStatus,Unknown owership,2
 OwnershipStatus,Unknown owenrship,2
 OwnershipStatus,Swindon Borough Council,2
 OwnershipStatus,Public authority,2
+OwnershipStatus,public authority,2
 OwnershipStatus,Private Individual,2
 OwnershipStatus,Private Company,2
-OwnershipStatus,Not owned by a public authoritity.,2
+OwnershipStatus,owned by a public authorty,2
 OwnershipStatus,Not owned by  apublic authority,2
+OwnershipStatus,Not owned by a public authoritity.,2
 OwnershipStatus,0.21,2
 OwnershipStatus,0.11,2
 OwnershipStatus,0.05,2
-OwnershipStatus,ownership unknown,1
-OwnershipStatus,owned by a public authority (part),1
-OwnershipStatus,owmed by a public authority,1
 OwnershipStatus,Unknown ownerhip,1
 OwnershipStatus,Unknown Owership,1
 OwnershipStatus,Swindon Borough Council and others,1
 OwnershipStatus,Qwned by a public authority,1
 OwnershipStatus,Part Public part Not in Public Ownership,1
+OwnershipStatus,Part owned Kent Highway Services,1
+OwnershipStatus,ownership unknown,1
 OwnershipStatus,Ownership Status,1
+OwnershipStatus,owned by a public authority (part),1
 OwnershipStatus,Owned by a \npublic authority,1
+OwnershipStatus,owmed by a public authority,1
+OwnershipStatus,Ministry of Defense,1
+OwnershipStatus,"KT22 7AX""",1
+OwnershipStatus,Kent Highways Service,1
 OwnershipStatus,In Public Ownership,1
 OwnershipStatus,1.85,1
 OwnershipStatus,1.54,1
@@ -95,4 +99,3 @@ OwnershipStatus,0.16,1
 OwnershipStatus,0.14,1
 OwnershipStatus,0.06,1
 OwnershipStatus,0.04,1
-OwnershipStatus,"KT22 7AX""",1

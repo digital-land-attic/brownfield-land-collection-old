@@ -1,1 +1,55 @@
 row-number,field,datatype,value
+8,PlanningStatus,enum,completing
+18,OwnershipStatus,enum,Part owned Kent Highway Services
+19,OwnershipStatus,enum,Ministry of Defense
+20,PlanningStatus,enum,completed
+22,OwnershipStatus,enum,Kent Highways Service
+22,PlanningStatus,enum,completed
+26,PlanningStatus,enum,completed
+29,PlanningStatus,enum,completing
+30,PlanningStatus,enum,completing
+31,PlanningStatus,enum,completed
+32,PlanningStatus,enum,completed
+33,PlanningStatus,enum,completed
+34,PlanningStatus,enum,completed
+35,PlanningStatus,enum,completed
+36,PlanningStatus,enum,Completed
+37,PlanningStatus,enum,completed
+38,PlanningStatus,enum,completed
+40,PlanningStatus,enum,completed
+41,PlanningStatus,enum,completed
+42,PlanningStatus,enum,completed
+43,PlanningStatus,enum,completed
+44,PlanningStatus,enum,completed
+45,PlanningStatus,enum,completing
+47,PlanningStatus,enum,completed
+48,PlanningStatus,enum,completed
+53,PlanningStatus,enum,completed
+54,PlanningStatus,enum,completed
+58,PlanningStatus,enum,completed
+62,PlanningStatus,enum,completed
+63,PlanningStatus,enum,completed
+65,PlanningStatus,enum,completed
+66,PlanningStatus,enum,completed
+68,PlanningStatus,enum,completed
+70,PlanningStatus,enum,completed
+73,PlanningStatus,enum,completed
+76,PlanningStatus,enum,completed
+77,PlanningStatus,enum,completed
+79,PlanningStatus,enum,completed
+81,PlanningStatus,enum,completed
+82,PlanningStatus,enum,completed
+83,PlanningStatus,enum,completed
+84,PlanningStatus,enum,completed
+86,PlanningStatus,enum,completed
+87,PlanningStatus,enum,completing
+91,PlanningStatus,enum,completed
+97,PlanningStatus,enum,completing
+110,PlanningStatus,enum,completing
+112,PlanningStatus,enum,completed
+113,PlanningStatus,enum,completed
+127,PlanningStatus,enum,completed
+129,PlanningStatus,enum,completed
+131,PlanningStatus,enum,completed
+132,PlanningStatus,enum,completed
+135,PlanningStatus,enum,no application

@@ -1,27 +1,18 @@
 row-number,field,datatype,value
 1,PermissionType,enum,MAR
-1,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
 2,PermissionType,enum,MAR
 3,PermissionType,enum,MAF
-3,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
 4,PermissionType,enum,MAF
-4,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
 5,PermissionType,enum,MAR
 6,PermissionType,enum,MAO
 7,PermissionType,enum,MAF
-7,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
 8,PermissionType,enum,MAF
-8,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
 9,PermissionType,enum,MAF
 10,PermissionType,enum,MAF
-10,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
 11,PermissionType,enum,MAF
-11,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
 12,PermissionType,enum,MAF
 13,PermissionType,enum,MAF
-13,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
 14,PermissionType,enum,MAF
-14,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
 15,PermissionType,enum,MAF
 16,PermissionType,enum,OUT
 17,PermissionType,enum,MAF
