@@ -108,7 +108,7 @@ collect:	$(DATASET_FILES)
 
 # restart the make process to pick-up collected files
 second-pass:
-	@make --no-print-directory validate harmonise dataset index
+	@$(MAKE) --no-print-directory validate harmonise dataset index
 
 validate: $(VALIDATION_FILES)
 	@:
