@@ -33,6 +33,7 @@ fields = {field["name"]: field for field in schema["fields"]}
 fieldnames = [field["name"] for field in schema["fields"]]
 
 organisation_uri = {}
+default_values = {}
 field_enum = {}
 field_value = {}
 
@@ -312,6 +313,17 @@ def normalise(fieldname, value):
     return value
 
 
+def default(o):
+    for field in default_values:
+        if not o[field]:
+            o[field] = default_values[field]
+
+    for field in schema["digital-land"]["duplicate"]:
+        default_values[field] = o[field]
+
+    return o
+
+
 if __name__ == "__main__":
     reader = csv.DictReader(open(input_path, newline=""))
 
@@ -329,5 +341,6 @@ if __name__ == "__main__":
                 o[field] = normalise(field, row[field])
 
             o = normalise_geometry(o)
+            o = default(o)
 
             writer.writerow(o)

@@ -42,12 +42,13 @@ if __name__ == "__main__":
 
     # build index of headers from the input
     headers = {}
-    for field in reader.fieldnames:
-        fieldname = normalise(field)
+    if reader.fieldnames:
+        for field in reader.fieldnames:
+            fieldname = normalise(field)
 
-        if fieldname not in fieldnames:
-            if fieldname in typos:
-                headers[field] = typos[fieldname]
+            if fieldname not in fieldnames:
+                if fieldname in typos:
+                    headers[field] = typos[fieldname]
 
     with open(output_path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)

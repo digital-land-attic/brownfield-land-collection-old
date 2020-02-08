@@ -94,6 +94,7 @@
                   "Address",
                   "Location / Address",
                   "Location___Address",
+                  "NAME AND ADDRESS OF SITE",
                   "Site Address",
                   "Site Name & Address",
                   "Site Name Address",
@@ -156,6 +157,7 @@
             "digital-land": {
               "field": "site-plan-url",
               "typos": [
+                "PLAN OF SITE",
                 "Site Plan",
                 "Site Plan URL",
                 "SitePlanURL",
@@ -241,7 +243,11 @@
                 ]
             },
             "digital-land": {
-                "field": "planning-permission-status"
+                "field": "planning-permission-status",
+                "typos": [
+                  "Planning Permission Status",
+                  "PLANNING STATUS"
+                ]
             }
         },
         {
@@ -301,7 +307,8 @@
             "digital-land": {
                 "field": "minimum-net-dwellings",
                 "typos": [
-                  "Min dwellings"
+                  "Min dwellings",
+                  "MINIMUM NET DWELLINGS"
                 ]
             }
         },
@@ -316,7 +323,8 @@
             "digital-land": {
                 "field": "maximum-net-dwellings",
                 "typos": [
-                  "Max dwellings"
+                  "Max dwellings",
+                  "MAXIMUM NET DWELLINGS"
                 ]
             }
         },
@@ -359,8 +367,9 @@
             "digital-land": {
                 "field": "start-date",
                 "typos": [
-                    "FirstAdded",
-                    "Date first entered on the register"
+                    "Date first entered on the register",
+                    "DATE ENTERED ON REGISTER",
+                    "FirstAdded"
                 ]
             }
         },
@@ -378,6 +387,7 @@
                 ],
                 "field": "entry-date",
                 "typos": [
+                  "DATE LAST UPDATED",
                   "Date last updated on the register"
                 ]
             }
@@ -415,6 +425,10 @@
             "start-date",
             "end-date",
             "resource"
+        ],
+        "duplicate": [
+          "OrganisationURI",
+          "OrganisationLabel"
         ]
     }
 }
