@@ -316,7 +316,10 @@ def normalise(fieldname, value):
 def default(o):
     for field in default_values:
         if not o[field]:
-            o[field] = default_values[field]
+            value = default_values[field]
+            if value:
+                log_issue(field, "default", value)
+                o[field] = value
 
     for field in schema["digital-land"]["duplicate"]:
         default_values[field] = o[field]
