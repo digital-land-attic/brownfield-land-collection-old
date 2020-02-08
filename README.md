@@ -35,6 +35,13 @@ which has the following fields, to be consistent with other datasets published b
 * entry-date
 * organisation -- the curie for the organisation
 * site -- a unique identifier for the site
+* site-address
+* site-plan-url
+* deliverable
+* ownership
+* planning-permission-status
+* planning-permission-type
+* hazardous-substances
 * latitude
 * longitude
 * hectares
