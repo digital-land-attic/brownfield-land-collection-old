@@ -1,13 +1,7 @@
 column,count
-,18658
+,18649
 #,1
-0.28,1
-01/12/2017,2
-04/10/2016,1
-120125,1
 2018 Site Reference (where changed),1
-419779,1
-7,1
 A1,2
 A2,2
 A3,2
@@ -441,7 +435,7 @@ ORGANISATIONURI,7
 ORGANISA_1,2
 OS map reference [OSGB 1936 ? British National Grid],1
 OSEasting,2
-OSGB36,3
+OSGB36,2
 OSGB36 Easting,1
 OSGB36 Easting OSGB36 Northing,1
 OSGB36 Northing,1
@@ -621,7 +615,6 @@ Proposed For PIP,23
 Proposed For PiP,2
 Proposed ForPIP,2
 Proposed Use,2
-Proposed demolition of existing buildings and construction of 7 dwellings including formation of access and parking and associated works.,1
 Proposed for PIP,8
 Proposed for PiP,4
 ProposedFo,2
@@ -643,7 +636,6 @@ Reference_System,1
 Register_Date,1
 Residential Development Description,2
 RowNumber,1
-S15.11698,1
 SCALE OF NON HOUSING DEVELOPMENT,2
 SCC_Regeneration,1
 SCC_SubArea,1
@@ -749,7 +741,6 @@ SiteplanUR,3
 SiteplanURI,1
 SiteplanURL,641
 Siteref,1
-Skylark Motor Services Ltd The Ridge Woodfalls,1
 SortOrder,2
 Source,9
 Source of the Site,1
@@ -793,28 +784,20 @@ Ward_Name,1
 Ward_Nm,1
 Weblink,1
 Well Known Text Geometry,1
-Wiltshire Council,1
 X,2
 X_Ref,2
 Y,2
 Y_Ref,2
-Yes,1
 additional field address 2,2
 additional field calc area,2
 additional field no at 30per ha,2
 additional field no at 45perha,2
 areaha,1
-full planning permission,1
 gid,2
-http://opendatacommunities.org/id/unitary-authority/wiltshire,1
-http://planning.wiltshire.gov.uk/Northgate/PlanningExplorer/ApplicationSearch.aspx,1
-https://wiltscouncil.maps.arcgis.com/apps/webappviewer/index.html?id=74a353612a934bd48fee1f2bc564cdd8,1
 id,2
-not owned by a public authority,1
 ownershipStatus,1
 parish,1
 permission,1
-permissioned,1
 planningStatus,1
 shlaareference,2
 siterefere,1
