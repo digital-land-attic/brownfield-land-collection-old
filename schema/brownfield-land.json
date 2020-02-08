@@ -105,7 +105,8 @@
                   "SiteName/Address",
                   "SiteNameAddress",
                   "SiteNameAddresss",
-                  "Site_Address"
+                  "Site_Address",
+                  "Title"
                 ]
             }
         },
