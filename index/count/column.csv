@@ -1,5 +1,5 @@
 column,count
-,18649
+,2277
 #,1
 2018 Site Reference (where changed),1
 A1,2
@@ -135,7 +135,6 @@ DEVELOPMENT DESCRIPTION,3
 DEVELOPMENTDESCRIPTION,7
 DM COMMENTS,1
 DataUpdate,2
-Date Added,1
 Date Entered,2
 Date Entered on Part 1 of Brownfield Register,3
 Date Permission Lapses,2
@@ -211,14 +210,14 @@ Geo Longitude,2
 Geo X,9
 Geo Y,9
 GeoPointLicensingURL,2
-GeoX,761
+GeoX,762
 GeoX (Longitude or east grid),3
 GeoX [East],2
 GeoX_2,1
 GeoX_3,1
 GeoX_ETRS89,1
 GeoX_WGS84,1
-GeoY,761
+GeoY,762
 GeoY (Latitude or north grid),3
 GeoY [North],2
 GeoY_2,1
@@ -687,9 +686,9 @@ Site Areaha [0.25ha min],1
 Site Information,34
 Site Information / constrains,1
 Site Information3,1
-Site Name,6
+Site Name,5
 Site Name & Address,2
-Site Name Address,31
+Site Name Address,32
 "Site Name, Address",1
 "Site Name, Address, Postcode",1
 Site Plan,1
