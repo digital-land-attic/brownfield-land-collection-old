@@ -1,11 +1,11 @@
 field,value,count
-PlanningStatus,permissioned,22447
-PlanningStatus,not permissioned,13050
+PlanningStatus,permissioned,22499
+PlanningStatus,not permissioned,13071
 PlanningStatus,Permissioned,8630
 PlanningStatus,Not permissioned,2269
 PlanningStatus,Not Permissioned,2105
 PlanningStatus,"",1914
-PlanningStatus,pending decision,1425
+PlanningStatus,pending decision,1428
 PlanningStatus,Full Planning Permission,430
 PlanningStatus,Pending decision,323
 PlanningStatus,Other Commitment,230
@@ -17,8 +17,8 @@ PlanningStatus,Completed During 2016/17,74
 PlanningStatus,Adopted Local Plan,63
 PlanningStatus,Outline Planning Permission,61
 PlanningStatus,Completed During 2017/18,51
-PlanningStatus,PERMISSIONED,42
 PlanningStatus,completed,42
+PlanningStatus,PERMISSIONED,42
 PlanningStatus,LP Site Not Permissioned,30
 PlanningStatus,Not permisioned,26
 PlanningStatus,not permissoned,24
@@ -36,24 +36,33 @@ PlanningStatus,pending Decision,4
 PlanningStatus,Outline consent,3
 PlanningStatus,No permissioned,3
 PlanningStatus,Approved,3
+PlanningStatus,permissiond,2
+PlanningStatus,permisioned,2
+PlanningStatus,pending descision,2
+PlanningStatus,decision pending,2
 PlanningStatus,Reserve mattes permi,2
 PlanningStatus,Prior notification,2
 PlanningStatus,Permissoned,2
 PlanningStatus,Permission granted,2
-PlanningStatus,permissiond,2
-PlanningStatus,permisioned,2
-PlanningStatus,pending descision,2
 PlanningStatus,Outline permission,2
 PlanningStatus,Not permissionsed,2
 PlanningStatus,Not Permissed,2
-PlanningStatus,decision pending,2
 PlanningStatus,Completed During 2016/7,2
 PlanningStatus,Allocation,2
+PlanningStatus,reserve mattes permi,1
+PlanningStatus,outline planning permission,1
+PlanningStatus,outline permission,1
+PlanningStatus,not Permissioned,1
+PlanningStatus,no application,1
 PlanningStatus,Y15/0072/SH,1
 PlanningStatus,Y11/0137/SH,1
 PlanningStatus,Resolution to grant\nY15/0030/SH,1
-PlanningStatus,reserve mattes permi,1
 PlanningStatus,PlanningStatus,1
+PlanningStatus,Permitted\nPlanning ref\nY14/0703/SH,1
+PlanningStatus,Permitted\nPlanning ref\nY10/0717/SH,1
+PlanningStatus,Permitted\nPlanning ref\nY05/0237/SH,1
+PlanningStatus,Permitted\nPlanning ref \nY15/0467/SH,1
+PlanningStatus,Permitted\nPlanning ref \nY14/1149/SH,1
 PlanningStatus,Permitted\nPlanning ref Y16/0987/SH,1
 PlanningStatus,Permitted\nPlanning ref Y16/0463/SH,1
 PlanningStatus,Permitted\nPlanning ref Y16/0403/SH,1
@@ -73,20 +82,11 @@ PlanningStatus,Permitted\nPlanning ref Y12/0650/SH,1
 PlanningStatus,Permitted\nPlanning ref Y11/0121/SH,1
 PlanningStatus,Permitted\nPlanning ref Y08/1212/SH,1
 PlanningStatus,Permitted\nPlanning ref Y05/1391/SH,1
-PlanningStatus,Permitted\nPlanning ref \nY15/0467/SH,1
-PlanningStatus,Permitted\nPlanning ref \nY14/1149/SH,1
-PlanningStatus,Permitted\nPlanning ref\nY14/0703/SH,1
-PlanningStatus,Permitted\nPlanning ref\nY10/0717/SH,1
-PlanningStatus,Permitted\nPlanning ref\nY05/0237/SH,1
 PlanningStatus,Permissioned (part),1
+PlanningStatus,Pendingdecision,1
 PlanningStatus,Pending permission,1
 PlanningStatus,Pending decision (appeal lodged),1
-PlanningStatus,Pendingdecision,1
 PlanningStatus,Part Permissioned,1
-PlanningStatus,outline planning permission,1
-PlanningStatus,outline permission,1
-PlanningStatus,not Permissioned,1
-PlanningStatus,no application,1
 PlanningStatus,Mixed ownership,1
 PlanningStatus,Expired Permission,1
 PlanningStatus,ETRS89,1
