@@ -53,3 +53,4 @@ row-number,field,datatype,value
 52,SiteplanURL,uri,Captains siteplan
 53,SiteplanURL,uri,Wolverley Lodge siteplan
 54,SiteplanURL,uri,"52.373918, -2.222310"
+54,OrganisationURI,default,http://opendatacommunities.org/id/district-council/wyre-forest

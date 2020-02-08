@@ -21,6 +21,7 @@ row-number,field,datatype,value
 20,SiteplanURL,uri,Link to the map of Hasells Nursery Jackson Road BR28NS associated with Full planning permission 16/05353/FULL1
 21,OrganisationURI,opendatacommunities-uri,BLR
 21,SiteplanURL,uri,Link to the map of Ontario Centre Helegan Close associated with Outline Planning Permission 16/05900/OUT
+21,OrganisationURI,default,http://opendatacommunities.org/id/london-borough-council/bromley
 22,SiteplanURL,uri,Link to the map of 63-35 Chislehurst Road associated with Full planning application 16/01032/FULL1
 23,SiteplanURL,uri,Link to the map of 3 Beckenham Road associated with Full planning permission 16/04145/FULL1
 24,SiteplanURL,uri,Link to the map of Beechers Court High Street Beckenham associated with Full planning permission 17/01348/FULL1

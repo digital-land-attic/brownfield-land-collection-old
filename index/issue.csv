@@ -165,6 +165,12 @@ Y15/0030/SH"
 06323d848513172ef08e6362d29f0476a2b53d57e2a432e2c7e1f6533f81d5b5,83,"GeoX,GeoY",OSGB,","
 06db693a4cd4e606aa2ddb249465a695409df34214d85898b3ed877192a52dcf,7,PermissionType,enum,REM
 06db693a4cd4e606aa2ddb249465a695409df34214d85898b3ed877192a52dcf,22,PermissionType,enum,REM
+07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e,30,OrganisationURI,default,http://opendatacommunities.org/id/district-council/gravesham
+07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e,37,OrganisationURI,default,http://opendatacommunities.org/id/district-council/gravesham
+07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e,38,OrganisationURI,default,http://opendatacommunities.org/id/district-council/gravesham
+07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e,47,OrganisationURI,default,http://opendatacommunities.org/id/district-council/gravesham
+07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e,50,OrganisationURI,default,http://opendatacommunities.org/id/district-council/gravesham
+07e1064ce37631bbca6118959dca0baf87ca9f35b06e025c9828ba656b6a304e,51,OrganisationURI,default,http://opendatacommunities.org/id/district-council/gravesham
 0938ddfe15027c0efc4d998795717ad812a5a5fc09572ce472b43ae165811b6f,2,LastUpdatedDate,date,2018-21-21
 09a3e48a3346b574437259343471e3ff27c5aebfaed96abe01a4ba1141926c10,8,PermissionDate,date,Awaiting s 106
 0a2acb3630049c97f654ba03d73bd03261a00ec702ff5e8403433afef412e84f,1,"GeoX,GeoY",OSGB,","
@@ -213,6 +219,14 @@ Y15/0030/SH"
 153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05,40,PlanningStatus,enum,Allocation
 153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05,41,PlanningStatus,enum,Allocation
 153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05,55,PermissionDate,date,Decision pending
+153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05,104,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/swindon
+153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05,105,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/swindon
+153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05,106,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/swindon
+153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05,107,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/swindon
+153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05,108,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/swindon
+153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05,109,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/swindon
+153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05,110,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/swindon
+153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05,111,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/swindon
 163a15518ad8e5437a2471adf78aabf61a16c49b79a0c9f7c425730829b95349,1,"GeoX,GeoY",OSGB,","
 163a15518ad8e5437a2471adf78aabf61a16c49b79a0c9f7c425730829b95349,2,"GeoX,GeoY",OSGB,","
 163a15518ad8e5437a2471adf78aabf61a16c49b79a0c9f7c425730829b95349,3,"GeoX,GeoY",OSGB,","
@@ -448,6 +462,7 @@ Y15/0030/SH"
 1a50bf642aa3f401b4b51b5a91f923d14dfb3e5117b59483f5d447f4fd12c609,27,"GeoX,GeoY",OSGB,","
 1a50bf642aa3f401b4b51b5a91f923d14dfb3e5117b59483f5d447f4fd12c609,28,"GeoX,GeoY",OSGB,","
 1a50bf642aa3f401b4b51b5a91f923d14dfb3e5117b59483f5d447f4fd12c609,29,"GeoX,GeoY",OSGB,","
+1c66835c22dbfedf24b2fe2581e59a266e87f7cfbb711a1d5047d02c8f0350a0,38,OrganisationURI,default,http://opendatacommunities.org/id/district-council/forest-of-dean
 2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab,1,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab,2,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 2097b9a5e8b6d406a28b8746d2a17ff6dbc3cc15a86bd7464d91fa9f45770fab,3,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
@@ -807,6 +822,7 @@ Y15/0030/SH"
 291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,20,SiteplanURL,uri,Link to the map of Hasells Nursery Jackson Road BR28NS associated with Full planning permission 16/05353/FULL1
 291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,21,OrganisationURI,opendatacommunities-uri,BLR
 291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,21,SiteplanURL,uri,Link to the map of Ontario Centre Helegan Close associated with Outline Planning Permission 16/05900/OUT
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,21,OrganisationURI,default,http://opendatacommunities.org/id/london-borough-council/bromley
 291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,22,SiteplanURL,uri,Link to the map of 63-35 Chislehurst Road associated with Full planning application 16/01032/FULL1
 291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,23,SiteplanURL,uri,Link to the map of 3 Beckenham Road associated with Full planning permission 16/04145/FULL1
 291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,24,SiteplanURL,uri,Link to the map of Beechers Court High Street Beckenham associated with Full planning permission 17/01348/FULL1
@@ -1545,7 +1561,10 @@ Y15/0030/SH"
 3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d,477,PlanningStatus,enum,Completed During 2016/17
 3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d,479,PlanningStatus,enum,Other Commitment
 3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d,480,PlanningStatus,enum,Completed During 2016/17
+3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d,483,OrganisationURI,default,http://opendatacommunities.org/id/metropolitan-district-council/wolverhampton
+3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d,484,OrganisationURI,default,http://opendatacommunities.org/id/metropolitan-district-council/wolverhampton
 3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d,485,PlanningStatus,enum,Completed During 2016/7
+3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d,485,OrganisationURI,default,http://opendatacommunities.org/id/metropolitan-district-council/wolverhampton
 3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d,487,PlanningStatus,enum,Adopted Local Plan
 3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea,34,GeoX,decimal,52.200.96
 3c6a9a9d1c175350d98273d0dd73e85a5de2e55c4744b880426e818a3b62db90,3,Hectares,decimal,0..46
@@ -1555,9 +1574,11 @@ Y15/0030/SH"
 3ed5eec4f0741672d021ce151fd3b40444ddcbd6a983e8cbb25801f72e830648,4,SiteplanURL,uri,BR4
 3ed5eec4f0741672d021ce151fd3b40444ddcbd6a983e8cbb25801f72e830648,5,SiteplanURL,uri,BR5
 3ed5eec4f0741672d021ce151fd3b40444ddcbd6a983e8cbb25801f72e830648,6,SiteplanURL,uri,BR6
+3ed5eec4f0741672d021ce151fd3b40444ddcbd6a983e8cbb25801f72e830648,6,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/hartlepool
 3ed5eec4f0741672d021ce151fd3b40444ddcbd6a983e8cbb25801f72e830648,7,SiteplanURL,uri,BR7
 3ed5eec4f0741672d021ce151fd3b40444ddcbd6a983e8cbb25801f72e830648,8,SiteplanURL,uri,BR8
 3ed5eec4f0741672d021ce151fd3b40444ddcbd6a983e8cbb25801f72e830648,9,SiteplanURL,uri,BR9
+3ed5eec4f0741672d021ce151fd3b40444ddcbd6a983e8cbb25801f72e830648,9,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/hartlepool
 3ed5eec4f0741672d021ce151fd3b40444ddcbd6a983e8cbb25801f72e830648,10,SiteplanURL,uri,BR10
 3ed5eec4f0741672d021ce151fd3b40444ddcbd6a983e8cbb25801f72e830648,11,SiteplanURL,uri,BR11
 3ed5eec4f0741672d021ce151fd3b40444ddcbd6a983e8cbb25801f72e830648,12,SiteplanURL,uri,BR12
@@ -1628,6 +1649,7 @@ Y15/0030/SH"
 42b48994c06f907b97d3a9c565b1e14613c5be6e7fb32c6d838ca2795e39ff25,27,PermissionDate,date,appeal allowed 05/01/2017
 42b48994c06f907b97d3a9c565b1e14613c5be6e7fb32c6d838ca2795e39ff25,34,PermissionDate,date,Pending
 42b48994c06f907b97d3a9c565b1e14613c5be6e7fb32c6d838ca2795e39ff25,38,PermissionDate,date,Pending
+43f6e6ef6bf2388f14b48e733911dfb69c7993678689847411c2a780b9e3d751,50,OrganisationURI,default,http://opendatacommunities.org/id/district-council/epping-forest
 49a918dc51d8d4063061e5b0d257943aa194370ae1f07a1c1fc746f7ed7dd3b3,10,SiteplanURL,uri,baberghmidsuffolk.opus4.co.uk/planning/localplan/maps/consultation#/x:590958/y:233945/z:13/b:14/o:1599
 4a10af24fbc0983c63537d0875f5666f9d6f4cb7c41570745354abc974faca53,66,HazardousSubstances,enum,7
 4a10af24fbc0983c63537d0875f5666f9d6f4cb7c41570745354abc974faca53,69,HazardousSubstances,enum,10
@@ -2659,6 +2681,7 @@ Y15/0030/SH"
 12.07.2013"
 5bf2f6c33201a4e6ae47c2d6f5b825fe9a7871cd1c87f52fbb1cbc007bdd20ad,78,PermissionDate,date,"30.08.2017
 08.08.2017"
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,1,SiteplanURL,uri,Available within individual site Pdf
 5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,2,SiteplanURL,uri,Available within individual site Pdf
 5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,3,SiteplanURL,uri,Available within individual site Pdf
 5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,4,SiteplanURL,uri,Available within individual site Pdf
@@ -2786,7 +2809,6 @@ Y15/0030/SH"
 5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,126,SiteplanURL,uri,Available within individual site Pdf
 5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,127,SiteplanURL,uri,Available within individual site Pdf
 5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,128,SiteplanURL,uri,Available within individual site Pdf
-5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,129,SiteplanURL,uri,Available within individual site Pdf
 5f4dccfef0740c36b51c94a0bceee202096b4553965579122170b332e3726c08,1,"GeoX,GeoY",OSGB,","
 5f4dccfef0740c36b51c94a0bceee202096b4553965579122170b332e3726c08,2,"GeoX,GeoY",OSGB,","
 5f4dccfef0740c36b51c94a0bceee202096b4553965579122170b332e3726c08,3,"GeoX,GeoY",OSGB,","
@@ -3121,6 +3143,7 @@ Y15/0030/SH"
 68e1c58d69de37d3f39b10191eb44733289ad38618d1bb0f51967776e5c9d776,30,FirstAddedDate,date,31-06-2017
 68e1c58d69de37d3f39b10191eb44733289ad38618d1bb0f51967776e5c9d776,31,OrganisationURI,opendatacommunities-uri,BLR
 68e1c58d69de37d3f39b10191eb44733289ad38618d1bb0f51967776e5c9d776,31,FirstAddedDate,date,31-06-2017
+68e1c58d69de37d3f39b10191eb44733289ad38618d1bb0f51967776e5c9d776,31,OrganisationURI,default,http://opendatacommunities.org/id/london-borough-council/bromley
 68e1c58d69de37d3f39b10191eb44733289ad38618d1bb0f51967776e5c9d776,32,FirstAddedDate,date,31-06-2017
 68e1c58d69de37d3f39b10191eb44733289ad38618d1bb0f51967776e5c9d776,33,FirstAddedDate,date,31-06-2017
 68e1c58d69de37d3f39b10191eb44733289ad38618d1bb0f51967776e5c9d776,34,FirstAddedDate,date,31-06-2017
@@ -4008,6 +4031,11 @@ Y15/0030/SH"
 82f630980e6dea13040c8bc2d88ba17f88ecfe7278ad25eabb51a88c33c6fb2d,11,Hectares,decimal,<0.1
 82f630980e6dea13040c8bc2d88ba17f88ecfe7278ad25eabb51a88c33c6fb2d,12,Hectares,decimal,<0.1
 82f630980e6dea13040c8bc2d88ba17f88ecfe7278ad25eabb51a88c33c6fb2d,29,"GeoX,GeoY",OSGB,","
+84d621087fd6393947111b9955b6834dea71ffefba6c80f88a303c366fee25d6,5,OrganisationURI,default,http://opendatacommunities.org/id/district-council/cotswold
+84d621087fd6393947111b9955b6834dea71ffefba6c80f88a303c366fee25d6,11,OrganisationURI,default,http://opendatacommunities.org/id/district-council/cotswold
+84d621087fd6393947111b9955b6834dea71ffefba6c80f88a303c366fee25d6,14,OrganisationURI,default,http://opendatacommunities.org/id/district-council/cotswold
+84d621087fd6393947111b9955b6834dea71ffefba6c80f88a303c366fee25d6,16,OrganisationURI,default,http://opendatacommunities.org/id/district-council/cotswold
+84d621087fd6393947111b9955b6834dea71ffefba6c80f88a303c366fee25d6,17,OrganisationURI,default,http://opendatacommunities.org/id/district-council/cotswold
 84fa1cddc55bfcc78ea57e9695adef175ed9ddd8013e2be98a473eb5b990b0aa,50,"GeoX,GeoY",OSGB,","
 86dee119f806d0c7f62295e6aae502851827e848202c4e43e833126ed62773db,51,"GeoX,GeoY",OSGB,","
 86dee119f806d0c7f62295e6aae502851827e848202c4e43e833126ed62773db,121,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
@@ -4452,6 +4480,7 @@ Y15/0030/SH"
 9205559f67e6e40585bafdb6cc892392f39b9434b29012e8985f4eb8561995be,8,PermissionDate,date,2018-09-28 & 2019-05-21
 9205559f67e6e40585bafdb6cc892392f39b9434b29012e8985f4eb8561995be,14,PermissionDate,date,2019-03-22 & 2019-08-16
 941cb9ebdf1a917696f8d29d9c0e6411590469e5ccff664a8c33d714f3cd8b14,64,OrganisationURI,opendatacommunities-uri,http://eforms.eden.gov.uk/fastweb/detail.asp?AltRef=07/0343&ApplicationNumber=07%2F0343&AddressPrefix=&Postcode=&Submit=Search
+941cb9ebdf1a917696f8d29d9c0e6411590469e5ccff664a8c33d714f3cd8b14,64,OrganisationURI,default,http://opendatacommunities.org/id/district-council/eden
 95cc961f89e833cadf8b883eeca8bf361fb9bbae7481d1e3dfc6199a8893df30,1,"GeoX,GeoY",OSGB,","
 95cc961f89e833cadf8b883eeca8bf361fb9bbae7481d1e3dfc6199a8893df30,2,"GeoX,GeoY",OSGB,","
 95cc961f89e833cadf8b883eeca8bf361fb9bbae7481d1e3dfc6199a8893df30,3,"GeoX,GeoY",OSGB,","
@@ -4571,6 +4600,7 @@ Y15/0030/SH"
 9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10,52,SiteplanURL,uri,Captains siteplan
 9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10,53,SiteplanURL,uri,Wolverley Lodge siteplan
 9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10,54,SiteplanURL,uri,"52.373918, -2.222310"
+9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10,54,OrganisationURI,default,http://opendatacommunities.org/id/district-council/wyre-forest
 9779f5ee93a1a9339028a66ce2d59ff2c62bdfd04e3cfa1e0804423408ae1067,2,NetDwellingsRangeTo,integer,500 plus
 97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57,1,GeoX,decimal,ETRS89
 97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57,1,SiteplanURL,uri,"St Martin's Walk Centre (Upper Floors), Dorking, RH4 1UX"
@@ -4746,6 +4776,7 @@ Y15/0030/SH"
 9d7cdcaf52395105971506bbbfd96b88c46ed33eaadecebbc6b302e59da6cb54,132,PlanningStatus,enum,completed
 9d7cdcaf52395105971506bbbfd96b88c46ed33eaadecebbc6b302e59da6cb54,135,PlanningStatus,enum,no application
 9d9a0457ea5f34e841b7f25a3da5c99ddb2176075946f7a3049a015849763c91,64,OrganisationURI,opendatacommunities-uri,http://eforms.eden.gov.uk/fastweb/detail.asp?AltRef=07/0343&ApplicationNumber=07%2F0343&AddressPrefix=&Postcode=&Submit=Search
+9d9a0457ea5f34e841b7f25a3da5c99ddb2176075946f7a3049a015849763c91,64,OrganisationURI,default,http://opendatacommunities.org/id/district-council/eden
 9de02eeea3c1ce9d2edd445f731f7e80891b39353740f934fd612461efe41d98,16,NetDwellingsRangeFrom,integer,>1
 9de02eeea3c1ce9d2edd445f731f7e80891b39353740f934fd612461efe41d98,16,NetDwellingsRangeTo,integer,>1
 a01c35d0eba2ea1bc2bbb17bfdc602ab6f25573696e2f994b45cdd6f0e4289cf,1,"GeoX,GeoY",OSGB,","
@@ -5098,13 +5129,10 @@ aea7260a3472dc41e5f85b4f95620cfdace226fde56a5029f68d9811e18afe71,35,"GeoX,GeoY",
 aea7260a3472dc41e5f85b4f95620cfdace226fde56a5029f68d9811e18afe71,36,"GeoX,GeoY",OSGB,","
 aea7260a3472dc41e5f85b4f95620cfdace226fde56a5029f68d9811e18afe71,37,"GeoX,GeoY",OSGB,","
 aea7260a3472dc41e5f85b4f95620cfdace226fde56a5029f68d9811e18afe71,38,"GeoX,GeoY",OSGB,","
+aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854,18,OrganisationURI,default,http://opendatacommunities.org/id/district-council/mansfield
 b0bcc17c0af4975a5f47dbb6d3a6c9802d17caec592de1ddd92fd4ff65d460c8,4,PermissionDate,date,Awaiting s 106
-b14af98083dd8676a7eb17bf4c741ef95b3cb712c360346c62420d3a4ce8f929,1,PermissionType,enum,"(OUT, FULL etc)"
-b14af98083dd8676a7eb17bf4c741ef95b3cb712c360346c62420d3a4ce8f929,1,PermissionDate,date,yyyy-mm-dd
 b3c40a6ca09f6e05c5fb80ffdf990b8a797aabf46e4379d0e4965ea94aa140cf,52,"GeoX,GeoY",OSGB,","
-b5cba9e1380a55b1599df756ca93de088ba994bb05bbefd9c2bdf1c4ab7440e0,1,PermissionType,enum,"(OUT, FULL etc)"
-b5cba9e1380a55b1599df756ca93de088ba994bb05bbefd9c2bdf1c4ab7440e0,1,PermissionDate,date,yyyy-mm-dd
-b5cba9e1380a55b1599df756ca93de088ba994bb05bbefd9c2bdf1c4ab7440e0,8,PermissionDate,date,Awaiting Decision
+b5cba9e1380a55b1599df756ca93de088ba994bb05bbefd9c2bdf1c4ab7440e0,7,PermissionDate,date,Awaiting Decision
 b83669edd1f754a74f982e7ba496a689583e3a5a6d6d58962e02e72d6d4e70bb,1,"GeoX,GeoY",OSGB,","
 b83669edd1f754a74f982e7ba496a689583e3a5a6d6d58962e02e72d6d4e70bb,2,"GeoX,GeoY",OSGB,","
 b83669edd1f754a74f982e7ba496a689583e3a5a6d6d58962e02e72d6d4e70bb,3,"GeoX,GeoY",OSGB,","
@@ -5890,6 +5918,7 @@ d9f17c4b5d8b42a87537fe094e4af4342407c57a1ffb0c3a43dddf6880f5594c,34,SiteplanURL,
 d9f17c4b5d8b42a87537fe094e4af4342407c57a1ffb0c3a43dddf6880f5594c,35,SiteplanURL,uri,www.hertsmere.gov.uk/Documents/09-Planning--Building-Control/Planning-Policy/BR035-Adj-Haven-Ct-Glenhaven-Ave-Borehamwood.pdf
 d9f17c4b5d8b42a87537fe094e4af4342407c57a1ffb0c3a43dddf6880f5594c,36,SiteplanURL,uri,www.hertsmere.gov.uk/Documents/09-Planning--Building-Control/Planning-Policy/BR036-Cecil-Rosen-Ct-High-Rd-Bushey16-0848-VOC.pdf
 d9f17c4b5d8b42a87537fe094e4af4342407c57a1ffb0c3a43dddf6880f5594c,37,SiteplanURL,uri,www.hertsmere.gov.uk/Documents/09-Planning--Building-Control/Planning-Policy/BR052-61-63-Bushey-Hall-Rd-Abbeyfield-Society-Bushey.pdf
+dc8dc2fc3026ae8596e24b8b0149f4d07a0bf0166c07d8bb103651ef91be65ee,38,OrganisationURI,default,http://opendatacommunities.org/id/district-council/forest-of-dean
 de3918b3af88df0eebce7fbb3f8bc36f571f59fda90470f9b1e8bee3145f8ca0,1,"GeoX,GeoY",OSGB,","
 de3918b3af88df0eebce7fbb3f8bc36f571f59fda90470f9b1e8bee3145f8ca0,2,"GeoX,GeoY",OSGB,","
 de3918b3af88df0eebce7fbb3f8bc36f571f59fda90470f9b1e8bee3145f8ca0,3,"GeoX,GeoY",OSGB,","
@@ -6271,6 +6300,7 @@ e7268439958dab26ff0cd7672bb0d7a6f87156b17e6f6b741ff1350a15a98c40,141,SiteplanURL
 e7268439958dab26ff0cd7672bb0d7a6f87156b17e6f6b741ff1350a15a98c40,142,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
 e7268439958dab26ff0cd7672bb0d7a6f87156b17e6f6b741ff1350a15a98c40,143,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
 e7268439958dab26ff0cd7672bb0d7a6f87156b17e6f6b741ff1350a15a98c40,144,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2,79,OrganisationURI,default,http://opendatacommunities.org/id/metropolitan-district-council/doncaster
 e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436,1,SiteplanURL,uri,BR1
 e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436,1,LastUpdatedDate,date,2-17-12-17
 e8022a61b5ea1bcd4ae94145b8cb17008e7d64e11263d9070570feffcddb6436,2,SiteplanURL,uri,BR2
@@ -6681,6 +6711,7 @@ eba7154272fb878308334ae6c4c5f38f5d9b27f10d5de5b781e55a67371737b2,193,"GeoX,GeoY"
 eba7154272fb878308334ae6c4c5f38f5d9b27f10d5de5b781e55a67371737b2,194,"GeoX,GeoY",OSGB,","
 eba7154272fb878308334ae6c4c5f38f5d9b27f10d5de5b781e55a67371737b2,195,"GeoX,GeoY",OSGB,","
 ec1ff31625d546423b174d6e6eafca40efa4f10525199b0cbc6990ceb7d748a9,124,"GeoX,GeoY",OSGB,","
+ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be,76,OrganisationURI,default,http://opendatacommunities.org/id/metropolitan-district-council/sandwell
 ed165dbcad702b44bec651010421317c97374ee0e368ea5c4415b38974a3bf64,1,"GeoX,GeoY",OSGB,","
 ed165dbcad702b44bec651010421317c97374ee0e368ea5c4415b38974a3bf64,2,"GeoX,GeoY",OSGB,","
 ed165dbcad702b44bec651010421317c97374ee0e368ea5c4415b38974a3bf64,3,"GeoX,GeoY",OSGB,","

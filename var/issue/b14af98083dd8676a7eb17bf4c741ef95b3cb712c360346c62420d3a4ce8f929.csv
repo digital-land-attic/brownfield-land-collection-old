@@ -1,3 +1,1 @@
 row-number,field,datatype,value
-1,PermissionType,enum,"(OUT, FULL etc)"
-1,PermissionDate,date,yyyy-mm-dd

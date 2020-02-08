@@ -4,3 +4,11 @@ row-number,field,datatype,value
 40,PlanningStatus,enum,Allocation
 41,PlanningStatus,enum,Allocation
 55,PermissionDate,date,Decision pending
+104,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/swindon
+105,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/swindon
+106,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/swindon
+107,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/swindon
+108,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/swindon
+109,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/swindon
+110,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/swindon
+111,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/swindon

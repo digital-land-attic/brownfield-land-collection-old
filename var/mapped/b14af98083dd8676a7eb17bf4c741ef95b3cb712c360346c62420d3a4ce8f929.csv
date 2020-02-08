@@ -1,5 +1,4 @@
 OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-,,,,,,,,,,,"(OUT, FULL etc)",yyyy-mm-dd,,,,,,,,
 http://opendatacommunities.org/doc/unitary-authority/central-bedfordshire,,BR1,"Dell Mount, Bedford Road, Houghton Regis",501594,224309,,0.75,Not owned by a public authority,,Not Permissioned,,,,10,20,,,18/07/2016,11/10/2019,
 http://opendatacommunities.org/doc/unitary-authority/central-bedfordshire,,BR2,"Henlow Greyhound Stadium, Bedford Road, Lower Stondon",516231,235850,,2.85,Not owned by a public authority,,Not Permissioned,,,,40,65,,,18/07/2016,11/10/2019,
 http://opendatacommunities.org/doc/unitary-authority/central-bedfordshire,,BR3,"Meppershall Nursing Home, Shefford Road, Meppershall",514354,237373,,1.10,Not owned by a public authority,,Not Permissioned,,,,30,44,,,18/07/2016,11/10/2019,

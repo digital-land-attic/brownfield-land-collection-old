@@ -38,6 +38,7 @@ row-number,field,datatype,value
 30,FirstAddedDate,date,31-06-2017
 31,OrganisationURI,opendatacommunities-uri,BLR
 31,FirstAddedDate,date,31-06-2017
+31,OrganisationURI,default,http://opendatacommunities.org/id/london-borough-council/bromley
 32,FirstAddedDate,date,31-06-2017
 33,FirstAddedDate,date,31-06-2017
 34,FirstAddedDate,date,31-06-2017

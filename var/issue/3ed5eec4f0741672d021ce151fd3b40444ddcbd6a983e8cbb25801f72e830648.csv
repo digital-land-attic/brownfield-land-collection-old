@@ -5,9 +5,11 @@ row-number,field,datatype,value
 4,SiteplanURL,uri,BR4
 5,SiteplanURL,uri,BR5
 6,SiteplanURL,uri,BR6
+6,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/hartlepool
 7,SiteplanURL,uri,BR7
 8,SiteplanURL,uri,BR8
 9,SiteplanURL,uri,BR9
+9,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/hartlepool
 10,SiteplanURL,uri,BR10
 11,SiteplanURL,uri,BR11
 12,SiteplanURL,uri,BR12

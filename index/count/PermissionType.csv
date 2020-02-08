@@ -1,5 +1,5 @@
 field,value,count
-PermissionType,"",22528
+PermissionType,"",22527
 PermissionType,full planning permission,16983
 PermissionType,full planning permis,2753
 PermissionType,outline planning permission,2424
@@ -89,7 +89,6 @@ PermissionType,outline submitted,2
 PermissionType,outline planning permission 15/07/15,2
 PermissionType,Outline Planning App,2
 PermissionType,outline planning,2
-PermissionType,"(OUT, FULL etc)",2
 PermissionType,other & full planning permission,2
 PermissionType,none,2
 PermissionType,MMA/Full planning permission,2

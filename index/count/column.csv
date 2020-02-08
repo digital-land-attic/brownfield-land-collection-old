@@ -1,5 +1,5 @@
 column,count
-,18659
+,18658
 #,1
 0.28,1
 01/12/2017,2
@@ -95,7 +95,6 @@ CHECK - SUITABLE,1
 CONSTRAINT,1
 COORDINATE REFERENCE SYSTEM,5
 COORDINATEREFERENCESYSTEM,7
-COORDINATES,1
 COORDREFER,2
 Capable of development?,1
 Capable of housing development [in policy terms],1
@@ -218,14 +217,14 @@ Geo Longitude,2
 Geo X,9
 Geo Y,9
 GeoPointLicensingURL,2
-GeoX,760
+GeoX,761
 GeoX (Longitude or east grid),3
 GeoX [East],2
 GeoX_2,1
 GeoX_3,1
 GeoX_ETRS89,1
 GeoX_WGS84,1
-GeoY,760
+GeoY,761
 GeoY (Latitude or north grid),3
 GeoY [North],2
 GeoY_2,1
