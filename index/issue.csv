@@ -785,76 +785,74 @@ Y15/0030/SH"
 28c570a347cc8887b8d18368af90c5dbb3910042f13a9fda7860f119bb53bf06,99,"GeoX,GeoY",OSGB,","
 28c570a347cc8887b8d18368af90c5dbb3910042f13a9fda7860f119bb53bf06,100,"GeoX,GeoY",OSGB,","
 28c570a347cc8887b8d18368af90c5dbb3910042f13a9fda7860f119bb53bf06,101,"GeoX,GeoY",OSGB,","
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,1,OrganisationURI,opendatacommunities-uri,Site Allocations in the Local Plan
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,2,SiteplanURL,uri,"Link to the site boundary of the Gas Holder Site, Homesdale Road, Bickley supporting the Site Allocation in the Local Plan"
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,3,SiteplanURL,uri,Link to the site boundary of the Land adjacent to Bickley Station supporting the Site Allocation in the Local Plan
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,4,SiteplanURL,uri,Link to Appendix 5 of Bromley Town Centre's Area Action Plan. A map of Opportunity Site B is included on p.155
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,5,SiteplanURL,uri,Link to the map of Bromley's Old Town Hall and Associated Carparking associated with Full planning permission 16/01175/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,6,SiteplanURL,uri,Link to Appendix 5 of Bromley Town Centre's Area Action Plan. A map of Opportunity Site P is included on p.173
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,7,SiteplanURL,uri,Link to the site boundary of the Bromley Civic Centre site supporting the Site Allocation in the Local Plan
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,8,SiteplanURL,uri,Link to the site boundary of West of Bromley High Street and Land at Bromley South site associated with the Site Allocation in the Local Plan
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,9,SiteplanURL,uri,Link to the site boundary of  the Land adjacent to Bromley North associated with the Site Allocation in the Local Plan
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,10,SiteplanURL,uri,Link to the site boundary of the Hill Muti Storey Car Park and Adjacent Sites associated with the Site Allocation in the Local Plan
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,11,SiteplanURL,uri,Link to the site boundary of Banbury House Bushell Way associated with the Site Allocation in the Local Plan
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,12,SiteplanURL,uri,Link to the site boundary of Bromley Valley Gym and Adjacent Lands Chipperfield Road St Paul's Cray associated with the Site Allocation in the Local Plan
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,13,SiteplanURL,uri,Link to the site boundary of Small Halls York Rise Orpington associated with the Site Allocation in the Local Plan
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,14,SiteplanURL,uri,Link to the site boundary of Homefield Rise Orpington associated with the Site Allocation in the Local Plan
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,15,OrganisationURI,opendatacommunities-uri,Sites with Planning Permission
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,16,SiteplanURL,uri,Link to the map of  6 Woodlands Road associated with Outline planning permission 1404512/OUT
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,17,SiteplanURL,uri,Link to the map of 42 Orchard Road associated with Full planning permission 17/01241/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,18,SiteplanURL,uri,Link to the map of the Site of former 41 Sunningdale Avenue Sunningdale Close associated with planning permission 17/02081/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,19,SiteplanURL,uri,Link to the map of 7 Sandford Road associated with Full planning permission16/04621/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,20,SiteplanURL,uri,Link to the map of 9 London Road Bromley associated with Full planning permission 16/00859/FULL3
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,21,SiteplanURL,uri,Link to the map of Upfield Hillbrow Road associated with Full planning permission 16/04910/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,22,SiteplanURL,uri,Link to the map of Hasells Nursery Jackson Road BR28NS associated with Full planning permission 16/05353/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,23,OrganisationURI,opendatacommunities-uri,BLR
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,23,SiteplanURL,uri,Link to the map of Ontario Centre Helegan Close associated with Outline Planning Permission 16/05900/OUT
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,24,SiteplanURL,uri,Link to the map of 63-35 Chislehurst Road associated with Full planning application 16/01032/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,25,SiteplanURL,uri,Link to the map of 3 Beckenham Road associated with Full planning permission 16/04145/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,26,SiteplanURL,uri,Link to the map of Beechers Court High Street Beckenham associated with Full planning permission 17/01348/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,27,SiteplanURL,uri,Link to the map of 28 Park Hill Road Shortlands associated with Outline planning application 16/00218/OUT
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,28,SiteplanURL,uri,Link to the map of Beck House 36A Copers Cope Road Beckenham associated with planning application 16/02136/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,29,SiteplanURL,uri,Link to the Map of  Conifer House 44 Southend Road Beckenham associated with Planning Permission 16/02179/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,30,SiteplanURL,uri,Link to Map of 122 Anerley Road Penge London associated with Full planning permission 17/02975/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,31,SiteplanURL,uri,Link to the map of 69-71 Church Road associated with Full planning permission 16/01297/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,32,SiteplanURL,uri,Link to the map of Crystal palace Park associated with Outline planning permission 07/03897/OUT
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,33,SiteplanURL,uri,Link to the map of Warren Farm Berrys Road associated with Outline Planning Permission 17/01895/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,34,SiteplanURL,uri,Link to the map of 39 Oregon Square Orpington  associated with Outline planning permission 16/00634/OUT
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,35,SiteplanURL,uri,Link to the map associated with Full Planning Permission 16/04956/FULL1 for Lubbock House 1 Northolme Rise Orpington
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,36,SiteplanURL,uri,Link to the map for Eden Parade Eden Road Beckenham  associated with Full planning permission 17/01579/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,37,SiteplanURL,uri,Link to the map of  Jacanda Lodge North Drive Beckenham associated with Full Planning Permission 16/01330/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,38,SiteplanURL,uri,Link to the  Map of 155 159 High Street Orpington associated with Full planning permission 15/01690/FULL3
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,39,SiteplanURL,uri,Link to the map of 50-52 The Walnuts Orpington associated with Full planning permission 16/03878/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,40,SiteplanURL,uri,Link to the map of for 2 Crampton Road Penge associated with Full planning permission 16/00377/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,41,GeoX,decimal,"51.397435,"
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,41,SiteplanURL,uri,link to map of 44 Westmoreland Road Bromley associated with Full Planning permission 17/02524/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,42,SiteplanURL,uri,Link to the map of 136 Main Road Biggin Hill associated with the full planning permission 17/02291/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,43,SiteplanURL,uri,Link to the map of 173-175 High Street Orpington associated with full planning permission 17/02330/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,44,SiteplanURL,uri,Link to the map of 36 Great Elms Road associated with full planning permission 17/01322/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,45,SiteplanURL,uri,Link to the map of 56a Foxgrove Road associated with outline planning permission 17/00624/OUT
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,46,SiteplanURL,uri,"Link to the map of Alan Hills Motors, Alma Place, associated with full planning permission 17/02876/FULL1"
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,47,SiteplanURL,uri,Link to the map of 286-290 High Street Orpington associated with full planning permission 17/04642/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,48,SiteplanURL,uri,"Link to map of Heatherwood, 33 Station Road, Orpington associated with full planning permission 17/04378/FULL1"
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,49,SiteplanURL,uri,Link to the map of Warren Farm Berrys Green Road associated with full planning permission 17/01895/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,50,SiteplanURL,uri,Link to the map of 115 High Street Beckenham associated with full planning permission 17/05068/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,51,SiteplanURL,uri,Link to the map of 19 Anerley Road associated with full planning permission 17/04076/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,52,SiteplanURL,uri,Link to the map of 112 Beckenham Road associated with full planning permission 17/05279/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,53,SiteplanURL,uri,"Link to the map of Hollywood House, 1 Station Road associated with full planning permission 17/05864/FULL1"
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,54,SiteplanURL,uri,"Link to the map of 16 St John's Road, Penge, associated with full planning permission 17/05514/FULL1"
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,55,SiteplanURL,uri,Link to the map of Land at Junction with South Eden Park Road and Bucknall Way associated with outline planning permission 17/00757/OUT
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,57,SiteplanURL,uri,Link to the map of 100 High Street Orpington associated with full planning permission 18/01242/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,58,SiteplanURL,uri,Link to the map of 8 Page Heath Lane Bickley associated with full planning permission 18/01783/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,59,SiteplanURL,uri,Link to the map of 255 Elmers End Road associated with full planning permission 18/00717/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,60,SiteplanURL,uri,Link to the map of Barne Hawe Church Hill Orpington associated with full planning permission 18/00967/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,61,SiteplanURL,uri,Link to the map of 46 Crystal Palace Park Road associated with full planning permission 18/01228/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,62,SiteplanURL,uri,Link to the map of 156-158 Main Road Biggin Hill associated with full planning permission 18/01234/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,63,SiteplanURL,uri,Link to the map of Maybrey Business Park associated with full planning permission 16/05987/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,64,SiteplanURL,uri,Link to the map of 15 Bromley Common associated with full planning permission 18/01946/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,65,SiteplanURL,uri,Link to the map of 129 High Street Penge associated with full planning permission 18/02481/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,66,SiteplanURL,uri,"Link to the map of County House, 241 Beckenham Rad associated with full planning permission 18/01890/FULL1"
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,67,SiteplanURL,uri,Link to the map of 67 Bromley Road Beckenham associated with full planning permission 18/02102/FULL1
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,68,SiteplanURL,uri,"Link to the map of land adjacent to Bromley College, London Road, associated with full planning permission 17/05084/FULL1"
-291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,69,SiteplanURL,uri,"Link to the map of Tahmoa Lodge, 70 Lubbock Road associated with full planning permission 18/02745/FULL1"
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,1,SiteplanURL,uri,"Link to the site boundary of the Gas Holder Site, Homesdale Road, Bickley supporting the Site Allocation in the Local Plan"
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,2,SiteplanURL,uri,Link to the site boundary of the Land adjacent to Bickley Station supporting the Site Allocation in the Local Plan
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,3,SiteplanURL,uri,Link to Appendix 5 of Bromley Town Centre's Area Action Plan. A map of Opportunity Site B is included on p.155
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,4,SiteplanURL,uri,Link to the map of Bromley's Old Town Hall and Associated Carparking associated with Full planning permission 16/01175/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,5,SiteplanURL,uri,Link to Appendix 5 of Bromley Town Centre's Area Action Plan. A map of Opportunity Site P is included on p.173
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,6,SiteplanURL,uri,Link to the site boundary of the Bromley Civic Centre site supporting the Site Allocation in the Local Plan
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,7,SiteplanURL,uri,Link to the site boundary of West of Bromley High Street and Land at Bromley South site associated with the Site Allocation in the Local Plan
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,8,SiteplanURL,uri,Link to the site boundary of  the Land adjacent to Bromley North associated with the Site Allocation in the Local Plan
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,9,SiteplanURL,uri,Link to the site boundary of the Hill Muti Storey Car Park and Adjacent Sites associated with the Site Allocation in the Local Plan
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,10,SiteplanURL,uri,Link to the site boundary of Banbury House Bushell Way associated with the Site Allocation in the Local Plan
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,11,SiteplanURL,uri,Link to the site boundary of Bromley Valley Gym and Adjacent Lands Chipperfield Road St Paul's Cray associated with the Site Allocation in the Local Plan
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,12,SiteplanURL,uri,Link to the site boundary of Small Halls York Rise Orpington associated with the Site Allocation in the Local Plan
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,13,SiteplanURL,uri,Link to the site boundary of Homefield Rise Orpington associated with the Site Allocation in the Local Plan
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,14,SiteplanURL,uri,Link to the map of  6 Woodlands Road associated with Outline planning permission 1404512/OUT
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,15,SiteplanURL,uri,Link to the map of 42 Orchard Road associated with Full planning permission 17/01241/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,16,SiteplanURL,uri,Link to the map of the Site of former 41 Sunningdale Avenue Sunningdale Close associated with planning permission 17/02081/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,17,SiteplanURL,uri,Link to the map of 7 Sandford Road associated with Full planning permission16/04621/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,18,SiteplanURL,uri,Link to the map of 9 London Road Bromley associated with Full planning permission 16/00859/FULL3
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,19,SiteplanURL,uri,Link to the map of Upfield Hillbrow Road associated with Full planning permission 16/04910/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,20,SiteplanURL,uri,Link to the map of Hasells Nursery Jackson Road BR28NS associated with Full planning permission 16/05353/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,21,OrganisationURI,opendatacommunities-uri,BLR
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,21,SiteplanURL,uri,Link to the map of Ontario Centre Helegan Close associated with Outline Planning Permission 16/05900/OUT
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,22,SiteplanURL,uri,Link to the map of 63-35 Chislehurst Road associated with Full planning application 16/01032/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,23,SiteplanURL,uri,Link to the map of 3 Beckenham Road associated with Full planning permission 16/04145/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,24,SiteplanURL,uri,Link to the map of Beechers Court High Street Beckenham associated with Full planning permission 17/01348/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,25,SiteplanURL,uri,Link to the map of 28 Park Hill Road Shortlands associated with Outline planning application 16/00218/OUT
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,26,SiteplanURL,uri,Link to the map of Beck House 36A Copers Cope Road Beckenham associated with planning application 16/02136/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,27,SiteplanURL,uri,Link to the Map of  Conifer House 44 Southend Road Beckenham associated with Planning Permission 16/02179/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,28,SiteplanURL,uri,Link to Map of 122 Anerley Road Penge London associated with Full planning permission 17/02975/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,29,SiteplanURL,uri,Link to the map of 69-71 Church Road associated with Full planning permission 16/01297/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,30,SiteplanURL,uri,Link to the map of Crystal palace Park associated with Outline planning permission 07/03897/OUT
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,31,SiteplanURL,uri,Link to the map of Warren Farm Berrys Road associated with Outline Planning Permission 17/01895/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,32,SiteplanURL,uri,Link to the map of 39 Oregon Square Orpington  associated with Outline planning permission 16/00634/OUT
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,33,SiteplanURL,uri,Link to the map associated with Full Planning Permission 16/04956/FULL1 for Lubbock House 1 Northolme Rise Orpington
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,34,SiteplanURL,uri,Link to the map for Eden Parade Eden Road Beckenham  associated with Full planning permission 17/01579/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,35,SiteplanURL,uri,Link to the map of  Jacanda Lodge North Drive Beckenham associated with Full Planning Permission 16/01330/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,36,SiteplanURL,uri,Link to the  Map of 155 159 High Street Orpington associated with Full planning permission 15/01690/FULL3
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,37,SiteplanURL,uri,Link to the map of 50-52 The Walnuts Orpington associated with Full planning permission 16/03878/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,38,SiteplanURL,uri,Link to the map of for 2 Crampton Road Penge associated with Full planning permission 16/00377/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,39,GeoX,decimal,"51.397435,"
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,39,SiteplanURL,uri,link to map of 44 Westmoreland Road Bromley associated with Full Planning permission 17/02524/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,40,SiteplanURL,uri,Link to the map of 136 Main Road Biggin Hill associated with the full planning permission 17/02291/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,41,SiteplanURL,uri,Link to the map of 173-175 High Street Orpington associated with full planning permission 17/02330/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,42,SiteplanURL,uri,Link to the map of 36 Great Elms Road associated with full planning permission 17/01322/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,43,SiteplanURL,uri,Link to the map of 56a Foxgrove Road associated with outline planning permission 17/00624/OUT
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,44,SiteplanURL,uri,"Link to the map of Alan Hills Motors, Alma Place, associated with full planning permission 17/02876/FULL1"
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,45,SiteplanURL,uri,Link to the map of 286-290 High Street Orpington associated with full planning permission 17/04642/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,46,SiteplanURL,uri,"Link to map of Heatherwood, 33 Station Road, Orpington associated with full planning permission 17/04378/FULL1"
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,47,SiteplanURL,uri,Link to the map of Warren Farm Berrys Green Road associated with full planning permission 17/01895/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,48,SiteplanURL,uri,Link to the map of 115 High Street Beckenham associated with full planning permission 17/05068/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,49,SiteplanURL,uri,Link to the map of 19 Anerley Road associated with full planning permission 17/04076/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,50,SiteplanURL,uri,Link to the map of 112 Beckenham Road associated with full planning permission 17/05279/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,51,SiteplanURL,uri,"Link to the map of Hollywood House, 1 Station Road associated with full planning permission 17/05864/FULL1"
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,52,SiteplanURL,uri,"Link to the map of 16 St John's Road, Penge, associated with full planning permission 17/05514/FULL1"
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,53,SiteplanURL,uri,Link to the map of Land at Junction with South Eden Park Road and Bucknall Way associated with outline planning permission 17/00757/OUT
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,55,SiteplanURL,uri,Link to the map of 100 High Street Orpington associated with full planning permission 18/01242/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,56,SiteplanURL,uri,Link to the map of 8 Page Heath Lane Bickley associated with full planning permission 18/01783/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,57,SiteplanURL,uri,Link to the map of 255 Elmers End Road associated with full planning permission 18/00717/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,58,SiteplanURL,uri,Link to the map of Barne Hawe Church Hill Orpington associated with full planning permission 18/00967/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,59,SiteplanURL,uri,Link to the map of 46 Crystal Palace Park Road associated with full planning permission 18/01228/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,60,SiteplanURL,uri,Link to the map of 156-158 Main Road Biggin Hill associated with full planning permission 18/01234/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,61,SiteplanURL,uri,Link to the map of Maybrey Business Park associated with full planning permission 16/05987/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,62,SiteplanURL,uri,Link to the map of 15 Bromley Common associated with full planning permission 18/01946/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,63,SiteplanURL,uri,Link to the map of 129 High Street Penge associated with full planning permission 18/02481/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,64,SiteplanURL,uri,"Link to the map of County House, 241 Beckenham Rad associated with full planning permission 18/01890/FULL1"
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,65,SiteplanURL,uri,Link to the map of 67 Bromley Road Beckenham associated with full planning permission 18/02102/FULL1
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,66,SiteplanURL,uri,"Link to the map of land adjacent to Bromley College, London Road, associated with full planning permission 17/05084/FULL1"
+291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13,67,SiteplanURL,uri,"Link to the map of Tahmoa Lodge, 70 Lubbock Road associated with full planning permission 18/02745/FULL1"
 2a57acb3e6ea757230b86e9092df3552024a511a99a05ed46fed48c52afe3a90,1,SiteplanURL,uri,Link to PDF of map
 2a57acb3e6ea757230b86e9092df3552024a511a99a05ed46fed48c52afe3a90,2,SiteplanURL,uri,Link to PDF of map
 2a57acb3e6ea757230b86e9092df3552024a511a99a05ed46fed48c52afe3a90,3,SiteplanURL,uri,Link to PDF of map
@@ -2422,6 +2420,7 @@ Y15/0030/SH"
 5b9eb0a5edf53eb693b8b2973a7342fbd8f702193fabeed63cb57494ee8dc94b,78,NetDwellingsRangeTo,integer,`5
 5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,1,SiteplanURL,uri,Site boundary map
 5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,2,SiteplanURL,uri,Site boundary map
+5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,3,SiteplanURL,uri,Site boundary map
 5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,4,SiteplanURL,uri,Site boundary map
 5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,5,SiteplanURL,uri,Site boundary map
 5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,6,SiteplanURL,uri,Site boundary map
@@ -2431,18 +2430,17 @@ Y15/0030/SH"
 5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,10,SiteplanURL,uri,Site boundary map
 5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,11,SiteplanURL,uri,Site boundary map
 5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,12,SiteplanURL,uri,Site boundary map
+5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,13,SiteplanURL,uri,Site boundary map
 5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,14,SiteplanURL,uri,Site boundary map
 5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,15,SiteplanURL,uri,Site boundary map
+5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,16,SiteplanURL,uri,Site boundary map
 5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,17,SiteplanURL,uri,Site boundary map
 5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,18,SiteplanURL,uri,Site boundary map
+5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,19,SiteplanURL,uri,Site boundary map
+5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,20,SiteplanURL,uri,Site boundary map
 5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,21,SiteplanURL,uri,Site boundary map
 5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,22,SiteplanURL,uri,Site boundary map
 5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,23,SiteplanURL,uri,Site boundary map
-5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,24,SiteplanURL,uri,Site boundary map
-5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,25,SiteplanURL,uri,Site boundary map
-5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,26,SiteplanURL,uri,Site boundary map
-5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,29,SiteplanURL,uri,Site boundary map
-5bb6c53b732c87fb8912f0b327acf92fef4cb4c85754cb39e10953e7fa847120,30,SiteplanURL,uri,Site boundary map
 5bb7e25b160e47e5c2ec0c4afa58029a3a71dc799041a2ab61ba9f47aa9abc4a,1,"GeoX,GeoY",OSGB,","
 5bb7e25b160e47e5c2ec0c4afa58029a3a71dc799041a2ab61ba9f47aa9abc4a,2,"GeoX,GeoY",OSGB,","
 5bb7e25b160e47e5c2ec0c4afa58029a3a71dc799041a2ab61ba9f47aa9abc4a,3,"GeoX,GeoY",OSGB,","
@@ -2661,6 +2659,134 @@ Y15/0030/SH"
 12.07.2013"
 5bf2f6c33201a4e6ae47c2d6f5b825fe9a7871cd1c87f52fbb1cbc007bdd20ad,78,PermissionDate,date,"30.08.2017
 08.08.2017"
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,2,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,3,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,4,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,5,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,6,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,7,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,8,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,9,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,10,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,11,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,12,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,13,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,14,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,15,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,16,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,17,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,18,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,19,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,20,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,21,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,22,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,23,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,24,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,25,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,26,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,27,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,28,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,29,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,30,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,31,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,32,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,33,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,34,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,35,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,36,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,37,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,38,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,39,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,40,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,41,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,42,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,43,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,44,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,45,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,46,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,47,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,48,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,49,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,50,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,51,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,52,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,53,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,54,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,55,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,56,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,57,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,58,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,59,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,60,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,61,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,62,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,63,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,64,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,65,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,66,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,67,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,68,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,69,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,70,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,71,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,72,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,73,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,74,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,75,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,76,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,77,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,78,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,79,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,80,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,81,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,82,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,83,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,84,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,85,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,86,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,87,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,88,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,89,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,90,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,91,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,92,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,93,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,94,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,95,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,96,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,97,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,98,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,99,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,100,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,101,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,102,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,103,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,104,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,105,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,106,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,107,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,108,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,109,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,110,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,111,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,112,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,113,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,114,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,115,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,116,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,117,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,118,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,119,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,120,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,121,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,122,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,123,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,124,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,125,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,126,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,127,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,128,SiteplanURL,uri,Available within individual site Pdf
+5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb,129,SiteplanURL,uri,Available within individual site Pdf
 5f4dccfef0740c36b51c94a0bceee202096b4553965579122170b332e3726c08,1,"GeoX,GeoY",OSGB,","
 5f4dccfef0740c36b51c94a0bceee202096b4553965579122170b332e3726c08,2,"GeoX,GeoY",OSGB,","
 5f4dccfef0740c36b51c94a0bceee202096b4553965579122170b332e3726c08,3,"GeoX,GeoY",OSGB,","
@@ -3882,7 +4008,6 @@ Y15/0030/SH"
 82f630980e6dea13040c8bc2d88ba17f88ecfe7278ad25eabb51a88c33c6fb2d,11,Hectares,decimal,<0.1
 82f630980e6dea13040c8bc2d88ba17f88ecfe7278ad25eabb51a88c33c6fb2d,12,Hectares,decimal,<0.1
 82f630980e6dea13040c8bc2d88ba17f88ecfe7278ad25eabb51a88c33c6fb2d,29,"GeoX,GeoY",OSGB,","
-840b052e9ce37aa6c75db5678393ce7476ebb98b8f4c699e4c121cea4558f762,90,OrganisationURI,opendatacommunities-uri,*Sites include both brownfield and greenfield. Only the brownfield will be suitable for the purposes of the brownfield register.
 84fa1cddc55bfcc78ea57e9695adef175ed9ddd8013e2be98a473eb5b990b0aa,50,"GeoX,GeoY",OSGB,","
 86dee119f806d0c7f62295e6aae502851827e848202c4e43e833126ed62773db,51,"GeoX,GeoY",OSGB,","
 86dee119f806d0c7f62295e6aae502851827e848202c4e43e833126ed62773db,121,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
@@ -5193,7 +5318,6 @@ c6c270475bad4d9e82a9e199b1edf5c3230b9e6800cea0ebb32738a7644aab69,27,"GeoX,GeoY",
 c6c270475bad4d9e82a9e199b1edf5c3230b9e6800cea0ebb32738a7644aab69,28,"GeoX,GeoY",OSGB,","
 c6c270475bad4d9e82a9e199b1edf5c3230b9e6800cea0ebb32738a7644aab69,29,"GeoX,GeoY",OSGB,","
 c6c270475bad4d9e82a9e199b1edf5c3230b9e6800cea0ebb32738a7644aab69,30,"GeoX,GeoY",OSGB,","
-c94e35967405344dd2fd4116f2705be22d222407eb82d5ef0b04b7aafa835f63,37,OrganisationURI,opendatacommunities-uri,Sites removed from the register - 03-12-2018
 c9bfc4133f0e2192bc4b92f2717b6c04544d111bedb9e307985eac35426999e6,18,OwnershipStatus,enum,Part Public part Not in Public Ownership
 c9efead8107b7fdb58be9dd4117badd72df58f56a9137ea12110b570fd200003,235,LastUpdatedDate,date,TO ADD: Date that the Brownfield Register gets approved for publication
 cd075088f9481d6851dadc289d03ffcad6a8b995d16ea46458a603fa0a4573ae,1,SiteplanURL,uri,www.hertsmere.gov.uk/Documents/09-Planning--Building-Control/Planning-Policy/BR001-Directors-Arms-Borehamwood.pdf
@@ -5279,7 +5403,6 @@ ce99fe244947ce96743c003acca6866e120a4b9137d91f9062dab459a639699c,28,NetDwellings
 ce99fe244947ce96743c003acca6866e120a4b9137d91f9062dab459a639699c,29,NetDwellingsRangeFrom,integer,TBC
 ce99fe244947ce96743c003acca6866e120a4b9137d91f9062dab459a639699c,29,NetDwellingsRangeTo,integer,TBC
 ce99fe244947ce96743c003acca6866e120a4b9137d91f9062dab459a639699c,39,NetDwellingsRangeFrom,integer,TBC
-ce99fe244947ce96743c003acca6866e120a4b9137d91f9062dab459a639699c,117,OrganisationURI,opendatacommunities-uri,* Sites include both brownfield and greenfield. Only the brownfield will be suitable for the purposes of the brownfield register.
 d02d9bc0a0d825ba4c7677fe10d886d72895241d0f1953c877de3de7e04511c0,194,NetDwellingsRangeFrom,integer,TBC
 d02d9bc0a0d825ba4c7677fe10d886d72895241d0f1953c877de3de7e04511c0,194,NetDwellingsRangeTo,integer,TBC
 d07e2c1bc437439fb00ca65b10544793b42cebc346d57373964fd91a631fafe9,60,"GeoX,GeoY",OSGB,","

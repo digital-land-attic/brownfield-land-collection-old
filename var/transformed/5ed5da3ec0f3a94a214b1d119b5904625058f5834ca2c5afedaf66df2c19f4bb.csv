@@ -1,130 +1,130 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
 ,,,,,,,,,,,,,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0483,,,,not owned by a public authority,not permissioned,,,,,0.04,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0551,,,,not owned by a public authority,not permissioned,,,,,0.33,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0559,,,,,not permissioned,,,,,0.43,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0569,,,,not owned by a public authority,not permissioned,,,,,0.58,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0591,,,,not owned by a public authority,not permissioned,,,,,0.48,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0594,,,,mixed ownership,not permissioned,,,,,1.24,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0596,,,,,not permissioned,,,,,0.04,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0597,,,,mixed ownership,not permissioned,,,,,0.61,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0606,,,,,not permissioned,,,,,0.95,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0610,,,,,not permissioned,,,,,0.84,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0620,,,,,not permissioned,,,,,1.82,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0641,,,,mixed ownership,not permissioned,,,,,0.38,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0660,,,,,not permissioned,,,,,1.67,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0666,,,,,not permissioned,,,,,1.05,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0677,,,,,not permissioned,,,,,1.18,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0827,,,,,not permissioned,,,,,0.23,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0893,,,,mixed ownership,not permissioned,,,,,1.58,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0899,,,,,not permissioned,,,,,0.06,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0902,,,,,not permissioned,,,,,0.07,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0911,,,,mixed ownership,not permissioned,,,,,1.06,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0991,,,,,not permissioned,,,,,0.05,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 0996,,,,,not permissioned,,,,,0.1,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1016,,,,,not permissioned,,,,,0.17,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1019,,,,,not permissioned,,,,,0.07,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1052,,,,,not permissioned,,,,,1.33,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1062,,,,,not permissioned,,,,,0.15,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1094,,,,,not permissioned,,,,,0.41,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1103,,,,,not permissioned,,,,,0.01,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1125,,,,,not permissioned,,,,,0.39,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1135,,,,,not permissioned,,,,,0.15,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1146,,,,,not permissioned,,,,,0.07,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1156,,,,,not permissioned,,,,,0.27,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1218,,,,,not permissioned,,,,,0.2,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1226,,,,,not permissioned,,,,,0.09,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1236,,,,,not permissioned,,,,,0.06,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1244,,,,not owned by a public authority,not permissioned,,,,,0.02,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1253,,,,,not permissioned,,,,,0.47,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1397,,,,not owned by a public authority,not permissioned,,,,,0.37,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1398,,,,not owned by a public authority,not permissioned,,,,,0.58,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1467,,,,,not permissioned,,,,,1.3,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1469,,,,,not permissioned,,,,,1.68,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1473,,,,,not permissioned,,,,,2.49,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1524,,,,,not permissioned,,,,,0.1,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1528,,,,,not permissioned,,,,,0.8,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1530,,,,,not permissioned,,,,,0.01,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1550,,,,,permissioned,,,,,7.5,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1556,,,,,not permissioned,,,,,1.46,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1599,,,,,not permissioned,,,,,0.82,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1635,,,,,not permissioned,,,,,0.04,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1639,,,,,not permissioned,,,,,0.05,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1690,,,,not owned by a public authority,not permissioned,,,,,0.32,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1693,,,,not owned by a public authority,permissioned,,,,,0.86,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1717,,,,,not permissioned,,,,,0.02,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1722,,,,,not permissioned,,,,,0.7,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1739,,,,,not permissioned,,,,,0.24,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1745,,,,,not permissioned,,,,,1.04,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1750,,,,not owned by a public authority,not permissioned,,,,,0.31,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1755,,,,not owned by a public authority,not permissioned,,,,,0.33,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1756,,,,not owned by a public authority,not permissioned,,,,,0.84,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1775,,,,,not permissioned,,,,,5.3,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1778,,,,,not permissioned,,,,,0.92,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1779,,,,,not permissioned,,,,,0.12,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1780,,,,,not permissioned,,,,,0.05,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1791,,,,,not permissioned,,,,,0.48,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1793,,,,mixed ownership,not permissioned,,,,,0.08,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1811,,,,,not permissioned,,,,,0.4,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1840,,,,,not permissioned,,,,,0.33,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1849,,,,,not permissioned,,,,,0.04,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1854,,,,,not permissioned,,,,,0.27,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1882,,,,,not permissioned,,,,,0.43,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1917,,,,,not permissioned,,,,,0.06,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1935,,,,,permissioned,,,,,0.79,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1955,,,,,not permissioned,,,,,0.05,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1962,,,,,not permissioned,,,,,0.45,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 1998,,,,,not permissioned,,,,,0.09,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2011,,,,,not permissioned,,,,,0.03,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2036,,,,,permissioned,,,,,0.01,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2056,,,,,permissioned,,,,,0.06,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2059,,,,not owned by a public authority,permissioned,,,,,0.08,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2061,,,,,permissioned,,,,,0.03,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2064,,,,,permissioned,,,,,1.59,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2065,,,,not owned by a public authority,not permissioned,,,,,0.64,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2066,,,,,not permissioned,,,,,0.25,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2071,,,,,permissioned,,,,,0.05,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2072,,,,not owned by a public authority,permissioned,,,,,0.02,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2077,,,,,permissioned,,,,,0.11,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2080,,,,mixed ownership,permissioned,,,,,1.34,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2090,,,,not owned by a public authority,not permissioned,,,,,0.07,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2100,,,,,permissioned,,,,,0.1,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2110,,,,,permissioned,,,,,1.28,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2112,,,,not owned by a public authority,permissioned,,,,,0.16,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2119,,,,,not permissioned,,,,,0.14,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2120,,,,,permissioned,,,,,0.2,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2131,,,,,permissioned,,,,,1.62,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2132,,,,not owned by a public authority,permissioned,,,,,0.11,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2139,,,,not owned by a public authority,permissioned,,,,,0.2,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2140,,,,mixed ownership,permissioned,,,,,0.24,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2147,,,,,permissioned,,,,,0.09,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2150,,,,,permissioned,,,,,7.06,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2166,,,,not owned by a public authority,permissioned,,,,,1.08,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2171,,,,,permissioned,,,,,0.04,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2174,,,,,permissioned,,,,,0.14,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2178,,,,,permissioned,,,,,1.25,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2181,,,,,permissioned,,,,,4.02,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2193,,,,not owned by a public authority,permissioned,,,,,0.56,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2194,,,,,permissioned,,,,,2.62,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2197,,,,,permissioned,,,,,0.09,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2198,,,,mixed ownership,permissioned,,,,,2.19,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2199,,,,not owned by a public authority,permissioned,,,,,0.19,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2200,,,,,permissioned,,,,,0.05,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2205,,,,,permissioned,,,,,0.52,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2207,,,,,permissioned,,,,,0.05,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2214,,,,,permissioned,,,,,0.76,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2216,,,,,permissioned,,,,,1.45,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2217,,,,,permissioned,,,,,0.81,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2218,,,,,permissioned,,,,,0.04,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2219,,,,not owned by a public authority,permissioned,,,,,0.27,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2222,,,,,permissioned,,,,,0.3,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2230,,,,,permissioned,,,,,5.84,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2231,,,,,permissioned,,,,,0.26,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2234,,,,,permissioned,,,,,0.04,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2235,,,,,permissioned,,,,,0.47,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2238,,,,,not permissioned,,,,,7.15,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2239,,,,,not permissioned,,,,,1.01,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2240,,,,,not permissioned,,,,,2.15,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2243,,,,,not permissioned,,,,,0.57,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2244,,,,,not permissioned,,,,,0.65,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
-,local-authority-eng:RCH,SH 2251,,,,not owned by a public authority,not permissioned,,,,,0.41,,,,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0483,"Site Of 53-61 Tweedale Street, Rochdale",,,not owned by a public authority,not permissioned,,,,,0.04,6,6,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0551,"Former Council Depot, Off Schofield Street, Littleborough",,,not owned by a public authority,not permissioned,,,,,0.33,13,13,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0559,"Mechplant, Off Schofield Street, Littleborough",,,,not permissioned,,,,,0.43,17,17,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0569,"Land Off Durn Street, Durn, Litleborough",,,not owned by a public authority,not permissioned,,,,,0.58,23,23,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0591,"Darnhill School Site (Half), Sutherland Road, Heywood",,,not owned by a public authority,not permissioned,,,,,0.48,19,19,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0594,"Ealees Area Of Opportunity, Littleborough",,,mixed ownership,not permissioned,,,,,1.24,20,20,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0596,"Iversons Building, Drake Street, Rochdale",,,,not permissioned,,,,,0.04,12,12,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0597,"High Birch School, Bolton Road, Rochdale",,,mixed ownership,not permissioned,,,,,0.61,24,24,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0606,"Wardle Mill, Knowl Syke Street, Rochdale",,,,not permissioned,,,,,0.95,29,29,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0610,"New Ladyhouse Mill, Off Stone Street, Milnrow",,,,not permissioned,,,,,0.84,34,34,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0620,"Dale Mill / Arkwright Mill, Roch Street, Rochdale",,,,not permissioned,,,,,1.82,74,74,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0641,"Land At Worcester Street, Stoneyfield, Rochdale",,,mixed ownership,not permissioned,,,,,0.38,15,15,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0660,"Site Of Process Plastics, Norwich Street, Rochdale",,,,not permissioned,,,,,1.67,67,67,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0666,"Land Off Glen Grove / Wade Street, Middleton Junction, Middleton",,,,not permissioned,,,,,1.05,41,41,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0677,"Mutual Mills (1&2), Mutual Street, Heywood",,,,not permissioned,,,,,1.18,240,240,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0827,"Dene Works, Edgar Street, Smallbridge",,,,not permissioned,,,,,0.23,21,21,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0893,"Former Oakenrod School And Land At Bridgefield Street, Rochdale",,,mixed ownership,not permissioned,,,,,1.58,65,65,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0899,"Land At Moss Terrace / Bilberry Street, Rochdale",,,,not permissioned,,,,,0.06,5,5,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0902,"Norden Fire Station Edenfield Road, Roch",,,,not permissioned,,,,,0.07,5,5,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0911,"Bamford Squash, Bamford Road, Heywood",,,mixed ownership,not permissioned,,,,,1.06,42,42,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0991,The Acres Wentworth Close Middleton,,,,not permissioned,,,,,0.05,8,8,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 0996,"Laurel Grove, Roch Valley Way Rochdale",,,,not permissioned,,,,,0.1,8,8,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1016,"Dunsterville, Manchester Road, Rochdale",,,,not permissioned,,,,,0.17,8,8,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1019,"Exeter Street / Durham Street, Rochdale",,,,not permissioned,,,,,0.07,8,8,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1052,"Land Off Stainton Drive, Site D, Langley",,,,not permissioned,,,,,1.33,40,40,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1062,"Rear of Dicken Green Public House, Off Queensway, Roch",,,,not permissioned,,,,,0.15,5,5,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1094,"Greave Mount, Hudson Walk, Rochdale",,,,not permissioned,,,,,0.41,14,14,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1103,"28-32, Rochdale Road, Middleton",,,,not permissioned,,,,,0.01,6,6,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1125,"Fmr Redcross Mill, Redcross Street, Rochdale",,,,not permissioned,,,,,0.39,29,29,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1135,"Land At Buxton Street, Heywood",,,,not permissioned,,,,,0.15,9,9,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1146,"Land Junc Wood Street/Factory Street, Middleton",,,,not permissioned,,,,,0.07,22,22,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1156,"Manchester Street/ Hardfield Street, Heywood",,,,not permissioned,,,,,0.27,18,18,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1218,"Providence United Reformed Church, Market Place",,,,not permissioned,,,,,0.2,16,16,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1226,"Site Of New Jerusalem Church, Manchester Old Road, Middleton",,,,not permissioned,,,,,0.09,8,8,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1236,"22-26 Bridge Street, Heywood",,,,not permissioned,,,,,0.06,6,6,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1244,"613 Manchester Old Road, Middleton",,,not owned by a public authority,not permissioned,,,,,0.02,5,5,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1253,"Site Of Keb Packaging, Mills Hill Road, Middleton",,,,not permissioned,,,,,0.47,34,34,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1397,"Land On The Corner Of Ash Street And Peel Lane, Heywood",,,not owned by a public authority,not permissioned,,,,,0.37,14,14,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1398,"Land At Juntion Of Clay Bank Street, Cedar Avenue And Kirkstall Avenue, Heywood",,,not owned by a public authority,not permissioned,,,,,0.58,23,23,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1467,"Gowers Street, Rochdale",,,,not permissioned,,,,,1.3,52,52,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1469,"Land At Boothroyden Road And Factory Brow, Middleton",,,,not permissioned,,,,,1.68,67,67,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1473,"Land At Newchurch Street, Rochdale",,,,not permissioned,,,,,2.49,116,116,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1524,"Royal Spice, 68 Stanycliffe Lane, Middleton",,,,not permissioned,,,,,0.1,5,5,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1528,"Land Off Fielding Street, Middleton",,,,not permissioned,,,,,0.8,49,49,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1530,"153, Ramsden Road, Rochdale",,,,not permissioned,,,,,0.01,6,6,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1550,"Former Akzo Nobel Site, Hollingworth Road, Littleborough",,,,permissioned,,,,,7.5,174,174,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1556,"Queensway Neighbourhood Centre, Well'I'Th Lane, Rochdale",,,,not permissioned,,,,,1.46,58,58,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1599,"Spotland Bridge, New Mill, Mellor Street, Rochdale",,,,not permissioned,,,,,0.82,84,84,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1635,"West Street Baptist Church, West Street (Western Part), Rochdale",,,,not permissioned,,,,,0.04,6,6,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1639,"9-11 Todmorden Road, Littleborough",,,,not permissioned,,,,,0.05,6,6,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1690,"Site Of Oddfellows Arms Ph, 78 Peel Lane, Heywood",,,not owned by a public authority,not permissioned,,,,,0.32,13,13,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1693,"Alderman Kay School (School Site), Tintern Road, Middleton",,,not owned by a public authority,permissioned,,,,,0.86,38,38,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1717,"Conservative Club, Newchurch Street, Rochdale",,,,not permissioned,,,,,0.02,6,6,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1722,"Land At Bridgefold Road, Rochdale",,,,not permissioned,,,,,0.7,24,24,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1739,"Burnedge Mill, Broad Lane, Rochdale",,,,not permissioned,,,,,0.24,6,6,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1745,"Land Between Lincoln Street And Hare Street, Rochdale",,,,not permissioned,,,,,1.04,41,41,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1750,"Land To South Of Clay Bank Street, Heywood",,,not owned by a public authority,not permissioned,,,,,0.31,12,12,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1755,"Angel Meadow Phase 2, Heywood",,,not owned by a public authority,not permissioned,,,,,0.33,13,13,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1756,"Angel Meadow Phase 1, Heywood",,,not owned by a public authority,not permissioned,,,,,0.84,34,34,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1775,"Land At Greenbooth Road, Rochdale",,,,not permissioned,,,,,5.3,60,60,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1778,"Warwick Mill, Oldham Road, Middleton",,,,not permissioned,,,,,0.92,147,147,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1779,"201 Shaw Road, Rochdale",,,,not permissioned,,,,,0.12,6,6,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1780,"33-41 Maclure Road, Rochdale",,,,not permissioned,,,,,0.05,15,15,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1791,"Norton Grange Hotel, Manchester Road, Rochdale",,,,not permissioned,,,,,0.48,14,14,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1793,"Kings Arms, Higher Wood Street, Middleton",,,mixed ownership,not permissioned,,,,,0.08,6,6,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1811,"Site Of Former Sunbank, Shawclough Road, Rochdale",,,,not permissioned,,,,,0.4,14,14,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1840,"206-208 Drake Street, Rochdale",,,,not permissioned,,,,,0.33,17,17,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1849,"Land To The Rear Of 64 Rochdale Road, Middleton",,,,not permissioned,,,,,0.04,6,6,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1854,"Land At Regent Street/ Jermyn Street, Rochdale",,,,not permissioned,,,,,0.27,13,13,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1882,"Land At Milnrow Road, Rochdale",,,,not permissioned,,,,,0.43,17,17,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1917,"101-103 Long Street And 1, 3, & 5 Durnford Street, Middleton",,,,not permissioned,,,,,0.06,5,5,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1935,"Rakewood Mill, Rakewood Road, Littleborough",,,,permissioned,,,,,0.79,27,27,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1955,"Former Star Works, Wham Street, Heywood",,,,not permissioned,,,,,0.05,6,6,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1962,"Booth Hollings Mill, Rakewood Road, Littleborough",,,,not permissioned,,,,,0.45,6,6,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 1998,"Former The Nile, 1 Drake Street, Rochdale",,,,not permissioned,,,,,0.09,19,19,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2011,"Brunswick Hotel, 19 Bridge Street, Heywood",,,,not permissioned,,,,,0.03,6,6,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2036,"3 Whitehall Street And 20 Eastgate Street, Rochdale",,,,permissioned,,,,,0.01,5,5,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2056,"Land At Junction Calderbrook Road And Hare Hill Road, Littleborough",,,,permissioned,,,,,0.06,8,8,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2059,"Land Adjacent 167 Spotland Road, Rochdale",,,not owned by a public authority,permissioned,,,,,0.08,5,5,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2061,"185 Yorkshire Street, Rochdale",,,,permissioned,,,,,0.03,6,6,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2064,"Wr Anderton And Co, Maltings Lane, Rochdale",,,,permissioned,,,,,1.59,63,63,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2065,"Queens Drive Gateway (Including Site Of Temporary Health Centre), Kirkholt",,,not owned by a public authority,not permissioned,,,,,0.64,20,20,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2066,"London House, Oldham Road, Middleton",,,,not permissioned,,,,,0.25,42,42,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2071,"156-158 Drake Street, Rochdale",,,,permissioned,,,,,0.05,5,5,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2072,"Greave House, Greave Avenue, Rochdale",,,not owned by a public authority,permissioned,,,,,0.02,6,6,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2077,"New Street Works, New Street, Rochdale",,,,permissioned,,,,,0.11,8,8,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2080,"Lomax Transport Services, Trub Farm, Manchester Road, Rochdale",,,mixed ownership,permissioned,,,,,1.34,29,29,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2090,"Land At Stratford Avenue, Rochdale",,,not owned by a public authority,not permissioned,,,,,0.07,5,5,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2100,"Land Adj To 12 Wham Street, Heywood",,,,permissioned,,,,,0.1,9,9,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2110,"Land At Keswick Close, Langley",,,,permissioned,,,,,1.28,98,98,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2112,"Milton St Family And Children Centre, Milton Street, Middleton",,,not owned by a public authority,permissioned,,,,,0.16,8,8,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2119,"Remainder Of Ladybarn Car Park, Harbour Lane, Milnrow",,,,not permissioned,,,,,0.14,5,5,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2120,"The Ladybarn, Harbour Lane, Milnrow",,,,permissioned,,,,,0.2,7,7,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2131,"Former Dexine Rubber Co. Ltd., Spotland Road, Rochdale",,,,permissioned,,,,,1.62,102,102,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2132,"Former Garage Site, Rossall Road, Rochdale",,,not owned by a public authority,permissioned,,,,,0.11,6,6,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2139,"Land At Ramsay Place, Rochdale",,,not owned by a public authority,permissioned,,,,,0.2,12,12,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2140,"Land Between 395&421 Edenfield Road, Rocdale",,,mixed ownership,permissioned,,,,,0.24,10,10,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2147,"Norden Urc Church, Forsyth Street, Rochdale",,,,permissioned,,,,,0.09,5,5,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2150,"Site Of Fomer Rainshore Mill, Over Town Lane, Rochdale",,,,permissioned,,,,,7.06,42,42,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2166,"1-46 The Strand, Kirkholt",,,not owned by a public authority,permissioned,,,,,1.08,16,16,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2171,"431 Halifax Road, Wardle",,,,permissioned,,,,,0.04,6,6,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2174,"78 Peel Lane, Heywood",,,,permissioned,,,,,0.14,7,7,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2178,"Boots Company Plc, Mary Street, Heywood",,,,permissioned,,,,,1.25,37,37,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2181,"Former Balderstone High School, Queen Victoria Street, Rochdale",,,,permissioned,,,,,4.02,143,143,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2193,"Land Adjoining Howard Street And Abbeydale Road And Land Adjoining Howard Street And Redcross Street, Lower Falinge",,,not owned by a public authority,permissioned,,,,,0.56,19,19,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2194,"Land At Baytree Lane, Middleton",,,,permissioned,,,,,2.62,110,110,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2197,"Land At Moorhouse Fold, Milnrow",,,,permissioned,,,,,0.09,5,5,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2198,"Land Rudyard Grove, Friars Crescent, Lilac Road, Kildare Crescent, Balderstone Road, Rochdale",,,mixed ownership,permissioned,,,,,2.19,76,76,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2199,"Land Between 9A&23 Milkstone Road, Rochdale",,,not owned by a public authority,permissioned,,,,,0.19,12,12,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2200,"Land Bounded By Bethel Street, Earl Street, Taylor Street, Heywood",,,,permissioned,,,,,0.05,14,14,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2205,"Land To Rear Of 62-82 Bury New Road, Heywood",,,,permissioned,,,,,0.52,9,9,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2207,"Litho House, Barehill Street, Littleborough",,,,permissioned,,,,,0.05,8,8,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2214,"Proofings Technology Ltd, Hare Hill Road, Littleborough",,,,permissioned,,,,,0.76,11,11,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2216,"Site Of 25 Holmes Street, Rochdale",,,,permissioned,,,,,1.45,5,5,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2217,"Site Of Former Frankfort Mill, Durn Bridge, Halifax Road, Littleborough",,,,permissioned,,,,,0.81,33,33,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2218,"Spread Eagle, 10 Cheetham Street, Rochdale",,,,permissioned,,,,,0.04,6,6,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2219,"Townhead Offices, Yorkshire Street, Rochdale",,,not owned by a public authority,permissioned,,,,,0.27,14,14,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2222,"174 Bury Old Road, Heywood",,,,permissioned,,,,,0.3,7,7,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2230,"Nixon Street, Rochdale",,,,permissioned,,,,,5.84,250,250,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2231,"Phoenix Iron Works, Howarth Street, Littleborough",,,,permissioned,,,,,0.26,9,9,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2234,"82-84 Drake Street, Rochdale",,,,permissioned,,,,,0.04,28,28,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2235,"Biwater Treatment Ltd, Gregge Street, Heywood",,,,permissioned,,,,,0.47,59,59,2017-11-28,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2238,"Dunlop, Royle Barn Road, Castleton, Rochdale",,,,not permissioned,,,,,7.15,200,200,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2239,"Riverside Phase 2, John Street, Rochdale",,,,not permissioned,,,,,1.01,100,100,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2240,"Central Retail Park, Drake Street, Rochdale",,,,not permissioned,,,,,2.15,120,120,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2243,"Remainder Of Dale Mill, Chapel Street, Milnrow",,,,not permissioned,,,,,0.57,68,68,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2244,"Land At Newby Drive, Langley",,,,not permissioned,,,,,0.65,20,20,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb
+,local-authority-eng:RCH,SH 2251,"Former Kyp, Hamer Lane / Belfield Road, Rochdale",,,not owned by a public authority,not permissioned,,,,,0.41,16,16,2017-11-29,,5ed5da3ec0f3a94a214b1d119b5904625058f5834ca2c5afedaf66df2c19f4bb

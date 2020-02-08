@@ -8,4 +8,3 @@ row-number,field,datatype,value
 29,NetDwellingsRangeFrom,integer,TBC
 29,NetDwellingsRangeTo,integer,TBC
 39,NetDwellingsRangeFrom,integer,TBC
-117,OrganisationURI,opendatacommunities-uri,* Sites include both brownfield and greenfield. Only the brownfield will be suitable for the purposes of the brownfield register.

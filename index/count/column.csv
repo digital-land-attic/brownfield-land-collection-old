@@ -1,5 +1,5 @@
 column,count
-,18660
+,18659
 #,1
 0.28,1
 01/12/2017,2
@@ -8,7 +8,6 @@ column,count
 2018 Site Reference (where changed),1
 419779,1
 7,1
-"<?xml version=""1.0"" encoding=""UTF-8""?>",1
 A1,2
 A2,2
 A3,2
@@ -96,7 +95,7 @@ CHECK - SUITABLE,1
 CONSTRAINT,1
 COORDINATE REFERENCE SYSTEM,5
 COORDINATEREFERENCESYSTEM,7
-COORDINATES,2
+COORDINATES,1
 COORDREFER,2
 Capable of development?,1
 Capable of housing development [in policy terms],1
@@ -186,7 +185,7 @@ EffectiveDate,2
 EndDate,80
 EndReason,1
 Enddate,1
-Error,4
+Error,1
 Events,4
 ExpiryOfPlanningPermission,2
 FID,3
@@ -219,14 +218,14 @@ Geo Longitude,2
 Geo X,9
 Geo Y,9
 GeoPointLicensingURL,2
-GeoX,759
+GeoX,760
 GeoX (Longitude or east grid),3
 GeoX [East],2
 GeoX_2,1
 GeoX_3,1
 GeoX_ETRS89,1
 GeoX_WGS84,1
-GeoY,759
+GeoY,760
 GeoY (Latitude or north grid),3
 GeoY [North],2
 GeoY_2,1
@@ -318,7 +317,6 @@ Local Authority,2
 Local Plan Ref,2
 Local Plan Site Allocation Reference / SLAA Site Reference,1
 Local Plan reference/SLAA reference,2
-Local authority URI expressed in the form http://opendatacom munities.org/id/follo wed by relevant type of authority and name of local authority,2
 Local authority name,1
 LocalPlanPolRef,1
 LocalPlanURL,1

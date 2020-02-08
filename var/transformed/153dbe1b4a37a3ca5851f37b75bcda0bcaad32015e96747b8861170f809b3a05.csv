@@ -102,11 +102,11 @@ entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,pl
 ,local-authority-eng:SWD,S0416,3 Temple Chambers Temple Street,,yes,,permissioned,full planning permission,,51.559009,-1.782747,0.01457,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,S0418,Southdown Nursing Home 17 Church Road Wanborough,,yes,,permissioned,full planning permission,,51.541934,-1.700211,0.1847,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,S0420,First Floor 17-21 High Street Old Town,,yes,,permissioned,other,,51.55177,-1.773606,0.04186,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,,S0424,"Former Zarlink Factory, Darby Close, Swindon",,yes,,not permissioned,,,51.573069,-1.808924,1.169,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,,S0430,"Brunel West Car Park and House of Fraser, Swindon",,yes,,not permissioned,,,51.560375,-1.787892,0.8458,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,,S0433,Swindon Station Redevelopment,,yes,,not permissioned,,,51.564983,-1.786795,4.536,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,,S0434,"Manor Farm, Hannington",,yes,,permissioned,full planning permission,,51.63734,-1.752111,0.6723,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,,S0436,County Ground Depot,,yes,,not permissioned,,,51.566369,-1.773771,0.4262,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,,S0448,"Burderop Park, Wroughton",,yes,,permissioned,full planning permission,,51.519628,-1.762652,12.6,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,,S0458,"Croft Yard, Ham Road, Wanborough",,yes,,not permissioned,,,51.542342,-1.69719,0.3167,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,,S0476,"The 12 Bar, 179 Westcott Place, Swindon",,yes,,permissioned,full planning permission,,51.558215,-1.795758,0.07214,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0424,"Former Zarlink Factory, Darby Close, Swindon",,yes,,not permissioned,,,51.573069,-1.808924,1.169,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0430,"Brunel West Car Park and House of Fraser, Swindon",,yes,,not permissioned,,,51.560375,-1.787892,0.8458,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0433,Swindon Station Redevelopment,,yes,,not permissioned,,,51.564983,-1.786795,4.536,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0434,"Manor Farm, Hannington",,yes,,permissioned,full planning permission,,51.63734,-1.752111,0.6723,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0436,County Ground Depot,,yes,,not permissioned,,,51.566369,-1.773771,0.4262,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0448,"Burderop Park, Wroughton",,yes,,permissioned,full planning permission,,51.519628,-1.762652,12.6,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0458,"Croft Yard, Ham Road, Wanborough",,yes,,not permissioned,,,51.542342,-1.69719,0.3167,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0476,"The 12 Bar, 179 Westcott Place, Swindon",,yes,,permissioned,full planning permission,,51.558215,-1.795758,0.07214,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05

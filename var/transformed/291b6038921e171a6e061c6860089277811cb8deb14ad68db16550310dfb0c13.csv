@@ -1,5 +1,4 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,,,,,,,,,,,,,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
 ,local-authority-eng:BRY,BLR1,"Gas Holder Site, Homesdale Road, Bromley, BR1 2UE",,yes,,not permissioned,,,51.400753,0.032183,1,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
 ,local-authority-eng:BRY,BLR2,"Land adjacent to Bickley Station, BR1 2EB",,yes,,not permissioned,,,51.39968,0.042703,0.9,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
 ,local-authority-eng:BRY,BLR3,Opportunity Site B Corner of Tweedy Road/London Road,,yes,owned by a public authority,not permissioned,,,51.408852,0.012023,0.37,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
@@ -13,7 +12,6 @@ entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,pl
 ,local-authority-eng:BRY,BLR11,"Bromley Valley Gym and Adjacent Lands, Chipperfield Road, St Paul?s Cray, BR5 2QR",,,owned by a public authority,not permissioned,,,51.405466,0.10348,2.8,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
 ,local-authority-eng:BRY,BLR12,"Small Halls York Rise, Orpington, BR6 8AD",,yes,owned by a public authority,not permissioned,,,51.373486,0.086482,0.46,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
 ,local-authority-eng:BRY,BLR13,"18-44 Homefield Rise Orpington, BR6 ORU",,yes,,not permissioned,,,51.374757,0.101426,0.75,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
-,,,,,,,,,,,,,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
 ,local-authority-eng:BRY,BLR14,"6 Woodlands Road, BR1 2AF, Bickley",,yes,,permissioned,other,,51.403678,0.045972,0.89,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
 ,local-authority-eng:BRY,BLR17,"42 Orchard Road, BR1 2PS",,yes,,permissioned,full planning permission,,51.409576,0.034171,0.17,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
 ,local-authority-eng:BRY,BLR19,"Site of Former 41 Sunningvale Avenue, Sunningvale Close, TN16 3BX",,yes,,permissioned,full planning permission,,51.317299,0.03006,0.3,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
@@ -21,7 +19,7 @@ entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,pl
 ,local-authority-eng:BRY,BLR25,"9 London Road, BR1 1BY",,yes,,permissioned,full planning permission,,51.408017,0.010922,0.05,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
 ,local-authority-eng:BRY,BLR26,"Upfield Hillbrow Road, BR1 4JL",,yes,,permissioned,full planning permission,,51.417175,0.000207,0.1,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
 ,local-authority-eng:BRY,BLR29,"Hasells Nursery, Jackson Road, BR2 8NS",,yes,,permissioned,full planning permission,,51.374888,0.049876,0.7,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
-,,BLR30,"Ontario Centre, Helegan Close, BR6 9XJ",,yes,,permissioned,outline planning permission,,51.364782,0.094964,0.18,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
+,local-authority-eng:BRY,BLR30,"Ontario Centre, Helegan Close, BR6 9XJ",,yes,,permissioned,outline planning permission,,51.364782,0.094964,0.18,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
 ,local-authority-eng:BRY,BLR31,"63-65 Chislehurst Road, BR7 5NP",,yes,,permissioned,full planning permission,,51.40774,0.055888,0.035,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
 ,local-authority-eng:BRY,BLR33,"3 Beckenham Road, BR3 4ES",,yes,,permissioned,full planning permission,,51.407029,-0.03266,0.1,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
 ,local-authority-eng:BRY,BLR37,"Beechers Court, High Street, BR3 1AQ",,yes,,permissioned,full planning permission,,51.406795,-0.027781,0.03,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
@@ -68,5 +66,3 @@ entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,pl
 ,local-authority-eng:BRY,BLR86,"67 Bromley Road, Beckenham, BR3 5PA",,yes,,permissioned,full planning permission,,51.406957,-0.010564,0.133,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
 ,local-authority-eng:BRY,BLR87,"Land Adjacent To Bromley College, London Road, Bromley",,yes,,permissioned,full planning permission,,51.408852,0.011889,0.3,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
 ,local-authority-eng:BRY,BLR88,"Tahoma Lodge, 70 Lubbock Road, Chislehurst, BR7 5JX",,yes,,permissioned,full planning permission,,51.408983,0.05874,0.18,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
-,,,,,,,,,,,,,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13
-,,,,,,,,,,,,,,,,,291b6038921e171a6e061c6860089277811cb8deb14ad68db16550310dfb0c13

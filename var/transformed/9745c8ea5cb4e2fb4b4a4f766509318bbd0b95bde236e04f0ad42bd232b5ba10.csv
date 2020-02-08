@@ -52,4 +52,4 @@ entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,pl
 2017-12-31,local-authority-eng:WYE,WA/UA/1,Land at Bellmans Cross Shatterford,,yes,not owned by a public authority,not permissioned,,,52.428631,-2.310181,0.8,20,,2017-12-31,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
 2019-12-16,local-authority-eng:WYE,WFR/ST/1,"Land at Captains, Bromsgrove Road",,yes,not owned by a public authority,not permissioned,,,52.373918,-2.22231,2.6,116,135,2019-12-16,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
 2019-12-18,local-authority-eng:WYE,WFR/WC/30,"Land at Wolverley Lodge, Lea Lane",,yes,not owned by a public authority,permissioned,permission in principle,,52.41876,-2.246621,1.754,2,4,2019-12-18,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
-,,,,,,,,,,,,,,,,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
+,local-authority-eng:WYE,,,,,,,,,,,,,,,,9745c8ea5cb4e2fb4b4a4f766509318bbd0b95bde236e04f0ad42bd232b5ba10
