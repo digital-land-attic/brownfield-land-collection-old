@@ -37,15 +37,15 @@ default_values = {}
 field_enum = {}
 field_value = {}
 
-log_fieldnames = ["row-number", "field", "datatype", "value"]
+log_fieldnames = ["row-number", "field", "issue-type", "value"]
 log_writer = csv.DictWriter(open(log_path, "w", newline=""), fieldnames=log_fieldnames)
 log_writer.writeheader()
 row_number = 0
 
 
-def log_issue(field, datatype, value):
+def log_issue(field, issuetype, value):
     log_writer.writerow(
-        {"field": field, "datatype": datatype, "value": value, "row-number": row_number}
+        {"field": field, "issue-type": issuetype, "value": value, "row-number": row_number}
     )
 
 

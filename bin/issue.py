@@ -5,7 +5,7 @@ import sys
 import glob
 import csv
 
-log_fieldnames = ["resource", "row-number", "field", "datatype", "value"]
+log_fieldnames = ["resource", "row-number", "field", "issue-type", "value"]
 
 writer = csv.DictWriter(open(sys.argv[2], "w", newline=""), fieldnames=log_fieldnames)
 writer.writeheader()
