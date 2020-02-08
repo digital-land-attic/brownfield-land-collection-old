@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 1,GeoX,decimal,"546,023.30"
 1,GeoY,decimal,"310,088.08"
 2,GeoX,decimal,"541,368.09"

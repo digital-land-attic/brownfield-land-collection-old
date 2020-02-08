@@ -1,3 +1,3 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 69,PermissionDate,date,2017-02-29
 78,NetDwellingsRangeTo,integer,`5

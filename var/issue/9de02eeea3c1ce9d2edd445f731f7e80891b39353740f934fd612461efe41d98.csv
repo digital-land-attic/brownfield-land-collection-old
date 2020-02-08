@@ -1,3 +1,3 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 16,NetDwellingsRangeFrom,integer,>1
 16,NetDwellingsRangeTo,integer,>1

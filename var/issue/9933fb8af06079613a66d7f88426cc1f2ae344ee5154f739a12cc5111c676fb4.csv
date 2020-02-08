@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 23,PermissionDate,date,"2017-05-02
 2017-06-06"
 27,PermissionDate,date,"2014-09-25

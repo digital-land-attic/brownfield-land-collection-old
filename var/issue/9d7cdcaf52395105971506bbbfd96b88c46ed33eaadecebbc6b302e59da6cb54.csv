@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 8,PlanningStatus,enum,completing
 18,OwnershipStatus,enum,Part owned Kent Highway Services
 19,OwnershipStatus,enum,Ministry of Defense

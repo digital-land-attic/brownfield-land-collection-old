@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 66,HazardousSubstances,enum,7
 69,HazardousSubstances,enum,10
 70,HazardousSubstances,enum,6

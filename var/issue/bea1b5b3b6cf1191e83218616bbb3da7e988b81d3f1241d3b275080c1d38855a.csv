@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 9,"GeoX,GeoY",OSGB,","
 27,"GeoX,GeoY",OSGB,","
 28,"GeoX,GeoY",OSGB,","

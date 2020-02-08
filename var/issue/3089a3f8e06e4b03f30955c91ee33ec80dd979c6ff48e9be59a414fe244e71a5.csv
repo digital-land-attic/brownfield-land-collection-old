@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 1,FirstAddedDate,date,43075
 1,LastUpdatedDate,date,43445
 2,FirstAddedDate,date,43075

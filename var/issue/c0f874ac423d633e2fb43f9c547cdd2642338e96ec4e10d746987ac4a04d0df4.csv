@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 1,NetDwellingsRangeFrom,integer,162.25
 4,NetDwellingsRangeFrom,integer,1.5
 6,Hectares,decimal,0.39 Not owned by a public authority

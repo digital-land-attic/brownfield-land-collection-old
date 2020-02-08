@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 1,SiteplanURL,uri,Site Plan BL01
 2,SiteplanURL,uri,Site Plan BL02
 3,SiteplanURL,uri,Site Plan BL03

@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 1,PlanningStatus,enum,Other Commitment
 2,PlanningStatus,enum,Other Commitment
 40,PlanningStatus,enum,Completed During 2016/17

@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 16,PermissionType,enum,JPA
 22,PermissionType,enum,LDO
 23,PermissionType,enum,OUT

@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 1,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=01%2f03478%2fCOU
 2,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=05%2f04278%2fFUL
 3,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=08%2f01449%2fMAJ

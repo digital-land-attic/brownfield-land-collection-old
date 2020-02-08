@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 18,LastUpdatedDate,date,2017-12-32
 19,LastUpdatedDate,date,2017-12-33
 20,LastUpdatedDate,date,2017-12-34

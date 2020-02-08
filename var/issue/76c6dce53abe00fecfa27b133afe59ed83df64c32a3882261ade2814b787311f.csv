@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 2,PermissionType,enum,demolition
 25,PermissionDate,date,"25.11.2014;
  04.09.2014"

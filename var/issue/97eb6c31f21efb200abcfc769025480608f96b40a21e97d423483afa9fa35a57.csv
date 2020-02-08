@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 1,GeoX,decimal,ETRS89
 1,SiteplanURL,uri,"St Martin's Walk Centre (Upper Floors), Dorking, RH4 1UX"
 1,OwnershipStatus,enum,0.5

@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 14,Hectares,decimal,04/02/2019 00:00
 18,Hectares,decimal,06/06/2019 00:00
 32,Hectares,decimal,01/09/2019 00:00

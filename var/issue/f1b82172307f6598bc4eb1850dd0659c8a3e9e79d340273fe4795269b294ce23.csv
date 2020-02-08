@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 9,NetDwellingsRangeTo,integer,700 (200 net)
 16,NetDwellingsRangeTo,integer,>1
 23,NetDwellingsRangeTo,integer,>1

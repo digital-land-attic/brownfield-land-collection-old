@@ -1,4 +1,4 @@
-resource,row-number,field,datatype,value
+resource,row-number,field,issue-type,value
 017e3b44963d14c281e04af55afc6715f18d77f628e6e3a41e9861915b79283c,9,NetDwellingsRangeTo,integer,700 (200 net)
 017e3b44963d14c281e04af55afc6715f18d77f628e6e3a41e9861915b79283c,16,NetDwellingsRangeTo,integer,>1
 017e3b44963d14c281e04af55afc6715f18d77f628e6e3a41e9861915b79283c,23,NetDwellingsRangeTo,integer,>1

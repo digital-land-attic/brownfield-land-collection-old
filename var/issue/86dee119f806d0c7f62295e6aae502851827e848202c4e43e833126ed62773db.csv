@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 51,"GeoX,GeoY",OSGB,","
 121,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 158,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister

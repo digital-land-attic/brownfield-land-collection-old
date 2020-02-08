@@ -1,4 +1,4 @@
-row-number,field,datatype,value
+row-number,field,issue-type,value
 1,PermissionType,enum,MAR
 2,PermissionType,enum,MAR
 3,PermissionType,enum,MAF
