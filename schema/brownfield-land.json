@@ -426,9 +426,6 @@
             "start-date",
             "end-date",
             "resource"
-        ],
-        "duplicate": [
-          "OrganisationURI"
         ]
     }
 }

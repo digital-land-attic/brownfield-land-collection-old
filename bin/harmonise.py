@@ -149,6 +149,19 @@ def load_organisations():
             ]
 
 
+# deduce default OrganisationURI from path
+def set_default_organisation(path):
+    organisation = ""
+    for row in csv.DictReader(open("index/resource-organisation.csv", newline="")):
+        if row['resource'] in path:
+            if not organisation:
+                organisation = row["organisation"]
+            elif organisation != row["organisation"]:
+                # resource has more than one organisation
+                return
+    default_values["OrganisationURI"] = organisation_uri[organisation.lower()]
+
+
 def normalise_organisation_uri(field, fieldvalue):
     value = lower_uri(fieldvalue)
 
@@ -321,9 +334,6 @@ def default(o):
                 log_issue(field, "default", value)
                 o[field] = value
 
-    for field in schema["digital-land"]["duplicate"]:
-        default_values[field] = o[field]
-
     return o
 
 
@@ -332,6 +342,8 @@ if __name__ == "__main__":
 
     load_organisations()
     load_field_value()
+
+    set_default_organisation(input_path)
 
     with open(output_path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)

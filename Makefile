@@ -71,6 +71,7 @@ NORMALISE_DATA:=\
 # data needed for harmonisation
 HARMONISE_DATA:=\
 	$(CACHE_DIR)/organisation.csv\
+	$(INDEX_DIR)/resource-organisation.csv\
 	$(PATCH_DIR)/organisation.csv\
 	$(PATCH_DIR)/enum.csv
 
