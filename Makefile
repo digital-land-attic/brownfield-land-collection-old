@@ -75,13 +75,26 @@ HARMONISE_DATA:=\
 	$(PATCH_DIR)/enum.csv
 
 # generated indexes
-INDEXES=\
-	$(INDEX_DIR)index.json\
-	$(INDEX_DIR)link.csv\
+# TBD: replace with sqlite3
+COLLECTION_INDEX=index.json
+
+COLLECTION_INDEXES=\
 	$(INDEX_DIR)log.csv\
+	$(INDEX_DIR)link.csv\
+	$(INDEX_DIR)link-resource.csv\
+	$(INDEX_DIR)link-organisation.csv\
 	$(INDEX_DIR)resource.csv\
+	$(INDEX_DIR)resource-organisation.csv
+
+DATASET_INDEXES=\
+	$(INDEX_DIR)organisation-documentation.csv\
+	$(INDEX_DIR)organisation-link.csv
+
+PIPELINE_INDEXES=\
 	$(INDEX_DIR)fixed.csv\
-	$(INDEX_DIR)issue.csv\
+	$(INDEX_DIR)issue.csv
+
+COUNTS=\
 	$(COUNT_DIR)column.csv\
 	$(COUNT_DIR)OrganisationURI.csv\
 	$(COUNT_DIR)OrganisationLabel.csv\
@@ -91,10 +104,11 @@ INDEXES=\
 	$(COUNT_DIR)PermissionType.csv\
 	$(COUNT_DIR)Deliverable.csv
 
-TBD_COLLECTION_INDEXES=\
-	$(INDEX_DIR)organisation-documentation.csv\
-	$(INDEX_DIR)organisation-link.csv\
-	$(INDEX_DIR)organisation-resource.csv
+INDEXES=\
+	$(COLLECTION_INDEX)\
+	$(COLLECTION_INDEXES)\
+	$(PIPELINE_INDEXES)\
+	$(COUNTS)
 
 # dataset of mapped files
 MAPPED_DATASET=$(TMP_DIR)mapped.csv
@@ -133,25 +147,28 @@ index: $(INDEXES)
 	@:
 
 #
-#  indexes
+#  collection indexes
 #
 $(NATIONAL_DATASET): bin/dataset.py $(TRANSFORMED_FILES) $(SCHEMA)
 	@mkdir -p $(INDEX_DIR)
 	python3 bin/dataset.py $(TRANSFORMED_DIR) $@
 
-$(INDEX_DIR)index.json: bin/index.py $(NATIONAL_DATASET) $(DATASET_FILES) $(LOG_FILES) $(VALIDATION_FILES)
+$(COLLECTION_INDEX): bin/index.py $(NATIONAL_DATASET) $(DATASET_FILES) $(LOG_FILES) $(VALIDATION_FILES)
 	@mkdir -p $(INDEX_DIR)
 	python3 bin/index.py $(DATASET_NAME)
 
-$(INDEX_DIR)link.csv $(INDEX_DIR)log.csv $(INDEX_DIR)resource.csv: $(INDEX_DIR)index.json
+$(COLLECTION_INDEXES): $(COLLECTION_INDEX)
+
+#
+#  pipeline indexes
+#
+$(INDEX_DIR)fixed.csv: bin/fixed.py $(FIXED_FILES)
+	@mkdir -p $(INDEX_DIR)
+	python3 bin/fixed.py $@
 
 $(INDEX_DIR)column.csv: bin/columns.py $(NORMALISED_FILES)
 	@mkdir -p $(INDEX_DIR)
 	python3 bin/columns.py $@
-
-$(INDEX_DIR)fixed.csv: bin/fixed.py $(FIXED_FILES)
-	@mkdir -p $(INDEX_DIR)
-	python3 bin/fixed.py $@
 
 $(INDEX_DIR)issue.csv: bin/issue.py $(ISSUE_FILES)
 	@mkdir -p $(INDEX_DIR)

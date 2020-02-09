@@ -255,3 +255,32 @@ if __name__ == "__main__":
         ],
         log,
     )
+
+    link_resource = {}
+    for l, entry in log.items():
+        if "resource" in entry:
+            link_resource[entry["link"] + entry["resource"]] = {
+                "link": entry["link"],
+                "resource": entry["resource"],
+            }
+    save_csv("link-resource", ["link", "resource"], link_resource)
+
+    rows = {}
+    for link, entry in idx.items():
+        for organisation in entry["organisation"]:
+            rows[link + organisation] = {
+                "link": link,
+                "organisation": organisation,
+            }
+    save_csv("link-organisation", ["link", "organisation"], rows)
+
+    # index for harmonising missing OrganisationURI values
+    rows = {}
+    for k, entry in link_resource.items():
+        link = entry["link"]
+        for organisation in idx[link]["organisation"]:
+            rows[entry["resource"] + organisation] = {
+                "resource": entry["resource"],
+                "organisation": organisation,
+            }
+    save_csv("resource-organisation", ["resource", "organisation"], rows)
