@@ -69,15 +69,16 @@ NORMALISE_DATA:=\
 	$(PATCH_DIR)/skip.csv
 
 # data needed for harmonisation
-HARMONISE_DATA:=\
-	$(CACHE_DIR)/organisation.csv\
+HARMONISE_DATA=\
 	$(INDEX_DIR)/resource-organisation.csv\
+	$(CACHE_DIR)/organisation.csv\
 	$(PATCH_DIR)/organisation.csv\
 	$(PATCH_DIR)/enum.csv
 
 # generated indexes
 # TBD: replace with sqlite3
-COLLECTION_INDEX=index.json
+COLLECTION_INDEX=\
+	$(INDEX_DIR)/index.json
 
 COLLECTION_INDEXES=\
 	$(INDEX_DIR)log.csv\
@@ -154,7 +155,7 @@ $(NATIONAL_DATASET): bin/dataset.py $(TRANSFORMED_FILES) $(SCHEMA)
 	@mkdir -p $(INDEX_DIR)
 	python3 bin/dataset.py $(TRANSFORMED_DIR) $@
 
-$(COLLECTION_INDEX): bin/index.py $(NATIONAL_DATASET) $(DATASET_FILES) $(LOG_FILES) $(VALIDATION_FILES)
+$(COLLECTION_INDEX): bin/index.py $(LOG_FILES) $(VALIDATION_FILES)
 	@mkdir -p $(INDEX_DIR)
 	python3 bin/index.py $(DATASET_NAME)
 
