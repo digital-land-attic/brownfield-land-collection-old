@@ -1,59 +1,148 @@
 row-number,field,issue-type,value
 1,PlanningStatus,enum,"Permitted
 Planning ref Y16/0403/SH"
+1,SiteReference,missing,
+1,Hectares,missing,
 2,PlanningStatus,enum,"Permitted
 Planning ref Y14/1428/SH"
+2,SiteReference,missing,
 3,PlanningStatus,enum,"Permitted
 Planning ref Y11/0121/SH"
+3,SiteReference,missing,
+3,GeoX,missing,
+3,GeoY,missing,
+3,Hectares,missing,
 4,PlanningStatus,enum,"Permitted
 Planning ref Y16/0220/SH"
+4,SiteReference,missing,
 5,PlanningStatus,enum,"Permitted
 Planning ref Y16/0987/SH"
+5,SiteReference,missing,
 6,PlanningStatus,enum,"Permitted
 Planning ref Y05/1391/SH"
+6,SiteReference,missing,
+6,GeoX,missing,
+6,GeoY,missing,
 7,PlanningStatus,enum,"Permitted
 Planning ref Y08/1212/SH"
+7,SiteReference,missing,
 8,PlanningStatus,enum,"Permitted
 Planning ref Y12/1000/SH"
+8,SiteReference,missing,
+8,GeoX,missing,
+8,GeoY,missing,
 9,PlanningStatus,enum,"Permitted
 Planning ref Y13/0166/SH"
+9,SiteReference,missing,
+9,GeoX,missing,
+9,GeoY,missing,
 10,PlanningStatus,enum,"Permitted
 Planning ref Y14/0411/SH"
+10,SiteReference,missing,
 11,PlanningStatus,enum,"Permitted
 Planning ref Y14/0834/SH"
+11,SiteReference,missing,
 12,PlanningStatus,enum,"Permitted
 Planning ref
 Y10/0717/SH"
+12,SiteReference,missing,
 13,PlanningStatus,enum,"Permitted
 Planning ref
 Y14/0703/SH"
+13,SiteReference,missing,
+13,GeoX,missing,
+13,GeoY,missing,
 14,PlanningStatus,enum,"Permitted
 Planning ref 
 Y15/0467/SH"
+14,SiteReference,missing,
 15,PlanningStatus,enum,"Permitted
 Planning ref
 Y05/0237/SH"
+15,SiteReference,missing,
+15,GeoX,missing,
+15,GeoY,missing,
 16,PlanningStatus,enum,"Permitted
 Planning ref 
 Y14/1149/SH"
+16,SiteReference,missing,
 17,PlanningStatus,enum,"Permitted
 Planning ref Y15/0178/SH"
+17,SiteReference,missing,
 18,PlanningStatus,enum,"Permitted
 Planning ref Y12/0650/SH"
+18,SiteReference,missing,
 19,PlanningStatus,enum,"Permitted
 Planning ref Y14/0928/SH"
 20,PlanningStatus,enum,"Permitted
 Planning ref Y15/0533/SH"
+20,SiteReference,missing,
+20,GeoX,missing,
+20,GeoY,missing,
 21,PlanningStatus,enum,"Permitted
 Planning ref Y14/0578/SH"
+21,SiteReference,missing,
+21,GeoX,missing,
+21,GeoY,missing,
 22,PlanningStatus,enum,"Permitted
 Planning ref Y12/0897/SH"
 23,PlanningStatus,enum,"Permitted
 Planning ref Y16/0463/SH"
+23,SiteReference,missing,
 24,PlanningStatus,enum,"Permitted
 Planning ref Y13/0858/SH"
+24,SiteReference,missing,
+24,GeoX,missing,
+24,GeoY,missing,
 25,PlanningStatus,enum,"Resolution to grant
 Y15/0030/SH"
 26,PlanningStatus,enum,Y15/0072/SH
+26,SiteReference,missing,
 27,PlanningStatus,enum,Y11/0137/SH
+27,SiteReference,missing,
 28,Hectares,decimal,1 hectare
+28,GeoX,missing,
+28,GeoY,missing,
+28,Hectares,missing,
+29,GeoX,missing,
+29,GeoY,missing,
+30,GeoX,missing,
+30,GeoY,missing,
+31,GeoX,missing,
+31,GeoY,missing,
+32,GeoX,missing,
+32,GeoY,missing,
+33,GeoX,missing,
+33,GeoY,missing,
+34,GeoX,missing,
+34,GeoY,missing,
+35,GeoX,missing,
+35,GeoY,missing,
+36,GeoX,missing,
+36,GeoY,missing,
+37,GeoX,missing,
+37,GeoY,missing,
+38,GeoX,missing,
+38,GeoY,missing,
+39,GeoX,missing,
+39,GeoY,missing,
+40,GeoX,missing,
+40,GeoY,missing,
+41,GeoX,missing,
+41,GeoY,missing,
+42,GeoX,missing,
+42,GeoY,missing,
+43,GeoX,missing,
+43,GeoY,missing,
+44,GeoX,missing,
+44,GeoY,missing,
+45,GeoX,missing,
+45,GeoY,missing,
+46,GeoX,missing,
+46,GeoY,missing,
+46,Hectares,missing,
+47,GeoX,missing,
+47,GeoY,missing,
+48,GeoX,missing,
+48,GeoY,missing,
+48,Hectares,missing,

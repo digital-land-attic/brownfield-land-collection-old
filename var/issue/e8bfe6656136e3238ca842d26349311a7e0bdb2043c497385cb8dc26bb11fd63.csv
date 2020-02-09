@@ -1,4 +1,6 @@
 row-number,field,issue-type,value
 31,"GeoX,GeoY",OSGB,","
+31,GeoX,missing,
+31,GeoY,missing,
 47,PermissionDate,date,2018-08*01
 51,PermissionDate,date,2018-05*03

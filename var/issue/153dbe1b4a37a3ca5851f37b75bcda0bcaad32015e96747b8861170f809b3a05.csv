@@ -1,4 +1,6 @@
 row-number,field,issue-type,value
+28,Hectares,missing,
+29,Hectares,missing,
 37,PermissionDate,date,Decision pending
 38,PermissionDate,date,Decision pending
 40,PlanningStatus,enum,Allocation

@@ -16,6 +16,7 @@ row-number,field,issue-type,value
 15,SiteplanURL,uri,Link to the map of 42 Orchard Road associated with Full planning permission 17/01241/FULL1
 16,SiteplanURL,uri,Link to the map of the Site of former 41 Sunningdale Avenue Sunningdale Close associated with planning permission 17/02081/FULL1
 17,SiteplanURL,uri,Link to the map of 7 Sandford Road associated with Full planning permission16/04621/FULL1
+17,Hectares,missing,
 18,SiteplanURL,uri,Link to the map of 9 London Road Bromley associated with Full planning permission 16/00859/FULL3
 19,SiteplanURL,uri,Link to the map of Upfield Hillbrow Road associated with Full planning permission 16/04910/FULL1
 20,SiteplanURL,uri,Link to the map of Hasells Nursery Jackson Road BR28NS associated with Full planning permission 16/05353/FULL1
@@ -41,6 +42,7 @@ row-number,field,issue-type,value
 38,SiteplanURL,uri,Link to the map of for 2 Crampton Road Penge associated with Full planning permission 16/00377/FULL1
 39,GeoX,decimal,"51.397435,"
 39,SiteplanURL,uri,link to map of 44 Westmoreland Road Bromley associated with Full Planning permission 17/02524/FULL1
+39,GeoX,missing,
 40,SiteplanURL,uri,Link to the map of 136 Main Road Biggin Hill associated with the full planning permission 17/02291/FULL1
 41,SiteplanURL,uri,Link to the map of 173-175 High Street Orpington associated with full planning permission 17/02330/FULL1
 42,SiteplanURL,uri,Link to the map of 36 Great Elms Road associated with full planning permission 17/01322/FULL1

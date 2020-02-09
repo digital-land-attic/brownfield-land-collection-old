@@ -1,1 +1,6 @@
 row-number,field,issue-type,value
+1,SiteReference,missing,
+1,SiteNameAddress,missing,
+1,GeoX,missing,
+1,GeoY,missing,
+1,Hectares,missing,

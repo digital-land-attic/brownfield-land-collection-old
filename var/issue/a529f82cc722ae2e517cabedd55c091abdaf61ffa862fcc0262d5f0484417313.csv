@@ -22,3 +22,5 @@ row-number,field,issue-type,value
 27,PlanningStatus,enum,REC
 28,PlanningStatus,enum,REC
 29,PlanningStatus,enum,REC
+30,GeoX,missing,
+30,GeoY,missing,

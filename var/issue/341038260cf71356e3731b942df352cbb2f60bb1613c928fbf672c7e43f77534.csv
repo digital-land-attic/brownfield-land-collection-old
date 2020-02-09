@@ -1,20 +1,67 @@
 row-number,field,issue-type,value
+1,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+1,OwnershipStatus,enum,not PA_owned
 1,PermissionType,enum,MAR
+2,SiteplanURL,uri,\\snclive.gov.uk\AppData\DEF_FlatFiles\planning\S-2012-1285-MAF
+2,OwnershipStatus,enum,not PA_owned
 2,PermissionType,enum,MAR
+3,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+3,OwnershipStatus,enum,not PA_owned
 3,PermissionType,enum,MAF
+4,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+4,OwnershipStatus,enum,not PA_owned
 4,PermissionType,enum,MAF
+5,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+5,OwnershipStatus,enum,not PA_owned
 5,PermissionType,enum,MAR
+6,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+6,OwnershipStatus,enum,not PA_owned
 6,PermissionType,enum,MAO
+7,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+7,OwnershipStatus,enum,not PA_owned
 7,PermissionType,enum,MAF
+8,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+8,OwnershipStatus,enum,not PA_owned
 8,PermissionType,enum,MAF
+9,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+9,OwnershipStatus,enum,not PA_owned
 9,PermissionType,enum,MAF
+10,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+10,OwnershipStatus,enum,not PA_owned
 10,PermissionType,enum,MAF
+11,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+11,OwnershipStatus,enum,not PA_owned
 11,PermissionType,enum,MAF
+12,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+12,OwnershipStatus,enum,not PA_owned
 12,PermissionType,enum,MAF
+13,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+13,OwnershipStatus,enum,not PA_owned
 13,PermissionType,enum,MAF
+14,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+14,OwnershipStatus,enum,not PA_owned
 14,PermissionType,enum,MAF
+15,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+15,OwnershipStatus,enum,not PA_owned
 15,PermissionType,enum,MAF
+16,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+16,OwnershipStatus,enum,PA_owned
 16,PermissionType,enum,OUT
+17,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+17,OwnershipStatus,enum,not PA_owned
 17,PermissionType,enum,MAF
+18,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+18,OwnershipStatus,enum,PA_owned
 18,PermissionType,enum,OUT
+19,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+19,OwnershipStatus,enum,not PA_owned
 19,PermissionType,enum,MAF
+20,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+20,OwnershipStatus,enum,not PA_owned
+21,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+21,OwnershipStatus,enum,not PA_owned
+21,GeoX,missing,
+21,GeoY,missing,
+21,Hectares,missing,
+22,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+22,OwnershipStatus,enum,not PA_owned

@@ -1,9 +1,10 @@
 field,value,count
-HazardousSubstances,"",53190
+HazardousSubstances,"",53168
 HazardousSubstances,No,336
 HazardousSubstances,yes,106
 HazardousSubstances,Yes,73
 HazardousSubstances,Y,23
+HazardousSubstances,no,22
 HazardousSubstances,Expired,4
 HazardousSubstances,YES,2
 HazardousSubstances,Potentially subject to broken glass,1

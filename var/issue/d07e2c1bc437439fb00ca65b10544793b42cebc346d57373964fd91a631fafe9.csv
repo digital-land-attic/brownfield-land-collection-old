@@ -1,2 +1,4 @@
 row-number,field,issue-type,value
 60,"GeoX,GeoY",OSGB,","
+60,GeoX,missing,
+60,GeoY,missing,

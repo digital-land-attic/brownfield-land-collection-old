@@ -4,7 +4,7 @@ OwnershipStatus,Not owned by a public authority,5311
 OwnershipStatus,unknown ownership,5249
 OwnershipStatus,owned by a public authority,4208
 OwnershipStatus,Unknown ownership,3401
-OwnershipStatus,"",2025
+OwnershipStatus,"",2003
 OwnershipStatus,unkown ownership,1800
 OwnershipStatus,mixed ownership,1424
 OwnershipStatus,Owned by a public authority,1083
@@ -36,6 +36,7 @@ OwnershipStatus,owned by public authority,37
 OwnershipStatus,Local Authority,37
 OwnershipStatus,Not owned by a \npublic authority,26
 OwnershipStatus,Private,24
+OwnershipStatus,not PA_owned,20
 OwnershipStatus,mixed owner,20
 OwnershipStatus,Mixed owner,20
 OwnershipStatus,"Local Authority, Unknown",20
@@ -68,6 +69,7 @@ OwnershipStatus,Swindon Borough Council,2
 OwnershipStatus,Public authority,2
 OwnershipStatus,Private Individual,2
 OwnershipStatus,Private Company,2
+OwnershipStatus,PA_owned,2
 OwnershipStatus,Not owned by a public authoritity.,2
 OwnershipStatus,Not owned by  apublic authority,2
 OwnershipStatus,0.21,2

@@ -8,6 +8,8 @@ row-number,field,issue-type,value
 (ref for 12/00143/ET only)"
 38,GeoY,decimal,"309079
 (ref for 12/00143/ET only)"
+38,GeoX,missing,
+38,GeoY,missing,
 72,PermissionDate,date,"30.01.2009
 12.07.2013"
 76,PermissionDate,date,"30.08.2017

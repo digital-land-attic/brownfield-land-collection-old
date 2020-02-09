@@ -20,6 +20,9 @@ row-number,field,issue-type,value
 14,PermissionType,enum,Permission Type
 14,PermissionDate,date,Permission Date
 14,FirstAddedDate,date,31-06-2017
+14,GeoX,missing,
+14,GeoY,missing,
+14,Hectares,missing,
 15,FirstAddedDate,date,31-06-2017
 16,FirstAddedDate,date,31-06-2017
 17,FirstAddedDate,date,31-06-2017
@@ -30,7 +33,9 @@ row-number,field,issue-type,value
 22,FirstAddedDate,date,31-06-2017
 23,FirstAddedDate,date,31-06-2017
 24,FirstAddedDate,date,31-06-2017
+24,Hectares,missing,
 25,FirstAddedDate,date,31-06-2017
+25,Hectares,missing,
 26,FirstAddedDate,date,31-06-2017
 27,FirstAddedDate,date,31-06-2017
 28,FirstAddedDate,date,31-06-2017

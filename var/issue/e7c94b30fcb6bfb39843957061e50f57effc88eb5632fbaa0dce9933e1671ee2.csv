@@ -1,2 +1,7 @@
 row-number,field,issue-type,value
 79,OrganisationURI,default,http://opendatacommunities.org/id/metropolitan-district-council/doncaster
+79,SiteReference,missing,
+79,SiteNameAddress,missing,
+79,GeoX,missing,
+79,GeoY,missing,
+79,Hectares,missing,

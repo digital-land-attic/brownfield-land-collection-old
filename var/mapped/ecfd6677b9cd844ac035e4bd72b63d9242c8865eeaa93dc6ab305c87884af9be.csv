@@ -1,620 +1,620 @@
 OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Alma Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,28,"Alma Street,
 Wednesbury",399750,295120,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.52,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Old Cross Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,265,"Old Cross Street,
 Tipton",395367,292416,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.48,,,,Full,29.09.2014,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Park Lane West ( South Staffs Depot ),
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,354,"Park Lane West ( South Staffs Depot ),
 Tipton",395690,291650,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.95,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Orchard Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,440,"Orchard Street,
 Burnt Tree,
 Tipton",395880,290720,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.28,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Dudley Road East (Brades Hall),
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,463,"Dudley Road East (Brades Hall),
 Brades Hall,
 Oldbury",397929,290821,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.85,,,,Full,07.10.2016,,,,,43 units completed 15 under construction,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Birmingham Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,585,"Birmingham Road,
 Oldbury",399350,289440,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.68,Not in Public Ownership,,,Full,21.06.2013,,,,,3 complete 2 under construction.,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Hawes Lane,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,764,"Hawes Lane,
 Rowley Regis",396850,287460,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.56,Public Ownership,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Reservoir Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,768,"Reservoir Road,
 Rowley Regis",397503,287500,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.76,,,,Other,2012,,,,,Part SMBC and part private,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Cradley Road / Bannister Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,856,"Cradley Road / Bannister Road,
 Cradley Heath",394700,286530,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.52,,,,Reserved Matters,26.01.2016,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Beever Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1170,"Beever Road,
 Great Bridge",397587,293183,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.01,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"land at Horseley Heath, Alexandra Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1183,"land at Horseley Heath, Alexandra Road,
 and Lower Church Lane,
 Tipton",396858,292389,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.30,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Peel Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1186,"Peel Street,
 Tipton",396340,291752,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.04,Not in Public Ownership,,,Full,29.09.2014,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"former Accles and Pollock Sports Ground
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1189,"former Accles and Pollock Sports Ground
 Brades Rise
 Oldbury",397820,289875,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,6.36,,,,Full,09.06.2016,,,,,"11 not started, 2 under construction",01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Messenger Road
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1193,"Messenger Road
 Smethwick",402875,288477,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.94,,,,Full,25.04.2013,,,,,"Site nearly complete, 3 units remain",01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Mill Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1203,"Mill Street,
 Great Bridge",397670,292390,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.92,,,,Full,08.04.2016,,,,,"12 units completed, 24 under construction",30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Mill Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1203a,"Mill Street,
 Great Bridge",397670,292390,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.87,,,,Other,2012,,,,,Allocated part of site,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Elbow Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1376,"Elbow Street,
 Old Hill",395619,286472,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.72,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Whitehall Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1380,"Whitehall Road,
 Great Bridge",398074,291983,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.41,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Bell Street/Dudley Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1401,"Bell Street/Dudley Road,
 Tipton",395106,292120,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.62,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"St Annes Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1436,"St Annes Road,
 Cradley Heath",394332,286232,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.13,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Lower High Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1437,"Lower High Street,
 Cradley Heath",393996,285816,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.40,,,,Full,27.03.2015,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Social Club
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1438,"Social Club
 Friar Park Farm,
 Kent Road,
 Wednesbury",400794,295773,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.96,Public Ownership,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"John Street North,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1440,"John Street North,
 West Bromwich",399892,291968,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.47,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Working Mens Club,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1443,"Working Mens Club,
 Cardigan Close,
 West Bromwich",400194,293024,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.14,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"(Site of Former Primrose Centre),                                               Holly Lane Clinic,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1446,"(Site of Former Primrose Centre),                                               Holly Lane Clinic,
 St. Pauls Road,
 Smethwick",401343,289192,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.18,Not in Public Ownership,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Station Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1448,"Station Street,
 Tipton",396618,292006,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.35,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Wellington Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1449,"Wellington Road,
 Tipton",396453,291923,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.86,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"28-64 High Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1451,"28-64 High Street,
 West Bromwich",401044,290609,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.04,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Sandwell College,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1456,"Sandwell College,
 Smethwick Campus,
 Crocketts Lane,
 Smethwick",402391,288347,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.41,Not in Public Ownership,,,Full,21.03.2016,,,,,85 under construction,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Bank Street (West),
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1459,"Bank Street (West),
 Hateley Heath",400504,292742,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.85,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Waterfall Lane (West),
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1461,"Waterfall Lane (West),
 Cradley Heath",396288,285996,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.46,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Lower City Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1463,"Lower City Road,
 Oldbury",397789,290173,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.33,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Units 1-7 Wellesley Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1698,"Units 1-7 Wellesley Road,
 Oldbury",400004,288809,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.26,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Former Starlight Auto Sales
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1919,"Former Starlight Auto Sales
 Wolverhampton Road
 Oldbury",398939,287425,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.23,,,,Other,2012,,,,,Allocated,,,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site Of Former Black Country Man
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1987,"Site Of Former Black Country Man
 29 Lower Church Lane
 Horseley Heath
 Tipton",396733,292219,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.14,,,,Full,13.02.2017,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land And Premises At Winkle Street And John Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1994,"Land And Premises At Winkle Street And John Street,
 West Bromwich",399941,291835,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.01,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Tudor Works,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,1997,"Tudor Works,
 36A Windmill Lane,
 Smethwick, B66 3EU",402965,288018,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.25,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land Between No.32 And George Betts School,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2013,"Land Between No.32 And George Betts School,
 West End Avenue,
 Smethwick",400510,289326,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.29,Public Ownership,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Oak Garage,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2016,"Oak Garage,
 63 Gospel Oak Road,
 Gospel Oak",396976,294044,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.55,,,,Full,20.05.2013,,,,,10 units completed,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land Off
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2035,"Land Off
 Alexandra Road/Spring Street,
 Tipton",396212,292428,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.20,,,,Outline,22.07.2015,,,,,8 units already completed,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"The Lagoon,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2043,"The Lagoon,
 159 High Street,
 Princes End,
 Tipton",395847,293875,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.13,,,,Outline,08.12.2014,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Block A And Block B Brunswick Park Trading Estate,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2085,"Block A And Block B Brunswick Park Trading Estate,
 Brunswick Park Road,
 Wednesbury",399775,295716,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.39,,,,Full,31.03.2008,,,,,12 units completed,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land at 12 Grange Road and The Wharf PH
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2172,"Land at 12 Grange Road and The Wharf PH
 Grange Road
 Cradley Heath",396476,285946,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.00,,,,Other,2012,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land at Mill Lane,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2192,"Land at Mill Lane,
 Oldbury",399507,288041,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.40,,,,Outline,21.03.2016,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land adjacent to 2 Clifford Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2193,"Land adjacent to 2 Clifford Road,
 West Bromwich",399593,290377,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.07,,,,Full,25.04.2013,,,,,All units under construction,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"The Boat Gauging House & Adjoining Land,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2227,"The Boat Gauging House & Adjoining Land,
 Factory Road,
 tipton, DY4 9AU",395109,252659,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.57,,,,Full,17.08.2015,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"United Steels Limited,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2232,"United Steels Limited,
 Upper Church Lane,
 Princes end,",396074,293376,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.58,,,,Outline,26.09.2014,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Haden Cross,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2253,"Haden Cross,
 Halesowen Road,
 Cradley Heath",396073,285522,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.50,,,,Outline,02.11.2015,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Sentinel Plastics Limited, 39 Wrights Lane,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2259,"Sentinel Plastics Limited, 39 Wrights Lane,
 Cradley Heath,
 B64 6QY",396009,286428,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.27,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"2-4 Cape Hill
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2284,"2-4 Cape Hill
 Smethwick",402683,287647,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.04,,,,Full,01.12.2015,,,,,DC/15/58733,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Alexandra Road / Upper Church Lane / Locarno Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2367,"Alexandra Road / Upper Church Lane / Locarno Road,
 Tipton",396187,292633,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,3.40,,,,Full,23.06.2011,,,,,128units completed,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Central Avenue,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2368,"Central Avenue,
 The existing Summerhill Primary School,
 Tipton",396017,292838,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.09,Public Ownership,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land at Tibbington Terrace,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2369,"Land at Tibbington Terrace,
 Former Princes End Primary School,
 Tipton",395476,293374,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.75,Public Ownership,,,Full,18.05.2016,,,,,"23 units completed, 3 under construction",30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Bradleys Lane / High Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2370,"Bradleys Lane / High Street,
 Tipton",395322,293779,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,5.60,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"North Smethwick Canalside,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2371,"North Smethwick Canalside,
 Smethwick",402401,288853,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,8.77,Public Ownership,,,Other,2012,,,,,Part SMBC and part private,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Rabone Lane,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2372,"Rabone Lane,
 Smethwick",402783,288791,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,5.98,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Cranford Street (SME5) residential allocation,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2373,"Cranford Street (SME5) residential allocation,
 Smethwick",403548,288407,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,7.08,,,,Full,15.11.2012,,,,,80 under construction,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Lyng Industrial Estate,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2375,"Lyng Industrial Estate,
 West Bromwich",400401,290775,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,10.22,Public Ownership,,,Other,2012,,,,,Few small plots in SMBC ownership,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Carters Green / Gun Lane,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2377,"Carters Green / Gun Lane,
 West Bromwich",399752,291649,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.09,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Claypit Lane / Wattle Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2379,"Claypit Lane / Wattle Road,
 West Bromwich",399143,291555,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,6.50,,,,Full,17.05.2013,,,,,137 units completed,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Oxford Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2380,"Oxford Road,
 West Bromwich",399848,291252,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,3.10,Public Ownership,,,Full,20.10.2016,,,,,"93 units complete, 8 under construction",30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Bus Depot Oak Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2381,"Bus Depot Oak Road,
 West Bromwich",399722,291153,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.47,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Oldbury Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2384,"Oldbury Road,
 West Bromwich",398566,291347,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,16.82,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Brandon Way / Albion Road (WB C4),
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2385,"Brandon Way / Albion Road (WB C4),
 West Bromwich",399002,291240,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,6.20,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Brandon Way / Brandon Close,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2387,"Brandon Way / Brandon Close,
 West Bromwich",399470,290542,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.05,Not in Public Ownership,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Church Lane / Gladstone Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2389,"Church Lane / Gladstone Street,
 West Bromwich",400246,292603,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.75,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Sandwell District & General Hospital,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2390,"Sandwell District & General Hospital,
 West Bromwich",400890,292079,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,3.08,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"116/117 Graingers Lane
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2396,"116/117 Graingers Lane
 Cradley Heath",394385,285823,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.04,,,,Full,26.09.2008,,,,,under construction,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Cradley Print Limited,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2402,"Cradley Print Limited,
 18 Chester Road,
 Cradley Heath",394190,285758,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.06,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Former Dept of Social Security,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2423,"Former Dept of Social Security,
 Church Hill Street,
 Smethwick",401967,288504,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.50,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land adjacent 16 & 23 eagle Close &
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2445,"Land adjacent 16 & 23 eagle Close &
 Land between 39 & Day Centre Harves Road,
 Rowley Regis",396288,287538,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.16,Not in Public Ownership,,,Full,06.01.2009,,,,,"6 completed, 16 under construction",30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Cottage Spring,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2450,"Cottage Spring,
 97 Alexandra Road,
 Tipton,
 West Midlands, DY4 8TD",396139,292460,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.12,,,,Full,30.03.2017,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Newcomen Drive,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2463,"Newcomen Drive,
 Tipton",395790,291321,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,7.60,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site of 50 Former Valentin Restaurant,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2498,"Site of 50 Former Valentin Restaurant,
 Newbury Lane,
 Oldbury",398109,288855,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.20,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Brindley II, Land between Lewisham Rd/ Mafeking Rd and
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2516,"Brindley II, Land between Lewisham Rd/ Mafeking Rd and
 Birmingham Canal,
 Smethwick",402470,289102,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,5.15,,,,Full,30.03.2017,,,,,All under construction,30/06/2016,01/12/2017,
-,,,"Extension to Caravan Site
+,,2583,"Extension to Caravan Site
 Brierley Lane
 Bilston
 WV14 8TU",395221,294667,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.38,,,,Full,26.05.2009,,,,,16 plots completed,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Abberley Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2588,"Abberley Street,
 Smethwick",403664,287872,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.66,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"South of Cranford Street and Heath Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2590,"South of Cranford Street and Heath Street,
 Smethwick",403701,288181,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,3.21,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Haden Cross Drive,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2625,"Haden Cross Drive,
 Cradley Heath",396177,285437,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.56,,,,Outline,26.08.2014,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"50-52 Sandwell Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2712,"50-52 Sandwell Road,
 West Bromwich, B70 8TG",400220,291688,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.21,,,,Full,13.07.2015,,,,,11 units under construction,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Bolton Court (former Site Of Maisonettes),
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2715,"Bolton Court (former Site Of Maisonettes),
 Ocker Hill Road,
 Tipton",397195.28,293799,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.98,Public Ownership,,,Full,13.09.2016,,,,,All under construction,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Eastern Gateway Development Site
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2820,"Eastern Gateway Development Site
 High Street
 West Bromwich",400868,290950,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.18,,,,Full,09.02.2015,,,,,96 units completed,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site Of 18A Church Vale,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2886,"Site Of 18A Church Vale,
 West Bromwich",401026,292349,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.05,,,,Full,30.11.2010,,,,,All under construction,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Former Sunlight Laundry,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2893,"Former Sunlight Laundry,
 Standhope Road,
 Smethwick,
 B67 6HN",402053,287312,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.73,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Darlaston Road/Old Park Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2906,"Darlaston Road/Old Park Road,
 Kings Hill,
 Wednesbury",398321,295686,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,5.20,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site Of 30-144 & Open Space,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2908,"Site Of 30-144 & Open Space,
 Mounts Road,
 Wednesbury",398944,294674,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.07,Not in Public Ownership,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Leabrook Road/Willingsworth Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2910,"Leabrook Road/Willingsworth Road,
 Tipton",397662,294250,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.37,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Mounts Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2911,"Mounts Road,
 Wednesbury",398987,294603,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.10,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land between Tinsley St and Whitehall Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2915,"Land between Tinsley St and Whitehall Road,
 Tipton",398016,292284,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.28,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Whitehall Road Industrial Estate,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2916,"Whitehall Road Industrial Estate,
 West Bromwich",398111,292217,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.51,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land Between Whitehall Road and Walsall Canal,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2917,"Land Between Whitehall Road and Walsall Canal,
 Great Bridge",398111,292217,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.64,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land to east of Black Lake,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2919,"Land to east of Black Lake,
 West Bromwich",399554,399554,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.45,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Old Park Trading Estate site,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2922,"Old Park Trading Estate site,
 on Old Park Road,
 Wednesbury",398404,295589,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.60,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site off Mounts Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2925,"Site off Mounts Road,
 Wednesbury",398859,294568,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.49,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site on the corner of Bridge Street & Mounts Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2926,"Site on the corner of Bridge Street & Mounts Road,
 Wednesbury",398918,294426,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,3.15,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site on the corner of Woden Road South & Bridge St,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2927,"Site on the corner of Woden Road South & Bridge St,
 Wednesbury",398968,294314,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.61,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site on corner of New Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2929,"Site on corner of New Street,
 Hill Top,
 West Bromwich",399267,293095,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.11,Public Ownership,,,Other,2012,,,,,Part SMBC and part private,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Pembroke Way
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2930,"Pembroke Way
 Hateley Heath
 West Bromwich",399852,293171,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.30,,,,Other,2012,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Garage on Whitehall Road
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2931,"Garage on Whitehall Road
 Great Bridge",397957,292268,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.14,,,,Other,2012,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Leabrook Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2933,"Leabrook Road,
 Wednesbury",397552,294579,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.17,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site on New Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2934,"Site on New Road,
 Great Bridge",397599,292756,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.40,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"CBF Ltd,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2936,"CBF Ltd,
 Wade Building Services,
 Groveland Road",396739,291047,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.29,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Fisher St / Coneygre Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2937,"Fisher St / Coneygre Road,
 Tipton",396185,291232,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.70,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Castle Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2938,"Castle Street,
 Tipton",395153,291984,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.49,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Lower City Road / Dudley Rd East,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2939,"Lower City Road / Dudley Rd East,
 Oldbury",397809,290374,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.56,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Rattlechain Site Land to the north of
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2940,"Rattlechain Site Land to the north of
 Temple Way,
 Tividale",397529,291218,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,9.21,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Castle Street / High Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2942,"Castle Street / High Street,
 Tipton",395215,292122,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.66,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Coneygre Road/ Burnt Tree,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2943,"Coneygre Road/ Burnt Tree,
 Tipton",396257,291359,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.11,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Birmingham Board Co Ltd,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2944,"Birmingham Board Co Ltd,
 Dudley Road East,
 Oldbury",398468,289915,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.99,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"land off dudley Rd,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2945,"land off dudley Rd,
 Oldbury",398603,289812,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.96,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site surrounding former Post office and
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2946,"Site surrounding former Post office and
 Telephone exchange,
 Horseley heath,
 tipton",397191,292252,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.63,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site on Railway Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2947,"Site on Railway Street,
 Horseley Heath,
 Tipton",397191,292252,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.35,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"industrial Site on Salem St,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2948,"industrial Site on Salem St,
 Great Bridge,
 Tipton",397790,292153,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.17,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"British Gas Plc, Land off Dudley Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2949,"British Gas Plc, Land off Dudley Road,
 Oldbury",398501,289862,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.04,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land Adj to Cleton business Park,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2950,"Land Adj to Cleton business Park,
 Tipton Rd,
 Tipton",396803,291072,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.56,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Vaughan Trading Estate
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2951,"Vaughan Trading Estate
 Tipton",396794,291373,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.50,,,,Oter,2012,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Lower Church Lane,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2952,"Lower Church Lane,
 Tipton",396568,292445,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.76,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Sedgley Rd West,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2953,"Sedgley Rd West,
 High Street,
 Tipton",395075,292402,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.12,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,Unit 1 Groveland Road,396622,290750,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.36,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Upper Chapel St/ Brittania St/
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2955,Unit 1 Groveland Road,396622,290750,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.36,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2956,"Upper Chapel St/ Brittania St/
 70 - 74 dudley Rd West",396790,290726,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.63,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Dudley Rd / 28 Dudley Rd ,West",397123,290712,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.78,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Tipton Rd,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2957,"Dudley Rd / 28 Dudley Rd ,West",397123,290712,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.78,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2958,"Tipton Rd,
 Oldbury",397196,290773,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.76,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,Groveland Rd,396718,290903,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.18,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land between Great Bridge Street & William Street
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2963,Groveland Rd,396718,290903,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.18,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2965,"Land between Great Bridge Street & William Street
 Tipton",398385,292249,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.92,,,,Other,2012,,,,,,,,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Alexandra Industrial Est
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2966,"Alexandra Industrial Est
 Locarno Rd / Alexandra Rd,
 Tipton",395948,292479,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.20,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site between Charles Street & Walsall Canal,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2967,"Site between Charles Street & Walsall Canal,
 Great Bridge",398186,292267,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.18,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Dudley Rd West,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2969,"Dudley Rd West,
 Oldbury",396717,290776,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.46,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Hurst Lane / Birmingham Canal / Sedgley Road
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2971,"Hurst Lane / Birmingham Canal / Sedgley Road
 West
 tipton",394962,292526,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.19,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Used Car Sales site on corner of Lower Church Lane
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2972,"Used Car Sales site on corner of Lower Church Lane
 and Horseley Heath
 Tipton",396854,291949,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.56,,,,Other,2012,,,,,,,,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Burnt Tree Ind Est,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2973,"Burnt Tree Ind Est,
 Groveland rd",396645,290809,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.82,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,88/90 dudley Rd West,396736,290751,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.37,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Clay Lane,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2974,88/90 dudley Rd West,396736,290751,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.37,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2980,"Clay Lane,
 Oldbury",399124,287906,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.28,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land at Portway Road & Hawes Lane,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2982,"Land at Portway Road & Hawes Lane,
 Tippity Green,
 Rowley Regis",396739,287680,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.13,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land at Tippity Green ,Portway Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2983,"Land at Tippity Green ,Portway Road,
 Allsops Hill,
 Rowley Regis",396778,287846,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.38,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land at Tippity Green
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2984,"Land at Tippity Green
 Rowley Regis",397092,287944,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,4.34,,,,Other,2012,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"STW/SMBC Land,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2985,"STW/SMBC Land,
 Friar Park Road,
 Wednesbury",400725,295372,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,27.87,Public Ownership,,,Other,2012,,,,,Part SMBC and part private,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Friar Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2986,"Friar Street,
 Wednesbury",399905,295216,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.01,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Wolverhampton Road and Anvil Drive,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2987,"Wolverhampton Road and Anvil Drive,
 Oldbury
 B69 2JW",398322,288810,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.31,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Fitzgerald Lighting LTD
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2990,"Fitzgerald Lighting LTD
 Rood End Road,
 Oldbury,
 B69 4HT",400239,289170,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.39,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Oldbury Road Industrial Estate,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2994,"Oldbury Road Industrial Estate,
 Oldbury Road,
 Smethwick,
 B66 1JE",400888,289344,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.57,Public Ownership,,,Other,2012,,,,,Part SMBC and part private,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Thompson Road
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2996,"Thompson Road
 Oldbury
 B68 8QE",399561,287999,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.16,,,,Other,2012,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Cape Hill/ Durban Street/ Raglan Road
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,2997,"Cape Hill/ Durban Street/ Raglan Road
 Smethwick
 B66 4SH",403229,287774,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.97,,,,Other,2012,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Rear of Council House,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3002,"Rear of Council House,
 High Street,
 Smethwick, B66 3NT",402360,288140,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.37,Public Ownership,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Tatbank Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3009,"Tatbank Road,
 Oldbury,
 B69 4NB",399890,288564,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.15,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Corngreaves Road (City Estate
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3010,"Corngreaves Road (City Estate
 Hillcrest Ind Estate), Palmers Garage",394786,285674,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.80,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Langley Maltings,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3011,"Langley Maltings,
 Western Road,
 Langly,
 B69 4LY",399613,288297,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.72,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Giles Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3012,"Giles Road,
 Oldbury,
 B68 8JQ",399882,288521,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.25,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"JAS Industrial Park,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3013,"JAS Industrial Park,
 Titford Lane,
 Oldbury,
 B65 0PY",398395,287676,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.93,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Oldbury Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3014,"Oldbury Road,
 Oldbury,
 B66 1NJ",400522,289372,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.89,Public Ownership,,,Other,2012,,,,,Few small areas in SMBC ownership,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"104-110 Oldbury Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3015,"104-110 Oldbury Road,
 Smethwick
 B66 1JE",400888,289344,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.68,Public Ownership,,,Other,2012,,,,,Part SMBC and part private,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"230 Oldbury Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3016,"230 Oldbury Road,
 B66 1NR",400116,289342,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.48,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,Station Road (South),396299,285903,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.95,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Broadcott Industrial Estate,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3019,Station Road (South),396299,285903,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.95,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3020,"Broadcott Industrial Estate,
 and Broadwyn Trading
 Estate, Waterfall
 Lane/Station Road, Old Hill.",396152,286029,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.40,Not in Public Ownership,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"80,82,85 & 90a Waterfall
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3021,"80,82,85 & 90a Waterfall
 Lane & 99 to 125 (odds)
 Station Road, Cradley Heath",396245,285970,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.35,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Macarthur Road Industrial
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3023,"Macarthur Road Industrial
 Estate, Cradley Heath",394226,285515,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.32,Public Ownership,,,Other,2012,,,,,Small area is private,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Silverthorne Lane/ Forge
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3025,"Silverthorne Lane/ Forge
 Lane, Cradley Heath",393760,285875,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.82,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Station Street / Graingers
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3026,"Station Street / Graingers
 Lane, Cradley Heath",394446,285745,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.30,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"The Bridge Trading Centre
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3027,"The Bridge Trading Centre
 Cokeland Place /
 Corngreaves Road,
 Cradley Heath",394662,285801,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.57,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Cradley Road, Lower High
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3029,"Cradley Road, Lower High
 Street, Cradley Heath",394264,285807,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.99,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Station Street / Cradley
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3031,"Station Street / Cradley
 Road, Cradley Heath (opp
 Majestic Cinema)",394446,285745,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.29,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Oldfield Trading Estate,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3032,"Oldfield Trading Estate,
 Oldfields, Cradley Heath",394805,285857,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.64,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Providence Street (Land
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3034,"Providence Street (Land
 bounded by Newtown
 Lane, Mousesweet Brook,
 & Foxoak Street), Cradley Heath.",394525,286331,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,4.81,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Cradley Heath Factory Centre,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3040,"Cradley Heath Factory Centre,
 Woods Lane,
 Cradley Heath, B64 7AQ",394003,285602,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,8.11,,,,Outline,23.03.2016,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Cokeland Place / Graingers
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3041,"Cokeland Place / Graingers
 Lane, Cradley Heath",394610,285790,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.38,Public Ownership,,,Other,2012,,,,,Part SMBC and part private,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Palmers Timber site, Station
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3043,"Palmers Timber site, Station
 Road, Old Hill",396246,285751,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.95,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Jewson Limited, 89 - 105
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3044,"Jewson Limited, 89 - 105
 High  Rowley, Regis",396936,286484,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.35,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land at Newton Rd,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3048,"Land at Newton Rd,
 Great Barr",403207,293865,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.30,Public Ownership,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land between Addington Way and River
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3049,"Land between Addington Way and River
 Tame, Temple Way (Rattlechain)",397814,291077,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.90,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Mill Lane/ Langley Green Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3128,"Mill Lane/ Langley Green Road,
 Oldbury",399350,287980,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.23,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Batman's Hill Pupil Referral Unit,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3138,"Batman's Hill Pupil Referral Unit,
 Adams Close, Princes End",395557,294086,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.63,,,,Full,22.09.2014,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Former school site, Doulton Road, Rowley Regis",396206,287898,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.06,,,,Full,27.05.2016,,,,,18 under construction,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land at Doulton Way,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3139,"Former school site, Doulton Road, Rowley Regis",396206,287898,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.06,,,,Full,27.05.2016,,,,,18 under construction,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3140,"Land at Doulton Way,
 between Factory Road,
 Bloomfield Road, & railway line, Tipton.",395204,292737,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.62,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Corner of Batmans Hill
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3141,"Corner of Batmans Hill
 Road and Hobart Road,
 Princes End, Tipton",395403,294294,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.23,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Spinners End Industrial, Estate",394918,285917,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.71,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Former Fisheries Site,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3142,"Spinners End Industrial, Estate",394918,285917,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.71,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3153,"Former Fisheries Site,
 Union Road,
 Oldbury",398349,290437,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.13,,,,Full,05.12.2012,,,,,5 units completed,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"The Mill,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3185,"The Mill,
 Beaconview Road,
 West Bromwich",401752,294249,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.23,,,,Full,18.01.2016,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land & premises,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3219,"Land & premises,
 Barnfield Road,  Brook
 Street & Bloomfield Road.",395147,292967,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.76,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,Brown Lion Street/ Bloomfield Road,395195,293420,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.45,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site between Bloomfield
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3220,Brown Lion Street/ Bloomfield Road,395195,293420,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.45,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3221,"Site between Bloomfield
 Road, Fountain Lane &
 Bradleys Lane, Tipton,
 West Midlands",395212,293570,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.50,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Summerton Road, Oldbury",398051,290033,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.41,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"10 - 60 Dudley Road East,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3223,"Summerton Road, Oldbury",398051,290033,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.41,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3224,"10 - 60 Dudley Road East,
 Oldbury",397397,290450,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.00,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Fox Oak Street/ St Annes Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3225,"Fox Oak Street/ St Annes Road,
 Kawasaki Garage",394334,286085,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.40,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Bank Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3226,"Bank Street,
 West of Kimber Drop
 forgings Site, Cradley Heath",394447,286207,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.16,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Hall Green Road,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3227,"Hall Green Road,
 West Bromwich",400885,294395,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,5.20,,,,Reserved Matters,20.05.2016,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Yard adjacent Waterside Court,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3260,"Yard adjacent Waterside Court,
 Titford Road,
 Oldbury, B69 4QW",398641,287713,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.04,,,,Outline,07.01.2016,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site Of Former Londonderry Public House,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3283,"Site Of Former Londonderry Public House,
 Basons Lane,
 Oldbury",400715,288252,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.50,,,,Full,21.06.2012,,,,,"7 units completed, 7 under construction",30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site Of 180-190,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3310,"Site Of 180-190,
 Dudley Road,
 Rowley Regis",396242,288085,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.15,,,,Full,20.06.2012,,,,,8 units under construction,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Firth Cleveland,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3398,"Firth Cleveland,
 Locarno Road,
 Tipton",396049,292580,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.42,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Harvills Hawthorn PFI,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3416,"Harvills Hawthorn PFI,
 Harvills Hawthorn,
 West Bromwich",398712,293018,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,6.25,,,,Full,12.04.2017,,,,,"93 units completed, 38 under construction",30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Throne Road/Newbury Lane,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3422,"Throne Road/Newbury Lane,
 Rowley Regis",397510,288376,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,4.15,,,,Full,17.02.2017,,,,,"45 completed, 8 under construction",30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,Unett Atreet/ Raglan Road,403301,287882,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,4.60,,,,Other,2012,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Lower High Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3462,Unett Atreet/ Raglan Road,403301,287882,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,4.60,,,,Other,2012,,,,,,01/12/2017,01/12/2017,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3467,"Lower High Street,
 (Station hotel & Dunns Site).",394043,285778,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.28,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Johal Supersave,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3500,"Johal Supersave,
 90 Oxford Street,
 Wednesbury, WS10 0PY",399680,294985,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.01,,,,Full,01.05.2015,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Norbert Dentressangle,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3506,"Norbert Dentressangle,
 Doulton Road,
 Rowley Regis",395657,287949,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,5.22,,,,Full,20.10.2016,,,,,"13 completed, 74 under construction",30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Edwin Richards Quarry,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3507,"Edwin Richards Quarry,
 Portway Road,
 Rowley Regis",396849,288360,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,51.22,,,,Outline,,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site of lock up garages,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3518,"Site of lock up garages,
 Land between 8 and 10 Melrose Avenue,
 West Bromwich",400775,294007,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.18,,,,Full,19.07.2013,,,,,"4 completed, 5 under construction",30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site of Former Cradley Heath Nursery School
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,3534,"Site of Former Cradley Heath Nursery School
 Graingers Lane
 Cradley Heath",394435,285863,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.17,,,,Full,15.02.2013,,,,,"6 complete, 5 under construction",01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Former Doctors Surgery
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,4774,"Former Doctors Surgery
 56 Lower High Street
 Wednesbury",398837,294798,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.05,,,,Full,13.01.2017,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Former Perrott Arms
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5038,"Former Perrott Arms
 2 Birmingham Road
 Oldbury,",399301,289422,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.21,,,,Full,16.03.2017,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"312 - 314 High Street
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5070,"312 - 314 High Street
 West Bromwich
 B70 8EN",400321,291336,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.05,,,,Full,27.04.2017,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"59 High Street, Rowley Regis,",397066,286417,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.09,,,,Full,12.12.2013,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Portway Road, Wednesbury, WS10 7DZ",398263,294842,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,10.70,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Nicholls Road, Tipton, DY4 9LG",397956,292458,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,3.96,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Brymill Industrial Estate, Brown Lion Street, Tipton",395308,293461,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.98,,,,Other,2012,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,Open space on Mounts Road Wednesbury,399063,294559,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.35,,,,Outline,04.02.2015,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Phase 9, The Parkway, site between Stafford St, Victoria St & Potters Lane, Wednesbury",398406,294701,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.94,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Potters Lane / Great Western Street, Wednesbury, WS10 7LH",398339,294653,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.17,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Victoria Street / Albert Street, Wednesbury, WS10 7EH",398468,294744,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.19,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Between 12-20, Joinings Bank, Langley, Oldbury, B68 8QJ",399877,287911,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.10,,,,Full,21.11.2014,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Barnfield Trading Estate, Tipton",395268,293029,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.24,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Vector Industrial Park
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5099,"59 High Street, Rowley Regis,",397066,286417,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.09,,,,Full,12.12.2013,,,,,,01/12/2017,01/12/2017,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5129,"Portway Road, Wednesbury, WS10 7DZ",398263,294842,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,10.70,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5138,"Nicholls Road, Tipton, DY4 9LG",397956,292458,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,3.96,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5139,"Brymill Industrial Estate, Brown Lion Street, Tipton",395308,293461,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.98,,,,Other,2012,,,,,,01/12/2017,01/12/2017,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5158,Open space on Mounts Road Wednesbury,399063,294559,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.35,,,,Outline,04.02.2015,,,,,,01/12/2017,01/12/2017,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5265,"Phase 9, The Parkway, site between Stafford St, Victoria St & Potters Lane, Wednesbury",398406,294701,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.94,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5301,"Potters Lane / Great Western Street, Wednesbury, WS10 7LH",398339,294653,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.17,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5381,"Victoria Street / Albert Street, Wednesbury, WS10 7EH",398468,294744,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.19,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5432,"Between 12-20, Joinings Bank, Langley, Oldbury, B68 8QJ",399877,287911,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.10,,,,Full,21.11.2014,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5450,"Barnfield Trading Estate, Tipton",395268,293029,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,2.24,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5556,"Vector Industrial Park
 Church Lane,
 West Bromwich, B71 1DQ",400049,292717,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,5.20,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Brook Street Business Centre , Brook Street Community Centre, 196- 200 Bloomfield Road, DY4 9",395173,292893,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.50,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site between Great Western St & Potters Lane, Wednesbury, WS10 7LP",398266,294689,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.14,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land between Potters Lane & Stafford St Wednesbury, WS10 7LP",398347,294741,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.85,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site between Dudley St & Victoria St,  Wednesbury, WS10 7LL",398418,294801,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.18,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site on Stafford St, Wednesbury, WS10 7JX",398567,294583,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.45,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land at Potters Lane, Wednesbury, WS10 7NR",368435,294564,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.74,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Waterloo Hotel
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5623,"Brook Street Business Centre , Brook Street Community Centre, 196- 200 Bloomfield Road, DY4 9",395173,292893,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.50,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5641,"Site between Great Western St & Potters Lane, Wednesbury, WS10 7LP",398266,294689,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.14,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5642,"Land between Potters Lane & Stafford St Wednesbury, WS10 7LP",398347,294741,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.85,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5643,"Site between Dudley St & Victoria St,  Wednesbury, WS10 7LL",398418,294801,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.18,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5646,"Site on Stafford St, Wednesbury, WS10 7JX",398567,294583,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.45,,,,Other,2012,,,,,,30/06/2016,01/12/2017,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5648,"Land at Potters Lane, Wednesbury, WS10 7NR",368435,294564,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.74,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5908,"Waterloo Hotel
 Waterloo Road
 Smethwick",402774,287626,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.02,,,,Full,14.11.2013,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land Adjacent 8
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5913,"Land Adjacent 8
 Addison Street,
 Wednesbury",398964,294852,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.12,,,,Full,17.07.2015,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"The Maltings
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5914,"The Maltings
 2 Anderson Road
 Smethwick",402407,286176,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.44,,,,Full,09.09.2013,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Nags Head
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5938,"Nags Head
 34 Market Place
 Tipton",397614,292440,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.07,,,,Full,14.11.2014,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"416 High Street
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5954,"416 High Street
 West Bromwich",399951,291652,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.34,,,,Full,10.10.2016,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"St Pauls Office,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5987,"St Pauls Office,
 253 High Street,
 Smethwick, B66 3NJ",402267,288268,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.10,,,,Full,19.12.2014,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Red House,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,5993,"Red House,
 Hill Lane,
 Great Barr,
 Birmingham, B43 6LZ",404105,294529,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.43,,,,Full,18.02.2015,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site Of Former Bridge Pub,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6061,"Site Of Former Bridge Pub,
 Station Road,
 Oldbury",399472,288179,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.10,,,,Full,09.07.2015,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Former Cape Hill Brewery Pump House
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6076,"Former Cape Hill Brewery Pump House
 Cape Hill
 Smethwick",403273,403273,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.14,,,,Full,03.07.2015,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"The Field House,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6079,"The Field House,
 Johns Lane,
 Tipton, DY4 7PT",397152,291741,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.52,,,,Full,06.11.2015,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"D S Devey , Tividale Street, Tipton",396204,291093,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.10,,,,Full,12.01.2015,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"3 Bull Street West, Bromwich Ringway,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6109,"D S Devey , Tividale Street, Tipton",396204,291093,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.10,,,,Full,12.01.2015,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6134,"3 Bull Street West, Bromwich Ringway,
 West Bromwich, B70 6EU",400797,290995,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.03,,,,Full,12.12.2013,,,,,5 units under construction,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"1-5, 8-17, 21, 72, 73 Market Square
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6178,"1-5, 8-17, 21, 72, 73 Market Square
 High Street
 Cradley Heath",394450,285963,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.17,,,,Full,20.07.2015,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Former Beer Garden Of Old Blue Ball,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6196,"Former Beer Garden Of Old Blue Ball,
 19 Hall End,
 Wednesbury, WS10 9ED",398598,295462,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.11,,,,Full,06.05.2016,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"West Cross Centre, Oldbury Road/Mallin Street,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6206,"West Cross Centre, Oldbury Road/Mallin Street,
 Smethwick",400784,289351,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.06,,,,Other,2012,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Former West Midlands Fire Service
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6211,"Former West Midlands Fire Service
 Cradley Heath Fire Station
 Mace Street
 Cradley Heath",395448,286331,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.09,,,,Full,08.12.2015,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Land Between The New Lodge And The Old Lodge
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6214,"Land Between The New Lodge And The Old Lodge
 Thimblemill Road
 Smethwick",401416,287214,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.70,,,,Full,21.04.2015,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Site Of 239 To 243
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6237,"Site Of 239 To 243
 Titford Road,
 Oldbury",398848,287898,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.10,,,,Full,02.10.2015,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"87 Whitehall Road And Land Adjacent To,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6261,"87 Whitehall Road And Land Adjacent To,
 West Bromwich, B70 0HG",398276,291580,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.21,,,,Full,22.12.2015,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Former Car Park & Bowling Green ,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6273,"Former Car Park & Bowling Green ,
 Land Rear Of 54 Sandwell Road,
 West Bromwich, B70 8TG",400272,291716,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.13,,,,Full,08.04.2016,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"80 - 82 High Street
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6276,"80 - 82 High Street
 Smethwick",401881,288803,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.05,,,,Full,13.06.2016,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Car Park, Junction Piddock Road/Crocketts Lane, Smethwick",402395,288441,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.24,,,,Full,21.03.2016,,,,,,30/06/2016,30/06/2016,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"The Old Post Office
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6279,"Car Park, Junction Piddock Road/Crocketts Lane, Smethwick",402395,288441,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.24,,,,Full,21.03.2016,,,,,,30/06/2016,30/06/2016,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6291,"The Old Post Office
 325 High Street
 West Bromwich",400277,291456,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.08,,,,Full,13.01.2016,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"81 Birmingham Road
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6313,"81 Birmingham Road
 West Bromwich",401289,290510,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.21,,,,Full,20.05.2016,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"9 & Land Adj Station Street
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6316,"9 & Land Adj Station Street
 Cradley Heath",394378,285769,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.12,,,,Outline,13.03.2017,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Car Park
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6340,"Car Park
 Victoria Street
 West Bromwich",400370,291246,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.11,,,,Full,11.01.2017,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"60 Sandon Road
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6351,"60 Sandon Road
 Birmingham",402431,286376,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.05,,,,Full,15.12.2016,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Offices Above 15,16,17 & 20
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6367,"Offices Above 15,16,17 & 20
 West Cross Shopping Centre
 Oldbury Road
 Smethwick",400734,289341,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.07,,,,Full,21.11.2016,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"50 Churchfields Road (side Garden Land)
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6371,"50 Churchfields Road (side Garden Land)
 Wednesbury",399110,295752,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.02,,,,Outline,16.11.2016,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Former Public Car Park
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6373,"Former Public Car Park
 Crocketts Lane
 Smethwick",402446,288533,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.15,,,,Outline,10.11.2016,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"The Timbertree
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6386,"The Timbertree
 65A Valley Road
 Cradley Heath",395277,285378,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.16,,,,Full,29.09.2016,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"1 - 3 Murdock
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6389,"1 - 3 Murdock
 
 Smethwick",403702,288694,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.08,,,,full,22.12.2015,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"24 - 30 Claypit Lane
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6403,"24 - 30 Claypit Lane
 West Bromwich",399331,291896,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.19,,,,Outline,11.08.2016,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"107 All Saints Way
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6405,"107 All Saints Way
 
 West Bromwich",401063,292828,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.35,,,,Full,05.08.2016,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Hackwood House & Harry Price House
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6426,"Hackwood House & Harry Price House
 Hartlebury Road &
 Wallace House
 Badsey Road
 Oldbury",397642,288247,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.29,,,,Full,24.01.2017,,,,,7 units under construction,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Thynne Court
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6429,"Thynne Court
 Thynne Street
 West Bromwich
 B70 6PH",401091,290688,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.05,,,,Full,15.02.2017,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"Eastern Gateway South (WBPr16), West Bromwich",400839,290653,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.60,,,,Other,2012,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"George Street WBPr18, West Bromwich",400765,290748,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.74,,,,Other,2012,,,,,,01/12/2017,01/12/2017,
-http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,,"9 - 11 Causeway Green Road
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6441,"Eastern Gateway South (WBPr16), West Bromwich",400839,290653,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,1.60,,,,Other,2012,,,,,,01/12/2017,01/12/2017,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6442,"George Street WBPr18, West Bromwich",400765,290748,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.74,,,,Other,2012,,,,,,01/12/2017,01/12/2017,
+http://opendatacommunities.org/id/metropolitan-district-council/sandwell,Sandwell MBC,6463,"9 - 11 Causeway Green Road
 Oldbury",401157,289465,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,0.1,,,,Full,30.03.2017,,,,,,01/12/2017,01/12/2017,
