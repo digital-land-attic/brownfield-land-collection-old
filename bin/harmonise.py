@@ -150,7 +150,7 @@ def load_organisations():
 
 
 # deduce default OrganisationURI from path
-def set_default_organisation(path):
+def load_default_organisation(path):
     organisation = ""
     for row in csv.DictReader(open("index/resource-organisation.csv", newline="")):
         if row['resource'] in path:
@@ -158,6 +158,7 @@ def set_default_organisation(path):
                 organisation = row["organisation"]
             elif organisation != row["organisation"]:
                 # resource has more than one organisation
+                default_values["OrganisationURI"] = ""
                 return
     default_values["OrganisationURI"] = organisation_uri[organisation.lower()]
 
@@ -343,8 +344,6 @@ if __name__ == "__main__":
     load_organisations()
     load_field_value()
 
-    set_default_organisation(input_path)
-
     with open(output_path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -356,6 +355,10 @@ if __name__ == "__main__":
                 o[field] = normalise(field, row[field])
 
             o = normalise_geometry(o)
+
+            if not o["OrganisationURI"] and "OrganisationURI" not in default_values:
+                load_default_organisation(input_path)
+
             o = default(o)
 
             writer.writerow(o)
