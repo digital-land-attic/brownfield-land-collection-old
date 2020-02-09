@@ -67,7 +67,8 @@
                     "Brownfield Register Reference",
                     "LA SITE REF",
                     "SiteRefere",
-                    "Site reference"
+                    "Site reference",
+                    "Site Ref"
                 ],
                 "field": "site"
             }
@@ -153,11 +154,12 @@
             "type": "string",
             "format": "uri",
             "constraints": {
-                "required": true
+                "required": false
             },
             "digital-land": {
               "field": "site-plan-url",
               "typos": [
+                "Mapping link [SiteplanURL]",
                 "PLAN OF SITE",
                 "Site Plan",
                 "Site Plan URL",
@@ -188,7 +190,8 @@
                   "\\s*ha$"
                 ],
                 "typos": [
-                    "AREA (HA)"
+                    "AREA (HA)",
+                    "Site Area in ha"
                 ]
             }
         },
@@ -198,7 +201,7 @@
             "description": "The site\u2019s ownership",
             "type": "string",
             "constraints": {
-                "required": true,
+                "required": false,
                 "enum": [
                   "owned by a public authority",
                   "not owned by a public authority",
@@ -209,7 +212,8 @@
             "digital-land": {
                 "field": "ownership",
                 "typos": [
-                    "OwenrshipStatus"
+                    "OwenrshipStatus",
+                    "Ownership: PA_owner, not PA_own., mixed_o'ship, unknown"
                 ]
             }
         },
@@ -226,7 +230,10 @@
                 ]
             },
             "digital-land": {
-                "field": "hazardous-substances"
+                "field": "hazardous-substances",
+                "typos": [
+                  "Hazardous Substances [as identifiied in Appl. form]"
+                ]
             }
         },
         {
@@ -235,7 +242,7 @@
             "description": "The stage of the planning process the site is at",
             "type": "string",
             "constraints": {
-                "required": true,
+                "required": false,
                 "enum": [
                   "permissioned",
                   "not permissioned",
@@ -363,14 +370,15 @@
             "description": "The date that the site was first added to this register, in the format YYYY-MM-DD",
             "type": "date",
             "constraints": {
-                "required": true
+                "required": false
             },
             "digital-land": {
                 "field": "start-date",
                 "typos": [
                     "Date first entered on the register",
                     "DATE ENTERED ON REGISTER",
-                    "FirstAdded"
+                    "FirstAdded",
+                    "First Added Date"
                 ]
             }
         },
@@ -389,7 +397,8 @@
                 "field": "entry-date",
                 "typos": [
                   "DATE LAST UPDATED",
-                  "Date last updated on the register"
+                  "Date last updated on the register",
+                  "Last Updated Date"
                 ]
             }
         },

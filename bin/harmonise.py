@@ -31,6 +31,7 @@ resource = os.path.basename(os.path.splitext(input_path)[0])
 schema = json.load(open(schema_path))
 fields = {field["name"]: field for field in schema["fields"]}
 fieldnames = [field["name"] for field in schema["fields"]]
+required_fields = [field["name"] for field in schema["fields"] if field["constraints"].get("required", False)]
 
 organisation_uri = {}
 default_values = {}
@@ -327,6 +328,12 @@ def normalise(fieldname, value):
     return value
 
 
+def check(o):
+    for field in required_fields:
+        if not o.get(field, None):
+            log_issue(field, "missing", "")
+
+
 def default(o):
     for field in default_values:
         if not o[field]:
@@ -360,5 +367,7 @@ if __name__ == "__main__":
                 load_default_organisation(input_path)
 
             o = default(o)
+
+            check(o)
 
             writer.writerow(o)
