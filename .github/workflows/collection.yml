@@ -13,8 +13,6 @@ env:
   GITHUB_ACTOR_EMAIL: ${{ secrets.GITHUB_ACTOR_EMAIL }}
   GITHUB_ACTOR_TOKEN: ${{ secrets.GITHUB_ACTOR_TOKEN }}
   GITHUB_ACTOR_USERNAME: ${{ secrets.GITHUB_ACTOR_USERNAME }}
-  LANGUAGE: en_GB:en
-  LANG: en_GB.UTF-8
 
 jobs:
   build:

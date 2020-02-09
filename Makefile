@@ -3,9 +3,9 @@
 .DELETE_ON_ERROR:
 .SUFFIXES: .json
 
-# for collation
+# for consistent collation
 LANGUAGE := en_GB:en
-LANG := en_GB.UTF-8
+LANG := C
 
 DATASET_NAME=brownfield-land
 
