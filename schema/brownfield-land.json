@@ -383,6 +383,13 @@
                 "required": false
             },
             "digital-land": {
+                "concatenate": {
+                  "fields": [
+                    "DevelopmentDescription",
+                    "SiteInformation"
+                  ],
+                  "sep": "\n"
+                },
                 "field": "notes"
             }
         },
@@ -456,6 +463,7 @@
             "maximum-net-dwellings",
             "start-date",
             "end-date",
+            "notes",
             "resource"
         ]
     }
