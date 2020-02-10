@@ -63,8 +63,8 @@ def format_integer(value):
     return str(int(value))
 
 
-def format_decimal(value, precision=6):
-    return str(round(Decimal(value), precision).normalize())
+def format_decimal(value, precision=None):
+    return str(round(Decimal(value), precision or 6).normalize())
 
 
 def normalise_integer(field, value):
@@ -80,7 +80,7 @@ def normalise_integer(field, value):
 normalise_integer.regex = re.compile(r"\.0+$")
 
 
-def normalise_decimal(field, value, precision=6, minimum=None, maximum=None):
+def normalise_decimal(field, value, precision=None, minimum=None, maximum=None):
     try:
         d = Decimal(value)
     except Exception as e:
