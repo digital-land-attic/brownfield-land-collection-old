@@ -123,9 +123,15 @@
                 "field": "longitude",
                 "precision": 6,
                 "typos": [
+                  "BNG_Easting",
                   "GeoX (Longitude or east grid)",
                   "GeoX [East]",
-                  "Eastings"
+                  "Grid reference easting",
+                  "Easting",
+                  "Eastings",
+                  "Eastings (Geo X)",
+                  "OSEasting",
+                  "OSGB36Easting"
                 ]
             }
         },
@@ -141,9 +147,15 @@
                 "field": "latitude",
                 "precision": 6,
                 "typos": [
+                  "BNG_Northing",
                   "GeoY (Latitude or north grid)",
                   "GeoY [North]",
-                  "Northings"
+                  "Grid reference northing",
+                  "Northing",
+                  "Northings",
+                  "Northings (Geo Y)",
+                  "OSNorthing",
+                  "OSGB36Northing"
                 ]
             }
         },
@@ -179,7 +191,9 @@
             "description": "The land area of the site in hectares, up to 2 decimal places.",
             "type": "number",
             "constraints": {
-                "required": true
+                "required": true,
+                "minimum": 0.0001,
+                "maximum": 5000.0
             },
             "digital-land": {
                 "field": "hectares",
@@ -191,7 +205,9 @@
                 ],
                 "typos": [
                     "AREA (HA)",
-                    "Site Area in ha"
+                    "Hectares (gross)",
+                    "Site Area in ha",
+                    "Total site area (hectares)"
                 ]
             }
         },

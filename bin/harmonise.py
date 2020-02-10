@@ -31,7 +31,11 @@ resource = os.path.basename(os.path.splitext(input_path)[0])
 schema = json.load(open(schema_path))
 fields = {field["name"]: field for field in schema["fields"]}
 fieldnames = [field["name"] for field in schema["fields"]]
-required_fields = [field["name"] for field in schema["fields"] if field["constraints"].get("required", False)]
+required_fields = [
+    field["name"]
+    for field in schema["fields"]
+    if field["constraints"].get("required", False)
+]
 
 organisation_uri = {}
 default_values = {}
@@ -46,7 +50,12 @@ row_number = 0
 
 def log_issue(field, issuetype, value):
     log_writer.writerow(
-        {"field": field, "issue-type": issuetype, "value": value, "row-number": row_number}
+        {
+            "field": field,
+            "issue-type": issuetype,
+            "value": value,
+            "row-number": row_number,
+        }
     )
 
 
@@ -71,12 +80,21 @@ def normalise_integer(field, value):
 normalise_integer.regex = re.compile(r"\.0+$")
 
 
-def normalise_decimal(field, value, precision):
+def normalise_decimal(field, value, precision=6, minimum=None, maximum=None):
     try:
         d = Decimal(value)
     except Exception as e:
         log_issue(field, "decimal", value)
         return ""
+
+    if minimum != None and d < minimum:
+        log_issue(field, "minimum", value)
+        return""
+
+    if maximum != None and d > maximum:
+        log_issue(field, "maximum", value)
+        return""
+
     return format_decimal(d, precision)
 
 
@@ -159,7 +177,7 @@ def load_organisations():
 def load_default_organisation(path):
     organisation = ""
     for row in csv.DictReader(open("index/resource-organisation.csv", newline="")):
-        if row['resource'] in path:
+        if row["resource"] in path:
             if not organisation:
                 organisation = row["organisation"]
             elif organisation != row["organisation"]:
@@ -283,9 +301,11 @@ def load_field_value():
     for row in csv.DictReader(open("patch/enum.csv", newline="")):
         fieldname = row["field"]
         enum = row["enum"]
-        value = normalise_enum_value(row['value'])
+        value = normalise_enum_value(row["value"])
         if enum not in field_enum[fieldname]:
-            raise ValueError("invalid '%s' enum '%s' in patch/enum.csv" % (fieldname, enum))
+            raise ValueError(
+                "invalid '%s' enum '%s' in patch/enum.csv" % (fieldname, enum)
+            )
         field_value.setdefault(fieldname, {})
         field_value[fieldname][value] = enum
 
@@ -304,6 +324,7 @@ def normalise(fieldname, value):
         return ""
 
     field = fields[fieldname]
+    constraints = field.get("constraints", {})
     extra = field.get("digital-land", {})
 
     for strip in extra.get("strip", []):
@@ -316,7 +337,7 @@ def normalise(fieldname, value):
         return normalise_integer(fieldname, value)
 
     if field.get("type", "") == "number":
-        return normalise_decimal(fieldname, value, extra.get("precision", 6))
+        return normalise_decimal(fieldname, value, precision=extra.get("precision", 6), minimum=constraints.get("minimum", None), maximum=constraints.get("maximum", None))
 
     if field.get("type", "") == "date":
         return normalise_date(fieldname, value)
@@ -377,6 +398,8 @@ if __name__ == "__main__":
             check(o)
 
             # fix point geometry
-            (o["GeoX"], o["GeoY"]) = normalise_point("GeoX,GeoY", [o["GeoX"], o["GeoY"]])
+            (o["GeoX"], o["GeoY"]) = normalise_point(
+                "GeoX,GeoY", [o["GeoX"], o["GeoY"]]
+            )
 
             writer.writerow(o)
