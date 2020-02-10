@@ -100,10 +100,8 @@ Y15/0030/SH"
 26,SiteReference,missing,
 27,PlanningStatus,enum,Y11/0137/SH
 27,SiteReference,missing,
-28,Hectares,decimal,1 hectare
 28,GeoX,missing,
 28,GeoY,missing,
-28,Hectares,missing,
 29,GeoX,missing,
 29,GeoY,missing,
 30,GeoX,missing,

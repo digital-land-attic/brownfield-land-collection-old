@@ -10,14 +10,14 @@ entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,pl
 ,local-authority-eng:SWD,18HMR019,"Abbeymeads Medical Practice, Elstree Way, Abbey Meads, Swindon",,yes,,permissioned,full planning permission,,51.597808,-1.79342,0.19,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,18HMR023,"The Quadrant, Stonehill Green, Swindon",,yes,,permissioned,full planning permission,,51.562092,-1.819241,0.62,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,18HMR024,"Minerva House, Delta 800, Welton Road, Westlea, Swindon",,yes,,permissioned,other,,51.559986,-1.816581,0.42,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,18HMR025,"Land At Abbey Farm, Tadpole Lane Blunsdon St. Andrew Swindon",,yes,,permissioned,full planning permission,,51.60946,-1.800472,0.08,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,18HMR025,"Land At Abbey Farm, Tadpole Lane Blunsdon St. Andrew Swindon",,yes,,permissioned,full planning permission,,51.60946,-1.800472,0.076,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,18HMR027,"Former Hertz Rent A Car, Hyde Road, Stratton St Margaret, Swindon",,yes,,permissioned,outline planning permission,,51.588008,-1.756112,0.23,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,18HMR029,South Marston Hotel And Spa Old Vicarage LaneSouth Marston Swindon SN3 4SH,,yes,,permissioned,full planning permission,,51.587405,-1.719676,2.49,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,18HMR030,"Former Woolworth Distribution Centre, Faraday Road, Dorcan, SN3 5HH, Now known as Ignition Park",,yes,,permissioned,outline planning permission,,51.557048,-1.726309,9.31,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,18HMR033,"Land To The Rear Of 89, 91 & 93 Ermin Street, Blunsdon, Swindon, SN26 8AA",,yes,,permissioned,full planning permission,,51.611763,-1.794441,0.62,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,18HMR038,"28 & 29 Newport Street, Old Town, Swindon",,yes,,permissioned,full planning permission,,51.550054,-1.775882,0.02,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,18HMR040,Land Off Kingsdown RoadKingsdown RoadKingsdownSwindon,,yes,,permissioned,reserved matters approval,,51.598333,-1.746768,2.16,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,18HMR045,Selina House 192 Oxford RoadStratton St MargaretSwindonSN3 4HA,,yes,,permissioned,full planning permission,,51.574131,-1.751255,0.15,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,18HMR045,Selina House 192 Oxford RoadStratton St MargaretSwindonSN3 4HA,,yes,,permissioned,full planning permission,,51.574131,-1.751255,0.153,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,18HMR049,"Union Square, Swindon",,yes,,permissioned,outline planning permission,,51.563264,-1.781726,10.18,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,18HMR050,Land At Marlborough ParkSwindon,,yes,,permissioned,full planning permission,,51.540781,-1.766698,15.3,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,PP181901,Crown Timber Site Unit A Thornhill Industrial Estate outh Marston Swindon,,yes,,permissioned,outline planning permission,,51.586939,-1.729012,2.1,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
@@ -28,85 +28,85 @@ entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,pl
 ,local-authority-eng:SWD,PP181922,2 Temple Chambers Temple StreetSwindonSN1 1SQ,,yes,,permissioned,full planning permission,,51.55904,-1.782661,0.01,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,PP181923,53 Victoria RoadOld TownSwindonSN1 3AY,,yes,,permissioned,other,,51.555757,-1.777846,,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,PP181924,99-100 Victoria RoadOld TownSwindonSN1 3BE,,yes,,permissioned,other,,51.553074,-1.77671,,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0006,"Land north of Edison Road, Dorcan",,yes,not owned by a public authority,not permissioned,,,51.555305,-1.727288,1.67,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0024,"Oak House, Rivermead Drive, Swindon",,yes,not owned by a public authority,not permissioned,,,51.569192,-1.826729,2.52,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0070,Nythe Complex,,yes,owned by a public authority,not permissioned,,,51.565407,-1.741264,0.93,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0082,Land bounded by Netherton Close/ Cranemore Avenue/ Keswick Road,,yes,owned by a public authority,not permissioned,,,51.550565,-1.744905,0.17,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0006,"Land north of Edison Road, Dorcan",,yes,not owned by a public authority,not permissioned,,,51.555305,-1.727288,1.665,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0024,"Oak House, Rivermead Drive, Swindon",,yes,not owned by a public authority,not permissioned,,,51.569192,-1.826729,2.522,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0070,Nythe Complex,,yes,owned by a public authority,not permissioned,,,51.565407,-1.741264,0.934,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0082,Land bounded by Netherton Close/ Cranemore Avenue/ Keswick Road,,yes,owned by a public authority,not permissioned,,,51.550565,-1.744905,0.169,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,s0090,"Coal Yard, Signal Way",,yes,owned by a public authority,not permissioned,full planning permission,,51.548621,-1.774146,0.18,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,s0093,"Former youth Centre, Sparcells",,yes,,permissioned,full planning permission,,51.5782,-1.830491,0.14,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0099,North Star (Former Clares Site and Oasis Leisure Centre),,yes,,permissioned,full planning permission,,51.568885,-1.792698,13.05,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0100,Aspen House and Granville Street Car Park,,yes,,pending decision,outline planning permission,,51.559327,-1.783934,1.27,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0101,Tented Market,,yes,,pending decision,full planning permission,,51.559517,-1.787405,0.14,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0111,Thornhill Industrial Estate,,yes,not owned by a public authority,not permissioned,,,51.585659,-1.727309,5.09,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0113,Site of disused retail units on Devizes Road,,yes,,,full planning permission,,51.523084,-1.790611,0.08,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0115,Sites of garages on Perrys Lane,,yes,,,,,51.525949,-1.79276,0.11,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0099,North Star (Former Clares Site and Oasis Leisure Centre),,yes,,permissioned,full planning permission,,51.568885,-1.792698,13.055,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0100,Aspen House and Granville Street Car Park,,yes,,pending decision,outline planning permission,,51.559327,-1.783934,1.269,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0101,Tented Market,,yes,,pending decision,full planning permission,,51.559517,-1.787405,0.135,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0111,Thornhill Industrial Estate,,yes,not owned by a public authority,not permissioned,,,51.585659,-1.727309,5.089,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0113,Site of disused retail units on Devizes Road,,yes,,,full planning permission,,51.523084,-1.790611,0.078,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0115,Sites of garages on Perrys Lane,,yes,,,,,51.525949,-1.79276,0.115,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,s0120,Fleetway House,,yes,,permissioned,other,,51.562094,-1.787231,0.18,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0122,"39-45 Fleet Street, Swindon",,yes,,not permissioned,full planning permission,,51.562884,-1.785588,0.08,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0125,"Falcon House, Fleming Way Car Park, Debenhams and 17 The Parade",,yes,,permissioned,,,51.562069,-1.782885,0.85,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0126,One Sanford Street,,yes,,permissioned,,,51.561682,-1.782989,0.14,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0128,Swindon Station Car Park (South),,yes,,not permissioned,,,51.564088,-1.787929,1.84,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0129,Swindon Station Car Park (North),,yes,,not permissioned,,,51.56595,-1.786559,0.52,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0122,"39-45 Fleet Street, Swindon",,yes,,not permissioned,full planning permission,,51.562884,-1.785588,0.085,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0125,"Falcon House, Fleming Way Car Park, Debenhams and 17 The Parade",,yes,,permissioned,,,51.562069,-1.782885,0.846,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0126,One Sanford Street,,yes,,permissioned,,,51.561682,-1.782989,0.144,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0128,Swindon Station Car Park (South),,yes,,not permissioned,,,51.564088,-1.787929,1.838,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0129,Swindon Station Car Park (North),,yes,,not permissioned,,,51.56595,-1.786559,0.522,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,s0132,Princes Street Car Park,,yes,,not permissioned,other,,51.560219,-1.78102,0.34,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0133,Commercial Road Car Park,,yes,,not permissioned,,,51.559281,-1.786966,0.05,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0140,Signal Point,,yes,,not permissioned,,,51.565051,-1.785977,0.43,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0142,"Locarno, Dammas Lane Car Park and The Planks Car Park",,yes,,not permissioned,,,51.551092,-1.772942,0.46,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0146,The Parade Multistorey Car Park,,yes,,not permissioned,,,51.562757,-1.784969,0.18,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0147,Former Wyvern Multistorey Car Park,,yes,,not permissioned,,,51.560406,-1.781744,0.19,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0148,Wyvern Theatre and Car Park,,yes,,not permissioned,other,,51.559569,-1.78147,0.33,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0150,The Carriage Works,,yes,,not permissioned,full planning permission,,51.562985,-1.790782,1.52,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0156,Swindon Advertiser Offices,,yes,,permissioned,full planning permission,,51.553079,-1.77708,0.15,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0133,Commercial Road Car Park,,yes,,not permissioned,,,51.559281,-1.786966,0.053,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0140,Signal Point,,yes,,not permissioned,,,51.565051,-1.785977,0.427,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0142,"Locarno, Dammas Lane Car Park and The Planks Car Park",,yes,,not permissioned,,,51.551092,-1.772942,0.459,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0146,The Parade Multistorey Car Park,,yes,,not permissioned,,,51.562757,-1.784969,0.177,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0147,Former Wyvern Multistorey Car Park,,yes,,not permissioned,,,51.560406,-1.781744,0.193,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0148,Wyvern Theatre and Car Park,,yes,,not permissioned,other,,51.559569,-1.78147,0.325,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0150,The Carriage Works,,yes,,not permissioned,full planning permission,,51.562985,-1.790782,1.518,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0156,Swindon Advertiser Offices,,yes,,permissioned,full planning permission,,51.553079,-1.77708,0.146,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,s0157,"Land South of Church Road, Old Town",,yes,,pending decision,,,51.553607,-1.776215,0.07,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0158,"Pope Bros Builders Yard, Cricklade Street",,yes,,pending decision,,,51.553553,-1.775528,0.12,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0168,20 Fleet Street,,yes,,not permissioned,,,51.562849,-1.786688,0.05,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0170,32-34 Bridge Street,,yes,,not permissioned,full planning permission,,51.562096,-1.78608,0.03,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0171,Theatre Square,,yes,,not permissioned,,,51.559364,-1.780953,0.41,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0183,"Land to the east of Newburgh Place, in front of Tesco Express",,yes,,not permissioned,,,51.63348,-1.714859,0.97,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0191,Land at Pinehurst Road inside 'The Circle',,yes,,not permissioned,,,51.582454,-1.779918,0.5,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0204,In front of 68 Oaksey Road,,yes,,not permissioned,,,51.590188,-1.78206,0.19,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0233,Castle View Depot and garages,,yes,,not permissioned,,,51.515959,-1.725754,0.17,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0239,Groundwell Park and Ride,,yes,not owned by a public authority,not permissioned,,,51.595747,-1.77729,1.7,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0158,"Pope Bros Builders Yard, Cricklade Street",,yes,,pending decision,,,51.553553,-1.775528,0.116,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0168,20 Fleet Street,,yes,,not permissioned,,,51.562849,-1.786688,0.049,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0170,32-34 Bridge Street,,yes,,not permissioned,full planning permission,,51.562096,-1.78608,0.032,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0171,Theatre Square,,yes,,not permissioned,,,51.559364,-1.780953,0.407,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0183,"Land to the east of Newburgh Place, in front of Tesco Express",,yes,,not permissioned,,,51.63348,-1.714859,0.968,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0191,Land at Pinehurst Road inside 'The Circle',,yes,,not permissioned,,,51.582454,-1.779918,0.496,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0204,In front of 68 Oaksey Road,,yes,,not permissioned,,,51.590188,-1.78206,0.186,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0233,Castle View Depot and garages,,yes,,not permissioned,,,51.515959,-1.725754,0.169,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0239,Groundwell Park and Ride,,yes,not owned by a public authority,not permissioned,,,51.595747,-1.77729,1.702,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,s0245,Manor Garden Centre and surrounding,,yes,,not permissioned,,,51.577173,-1.805642,3.3,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0246,Garage block east of Greenhill Road,,yes,,not permissioned,,,51.580833,-1.806867,0.2,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0246,Garage block east of Greenhill Road,,yes,,not permissioned,,,51.580833,-1.806867,0.199,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,s0264,Garages at Wingfield Ave,,yes,,not permissioned,,,51.59731,-1.78152,0.23,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0276,Liden Local Centre,,yes,,not permissioned,,,51.548034,-1.730629,1.58,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0297,Pipers Way Park and Ride,,yes,,not permissioned,,,51.538807,-1.782509,5.27,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,s0298,Barnfield Road,,yes,,not permissioned,,,51.570172,-1.807993,0.75,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0308,Northern Gateway,,yes,,permissioned,,,51.602264,-1.782501,2.33,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0311,"Petrol Filling Station, Rodbourne Road",,yes,,not permissioned,,,51.570475,-1.8007,0.33,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0313,Toothill Village Centre,,yes,,not permissioned,,,51.553401,-1.821724,1.42,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0314,Moredon Rec,,yes,,not permissioned,,,51.577417,-1.809628,2.66,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0315,Stratton Education Centre,,yes,,not permissioned,,,51.585492,-1.767875,0.3,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0318,"Contract House, Unit 5 Bramble Road Elgin Swindon SN2 8HB",,yes,,permissioned,,,51.576361,-1.765075,0.39,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0319,"54-55 Bridge Street, Swindon, SN1 1BL",,yes,,not permissioned,,,51.562033,-1.786833,0.03,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0322,"Unit 4 Hunts Rise, Swindon SN3 4TW",,yes,,permissioned,full planning permission,,51.602284,-1.738608,0.53,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0326,"Wakefield House, Pipers Way, Old Town Swindon SN3 1RE",,yes,,permissioned,reserved matters approval,,51.543159,-1.770337,0.66,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0327,"22-23 Victoria Road, Old Town, Swindon SN1 3AW",,yes,,permissioned,full planning permission,,51.557514,-1.778972,0.31,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0276,Liden Local Centre,,yes,,not permissioned,,,51.548034,-1.730629,1.582,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0297,Pipers Way Park and Ride,,yes,,not permissioned,,,51.538807,-1.782509,5.271,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,s0298,Barnfield Road,,yes,,not permissioned,,,51.570172,-1.807993,0.749,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0308,Northern Gateway,,yes,,permissioned,,,51.602264,-1.782501,2.332,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0311,"Petrol Filling Station, Rodbourne Road",,yes,,not permissioned,,,51.570475,-1.8007,0.332,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0313,Toothill Village Centre,,yes,,not permissioned,,,51.553401,-1.821724,1.417,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0314,Moredon Rec,,yes,,not permissioned,,,51.577417,-1.809628,2.659,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0315,Stratton Education Centre,,yes,,not permissioned,,,51.585492,-1.767875,0.302,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0318,"Contract House, Unit 5 Bramble Road Elgin Swindon SN2 8HB",,yes,,permissioned,,,51.576361,-1.765075,0.391,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0319,"54-55 Bridge Street, Swindon, SN1 1BL",,yes,,not permissioned,,,51.562033,-1.786833,0.034,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0322,"Unit 4 Hunts Rise, Swindon SN3 4TW",,yes,,permissioned,full planning permission,,51.602284,-1.738608,0.533,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0326,"Wakefield House, Pipers Way, Old Town Swindon SN3 1RE",,yes,,permissioned,reserved matters approval,,51.543159,-1.770337,0.664,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0327,"22-23 Victoria Road, Old Town, Swindon SN1 3AW",,yes,,permissioned,full planning permission,,51.557514,-1.778972,0.312,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,S0328,"Former Milton Road Club, 25 Milton Road, Swindon SN1 5JA",,yes,,not permissioned,,,51.55953,-1.7892,0.03,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0329,"Former Bampton Brothers, Stratton Road, Swindon",,yes,,permissioned,reserved matters approval,,51.571699,-1.76055,1.27,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0330,"Anglia House, 115-118 Commercial Road, Swindon",,yes,,not permissioned,,,51.558814,-1.783513,0.06,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0332,"Kingsbridge House, Marlborough Road, Swindon",,yes,,not permissioned,,,51.541561,-1.72926,0.13,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0337,"16 Wembley Street, Rodbourne, Swindon SN2 1DN",,yes,,permissioned,full planning permission,,51.569958,-1.799906,0.05,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0338,"Lindseys Yard, Turnpike Road, Blunsdon, Swindon SN26 7AE",,yes,,permissioned,full planning permission,,51.606184,-1.780467,0.59,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0341,"Land Adjacent To New Inn, Swindon Road, Stratton St Margaret, Swindon SN3 4PN",,yes,,not permissioned,,,51.575334,-1.753916,0.16,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0343,"WH Smith HQ, Greenbridge Road, Stratton St Margaret, Swindon",,yes,,permissioned,outline planning permission,,51.568255,-1.750887,2.7,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0344,"Holbrook House, Sheppard Street, Swindon",,yes,,permissioned,other,,51.563646,-1.787394,0.2,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0348,"The Ivy Hotel, Moormead Road, Wroughton, Swindon SN4 9BY",,yes,,permissioned,full planning permission,,51.526238,-1.786833,0.43,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0350,"Anglia House, 115-118 Commercial Road, Swindon SN1 5PL",,yes,,not permissioned,,,51.558814,-1.783513,0.06,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0352,"Land At Radway Road, Stratton St Margaret, Swindon SN3 4ND",,yes,,permissioned,full planning permission,,51.581743,-1.758157,2.2,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0358,"18-24 Bridge Street & 16-17 Fleet Street, Swindon SN1 1BP",,yes,,permissioned,full planning permission,,51.562717,-1.786995,0.08,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0381,The Limes,,yes,,not permissioned,,,51.584777,-1.76652,0.32,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0401,North of Gateway North,,yes,,not permissioned,,,51.605624,-1.786784,5.16,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0402,South of Gateway North,,yes,,not permissioned,,,51.601806,-1.787313,2.34,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0413,The Wheatsheaf Public House 33-36 Dores Road Upper Stratton,,yes,,permissioned,full planning permission,,51.584301,-1.768977,0.19,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0415,Land To The Rear Of 27 Eastcott Hill,,yes,,permissioned,full planning permission,,51.556066,-1.783774,0.03,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0416,3 Temple Chambers Temple Street,,yes,,permissioned,full planning permission,,51.559009,-1.782747,0.01,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0418,Southdown Nursing Home 17 Church Road Wanborough,,yes,,permissioned,full planning permission,,51.541934,-1.700211,0.18,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0420,First Floor 17-21 High Street Old Town,,yes,,permissioned,other,,51.55177,-1.773606,0.04,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0424,"Former Zarlink Factory, Darby Close, Swindon",,yes,,not permissioned,,,51.573069,-1.808924,1.17,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0430,"Brunel West Car Park and House of Fraser, Swindon",,yes,,not permissioned,,,51.560375,-1.787892,0.85,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0433,Swindon Station Redevelopment,,yes,,not permissioned,,,51.564983,-1.786795,4.54,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0434,"Manor Farm, Hannington",,yes,,permissioned,full planning permission,,51.63734,-1.752111,0.67,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0436,County Ground Depot,,yes,,not permissioned,,,51.566369,-1.773771,0.43,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0329,"Former Bampton Brothers, Stratton Road, Swindon",,yes,,permissioned,reserved matters approval,,51.571699,-1.76055,1.267,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0330,"Anglia House, 115-118 Commercial Road, Swindon",,yes,,not permissioned,,,51.558814,-1.783513,0.058,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0332,"Kingsbridge House, Marlborough Road, Swindon",,yes,,not permissioned,,,51.541561,-1.72926,0.129,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0337,"16 Wembley Street, Rodbourne, Swindon SN2 1DN",,yes,,permissioned,full planning permission,,51.569958,-1.799906,0.047,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0338,"Lindseys Yard, Turnpike Road, Blunsdon, Swindon SN26 7AE",,yes,,permissioned,full planning permission,,51.606184,-1.780467,0.589,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0341,"Land Adjacent To New Inn, Swindon Road, Stratton St Margaret, Swindon SN3 4PN",,yes,,not permissioned,,,51.575334,-1.753916,0.159,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0343,"WH Smith HQ, Greenbridge Road, Stratton St Margaret, Swindon",,yes,,permissioned,outline planning permission,,51.568255,-1.750887,2.702,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0344,"Holbrook House, Sheppard Street, Swindon",,yes,,permissioned,other,,51.563646,-1.787394,0.198,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0348,"The Ivy Hotel, Moormead Road, Wroughton, Swindon SN4 9BY",,yes,,permissioned,full planning permission,,51.526238,-1.786833,0.428,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0350,"Anglia House, 115-118 Commercial Road, Swindon SN1 5PL",,yes,,not permissioned,,,51.558814,-1.783513,0.058,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0352,"Land At Radway Road, Stratton St Margaret, Swindon SN3 4ND",,yes,,permissioned,full planning permission,,51.581743,-1.758157,2.195,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0358,"18-24 Bridge Street & 16-17 Fleet Street, Swindon SN1 1BP",,yes,,permissioned,full planning permission,,51.562717,-1.786995,0.077,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0381,The Limes,,yes,,not permissioned,,,51.584777,-1.76652,0.316,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0401,North of Gateway North,,yes,,not permissioned,,,51.605624,-1.786784,5.155,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0402,South of Gateway North,,yes,,not permissioned,,,51.601806,-1.787313,2.338,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0413,The Wheatsheaf Public House 33-36 Dores Road Upper Stratton,,yes,,permissioned,full planning permission,,51.584301,-1.768977,0.186,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0415,Land To The Rear Of 27 Eastcott Hill,,yes,,permissioned,full planning permission,,51.556066,-1.783774,0.026,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0416,3 Temple Chambers Temple Street,,yes,,permissioned,full planning permission,,51.559009,-1.782747,0.015,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0418,Southdown Nursing Home 17 Church Road Wanborough,,yes,,permissioned,full planning permission,,51.541934,-1.700211,0.185,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0420,First Floor 17-21 High Street Old Town,,yes,,permissioned,other,,51.55177,-1.773606,0.042,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0424,"Former Zarlink Factory, Darby Close, Swindon",,yes,,not permissioned,,,51.573069,-1.808924,1.169,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0430,"Brunel West Car Park and House of Fraser, Swindon",,yes,,not permissioned,,,51.560375,-1.787892,0.846,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0433,Swindon Station Redevelopment,,yes,,not permissioned,,,51.564983,-1.786795,4.536,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0434,"Manor Farm, Hannington",,yes,,permissioned,full planning permission,,51.63734,-1.752111,0.672,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0436,County Ground Depot,,yes,,not permissioned,,,51.566369,-1.773771,0.426,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
 ,local-authority-eng:SWD,S0448,"Burderop Park, Wroughton",,yes,,permissioned,full planning permission,,51.519628,-1.762652,12.6,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0458,"Croft Yard, Ham Road, Wanborough",,yes,,not permissioned,,,51.542342,-1.69719,0.32,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
-,local-authority-eng:SWD,S0476,"The 12 Bar, 179 Westcott Place, Swindon",,yes,,permissioned,full planning permission,,51.558215,-1.795758,0.07,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0458,"Croft Yard, Ham Road, Wanborough",,yes,,not permissioned,,,51.542342,-1.69719,0.317,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
+,local-authority-eng:SWD,S0476,"The 12 Bar, 179 Westcott Place, Swindon",,yes,,permissioned,full planning permission,,51.558215,-1.795758,0.072,,,,,153dbe1b4a37a3ca5851f37b75bcda0bcaad32015e96747b8861170f809b3a05
