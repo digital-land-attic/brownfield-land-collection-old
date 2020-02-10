@@ -77,41 +77,46 @@ def normalise_decimal(field, value, precision):
     except Exception as e:
         log_issue(field, "decimal", value)
         return ""
-    return format_decimal(d)
+    return format_decimal(d, precision)
 
 
-def within_england(geox, geoy):
-    return geoy > 49.5 and geoy < 56.0 and geox > -7.0 and geox < 2
+def degrees_like(lon, lat):
+    return lat > -60.0 and lat < 60.0 and lon > -60.0 and lon < 60.0
 
 
-def normalise_geometry(row):
-    if row.get("GeoX", "") == "" or row.get("GeoY", "") == "":
-        return row
+def easting_northing_like(lon, lat):
+    return lat > 100000.0 and lat < 1000000.0 and lon > 100000.0 and lon < 1000000.0
 
-    geox = Decimal(row["GeoX"])
-    geoy = Decimal(row["GeoY"])
 
-    row["GeoX"] = ""
-    row["GeoY"] = ""
+def within_england(lon, lat):
+    return lon > -7.0 and lon < 2 and lat > 49.5 and lat < 56.0
 
-    if isinstance(geox, str) or isinstance(geoy, str):
-        return row
 
-    if within_england(geox, geoy):
-        lon, lat = geox, geoy
-    elif within_england(geoy, geox):
-        lon, lat = geoy, geox
-    else:
-        lat, lon = osgb_to_wgs84.transform(geox, geoy)
+def normalise_point(field, values, default=["", ""]):
+    if "" in values:
+        return default
+
+    (lon, lat) = [Decimal(value) for value in values]
+    value = ",".join(values)
+
+    if degrees_like(lon, lat):
         if not within_england(lon, lat):
-            lat, lon = osgb_to_wgs84.transform(geoy, geox)
+            lon, lat = lat, lon
             if not within_england(lon, lat):
-                log_issue("GeoX,GeoY", "OSGB", ",".join([row["GeoX"], row["GeoY"]]))
-                return row
+                log_issue(field, "WGS84 outside England", value)
+                return default
+    elif easting_northing_like(lon, lat):
+        lat, lon = osgb_to_wgs84.transform(lon, lat)
+        if not within_england(lon, lat):
+            lat, lon = osgb_to_wgs84.transform(lat, lon)
+            if not within_england(lon, lat):
+                log_issue(field, "OSGB outside England", value)
+                return default
+    else:
+        log_issue(field, "out of range", value)
+        return default
 
-    row["GeoX"] = format_decimal(lon)
-    row["GeoY"] = format_decimal(lat)
-    return row
+    return [format_decimal(lon), format_decimal(lat)]
 
 
 def lower_uri(value):
@@ -361,13 +366,17 @@ if __name__ == "__main__":
             for field in fieldnames:
                 o[field] = normalise(field, row[field])
 
-            o = normalise_geometry(o)
-
+            # load resource organisations if needed
             if not o["OrganisationURI"] and "OrganisationURI" not in default_values:
                 load_default_organisation(input_path)
 
+            # default missing values
             o = default(o)
 
+            # check for missing required values
             check(o)
+
+            # fix point geometry
+            (o["GeoX"], o["GeoY"]) = normalise_point("GeoX,GeoY", [o["GeoX"], o["GeoY"]])
 
             writer.writerow(o)
