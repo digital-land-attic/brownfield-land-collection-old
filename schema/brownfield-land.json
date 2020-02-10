@@ -66,9 +66,12 @@
                 "typos": [
                     "Alt_Ref",
                     "Brownfield Register Reference",
+                    "Reference",
                     "LA SITE REF",
+                    "SHLAA_REF",
                     "SiteRefere",
                     "Site reference",
+                    "SiteReference (also SHLAA Reference)",
                     "Site Ref"
                 ],
                 "field": "site"
@@ -84,6 +87,7 @@
             "digital-land": {
                 "concatenate": {
                   "fields": [
+                    "SITENAME",
                     "Site Name",
                     "Address 1",
                     "Address 2"
@@ -337,7 +341,9 @@
             "digital-land": {
                 "field": "minimum-net-dwellings",
                 "typos": [
+                  "MINHOMES",
                   "Min dwellings",
+                  "MinNetDwellings",
                   "MINIMUM NET DWELLINGS"
                 ]
             }
