@@ -89,11 +89,11 @@ def normalise_decimal(field, value, precision=None, minimum=None, maximum=None):
 
     if minimum != None and d < minimum:
         log_issue(field, "minimum", value)
-        return""
+        return ""
 
     if maximum != None and d > maximum:
         log_issue(field, "maximum", value)
-        return""
+        return ""
 
     return format_decimal(d, precision)
 
@@ -337,7 +337,13 @@ def normalise(fieldname, value):
         return normalise_integer(fieldname, value)
 
     if field.get("type", "") == "number":
-        return normalise_decimal(fieldname, value, precision=extra.get("precision", 6), minimum=constraints.get("minimum", None), maximum=constraints.get("maximum", None))
+        return normalise_decimal(
+            fieldname,
+            value,
+            precision=extra.get("precision", 6),
+            minimum=constraints.get("minimum", None),
+            maximum=constraints.get("maximum", None),
+        )
 
     if field.get("type", "") == "date":
         return normalise_date(fieldname, value)

@@ -14,7 +14,7 @@ def normalise_enum_value(value):
     return " ".join(normalise_enum_value.strip.sub(" ", value.lower()).split())
 
 
-normalise_enum_value.strip = re.compile(r'([^a-z0-9-_ ]+)')
+normalise_enum_value.strip = re.compile(r"([^a-z0-9-_ ]+)")
 
 
 # load enum values from schema

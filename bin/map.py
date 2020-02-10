@@ -61,9 +61,11 @@ if __name__ == "__main__":
                 o[field] = row[header]
 
             for fieldname, field in fields.items():
-                if "concatenate" in field.get('digital-land', {}):
-                    cat = field["digital-land"]['concatenate']
+                if "concatenate" in field.get("digital-land", {}):
+                    cat = field["digital-land"]["concatenate"]
                     o.setdefault(fieldname, "")
-                    o[fieldname] = cat['sep'].join([o[fieldname]] + [row[h] for h in cat['fields'] if h in row])
+                    o[fieldname] = cat["sep"].join(
+                        [o[fieldname]] + [row[h] for h in cat["fields"] if h in row]
+                    )
 
             writer.writerow(o)
