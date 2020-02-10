@@ -69,8 +69,11 @@ NORMALISE_DATA:=\
 	$(PATCH_DIR)/skip.csv
 
 # data needed for harmonisation
+#
+# used by broken resources:
+# $(INDEX_DIR)/resource-organisation.csv
+#
 HARMONISE_DATA=\
-	$(INDEX_DIR)/resource-organisation.csv\
 	$(CACHE_DIR)/organisation.csv\
 	$(PATCH_DIR)/organisation.csv\
 	$(PATCH_DIR)/enum.csv
@@ -139,7 +142,7 @@ normalise: $(NORMALISED_FILES)
 map: $(MAPPED_FILES)
 	@:
 
-harmonise: $(HARMONISED_FILES)
+harmonise: $(COLLECTION_INDEX) $(HARMONISED_FILES)
 	@:
 
 dataset: $(NATIONAL_DATASET) $(TRANSFORMED_FILES)
@@ -221,7 +224,7 @@ $(MAPPED_DIR)%.csv: $(NORMALISED_DIR)%.csv bin/map.py $(SCHEMA)
 	@mkdir -p $(MAPPED_DIR)
 	python3 bin/map.py $< $@ $(SCHEMA)
 
-$(HARMONISED_DIR)%.csv $(ISSUE_DIR)%.csv: $(MAPPED_DIR)%.csv bin/harmonise.py $(SCHEMA) $(HARMONISE_DATA)
+$(HARMONISED_DIR)%.csv: $(MAPPED_DIR)%.csv bin/harmonise.py $(SCHEMA) $(HARMONISE_DATA)
 	@mkdir -p $(HARMONISED_DIR) $(ISSUE_DIR)
 	python3 bin/harmonise.py $< $@ $(SCHEMA) $(subst $(HARMONISED_DIR),$(ISSUE_DIR),$@)
 
