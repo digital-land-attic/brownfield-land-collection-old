@@ -1,6 +1,4 @@
 row-number,field,issue-type,value
 36,Hectares,decimal,"0,09"
 36,Hectares,missing,
-37,"GeoX,GeoY",OSGB,","
-37,GeoX,missing,
-37,GeoY,missing,
+37,"GeoX,GeoY",out of range,"435418,3355556"

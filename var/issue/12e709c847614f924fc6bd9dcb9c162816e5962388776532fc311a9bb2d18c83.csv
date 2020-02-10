@@ -1,1 +1,4 @@
 row-number,field,issue-type,value
+11,"GeoX,GeoY",out of range,"50431,25035"
+14,"GeoX,GeoY",out of range,"50456,2.504E+4"
+26,"GeoX,GeoY",out of range,"50709,25127"

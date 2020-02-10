@@ -1,18 +1,18 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:UTT,,Saffron Walden CB10 1EF,,yes,not owned by a public authority,not permissioned,,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,local-authority-eng:UTT,,"Rear of 10-12 Bridge Street, Saffron Walden CB10 1BU",,yes,not owned by a public authority,not permissioned,,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,local-authority-eng:UTT,,"Parsonage Downs, Great Dunmow, CM6 2AU",,yes,owned by a public authority,not permissioned,,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,local-authority-eng:UTT,,"Bardfield Road, Thaxted, CM6 2LW",,yes,not owned by a public authority,not permissioned,,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,local-authority-eng:UTT,,"Thaxted Road, Saffron Walden CB11 3AA",,yes,not owned by a public authority,not permissioned,,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,local-authority-eng:UTT,,"North Street, Great Dunmow, CM6 1BA",,yes,not owned by a public authority,permissioned,,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,local-authority-eng:UTT,,"14 Stortford Road, Great Dunmow, CM6 1DF",,yes,not owned by a public authority,not permissioned,,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,local-authority-eng:UTT,,"New Street, Great Dunmow, CM6 1BH",,yes,owned by a public authority,not permissioned,,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,local-authority-eng:UTT,,"Thaxted Road, Saffron Walden, CB10 2UQ",,yes,not owned by a public authority,permissioned,,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,local-authority-eng:UTT,,"Stansted Mountfitchet, CM24 8BZ",,yes,not owned by a public authority,permissioned,,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,local-authority-eng:UTT,,"Royston Road, Wendens Ambo, CB11 4JX",,yes,not owned by a public authority,permissioned,,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,local-authority-eng:UTT,,Church End Broxted CM6 2BZ,,yes,not owned by a public authority,permissioned,,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,local-authority-eng:UTT,,"Chelmsford Road, White Roding CM6 1RF",,yes,not owned by a public authority,permissioned,,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,local-authority-eng:UTT,,"86 Cambridge Road, Stansted, CM22 7BL",,yes,not owned by a public authority,permissioned,,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,local-authority-eng:UTT,,"Dunmow Road, Hatfield Heath, CM22 7BL",,yes,not owned by a public authority,permissioned,,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,local-authority-eng:UTT,,"Clapton Hall Lane, Dunmow CM6 1JF",,yes,not owned by a public authority,permissioned,,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
-,local-authority-eng:UTT,,"Dunmow Road, Stebbing CM6 3LF",,yes,not owned by a public authority,permissioned,,,,,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,local-authority-eng:UTT,,Saffron Walden CB10 1EF,,yes,not owned by a public authority,not permissioned,,,52.022188,0.239766,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,local-authority-eng:UTT,,"Rear of 10-12 Bridge Street, Saffron Walden CB10 1BU",,yes,not owned by a public authority,not permissioned,,,52.025268,0.237135,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,local-authority-eng:UTT,,"Parsonage Downs, Great Dunmow, CM6 2AU",,yes,owned by a public authority,not permissioned,,,51.882351,0.353747,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,local-authority-eng:UTT,,"Bardfield Road, Thaxted, CM6 2LW",,yes,not owned by a public authority,not permissioned,,,51.951786,0.350018,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,local-authority-eng:UTT,,"Thaxted Road, Saffron Walden CB11 3AA",,yes,not owned by a public authority,not permissioned,,,52.02241,0.24931,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,local-authority-eng:UTT,,"North Street, Great Dunmow, CM6 1BA",,yes,not owned by a public authority,permissioned,,,51.875223,0.363007,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,local-authority-eng:UTT,,"14 Stortford Road, Great Dunmow, CM6 1DF",,yes,not owned by a public authority,not permissioned,,,51.873347,0.358797,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,local-authority-eng:UTT,,"New Street, Great Dunmow, CM6 1BH",,yes,owned by a public authority,not permissioned,,,51.870053,0.364334,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,local-authority-eng:UTT,,"Thaxted Road, Saffron Walden, CB10 2UQ",,yes,not owned by a public authority,permissioned,,,52.01374,0.256467,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,local-authority-eng:UTT,,"Stansted Mountfitchet, CM24 8BZ",,yes,not owned by a public authority,permissioned,,,51.904568,0.19486,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,local-authority-eng:UTT,,"Royston Road, Wendens Ambo, CB11 4JX",,yes,not owned by a public authority,permissioned,,,52.005536,0.206296,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,local-authority-eng:UTT,,Church End Broxted CM6 2BZ,,yes,not owned by a public authority,permissioned,,,51.922798,0.295113,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,local-authority-eng:UTT,,"Chelmsford Road, White Roding CM6 1RF",,yes,not owned by a public authority,permissioned,,,51.799162,0.270857,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,local-authority-eng:UTT,,"86 Cambridge Road, Stansted, CM22 7BL",,yes,not owned by a public authority,permissioned,,,51.907611,0.197567,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,local-authority-eng:UTT,,"Dunmow Road, Hatfield Heath, CM22 7BL",,yes,not owned by a public authority,permissioned,,,51.817332,0.217374,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,local-authority-eng:UTT,,"Clapton Hall Lane, Dunmow CM6 1JF",,yes,not owned by a public authority,permissioned,,,51.861758,0.360457,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e
+,local-authority-eng:UTT,,"Dunmow Road, Stebbing CM6 3LF",,yes,not owned by a public authority,permissioned,,,51.878719,0.444936,,,,,,be7f799c26713b205e1540c85fcfda02fbf64d04eb314344571311f8955ce72e

@@ -1,29 +1,29 @@
 OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/colchester,,COL/01,"ST BOTOLPHS CULTURAL QUARTER, EAST OF QUEEN STREET",0.90477,51.88863,,0.483,owned by a public authority,,not permissioned,,,,,,,Conservation Area,2016-07-01,2017-12-19,
+http://opendatacommunities.org/id/district-council/colchester,,COL/01,"ST BOTOLPHS CULTURAL QUARTER, EAST OF QUEEN STREET",0.90477,51.88863,,0.48,owned by a public authority,,not permissioned,,,,,,,Conservation Area,2016-07-01,2017-12-19,
 http://opendatacommunities.org/id/district-council/colchester,,COL/02,"AREA EAST OF MASON ROAD, COWDRAY CENTRE, OFF COWDRAY AVENUE",0.90645,51.89882,,2.7,,,permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=151850&appType&=Planning,,,,"Mixed Use Redevelopment
 Regeneration Area. 
 Potential contamination identified (ref. 151850) - further assessment required. (http://www.colchester.gov.uk/article/13066/Contaminated-Land-and-planning).",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/03,"BRITANNIA WORKS SITE, (CAR PARK OFF BRITANNIA WAY), FRONTING ST JULIAN GROVE",0.90636,51.88691,,1.169,owned by a public authority,,not permissioned,,,,,,,"Regeneration Area
+http://opendatacommunities.org/id/district-council/colchester,,COL/03,"BRITANNIA WORKS SITE, (CAR PARK OFF BRITANNIA WAY), FRONTING ST JULIAN GROVE",0.90636,51.88691,,1.17,owned by a public authority,,not permissioned,,,,,,,"Regeneration Area
 Scheduled Monument",2016-07-01,2017-12-19,
 http://opendatacommunities.org/id/district-council/colchester,,COL/04,BT REPEATER STATION AND LAND ADJACENT TO GUILDFORD ROAD FACING EXETER DRIVE,0.91126,51.89076,,0.61,,,not permissioned,,,,,,,Colchester Conservation Area 1 Predominantly Residential. Risk assessment required (http://www.colchester.gov.uk/article/13066/Contaminated-Land-and-planning).,2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/05,BRITISH TELECOM SITE NORTH OF COWDRAY AVENUE,0.91275,51.89802,,1.438,,,not permissioned,,,,,,,"Flood Zone 3
+http://opendatacommunities.org/id/district-council/colchester,,COL/05,BRITISH TELECOM SITE NORTH OF COWDRAY AVENUE,0.91275,51.89802,,1.44,,,not permissioned,,,,,,,"Flood Zone 3
 Predominantly Residential. Unknown but likely contamination - depot/workshops- risk assessment required (http://www.colchester.gov.uk/article/13066/Contaminated-Land-and-planning).",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/06,GARAGES AND LAND AT EAST BAY MILL,0.91482,51.88939,,0.496,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=O%2Fcol%2F02%2F1697&appType=Planning&action=Search |http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=RM/COL/04/0884&appType&=Planning | http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=072117&appType&=Planning,,,,"Conservation area.
+http://opendatacommunities.org/id/district-council/colchester,,COL/06,GARAGES AND LAND AT EAST BAY MILL,0.91482,51.88939,,0.5,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=O%2Fcol%2F02%2F1697&appType=Planning&action=Search |http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=RM/COL/04/0884&appType&=Planning | http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=072117&appType&=Planning,,,,"Conservation area.
 Expected to amoun to 50-60 retirement dwellings.",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/07,"FORMER GYM ARENA SITE, CIRCULAR ROAD EAST, COLCHESTER CO2 7SZ",0.89388,51.87289,,1.553,,,not permissioned,,,PE Application 2013 132230,,,,"Conservation Area - Garrison
+http://opendatacommunities.org/id/district-council/colchester,,COL/07,"FORMER GYM ARENA SITE, CIRCULAR ROAD EAST, COLCHESTER CO2 7SZ",0.89388,51.87289,,1.55,,,not permissioned,,,PE Application 2013 132230,,,,"Conservation Area - Garrison
 Growth Area Mixed-use Redevelopment
 Regeneration Area. Unknown but possible contamination - former defence land - risk assessment required (http://www.colchester.gov.uk/article/13066/Contaminated-Land-and-planning).",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/08,"BETWEEN ALBANY GARDENS AND DISTILERY LANE, (PART OF GAS WORKS AND TIMBER DOCK LAND)",0.92806,51.87788,,1.041,,,not permissioned,,,,,,,"East Colchester Special Policy ""Flood Zone 3"" ""Growth Area"""" Regeneration Area""  ""Medium risk of Surface Water Flooding"". Likely contamination - in industrial area - risk assessment required (http://www.colchester.gov.uk/article/13066/Contaminated-Land-and-planning).""""",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/09,LAND AND BUILDINGS BETWEEN KING EDWARD QUAY AND HAVEN ROAD SOUTH OF DISTILLERY LANE,0.93236,51.87726,,5.439,,,not permissioned,,,,,,,"East Colchester Special Policy ""Flood Zone 3"" ""Green Link"" ""Growth Area"" ""Regeneration Area""  ""Medium and High Risk of Surface Water Flooding"". Likely contamination - many contaminative uses incl. fuel storage""",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/10,LAND AND BUILDINGS BETWEEN NUMBERS 192 AND 176 MAGDALEN STREET,0.90684,51.88602,,0.403,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=F/COL/01/0570&appType&=Planning,,,,"East Colchester Special Policy ""Growth Area"" "" Regeneration Area"" ""http://www.colchesterhistoricbuildingsforum.org.uk/drupal/node/719"". Unknown but possible contamination - site includes former garage and adjacent rail sidings - risk assessment required (http://www.colchester.gov.uk/article/13066/Contaminated-Land-and-planning).""""",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/11,"LAND, BUILDINGS AND FORMER CBT BUS DEPOT FRONTING MAGDALEN STREET AND MILITARY ROAD",0.90709,51.88551,,0.461,,,not permissioned,,,,,,,"East Colchester Special Policy
+http://opendatacommunities.org/id/district-council/colchester,,COL/08,"BETWEEN ALBANY GARDENS AND DISTILERY LANE, (PART OF GAS WORKS AND TIMBER DOCK LAND)",0.92806,51.87788,,1.04,,,not permissioned,,,,,,,"East Colchester Special Policy ""Flood Zone 3"" ""Growth Area"""" Regeneration Area""  ""Medium risk of Surface Water Flooding"". Likely contamination - in industrial area - risk assessment required (http://www.colchester.gov.uk/article/13066/Contaminated-Land-and-planning).""""",2016-07-01,2017-12-19,
+http://opendatacommunities.org/id/district-council/colchester,,COL/09,LAND AND BUILDINGS BETWEEN KING EDWARD QUAY AND HAVEN ROAD SOUTH OF DISTILLERY LANE,0.93236,51.87726,,5.44,,,not permissioned,,,,,,,"East Colchester Special Policy ""Flood Zone 3"" ""Green Link"" ""Growth Area"" ""Regeneration Area""  ""Medium and High Risk of Surface Water Flooding"". Likely contamination - many contaminative uses incl. fuel storage""",2016-07-01,2017-12-19,
+http://opendatacommunities.org/id/district-council/colchester,,COL/10,LAND AND BUILDINGS BETWEEN NUMBERS 192 AND 176 MAGDALEN STREET,0.90684,51.88602,,0.4,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=F/COL/01/0570&appType&=Planning,,,,"East Colchester Special Policy ""Growth Area"" "" Regeneration Area"" ""http://www.colchesterhistoricbuildingsforum.org.uk/drupal/node/719"". Unknown but possible contamination - site includes former garage and adjacent rail sidings - risk assessment required (http://www.colchester.gov.uk/article/13066/Contaminated-Land-and-planning).""""",2016-07-01,2017-12-19,
+http://opendatacommunities.org/id/district-council/colchester,,COL/11,"LAND, BUILDINGS AND FORMER CBT BUS DEPOT FRONTING MAGDALEN STREET AND MILITARY ROAD",0.90709,51.88551,,0.46,,,not permissioned,,,,,,,"East Colchester Special Policy
 Growth Area
 Regeneration Area
 http://www.colchesterhistoricbuildingsforum.org.uk/drupal/node/1025. Potential contamination has been identified (ref 160103) - risk assessment required (http://www.colchester.gov.uk/article/13066/Contaminated-Land-and-planning).""",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/12,DOVERCOURT BP PETROL FILLING STATION AND GARAGE INCLUDING NUMBER 79 MAGDALEN STREET,0.91014,51.88504,,0.475,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=O/COL/01/1560&appType&=Planning,,,,"East Colchester Special Policy Growth Area
+http://opendatacommunities.org/id/district-council/colchester,,COL/12,DOVERCOURT BP PETROL FILLING STATION AND GARAGE INCLUDING NUMBER 79 MAGDALEN STREET,0.91014,51.88504,,0.48,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=O/COL/01/1560&appType&=Planning,,,,"East Colchester Special Policy Growth Area
 Regeneration Area https://www.historicengland.org.uk/listing/the-list/list-entry/1123551.
 Likely contamination - garage uses - risk assessment required (http://www.colchester.gov.uk/article/13066/Contaminated-Land-and-planning).",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/13,GARAGE 74 TO 78 MILITARY ROAD AND LAND TO REAR,0.91012,51.88269,,0.451,,,not permissioned,,,,,,,Conservation Area,2016-07-01,2017-12-19,
+http://opendatacommunities.org/id/district-council/colchester,,COL/13,GARAGE 74 TO 78 MILITARY ROAD AND LAND TO REAR,0.91012,51.88269,,0.45,,,not permissioned,,,,,,,Conservation Area,2016-07-01,2017-12-19,
 http://opendatacommunities.org/id/district-council/colchester,,COL/14,LAND NORTH OF MAGDALEN STREET (RAILWAY SIDINGS),0.91152,51.88644,,1.54,,,permissioned,,,152730,58,58,,"East Colchester Special Policy
 Growth Area
 Predominantly Residential
@@ -31,33 +31,33 @@ Regeneration Area. Pending application 152730 - contamination identified - furth
 http://opendatacommunities.org/id/district-council/colchester,,COL/15,LAND AND BUILDINGS FROM AND INCLUDING 83 TO 102 MAGDALEN STREET,0.91207,51.88501,,0.68,,,not permissioned,,,,,,,"East Colchester Special Policy
 Growth Area
 Regeneration Area. Former depot",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/16,SCRUBLAND BETWEEN RIVER COLNE AND HYTHE QUAY OPPOSITE THE SPINNAKER P.H.,0.92651,51.88159,,0.309,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=96/1689&appType&=Planning,,,,"Flood Zone 3 
+http://opendatacommunities.org/id/district-council/colchester,,COL/16,SCRUBLAND BETWEEN RIVER COLNE AND HYTHE QUAY OPPOSITE THE SPINNAKER P.H.,0.92651,51.88159,,0.31,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=96/1689&appType&=Planning,,,,"Flood Zone 3 
 Growth Area
 Predominantly Residential 
 Public Right of Way (Riverside Walk)
 Regneration Area. 
 Quay adjacent gas works",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/17,"GASWORKS AND FORMER TIMBER DOCK, LAND NORTH AND SOUTH OF WHITEHALL ROAD",0.92509,51.88014,,6.524,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=151439&appType&=Planning | http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=146165&appType&=Planning,,,,"East Colchester Special Policy
+http://opendatacommunities.org/id/district-council/colchester,,COL/17,"GASWORKS AND FORMER TIMBER DOCK, LAND NORTH AND SOUTH OF WHITEHALL ROAD",0.92509,51.88014,,6.52,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=151439&appType&=Planning | http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=146165&appType&=Planning,,,,"East Colchester Special Policy
 Flood Zone 3
 Green Link
 Growth Area
 Regeneration Area
 Transit Corridor
 Some Areas of High Risk from Surface Flooding. Gas works",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/18,DERELICT COAL YARD DEPOT. HYTHE STATION ROAD BETWEEN RAILWAY LINE AND RIVER COLNE,0.92661,51.88578,,0.736,,,not permissioned,,,,,,,Emplyment Zone - Davey Close,2016-07-01,2017-12-19,
+http://opendatacommunities.org/id/district-council/colchester,,COL/18,DERELICT COAL YARD DEPOT. HYTHE STATION ROAD BETWEEN RAILWAY LINE AND RIVER COLNE,0.92661,51.88578,,0.74,,,not permissioned,,,,,,,Emplyment Zone - Davey Close,2016-07-01,2017-12-19,
 http://opendatacommunities.org/id/district-council/colchester,,COL/19,LAND COVERING HAWKINS ROAD FROM THE RIVER COLNE TO RAILWAY LINE UP TO HYTHE STATION ROAD,0.92849,51.88359,,6.22,,,not permissioned,,,,,,,"Conservation Area - Hythe
 East Colchester Special Policy
 Flood Zone 3
 Growth Area
 Inland Water edge/ limit Regeneration Area
 Risk of Surface Water Flooding. Likely contamination - many industrial uses - risk assessment required",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/20,GARDEN HOUSE. ADJACENT TO MAUDLYN ROAD. HYTHE QUAY,0.92531,51.8839,,0.149,,,not permissioned,,,,,,,"Conservation Area - Hythe
+http://opendatacommunities.org/id/district-council/colchester,,COL/20,GARDEN HOUSE. ADJACENT TO MAUDLYN ROAD. HYTHE QUAY,0.92531,51.8839,,0.15,,,not permissioned,,,,,,,"Conservation Area - Hythe
 Flood Zone 3
 Growth Area Predominantly Residential
 Regeneration Area
 Low Risk of Surface Water Flooding. 
 Unknown but possible contamination - industrial area - risk assessment required (http://www.colchester.gov.uk/article/13066/Contaminated-Land-and-planning).",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/21,26 HYTHE QUAY,0.92646,51.88372,,0.159,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=F/COL/06/1132&appType&=Planning | http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=CA/COL/06/1140&appType&=Planning,,,,"Conservation Area Hythe 
+http://opendatacommunities.org/id/district-council/colchester,,COL/21,26 HYTHE QUAY,0.92646,51.88372,,0.16,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=F/COL/06/1132&appType&=Planning | http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=CA/COL/06/1140&appType&=Planning,,,,"Conservation Area Hythe 
 Flood Zone 3
 Growth Area
 Predominantly Residential Regeneration Area
@@ -73,14 +73,14 @@ Growth Area
 Regeneration Area. 
 Potential contamination - part former coal yard - risk assessment required (http://www.colchester.gov.uk/article/13066/Contaminated-Land-and-planning).",2016-07-01,2017-12-19,
 http://opendatacommunities.org/id/district-council/colchester,,COL/25,ESSEX COUNTY HOSPITAL SITE. LEXDEN ROAD. COLCHESTER,0.88911,51.88693,,1.71,owned by a public authority,,not permissioned,,,,,,,"Colchester Conservation Area 2 ""Predominantly Residential"" ""http://www.colchesterhistoricbuildingsforum.org.uk/drupal/node/1453"" ""http://www.colchester.gov.uk/CHttpHandler.ashx?id=16792&p=0"". Potential contamination - hospital use - risk assessment required (http://www.colchester.gov.uk/article/13066/Contaminated-Land-and-planning).""""",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/26,RESIDENTIAL GARAGES REAR OF 1 STALIN ROAD,0.91233,51.87423,,0.128,,,not permissioned,,,,,,,Predominantly Residential. Unknown,2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/27,"SITE REAR OF THE CO OPERATIVE STORE, 90 WIMPOLE ROAD",0.91443,51.88406,,0.183,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=152210&appType&=Planning,,,,"Growth Area
+http://opendatacommunities.org/id/district-council/colchester,,COL/26,RESIDENTIAL GARAGES REAR OF 1 STALIN ROAD,0.91233,51.87423,,0.13,,,not permissioned,,,,,,,Predominantly Residential. Unknown,2016-07-01,2017-12-19,
+http://opendatacommunities.org/id/district-council/colchester,,COL/27,"SITE REAR OF THE CO OPERATIVE STORE, 90 WIMPOLE ROAD",0.91443,51.88406,,0.18,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=152210&appType&=Planning,,,,"Growth Area
 Predominantly Residential
 Regeneration Area. 
 Potential contamination identified (ref 152210) - risk assessment and remediation required (http://www.colchester.gov.uk/article/13066/Contaminated-Land-and-planning).",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/28,COAL YARD SITE WITH ACCESS BETWEEN 49 AND 51 ARTILLERY STREET,0.91585,51.88347,,0.092,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=161107&appType&=Planning,,,,"Predominantly Residential.
+http://opendatacommunities.org/id/district-council/colchester,,COL/28,COAL YARD SITE WITH ACCESS BETWEEN 49 AND 51 ARTILLERY STREET,0.91585,51.88347,,0.09,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=161107&appType&=Planning,,,,"Predominantly Residential.
 Potential contamination identified - coal yard (ref 161107) - risk assessment required",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,COL/29,23 ST JULIAN GROVE,0.90595,51.88727,,0.148,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=072585&appType&=Planning | http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=F/COL/02/0992&appType&=Planning,,,,"Flood Zone 3
+http://opendatacommunities.org/id/district-council/colchester,,COL/29,23 ST JULIAN GROVE,0.90595,51.88727,,0.15,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=072585&appType&=Planning | http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=F/COL/02/0992&appType&=Planning,,,,"Flood Zone 3
 http://www.colchesterhistoricbuildingsforum.org.uk/drupal/node/1444.
  Potential contamination (Britannia iron works adjacent) - risk assessment required (http://www.colchester.gov.uk/article/13066/Contaminated-Land-and-planning).",2016-07-01,2017-12-19,
 http://opendatacommunities.org/id/district-council/colchester,,MER/01,FORMER UNDERWOODS GARAGE WEST MERSEA,0.91975,51.77767,,0.21,,,not permissioned,,,,,,,Allocated for employment currently.,2016-07-01,2017-12-19,
@@ -88,8 +88,8 @@ http://opendatacommunities.org/id/district-council/colchester,,RHE/01,"ROWHEDGE 
 160551",256,256,,"Colchester Local Wildlife Site Flood Zone 3
 Predominantly Residential
 Tree Preservation Order 18/01. Already being part developed - ref. 144693 and contamination matters discussed ref. 160551 (http://www.colchester.gov.uk/article/13066/Contaminated-Land-and-planning).""",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,TIP/01,"RESIDENTIAL PARKING AREA OFF GROVE ROAD, WITH ACCESS ADJACENT TO 22 GROVE ROAD",0.74973,51.81251,,0.152,,,not permissioned,,,,,,,"Rural District Centre. 
+http://opendatacommunities.org/id/district-council/colchester,,TIP/01,"RESIDENTIAL PARKING AREA OFF GROVE ROAD, WITH ACCESS ADJACENT TO 22 GROVE ROAD",0.74973,51.81251,,0.15,,,not permissioned,,,,,,,"Rural District Centre. 
 Potential contamination (garage use) - risk assessment required (http://www.colchester.gov.uk/article/13066/Contaminated-Land-and-planning).",2016-07-01,2017-12-19,
-http://opendatacommunities.org/id/district-council/colchester,,TIP/01,"BT BUILDINGS, CARPARK AND SMALL GARDENS AREA, STATION ROAD",0.75102,51.80762,,0.266,,,not permissioned,,,,,,,Predominantly Residential. Unknown,2016-07-01,2017-12-19,
+http://opendatacommunities.org/id/district-council/colchester,,TIP/01,"BT BUILDINGS, CARPARK AND SMALL GARDENS AREA, STATION ROAD",0.75102,51.80762,,0.27,,,not permissioned,,,,,,,Predominantly Residential. Unknown,2016-07-01,2017-12-19,
 http://opendatacommunities.org/id/district-council/colchester,,WIV/01,"1 THE AVENUE, WIVENHOE QUAY",0.95929,51.85961,,0.25,,,not permissioned,,,http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=COL%2F05%2F2103&appType=Planning&action=Search | http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=100213&appType&=Planning,,,,"Predominantly Residential
 https://connect.colchester.gov.uk/enquiry/images/WtfLocalList/PDF/WTF%201%20The%20Avenue%20(The%20Gatehouse).pdf. Garage",2016-07-01,2017-12-19,

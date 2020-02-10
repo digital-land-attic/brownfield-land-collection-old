@@ -1,70 +1,24 @@
 row-number,field,issue-type,value
-2,"GeoX,GeoY",OSGB,","
-2,GeoX,missing,
-2,GeoY,missing,
-3,"GeoX,GeoY",OSGB,","
-3,GeoX,missing,
-3,GeoY,missing,
-4,"GeoX,GeoY",OSGB,","
-4,GeoX,missing,
-4,GeoY,missing,
-5,"GeoX,GeoY",OSGB,","
-5,GeoX,missing,
-5,GeoY,missing,
-6,"GeoX,GeoY",OSGB,","
-6,GeoX,missing,
-6,GeoY,missing,
-8,"GeoX,GeoY",OSGB,","
-8,GeoX,missing,
-8,GeoY,missing,
-11,"GeoX,GeoY",OSGB,","
-11,GeoX,missing,
-11,GeoY,missing,
-12,"GeoX,GeoY",OSGB,","
-12,GeoX,missing,
-12,GeoY,missing,
-13,"GeoX,GeoY",OSGB,","
-13,GeoX,missing,
-13,GeoY,missing,
-14,"GeoX,GeoY",OSGB,","
-14,GeoX,missing,
-14,GeoY,missing,
-15,"GeoX,GeoY",OSGB,","
-15,GeoX,missing,
-15,GeoY,missing,
-16,"GeoX,GeoY",OSGB,","
-16,GeoX,missing,
-16,GeoY,missing,
-17,"GeoX,GeoY",OSGB,","
-17,GeoX,missing,
-17,GeoY,missing,
-18,"GeoX,GeoY",OSGB,","
-18,GeoX,missing,
-18,GeoY,missing,
-19,"GeoX,GeoY",OSGB,","
-19,GeoX,missing,
-19,GeoY,missing,
-20,"GeoX,GeoY",OSGB,","
-20,GeoX,missing,
-20,GeoY,missing,
-21,"GeoX,GeoY",OSGB,","
-21,GeoX,missing,
-21,GeoY,missing,
-22,"GeoX,GeoY",OSGB,","
-22,GeoX,missing,
-22,GeoY,missing,
-23,"GeoX,GeoY",OSGB,","
-23,GeoX,missing,
-23,GeoY,missing,
-24,"GeoX,GeoY",OSGB,","
-24,GeoX,missing,
-24,GeoY,missing,
-25,"GeoX,GeoY",OSGB,","
-25,GeoX,missing,
-25,GeoY,missing,
-26,"GeoX,GeoY",OSGB,","
-26,GeoX,missing,
-26,GeoY,missing,
-27,"GeoX,GeoY",OSGB,","
-27,GeoX,missing,
-27,GeoY,missing,
+2,"GeoX,GeoY",WGS84 outside England,"2.723845,53.690925"
+3,"GeoX,GeoY",WGS84 outside England,"2.69215,53.70295"
+4,"GeoX,GeoY",WGS84 outside England,"2.698432,53.739244"
+5,"GeoX,GeoY",WGS84 outside England,"2.698695,53.740492"
+6,"GeoX,GeoY",WGS84 outside England,"2.696715,53.73351"
+8,"GeoX,GeoY",WGS84 outside England,"2.718471,53.690148"
+11,"GeoX,GeoY",WGS84 outside England,"2.681393,53.737526"
+12,"GeoX,GeoY",WGS84 outside England,"2.761513,53.74658"
+13,"GeoX,GeoY",WGS84 outside England,"2.666867,53.729689"
+14,"GeoX,GeoY",WGS84 outside England,"2.660319,53.735478"
+15,"GeoX,GeoY",WGS84 outside England,"2.672273,53.745523"
+16,"GeoX,GeoY",WGS84 outside England,"2.720243,53.688394"
+17,"GeoX,GeoY",WGS84 outside England,"2.821668,53.722526"
+18,"GeoX,GeoY",WGS84 outside England,"2.68474,53.700934"
+19,"GeoX,GeoY",WGS84 outside England,"2.681282,53.731604"
+20,"GeoX,GeoY",WGS84 outside England,"2.705694,53.698556"
+21,"GeoX,GeoY",WGS84 outside England,"2.746744,53.743213"
+22,"GeoX,GeoY",WGS84 outside England,"2.659579,53.728876"
+23,"GeoX,GeoY",WGS84 outside England,"2.669507,53.727913"
+24,"GeoX,GeoY",WGS84 outside England,"2.687989,53.725498"
+25,"GeoX,GeoY",WGS84 outside England,"2.727647,53.700627"
+26,"GeoX,GeoY",WGS84 outside England,"2.645411,53.74204"
+27,"GeoX,GeoY",WGS84 outside England,"2.692176,53.733105"

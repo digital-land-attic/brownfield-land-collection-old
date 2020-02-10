@@ -1,4 +1,5 @@
 row-number,field,issue-type,value
 27,Hectares,missing,
+45,"GeoX,GeoY",out of range,"344065,5.481E+4"
 64,OrganisationURI,opendatacommunities-uri,http://eforms.eden.gov.uk/fastweb/detail.asp?AltRef=07/0343&ApplicationNumber=07%2F0343&AddressPrefix=&Postcode=&Submit=Search
 64,OrganisationURI,default,http://opendatacommunities.org/id/district-council/eden

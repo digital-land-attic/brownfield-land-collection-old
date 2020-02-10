@@ -1,28 +1,10 @@
 row-number,field,issue-type,value
-1,"GeoX,GeoY",OSGB,","
-1,GeoX,missing,
-1,GeoY,missing,
-2,"GeoX,GeoY",OSGB,","
-2,GeoX,missing,
-2,GeoY,missing,
-3,"GeoX,GeoY",OSGB,","
-3,GeoX,missing,
-3,GeoY,missing,
-4,"GeoX,GeoY",OSGB,","
-4,GeoX,missing,
-4,GeoY,missing,
-5,"GeoX,GeoY",OSGB,","
-5,GeoX,missing,
-5,GeoY,missing,
-6,"GeoX,GeoY",OSGB,","
-6,GeoX,missing,
-6,GeoY,missing,
-7,"GeoX,GeoY",OSGB,","
-7,GeoX,missing,
-7,GeoY,missing,
-8,"GeoX,GeoY",OSGB,","
-8,GeoX,missing,
-8,GeoY,missing,
-9,"GeoX,GeoY",OSGB,","
-9,GeoX,missing,
-9,GeoY,missing,
+1,"GeoX,GeoY",WGS84 outside England,"12.736151,29.53191"
+2,"GeoX,GeoY",WGS84 outside England,"5.363146,33.310132"
+3,"GeoX,GeoY",WGS84 outside England,"8.284361,27.930774"
+4,"GeoX,GeoY",WGS84 outside England,"13.334752,26.506141"
+5,"GeoX,GeoY",WGS84 outside England,"13.058763,28.305856"
+6,"GeoX,GeoY",WGS84 outside England,"12.466864,28.658776"
+7,"GeoX,GeoY",WGS84 outside England,"59.547767,29.916344"
+8,"GeoX,GeoY",WGS84 outside England,"12.680719,28.825573"
+9,"GeoX,GeoY",WGS84 outside England,"59.52794,29.080468"

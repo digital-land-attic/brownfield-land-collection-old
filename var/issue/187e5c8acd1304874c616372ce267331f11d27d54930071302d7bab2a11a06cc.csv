@@ -1,4 +1,2 @@
 row-number,field,issue-type,value
-17,"GeoX,GeoY",OSGB,","
-17,GeoX,missing,
-17,GeoY,missing,
+17,"GeoX,GeoY",out of range,"609971,1038088"

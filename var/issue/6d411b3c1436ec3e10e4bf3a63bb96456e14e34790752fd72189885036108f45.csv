@@ -1,7 +1,3 @@
 row-number,field,issue-type,value
-82,"GeoX,GeoY",OSGB,","
-82,GeoX,missing,
-82,GeoY,missing,
-83,"GeoX,GeoY",OSGB,","
-83,GeoX,missing,
-83,GeoY,missing,
+82,"GeoX,GeoY",WGS84 outside England,"-0.175218,-0.175218"
+83,"GeoX,GeoY",WGS84 outside England,"-0.175924,-0.175924"

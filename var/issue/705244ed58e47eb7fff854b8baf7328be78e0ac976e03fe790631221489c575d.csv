@@ -3,6 +3,4 @@ row-number,field,issue-type,value
 11,Hectares,missing,
 12,Hectares,decimal,<0.1
 12,Hectares,missing,
-35,"GeoX,GeoY",OSGB,","
-35,GeoX,missing,
-35,GeoY,missing,
+35,"GeoX,GeoY",WGS84 outside England,"31.3157,-0.7486"

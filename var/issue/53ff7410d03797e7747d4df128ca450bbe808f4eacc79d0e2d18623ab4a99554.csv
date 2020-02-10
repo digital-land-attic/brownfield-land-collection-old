@@ -1,193 +1,109 @@
 row-number,field,issue-type,value
-51,"GeoX,GeoY",OSGB,","
-51,GeoX,missing,
-51,GeoY,missing,
+1,Hectares,minimum,0
+1,Hectares,missing,
+3,Hectares,minimum,0
+3,Hectares,missing,
+4,Hectares,minimum,0
+4,Hectares,missing,
+5,Hectares,minimum,0
+5,Hectares,missing,
+6,Hectares,minimum,0
+6,Hectares,missing,
+7,Hectares,minimum,0
+7,Hectares,missing,
+9,Hectares,minimum,0
+9,Hectares,missing,
+51,"GeoX,GeoY",out of range,"3976518.831,-6392.1854"
 121,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 158,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 168,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-169,"GeoX,GeoY",OSGB,","
-169,GeoX,missing,
-169,GeoY,missing,
-181,"GeoX,GeoY",OSGB,","
-181,GeoX,missing,
-181,GeoY,missing,
-194,"GeoX,GeoY",OSGB,","
-194,GeoX,missing,
-194,GeoY,missing,
-211,"GeoX,GeoY",OSGB,","
-211,GeoX,missing,
-211,GeoY,missing,
-231,"GeoX,GeoY",OSGB,","
-231,GeoX,missing,
-231,GeoY,missing,
+169,"GeoX,GeoY",out of range,"3975249.633,-6824.124"
+181,"GeoX,GeoY",out of range,"3973231.555,-7017.8242"
+194,"GeoX,GeoY",out of range,"3974408.164,-6610.6246"
+211,"GeoX,GeoY",WGS84 outside England,"0,0"
+231,"GeoX,GeoY",out of range,"3976649.685,-7384.3256"
 246,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-248,"GeoX,GeoY",OSGB,","
-248,GeoX,missing,
-248,GeoY,missing,
-264,"GeoX,GeoY",OSGB,","
-264,GeoX,missing,
-264,GeoY,missing,
-266,"GeoX,GeoY",OSGB,","
-266,GeoX,missing,
-266,GeoY,missing,
+248,"GeoX,GeoY",out of range,"3975053.451,-8148.0454"
+264,"GeoX,GeoY",out of range,"3975907.137,-8265.9153"
+266,"GeoX,GeoY",out of range,"3974001.494,-8484.5197"
 271,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 281,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-294,"GeoX,GeoY",OSGB,","
-294,GeoX,missing,
-294,GeoY,missing,
-310,"GeoX,GeoY",OSGB,","
-310,GeoX,missing,
-310,GeoY,missing,
-311,"GeoX,GeoY",OSGB,","
-311,GeoX,missing,
-311,GeoY,missing,
-315,"GeoX,GeoY",OSGB,","
-315,GeoX,missing,
-315,GeoY,missing,
-322,"GeoX,GeoY",OSGB,","
-322,GeoX,missing,
-322,GeoY,missing,
+294,"GeoX,GeoY",out of range,"3975077.802,-8357.0174"
+310,"GeoX,GeoY",out of range,"3972244.472,-8234.082"
+311,"GeoX,GeoY",out of range,"3973239.833,-8693.0618"
+315,"GeoX,GeoY",out of range,"3975270.767,-8487.8299"
+322,"GeoX,GeoY",out of range,"3976568.44,-6486.9721"
 334,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-335,"GeoX,GeoY",OSGB,","
-335,GeoX,missing,
-335,GeoY,missing,
+335,"GeoX,GeoY",out of range,"3975968.651,-7221.4566"
 336,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-337,"GeoX,GeoY",OSGB,","
-337,GeoX,missing,
-337,GeoY,missing,
+337,"GeoX,GeoY",out of range,"3973367.164,-7936.0702"
 345,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 369,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 390,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 399,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 401,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-411,"GeoX,GeoY",OSGB,","
-411,GeoX,missing,
-411,GeoY,missing,
+411,"GeoX,GeoY",out of range,"3976675.612,-6457.6968"
 428,Hectares,missing,
-433,"GeoX,GeoY",OSGB,","
-433,GeoX,missing,
-433,GeoY,missing,
-444,"GeoX,GeoY",OSGB,","
-444,GeoX,missing,
-444,GeoY,missing,
+433,"GeoX,GeoY",out of range,"3973188.763,-7534.6224"
+444,"GeoX,GeoY",out of range,"3974558.165,-7056.1165"
 462,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-474,"GeoX,GeoY",OSGB,","
-474,GeoX,missing,
-474,GeoY,missing,
+474,"GeoX,GeoY",out of range,"3974189.161,-7478.4858"
 475,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 479,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 485,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 494,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-497,"GeoX,GeoY",OSGB,","
-497,GeoX,missing,
-497,GeoY,missing,
+497,"GeoX,GeoY",out of range,"3973371.414,-8872.7581"
 508,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-513,"GeoX,GeoY",OSGB,","
-513,GeoX,missing,
-513,GeoY,missing,
-518,"GeoX,GeoY",OSGB,","
-518,GeoX,missing,
-518,GeoY,missing,
-523,"GeoX,GeoY",OSGB,","
-523,GeoX,missing,
-523,GeoY,missing,
-524,"GeoX,GeoY",OSGB,","
-524,GeoX,missing,
-524,GeoY,missing,
+513,"GeoX,GeoY",out of range,"3974399.508,-8134.2086"
+518,"GeoX,GeoY",out of range,"3972978.332,-9244.2619"
+523,"GeoX,GeoY",out of range,"3973705.351,-8163.9958"
+524,"GeoX,GeoY",out of range,"3975048.829,-7649.5943"
 528,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 531,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 535,GeoY,missing,
-537,"GeoX,GeoY",OSGB,","
-537,GeoX,missing,
-537,GeoY,missing,
-538,"GeoX,GeoY",OSGB,","
-538,GeoX,missing,
-538,GeoY,missing,
-543,"GeoX,GeoY",OSGB,","
-543,GeoX,missing,
-543,GeoY,missing,
-547,"GeoX,GeoY",OSGB,","
-547,GeoX,missing,
-547,GeoY,missing,
+537,"GeoX,GeoY",out of range,"3975480.06,-7245.4133"
+538,"GeoX,GeoY",out of range,"3976083.429,-6635.1255"
+543,"GeoX,GeoY",out of range,"3974653.996,-6974.4147"
+547,"GeoX,GeoY",out of range,"3973878.433,-9400.7628"
 551,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-557,"GeoX,GeoY",OSGB,","
-557,GeoX,missing,
-557,GeoY,missing,
-558,"GeoX,GeoY",OSGB,","
-558,GeoX,missing,
-558,GeoY,missing,
-565,"GeoX,GeoY",OSGB,","
-565,GeoX,missing,
-565,GeoY,missing,
+557,"GeoX,GeoY",out of range,"3975908.58,-7776.6815"
+558,"GeoX,GeoY",out of range,"3973403.024,-7909.3055"
+565,"GeoX,GeoY",out of range,"3976802.477,-7275.5968"
 569,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-580,"GeoX,GeoY",OSGB,","
-580,GeoX,missing,
-580,GeoY,missing,
+580,"GeoX,GeoY",out of range,"3972995.236,-9399.9435"
 582,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-586,"GeoX,GeoY",OSGB,","
-586,GeoX,missing,
-586,GeoY,missing,
-588,"GeoX,GeoY",OSGB,","
-588,GeoX,missing,
-588,GeoY,missing,
-603,"GeoX,GeoY",OSGB,","
-603,GeoX,missing,
-603,GeoY,missing,
-612,"GeoX,GeoY",OSGB,","
-612,GeoX,missing,
-612,GeoY,missing,
-617,"GeoX,GeoY",OSGB,","
-617,GeoX,missing,
-617,GeoY,missing,
-635,"GeoX,GeoY",OSGB,","
-635,GeoX,missing,
-635,GeoY,missing,
+586,"GeoX,GeoY",out of range,"3975876.477,-7634.4783"
+588,"GeoX,GeoY",out of range,"3972555.858,-8153.8976"
+603,"GeoX,GeoY",out of range,"3972999.366,-7558.0321"
+612,"GeoX,GeoY",out of range,"3974183.014,-8814.0492"
+617,"GeoX,GeoY",out of range,"3974431.279,-6557.4005"
+635,"GeoX,GeoY",out of range,"3973452.632,-8533.3937"
 636,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 639,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 642,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 644,Hectares,missing,
-648,"GeoX,GeoY",OSGB,","
-648,GeoX,missing,
-648,GeoY,missing,
+648,"GeoX,GeoY",out of range,"3974891.341,-8109.3636"
 670,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-680,"GeoX,GeoY",OSGB,","
-680,GeoX,missing,
-680,GeoY,missing,
+680,"GeoX,GeoY",out of range,"3973268.055,-8410.8843"
 693,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-701,"GeoX,GeoY",OSGB,","
-701,GeoX,missing,
-701,GeoY,missing,
+701,"GeoX,GeoY",out of range,"3974115.641,-8707.6349"
 704,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-707,"GeoX,GeoY",OSGB,","
-707,GeoX,missing,
-707,GeoY,missing,
+707,"GeoX,GeoY",out of range,"3973467.881,-6820.9534"
 712,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 714,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 717,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 718,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 726,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 738,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-740,"GeoX,GeoY",OSGB,","
-740,GeoX,missing,
-740,GeoY,missing,
-746,"GeoX,GeoY",OSGB,","
-746,GeoX,missing,
-746,GeoY,missing,
-749,"GeoX,GeoY",OSGB,","
-749,GeoX,missing,
-749,GeoY,missing,
-750,"GeoX,GeoY",OSGB,","
-750,GeoX,missing,
-750,GeoY,missing,
-751,"GeoX,GeoY",OSGB,","
-751,GeoX,missing,
-751,GeoY,missing,
+740,"GeoX,GeoY",out of range,"3976599.997,-7753.8047"
+746,"GeoX,GeoY",out of range,"3976091.346,-7234.7477"
+749,"GeoX,GeoY",out of range,"3976727.674,-7186.9344"
+750,"GeoX,GeoY",out of range,"3976047.876,-7429.3427"
+751,"GeoX,GeoY",out of range,"3974481.854,-8730.4321"
 755,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 762,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 769,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-783,"GeoX,GeoY",OSGB,","
-783,GeoX,missing,
-783,GeoY,missing,
+783,"GeoX,GeoY",out of range,"3974260.219,-8830.7541"
 788,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 795,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 797,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
@@ -195,205 +111,99 @@ row-number,field,issue-type,value
 815,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 817,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 836,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-843,"GeoX,GeoY",OSGB,","
-843,GeoX,missing,
-843,GeoY,missing,
+843,"GeoX,GeoY",out of range,"3976351.561,-7830.1763"
 846,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-851,"GeoX,GeoY",OSGB,","
-851,GeoX,missing,
-851,GeoY,missing,
+851,"GeoX,GeoY",out of range,"3976539.477,-6343.8783"
 867,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-890,"GeoX,GeoY",OSGB,","
-890,GeoX,missing,
-890,GeoY,missing,
+890,"GeoX,GeoY",out of range,"3976348.148,-6850.4914"
 908,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 926,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 929,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-933,"GeoX,GeoY",OSGB,","
-933,GeoX,missing,
-933,GeoY,missing,
-939,"GeoX,GeoY",OSGB,","
-939,GeoX,missing,
-939,GeoY,missing,
+933,"GeoX,GeoY",out of range,"3973308.54,-8035.0821"
+939,"GeoX,GeoY",out of range,"3975009.364,-6386.4824"
 940,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-941,"GeoX,GeoY",OSGB,","
-941,GeoX,missing,
-941,GeoY,missing,
-947,"GeoX,GeoY",OSGB,","
-947,GeoX,missing,
-947,GeoY,missing,
+941,"GeoX,GeoY",out of range,"3976534.92,-7650.4731"
+947,"GeoX,GeoY",out of range,"3974211.957,-7581.3409"
 964,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1006,"GeoX,GeoY",OSGB,","
-1006,GeoX,missing,
-1006,GeoY,missing,
+1006,"GeoX,GeoY",out of range,"3975404.45,-6731.4757"
 1022,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1023,"GeoX,GeoY",OSGB,","
-1023,GeoX,missing,
-1023,GeoY,missing,
-1024,"GeoX,GeoY",OSGB,","
-1024,GeoX,missing,
-1024,GeoY,missing,
-1029,"GeoX,GeoY",OSGB,","
-1029,GeoX,missing,
-1029,GeoY,missing,
+1023,"GeoX,GeoY",out of range,"3975840.241,-7431.0952"
+1024,"GeoX,GeoY",out of range,"3976040.374,-7059.8673"
+1029,"GeoX,GeoY",out of range,"3973747.53,-7711.206"
 1066,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1078,"GeoX,GeoY",OSGB,","
-1078,GeoX,missing,
-1078,GeoY,missing,
-1086,"GeoX,GeoY",OSGB,","
-1086,GeoX,missing,
-1086,GeoY,missing,
+1078,"GeoX,GeoY",out of range,"3972992.104,-9399.8341"
+1086,"GeoX,GeoY",out of range,"3975295.529,-8501.7025"
 1112,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1127,"GeoX,GeoY",OSGB,","
-1127,GeoX,missing,
-1127,GeoY,missing,
-1147,"GeoX,GeoY",OSGB,","
-1147,GeoX,missing,
-1147,GeoY,missing,
+1127,"GeoX,GeoY",out of range,"3974094.66,-8734.9185"
+1147,"GeoX,GeoY",out of range,"3974021.813,-8522.251"
 1149,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1159,"GeoX,GeoY",OSGB,","
-1159,GeoX,missing,
-1159,GeoY,missing,
+1159,"GeoX,GeoY",out of range,"3973211.557,-8731.0976"
 1160,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1161,"GeoX,GeoY",OSGB,","
-1161,GeoX,missing,
-1161,GeoY,missing,
+1161,"GeoX,GeoY",out of range,"3972975.684,-9152.1153"
 1175,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 1189,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1192,"GeoX,GeoY",OSGB,","
-1192,GeoX,missing,
-1192,GeoY,missing,
-1210,"GeoX,GeoY",OSGB,","
-1210,GeoX,missing,
-1210,GeoY,missing,
+1192,"GeoX,GeoY",out of range,"3972968.293,-9342.9698"
+1210,"GeoX,GeoY",out of range,"3976748.375,-6319.157"
 1213,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1231,"GeoX,GeoY",OSGB,","
-1231,GeoX,missing,
-1231,GeoY,missing,
-1234,"GeoX,GeoY",OSGB,","
-1234,GeoX,missing,
-1234,GeoY,missing,
-1244,"GeoX,GeoY",OSGB,","
-1244,GeoX,missing,
-1244,GeoY,missing,
-1253,"GeoX,GeoY",OSGB,","
-1253,GeoX,missing,
-1253,GeoY,missing,
-1281,"GeoX,GeoY",OSGB,","
-1281,GeoX,missing,
-1281,GeoY,missing,
-1285,"GeoX,GeoY",OSGB,","
-1285,GeoX,missing,
-1285,GeoY,missing,
-1287,"GeoX,GeoY",OSGB,","
-1287,GeoX,missing,
-1287,GeoY,missing,
+1231,"GeoX,GeoY",out of range,"3974336.772,-8489.2262"
+1234,"GeoX,GeoY",out of range,"3974067.917,-8668.9462"
+1244,"GeoX,GeoY",out of range,"3976658.527,-6522.1375"
+1253,"GeoX,GeoY",out of range,"3973027.565,-7381.9163"
+1281,"GeoX,GeoY",out of range,"3975907.459,-7862.6922"
+1285,"GeoX,GeoY",out of range,"3975864.087,-7734.1037"
+1287,"GeoX,GeoY",out of range,"3976657.954,-6619.1737"
 1291,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1300,"GeoX,GeoY",OSGB,","
-1300,GeoX,missing,
-1300,GeoY,missing,
-1319,"GeoX,GeoY",OSGB,","
-1319,GeoX,missing,
-1319,GeoY,missing,
-1320,"GeoX,GeoY",OSGB,","
-1320,GeoX,missing,
-1320,GeoY,missing,
+1300,"GeoX,GeoY",out of range,"3972668.16,-7755.5918"
+1319,"GeoX,GeoY",out of range,"3975267.825,-7170.9606"
+1320,"GeoX,GeoY",out of range,"3974308.822,-8759.4089"
 1328,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 1343,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1347,"GeoX,GeoY",OSGB,","
-1347,GeoX,missing,
-1347,GeoY,missing,
-1359,"GeoX,GeoY",OSGB,","
-1359,GeoX,missing,
-1359,GeoY,missing,
+1347,"GeoX,GeoY",out of range,"3976571.751,-6229.9393"
+1359,"GeoX,GeoY",out of range,"3972386.485,-9248.6169"
 1379,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 1382,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1387,"GeoX,GeoY",OSGB,","
-1387,GeoX,missing,
-1387,GeoY,missing,
+1387,"GeoX,GeoY",out of range,"3975960.084,-6686.8491"
 1389,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1391,"GeoX,GeoY",OSGB,","
-1391,GeoX,missing,
-1391,GeoY,missing,
+1391,"GeoX,GeoY",out of range,"3974627.118,-5313.5338"
 1392,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 1394,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 1403,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 1406,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1409,"GeoX,GeoY",OSGB,","
-1409,GeoX,missing,
-1409,GeoY,missing,
-1412,"GeoX,GeoY",OSGB,","
-1412,GeoX,missing,
-1412,GeoY,missing,
+1409,"GeoX,GeoY",out of range,"3973506.322,-8480.236"
+1412,"GeoX,GeoY",out of range,"3973333.913,-7915.8992"
 1423,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1490,"GeoX,GeoY",OSGB,","
-1490,GeoX,missing,
-1490,GeoY,missing,
-1493,"GeoX,GeoY",OSGB,","
-1493,GeoX,missing,
-1493,GeoY,missing,
+1490,"GeoX,GeoY",out of range,"3975194.262,-8581.2138"
+1493,"GeoX,GeoY",out of range,"3973725.341,-8392.8265"
 1497,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1506,"GeoX,GeoY",OSGB,","
-1506,GeoX,missing,
-1506,GeoY,missing,
+1506,"GeoX,GeoY",out of range,"3976431.556,-6975.4751"
 1518,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 1546,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1555,"GeoX,GeoY",OSGB,","
-1555,GeoX,missing,
-1555,GeoY,missing,
-1563,"GeoX,GeoY",OSGB,","
-1563,GeoX,missing,
-1563,GeoY,missing,
-1565,"GeoX,GeoY",OSGB,","
-1565,GeoX,missing,
-1565,GeoY,missing,
-1577,"GeoX,GeoY",OSGB,","
-1577,GeoX,missing,
-1577,GeoY,missing,
+1555,"GeoX,GeoY",out of range,"3973016.912,-7473.5964"
+1563,"GeoX,GeoY",out of range,"3976420.037,-6609.8623"
+1565,"GeoX,GeoY",out of range,"3974713.187,-8193.1932"
+1577,"GeoX,GeoY",out of range,"3973668.786,-8116.6929"
 1621,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 1622,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 1629,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1654,"GeoX,GeoY",OSGB,","
-1654,GeoX,missing,
-1654,GeoY,missing,
+1654,"GeoX,GeoY",out of range,"3975323.664,-7125.8838"
 1669,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1671,"GeoX,GeoY",OSGB,","
-1671,GeoX,missing,
-1671,GeoY,missing,
-1683,"GeoX,GeoY",OSGB,","
-1683,GeoX,missing,
-1683,GeoY,missing,
+1671,"GeoX,GeoY",out of range,"3972833.756,-9436.3309"
+1683,"GeoX,GeoY",out of range,"3976471.438,-6374.5206"
 1696,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1709,"GeoX,GeoY",OSGB,","
-1709,GeoX,missing,
-1709,GeoY,missing,
-1713,"GeoX,GeoY",OSGB,","
-1713,GeoX,missing,
-1713,GeoY,missing,
-1715,"GeoX,GeoY",OSGB,","
-1715,GeoX,missing,
-1715,GeoY,missing,
+1709,"GeoX,GeoY",out of range,"3974963.957,-8155.9258"
+1713,"GeoX,GeoY",out of range,"3976217.356,-6671.8223"
+1715,"GeoX,GeoY",out of range,"3976287.525,-6935.4239"
 1724,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1736,"GeoX,GeoY",OSGB,","
-1736,GeoX,missing,
-1736,GeoY,missing,
+1736,"GeoX,GeoY",out of range,"3976447.593,-7844.537"
 1751,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1753,"GeoX,GeoY",OSGB,","
-1753,GeoX,missing,
-1753,GeoY,missing,
+1753,"GeoX,GeoY",out of range,"3974737.321,-5860.6857"
 1755,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 1760,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 1761,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1763,"GeoX,GeoY",OSGB,","
-1763,GeoX,missing,
-1763,GeoY,missing,
-1770,"GeoX,GeoY",OSGB,","
-1770,GeoX,missing,
-1770,GeoY,missing,
+1763,"GeoX,GeoY",out of range,"3975586.992,-6624.787"
+1770,"GeoX,GeoY",out of range,"3974754.213,-8074.5562"
 1779,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
-1784,"GeoX,GeoY",OSGB,","
-1784,GeoX,missing,
-1784,GeoY,missing,
+1784,"GeoX,GeoY",out of range,"3974020.282,-8626.2584"
 1793,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 1794,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 1805,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
@@ -403,4 +213,6 @@ row-number,field,issue-type,value
 1837,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 1839,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 1867,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
+2101,Hectares,minimum,0
+2101,Hectares,missing,
 2188,PermissionDate,date,201-11-14

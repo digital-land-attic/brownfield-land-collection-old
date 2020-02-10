@@ -1,4 +1,2 @@
 row-number,field,issue-type,value
-46,"GeoX,GeoY",OSGB,","
-46,GeoX,missing,
-46,GeoY,missing,
+46,"GeoX,GeoY",OSGB outside England,"399794,911364"

@@ -1,6 +1,6 @@
 row-number,field,issue-type,value
-31,"GeoX,GeoY",OSGB,","
-31,GeoX,missing,
-31,GeoY,missing,
+15,Hectares,maximum,302506
+15,Hectares,missing,
+31,"GeoX,GeoY",out of range,"5712126,3.2527E+5"
 47,PermissionDate,date,2018-08*01
 51,PermissionDate,date,2018-05*03

@@ -1,5 +1,6 @@
 row-number,field,issue-type,value
 30,OrganisationURI,default,http://opendatacommunities.org/id/district-council/gravesham
+34,"GeoX,GeoY",out of range,"562765.07,17368.33"
 37,OrganisationURI,default,http://opendatacommunities.org/id/district-council/gravesham
 38,OrganisationURI,default,http://opendatacommunities.org/id/district-council/gravesham
 47,OrganisationURI,default,http://opendatacommunities.org/id/district-council/gravesham

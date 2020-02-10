@@ -10,6 +10,7 @@ row-number,field,issue-type,value
 9,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
 10,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
 11,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
+11,"GeoX,GeoY",out of range,"25035,50431"
 12,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
 13,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
 14,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
@@ -25,6 +26,7 @@ row-number,field,issue-type,value
 24,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
 25,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
 26,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
+26,"GeoX,GeoY",out of range,"25127,50709"
 27,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
 28,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
 29,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford

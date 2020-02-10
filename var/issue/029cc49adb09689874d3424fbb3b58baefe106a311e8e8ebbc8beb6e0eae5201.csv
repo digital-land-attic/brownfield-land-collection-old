@@ -1,58 +1,20 @@
 row-number,field,issue-type,value
-1,"GeoX,GeoY",OSGB,","
-1,GeoX,missing,
-1,GeoY,missing,
-2,"GeoX,GeoY",OSGB,","
-2,GeoX,missing,
-2,GeoY,missing,
-3,"GeoX,GeoY",OSGB,","
-3,GeoX,missing,
-3,GeoY,missing,
-4,"GeoX,GeoY",OSGB,","
-4,GeoX,missing,
-4,GeoY,missing,
-5,"GeoX,GeoY",OSGB,","
-5,GeoX,missing,
-5,GeoY,missing,
-6,"GeoX,GeoY",OSGB,","
-6,GeoX,missing,
-6,GeoY,missing,
-7,"GeoX,GeoY",OSGB,","
-7,GeoX,missing,
-7,GeoY,missing,
-8,"GeoX,GeoY",OSGB,","
-8,GeoX,missing,
-8,GeoY,missing,
-9,"GeoX,GeoY",OSGB,","
-9,GeoX,missing,
-9,GeoY,missing,
-10,"GeoX,GeoY",OSGB,","
-10,GeoX,missing,
-10,GeoY,missing,
-11,"GeoX,GeoY",OSGB,","
-11,GeoX,missing,
-11,GeoY,missing,
-12,"GeoX,GeoY",OSGB,","
-12,GeoX,missing,
-12,GeoY,missing,
-13,"GeoX,GeoY",OSGB,","
-13,GeoX,missing,
-13,GeoY,missing,
-14,"GeoX,GeoY",OSGB,","
-14,GeoX,missing,
-14,GeoY,missing,
-15,"GeoX,GeoY",OSGB,","
-15,GeoX,missing,
-15,GeoY,missing,
-16,"GeoX,GeoY",OSGB,","
-16,GeoX,missing,
-16,GeoY,missing,
-17,"GeoX,GeoY",OSGB,","
-17,GeoX,missing,
-17,GeoY,missing,
-18,"GeoX,GeoY",OSGB,","
-18,GeoX,missing,
-18,GeoY,missing,
-19,"GeoX,GeoY",OSGB,","
-19,GeoX,missing,
-19,GeoY,missing,
+1,"GeoX,GeoY",out of range,"3868174.295,-59185.9921"
+2,"GeoX,GeoY",out of range,"3866384.792,-59819.0908"
+3,"GeoX,GeoY",out of range,"3861807.485,-65480.305"
+4,"GeoX,GeoY",out of range,"3867238.345,-59668.746"
+5,"GeoX,GeoY",out of range,"3867175.292,-60016.845"
+6,"GeoX,GeoY",out of range,"3866540.335,-59956.6368"
+7,"GeoX,GeoY",out of range,"3867034.759,-59224.2605"
+8,"GeoX,GeoY",out of range,"3860459.787,-61771.1243"
+9,"GeoX,GeoY",out of range,"3857382.201,-60683.9033"
+10,"GeoX,GeoY",out of range,"3868003.5,-59226.0665"
+11,"GeoX,GeoY",out of range,"3861325.452,-215452.8607"
+12,"GeoX,GeoY",out of range,"3869161.131,-59046.3028"
+13,"GeoX,GeoY",out of range,"3867676.933,-50056.9588"
+14,"GeoX,GeoY",out of range,"3851553.718,-54049.0022"
+15,"GeoX,GeoY",out of range,"3867305.687,-59711.1323"
+16,"GeoX,GeoY",out of range,"3871961.167,-66288.213"
+17,"GeoX,GeoY",out of range,"3867125.166,-59440.6008"
+18,"GeoX,GeoY",out of range,"3867056.723,-59753.4812"
+19,"GeoX,GeoY",out of range,"3863080.751,-66689.7473"

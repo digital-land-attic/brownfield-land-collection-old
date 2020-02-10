@@ -1,16 +1,6 @@
 row-number,field,issue-type,value
-9,"GeoX,GeoY",OSGB,","
-9,GeoX,missing,
-9,GeoY,missing,
-27,"GeoX,GeoY",OSGB,","
-27,GeoX,missing,
-27,GeoY,missing,
-28,"GeoX,GeoY",OSGB,","
-28,GeoX,missing,
-28,GeoY,missing,
-72,"GeoX,GeoY",OSGB,","
-72,GeoX,missing,
-72,GeoY,missing,
-83,"GeoX,GeoY",OSGB,","
-83,GeoX,missing,
-83,GeoY,missing,
+9,"GeoX,GeoY",WGS84 outside England,"50.376593,50.376593"
+27,"GeoX,GeoY",WGS84 outside England,"50.830734,50.830734"
+28,"GeoX,GeoY",WGS84 outside England,"50.830734,50.830734"
+72,"GeoX,GeoY",WGS84 outside England,"50.376594,50.376593"
+83,"GeoX,GeoY",WGS84 outside England,"50.264351,50.264351"

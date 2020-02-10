@@ -1,2 +1,10 @@
 row-number,field,issue-type,value
+88,Hectares,minimum,0.0
+88,Hectares,missing,
+105,Hectares,minimum,0.0
+105,Hectares,missing,
+140,Hectares,minimum,0.0
+140,Hectares,missing,
+145,Hectares,minimum,0.0
+145,Hectares,missing,
 235,LastUpdatedDate,date,TO ADD: Date that the Brownfield Register gets approved for publication

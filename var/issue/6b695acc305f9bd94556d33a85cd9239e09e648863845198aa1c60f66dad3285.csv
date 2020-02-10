@@ -1,4 +1,3 @@
 row-number,field,issue-type,value
-124,"GeoX,GeoY",OSGB,","
-124,GeoX,missing,
-124,GeoY,missing,
+22,"GeoX,GeoY",out of range,"282893,41255"
+124,"GeoX,GeoY",out of range,"8.2E+2,365"

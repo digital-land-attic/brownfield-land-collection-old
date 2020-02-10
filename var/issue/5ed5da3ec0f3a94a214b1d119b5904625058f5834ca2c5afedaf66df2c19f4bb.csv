@@ -94,6 +94,7 @@ row-number,field,issue-type,value
 93,SiteplanURL,uri,Available within individual site Pdf
 94,SiteplanURL,uri,Available within individual site Pdf
 95,SiteplanURL,uri,Available within individual site Pdf
+95,"GeoX,GeoY",out of range,"3.9019E+5,41554"
 96,SiteplanURL,uri,Available within individual site Pdf
 97,SiteplanURL,uri,Available within individual site Pdf
 98,SiteplanURL,uri,Available within individual site Pdf

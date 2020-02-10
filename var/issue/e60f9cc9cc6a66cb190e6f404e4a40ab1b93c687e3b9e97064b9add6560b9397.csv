@@ -1,16 +1,18 @@
 row-number,field,issue-type,value
-39,"GeoX,GeoY",OSGB,","
-39,GeoX,missing,
-39,GeoY,missing,
-41,"GeoX,GeoY",OSGB,","
-41,GeoX,missing,
-41,GeoY,missing,
-42,"GeoX,GeoY",OSGB,","
-42,GeoX,missing,
-42,GeoY,missing,
-43,"GeoX,GeoY",OSGB,","
-43,GeoX,missing,
-43,GeoY,missing,
-44,"GeoX,GeoY",OSGB,","
-44,GeoX,missing,
-44,GeoY,missing,
+25,Hectares,minimum,0
+25,Hectares,missing,
+39,Hectares,minimum,0
+39,Hectares,missing,
+39,"GeoX,GeoY",WGS84 outside England,"0,0"
+41,Hectares,minimum,0
+41,Hectares,missing,
+41,"GeoX,GeoY",WGS84 outside England,"0,0"
+42,Hectares,minimum,0
+42,Hectares,missing,
+42,"GeoX,GeoY",WGS84 outside England,"0,0"
+43,Hectares,minimum,0
+43,Hectares,missing,
+43,"GeoX,GeoY",WGS84 outside England,"0,0"
+44,Hectares,minimum,0
+44,Hectares,missing,
+44,"GeoX,GeoY",WGS84 outside England,"0,0"

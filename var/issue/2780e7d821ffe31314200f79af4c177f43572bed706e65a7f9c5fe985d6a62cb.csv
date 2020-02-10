@@ -8,9 +8,7 @@ row-number,field,issue-type,value
 175,GeoY,missing,
 176,GeoX,missing,
 176,GeoY,missing,
-177,"GeoX,GeoY",OSGB,","
-177,GeoX,missing,
-177,GeoY,missing,
+177,"GeoX,GeoY",out of range,"3984708,293956"
 178,GeoX,missing,
 178,GeoY,missing,
 178,Hectares,missing,
