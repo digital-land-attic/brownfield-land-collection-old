@@ -1,140 +1,418 @@
 OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,101020,"Former Methodist Chapel, Almley, Woonton, Herefordshire, HR3 6PY",-2.975626,52.167023,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=101020,0.08,,,permissioned,full planning permission,2010-06-25,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162384,"Uphampton Farm, Belgate Lane, Uphampton Shobdon, Leominster, Herefordshire, HR6 9PA",-2.876817,52.269537,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162384,,,,permissioned,full planning permission,2016-10-26,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161067,"Land at Bush House, Bush Bank, Herefordshire, HR4 8PQ",-2.800951,52.15737,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161067,,,,permissioned,full planning permission,2016-05-24,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,151090,"Land at The Walled Garden, Bodenham Manor, Bodenham, Hereford, Herefordshire, HR1 3JS",-2.691581,52.158296,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151090,,,,permissioned,full planning permission,2015-06-08,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162438,"Land at Wynmoor, Bodenham, Hereford, Herefordshire",-2.667887,52.153532,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162438,,,,permissioned,reserved matters approval,2016-10-17,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162506,"Bodenham Manor, Bodenham, Hereford, Herefordshire",-2.691581,52.158296,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162506,0.34,,,permissioned,full planning permission,2016-11-04,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162618,"The Forge, Bodenham, Herefordshire",-2.682065,52.1564,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162618,0.44,,,permissioned,full planning permission,2017-02-22,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,164128,"The Annexe, The Croft, Swinmore, Munsley, Herefordshire",-2.472509,52.073256,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164128,0.01,,,permissioned,full planning permission,2017-03-01,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152897,"Land at Ash Ingen Place, Bridstow, Ross-on-Wye, Herefordshire",-2.611464,51.93219,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152897,,,,permissioned,full planning permission,2016-01-15,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153594,"Orles Barn Hotel, Old Nursery Close, Ross-on-Wye, Herefordshire, HR9 6AE",-2.599512,51.914962,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153594,0.23,,,permissioned,outline planning permission,2016-03-07,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160361,"Site at The Beech, Haynall Lane, Little Hereford, herefordshire",-2.677149,52.306165,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160361,,,,permissioned,full planning permission,2016-04-26,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161877,"52 New Road, Bromyard, Herefordshire",-2.511565,52.187921,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161877,,,,permissioned,outline planning permission,2017-03-31,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162480,"Site at Old Grammar School, Church Street, Bromyard, Herefordshire, HR7 4DP",-2.504648,52.190621,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162480,0.09,,,permissioned,full planning permission,2016-12-21,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162820,"Flats at 38 High Street, Bromyard, Herefordshire, HR7 4AE",-2.50743,52.189602,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162820,0.05,,,permissioned,full planning permission,2016-11-07,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153810,"Tillington Fruit Farm, Tillington, Hereford, Herefordshire, HR4 8LD",-2.779302,52.098761,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153810,,,,permissioned,full planning permission,2016-11-03,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160600,"Coach House at Fruit Farm Tillington Estate, Crowmoor Lane, Tillington, Herefordshire, HR4 8LD",-2.779809,52.099351,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160600,,,,permissioned,full planning permission,2016-11-03,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,174386,"Tillington Fruit Farm, Tillington, Hereford, Herefordshire, HR4 8LD",-2.779302,52.098761,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=174386,,,,permissioned,,2018-02-14,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160340,"Stables at The Backwoods, Westhope, Hereford, Herefordshire, HR4 8BU",-2.775776,52.155506,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160340,,,,permissioned,full planning permission,2017-02-09,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162311,"Site adjacent to Summerlease, Westhope Hill, Westhope, Herefordshire",-2.785271,52.154302,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162311,0.39,,,permissioned,outline planning permission,2016-10-28,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,142860,"Part OS 1330, The Garlands, Priory Wood, Clifford, Herefordshire",-3.079274,52.10108,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=142860,,,,permissioned,full planning permission,2015-10-20,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160200,"Site adjacent to Oakdene, Clifford, Whitney on Wye, Herefordshire",-3.100722,52.105853,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160200,,,,permissioned,full planning permission,2016-04-04,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,170353,"Land at The Garlands, Priory Wood, Clifford, Herefordshire",-3.079187,52.101081,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=170353,,,,permissioned,full planning permission,2017-03-17,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163936,"Flats at Queenswood, Cradley, Malvern, WR13 5NF",-2.385894,52.124764,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163936,,,,permissioned,full planning permission,2017-02-03,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,30719,"Crown Inn, Cradley, Malvern, Herefordshire, WR13 5LS",-2.40062,52.119289,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=30719,0.32,,,permissioned,full planning permission,2003-10-13,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161944,"Land to the rear of Butterfields, Bosbury Road, Cradley, Worcestershire",-2.402098,52.117149,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161944,,,,permissioned,outline planning permission,2017-01-25,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163491,"Woodavens, Dormington, Herefordshire, HR1 4ES",-2.60977,52.058142,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163491,,,,permissioned,full planning permission,2017-01-23,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143678,"Site adjacent to Cooper's Hall, Chapel Lane, Dorstone, Herefordshire",-2.999323,52.068887,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143678,0.14,,,permissioned,full planning permission,2015-04-30,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163056,"Land adjacent to The Chapel, Chapel Lane, Dorstone, Herefordshire",-3.000354,52.068689,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163056,,,,permissioned,full planning permission,2017-01-23,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,164098,"Church of St Michael and All Angels, Dulas, Herefordshire, HR2 0HL",-2.915683,51.959661,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164098,,,,permissioned,full planning permission,2017-03-13,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143624,"The Surgery, Eardisley, Hereford, Herefordshire, HR3 6NS",-3.005015,52.135893,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143624,0.07,,,permissioned,full planning permission,2015-01-29,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161674,"Land to the rear of the Laurels Veterinary Practice, Pontrilas Road, Ewyas Harold, Herefordshire, HR2 0EL",-2.885936,51.944173,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161674,,,,permissioned,outline planning permission,2016-09-15,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152955,"New Inn, Fownhope, Hereford, HR1 4PE",-2.61481,52.006652,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152955,0.22,,,permissioned,full planning permission,2016-01-06,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152359,"Former Activity Barn, Hole-in-the-wall, Foy, Ross-on-Wye, Herefordshire",-2.56999,51.95332,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152359,0.85,,,permissioned,full planning permission,2015-12-14,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,170132,"Land adjacent to Gas Works, Herefordshire",-2.623759,51.875878,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=170132,,,,permissioned,full planning permission,2017-03-16,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153500,"6a Graftonbury Mews, Grafton Lane, Hereford, Herefordshire, HR2 8BN",-2.734982,52.029529,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153500,0.01,,,permissioned,full planning permission,2016-01-20,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,164079,"Lower House Farm, Netherwood Lane, Hereford, HR1 1UT",-2.679436,52.060467,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164079,,,,permissioned,full planning permission,2017-02-14,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162033,"Cobnash House, Hostel Lane, Cobnash, Kingsland, Herefordshire",-2.807456,52.238088,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162033,,,,permissioned,full planning permission,2016-10-05,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163290,"Land at The Garden House, Orchard Close, Kingsland, Leominster, Herefordshire, HR6 9QS",-2.809413,52.248225,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163290,,,,permissioned,full planning permission,2016-12-21,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162468,"Brookfield Lodge, Thruxton, Hereford, Herefordshire, HR2 9BB",-2.828486,52.008984,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162468,,,,permissioned,full planning permission,2016-10-17,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,113545,"Land behind 43 Duke Street, Kington, Herefordshire, HR5 3BL",-3.028596,52.204298,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=113545,,,,,full planning permission,2012-05-16,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,141330,"Kingswood Hall, Kingswood Road, Kington, Hereford, HR5 3HE",-3.028783,52.195935,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=141330,0.23,,,permissioned,full planning permission,2014-06-20,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161093,"Land to the rear of Owls Rest, Lower Cross Lane, Kington, Herefordshire, HR5 3BG",-3.029182,52.204329,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161093,0.06,,,permissioned,full planning permission,2016-06-10,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162420,"Old Bakery, 12 Church Street, Kington, Herefordshire, HR5 3AZ",-3.031865,52.20391,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162420,,,,permissioned,full planning permission,2016-09-16,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163478,"The Oaklands, Kingswood, Kington, Herefordshire, HR5 3HF",-3.03241,52.185132,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163478,,,,permissioned,full planning permission,2017-03-07,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160663,"Land at The Old Carpenters Shop, Kinnersley, Hereford, Herefordshire, HR3 6QB",-2.967893,52.137426,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160663,,,,permissioned,full planning permission,2016-04-29,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163836,"The Sign Shop at Little Heath, Heath Road, Leysters, Herefordshire, HR6 0HT",-2.650913,52.258313,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163836,,,,permissioned,full planning permission,2017-02-01,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143537,"Tinsmiths, Rear of 8A High Street, Ledbury, Herefordshire, HR8 1DS",-2.421435,52.036687,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143537,,,,permissioned,full planning permission,2015-06-19,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,151075,"Land at 1 Bridge Street, Ledbury, Herefordshire, HR8 2AJ",-2.426943,52.036452,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151075,,,,,full planning permission,2015-06-23,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162063,"4 High Street, Ledbury, Herefordshire, HR8 1DS",-2.422122,52.036883,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162063,0.04,,,permissioned,full planning permission,2016-10-17,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163055,"4 The Southend, Ledbury, Herefordshire, HR8 2EY",-2.422444,52.035551,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163055,,,,permissioned,full planning permission,2017-02-14,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,150996,"Land at rear of 48 Watling Street, Leintwardine, Craven Arms, Shropshire, SY 7 0LL",-2.875131,52.363212,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150996,,,,permissioned,full planning permission,2015-05-27,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,100122,"Barons Cross Camp, Cholstrey Road, Leominster, HR6 8RT",-2.770761,52.224758,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=100122,1.39,,,permissioned,reserved matters approval,2010-03-22,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,141006,"Land off Ebnal Close, Leominster, Herefordshire",-2.760838,52.224058,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=141006,,,,permissioned,full planning permission,2014-11-26,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,141022,"Land at, Pinsley Road, Leominster, Herefordshire, HR6 8NN",-2.732116,52.227692,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=141022,0.45,,,permissioned,full planning permission,2016-05-13,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160226,"Land adjacent 87 Bridge Street, Leominster, Herefordshire, HR6 8EA",-2.743133,52.233368,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160226,,,,permissioned,full planning permission,2016-06-22,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161456,"26 High Street, Morris Mews, Leominster",-2.739312,52.227225,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161456,0.04,,,permissioned,full planning permission,2016-08-23,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161937,"Site at The Birdcage, Barons Cross Road, Leominster, Herefordshire",-2.762343,52.223014,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161937,0.04,,,permissioned,outline planning permission,2016-11-01,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153016,"East View, Bromsash, Ross-On-Wye, Herefordshire, HR9 7PN",-2.510652,51.913726,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153016,,,,permissioned,full planning permission,2015-11-25,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163753,"Land at The Three Horseshoes Inn, Little Cowarne, Hereford, Herefordshire",-2.580492,52.154337,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163753,,,,permissioned,full planning permission,2017-01-13,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161338,"Tredunnock Farm, Llangarron, Ross-on-Wye, Herefordshire",-2.698755,51.885067,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161338,,,,permissioned,full planning permission,2016-07-04,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163814,"Building adjacent The Old Vicarage, Lucton, Leominster, Herefordshire, HR6 9PN",-2.824489,52.278437,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163814,,,,permissioned,full planning permission,2017-02-21,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,132123,"Chapel adjacent to The Cottage, New Street, Lyonshall, Herefordshire, HR5 3HT",-2.972356,52.204766,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=132123,,,,permissioned,full planning permission,2013-10-02,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161501,"Penrhos Court, Lyonshall, Kington, Herefordshire",-3.000526,52.198938,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161501,0.38,,,permissioned,full planning permission,2016-09-14,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152247,"Llanrosser Methodist Church, Michaelchurch Escley, Hereford, Herefordshire, HR2 0PU",-3.0379,52.033201,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152247,0.08,,,permissioned,full planning permission,2015-09-15,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143339,"Former village hall and rifle club, Kingsthorne, Herefordshire",-2.785089,51.900149,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143339,,,,permissioned,full planning permission,2015-01-14,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153552,"Land adjacent Rangers Lodge, Little Birch Road, Kingsthorne, Herefordshire",-2.724045,51.982314,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153552,,,,permissioned,full planning permission,2016-02-23,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160819,"Land to the rear of Post Office and Shop, Wormelow, Hereford",-2.740622,51.966818,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160819,,,,permissioned,outline planning permission,2016-05-26,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,150405,"Fir Tree Inn, Much Cowarne, Herefordshire, HR7 4JN",-2.510705,52.117924,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150405,,,,permissioned,full planning permission,2015-07-09,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143737,"Land at Park House, Wormelow, Hereford, Herefordshire, HR2 8EQ",-2.745327,51.967957,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143737,0.08,,,permissioned,full planning permission,2015-02-24,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,151492,"Land to the rear of Myrtle Cottage, Much Dewchurch, Herefordshire, HR2 8DL",-2.755397,51.977279,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151492,0.12,,,permissioned,full planning permission,2015-10-09,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163531,"The Castle, Ashperton, Ledbury",-2.511921,52.063427,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163531,0.03,,,permissioned,full planning permission,2017-01-20,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162150,"Norton House School, Norton Canon, Herefordshire, HR4 7BH",-2.907023,52.128137,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162150,,,,permissioned,full planning permission,2016-09-05,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160258,"Burley Gate House, Burley Gate, Hereford, Herefordshire, HR1 3QR",-2.590417,52.122362,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160258,,,,permissioned,full planning permission,2016-03-22,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160489,"The Cave, Orcop Hill, Orcop, Herefordshire, HR2 8SF",-2.761568,51.947965,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160489,,,,permissioned,full planning permission,2016-05-24,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161033,"Workshop at Orchard Farm, Orleton, Herefordshire, SY8 4HE",-2.743122,52.305445,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161033,0.14,,,permissioned,full planning permission,2016-05-26,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,151944,"Former Doctors Surgery, East Street, Pembridge, Herefordshire, HR6 9HA",-2.890308,52.218774,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151944,,,,permissioned,full planning permission,2015-10-23,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152982,"Coach House at Wellbrook, Peterchurch, Herefordshire",-2.947207,52.04114,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152982,,,,permissioned,full planning permission,2015-12-08,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143204,"Mason's Potatoes, The Packhouse, Dadnor, Ross-on-Wye, Herefordshire",-2.635324,51.931659,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143204,0.7,,,permissioned,full planning permission,2015-03-18,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152872,"White House, Preston Wynne, Herefordshire",-2.650532,52.119052,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152872,,,,permissioned,full planning permission,2015-11-04,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,150419,"High Bank, Richards Castle, Ludlow, Herefordshire, SY8 4EL",-2.743045,52.321817,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150419,0.44,,,permissioned,full planning permission,2015-05-06,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,142121,"Watsons Car Park Site, Church Street, Ross-on-Wye, Herefordshire",-2.584637,51.913679,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=142121,0.16,,,permissioned,full planning permission,2014-12-11,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160868,"Workshop Adjacent to Quyfields, Shobdon, Leominster, Herefordshire, HR6 9NX",-2.860214,52.255202,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160868,,,,permissioned,full planning permission,2016-05-09,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152414,"Oakfields, Stoke Lacy, Bromyard, Herefordshire, HR7 4HE",-2.54831,52.14987,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152414,0.06,,,permissioned,full planning permission,2015-09-29,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153149,"The Forge, Tarrington, Herefordshire, HR1 4HX",-2.559905,52.064116,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153149,,,,permissioned,full planning permission,2016-05-10,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160774,"Site of former Myrtle Cottage, Vowchurch, Herefordshire, HR2 0RL",-2.923423,52.030315,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160774,,,,permissioned,full planning permission,2016-07-12,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153570,"Stable Block At Arthurs Dingle, Leys Hill, Walford, Ross-On-Wye, Herefordshire, HR9 5QU",-2.601648,51.865923,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153570,4.82,,,permissioned,full planning permission,2016-02-11,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161689,"Land at Cats, Leys Hill Road, Walford, Ross-on-Wye, Herefordshire, HR9 5QU",-2.601727,51.866417,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161689,1.46,,,permissioned,full planning permission,2017-01-05,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,170294,"Kiln Rise, Howle Hill, Ross-On-Wye, Herefordshire, HR9 5SH",-2.578366,51.880479,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=170294,0.26,,,permissioned,full planning permission,2017-03-20,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160358,"Welsh Newton Garage, Welsh Newton, Herefordshire",-2.730285,51.860061,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160358,,,,permissioned,full planning permission,2016-04-08,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143436,"Land adjoining Porch Cottages, Weston Under Penyard, Ross-on-Wye, Herefordshire, HR9 7PG",-2.530084,51.914477,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143436,,,,permissioned,full planning permission,2015-03-13,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160282,"Land at Wigmore Hall, Wigmore, Leominster, Herefordshire, HR6 9UL",-2.858846,52.313264,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160282,,,,permissioned,full planning permission,2016-04-06,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,140905,"St Andrews Church, Wolferlow, Bromyard, Herefordshire, HR7 4QA",-2.486719,52.252748,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=140905,0.12,,,permissioned,full planning permission,2014-08-07,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161056,"Workshop opposite Terrace Hall, Woolhope, Herefordshire",-2.579919,52.012323,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161056,0.02,,,permissioned,full planning permission,2016-05-25,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,123177,"Land East of 20 Belmont Avenue, Hereford, Herefordshire, HR2 7JQ",-2.722729,52.048881,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=123177,0.29,,,permissioned,full planning permission,2015-01-21,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,142197,"Land at Bridge Inn, College Road, Hereford, Herefordshire",-2.708741,52.071668,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=142197,0.29,,,permissioned,reserved matters approval,2014-09-08,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143495,"11-13 Maylord Street, Hereford, Herefordshire, HR1 2DS",-2.715809,52.057491,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143495,0.01,,,permissioned,full planning permission,2015-01-14,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143799,"Land off Grosvenor Place, Hereford",-2.743613,52.072666,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143799,0.07,,,permissioned,full planning permission,2015-02-27,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,150244,"30 Union Street, Hereford, Herefordshire, HR1 2BT",-2.712864,52.056655,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150244,,,,permissioned,full planning permission,2015-04-07,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,150630,"Land off Catherine Street, Hereford",-2.714283,52.058741,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150630,0.07,,,permissioned,full planning permission,2016-03-14,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,151031,"8 Cotterell Street, Hereford, HR4 0HQ",-2.731125,52.058476,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151031,0.02,,,permissioned,outline planning permission,2015-07-13,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,151077,"Chandos Street Methodist Church, Chandos Street, Hereford, Herefordshire, HR4 0EX",-2.731161,52.057127,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151077,0.04,,,permissioned,full planning permission,2015-10-02,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,151352,"85 Aylestone Hil, Hereford, Herefordshire, HR1 1HX",-2.698185,52.066507,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151352,0.04,,,permissioned,full planning permission,2015-07-17,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152246,"1 St Martins Street, Hereford, Herefordshire, HR2 7RD",-2.718478,52.052036,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152246,0.03,,,permissioned,full planning permission,2015-11-18,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152422,"Outbuilding at Mavis Holt, 35 Hampton Park Road, Hereford, Herefordshire",-2.691056,52.049763,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152422,,,,permissioned,full planning permission,2016-10-24,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153057,"Land at 114 Eign Road, Hereford, Herefordshire, HR1 2RX",-2.700797,52.050704,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153057,,,,permissioned,full planning permission,2016-05-19,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153254,"82 Widemarsh Street, Hereford",-2.714958,52.059016,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153254,0.01,,,permissioned,full planning permission,2016-01-07,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153506,"20 Broad Street, Hereford, HR4 9AP",-2.716936,52.054976,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153506,,,,permissioned,full planning permission,2016-04-12,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160076,"92-94 Widemarsh Street, Hereford, HR4 9HG",-2.714875,52.059268,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160076,0.01,,,permissioned,full planning permission,2016-03-01,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160322,"Land at 82-84, Church Road, Hereford, HR1 1RS",-2.688839,52.056384,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160322,,,,permissioned,full planning permission,2016-05-18,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160687,"12 Kyrle Street, Hereford, HR1 2ET",-2.709563,52.057259,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160687,,,,permissioned,full planning permission,2016-05-10,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161205,"Lyndale Care Home, 24 Southbank Close, Hereford, Herefordshire, HR1 2TQ",-2.70394,52.05768,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161205,,,,permissioned,full planning permission,2016-09-12,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161356,"Land at 40 Newtown Road, Hereford, HR4 9LL",-2.715771,52.064217,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161356,0.07,,,permissioned,full planning permission,2016-10-21,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161414,"Plot adjacent to 83 Broomy Hill, Hereford",-2.737903,52.050279,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161414,0.26,,,permissioned,full planning permission,2016-07-08,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163176,"Land at 36 Holme Lacy Road, Hereford, HR2 6BY",-2.717547,52.043051,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163176,,,,permissioned,full planning permission,2016-12-05,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163301,"Second Floor Flat, 24 Eign Gate, Hereford, HR4 0AB",-2.718901,52.056564,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163301,0.01,,,permissioned,full planning permission,2016-12-13,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163501,"The Moorfield Inn, Moorfield Street, Hereford",-2.720737,52.059188,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163501,,,,permissioned,full planning permission,2017-02-21,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163555,"37 Whitecross Road, Hereford, HR4 0DE",-2.727002,52.057863,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163555,0.03,,,permissioned,full planning permission,2017-01-05,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163719,"129-131 Eign Street, Hereford, Herefordshire",-2.721221,52.056649,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163719,,,,permissioned,full planning permission,2017-03-01,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163751,"Flats at 15-17 Eign Gate, Hereford, HR4 0AB",-2.718212,52.056317,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163751,0.01,,,permissioned,full planning permission,2017-02-16,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,164042,"18-20 Commercial Street, Hereford, HR1 2DE",-2.713619,52.057334,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164042,0.03,,,permissioned,full planning permission,2017-02-13,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,164105,"12A Bridge Street, Hereford, HR4 9DF",-2.718576,52.053572,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164105,0.01,,,permissioned,full planning permission,2017-02-20,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,164135,"The Cotterell Arms, 65-67 Cotterell Street, Hereford",-2.73421,52.058916,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164135,,,,permissioned,full planning permission,2017-02-09,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,164111,"52 Broomy Hill, Hereford, HR4 0LH",-2.731452,52.052603,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164111,0.2,,,permissioned,full planning permission,2017-03-21,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,170350,"Land at 98 Kings Acre Road, Hereford, HR4 0RG",-2.749315,52.065572,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=170350,,,,permissioned,full planning permission,2017-03-24,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,130784,"First floor, 27 Gloucester Road, Ross-on-Wye, Herefordshire, HR9 5LE",-2.580827,51.913653,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=130784,,,,permissioned,full planning permission,2013-06-17,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,131206,"Land rear of The Kings Head, High Street, Ross-on-Wye, Herefordshire",-2.585289,51.914629,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=131206,0.1,,,permissioned,full planning permission,2013-09-17,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,150055,"46 Broad Street, Ross-on-Wye, Herefordshire, HR9 7DY",-2.582546,51.915047,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150055,,,,permissioned,full planning permission,2015-06-30,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,150234,"Rosswyn Hotel, 16-19 High Street, Ross-On-Wye, Herefordshire, HR9 5BZ",-2.583123,51.913524,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150234,0.14,,,permissioned,full planning permission,2015-10-01,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152308,"Site adjacent to Thrushes Nest, Rope Walk, Ross-On-Wye, Herefordshire, HR9 7BU",-2.585651,51.916812,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152308,,,,permissioned,full planning permission,2015-09-25,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153001,"Land adjacent to Chase View Veterinary Clinic, Hildersley, Ross on Wye, Herefordshire, HR9 7NJ",-2.56442,51.913022,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153001,0.58,,,permissioned,full planning permission,2016-05-26,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153155,"39 High Street, Ross-on-Wye, Herefordshire, HR9 5HD",-2.58441,51.914165,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153155,,,,permissioned,full planning permission,2016-02-22,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153797,"12 Gloucester Road, Ross-On-Wye, Herefordshire, HR9 5BU",-2.582155,51.913988,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153797,,,,permissioned,full planning permission,2016-02-12,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161429,"Land at Twigworth, Camp Road, Ross-on-Wye, Herefordshire, HR9 5NJ",-2.574951,51.912288,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161429,,,,permissioned,full planning permission,2016-07-05,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161967,"5-6 High Street, Ross-on-Wye, Herefordshire, HR9 5HL",-2.585433,51.914511,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161967,,,,permissioned,full planning permission,2016-09-06,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162035,"12 Brookend Street, Ross-On-Wye, Herefordshire",-2.581754,51.916768,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162035,0.01,,,permissioned,full planning permission,2016-10-17,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160948,"Outbuildings at Laurel Cottage, Hope under Dinmore, Leominster, Herefordshire, HR6 0PX",-2.72685,52.158048,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160948,0.01,,,permissioned,full planning permission,2016-06-14,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,150173,"T J Crump Oakwrights Ltd, The Lakes, Swainshill, Herefordshire, HR4 7PU",-2.789156,52.073125,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150173,1.21,,,permissioned,outline planning permission,2016-12-05,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152524,"Travellers Rest Inn, Stretton Sugwas, Hereford, Herefordshire, HR4 7AL",-2.781537,52.077932,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152524,,,,permissioned,reserved matters approval,2016-01-07,,,,,,,,
-http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161262,"Khotla, Wellington, Hereford, Herefordshire, HR4 8AT",-2.74261,52.12917,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161262,,,,permissioned,full planning permission,2016-08-05,,,,,,,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,101020,"Former Methodist Chapel, Almley, Woonton, Herefordshire, HR3 6PY",-2.975626,52.167023,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=101020,0.08,,,permissioned,full planning permission,2010-06-25,,,,,"
+Proposed conversion of a redundant chapel into a dwelling house.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162384,"Uphampton Farm, Belgate Lane, Uphampton Shobdon, Leominster, Herefordshire, HR6 9PA",-2.876817,52.269537,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162384,,,,permissioned,full planning permission,2016-10-26,,,,,"
+Proposed erection of an agricultural workers dwelling for the poultry~site at Uphampton Farm. (For DOC 3, 6, 8, 9 & 10 see 171072).
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161067,"Land at Bush House, Bush Bank, Herefordshire, HR4 8PQ",-2.800951,52.15737,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161067,,,,permissioned,full planning permission,2016-05-24,,,,,"
+One proposed dwelling with garage and other associated works.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,151090,"Land at The Walled Garden, Bodenham Manor, Bodenham, Hereford, Herefordshire, HR1 3JS",-2.691581,52.158296,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151090,,,,permissioned,full planning permission,2015-06-08,,,,,"
+Proposed demolition of former school building and erection of two~detached dwellings with associated detached garages.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162438,"Land at Wynmoor, Bodenham, Hereford, Herefordshire",-2.667887,52.153532,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162438,,,,permissioned,reserved matters approval,2016-10-17,,,,,"
+Proposed reserved matters following outline approval 152415 (Proposed~site for 2 dwellings).
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162506,"Bodenham Manor, Bodenham, Hereford, Herefordshire",-2.691581,52.158296,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162506,0.34,,,permissioned,full planning permission,2016-11-04,,,,,"
+Demolition of former school buildings and erection of three detached~dwellings. (For DOC 3 4 6 7 see 173019)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162618,"The Forge, Bodenham, Herefordshire",-2.682065,52.1564,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162618,0.44,,,permissioned,full planning permission,2017-02-22,,,,,"
+Proposed conversion of redundant stables to form holiday accommodation
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,164128,"The Annexe, The Croft, Swinmore, Munsley, Herefordshire",-2.472509,52.073256,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164128,0.01,,,permissioned,full planning permission,2017-03-01,,,,,"
+Change of use of property to a one bedroom Bed & Breakfast/self~catering accommodation.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152897,"Land at Ash Ingen Place, Bridstow, Ross-on-Wye, Herefordshire",-2.611464,51.93219,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152897,,,,permissioned,full planning permission,2016-01-15,,,,,"
+Proposed conversion of redundant garage and store to dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153594,"Orles Barn Hotel, Old Nursery Close, Ross-on-Wye, Herefordshire, HR9 6AE",-2.599512,51.914962,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153594,0.23,,,permissioned,outline planning permission,2016-03-07,,,,,"
+Proposed erection of 4 no. new 4 bedroom dwellings, turning and~manoeuvring.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160361,"Site at The Beech, Haynall Lane, Little Hereford, herefordshire",-2.677149,52.306165,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160361,,,,permissioned,full planning permission,2016-04-26,,,,,"
+Conversion of existing office and storage space to create staff living~accommodation, storage and office.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161877,"52 New Road, Bromyard, Herefordshire",-2.511565,52.187921,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161877,,,,permissioned,outline planning permission,2017-03-31,,,,,"
+Outline application for two dwellings
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162480,"Site at Old Grammar School, Church Street, Bromyard, Herefordshire, HR7 4DP",-2.504648,52.190621,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162480,0.09,,,permissioned,full planning permission,2016-12-21,,,,,"
+Conversion of former Grammar school building into five residential~dwellings. Demolition works include the removal of part of an~extension to the west elevation (For DOC 5 see 193830).
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162820,"Flats at 38 High Street, Bromyard, Herefordshire, HR7 4AE",-2.50743,52.189602,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162820,0.05,,,permissioned,full planning permission,2016-11-07,,,,,"
+Change of use of first and second floors to create three flats and~associated minor alterations to the listed building.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153810,"Tillington Fruit Farm, Tillington, Hereford, Herefordshire, HR4 8LD",-2.779302,52.098761,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153810,,,,permissioned,full planning permission,2016-11-03,,,,,"
+Proposed change of use of agricultural office building to residential~dwelling (C3 use) (For DOC 5 7 & 9 174386)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160600,"Coach House at Fruit Farm Tillington Estate, Crowmoor Lane, Tillington, Herefordshire, HR4 8LD",-2.779809,52.099351,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160600,,,,permissioned,full planning permission,2016-11-03,,,,,"
+Proposed change of use of Coach House to residential dwelling (Class~C3) including associated conversion works and demolition of~outbuilding. (For DOC 6 & 7 see 193032)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,174386,"Tillington Fruit Farm, Tillington, Hereford, Herefordshire, HR4 8LD",-2.779302,52.098761,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=174386,,,,permissioned,,2018-02-14,,,,,"
+Application for approval of details reserved by conditions 5 7 & 9~attached to planning permission 153810
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160340,"Stables at The Backwoods, Westhope, Hereford, Herefordshire, HR4 8BU",-2.775776,52.155506,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160340,,,,permissioned,full planning permission,2017-02-09,,,,,"
+Conversion of outbuilding to a two bedroom living accommodation.(For~DOC 3 & 4 see 183295)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162311,"Site adjacent to Summerlease, Westhope Hill, Westhope, Herefordshire",-2.785271,52.154302,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162311,0.39,,,permissioned,outline planning permission,2016-10-28,,,,,"
+Demolition of outbuildings and erection of four dwellings.  (For DOC~16 see 170695)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,142860,"Part OS 1330, The Garlands, Priory Wood, Clifford, Herefordshire",-3.079274,52.10108,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=142860,,,,permissioned,full planning permission,2015-10-20,,,,,"
+Erection of dwelling on site of part built commercial buidling
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160200,"Site adjacent to Oakdene, Clifford, Whitney on Wye, Herefordshire",-3.100722,52.105853,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160200,,,,permissioned,full planning permission,2016-04-04,,,,,"
+Demolition of existing shed and construction of 1 no. dwelling and~replacement garage/store
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,170353,"Land at The Garlands, Priory Wood, Clifford, Herefordshire",-3.079187,52.101081,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=170353,,,,permissioned,full planning permission,2017-03-17,,,,,"
+Proposed variation of condition 2 of planning permission 142860~(Erection of dwelling on site of part built commercial building)~amendment to approved drawing to assist with building regulations~compliance.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163936,"Flats at Queenswood, Cradley, Malvern, WR13 5NF",-2.385894,52.124764,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163936,,,,permissioned,full planning permission,2017-02-03,,,,,"
+Alterations and extension to create 2 no additional flats and~enlargement of domestic curtilage (by change of use) and erection of~carport with room above. (For DOC 5 8 & 9 see 170479).
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,30719,"Crown Inn, Cradley, Malvern, Herefordshire, WR13 5LS",-2.40062,52.119289,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=30719,0.32,,,permissioned,full planning permission,2003-10-13,,,,,"
+Residential development of 4 dwellings
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161944,"Land to the rear of Butterfields, Bosbury Road, Cradley, Worcestershire",-2.402098,52.117149,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161944,,,,permissioned,outline planning permission,2017-01-25,,,,,"
+Proposed removal of derelict sheds, animal pens and caravan and~construction of detached dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163491,"Woodavens, Dormington, Herefordshire, HR1 4ES",-2.60977,52.058142,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163491,,,,permissioned,full planning permission,2017-01-23,,,,,"
+Proposed conversion of outbuilding into dwelling (For DOC 3 4 6 & 8~see 172018)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143678,"Site adjacent to Cooper's Hall, Chapel Lane, Dorstone, Herefordshire",-2.999323,52.068887,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143678,0.14,,,permissioned,full planning permission,2015-04-30,,,,,"
+Proposed erection of two houses
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163056,"Land adjacent to The Chapel, Chapel Lane, Dorstone, Herefordshire",-3.000354,52.068689,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163056,,,,permissioned,full planning permission,2017-01-23,,,,,"
+Proposed two retirement cottages. (For DOC  4 6 9 11 12 and 15 see~171048)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,164098,"Church of St Michael and All Angels, Dulas, Herefordshire, HR2 0HL",-2.915683,51.959661,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164098,,,,permissioned,full planning permission,2017-03-13,,,,,"
+Proposed repair and conversion of existing church including partial~change of use to holiday let. New access and carparking.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143624,"The Surgery, Eardisley, Hereford, Herefordshire, HR3 6NS",-3.005015,52.135893,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143624,0.07,,,permissioned,full planning permission,2015-01-29,,,,,"
+Proposed change of use of a doctors surgery into living accommodation~and proposed conservatory
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161674,"Land to the rear of the Laurels Veterinary Practice, Pontrilas Road, Ewyas Harold, Herefordshire, HR2 0EL",-2.885936,51.944173,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161674,,,,permissioned,outline planning permission,2016-09-15,,,,,"
+Construction of three dwellings and alterations to the existing access
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152955,"New Inn, Fownhope, Hereford, HR1 4PE",-2.61481,52.006652,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152955,0.22,,,permissioned,full planning permission,2016-01-06,,,,,"
+Proposed new dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152359,"Former Activity Barn, Hole-in-the-wall, Foy, Ross-on-Wye, Herefordshire",-2.56999,51.95332,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152359,0.85,,,permissioned,full planning permission,2015-12-14,,,,,"
+Proposed change of use and conversion of former activity barn to form~live/work unit
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,170132,"Land adjacent to Gas Works, Herefordshire",-2.623759,51.875878,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=170132,,,,permissioned,full planning permission,2017-03-16,,,,,"
+Demolition of former childcare facility. Proposed new dwelling and~detached double garage. (For DOC 3, 4, 5, 7, 8, 9, 10, 11, 12, 17, 18,~20, 21 & 24 see 173844)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153500,"6a Graftonbury Mews, Grafton Lane, Hereford, Herefordshire, HR2 8BN",-2.734982,52.029529,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153500,0.01,,,permissioned,full planning permission,2016-01-20,,,,,"
+Proposed demolition of existing administration building and erection~of a new chalet style bungalow.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,164079,"Lower House Farm, Netherwood Lane, Hereford, HR1 1UT",-2.679436,52.060467,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164079,,,,permissioned,full planning permission,2017-02-14,,,,,"
+Return former farmhouse to use as a dwellinghouse.  Certification of~Class of Use as C3(a) is required for occupancy by a single person or~family. (For DOC 3 see 172338)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162033,"Cobnash House, Hostel Lane, Cobnash, Kingsland, Herefordshire",-2.807456,52.238088,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162033,,,,permissioned,full planning permission,2016-10-05,,,,,"
+2 proposed self build sustainable new dwellings with ancillary~outbuildings and landscaping (For DOC 2 5 7 8 11 & 12 see 170687) (For~DOC 3 & 4 see 181076) (For DOC 11 see 181375)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163290,"Land at The Garden House, Orchard Close, Kingsland, Leominster, Herefordshire, HR6 9QS",-2.809413,52.248225,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163290,,,,permissioned,full planning permission,2016-12-21,,,,,"
+Proposed new dwelling
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162468,"Brookfield Lodge, Thruxton, Hereford, Herefordshire, HR2 9BB",-2.828486,52.008984,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162468,,,,permissioned,full planning permission,2016-10-17,,,,,"
+Proposed change of use of outbuilding to a separate dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,113545,"Land behind 43 Duke Street, Kington, Herefordshire, HR5 3BL",-3.028596,52.204298,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=113545,,,,,full planning permission,2012-05-16,,,,,"
+Proposed construction of 4 houses and garages.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,141330,"Kingswood Hall, Kingswood Road, Kington, Hereford, HR5 3HE",-3.028783,52.195935,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=141330,0.23,,,permissioned,full planning permission,2014-06-20,,,,,"
+Proposed erection of new dwelling, annex and garage. (For DOC 5 & 6~see 173547)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161093,"Land to the rear of Owls Rest, Lower Cross Lane, Kington, Herefordshire, HR5 3BG",-3.029182,52.204329,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161093,0.06,,,permissioned,full planning permission,2016-06-10,,,,,"
+Proposed dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162420,"Old Bakery, 12 Church Street, Kington, Herefordshire, HR5 3AZ",-3.031865,52.20391,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162420,,,,permissioned,full planning permission,2016-09-16,,,,,"
+Change of use of old bakery to a one bed dwelling.  A~covered bicycle store and garden and amenity area.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163478,"The Oaklands, Kingswood, Kington, Herefordshire, HR5 3HF",-3.03241,52.185132,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163478,,,,permissioned,full planning permission,2017-03-07,,,,,"
+Proposed staff accommodation facility to be built on the footprint of~an existing store building.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160663,"Land at The Old Carpenters Shop, Kinnersley, Hereford, Herefordshire, HR3 6QB",-2.967893,52.137426,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160663,,,,permissioned,full planning permission,2016-04-29,,,,,"
+Proposed erection of one dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163836,"The Sign Shop at Little Heath, Heath Road, Leysters, Herefordshire, HR6 0HT",-2.650913,52.258313,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163836,,,,permissioned,full planning permission,2017-02-01,,,,,"
+Change of use of redundant office/workshop to residential use
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143537,"Tinsmiths, Rear of 8A High Street, Ledbury, Herefordshire, HR8 1DS",-2.421435,52.036687,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143537,,,,permissioned,full planning permission,2015-06-19,,,,,"
+Proposed single dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,151075,"Land at 1 Bridge Street, Ledbury, Herefordshire, HR8 2AJ",-2.426943,52.036452,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151075,,,,,full planning permission,2015-06-23,,,,,"
+Proposed change of use of redundant building into single dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162063,"4 High Street, Ledbury, Herefordshire, HR8 1DS",-2.422122,52.036883,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162063,0.04,,,permissioned,full planning permission,2016-10-17,,,,,"
+Proposed conversion of redundant upper floor accommodation into one~three bedroom self contained dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163055,"4 The Southend, Ledbury, Herefordshire, HR8 2EY",-2.422444,52.035551,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163055,,,,permissioned,full planning permission,2017-02-14,,,,,"
+Proposed flat conversion and formation of  dormer at the rear.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,150996,"Land at rear of 48 Watling Street, Leintwardine, Craven Arms, Shropshire, SY 7 0LL",-2.875131,52.363212,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150996,,,,permissioned,full planning permission,2015-05-27,,,,,"
+Proposed demolition of redundant outbuilding and garage. Construction~of new dwelling, garage and covered way.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,100122,"Barons Cross Camp, Cholstrey Road, Leominster, HR6 8RT",-2.770761,52.224758,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=100122,1.39,,,permissioned,reserved matters approval,2010-03-22,,,,,"
+
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,141006,"Land off Ebnal Close, Leominster, Herefordshire",-2.760838,52.224058,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=141006,,,,permissioned,full planning permission,2014-11-26,,,,,"
+Proposed construction of 4 no. self-contained flats (For DOC 4 9 10 &~11 see 171850)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,141022,"Land at, Pinsley Road, Leominster, Herefordshire, HR6 8NN",-2.732116,52.227692,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=141022,0.45,,,permissioned,full planning permission,2016-05-13,,,,,"
+
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160226,"Land adjacent 87 Bridge Street, Leominster, Herefordshire, HR6 8EA",-2.743133,52.233368,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160226,,,,permissioned,full planning permission,2016-06-22,,,,,"
+Proposed 2 storey dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161456,"26 High Street, Morris Mews, Leominster",-2.739312,52.227225,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161456,0.04,,,permissioned,full planning permission,2016-08-23,,,,,"
+Proposed change of use from office accommodation to 3 no. flats
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161937,"Site at The Birdcage, Barons Cross Road, Leominster, Herefordshire",-2.762343,52.223014,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161937,0.04,,,permissioned,outline planning permission,2016-11-01,,,,,"
+Proposed erection of a pair of semi-detached houses. (For DOC 6 see~182220)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153016,"East View, Bromsash, Ross-On-Wye, Herefordshire, HR9 7PN",-2.510652,51.913726,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153016,,,,permissioned,full planning permission,2015-11-25,,,,,"
+Demolition of existing garage, construction of new dwelling. Minor~alterations to existing dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163753,"Land at The Three Horseshoes Inn, Little Cowarne, Hereford, Herefordshire",-2.580492,52.154337,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163753,,,,permissioned,full planning permission,2017-01-13,,,,,"
+Variation of condition 2 for a dwelling and garage(153174) - to~relocate access and garage.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161338,"Tredunnock Farm, Llangarron, Ross-on-Wye, Herefordshire",-2.698755,51.885067,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161338,,,,permissioned,full planning permission,2016-07-04,,,,,"
+Proposed change of use of former agricultural building currently used~as an aircraft hanger to one residential unit. (For DOC 6 9 10~11 & 14 see 180046)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163814,"Building adjacent The Old Vicarage, Lucton, Leominster, Herefordshire, HR6 9PN",-2.824489,52.278437,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163814,,,,permissioned,full planning permission,2017-02-21,,,,,"
+Change of use of light industrial building to a domestic dwelling,~including allocation of a parcel of land to provide amenity space.~(For DOC 3, 4, 5, 6, 8 see 172217)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,132123,"Chapel adjacent to The Cottage, New Street, Lyonshall, Herefordshire, HR5 3HT",-2.972356,52.204766,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=132123,,,,permissioned,full planning permission,2013-10-02,,,,,"
+Conversion of chapel into two bedroom dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161501,"Penrhos Court, Lyonshall, Kington, Herefordshire",-3.000526,52.198938,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161501,0.38,,,permissioned,full planning permission,2016-09-14,,,,,"
+Change of use of The Court to a single dwelling house, including new~kitchen and bathroom, and private driveway to connect to existing~gated access to highway; improvements to part of The Cartshed for use~as a secure private store, and creation of private garden.~Construction of detached garage previously approved.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152247,"Llanrosser Methodist Church, Michaelchurch Escley, Hereford, Herefordshire, HR2 0PU",-3.0379,52.033201,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152247,0.08,,,permissioned,full planning permission,2015-09-15,,,,,"
+Proposed change of use and renovation of former chapel to three~bedroom dwelling including replacement rear extension and associated~landscaping and drainage.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143339,"Former village hall and rifle club, Kingsthorne, Herefordshire",-2.785089,51.900149,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143339,,,,permissioned,full planning permission,2015-01-14,,,,,"
+Proposed demolition of redundant former village hall and rifle range~and erection of two detached dwellings.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153552,"Land adjacent Rangers Lodge, Little Birch Road, Kingsthorne, Herefordshire",-2.724045,51.982314,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153552,,,,permissioned,full planning permission,2016-02-23,,,,,"
+Proposed new 3 bedroom detached dwelling. (For DOC 12 see 170242For~DOC  4 5 6 8 9 11 see 190694)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160819,"Land to the rear of Post Office and Shop, Wormelow, Hereford",-2.740622,51.966818,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160819,,,,permissioned,outline planning permission,2016-05-26,,,,,"
+Proposed dwelling and garage.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,150405,"Fir Tree Inn, Much Cowarne, Herefordshire, HR7 4JN",-2.510705,52.117924,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150405,,,,permissioned,full planning permission,2015-07-09,,,,,"
+Proposed conversion of former public house to 3 no. residential units.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143737,"Land at Park House, Wormelow, Hereford, Herefordshire, HR2 8EQ",-2.745327,51.967957,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143737,0.08,,,permissioned,full planning permission,2015-02-24,,,,,"
+Proposed new dwelling
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,151492,"Land to the rear of Myrtle Cottage, Much Dewchurch, Herefordshire, HR2 8DL",-2.755397,51.977279,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151492,0.12,,,permissioned,full planning permission,2015-10-09,,,,,"
+Proposed 2 no. three bedroom dwellings.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163531,"The Castle, Ashperton, Ledbury",-2.511921,52.063427,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163531,0.03,,,permissioned,full planning permission,2017-01-20,,,,,"
+Proposed conversion of outbuilding to single dwelling. (For DOC 5 7 8~& 9 see 180093)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162150,"Norton House School, Norton Canon, Herefordshire, HR4 7BH",-2.907023,52.128137,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162150,,,,permissioned,full planning permission,2016-09-05,,,,,"
+Change of use from Nursery School with residential accommodation to~sole use as residential dwelling. For DOC 4 5 6 7 8 & 9 see 180537.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160258,"Burley Gate House, Burley Gate, Hereford, Herefordshire, HR1 3QR",-2.590417,52.122362,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160258,,,,permissioned,full planning permission,2016-03-22,,,,,"
+Conversion of coach house building to residential use.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160489,"The Cave, Orcop Hill, Orcop, Herefordshire, HR2 8SF",-2.761568,51.947965,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160489,,,,permissioned,full planning permission,2016-05-24,,,,,"
+Proposed refurbishment of existing rural building and ground floor~side extension to use the building as a residential dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161033,"Workshop at Orchard Farm, Orleton, Herefordshire, SY8 4HE",-2.743122,52.305445,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161033,0.14,,,permissioned,full planning permission,2016-05-26,,,,,"
+Change of use from chocolate factory to ancillary/holiday~accommodation for residential use
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,151944,"Former Doctors Surgery, East Street, Pembridge, Herefordshire, HR6 9HA",-2.890308,52.218774,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151944,,,,permissioned,full planning permission,2015-10-23,,,,,"
+Proposed conversion to a dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152982,"Coach House at Wellbrook, Peterchurch, Herefordshire",-2.947207,52.04114,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152982,,,,permissioned,full planning permission,2015-12-08,,,,,"
+Proposed conversion of the Coach House to form a one bedroom dwelling,~demolition and rebuilding of a single storey extension. (For DOC 3 see~ 172227)(For DOC 5 & 9 see 180211)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143204,"Mason's Potatoes, The Packhouse, Dadnor, Ross-on-Wye, Herefordshire",-2.635324,51.931659,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143204,0.7,,,permissioned,full planning permission,2015-03-18,,,,,"
+Demolition of existing buildings and site clearance. Proposed 3 no.~4/5 bedroom dwellings and office building, with landscaping and~Sustainable Urban Drainage Scheme. (For DOC 3 & 8 see 180407)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152872,"White House, Preston Wynne, Herefordshire",-2.650532,52.119052,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152872,,,,permissioned,full planning permission,2015-11-04,,,,,"
+Proposed conversion of and alterations to offices to create one~holiday letting unit.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,150419,"High Bank, Richards Castle, Ludlow, Herefordshire, SY8 4EL",-2.743045,52.321817,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150419,0.44,,,permissioned,full planning permission,2015-05-06,,,,,"
+Proposed erection of dwelling (Re-submission of planning application~P140962/F)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,142121,"Watsons Car Park Site, Church Street, Ross-on-Wye, Herefordshire",-2.584637,51.913679,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=142121,0.16,,,permissioned,full planning permission,2014-12-11,,,,,"
+Demolition of garages and stores, removal of 4 mature trees, erection~of terrace of four, two  storey houses, semi-detached pair of two~storey three bed houses, communal bin store and alteration of walls,~parking & landscaping
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160868,"Workshop Adjacent to Quyfields, Shobdon, Leominster, Herefordshire, HR6 9NX",-2.860214,52.255202,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160868,,,,permissioned,full planning permission,2016-05-09,,,,,"
+Conversion of redundant rural building to form a single dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152414,"Oakfields, Stoke Lacy, Bromyard, Herefordshire, HR7 4HE",-2.54831,52.14987,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152414,0.06,,,permissioned,full planning permission,2015-09-29,,,,,"
+Proposed three bed detached house.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153149,"The Forge, Tarrington, Herefordshire, HR1 4HX",-2.559905,52.064116,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153149,,,,permissioned,full planning permission,2016-05-10,,,,,"
+Proposed conversion of former forge into one unit of self-contained~holiday accommodation.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160774,"Site of former Myrtle Cottage, Vowchurch, Herefordshire, HR2 0RL",-2.923423,52.030315,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160774,,,,permissioned,full planning permission,2016-07-12,,,,,"
+Reinstatement of former cottage to residential accommodation, to~include two-storey extension, upgraded/improved driveway, a new~detached garage/workshop and associated works. (For DOC application~see 184199)(For DOC 4 see 190684)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153570,"Stable Block At Arthurs Dingle, Leys Hill, Walford, Ross-On-Wye, Herefordshire, HR9 5QU",-2.601648,51.865923,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153570,4.82,,,permissioned,full planning permission,2016-02-11,,,,,"
+Proposed conversion of existing stable block to 2 no. holiday units~with artist studio. Erection of timber stable block with all~associated work
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161689,"Land at Cats, Leys Hill Road, Walford, Ross-on-Wye, Herefordshire, HR9 5QU",-2.601727,51.866417,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161689,1.46,,,permissioned,full planning permission,2017-01-05,,,,,"
+The demolition of all existing structures on the site, the permanent~cessation of existing uses and the erection of five detached dwelling~houses with associated garaging (For DOC 3 4 5 10 11 & 12 see 193439).
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,170294,"Kiln Rise, Howle Hill, Ross-On-Wye, Herefordshire, HR9 5SH",-2.578366,51.880479,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=170294,0.26,,,permissioned,full planning permission,2017-03-20,,,,,"
+Change of use into 1 bedroom holiday let with single integral garage.~(For DOC 4 & 5 see 174050)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160358,"Welsh Newton Garage, Welsh Newton, Herefordshire",-2.730285,51.860061,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160358,,,,permissioned,full planning permission,2016-04-08,,,,,"
+Amended house design for plot 5 and retention of existing dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143436,"Land adjoining Porch Cottages, Weston Under Penyard, Ross-on-Wye, Herefordshire, HR9 7PG",-2.530084,51.914477,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143436,,,,permissioned,full planning permission,2015-03-13,,,,,"
+Erection of 2 dwellinghouses (House Type 1 on Plots 3 & 4 ONLY) with~detached double garages.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160282,"Land at Wigmore Hall, Wigmore, Leominster, Herefordshire, HR6 9UL",-2.858846,52.313264,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160282,,,,permissioned,full planning permission,2016-04-06,,,,,"
+Conversion of redundant buildings to form a single dwelling. (For DOC~4 & 6 see 184049)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,140905,"St Andrews Church, Wolferlow, Bromyard, Herefordshire, HR7 4QA",-2.486719,52.252748,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=140905,0.12,,,permissioned,full planning permission,2014-08-07,,,,,"
+Proposed conversion of church to dwelling with detached double garage
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161056,"Workshop opposite Terrace Hall, Woolhope, Herefordshire",-2.579919,52.012323,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161056,0.02,,,permissioned,full planning permission,2016-05-25,,,,,"
+The conversion of an ex studio/workshop building into a dwelling. (For~DOC 3 see 171602)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,123177,"Land East of 20 Belmont Avenue, Hereford, Herefordshire, HR2 7JQ",-2.722729,52.048881,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=123177,0.29,,,permissioned,full planning permission,2015-01-21,,,,,"
+
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,142197,"Land at Bridge Inn, College Road, Hereford, Herefordshire",-2.708741,52.071668,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=142197,0.29,,,permissioned,reserved matters approval,2014-09-08,,,,,"
+
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143495,"11-13 Maylord Street, Hereford, Herefordshire, HR1 2DS",-2.715809,52.057491,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143495,0.01,,,permissioned,full planning permission,2015-01-14,,,,,"
+Proposed redesign of shop front, convert first floor front offices to~2 x 1 bedroom flats. Subdivide second floor flat into 2 x 1 bedroom~flats. Insert 2 windows in rear elevation.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,143799,"Land off Grosvenor Place, Hereford",-2.743613,52.072666,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=143799,0.07,,,permissioned,full planning permission,2015-02-27,,,,,"
+Proposed development of 3 no. houses and associated access and~landscape works.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,150244,"30 Union Street, Hereford, Herefordshire, HR1 2BT",-2.712864,52.056655,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150244,,,,permissioned,full planning permission,2015-04-07,,,,,"
+Proposed renewal of roof to rear wing, to facilitate an additional~residential dwelling within and associated alterations.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,150630,"Land off Catherine Street, Hereford",-2.714283,52.058741,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150630,0.07,,,permissioned,full planning permission,2016-03-14,,,,,"
+Proposed erection of 8 dwellings. (For DOC application see 184271)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,151031,"8 Cotterell Street, Hereford, HR4 0HQ",-2.731125,52.058476,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151031,0.02,,,permissioned,outline planning permission,2015-07-13,,,,,"
+Site for proposed erection of 2 dwellings.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,151077,"Chandos Street Methodist Church, Chandos Street, Hereford, Herefordshire, HR4 0EX",-2.731161,52.057127,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151077,0.04,,,permissioned,full planning permission,2015-10-02,,,,,"
+Proposed conversion of church to residential dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,151352,"85 Aylestone Hil, Hereford, Herefordshire, HR1 1HX",-2.698185,52.066507,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=151352,0.04,,,permissioned,full planning permission,2015-07-17,,,,,"
+Proposed demolition of an existing garage and construction of a new~dwelling. (For DOC  3 7 & 9 see 170839)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152246,"1 St Martins Street, Hereford, Herefordshire, HR2 7RD",-2.718478,52.052036,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152246,0.03,,,permissioned,full planning permission,2015-11-18,,,,,"
+Proposed conversion of former pub function rooms into 6 self-contained~apartments and external stair to north elevation (For DOC 2 & 3 see~172539).
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152422,"Outbuilding at Mavis Holt, 35 Hampton Park Road, Hereford, Herefordshire",-2.691056,52.049763,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152422,,,,permissioned,full planning permission,2016-10-24,,,,,"
+Proposed conversion of outbuilding into a dwelling
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153057,"Land at 114 Eign Road, Hereford, Herefordshire, HR1 2RX",-2.700797,52.050704,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153057,,,,permissioned,full planning permission,2016-05-19,,,,,"
+Demolish of existing block of three garages and construction of a two~bedroom, two storey annexe.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153254,"82 Widemarsh Street, Hereford",-2.714958,52.059016,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153254,0.01,,,permissioned,full planning permission,2016-01-07,,,,,"
+Proposed conversion of ground floor restaurant to dwelling and~alterations to upper floors. (For DOC 4 see 173299)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153506,"20 Broad Street, Hereford, HR4 9AP",-2.716936,52.054976,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153506,,,,permissioned,full planning permission,2016-04-12,,,,,"
+Conversion of first floor office and school use premises to~residential use - 4 flats.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160076,"92-94 Widemarsh Street, Hereford, HR4 9HG",-2.714875,52.059268,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160076,0.01,,,permissioned,full planning permission,2016-03-01,,,,,"
+Proposed change of use of first floor to residential unit.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160322,"Land at 82-84, Church Road, Hereford, HR1 1RS",-2.688839,52.056384,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160322,,,,permissioned,full planning permission,2016-05-18,,,,,"
+Proposed erection of a dwelling house and detached garage. (For DOC~conditions 6 12 13 15 & 17 see 170844)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160687,"12 Kyrle Street, Hereford, HR1 2ET",-2.709563,52.057259,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160687,,,,permissioned,full planning permission,2016-05-10,,,,,"
+Proposed conversion of house into 2 nos. one bedroom flats.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161205,"Lyndale Care Home, 24 Southbank Close, Hereford, Herefordshire, HR1 2TQ",-2.70394,52.05768,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161205,,,,permissioned,full planning permission,2016-09-12,,,,,"
+Erection of single storey detached unit for 4 single persons for~supported living.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161356,"Land at 40 Newtown Road, Hereford, HR4 9LL",-2.715771,52.064217,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161356,0.07,,,permissioned,full planning permission,2016-10-21,,,,,"
+Proposed demolition of outbuilding, 3 No. 3 bedroom houses and 1~bedroom bungalow. (For DOC 3,5,6,7,8,9,10,11,12,13,15,16 & 17 see~192161)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161414,"Plot adjacent to 83 Broomy Hill, Hereford",-2.737903,52.050279,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161414,0.26,,,permissioned,full planning permission,2016-07-08,,,,,"
+Proposed new detached dwelling and garage.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163176,"Land at 36 Holme Lacy Road, Hereford, HR2 6BY",-2.717547,52.043051,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163176,,,,permissioned,full planning permission,2016-12-05,,,,,"
+Demolition of part of building, conversion of shop and flat to 2 nos.~houses and erection of 2 nos. two bedroom houses and associated~parking.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163301,"Second Floor Flat, 24 Eign Gate, Hereford, HR4 0AB",-2.718901,52.056564,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163301,0.01,,,permissioned,full planning permission,2016-12-13,,,,,"
+Proposed change of use of first floor to form two bedroom flat.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163501,"The Moorfield Inn, Moorfield Street, Hereford",-2.720737,52.059188,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163501,,,,permissioned,full planning permission,2017-02-21,,,,,"
+Proposal to convert the public house into a pair of two-bedroomed~semi-detached houses and erection of a pair of semi-detached two~bedroomed houses within yard area, four parking spaces and accessed~from Richmond Street.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163555,"37 Whitecross Road, Hereford, HR4 0DE",-2.727002,52.057863,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163555,0.03,,,permissioned,full planning permission,2017-01-05,,,,,"
+Change of use from former audio shop to residential and division to~create additional dwelling.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163719,"129-131 Eign Street, Hereford, Herefordshire",-2.721221,52.056649,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163719,,,,permissioned,full planning permission,2017-03-01,,,,,"
+Proposed conversion of two ground floor retail units into two studio~flats (re-submission ref 160552).
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,163751,"Flats at 15-17 Eign Gate, Hereford, HR4 0AB",-2.718212,52.056317,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=163751,0.01,,,permissioned,full planning permission,2017-02-16,,,,,"
+Proposed conversion of first, second and third floors from retail~space to 3 residential apartments.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,164042,"18-20 Commercial Street, Hereford, HR1 2DE",-2.713619,52.057334,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164042,0.03,,,permissioned,full planning permission,2017-02-13,,,,,"
+Proposed change of use of first and second floors from retail into 7~residential apartments. Modification of shop front, removal of  part~of first floor to facilitate a roof terrace area and removal of~brickwork infill to blind windows to the rear and insertion of new~matching windows.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,164105,"12A Bridge Street, Hereford, HR4 9DF",-2.718576,52.053572,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164105,0.01,,,permissioned,full planning permission,2017-02-20,,,,,"
+Proposed conversion of existing retail shop into a single residential~unit including replacement of the existing shop frontage with new~powder colour coated aluminium frontage.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,164135,"The Cotterell Arms, 65-67 Cotterell Street, Hereford",-2.73421,52.058916,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164135,,,,permissioned,full planning permission,2017-02-09,,,,,"
+Reference 150247/F (Proposed change of use from Public House to 3 no~separate houses - domestic)- Change door and window material from wood~to UPVC double glazed (variation to conditions 2 & 3).
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,164111,"52 Broomy Hill, Hereford, HR4 0LH",-2.731452,52.052603,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=164111,0.2,,,permissioned,full planning permission,2017-03-21,,,,,"
+Conversion of the coach house to form a new dwelling with greenhouse~and outbuildings replaced by an extension to the coach house.  Part of~the existing garden to be separated to form a separate curtilage. A~new gated opening to Prince Edward Drive for access. (For DOC 3 5 6 7~9 10 11 12 & 13 see 171695)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,170350,"Land at 98 Kings Acre Road, Hereford, HR4 0RG",-2.749315,52.065572,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=170350,,,,permissioned,full planning permission,2017-03-24,,,,,"
+Proposed erection of 2 chalet bungalows with garages, after outline~consent (141740).
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,130784,"First floor, 27 Gloucester Road, Ross-on-Wye, Herefordshire, HR9 5LE",-2.580827,51.913653,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=130784,,,,permissioned,full planning permission,2013-06-17,,,,,"
+Change of use of first floor from restaurant to residential.~Alteration of entrance doorway.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,131206,"Land rear of The Kings Head, High Street, Ross-on-Wye, Herefordshire",-2.585289,51.914629,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=131206,0.1,,,permissioned,full planning permission,2013-09-17,,,,,"
+Alterations, extension and conversion of existing building to provide~nine apartments with ancillary uses and works.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,150055,"46 Broad Street, Ross-on-Wye, Herefordshire, HR9 7DY",-2.582546,51.915047,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150055,,,,permissioned,full planning permission,2015-06-30,,,,,"
+Propose to demolish two store building (offices) and construct new two~storey building to form 2 no. one bedroom flats (residential).
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,150234,"Rosswyn Hotel, 16-19 High Street, Ross-On-Wye, Herefordshire, HR9 5BZ",-2.583123,51.913524,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150234,0.14,,,permissioned,full planning permission,2015-10-01,,,,,"
+
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152308,"Site adjacent to Thrushes Nest, Rope Walk, Ross-On-Wye, Herefordshire, HR9 7BU",-2.585651,51.916812,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152308,,,,permissioned,full planning permission,2015-09-25,,,,,"
+Proposed new dwelling
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153001,"Land adjacent to Chase View Veterinary Clinic, Hildersley, Ross on Wye, Herefordshire, HR9 7NJ",-2.56442,51.913022,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153001,0.58,,,permissioned,full planning permission,2016-05-26,,,,,"
+Proposed erection of 6 dwellings. (For DOC  4 11 12 17~18 and part discharge of Condition 20  see 191843)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153155,"39 High Street, Ross-on-Wye, Herefordshire, HR9 5HD",-2.58441,51.914165,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153155,,,,permissioned,full planning permission,2016-02-22,,,,,"
+Proposed creation of two flats on the second floor third floor~including external and internal repairs.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,153797,"12 Gloucester Road, Ross-On-Wye, Herefordshire, HR9 5BU",-2.582155,51.913988,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=153797,,,,permissioned,full planning permission,2016-02-12,,,,,"
+Proposed change of use of upper and lower basements to a single~dwelling
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161429,"Land at Twigworth, Camp Road, Ross-on-Wye, Herefordshire, HR9 5NJ",-2.574951,51.912288,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161429,,,,permissioned,full planning permission,2016-07-05,,,,,"
+Proposed new dwelling (For DOC 1, 3-9 inclusive see 180896)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161967,"5-6 High Street, Ross-on-Wye, Herefordshire, HR9 5HL",-2.585433,51.914511,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161967,,,,permissioned,full planning permission,2016-09-06,,,,,"
+Proposed change of use from 1st and 2nd floor offices to 2 no flats.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,162035,"12 Brookend Street, Ross-On-Wye, Herefordshire",-2.581754,51.916768,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=162035,0.01,,,permissioned,full planning permission,2016-10-17,,,,,"
+Conversion of existing offices into a Flat
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,160948,"Outbuildings at Laurel Cottage, Hope under Dinmore, Leominster, Herefordshire, HR6 0PX",-2.72685,52.158048,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=160948,0.01,,,permissioned,full planning permission,2016-06-14,,,,,"
+Convert outbuildings to holiday let.
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,150173,"T J Crump Oakwrights Ltd, The Lakes, Swainshill, Herefordshire, HR4 7PU",-2.789156,52.073125,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=150173,1.21,,,permissioned,outline planning permission,2016-12-05,,,,,"
+
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,152524,"Travellers Rest Inn, Stretton Sugwas, Hereford, Herefordshire, HR4 7AL",-2.781537,52.077932,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=152524,,,,permissioned,reserved matters approval,2016-01-07,,,,,"
+Reserved matters (3, 6, 7, 8, 10, 11 & 13) for Outline planning~permission 141240 (Proposed erection of 5 terraced houses and~formation of parking)
+",,,
+http://opendatacommunities.org/id/unitary-authority/herefordshire,Herefordshire Council,161262,"Khotla, Wellington, Hereford, Herefordshire, HR4 8AT",-2.74261,52.12917,https://www.herefordshire.gov.uk/info/200142/planning_services/planning_application_search/details?id=161262,,,,permissioned,full planning permission,2016-08-05,,,,,"
+Change of use of the ground floor and car parking area at front of the~property from commercial to domestic use. Proposed detached double~garage. (For DOC 3 see 171032)
+",,,

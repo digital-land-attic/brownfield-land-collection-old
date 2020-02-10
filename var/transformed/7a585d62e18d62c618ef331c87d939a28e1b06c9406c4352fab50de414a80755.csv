@@ -1,18 +1,52 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-20,national-park-authority:Q72617158,BFS1,"Former Magistratesí Court, Pikes Hill, Lyndhurst, SO43 7AY",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,owned by a public authority,not permissioned,,,50.877638,-1.57827,0.04,,,2017-12-20,,7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
-2017-12-20,national-park-authority:Q72617158,BFS2,"Garage Site, Foldsgate Close, Lyndhurst SO43 7BY",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,owned by a public authority,not permissioned,,,50.877882,-1.578666,0.02,,,2017-12-20,,7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
-2017-12-20,national-park-authority:Q72617158,BFS3,"Redmayne Engineering Site, Station Approach, Brockenhurst, SO42 7TW",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,,not permissioned,,,50.81754,-1.57353,0.4,,,2017-12-20,,7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
-2017-12-20,national-park-authority:Q72617158,BFS4,"Land at Railway Station, Brockenhurst, SO42 7TW",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,,not permissioned,,,50.814319,-1.575547,0.35,,,2017-12-20,,7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
-2017-12-20,national-park-authority:Q72617158,BFS5,"Former Service Station, 128 Lyndhurst Road, Ashurst, SO40 7AS",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,not permissioned,,,50.892675,-1.522698,0.05,,,2017-12-20,,7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
-2017-12-20,national-park-authority:Q72617158,BFS6,"Land adjoining Cranleigh Paddock Residential Home, Calpe Avenue, Lyndhurst, SO43 7EP",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,not permissioned,,,50.875707,-1.579084,0.35,,,2017-12-20,,7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
-2017-12-20,national-park-authority:Q72617158,BFS7,"Lyndhurst Park Hotel, 78 High Street, Lyndhurst, SO43 7NL",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,not permissioned,,,50.87204,-1.572011,1.61,,,2017-12-20,,7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
-2017-12-20,national-park-authority:Q72617158,BFS8,"Oak Lodge Dental Surgery, Rhinefield Road, Brockenhurst, SO42 7SR",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,full planning permission,,50.82238,-1.581436,0.15,,,2017-12-20,,7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
-2017-12-20,national-park-authority:Q72617158,BFS9,"Watersplash Hotel, The Rise, Brockenhurst, SO42 7ZP",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,full planning permission,,50.818753,-1.578147,0.5,,,2017-12-20,,7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
-2017-12-20,national-park-authority:Q72617158,BFS10,"First and Second Floor, 49-49A High Street, Lyndhurst, SO43 7BE",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,other,,50.872708,-1.575217,0.03,,,2017-12-20,,7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
-2017-12-20,national-park-authority:Q72617158,BFS11,"The Old Barn, Church Lane, Lyndhurst, SO43 7EW",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,other,,50.872263,-1.576599,0.02,,,2017-12-20,,7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
-2017-12-20,national-park-authority:Q72617158,BFS12,"Land To The Rear Of 35 High Street, Lyndhurst, SO43 7BE",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,full planning permission,,50.872826,-1.575727,0.02,,,2017-12-20,,7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
-2017-12-20,national-park-authority:Q72617158,BFS13,"Burwood Lodge, 27 Romsey Road, Lyndhurst, SO43 7AA",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,full planning permission,,50.874053,-1.576711,0.19,,,2017-12-20,,7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
-2017-12-20,national-park-authority:Q72617158,BFS14,"Land Of Forest Park Hotel, Forest Park Road, Brockenhurst, SO42 7SW",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,full planning permission,,50.822441,-1.585894,0.39,,,2017-12-20,,7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
-2017-12-20,national-park-authority:Q72617158,BFS15,"Former Scout Hut, Brookley Road, Brockenhurst, SO42 7RD",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,full planning permission,,50.820235,-1.577665,0.05,,,2017-12-20,,7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
-2017-12-20,national-park-authority:Q72617158,BFS16,"Lloyds Tsb, Sway Road, Brockenhurst, SO42 7ZH",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,full planning permission,,50.818959,-1.575505,0.06,,,2017-12-20,,7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
-2017-12-20,national-park-authority:Q72617158,BFS17,"Rufus House Hotel, Southampton Road, Lyndhurst, SO43 7BQ",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,full planning permission,,50.873599,-1.568273,0.14,,,2017-12-20,,7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-12-20,national-park-authority:Q72617158,BFS1,"Former Magistratesí Court, Pikes Hill, Lyndhurst, SO43 7AY",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,owned by a public authority,not permissioned,,,50.877638,-1.57827,0.04,,,2017-12-20,,"""An element of residential use would be considered alongside employment as part of a mixed use redevelopment of this employment site""
+
+",7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
+2017-12-20,national-park-authority:Q72617158,BFS2,"Garage Site, Foldsgate Close, Lyndhurst SO43 7BY",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,owned by a public authority,not permissioned,,,50.877882,-1.578666,0.02,,,2017-12-20,,"
+
+",7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
+2017-12-20,national-park-authority:Q72617158,BFS3,"Redmayne Engineering Site, Station Approach, Brockenhurst, SO42 7TW",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,,not permissioned,,,50.81754,-1.57353,0.4,,,2017-12-20,,"""An element of residential use would be considered alongside employment as part of a mixed use redevelopment of this employment site""
+
+",7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
+2017-12-20,national-park-authority:Q72617158,BFS4,"Land at Railway Station, Brockenhurst, SO42 7TW",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,,not permissioned,,,50.814319,-1.575547,0.35,,,2017-12-20,,"
+
+",7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
+2017-12-20,national-park-authority:Q72617158,BFS5,"Former Service Station, 128 Lyndhurst Road, Ashurst, SO40 7AS",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,not permissioned,,,50.892675,-1.522698,0.05,,,2017-12-20,,"
+
+",7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
+2017-12-20,national-park-authority:Q72617158,BFS6,"Land adjoining Cranleigh Paddock Residential Home, Calpe Avenue, Lyndhurst, SO43 7EP",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,not permissioned,,,50.875707,-1.579084,0.35,,,2017-12-20,,"
+
+",7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
+2017-12-20,national-park-authority:Q72617158,BFS7,"Lyndhurst Park Hotel, 78 High Street, Lyndhurst, SO43 7NL",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,not permissioned,,,50.87204,-1.572011,1.61,,,2017-12-20,,"
+
+",7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
+2017-12-20,national-park-authority:Q72617158,BFS8,"Oak Lodge Dental Surgery, Rhinefield Road, Brockenhurst, SO42 7SR",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,full planning permission,,50.82238,-1.581436,0.15,,,2017-12-20,,"
+Demolition of existing, new access
+",7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
+2017-12-20,national-park-authority:Q72617158,BFS9,"Watersplash Hotel, The Rise, Brockenhurst, SO42 7ZP",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,full planning permission,,50.818753,-1.578147,0.5,,,2017-12-20,,"
+3 villas to create 24 age restricted apartments
+",7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
+2017-12-20,national-park-authority:Q72617158,BFS10,"First and Second Floor, 49-49A High Street, Lyndhurst, SO43 7BE",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,other,,50.872708,-1.575217,0.03,,,2017-12-20,,"
+Change of use of office building to 6 apartments
+",7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
+2017-12-20,national-park-authority:Q72617158,BFS11,"The Old Barn, Church Lane, Lyndhurst, SO43 7EW",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,other,,50.872263,-1.576599,0.02,,,2017-12-20,,"
+Change of use of office building to dwelling
+",7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
+2017-12-20,national-park-authority:Q72617158,BFS12,"Land To The Rear Of 35 High Street, Lyndhurst, SO43 7BE",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,full planning permission,,50.872826,-1.575727,0.02,,,2017-12-20,,"
+New dwelling; associated landscaping
+",7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
+2017-12-20,national-park-authority:Q72617158,BFS13,"Burwood Lodge, 27 Romsey Road, Lyndhurst, SO43 7AA",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,full planning permission,,50.874053,-1.576711,0.19,,,2017-12-20,,"
+Conversion of Bed and Breakfast to create 2 dwellings
+",7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
+2017-12-20,national-park-authority:Q72617158,BFS14,"Land Of Forest Park Hotel, Forest Park Road, Brockenhurst, SO42 7SW",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,full planning permission,,50.822441,-1.585894,0.39,,,2017-12-20,,"
+New dwelling and garage
+",7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
+2017-12-20,national-park-authority:Q72617158,BFS15,"Former Scout Hut, Brookley Road, Brockenhurst, SO42 7RD",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,full planning permission,,50.820235,-1.577665,0.05,,,2017-12-20,,"
+To construct a terrace of three dwellings
+",7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
+2017-12-20,national-park-authority:Q72617158,BFS16,"Lloyds Tsb, Sway Road, Brockenhurst, SO42 7ZH",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,full planning permission,,50.818959,-1.575505,0.06,,,2017-12-20,,"
+Change of use to dental practice; 2 flats; Internal alterations
+",7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755
+2017-12-20,national-park-authority:Q72617158,BFS17,"Rufus House Hotel, Southampton Road, Lyndhurst, SO43 7BQ",http://www.newforestnpa.gov.uk/downloads/file/1642/brownfield_land_register_as_at_dec_2017,yes,not owned by a public authority,permissioned,full planning permission,,50.873599,-1.568273,0.14,,,2017-12-20,,"
+Conversion of owners accommodation to create 2 separate units of accommodation
+",7a585d62e18d62c618ef331c87d939a28e1b06c9406c4352fab50de414a80755

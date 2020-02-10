@@ -1,29 +1,105 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-09-20,local-authority-eng:SRI,BBE01,"New Mill, Wesley Street",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,reserved matters approval,,53.72445,-2.658661,6.5,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,SS05,"Expac, Dunkirk Mill, Dunkirk Lane",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,outline planning permission,,53.690925,-2.723845,0.67,,,2016-06-03,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,FW09b,"Farington Business Park, east of Wheelton Lane (northern section)-Phase 2",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,full planning permission,,53.70295,-2.69215,6.49,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,MF02b,"Vernon Carus Site/Penwortham Mills, Factory Lane-Phase 2",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,reserved matters approval,,53.739244,-2.698432,9.45,,,2016-06-03,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,MF02c,"Vernon Carus Site/Penwortham Mills, Factory Lane-Phase 3",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,reserved matters approval,,53.740492,-2.698695,1.17,,,2016-06-03,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,TG03,"Lostock Hall Gas Works, Leyland Road/The Cawsey",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,reserved matters approval,,53.73351,-2.696715,12,,,2016-06-03,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,MF05,"The Maltings, Hill Road South",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,reserved matters approval,,53.724453,-2.79585,1.7,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,SS11,"Land on west side of Mill Street, Leyland",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,outline planning permission,,53.690148,-2.718471,0.18,,,2016-06-03,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,1803,"Moorhey Farm, Moss House Lane, Much Hoole",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,full planning permission,,53.698423,-2.779364,0.3,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,1921,"Whitestake Garage, Long Moss Lane, New Longton",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,outline planning permission,,53.7225,-2.729889,0.31,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,WLDW01,"Sherwood Garage, Todd Lane North",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,reserved matters approval,,53.737526,-2.681393,0.2,,,2016-06-03,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,HP01,"Pollard's Farm, Howick Cross Lane",https://www.southribble.gov.uk/content/housing-land-availability,,owned by a public authority,not permissioned,,,53.74658,-2.761513,2.4,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,BBW05,"Baxi new offices, Brownedge Road",https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.729689,-2.666867,0.46,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,BBN06,"Former Buildbase Site, Water Street",https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,permissioned,outline planning permission,,53.735478,-2.660319,0.47,,,2016-06-03,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,WLD01,"Mayfield House Haulage Yard (currently HPH, previously Pickfords), Chorley Road",https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.745523,-2.672273,0.41,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,SS09,"Lostock Grove Rest Home, Slater Lane",https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.688394,-2.720243,0.39,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,LHU12,The Dolphin Inn,https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.722526,-2.821668,0.37,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,FE05,"Farington Saw Mills, Stanifield Lane",https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.700934,-2.68474,0.34,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,TG02,85 Todd Lane North (Cartmell & Barlow Ltd/BJ Watsons),https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.731604,-2.681282,0.29,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,GH03,"Golden Hill Garage, 208-216 Golden Hill Lane",https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.698556,-2.705694,0.23,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,HP02,"Former Rydal Motors, Liverpool Road",https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.743213,-2.746744,0.23,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,BBE15,"Land to Rear of Pine Direct Station Road, Bamber Bridge",https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.728876,-2.659579,0.2,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,BBW02,Land off Brownedge Road,https://www.southribble.gov.uk/content/housing-land-availability,yes,owned by a public authority,not permissioned,,,53.727913,-2.669507,2.7,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,TG05,"Lostock Hall Primary School, Avondale Drive",https://www.southribble.gov.uk/content/housing-land-availability,,owned by a public authority,not permissioned,,,53.725498,-2.687989,1.5,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,MS02,"Moss Side Test Track, Aston Way",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,pending decision,,,53.700627,-2.727647,40.6,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,SW13,"Coupe's Foundry, Kittlingborne Brow, Higher Walton",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,not permissioned,,,53.74204,-2.645411,2.3,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,TG08,Gas Holders Site (Morris Homes),https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,not permissioned,,,53.733105,-2.692176,1.9,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
-2017-09-20,local-authority-eng:SRI,LYC03,Land adj 105 Towngate,https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,outline planning permission,,53.692305,-2.697276,0.19,,,2017-09-20,,1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-09-20,local-authority-eng:SRI,BBE01,"New Mill, Wesley Street",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,reserved matters approval,,53.72445,-2.658661,6.5,,,2017-09-20,,"07/2016/0690/REM - approved 4/9/17.
+Reserved matters application for the erection 188 dwellings following outline approval 07/2012/0729/OUT. Matters of layout, scale, appearance and landscaping are applied for (Amended Site Layout Plan)
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,SS05,"Expac, Dunkirk Mill, Dunkirk Lane",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,outline planning permission,,53.690925,-2.723845,0.67,,,2016-06-03,,"May come forward with Rear of Dunkirk Mill.  
+
+Site clearance completed at the beginning of the year, construction unlikely to start until 2019.  
+
+07/2012/0551/REN - approved 31/3/15.
+Outline application for the erection of 35 No dwellings and creation of new access onto Dunkirk Lane (Access Only) - Renewal of permission 07/2008/0422/OUT
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,FW09b,"Farington Business Park, east of Wheelton Lane (northern section)-Phase 2",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,full planning permission,,53.70295,-2.69215,6.49,,,2017-09-20,,"D1 - Housing.  07/2013/0288/FUL approved 30/8/13. (234 dwellings full/234 dwellings outline) - the outline approval relates to this part of the site.  S106.
+
+AH - Phase 2 - up to a minimum of 20 units in accordance with a reserved matters approval taking account of any review pursuant to Part 4 of Schedule 3 of S106 agreement.  UU still on site.
+Erection of a Residential development  - Outline application with all matters reserved for approx 234 dwellings with associated ground works, access arrangements and demolition.
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,MF02b,"Vernon Carus Site/Penwortham Mills, Factory Lane-Phase 2",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,reserved matters approval,,53.739244,-2.698432,9.45,,,2016-06-03,,"Hybrid application approved 20/2/17.
+
+The public house has been vacated.
+Outline application for the erection of approximately 385 dwellings. This is hybrid application which includes two parts -
+
+Part A : Outline application permission (excluding Phase 1) for the erection of up to 204 dwellings, with the provision of associated infrastructure (including roads, footpath,cycleways and open space). All matters reserved for subsequent approval 
+
+PART B: Full planning permission (Phase 1 as shown on the plans) for the erection of 181 dwellings and the provision of associated infrastructure (including roads, footpaths, cycleways and open spaces)
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,MF02c,"Vernon Carus Site/Penwortham Mills, Factory Lane-Phase 3",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,reserved matters approval,,53.740492,-2.698695,1.17,,,2016-06-03,,"Hybrid application approved 20/2/17.
+
+The public house has been vacated.
+Outline application for the erection of approximately 385 dwellings. This is hybrid application which includes two parts -
+
+Part A : Outline application permission (excluding Phase 1) for the erection of up to 204 dwellings, with the provision of associated infrastructure (including roads, footpath,cycleways and open space). All matters reserved for subsequent approval 
+
+PART B: Full planning permission (Phase 1 as shown on the plans) for the erection of 181 dwellings and the provision of associated infrastructure (including roads, footpaths, cycleways and open spaces)
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,TG03,"Lostock Hall Gas Works, Leyland Road/The Cawsey",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,reserved matters approval,,53.73351,-2.696715,12,,,2016-06-03,,"07/2015/0315/REM approved 13/8/15.
+Reserved matters application for the erection of 281 dwellings with associated infrastructure and landscaping (amended plans)
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,MF05,"The Maltings, Hill Road South",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,reserved matters approval,,53.724453,-2.79585,1.7,,,2017-09-20,,"07/2017/1266/REM - pending decision.
+Reserved Matters application for the erection of 61 residential units comprising of dwellings and apartments with associated landscaping
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,SS11,"Land on west side of Mill Street, Leyland",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,outline planning permission,,53.690148,-2.718471,0.18,,,2016-06-03,,"07/2014/0574/OUT - approved 17/3/15.
+Outline planning application for residential development comprising seven dwellings. (Access applied for)
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,1803,"Moorhey Farm, Moss House Lane, Much Hoole",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,full planning permission,,53.698423,-2.779364,0.3,,,2017-09-20,,"07/2016/0341/FUL - approved 20/9/16
+Erection of two storey dwelling house with attached double garage
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,1921,"Whitestake Garage, Long Moss Lane, New Longton",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,outline planning permission,,53.7225,-2.729889,0.31,,,2017-09-20,,"07/2016/0728/OUT - approved 2/11/16
+Outline application for the erection of 4no detached bungalows following demoliiton of existing garage and outbuildings (Access, Landscaping, Layout and Scale applied for)
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,WLDW01,"Sherwood Garage, Todd Lane North",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,reserved matters approval,,53.737526,-2.681393,0.2,,,2016-06-03,,"Still in use.  07/2016/0784/REM - approved 3/2/17.
+Reserved Matters application for erection of 3no detached dwellings (Appearance, Landscaping, layout and scale applied for) following demolition of existing garage
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,HP01,"Pollard's Farm, Howick Cross Lane",https://www.southribble.gov.uk/content/housing-land-availability,,owned by a public authority,not permissioned,,,53.74658,-2.761513,2.4,,,2017-09-20,,"Expired residential application 07/2006/0500/FUL.
+
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,BBW05,"Baxi new offices, Brownedge Road",https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.729689,-2.666867,0.46,,,2017-09-20,,"Owner has previously expressed interest. Would form part of larger residential estate. Still in use.
+
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,BBN06,"Former Buildbase Site, Water Street",https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,permissioned,outline planning permission,,53.735478,-2.660319,0.47,,,2016-06-03,,"07/2014/0610/OUT - approved 27/1/15.  Premises now have different occupant and new business operating.
+Outline application for the erection of up to 28 residential dwellings following demolition of existing buildings (Access only applied for)
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,WLD01,"Mayfield House Haulage Yard (currently HPH, previously Pickfords), Chorley Road",https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.745523,-2.672273,0.41,,,2017-09-20,,"Still in use.  Application (07/2001/0757) refused in 2001 due to standard of vision at proposed access point.
+
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,SS09,"Lostock Grove Rest Home, Slater Lane",https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.688394,-2.720243,0.39,,,2017-09-20,,"Change of use of residential care home (Class C2) to 8 No flats (Class C3) expired March 2010 - 07/2006/1051/FUL.  Still in use.   Substantial investment work done 2015, including extensions.
+
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,LHU12,The Dolphin Inn,https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.722526,-2.821668,0.37,,,2017-09-20,,"07/2010/0768/FUL for conversion of  public house and function suite to create 6 no residential units with associated curtilage and parking area - expired February 2014.  Public house has since been restored.
+
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,FE05,"Farington Saw Mills, Stanifield Lane",https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.700934,-2.68474,0.34,,,2017-09-20,,"Still in use.
+
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,TG02,85 Todd Lane North (Cartmell & Barlow Ltd/BJ Watsons),https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.731604,-2.681282,0.29,,,2017-09-20,,"Still in use.
+
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,GH03,"Golden Hill Garage, 208-216 Golden Hill Lane",https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.698556,-2.705694,0.23,,,2017-09-20,,"07/2008/0621/FUL  for erection of 12 no 2, 2 1/2  and 3-storey dwellings comprising 2 no 2 bed flats, 3 no 2 bed houses, 6 no 3 bed houses, 1 no 4 bed house together with associated parking following demolition of existing car showroom, workshop and ancillary buildings - expired in 2011.  Still in use.
+
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,HP02,"Former Rydal Motors, Liverpool Road",https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.743213,-2.746744,0.23,,,2017-09-20,,"07/2005/1047/OUT for the erection of 6no. Dwellinghouses - expired 2011.  Premises vacant.  Existing Built Up Area.
+
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,BBE15,"Land to Rear of Pine Direct Station Road, Bamber Bridge",https://www.southribble.gov.uk/content/housing-land-availability,,not owned by a public authority,not permissioned,,,53.728876,-2.659579,0.2,,,2017-09-20,,"07/2008/0690/FUL - erection of 10 dwellings - expired 2015.
+
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,BBW02,Land off Brownedge Road,https://www.southribble.gov.uk/content/housing-land-availability,yes,owned by a public authority,not permissioned,,,53.727913,-2.669507,2.7,,,2017-09-20,,"Network Rail is promoting the site's availability to deliver a greater density than suggeste in the Local Plan (210 as opposed to 60).
+Planning permission does not currently exist for the residential development of the site but it could accommodate approximately 60 dwellings.  Any residential layout will have to take account of the proximity of the railway on the southern boundary of the site.  (Excerpt from Local Plan - adopted July 2015.)
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,TG05,"Lostock Hall Primary School, Avondale Drive",https://www.southribble.gov.uk/content/housing-land-availability,,owned by a public authority,not permissioned,,,53.725498,-2.687989,1.5,,,2017-09-20,,"07/2007/0312/FUL - demolition/36 residential (21 market/15 affordable) withdrawn April 2008.  Dependent on LCC wanting to dispose of asset.
+The site is well-located close to the centre of Lostock Hall and suitable for redevelo9pment for housing.  The develo9pment must provide for an appropriate area of on-site open space to mitigate against the loss of the school playing field.  (Excerpt from Local Plan - adopted July 2015.)
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,MS02,"Moss Side Test Track, Aston Way",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,pending decision,,,53.700627,-2.727647,40.6,,,2017-09-20,,"Masterplan approved, part full/part outline.  Application anticiapted in autumn 2017.
+The site has the potential to provide a comprehensive development with both residential and employment uses (including local services).  � A masterplan will be required to take the principles of the approved development brief forward to achieve a comprehensive and sustainable development of high quality.  (Excerpts from Local Plan - adopted July 2015.).
+
+The masterplan for this site has been approved.
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,SW13,"Coupe's Foundry, Kittlingborne Brow, Higher Walton",https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,not permissioned,,,53.74204,-2.645411,2.3,,,2017-09-20,,"Expired application.  Intention to re-submit application at a later date.
+Coupe's Foundry remains operational and the site comprises buildings and extensive areas of open storage.  (Excerpt from Local Plan - adopted 2015.)
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,TG08,Gas Holders Site (Morris Homes),https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,not permissioned,,,53.733105,-2.692176,1.9,,,2017-09-20,,"Land has been remediated.  Not scheduled to be under construction until 2019.
+The redevelopment of the site for housing is appropriate as a result of the site's relationship to the larger Lostock Hall Gasworks Site to the north.  Redevlopment will also result in significant environmental and visual improvements in the locality.  (Excerpt from Local Plan - adopted 2015.)
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17
+2017-09-20,local-authority-eng:SRI,LYC03,Land adj 105 Towngate,https://www.southribble.gov.uk/content/housing-land-availability,yes,not owned by a public authority,permissioned,outline planning permission,,53.692305,-2.697276,0.19,,,2017-09-20,,"07/2015/1301/OUT approved October 2015.
+Outline Application for the erection of 1 No. dwellinghouse
+",1d2361911244f405c35a9899cda65e39f18dc41ec90d45170b30d79705dd6f17

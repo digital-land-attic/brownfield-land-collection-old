@@ -1,19 +1,55 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-11-28,local-authority-eng:MOL,BLR02,"St Martin's Walk Centre (Upper Floors), Dorking RH4 1UX",https://maps.molevalley.gov.uk/,yes,owned by a public authority,not permissioned,,,51.232473,-0.329811,0.5,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR06,"Claire House and James House, Bridge St, Leatherhead KT22 8BZ",https://maps.molevalley.gov.uk/,yes,owned by a public authority,not permissioned,,,51.293989,-0.331253,0.21,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR04,"Bull Hill Site, Leatherhead, KT22 7AH",https://maps.molevalley.gov.uk/,,owned by a public authority,not permissioned,,,51.297151,-0.330567,1.85,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR01,"Grove Corner, Lower Shott/Guildford Road, Bookham KT23 4LP",https://maps.molevalley.gov.uk/,yes,owned by a public authority,not permissioned,,,51.276444,-0.37199,0.33,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR05,"Sorting Office, Station Rd, Leatherhead KT22 7AE and Telephone Exchange, Station Rd, Leatherhead KT22 7AF",https://maps.molevalley.gov.uk/,,not owned by a public authority,not permissioned,,,51.295224,-0.332044,0.77,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR03,"Vine Court, Chalkpit Lane, Dorking RH4 1XG",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.234295,-0.333982,0.33,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR09,"Devonshire House, 66 Church St, Leatherhead KT22 8DP",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.293447,-0.32739,0.07,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR12,"Land to the rear of 272-294 High St, Dorking RH4 1QT",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.23337,-0.325781,0.11,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR13,"207-213 High St, Dorking RH4 1RU",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.232904,-0.327615,0.08,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR14,"145-153 High St, Dorking RH4 1AG",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.232398,-0.329025,0.1,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR15,"Magistrates Court, London Road, Dorking RH4 1SX",https://maps.molevalley.gov.uk/,yes,owned by a public authority,permissioned,full planning permission,,51.236557,-0.32354,0.25,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR16,"46-48 Lincoln Rd, Dorking RH4 1TD",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.239156,-0.321137,0.04,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR10,"Fortyfoot Hall, Fortyfoot Rd, Leatherhead KT22 8RY",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.293765,-0.315605,0.11,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR17,"Institute Of Further Education, Dene St, Dorking RH4 3EB",https://maps.molevalley.gov.uk/,yes,owned by a public authority,permissioned,full planning permission,,51.230391,-0.326652,0.21,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR08,"37 & 39 Kingston Rd, Leatherhead KT22 7SL",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.299528,-0.329087,0.06,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR19,"Queen Elizabeth Foundation, Woodlands Rd, Leatherhead KT22 0BN",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,outline planning permission,,51.314723,-0.352017,9.25,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR11,"Fairfield Works, Upper Fairfield Rd, Leatherhead KT22 7HJ",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.296136,-0.32784,0.14,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
-2017-11-28,local-authority-eng:MOL,BLR18,"87-99 High St, Dorking RH4 1AN",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.23175,-0.330087,0.05,,,2017-11-28,,68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-11-28,local-authority-eng:MOL,BLR02,"St Martin's Walk Centre (Upper Floors), Dorking RH4 1UX",https://maps.molevalley.gov.uk/,yes,owned by a public authority,not permissioned,,,51.232473,-0.329811,0.5,,,2017-11-28,,"
+Conversion and/or extension of existing office space in upper floors to provide additional residential units.
+http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR06,"Claire House and James House, Bridge St, Leatherhead KT22 8BZ",https://maps.molevalley.gov.uk/,yes,owned by a public authority,not permissioned,,,51.293989,-0.331253,0.21,,,2017-11-28,,"
+Residential development as part of a mixed use scheme as set out in the Transform Leatherhead Masterplan.
+http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf|http://www.molevalley.gov.uk/index.cfm?articleid=29385",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR04,"Bull Hill Site, Leatherhead, KT22 7AH",https://maps.molevalley.gov.uk/,,owned by a public authority,not permissioned,,,51.297151,-0.330567,1.85,,,2017-11-28,,"
+Residential development as part of a mixed use scheme as set out in the Transform Leatherhead Masterplan.
+http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf|http://www.molevalley.gov.uk/index.cfm?articleid=29385",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR01,"Grove Corner, Lower Shott/Guildford Road, Bookham KT23 4LP",https://maps.molevalley.gov.uk/,yes,owned by a public authority,not permissioned,,,51.276444,-0.37199,0.33,,,2017-11-28,,"
+Residential development as part of a well-designed mixed use building and/or development on garage court to rear, incorporating up to around 10 residential units (gross).
+http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR05,"Sorting Office, Station Rd, Leatherhead KT22 7AE and Telephone Exchange, Station Rd, Leatherhead KT22 7AF",https://maps.molevalley.gov.uk/,,not owned by a public authority,not permissioned,,,51.295224,-0.332044,0.77,,,2017-11-28,,"
+Residential redevelopment of existing sorting office and telephone exchange, subject to satisfactory relocation of existing uses.
+http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf|http://www.molevalley.gov.uk/index.cfm?articleid=29385",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR03,"Vine Court, Chalkpit Lane, Dorking RH4 1XG",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.234295,-0.333982,0.33,,,2017-11-28,,"
+Extension and conversion of Vine Court to provide 30 No. flats with associated landscaping.
+",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR09,"Devonshire House, 66 Church St, Leatherhead KT22 8DP",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.293447,-0.32739,0.07,,,2017-11-28,,"
+Change of use from office (Use Class B1) to residential (Use Class C3). Creation of 7 No. flats via reconfiguration of existing building and the creation of 2 No. new flats in an extension to the rear wing.
+",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR12,"Land to the rear of 272-294 High St, Dorking RH4 1QT",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.23337,-0.325781,0.11,,,2017-11-28,,"
+Demolish existing building and erect 8 No. apartments including 8 No. undercroft car parking for residents and 15 No. leased and licensed car parking spaces, together with associated refuse stores, cycle parking, amenity space, and landscaping.
+",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR13,"207-213 High St, Dorking RH4 1RU",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.232904,-0.327615,0.08,,,2017-11-28,,"
+Change of use of 1st floor from commercial to residential to create 8 No. units. Construction of an additional floor at 2nd floor level to create 6 No. residential units including alterations to the fenestration.
+",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR14,"145-153 High St, Dorking RH4 1AG",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.232398,-0.329025,0.1,,,2017-11-28,,"
+Erection of 2nd floor and rear extension for the creation of 9 No. flats with associated cycle and refuse storage. Alteration to shop front to create access from High Street.
+",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR15,"Magistrates Court, London Road, Dorking RH4 1SX",https://maps.molevalley.gov.uk/,yes,owned by a public authority,permissioned,full planning permission,,51.236557,-0.32354,0.25,,,2017-11-28,,"
+Redevelopment of existing Magistrate's Court to provide 21 No. retirement apartments, associated parking.
+",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR16,"46-48 Lincoln Rd, Dorking RH4 1TD",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.239156,-0.321137,0.04,,,2017-11-28,,"
+Change of Use to residential, and erection of one building comprising 9 No. flats with external staircase and ground floor off-street parking, following removal of existing garage and external staircase.
+",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR10,"Fortyfoot Hall, Fortyfoot Rd, Leatherhead KT22 8RY",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.293765,-0.315605,0.11,,,2017-11-28,,"
+Demolition of Fortyfoot Hall and erection of 8 No. apartments above with associated landscaping, parking and access.
+",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR17,"Institute Of Further Education, Dene St, Dorking RH4 3EB",https://maps.molevalley.gov.uk/,yes,owned by a public authority,permissioned,full planning permission,,51.230391,-0.326652,0.21,,,2017-11-28,,"
+Conversion of existing building to create 8 No. flats and erection of 2 pairs of semi-detached dwellings (12 units in total) with associated landscaping, parking and access
+",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR08,"37 & 39 Kingston Rd, Leatherhead KT22 7SL",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.299528,-0.329087,0.06,,,2017-11-28,,"
+Demolition of existing building and erection of a 4-storey building of 7 No. two bedroom flats with associated parking and access. (Renewal of MO/2010/0111).
+",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR19,"Queen Elizabeth Foundation, Woodlands Rd, Leatherhead KT22 0BN",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,outline planning permission,,51.314723,-0.352017,9.25,,,2017-11-28,,"
+Outline phased re-development: comprising demolition of all the buildings and erection of new buildings, hard standing, pedestrian, cycle and vehicular access, circulation and parking, landscaping, infrastructure and ground remodelling
+",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR11,"Fairfield Works, Upper Fairfield Rd, Leatherhead KT22 7HJ",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.296136,-0.32784,0.14,,,2017-11-28,,"
+Conversion of offices (Use Class B1) with 2-storey extensions to front and rear and creation of second storey to provide 10 No. flats with associated parking and landscaping.
+",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7
+2017-11-28,local-authority-eng:MOL,BLR18,"87-99 High St, Dorking RH4 1AN",https://maps.molevalley.gov.uk/,yes,not owned by a public authority,permissioned,full planning permission,,51.23175,-0.330087,0.05,,,2017-11-28,,"
+Part demolition and change of use of existing (B1) single-storey rear building and erection of replacement 2-storey building for resi use; change of use of ancillary 1st and 2nd floors of bank to residential with additions to create 8 No. units
+",68ee98cffce514e5284448b4eba64698c426c15b6194a98c641323d699586ba7

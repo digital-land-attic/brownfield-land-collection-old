@@ -1,131 +1,391 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-01,local-authority-eng:LUT,SHLAA138,"High Town Block C, Midland Road Passage",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/138-and-139.pdf,,,not permissioned,,,51.883154,-0.413124,0.16,6,7,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA147,"High Town Block M, Burr Street",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/146-and-147.pdf,yes,,permissioned,full planning permission,,51.882606,-0.410499,0.43,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA148,Station Quarter,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/148-and-149.pdf,,,not permissioned,,,51.881328,-0.412433,1.48,375,413,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA149,Marsh Farm Central Area,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/148-and-149.pdf,yes,,pending decision,,,51.917995,-0.453512,3.91,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA150,Power Court,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/150-and-151.pdf,,,pending decision,,,51.879618,-0.40828,7.21,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA155,Guardian Industrial Estate,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/154-and-155.pdf,yes,,permissioned,full planning permission,,51.882147,-0.429883,1.58,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA160,Moreton Park Estate,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/160-and-161.pdf,yes,,permissioned,full planning permission,,51.892792,-0.399109,0.83,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA161,"Oxen Industrial Estate, Oxen Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/160-and-161.pdf,,,not permissioned,,,51.887092,-0.405778,0.6,48,53,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA174,Land at Caleb Close,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/174-and-175.pdf,,,pending decision,,,51.89343,-0.448048,2.5,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA175,Car Parks on Dunstable Place,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/174-and-175.pdf,,,not permissioned,,,51.879201,-0.420048,0.29,41,45,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA176,Car Park off Telford Way,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/176-and-177.pdf,,,not permissioned,,,51.882738,-0.420984,0.53,39,43,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA180,Dalroad Industrial Estate,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/180-and-181.pdf,,,not permissioned,,,51.883456,-0.434327,0.79,32,35,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA183,"The Windsor Castle, 12 Albert Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/182-and-183.pdf,,,permissioned,full planning permission,,51.875393,-0.411712,0.08,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA188,142-144 Midland Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/187-and-188.pdf,yes,,permissioned,full planning permission,,51.883341,-0.416343,0.08,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA190,Extension to Mall,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/189-and-190.pdf,,,not permissioned,,,51.880502,-0.415135,2.4,35,39,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA191,"Napier Park, Kimpton Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/191-and-192.pdf,yes,,permissioned,full planning permission,,51.876775,-0.395596,24.44,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA198,Rear of 66-76 Castle Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/197-and-198.pdf,,,not permissioned,,,51.874744,-0.41756,0.21,11,12,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA199,27-37 Chapel Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/199-and-200.pdf,yes,,pending decision,,,51.876048,-0.416962,0.14,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA202,37-47 Cheapside,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/201-and-202.pdf,,,not permissioned,,,51.880151,-0.414465,0.11,59,65,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA205,17-19 Downs Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/205-and-206.pdf,yes,,permissioned,full planning permission,,51.878283,-0.427402,0.16,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA207,41-43 Dudley Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/207-and-208.pdf,,,permissioned,full planning permission,,51.884231,-0.415658,0.13,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA208,13-31 Dunstable Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/207-and-208.pdf,yes,,permissioned,full planning permission,,51.881527,-0.424499,0.24,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA210,"Land opposite Whitbread House, Flowers Way",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/209-and-210.pdf,yes,,permissioned,full planning permission,,51.876803,-0.414248,0.45,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA213,33 Guildford Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/213-and-214.pdf,,,not permissioned,,,51.880589,-0.412953,0.01,11,12,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA214,35 Guildford Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/213-and-214.pdf,,,not permissioned,,,51.880537,-0.413071,0.04,14,15,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA218,39-51 John Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/217-and-218.pdf,yes,,permissioned,full planning permission,,51.880227,-0.412748,0.03,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA220,"Luton Town Football Club, Kenilworth Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/219-and-220.pdf,,,not permissioned,,,51.884113,-0.431674,1.58,59,65,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA222,"Crescent House, 1-5 Latimer Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/221-and-222.pdf,,,permissioned,full planning permission,,51.875593,-0.412548,0.17,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA233,6-14 Old Bedford Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/223-and-224.pdf,yes,,permissioned,full planning permission,,51.883498,-0.416657,0.09,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA241,43 Ridgway Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/241-and-243.pdf,,,permissioned,full planning permission,,51.888359,-0.408363,0.22,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA301,18-22 Rothesay Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/300-and-301.pdf,yes,,permissioned,other,,51.878817,-0.422255,0.1,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA303,Car park adjacent to 69 Adelaide Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/302-and-303.pdf,yes,,pending decision,,,51.877792,-0.422262,0.13,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA304,89-93 Park Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/304-and-305.pdf,,,not permissioned,,,51.876308,-0.408905,0.08,13,14,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA319,7-11 King Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/318-and-319.pdf,yes,,permissioned,full planning permission,,51.878716,-0.416752,0.05,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA320,111 North Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/320-and-321.pdf,yes,,not permissioned,,,51.886247,-0.413756,0.17,14,15,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA321,"Petrol Station, 116-124 Wingate Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/320-and-321.pdf,,,permissioned,outline planning permission,,51.894274,-0.443194,0.32,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA323,5 Empress Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/323-and-324.pdf,yes,,permissioned,full planning permission,,51.903636,-0.454296,0.11,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA333,"Sherd Lodge, Sherd Close",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/333-and-334.pdf,yes,,permissioned,full planning permission,,51.91539,-0.452336,0.29,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA339,Land at Stockingstone Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/338-and-339.pdf,,,not permissioned,,,51.89344,-0.4058,2.25,56,62,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA340,"Car Park adjacent to, 15 Oxford Road and 23-27 Union Street",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/340-and-341.pdf,yes,,permissioned,full planning permission,,51.875558,-0.413943,0.03,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA342,"The Laurels, Ely Way",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/342-and-343.pdf,yes,,permissioned,full planning permission,,51.901118,-0.466592,0.53,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA345,"Milan Day Centre, Solway Road North",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/344-and-345.pdf,yes,,permissioned,outline planning permission,,51.901213,-0.440279,0.2,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA348,27 Crawley Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/348-and-349.pdf,yes,,not permissioned,,,51.883347,-0.422111,0.03,11,12,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA351,27A Upper George Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/350-and-351.pdf,yes,,pending decision,,,51.879508,-0.420139,0.1,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA352,40-58 Collingdon Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/352-and-353.pdf,yes,,permissioned,full planning permission,,51.882121,-0.42057,0.22,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA353,Car park adjacent to 95 Maple Road East,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/352-and-353.pdf,,,not permissioned,,,51.884634,-0.435041,0.65,49,54,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA359,"Bramingham Centre, Weltmore Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/359-and-360.pdf,yes,,pending decision,,,51.908818,-0.4531,1.4,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA360,"International House, Eaton Green Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/359-and-360.pdf,yes,,permissioned,full planning permission,,51.883209,-0.386751,0.37,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA361,2 to 32 Beechwood Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/361-and-362.pdf,,,not permissioned,,,51.892888,-0.449244,0.61,15,17,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA363,"Royal Mail, Sarum Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/363-and-364.pdf,yes,,not permissioned,,,51.903245,-0.453262,0.15,11,12,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA364,10 to 12 Caleb Close,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/363-and-364.pdf,,,not permissioned,,,51.892076,-0.448385,0.33,24,26,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA370,"Leagrave Service Station, High Street.",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/369-and-370.pdf,yes,,pending decision,,,51.902205,-0.464491,0.28,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA401,"Whitbread House, Flowers Way",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/401-and-402.pdf,yes,,permissioned,other,,51.877333,-0.413503,0.42,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA404,"Napier House, 17-21 Napier Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/403-and-404.pdf,yes,,pending decision,,,51.878041,-0.423415,0.03,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA407,54-62 Park Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/407-and-408.pdf,yes,,permissioned,other,,51.876758,-0.410894,0.1,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA411,16 to 36 South Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/411-and-412.pdf,yes,,permissioned,outline planning permission,,51.873711,-0.418366,0.22,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA412,38a Wingate Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/411-and-412.pdf,,,not permissioned,,,51.893974,-0.449105,0.61,15,17,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA415,22 to 36 Hastings Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/415-and-416.pdf,yes,,permissioned,full planning permission,,51.877005,-0.419224,0.06,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA422,Land and buildings at and behind 98-100 Wenlock Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/421-and-422.pdf,,,permissioned,outline planning permission,,51.885179,-0.411905,0.15,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA426,4 Dunstable Place & 9 Upper George Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/425-and-426.pdf,,,not permissioned,,,51.879612,-0.41922,0.03,8,9,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA433,"Land adj. to 18, 18a Cowper Street and 17 Tavistock Crescent",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/433-and-434.pdf,,,not permissioned,,,51.872095,-0.417188,0.05,6,7,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA439,"Mill Gardens, 16-26 Mill Street",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/439-and-440.pdf,yes,,permissioned,full planning permission,,51.882536,-0.418623,0.07,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA456,"Connaught House, 15-17 Upper George Street",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/455-and-456.pdf,yes,,not permissioned,,,51.879598,-0.419496,0.04,15,17,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA458,12-14 Park Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/457-and-458.pdf,yes,,permissioned,full planning permission,,51.877859,-0.41318,0.12,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA460,Britannia Estate,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/459-and-460.pdf,yes,,not permissioned,,,51.892071,-0.435074,4.4,294,323,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA470,Wigmore Hall,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/469-and-470.pdf,,,not permissioned,,,51.887324,-0.366986,0.18,9,10,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA471,Saints Community Centre,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/471-and-472.pdf,yes,,permissioned,outline planning permission,,51.901512,-0.439789,0.18,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA472,"The Old School House, Trinity Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/471-and-472.pdf,,,not permissioned,,,51.902981,-0.438038,0.13,7,8,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA477,"The Parrott, Whipperley Ring",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/477-and-478.pdf,yes,,not permissioned,,,51.874521,-0.438617,0.28,25,28,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA478,"The Roman Way, Tomlinson Avenue",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/477-and-478.pdf,yes,,permissioned,full planning permission,,51.901461,-0.495258,0.24,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA481,Car Park Adjacent to 52 Duke Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/479-to-481.pdf,yes,,permissioned,full planning permission,,51.884279,-0.411864,0.05,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA482,High Town plot 7,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/482_483-and-484.pdf,,,not permissioned,,,51.884469,-0.415969,0.16,27,30,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA483,High Town plot 5A,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/482_483-and-484.pdf,,,not permissioned,,,51.883801,-0.413755,0.07,3,4,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA485,High Town plot 5B,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/485-to-489.pdf,,,not permissioned,,,51.884664,-0.413042,0.13,21,23,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA486,High Town plot 1A,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/485-to-489.pdf,,,not permissioned,,,51.883225,-0.41238,0.72,75,83,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA487,High Town plot 1C,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/485-to-489.pdf,,,not permissioned,,,51.882813,-0.411828,0.16,19,21,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA488,High Town plot 1D,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/485-to-489.pdf,,,not permissioned,,,51.882672,-0.411412,0.16,27,30,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA489,High Town plot 1B,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/485-to-489.pdf,,,pending decision,,,51.883111,-0.41128,0.32,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA490,High Town plot 2A,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/490-to-493.pdf,,,not permissioned,,,51.883474,-0.410846,0.57,63,69,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA491,High Town plot 2B,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/490-to-493.pdf,yes,,not permissioned,,,51.883039,-0.409931,0.05,16,18,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA492,High Town plot 3,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/490-to-493.pdf,,,not permissioned,,,51.883733,-0.410067,0.31,31,34,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA493,High Town plot 6C,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/490-to-493.pdf,yes,,permissioned,full planning permission,,51.884401,-0.411583,0.07,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA494,High Town plot 6D,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/494-to-497.pdf,,,not permissioned,,,51.884129,-0.409414,0.28,39,43,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA496,High Town plot 6A,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/494-to-497.pdf,,,not permissioned,,,51.884628,-0.410428,0.4,60,66,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA497,High Town plot 6B,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/494-to-497.pdf,,,not permissioned,,,51.884992,-0.410763,0.11,18,20,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA501,High Town plot 4,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/498-to-502.pdf,yes,,permissioned,full planning permission,,51.88594,-0.407664,0.77,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA503,High Town plot 8,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/503-and-504.pdf,,,not permissioned,,,51.884867,-0.408167,0.19,23,25,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA504,High Town plot 9,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/503-and-504.pdf,,,not permissioned,,,51.884068,-0.408239,0.2,9,10,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA519,Birdsfoot Lane depot,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/519-and-520.pdf,yes,,not permissioned,,,51.90865,-0.433596,0.3,16,18,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA530,Land rear Of 81 Dumfries Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/529-and-530.pdf,yes,,permissioned,full planning permission,,51.876514,-0.422147,0.05,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA532,2B Medina Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/531-and-532.pdf,yes,,permissioned,full planning permission,,51.888519,-0.439774,0.05,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA533,15-17 Cardiff Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/533-and-534.pdf,yes,,permissioned,other,,51.879294,-0.422311,0.02,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA535,"The Compasses, 11 Farley Hill",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/535-and-536.pdf,yes,,permissioned,full planning permission,,51.874112,-0.418759,0.04,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA536,9-15 Adelaide Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/535-and-536.pdf,yes,,pending decision,,,51.877141,-0.41935,0.04,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA538,32 King Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/537-and-538.pdf,yes,,permissioned,other,,51.877989,-0.418202,0.02,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA539,79-81 Windsor Walk,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/539-and-540.pdf,yes,,permissioned,full planning permission,,51.877255,-0.419738,0.05,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA540,112-114 Marsh Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/539-and-540.pdf,yes,,permissioned,full planning permission,,51.902637,-0.450783,0.28,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA541,61 George Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/541-and-542.pdf,yes,,permissioned,full planning permission,,51.878921,-0.416629,0.03,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA542,28 Dunstable Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/541-and-542.pdf,yes,,permissioned,other,,51.881018,-0.422803,0.12,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA543,39 Castle Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/543-and-544.pdf,,,permissioned,outline planning permission,,51.87611,-0.414897,0.13,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA544,26-38 John Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/543-and-544.pdf,yes,,permissioned,full planning permission,,51.879827,-0.413125,0.12,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA545,39-49 Manor Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/545-and-546.pdf,,,pending decision,,,51.876761,-0.407131,0.26,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA546,1-1A Stanley Walk,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/545-and-546.pdf,yes,,permissioned,full planning permission,,51.875305,-0.42187,0.02,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA547,Garage court adj to 16 Barnard Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/547-and-548.pdf,yes,,permissioned,full planning permission,,51.877401,-0.444881,0.14,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA548,Land adj to 43 Bute Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/547-and-548.pdf,yes,,permissioned,full planning permission,,51.880543,-0.41557,0.05,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA552,179-185 Dunstable Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/551-and-552.pdf,yes,,permissioned,full planning permission,,51.885142,-0.42863,0.07,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA553,Land rear of 23-29 Farley Hill,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/553-and-554.pdf,yes,,permissioned,outline planning permission,,51.873727,-0.418889,0.33,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA554,"Melson Arms, 63-65 John Street",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/553-and-554.pdf,yes,,permissioned,full planning permission,,51.880313,-0.411829,0.05,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA556,Units 1 And 2 Spring Place and 4-6 Dumfries Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/555-and-556.pdf,yes,,permissioned,full planning permission,,51.876196,-0.418555,0.52,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA557,49 to 57 Castle Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/557-and-558.pdf,yes,,permissioned,full planning permission,,51.875395,-0.415184,0.33,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA559,"Cresta House, Alma Street",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/559%20and%20560.pdf,,,permissioned,other,,51.881155,-0.418948,0.16,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA560,"Gainsborough House, 10 Cardiff Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/559%20and%20560.pdf,yes,,permissioned,other,,51.879252,-0.42317,0.02,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA561,2-6 Cardigan Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/561-to-564.pdf,yes,,permissioned,other,,51.881776,-0.420277,0.03,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA562,80-88 Collingdon Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/561-to-564.pdf,yes,,permissioned,other,,51.882151,-0.422109,0.07,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA563,"Gilmartins House, 102 Collingdon Street",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/561-to-564.pdf,yes,,pending decision,,,51.882134,-0.422851,0.05,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA564,1-11 Cumberland Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/561-to-564.pdf,yes,,pending decision,,,51.876198,-0.410696,0.29,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA565,"Chubb House, 400 Dallow Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/565-and-566.pdf,yes,,permissioned,other,,51.885132,-0.45432,0.6,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA566,176-180A Dunstable Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/565-and-566.pdf,yes,,pending decision,,,51.886616,-0.430599,0.03,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA567,"55 George Street And, 2B George Street West",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/567-and-568.pdf,yes,,permissioned,full planning permission,,51.878819,-0.416371,0.02,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA568,6-8 Gordon Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/567-and-568.pdf,yes,,permissioned,full planning permission,,51.88069,-0.418456,0.03,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA569,"Tracey Court, 76 Hibbert Street",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/569-and-570.pdf,yes,,permissioned,full planning permission,,51.872925,-0.414036,0.11,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA570,"Bramingham Service Station, Icknield Way",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/569-and-570.pdf,yes,,permissioned,outline planning permission,,51.91286,-0.438495,0.2,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA571,"Regent Court & Regent Court South, Laporte Way",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/571-and-572.pdf,yes,,permissioned,other,,51.886983,-0.443998,0.95,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA572,69-71 Latimer Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/571-and-572.pdf,yes,,permissioned,other,,51.874219,-0.413337,0.07,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA573,"1 Park Terrace, Manor Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/573-and-574.pdf,yes,,pending decision,,,51.876048,-0.408958,0.01,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA574,14 Stuart Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/573-and-574.pdf,yes,,permissioned,full planning permission,,51.878053,-0.418258,0.02,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA575,46 Windsor Walk,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/575-and-576.pdf,yes,,pending decision,,,51.876785,-0.419595,0.02,,,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA577,Berry Leys garage courts,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/577-and-578.pdf,,,not permissioned,,,51.916848,-0.459324,0.22,11,12,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA578,Oatfield Close garage courts,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/577-and-578.pdf,,,not permissioned,,,51.903225,-0.494676,0.15,5,6,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
-2017-12-01,local-authority-eng:LUT,SHLAA583,Easingwold Gardens garage courts,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/583.pdf,,,not permissioned,,,51.884155,-0.453845,0.22,11,12,2017-12-01,,6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-12-01,local-authority-eng:LUT,SHLAA138,"High Town Block C, Midland Road Passage",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/138-and-139.pdf,,,not permissioned,,,51.883154,-0.413124,0.16,6,7,2017-12-01,,"No planning history provided as site covers multiple plots with multiple histories
+
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA147,"High Town Block M, Burr Street",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/146-and-147.pdf,yes,,permissioned,full planning permission,,51.882606,-0.410499,0.43,,,2017-12-01,,"
+Erection of 97 dwelling flats for affordable housing
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA148,Station Quarter,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/148-and-149.pdf,,,not permissioned,,,51.881328,-0.412433,1.48,375,413,2017-12-01,,"No planning history provided as site covers multiple plots with multiple histories
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA149,Marsh Farm Central Area,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/148-and-149.pdf,yes,,pending decision,,,51.917995,-0.453512,3.91,,,2017-12-01,,"An earlier, extant permission exists (15/00785/FUL)
+Erection of 24 one bedroom and 58 two bedroom flats and 5 two bedroom, 3 three bedroom and 3 four bedroom houses together with associated works after demolition of the Purley Centre
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA150,Power Court,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/150-and-151.pdf,,,pending decision,,,51.879618,-0.40828,7.21,,,2017-12-01,,"Temporary permission for use as car parking exists (17/00976/TEMP)
+Outline planning permission, with all matters reserved except for access, for mixed use development comprising residential floorspace (use class C3)
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA155,Guardian Industrial Estate,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/154-and-155.pdf,yes,,permissioned,full planning permission,,51.882147,-0.429883,1.58,,,2017-12-01,,"The latest permission amends 13/00915/OUT.  The site is mostly complete, with only a few homes left to provide
+Erection of 74 residential units
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA160,Moreton Park Estate,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/160-and-161.pdf,yes,,permissioned,full planning permission,,51.892792,-0.399109,0.83,,,2017-12-01,,"
+Demolition of existing employment buildings and dwelling; Erection of 2 No. 2-bedroom houses, 11 No. 3-bedroom houses, 1 No. 4 bedroom house, 7 No.1-bedroom flats and 21 No. 2 bed-room flats with associated access, garaging and parking arrangements, bin store and electricity sub-station
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA161,"Oxen Industrial Estate, Oxen Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/160-and-161.pdf,,,not permissioned,,,51.887092,-0.405778,0.6,48,53,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA174,Land at Caleb Close,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/174-and-175.pdf,,,pending decision,,,51.89343,-0.448048,2.5,,,2017-12-01,,"The site also has extant permission (15/01507/OUT)
+Re-development of site to provide 224 residential units comprising of 21 Two Bedroom houses, 20 Three Bedroom houses and 75 one bedroom flats and 108 two bedroom flats with associated car parking and landscaping.
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA175,Car Parks on Dunstable Place,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/174-and-175.pdf,,,not permissioned,,,51.879201,-0.420048,0.29,41,45,2017-12-01,,"No planning history provided as site covers multiple plots with multiple histories
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA176,Car Park off Telford Way,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/176-and-177.pdf,,,not permissioned,,,51.882738,-0.420984,0.53,39,43,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA180,Dalroad Industrial Estate,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/180-and-181.pdf,,,not permissioned,,,51.883456,-0.434327,0.79,32,35,2017-12-01,,"No planning history provided as site covers part of wider employment estate
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA183,"The Windsor Castle, 12 Albert Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/182-and-183.pdf,,,permissioned,full planning permission,,51.875393,-0.411712,0.08,,,2017-12-01,,"The permission applies across this site and site reference SHLAA222
+Erection of three 4 to 9 storey buildings comprising 137 one bedroom, 99 two bedroom and 2 studios with associated paths, fences, walls, cycle storage and soft landscaping.
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA188,142-144 Midland Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/187-and-188.pdf,yes,,permissioned,full planning permission,,51.883341,-0.416343,0.08,,,2017-12-01,,"
+Erection of 7/8 Storey block comprising 25 one-bedroom and 15 two-bedroom flats
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA190,Extension to Mall,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/189-and-190.pdf,,,not permissioned,,,51.880502,-0.415135,2.4,35,39,2017-12-01,,"No planning history provided as site covers multiple plots with multiple histories
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA191,"Napier Park, Kimpton Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/191-and-192.pdf,yes,,permissioned,full planning permission,,51.876775,-0.395596,24.44,,,2017-12-01,,"Another part of the site also has extant permission (16/01340/REM)
+Erection of 685 flats comprised of 424 one bedroom and 261 two bedroom units
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA198,Rear of 66-76 Castle Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/197-and-198.pdf,,,not permissioned,,,51.874744,-0.41756,0.21,11,12,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA199,27-37 Chapel Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/199-and-200.pdf,yes,,pending decision,,,51.876048,-0.416962,0.14,,,2017-12-01,,"
+Erection of 18 x 1 Bed units at rear of 27-37 Chapel St
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA202,37-47 Cheapside,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/201-and-202.pdf,,,not permissioned,,,51.880151,-0.414465,0.11,59,65,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA205,17-19 Downs Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/205-and-206.pdf,yes,,permissioned,full planning permission,,51.878283,-0.427402,0.16,,,2017-12-01,,"
+Erection of a three/four storey building comprising 14 one bedroom flats
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA207,41-43 Dudley Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/207-and-208.pdf,,,permissioned,full planning permission,,51.884231,-0.415658,0.13,,,2017-12-01,,"
+Erection of 3, 4 and 5 storey building comprising of 38 one bedroom and 16 two bedroom flats with associated car/cycle parking and amenity space
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA208,13-31 Dunstable Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/207-and-208.pdf,yes,,permissioned,full planning permission,,51.881527,-0.424499,0.24,,,2017-12-01,,"
+Erection of 214 flats, comprising 195 one bedroom flats, 15 two bedroom flats and 4 three bedroom flats, Part 8 and part 12 storey building with associated access, car parking and landscaping
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA210,"Land opposite Whitbread House, Flowers Way",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/209-and-210.pdf,yes,,permissioned,full planning permission,,51.876803,-0.414248,0.45,,,2017-12-01,,"
+Erection of three new mixed-use development blocks comprising 318 residential units with balconies
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA213,33 Guildford Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/213-and-214.pdf,,,not permissioned,,,51.880589,-0.412953,0.01,11,12,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA214,35 Guildford Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/213-and-214.pdf,,,not permissioned,,,51.880537,-0.413071,0.04,14,15,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA218,39-51 John Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/217-and-218.pdf,yes,,permissioned,full planning permission,,51.880227,-0.412748,0.03,,,2017-12-01,,"
+39 flats comprising 38 one bedroom and 1 two bedroom flats
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA220,"Luton Town Football Club, Kenilworth Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/219-and-220.pdf,,,not permissioned,,,51.884113,-0.431674,1.58,59,65,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA222,"Crescent House, 1-5 Latimer Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/221-and-222.pdf,,,permissioned,full planning permission,,51.875593,-0.412548,0.17,,,2017-12-01,,"The permission applies across this site and site reference SHLAA183
+Erection of three 4 to 9 storey buildings comprising 137 one bedroom, 99 two bedroom and 2 studios with associated paths, fences, walls, cycle storage and soft landscaping.
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA233,6-14 Old Bedford Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/223-and-224.pdf,yes,,permissioned,full planning permission,,51.883498,-0.416657,0.09,,,2017-12-01,,"
+Erection of 39 one and two bedroom flats in three to six storey block
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA241,43 Ridgway Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/241-and-243.pdf,,,permissioned,full planning permission,,51.888359,-0.408363,0.22,,,2017-12-01,,"
+Erection of 14 two bedroom flats
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA301,18-22 Rothesay Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/300-and-301.pdf,yes,,permissioned,other,,51.878817,-0.422255,0.1,,,2017-12-01,,"
+Change of use of building and any land within its curtilage from office(s) (B1a) to residential (C3) 20 flats under Class O of the GPDO
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA303,Car park adjacent to 69 Adelaide Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/302-and-303.pdf,yes,,pending decision,,,51.877792,-0.422262,0.13,,,2017-12-01,,"
+Erection of a three storey building comprising of 3 two bed and 2 one bed flats, two storey building comprising 2 one bed flats and a three storey building comprising 3 two bed and 3 one bed flats
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA304,89-93 Park Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/304-and-305.pdf,,,not permissioned,,,51.876308,-0.408905,0.08,13,14,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA319,7-11 King Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/318-and-319.pdf,yes,,permissioned,full planning permission,,51.878716,-0.416752,0.05,,,2017-12-01,,"
+Part demolition and reconstruction following fire damage and conversion and change of use to form 9 one-bedroom and 5 two-bedrom flats
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA320,111 North Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/320-and-321.pdf,yes,,not permissioned,,,51.886247,-0.413756,0.17,14,15,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA321,"Petrol Station, 116-124 Wingate Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/320-and-321.pdf,,,permissioned,outline planning permission,,51.894274,-0.443194,0.32,,,2017-12-01,,"
+Erection of 8 three bedroom and 5 four bedroom house and associated works
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA323,5 Empress Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/323-and-324.pdf,yes,,permissioned,full planning permission,,51.903636,-0.454296,0.11,,,2017-12-01,,"
+Erection of 8 x one-bedroom flats, 4 x two-bedroom flats and 2 semi-detached one-bedroom dwelling houses after demolition of existing car workshop
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA333,"Sherd Lodge, Sherd Close",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/333-and-334.pdf,yes,,permissioned,full planning permission,,51.91539,-0.452336,0.29,,,2017-12-01,,"
+Refurbishment and conversion of the existing building and the erection of an additional 3 floors to create 49 flats
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA339,Land at Stockingstone Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/338-and-339.pdf,,,not permissioned,,,51.89344,-0.4058,2.25,56,62,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA340,"Car Park adjacent to, 15 Oxford Road and 23-27 Union Street",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/340-and-341.pdf,yes,,permissioned,full planning permission,,51.875558,-0.413943,0.03,,,2017-12-01,,"
+Erection of a 5 storey building to provide 22 one bedroom flats and 11 two bedroom flats together with associated facilities
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA342,"The Laurels, Ely Way",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/342-and-343.pdf,yes,,permissioned,full planning permission,,51.901118,-0.466592,0.53,,,2017-12-01,,"
+Demolition of existing nursing home and redevelopment with fourteen three bed and four bed housing
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA345,"Milan Day Centre, Solway Road North",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/344-and-345.pdf,yes,,permissioned,outline planning permission,,51.901213,-0.440279,0.2,,,2017-12-01,,"The permission applies across this site and site reference SHLAA471
+Erection of 4 two bedroom, 7 three bedroom and 4 four bedroom houses
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA348,27 Crawley Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/348-and-349.pdf,yes,,not permissioned,,,51.883347,-0.422111,0.03,11,12,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA351,27A Upper George Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/350-and-351.pdf,yes,,pending decision,,,51.879508,-0.420139,0.1,,,2017-12-01,,"
+Erection of a building comprising of 38 one/two bedroom flats and 2 retail units on ground floor together with landscaping after demolition of existing building
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA352,40-58 Collingdon Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/352-and-353.pdf,yes,,permissioned,full planning permission,,51.882121,-0.42057,0.22,,,2017-12-01,,"
+Erection of a five storey residential development comprising 88 apartments, ground floor office space, undercroft parking and associated hard and soft landscaping following demolition of buildings
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA353,Car park adjacent to 95 Maple Road East,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/352-and-353.pdf,,,not permissioned,,,51.884634,-0.435041,0.65,49,54,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA359,"Bramingham Centre, Weltmore Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/359-and-360.pdf,yes,,pending decision,,,51.908818,-0.4531,1.4,,,2017-12-01,,"
+Development of Land for residential purposes - Change of use from Class D1 day centre to Class C Residential, after demolition of the former Bramingham Centre and Erection of 52 dwellings comprising of 33 houses and 19 apartments, associated car parking and external works
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA360,"International House, Eaton Green Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/359-and-360.pdf,yes,,permissioned,full planning permission,,51.883209,-0.386751,0.37,,,2017-12-01,,"
+Change of use from student accommodation (153 bedrooms) to hostel (155) bedrooms with training and management facilities and cycle storage
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA361,2 to 32 Beechwood Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/361-and-362.pdf,,,not permissioned,,,51.892888,-0.449244,0.61,15,17,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA363,"Royal Mail, Sarum Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/363-and-364.pdf,yes,,not permissioned,,,51.903245,-0.453262,0.15,11,12,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA364,10 to 12 Caleb Close,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/363-and-364.pdf,,,not permissioned,,,51.892076,-0.448385,0.33,24,26,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA370,"Leagrave Service Station, High Street.",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/369-and-370.pdf,yes,,pending decision,,,51.902205,-0.464491,0.28,,,2017-12-01,,"
+Erection of a three storey block comprising of 36 Flats and erection of 3 dwelling houses, along with associated parking and landscaping
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA401,"Whitbread House, Flowers Way",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/401-and-402.pdf,yes,,permissioned,other,,51.877333,-0.413503,0.42,,,2017-12-01,,"The site also benefits from additional permission (16/00247/COM)
+Change of use under Class O - from B1(a) (office) to C3 (dwellings)12 residential units on Third Floor
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA404,"Napier House, 17-21 Napier Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/403-and-404.pdf,yes,,pending decision,,,51.878041,-0.423415,0.03,,,2017-12-01,,"The site benefits from additional permission (16/01319/COM)
+Erection of additional floor to provide a total of 4 flats (1 No. 1 bedroom flat and 3 No. 2 bedroom flats)
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA407,54-62 Park Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/407-and-408.pdf,yes,,permissioned,other,,51.876758,-0.410894,0.1,,,2017-12-01,,"
+Change of use from class B1(a) office to C3 (dwellings)
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA411,16 to 36 South Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/411-and-412.pdf,yes,,permissioned,outline planning permission,,51.873711,-0.418366,0.22,,,2017-12-01,,"
+Erection of up to 36 flats in a three storey building
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA412,38a Wingate Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/411-and-412.pdf,,,not permissioned,,,51.893974,-0.449105,0.61,15,17,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA415,22 to 36 Hastings Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/415-and-416.pdf,yes,,permissioned,full planning permission,,51.877005,-0.419224,0.06,,,2017-12-01,,"
+Demolition of existing building and erection of a new residential block consisting of 5 two bed and 13 one bed flats
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA422,Land and buildings at and behind 98-100 Wenlock Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/421-and-422.pdf,,,permissioned,outline planning permission,,51.885179,-0.411905,0.15,,,2017-12-01,,"Part of this application has been built-out
+Erection of 8 one and two bedroom flats in three blocks and alterations to existing two bedroom flats with associated parking
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA426,4 Dunstable Place & 9 Upper George Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/425-and-426.pdf,,,not permissioned,,,51.879612,-0.41922,0.03,8,9,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA433,"Land adj. to 18, 18a Cowper Street and 17 Tavistock Crescent",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/433-and-434.pdf,,,not permissioned,,,51.872095,-0.417188,0.05,6,7,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA439,"Mill Gardens, 16-26 Mill Street",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/439-and-440.pdf,yes,,permissioned,full planning permission,,51.882536,-0.418623,0.07,,,2017-12-01,,"The site benefits from additional permission (16/00171/RETRES)
+Retrospective planning permission for the conversion of retail unit on ground floor to one additional bedsit and alterations to the front elevation
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA456,"Connaught House, 15-17 Upper George Street",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/455-and-456.pdf,yes,,not permissioned,,,51.879598,-0.419496,0.04,15,17,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA458,12-14 Park Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/457-and-458.pdf,yes,,permissioned,full planning permission,,51.877859,-0.41318,0.12,,,2017-12-01,,"The site benefits from additional permission (15/01161/COM)
+Erection of 3rd floor to provide 9 flats
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA460,Britannia Estate,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/459-and-460.pdf,yes,,not permissioned,,,51.892071,-0.435074,4.4,294,323,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA470,Wigmore Hall,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/469-and-470.pdf,,,not permissioned,,,51.887324,-0.366986,0.18,9,10,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA471,Saints Community Centre,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/471-and-472.pdf,yes,,permissioned,outline planning permission,,51.901512,-0.439789,0.18,,,2017-12-01,,"The permission applies across this site and site reference SHLAA345
+Erection of 4 two bedroom, 7 three bedroom and 4 four bedroom houses
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA472,"The Old School House, Trinity Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/471-and-472.pdf,,,not permissioned,,,51.902981,-0.438038,0.13,7,8,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA477,"The Parrott, Whipperley Ring",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/477-and-478.pdf,yes,,not permissioned,,,51.874521,-0.438617,0.28,25,28,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA478,"The Roman Way, Tomlinson Avenue",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/477-and-478.pdf,yes,,permissioned,full planning permission,,51.901461,-0.495258,0.24,,,2017-12-01,,"
+Erection of 3 bungalows and 17 flats with associated landscaping, off-street parking, cycle and pram storage
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA481,Car Park Adjacent to 52 Duke Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/479-to-481.pdf,yes,,permissioned,full planning permission,,51.884279,-0.411864,0.05,,,2017-12-01,,"
+Erection of 2/3 storey building comprising of 5 flats (2 No. one bedroom and 3 No. two bedroom flats)
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA482,High Town plot 7,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/482_483-and-484.pdf,,,not permissioned,,,51.884469,-0.415969,0.16,27,30,2017-12-01,,"No planning history provided as site covers multiple plots with multiple histories
+
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA483,High Town plot 5A,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/482_483-and-484.pdf,,,not permissioned,,,51.883801,-0.413755,0.07,3,4,2017-12-01,,"
+
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA485,High Town plot 5B,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/485-to-489.pdf,,,not permissioned,,,51.884664,-0.413042,0.13,21,23,2017-12-01,,"No planning history provided as site covers multiple plots with multiple histories
+
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA486,High Town plot 1A,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/485-to-489.pdf,,,not permissioned,,,51.883225,-0.41238,0.72,75,83,2017-12-01,,"
+
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA487,High Town plot 1C,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/485-to-489.pdf,,,not permissioned,,,51.882813,-0.411828,0.16,19,21,2017-12-01,,"
+
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA488,High Town plot 1D,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/485-to-489.pdf,,,not permissioned,,,51.882672,-0.411412,0.16,27,30,2017-12-01,,"
+
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA489,High Town plot 1B,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/485-to-489.pdf,,,pending decision,,,51.883111,-0.41128,0.32,,,2017-12-01,,"
+Erection of 4 and 5 story building comprising 64 residential units
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA490,High Town plot 2A,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/490-to-493.pdf,,,not permissioned,,,51.883474,-0.410846,0.57,63,69,2017-12-01,,"No planning history provided as site covers multiple plots with multiple histories
+
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA491,High Town plot 2B,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/490-to-493.pdf,yes,,not permissioned,,,51.883039,-0.409931,0.05,16,18,2017-12-01,,"
+
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA492,High Town plot 3,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/490-to-493.pdf,,,not permissioned,,,51.883733,-0.410067,0.31,31,34,2017-12-01,,"
+
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA493,High Town plot 6C,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/490-to-493.pdf,yes,,permissioned,full planning permission,,51.884401,-0.411583,0.07,,,2017-12-01,,"
+Erection of a three storey building comprising 12 one bedroom flats and 2 two bedroom flats
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA494,High Town plot 6D,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/494-to-497.pdf,,,not permissioned,,,51.884129,-0.409414,0.28,39,43,2017-12-01,,"No planning history provided as site covers multiple plots with multiple histories
+
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA496,High Town plot 6A,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/494-to-497.pdf,,,not permissioned,,,51.884628,-0.410428,0.4,60,66,2017-12-01,,"No planning history provided as site covers multiple plots with multiple histories
+
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA497,High Town plot 6B,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/494-to-497.pdf,,,not permissioned,,,51.884992,-0.410763,0.11,18,20,2017-12-01,,"No planning history provided as site covers multiple plots with multiple histories
+
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA501,High Town plot 4,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/498-to-502.pdf,yes,,permissioned,full planning permission,,51.88594,-0.407664,0.77,,,2017-12-01,,"
+Erection of 49 affordable dwellings -18 one and two bedroom apartments and 31 two, three and four bedroom houses
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA503,High Town plot 8,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/503-and-504.pdf,,,not permissioned,,,51.884867,-0.408167,0.19,23,25,2017-12-01,,"
+
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA504,High Town plot 9,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/503-and-504.pdf,,,not permissioned,,,51.884068,-0.408239,0.2,9,10,2017-12-01,,"No planning history exists for this site
+
+https://www.luton.gov.uk/ENVIRONMENT/PLANNING/REGIONAL%20AND%20LOCAL%20PLANNING/HIGHTOWN-MASTERPLAN/Pages/default.aspx",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA519,Birdsfoot Lane depot,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/519-and-520.pdf,yes,,not permissioned,,,51.90865,-0.433596,0.3,16,18,2017-12-01,,"
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA530,Land rear Of 81 Dumfries Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/529-and-530.pdf,yes,,permissioned,full planning permission,,51.876514,-0.422147,0.05,,,2017-12-01,,"
+Development of land to form seven new residential one bedroom apartment dwellings with associated amenity and site waste areas
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA532,2B Medina Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/531-and-532.pdf,yes,,permissioned,full planning permission,,51.888519,-0.439774,0.05,,,2017-12-01,,"
+Demolition of existing retail units and construction of 5 No. 1 bed flats and 3 No. 2 bed flats
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA533,15-17 Cardiff Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/533-and-534.pdf,yes,,permissioned,other,,51.879294,-0.422311,0.02,,,2017-12-01,,"
+Change of use from Class B1(a) offices to C3 (dwellings). Proposal to convert 15 - 17 Cardiff Road from offices to create 8 x Studio Flats
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA535,"The Compasses, 11 Farley Hill",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/535-and-536.pdf,yes,,permissioned,full planning permission,,51.874112,-0.418759,0.04,,,2017-12-01,,"
+Change of use and extensions of public house (Class A4) with flat over to Class C3 (residential) to provide 9 no 1 bedroom flats and 1 bedsit
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA536,9-15 Adelaide Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/535-and-536.pdf,yes,,pending decision,,,51.877141,-0.41935,0.04,,,2017-12-01,,"
+Conversion and change of use of office to residential and erection of two addtional stories to create 14 studio apartments
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA538,32 King Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/537-and-538.pdf,yes,,permissioned,other,,51.877989,-0.418202,0.02,,,2017-12-01,,"
+Change of use from Class B1(a) (offices ) to C3 (dwelling). Proposed to convert into 13 flats consisting of 11 x 1 Bedroom, 2 x Studio / bedsit
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA539,79-81 Windsor Walk,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/539-and-540.pdf,yes,,permissioned,full planning permission,,51.877255,-0.419738,0.05,,,2017-12-01,,"
+Erection of a building with 14 flats over four storeys, 13 two bedroom flats and 1 one bedroom flat after demolition of existing industrial unit
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA540,112-114 Marsh Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/539-and-540.pdf,yes,,permissioned,full planning permission,,51.902637,-0.450783,0.28,,,2017-12-01,,"
+Erection of 19 one bedroom apartments on existing car park
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA541,61 George Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/541-and-542.pdf,yes,,permissioned,full planning permission,,51.878921,-0.416629,0.03,,,2017-12-01,,"
+Conversion and change of use of first and second floors from Art Gallery to 6 one bedroom and 2 two bedroom flats and associated external alterations
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA542,28 Dunstable Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/541-and-542.pdf,yes,,permissioned,other,,51.881018,-0.422803,0.12,,,2017-12-01,,"The site also benefits from additional permissions (15/01015/COM, 17/00761/COM, 17/00763/COM, 17/00764/COM)
+Change of use from office(s) (B1(a)) to residential (Class O) (C3) Second Floor. 12 flats.
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA543,39 Castle Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/543-and-544.pdf,,,permissioned,outline planning permission,,51.87611,-0.414897,0.13,,,2017-12-01,,"
+Erection of 10 storey building comprising 35 apartments after demolition of existing buildings
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA544,26-38 John Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/543-and-544.pdf,yes,,permissioned,full planning permission,,51.879827,-0.413125,0.12,,,2017-12-01,,"The site also benefits from additional permission (15/00437/FUL)
+Conversion and change of use of retail to 3 No. 1 bedroom residential units and service areas
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA545,39-49 Manor Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/545-and-546.pdf,,,pending decision,,,51.876761,-0.407131,0.26,,,2017-12-01,,"
+Demolition of existing building and erection of new 3, 4, 5 + 6 storey building accommodating 105 residential flats (Use Class C3)
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA546,1-1A Stanley Walk,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/545-and-546.pdf,yes,,permissioned,full planning permission,,51.875305,-0.42187,0.02,,,2017-12-01,,"
+Erection of 5 one-bedroom dwellinghouses after demolition of light industrial unit
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA547,Garage court adj to 16 Barnard Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/547-and-548.pdf,yes,,permissioned,full planning permission,,51.877401,-0.444881,0.14,,,2017-12-01,,"
+Erection of 4 semi detached 2 bedroom dwelling houses and 1 detached 2 bedroom bungalow
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA548,Land adj to 43 Bute Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/547-and-548.pdf,yes,,permissioned,full planning permission,,51.880543,-0.41557,0.05,,,2017-12-01,,"
+Erection of a two storey rear extension, chimney flue and conversion of first and second floors into 8 bedsits
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA552,179-185 Dunstable Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/551-and-552.pdf,yes,,permissioned,full planning permission,,51.885142,-0.42863,0.07,,,2017-12-01,,"
+Conversion and change of use of first and second floors from (D1) Educational Training Centre to (C3) residential use comprising 10 No. 1 bed and 2 No. studio flats
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA553,Land rear of 23-29 Farley Hill,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/553-and-554.pdf,yes,,permissioned,outline planning permission,,51.873727,-0.418889,0.33,,,2017-12-01,,"
+Development of land for residential purposes
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA554,"Melson Arms, 63-65 John Street",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/553-and-554.pdf,yes,,permissioned,full planning permission,,51.880313,-0.411829,0.05,,,2017-12-01,,"
+Erection of 18 flats comprising 14 one bedroom and 4 two bedroom flats over 4/ 5 storeys after demolition of existing public house
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA556,Units 1 And 2 Spring Place and 4-6 Dumfries Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/555-and-556.pdf,yes,,permissioned,full planning permission,,51.876196,-0.418555,0.52,,,2017-12-01,,"
+Erection of six storey student accommodation block and associated works
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA557,49 to 57 Castle Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/557-and-558.pdf,yes,,permissioned,full planning permission,,51.875395,-0.415184,0.33,,,2017-12-01,,"
+Erection of three blocks consisting of 24 one bedroom and 45 two bedroom flats (affordable housing) with associated external works
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA559,"Cresta House, Alma Street",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/559%20and%20560.pdf,,,permissioned,other,,51.881155,-0.418948,0.16,,,2017-12-01,,"The site also benefits from additional permissions (17/00892/COM, 17/00097/COM, 17/00096/COM)
+Change of use from office(s) (B1(a)) to (C3) residential. (Class O) 3 units at Sixth Floor
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA560,"Gainsborough House, 10 Cardiff Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/559%20and%20560.pdf,yes,,permissioned,other,,51.879252,-0.42317,0.02,,,2017-12-01,,"
+Change of use from office(s) (B1a) to residential (Class O) (C3) 13 Residential units
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA561,2-6 Cardigan Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/561-to-564.pdf,yes,,permissioned,other,,51.881776,-0.420277,0.03,,,2017-12-01,,"
+Change of use from office(s) (B1a) to residential (Class O) (C3) Ground and first floor to 11 residential units
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA562,80-88 Collingdon Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/561-to-564.pdf,yes,,permissioned,other,,51.882151,-0.422109,0.07,,,2017-12-01,,"
+Change of use under Class O - from B1(a) (office) to C3 (dwellings) 18 apartments
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA563,"Gilmartins House, 102 Collingdon Street",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/561-to-564.pdf,yes,,pending decision,,,51.882134,-0.422851,0.05,,,2017-12-01,,"The site also benefits from additional permission (17/00095/COM)
+Residential development for 7 two-bedroom self contained flats incorporating the construction of 3 additional floor creating 7 storey building, extensions and alterations, revised access, parking and landscaping
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA564,1-11 Cumberland Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/561-to-564.pdf,yes,,pending decision,,,51.876198,-0.410696,0.29,,,2017-12-01,,"
+Erection of a mixed use building comprising of 33 one bedroom, 85 two bedroom, 13 three Bedroom, 21 one bedroom Duplex, 2 two bedroom Duplex, with 22 Studio Appartments with commercial units at ground floor level with associated car parking, cycle store and amenity space
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA565,"Chubb House, 400 Dallow Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/565-and-566.pdf,yes,,permissioned,other,,51.885132,-0.45432,0.6,,,2017-12-01,,"
+Change of use from office(s) (B1a) to (C3) residential. (Class O) 130 Dwellings
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA566,176-180A Dunstable Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/565-and-566.pdf,yes,,pending decision,,,51.886616,-0.430599,0.03,,,2017-12-01,,"
+Erection of building comprising 5 shops on ground floor, 5 offices on first floor, 8 bedsits on upper floors together with a management suite and a clock tower on third floor after demolition of existing buildings
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA567,"55 George Street And, 2B George Street West",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/567-and-568.pdf,yes,,permissioned,full planning permission,,51.878819,-0.416371,0.02,,,2017-12-01,,"
+Conversion and change of use of first and second floors from retail to 5 one bedroom flats
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA568,6-8 Gordon Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/567-and-568.pdf,yes,,permissioned,full planning permission,,51.88069,-0.418456,0.03,,,2017-12-01,,"
+Conversion and change of use from Night Club (sui-generis) to 4 no. 1 bed and 2 no. 2 bed flats
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA569,"Tracey Court, 76 Hibbert Street",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/569-and-570.pdf,yes,,permissioned,full planning permission,,51.872925,-0.414036,0.11,,,2017-12-01,,"
+Erection of a new mansard floor to accommodate 5 additional one bed flats
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA570,"Bramingham Service Station, Icknield Way",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/569-and-570.pdf,yes,,permissioned,outline planning permission,,51.91286,-0.438495,0.2,,,2017-12-01,,"
+Erection of 2 No. 3 bedroom dwellings houses, and two detached blocks comprising of 19 flats with associated access and parking
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA571,"Regent Court & Regent Court South, Laporte Way",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/571-and-572.pdf,yes,,permissioned,other,,51.886983,-0.443998,0.95,,,2017-12-01,,"
+Change of use under Class O - from offices (use class B1(a)) to 111 residential units (use class C3), comprising of 83 residential units within Randstad Court (all floors) and 28 residential units within Randstad Court South (all floors)
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA572,69-71 Latimer Road,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/571-and-572.pdf,yes,,permissioned,other,,51.874219,-0.413337,0.07,,,2017-12-01,,"
+Change of use under Class O - from B1(a) (office) to C3 (dwellings) 7 flats
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA573,"1 Park Terrace, Manor Road",http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/573-and-574.pdf,yes,,pending decision,,,51.876048,-0.408958,0.01,,,2017-12-01,,"
+Change of use from office(s) (B1(a)) to (C3) 8x studio flats
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA574,14 Stuart Street,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/573-and-574.pdf,yes,,permissioned,full planning permission,,51.878053,-0.418258,0.02,,,2017-12-01,,"The site also benefits from additional permission (15/01658/FUL)
+Conversion and change of use of part of the ground floor from office to one bedroom flat and external alterations
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA575,46 Windsor Walk,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/575-and-576.pdf,yes,,pending decision,,,51.876785,-0.419595,0.02,,,2017-12-01,,"
+Erection of a replacement building to provide nine flats, consist of 3 one-bedroom , 5 studio flats and 1 two-bedroom flat
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA577,Berry Leys garage courts,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/577-and-578.pdf,,,not permissioned,,,51.916848,-0.459324,0.22,11,12,2017-12-01,,"No planning history exists for this site
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA578,Oatfield Close garage courts,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/577-and-578.pdf,,,not permissioned,,,51.903225,-0.494676,0.15,5,6,2017-12-01,,"No planning history exists for this site
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5
+2017-12-01,local-authority-eng:LUT,SHLAA583,Easingwold Gardens garage courts,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/SHLAA-2017/Maps/583.pdf,,,not permissioned,,,51.884155,-0.453845,0.22,11,12,2017-12-01,,"No planning history exists for this site
+
+",6dd5b4e8f86c741a0a8e35c075edce0293288ff38ef1abe2f3dd35c85b259aa5

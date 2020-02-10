@@ -1,18 +1,52 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-31,local-authority-eng:MDE,MDDC/BF001,"Roundhill, Tiverton",,yes,owned by a public authority,not permissioned,,,50.899945,-3.498699,0.4,,,2017-12-31,,59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
-2017-12-31,local-authority-eng:MDE,MDDC/BF002,"Land between Blundells School and River Lowman, Tiverton",,yes,mixed ownership,not permissioned,,,50.905965,-3.470391,3.5,,,2017-12-31,,59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
-2017-12-31,local-authority-eng:MDE,MDDC/BF003,"Newton Square, Bampton",,,not owned by a public authority,not permissioned,,,50.990841,-3.486655,0.25,,,2017-12-31,,59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
-2017-12-31,local-authority-eng:MDE,MDDC/BF004,"Phoenix Lane, Tiverton",,,not owned by a public authority,not permissioned,,,50.901574,-3.486069,1.1,,,2017-12-31,,59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
-2017-12-31,local-authority-eng:MDE,MDDC/BF005,"The Woods Group, Crediton",,,not owned by a public authority,not permissioned,,,50.786521,-3.647994,0.17,,,2017-12-31,,59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
-2017-12-31,local-authority-eng:MDE,MDDC/BF006,"Former Tiverton Parkway Hotel, Sampford Peverell",,yes,not owned by a public authority,not permissioned,,,50.920494,-3.3732,0.45,,,2017-12-31,,59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
-2017-12-31,local-authority-eng:MDE,MDDC/BF007,"The Garage, Silverton",,yes,not owned by a public authority,not permissioned,,,50.811828,-3.483059,0.11,,,2017-12-31,,59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
-2017-12-31,local-authority-eng:MDE,MDDC/BF008,"Former Stone Crushing Works, Scotts Business Park, Bampton",,yes,not owned by a public authority,permissioned,full planning permission,,50.984777,-3.490878,3.41,,,2017-12-31,,59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
-2017-12-31,local-authority-eng:MDE,MDDC/BF009,"East of Simla Cottage, Ashleigh Park",,yes,not owned by a public authority,permissioned,reserved matters approval,,50.987555,-3.4794,0.45,,,2017-12-31,,59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
-2017-12-31,local-authority-eng:MDE,MDDC/BF010,"47 Mill Street, Crediton, EX17 3AA",,yes,not owned by a public authority,permissioned,full planning permission,,50.787283,-3.647031,0.07,,,2017-12-31,,59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
-2017-12-31,local-authority-eng:MDE,MDDC/BF011,"Land and Buildings at NGR 302994 107178 (Former Cummings Nursery), Culm Lea, Cullompton",,yes,not owned by a public authority,permissioned,reserved matters approval,,50.856269,-3.379148,2.78,,,2017-12-31,,59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
-2017-12-31,local-authority-eng:MDE,MDDC/BF012,"Former St Ivel Site, Station Road, Hemyock",,yes,not owned by a public authority,permissioned,outline planning permission,,50.9184,-3.226089,0.27,,,2017-12-31,,59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
-2017-12-31,local-authority-eng:MDE,MDDC/BF013,"Land and Buildings at NGR 292868, Silver Street, Thorverton",,yes,not owned by a public authority,permissioned,full planning permission,,50.806871,-3.519959,1.1,,,2017-12-31,,59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
-2017-12-31,local-authority-eng:MDE,MDDC/BF014,"Land at NGR 306965 113252 (Belle View), Ashley Road, Uffculme",,yes,not owned by a public authority,permissioned,outline planning permission,,50.909945,-3.322967,0.46,,,2017-12-31,,59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
-2017-12-31,local-authority-eng:MDE,MDDC/BF015,"Adjoining the Town Hall, St Andrews Street, Tiverton",,yes,owned by a public authority,permissioned,full planning permission,,50.901495,-3.488341,0.5,,,2017-12-31,,59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
-2017-12-31,local-authority-eng:MDE,MDDC/BF016,"The Three Little Pigs, Parliament Street, Crediton",,yes,not owned by a public authority,permissioned,full planning permission,,50.791102,-3.65627,0.05,,,2017-12-31,,59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
-2017-12-31,local-authority-eng:MDE,MDDC/BF017,"Former Hare & Hounds, 138 Chapel Street, Tiverton",,yes,not owned by a public authority,permissioned,full planning permission,,50.906155,-3.478854,0.15,,,2017-12-31,,59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-12-31,local-authority-eng:MDE,MDDC/BF001,"Roundhill, Tiverton",,yes,owned by a public authority,not permissioned,,,50.899945,-3.498699,0.4,,,2017-12-31,,"A proposed site allocation in the Mid Devon Local Plan Review subject to 20 affordable dwellings.
+
+",59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
+2017-12-31,local-authority-eng:MDE,MDDC/BF002,"Land between Blundells School and River Lowman, Tiverton",,yes,mixed ownership,not permissioned,,,50.905965,-3.470391,3.5,,,2017-12-31,,"Site previously allocated in the AIDPD (2011) and is currently part of a proposed allocation in the Local Plan Review for 200 dwellings with 28% affordable housing subject to approximately 8ha of GI, appropriate land shaping to raise areas for  development above flood zone 3, provision of a junction on Heathcoat Way and a safeguarded route road through the site, provision and enhancement of cycle and pedestrian links in the area. The site is comprised of brownfield and greenfield land although only the brownfield proportion is included in the BLR. Minimum dwelling figure based on the same density assumptions proposed for the LPR allocation as a whole.
+
+",59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
+2017-12-31,local-authority-eng:MDE,MDDC/BF003,"Newton Square, Bampton",,,not owned by a public authority,not permissioned,,,50.990841,-3.486655,0.25,,,2017-12-31,,"A proposed site allocation in the Mid Devon Local Plan Review subject to 5 dwellings.
+
+",59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
+2017-12-31,local-authority-eng:MDE,MDDC/BF004,"Phoenix Lane, Tiverton",,,not owned by a public authority,not permissioned,,,50.901574,-3.486069,1.1,,,2017-12-31,,"A proposed site allocation in the Mid Devon Local Plan Review for 60 dwellings (28% affordable), 7,000 sq.m of mixed commercial floorspace.
+
+",59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
+2017-12-31,local-authority-eng:MDE,MDDC/BF005,"The Woods Group, Crediton",,,not owned by a public authority,not permissioned,,,50.786521,-3.647994,0.17,,,2017-12-31,,"A proposed site allocation in the Mid Devon Local Plan Review for 8 dwellings.
+
+",59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
+2017-12-31,local-authority-eng:MDE,MDDC/BF006,"Former Tiverton Parkway Hotel, Sampford Peverell",,yes,not owned by a public authority,not permissioned,,,50.920494,-3.3732,0.45,,,2017-12-31,,"A proposed site allocation in the Mid Devon Local Plan Review subject to 10  dwellings including 30% affordable.
+
+",59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
+2017-12-31,local-authority-eng:MDE,MDDC/BF007,"The Garage, Silverton",,yes,not owned by a public authority,not permissioned,,,50.811828,-3.483059,0.11,,,2017-12-31,,"A proposed site allocation in the Mid Devon Local Plan Review subject to 5 dwellings.
+
+",59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
+2017-12-31,local-authority-eng:MDE,MDDC/BF008,"Former Stone Crushing Works, Scotts Business Park, Bampton",,yes,not owned by a public authority,permissioned,full planning permission,,50.984777,-3.490878,3.41,,,2017-12-31,,"
+""62 dwellings in total (including 14 affordable) 44 completed, 5 under construction, 13 approved with planning permission.""
+",59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
+2017-12-31,local-authority-eng:MDE,MDDC/BF009,"East of Simla Cottage, Ashleigh Park",,yes,not owned by a public authority,permissioned,reserved matters approval,,50.987555,-3.4794,0.45,,,2017-12-31,,"
+""4 x 4 bed detached bungalows.""
+",59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
+2017-12-31,local-authority-eng:MDE,MDDC/BF010,"47 Mill Street, Crediton, EX17 3AA",,yes,not owned by a public authority,permissioned,full planning permission,,50.787283,-3.647031,0.07,,,2017-12-31,,"
+""Demolition of building and new build of 10 flats. 1 under construction, 9 approved with planning permission.""
+",59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
+2017-12-31,local-authority-eng:MDE,MDDC/BF011,"Land and Buildings at NGR 302994 107178 (Former Cummings Nursery), Culm Lea, Cullompton",,yes,not owned by a public authority,permissioned,reserved matters approval,,50.856269,-3.379148,2.78,,,2017-12-31,,"
+""Erection of 100 dwellings including 30 affordable. 40 dwellings completed, 50 under construction. 10 remaining approved with planning permission.""
+",59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
+2017-12-31,local-authority-eng:MDE,MDDC/BF012,"Former St Ivel Site, Station Road, Hemyock",,yes,not owned by a public authority,permissioned,outline planning permission,,50.9184,-3.226089,0.27,,,2017-12-31,,"
+""Erection of 8 dwellings (including 2 social & affordable rents).""
+",59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
+2017-12-31,local-authority-eng:MDE,MDDC/BF013,"Land and Buildings at NGR 292868, Silver Street, Thorverton",,yes,not owned by a public authority,permissioned,full planning permission,,50.806871,-3.519959,1.1,,,2017-12-31,,"
+""20 dwellings, including 10 affordable homes (8 social rented, 2 intermediate). 18 under construction. 2 remaining approved with planning permission.""
+",59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
+2017-12-31,local-authority-eng:MDE,MDDC/BF014,"Land at NGR 306965 113252 (Belle View), Ashley Road, Uffculme",,yes,not owned by a public authority,permissioned,outline planning permission,,50.909945,-3.322967,0.46,,,2017-12-31,,"
+""10 dwellings, inclusive of 2 affordable homes.""
+",59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
+2017-12-31,local-authority-eng:MDE,MDDC/BF015,"Adjoining the Town Hall, St Andrews Street, Tiverton",,yes,owned by a public authority,permissioned,full planning permission,,50.901495,-3.488341,0.5,,,2017-12-31,,"
+""Erection of 58 dwellings in total. 14 built, 44 remaining with planning permisson (flats)""
+",59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
+2017-12-31,local-authority-eng:MDE,MDDC/BF016,"The Three Little Pigs, Parliament Street, Crediton",,yes,not owned by a public authority,permissioned,full planning permission,,50.791102,-3.65627,0.05,,,2017-12-31,,"
+""11 dwellings. 5 plots commenced 2009.""
+",59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187
+2017-12-31,local-authority-eng:MDE,MDDC/BF017,"Former Hare & Hounds, 138 Chapel Street, Tiverton",,yes,not owned by a public authority,permissioned,full planning permission,,50.906155,-3.478854,0.15,,,2017-12-31,,"
+""Conversion and extension of former public house into six dwellings (14/02132/FULL) and Erection of 2d (16/00319/FULL)""
+",59b0eebeb6302c722851d7c764690cfd8764e64ade2aae9de7e125c34f5f8187

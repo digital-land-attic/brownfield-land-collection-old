@@ -1,34 +1,105 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-01,local-authority-eng:GLO,GLOSBR001,"Land at Barnwood Manor, Barnwood Road, Barnwood",http://www.gloucester.gov.uk/Documents/GLOSBR001%20%20Barnwood%20Manor.pdf,yes,not owned by a public authority,not permissioned,,,51.858536,-2.199187,0.7,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR002,"Jordans Brook House, North Upton Lane, Barnwood",http://www.gloucester.gov.uk/Documents/GLOSBR002%20%20Jordans%20Brook%20House.pdf,yes,owned by a public authority,permissioned,full planning permission,,51.85776,-2.201159,0.85,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR003,"Norvilles Factory, Tarrington Road, Barton and Tredworth",http://www.gloucester.gov.uk/Documents/GLOSBR003%20%20Former%20Norville%20Factory.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.852475,-2.234135,0.77,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR004,"Allstone site, off Myers Road, Elmbridge",http://www.gloucester.gov.uk/Documents/GLOSBR004%20%20Allstone%20Site.pdf,yes,not owned by a public authority,pending decision,,,51.862458,-2.223049,5.5,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR005,"Cheltenham Surfacing, off Myers Road, Elmbridge",http://www.gloucester.gov.uk/Documents/GLOSBR005%20%20Land%20at%20Cheltenham%20Surfacing.pdf,yes,not owned by a public authority,not permissioned,,,51.863061,-2.22751,0.36,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR006,"Car park at Tuffley Library, off Windsor Drive, Grange",http://www.gloucester.gov.uk/Documents/GLOSBR006%20%20Land%20at%20Tuffley%20Library.pdf,,owned by a public authority,not permissioned,,,51.830696,-2.260956,0.2,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR007,"Great Western Road Sidings, Great Western Road, Kingsholm and Wotton",http://www.gloucester.gov.uk/Documents/GLOSBR007%20%20Great%20Western%20Road%20Sidings.pdf,yes,owned by a public authority,not permissioned,,,51.863647,-2.231492,4.5,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR008,"Wessex House, Great Western Road, Kingsholm and Wotton",http://www.gloucester.gov.uk/Documents/GLOSBR008%20%20Wessex%20House.pdf,yes,owned by a public authority,not permissioned,,,51.866061,-2.23804,0.3,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR009,"Hare Lane Car Park, Hare Lane, Kingsholm and Wotton",http://www.gloucester.gov.uk/Documents/GLOSBR009%20%20Hare%20Lane%20Car%20Park.pdf,,owned by a public authority,not permissioned,,,51.869252,-2.242763,0.32,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR010,"9-11 St Catherine Street, Kingsholm and Wotton",http://www.gloucester.gov.uk/Documents/GLOSBR010%20%209-11%20St%20Catherine%20St.pdf,,not owned by a public authority,not permissioned,,,51.869628,-2.243709,0.06,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR011,"43-49 & 51-53 St Catherine Street, Kingsholm and Wotton",http://www.gloucester.gov.uk/Documents/GLOSBR011%20%2043-49%20and%2051-53%20St%20Catherine%20St.pdf,,not owned by a public authority,not permissioned,,,51.869922,-2.245061,0.07,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR012,"Former Bishops College, off Estcourt Close, Longlevens",http://www.gloucester.gov.uk/Documents/GLOSBR012%20%20Former%20Bishops%20College.pdf,yes,not owned by a public authority,pending decision,,,51.876322,-2.232473,5.6,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR013,"Land at St James Close, Quedgeley Fieldcourt",http://www.gloucester.gov.uk/Documents/GLOSBR013%20%20Land%20at%20St%20James%20Close.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.826436,-2.279794,0.23,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR014,"Station longstay car park, off Bruton Way, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR014%20%20Station%20Car%20Park.pdf,yes,not owned by a public authority,not permissioned,,,51.864812,-2.237946,0.49,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR015,"Land at St Oswalds, off Gavel Way, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR015%20%20Land%20at%20St%20Oswalds.pdf,yes,owned by a public authority,not permissioned,,,51.872918,-2.252703,2.5,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR016,"31-35 Worcester Street, Conway House, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR016%20%2031-35%20Worcester%20Street.pdf,yes,not owned by a public authority,permissioned,,,51.868128,-2.242931,0.06,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR017,"37-39 Worcester Street, Tanners Hall, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR017%20%2037-39%20Worcester%20Street.pdf,yes,not owned by a public authority,not permissioned,,,51.868389,-2.242874,0.07,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR018,"Southgate Moorings, off Southgate Street, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR018%20%20Southgate%20Moorings.pdf,yes,owned by a public authority,permissioned,full planning permission,,51.862395,-2.250045,0.5,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR019,"Part of Kings Quarter, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR019%20%20Kings%20Quarter.pdf,yes,owned by a public authority,permissioned,full planning permission,,51.865642,-2.240754,2.84,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR020,"18 Quay Street, Cathedral Coaches, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR020%20%2018%20Quay%20Street.pdf,yes,not owned by a public authority,not permissioned,,,51.867067,-2.251508,0.09,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR021,"Gloucester Prison, the Quay, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR021%20%20Gloucester%20Prison.pdf,yes,not owned by a public authority,not permissioned,,,51.865188,-2.251425,1.45,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR022,"Quayside part of Blackfriars LDO, Quay Street, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR022%20%20Quayside.pdf,yes,owned by a public authority,permissioned,,,51.866402,-2.251505,2.9,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR023,"Former MOD Oil Storage Depot, off Honeythorn Close, Hempsted, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR023%20%20Former%20MoD%20Oil%20Storage.pdf,yes,not owned by a public authority,permissioned,,,51.856945,-2.263169,4.42,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR024,104 Northgate Street,http://www.gloucester.gov.uk/Documents/GLOSBR024%20%20104%20Northgate%20Street.pdf,yes,owned by a public authority,not permissioned,,,51.866736,-2.242052,0.06,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR025,"12-16 Quay Street, former Lansons, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR025%20%2012-16%20Quay%20Street.pdf,yes,not owned by a public authority,not permissioned,,,51.867006,-2.250811,0.17,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR026,"114-118 Eastgate Street, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR026%20%20114-118%20Eastgate%20Street.pdf,yes,not owned by a public authority,not permissioned,,,51.862029,-2.240241,0.13,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR027,"37-41 Southgate Street, former Job Centre, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR027%20%2037-41%20Southgate%20Street.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.863775,-2.291121,0.06,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR028,"Land at Monk Meadow Dock, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR028%20%20Land%20at%20Monk%20Meadow.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.857234,-2.258438,4.58,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR029,"Friary House, Southgate Street, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR029%20%20Friary%20House.pdf,yes,not owned by a public authority,permissioned,,,51.864297,-2.247848,0.08,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR030,"Fitzalan House, Park Road, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR030%20%20Fitzalan%20House.pdf,yes,not owned by a public authority,permissioned,,,51.861345,-2.245014,0.11,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR031,"The Lodge, 19 Brunswick Square, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR031%20%20The%20Lodge%20Brunswick%20Square.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.861031,-2.248904,0.14,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR032,"6 Spa Road, former RAF Club Building, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR032%20%206%20Spa%20Road.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.86021,-2.249989,0.1,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
-2017-12-01,local-authority-eng:GLO,GLOSBR033,"The former Fleece Hotel, off Westgate Street, Greater Blackfriars, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR033%20%20The%20Former%20Fleece%20Hotel.pdf,yes,owned by a public authority,not permissioned,,,51.865629,-2.247318,0.28,,,2017-12-01,,4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-12-01,local-authority-eng:GLO,GLOSBR001,"Land at Barnwood Manor, Barnwood Road, Barnwood",http://www.gloucester.gov.uk/Documents/GLOSBR001%20%20Barnwood%20Manor.pdf,yes,not owned by a public authority,not permissioned,,,51.858536,-2.199187,0.7,,,2017-12-01,,"proposal by barnwood trust and city plan proposed allocation
+there are proposals for new residential development replacing existing dwellings
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR002,"Jordans Brook House, North Upton Lane, Barnwood",http://www.gloucester.gov.uk/Documents/GLOSBR002%20%20Jordans%20Brook%20House.pdf,yes,owned by a public authority,permissioned,full planning permission,,51.85776,-2.201159,0.85,,,2017-12-01,,"county council residential care facility site to be vacated early 2018
+county council site proposed for residential development
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR003,"Norvilles Factory, Tarrington Road, Barton and Tredworth",http://www.gloucester.gov.uk/Documents/GLOSBR003%20%20Former%20Norville%20Factory.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.852475,-2.234135,0.77,,,2017-12-01,,"
+former factory to be converted into affordable dwellings
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR004,"Allstone site, off Myers Road, Elmbridge",http://www.gloucester.gov.uk/Documents/GLOSBR004%20%20Allstone%20Site.pdf,yes,not owned by a public authority,pending decision,,,51.862458,-2.223049,5.5,,,2017-12-01,,"this site has permission for residential and student units but at the point of entry into this register is still operating as a commercial waste transfer station
+outline application for housing and student accommodation
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR005,"Cheltenham Surfacing, off Myers Road, Elmbridge",http://www.gloucester.gov.uk/Documents/GLOSBR005%20%20Land%20at%20Cheltenham%20Surfacing.pdf,yes,not owned by a public authority,not permissioned,,,51.863061,-2.22751,0.36,,,2017-12-01,,"residential development on this site would be dependent on a new site being found for the 
+existing business
+proposed for residential development
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR006,"Car park at Tuffley Library, off Windsor Drive, Grange",http://www.gloucester.gov.uk/Documents/GLOSBR006%20%20Land%20at%20Tuffley%20Library.pdf,,owned by a public authority,not permissioned,,,51.830696,-2.260956,0.2,,,2017-12-01,,"county council site
+no housing development is currently proposed
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR007,"Great Western Road Sidings, Great Western Road, Kingsholm and Wotton",http://www.gloucester.gov.uk/Documents/GLOSBR007%20%20Great%20Western%20Road%20Sidings.pdf,yes,owned by a public authority,not permissioned,,,51.863647,-2.231492,4.5,,,2017-12-01,,"a brownfield site which has been used as an operational siding but which has now been acquired by the homes and communities agency for housing and a university technical college with links to the hospital
+proposed for c.100 dwellings on part of the site
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR008,"Wessex House, Great Western Road, Kingsholm and Wotton",http://www.gloucester.gov.uk/Documents/GLOSBR008%20%20Wessex%20House.pdf,yes,owned by a public authority,not permissioned,,,51.866061,-2.23804,0.3,,,2017-12-01,,"city council owned site in a strategic location near to the railway station and underpass
+proposed for residential, employment or for educational use
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR009,"Hare Lane Car Park, Hare Lane, Kingsholm and Wotton",http://www.gloucester.gov.uk/Documents/GLOSBR009%20%20Hare%20Lane%20Car%20Park.pdf,,owned by a public authority,not permissioned,,,51.869252,-2.242763,0.32,,,2017-12-01,,"flood risk is significant on this site but mitigation design may be possible which would mean that housing could be viable
+no housing development is currently proposed but could potentially come forward at a later date
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR010,"9-11 St Catherine Street, Kingsholm and Wotton",http://www.gloucester.gov.uk/Documents/GLOSBR010%20%209-11%20St%20Catherine%20St.pdf,,not owned by a public authority,not permissioned,,,51.869628,-2.243709,0.06,,,2017-12-01,,"flood risk is significant on this site but mitigation design may be possible which would 
+mean that housing could be viable
+no housing development is currently proposed, flood risk is an issue that would need to be carefully managed
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR011,"43-49 & 51-53 St Catherine Street, Kingsholm and Wotton",http://www.gloucester.gov.uk/Documents/GLOSBR011%20%2043-49%20and%2051-53%20St%20Catherine%20St.pdf,,not owned by a public authority,not permissioned,,,51.869922,-2.245061,0.07,,,2017-12-01,,"flood risk is significant on this site but mitigation/design may be possible which would
+mean that housing could be viable
+no housing development is currently proposed, flood risk is an issue that would need to be carefully managed
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR012,"Former Bishops College, off Estcourt Close, Longlevens",http://www.gloucester.gov.uk/Documents/GLOSBR012%20%20Former%20Bishops%20College.pdf,yes,not owned by a public authority,pending decision,,,51.876322,-2.232473,5.6,,,2017-12-01,,"
+proposed for 90 dwellings
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR013,"Land at St James Close, Quedgeley Fieldcourt",http://www.gloucester.gov.uk/Documents/GLOSBR013%20%20Land%20at%20St%20James%20Close.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.826436,-2.279794,0.23,,,2017-12-01,,"gloucester city homes proposal
+proposed for 13 dwellings including 9 bungalows
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR014,"Station longstay car park, off Bruton Way, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR014%20%20Station%20Car%20Park.pdf,yes,not owned by a public authority,not permissioned,,,51.864812,-2.237946,0.49,,,2017-12-01,,"
+early stage proposal for housing development proposed through city plan, above car parking or offices
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR015,"Land at St Oswalds, off Gavel Way, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR015%20%20Land%20at%20St%20Oswalds.pdf,yes,owned by a public authority,not permissioned,,,51.872918,-2.252703,2.5,,,2017-12-01,,"city council owned site
+housing development proposed through city plan
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR016,"31-35 Worcester Street, Conway House, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR016%20%2031-35%20Worcester%20Street.pdf,yes,not owned by a public authority,permissioned,,,51.868128,-2.242931,0.06,,,2017-12-01,,"
+housing development permitted through change of use from offices to residential
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR017,"37-39 Worcester Street, Tanners Hall, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR017%20%2037-39%20Worcester%20Street.pdf,yes,not owned by a public authority,not permissioned,,,51.868389,-2.242874,0.07,,,2017-12-01,,"Listed building on site will need appropriate protection.
+no housing development is currently proposed
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR018,"Southgate Moorings, off Southgate Street, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR018%20%20Southgate%20Moorings.pdf,yes,owned by a public authority,permissioned,full planning permission,,51.862395,-2.250045,0.5,,,2017-12-01,,"city council owned site
+housing development proposed over ground floor uses
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR019,"Part of Kings Quarter, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR019%20%20Kings%20Quarter.pdf,yes,owned by a public authority,permissioned,full planning permission,,51.865642,-2.240754,2.84,,,2017-12-01,,"city council owned site
+priority regeneration site for Gloucester City Council, mixed town centre uses including new bus station, retail, 
+housing and student accomodation
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR020,"18 Quay Street, Cathedral Coaches, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR020%20%2018%20Quay%20Street.pdf,yes,not owned by a public authority,not permissioned,,,51.867067,-2.251508,0.09,,,2017-12-01,,"
+currently in use as a coach hire business, housing development not proposed but site has been considered as part of the Gloucester Housing Zone process
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR021,"Gloucester Prison, the Quay, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR021%20%20Gloucester%20Prison.pdf,yes,not owned by a public authority,not permissioned,,,51.865188,-2.251425,1.45,,,2017-12-01,,"current application with complex archaeological and historic environment constraints
+redevelopment of former prison to provide over 200 dwellings
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR022,"Quayside part of Blackfriars LDO, Quay Street, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR022%20%20Quayside.pdf,yes,owned by a public authority,permissioned,,,51.866402,-2.251505,2.9,,,2017-12-01,,"student accomodation is currently being constructed on the barbican part of the site and it 
+is likely that the quayside portion 1.7 ha could accommodate a significant number of dwellings at high density if proposed. Flood risk is significant on parts of the site
+A residential led Local Development Order for predominantly residential uses with other supporting uses
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR023,"Former MOD Oil Storage Depot, off Honeythorn Close, Hempsted, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR023%20%20Former%20MoD%20Oil%20Storage.pdf,yes,not owned by a public authority,permissioned,,,51.856945,-2.263169,4.42,,,2017-12-01,,"difficult brownfield site with potential contamination issues
+housing development proposed
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR024,104 Northgate Street,http://www.gloucester.gov.uk/Documents/GLOSBR024%20%20104%20Northgate%20Street.pdf,yes,owned by a public authority,not permissioned,,,51.866736,-2.242052,0.06,,,2017-12-01,,"
+no housing development is currently proposed
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR025,"12-16 Quay Street, former Lansons, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR025%20%2012-16%20Quay%20Street.pdf,yes,not owned by a public authority,not permissioned,,,51.867006,-2.250811,0.17,,,2017-12-01,,"
+student housing proposed
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR026,"114-118 Eastgate Street, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR026%20%20114-118%20Eastgate%20Street.pdf,yes,not owned by a public authority,not permissioned,,,51.862029,-2.240241,0.13,,,2017-12-01,,"
+housing development proposed but not in the short term
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR027,"37-41 Southgate Street, former Job Centre, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR027%20%2037-41%20Southgate%20Street.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.863775,-2.291121,0.06,,,2017-12-01,,"
+housing development proposed
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR028,"Land at Monk Meadow Dock, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR028%20%20Land%20at%20Monk%20Meadow.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.857234,-2.258438,4.58,,,2017-12-01,,"
+housing development proposed
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR029,"Friary House, Southgate Street, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR029%20%20Friary%20House.pdf,yes,not owned by a public authority,permissioned,,,51.864297,-2.247848,0.08,,,2017-12-01,,"
+housing development proposed
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR030,"Fitzalan House, Park Road, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR030%20%20Fitzalan%20House.pdf,yes,not owned by a public authority,permissioned,,,51.861345,-2.245014,0.11,,,2017-12-01,,"
+housing development permitted
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR031,"The Lodge, 19 Brunswick Square, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR031%20%20The%20Lodge%20Brunswick%20Square.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.861031,-2.248904,0.14,,,2017-12-01,,"
+housing development permitted
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR032,"6 Spa Road, former RAF Club Building, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR032%20%206%20Spa%20Road.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.86021,-2.249989,0.1,,,2017-12-01,,"
+housing development permitted
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f
+2017-12-01,local-authority-eng:GLO,GLOSBR033,"The former Fleece Hotel, off Westgate Street, Greater Blackfriars, Westgate",http://www.gloucester.gov.uk/Documents/GLOSBR033%20%20The%20Former%20Fleece%20Hotel.pdf,yes,owned by a public authority,not permissioned,,,51.865629,-2.247318,0.28,,,2017-12-01,,"
+nothing proposed, but planning concept statement produced in 2012
+",4ebbf80c15a14ea35ed19f9799ab3682d0bf4aa2e33d8590929342402486749f

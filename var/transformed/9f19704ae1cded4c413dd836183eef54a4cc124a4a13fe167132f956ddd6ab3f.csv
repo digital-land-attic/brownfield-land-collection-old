@@ -1,10 +1,28 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-19,local-authority-eng:EPS,20,"Epsom Baptist Church, Church Street",,,not owned by a public authority,not permissioned,,,51.333297,-0.26289,0.23,,,2017-11-28,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
-2017-12-19,local-authority-eng:EPS,21,"Rail Land, Mill Road",,yes,not owned by a public authority,permissioned,full planning permission,,51.336108,-0.256596,0.46,,,2017-11-08,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
-2017-12-19,local-authority-eng:EPS,148,"The Epsom Club, Church Street",,,not owned by a public authority,not permissioned,,,51.332553,-0.261282,0.14,,,2017-11-30,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
-2017-12-19,local-authority-eng:EPS,148,"United Reformed Church, Church Street",,,not owned by a public authority,not permissioned,,,51.332443,-0.261142,0.14,,,2017-11-15,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
-2017-12-19,local-authority-eng:EPS,186,31 to 37 East Street,,,not owned by a public authority,not permissioned,,,51.33588,-0.26308,0.29,,,2017-11-17,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
-2017-12-19,local-authority-eng:EPS,186,Land to the rear of 29 East Street,,,not owned by a public authority,not permissioned,,,51.33567,-0.263418,0.5,,,2017-11-29,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
-2017-12-19,local-authority-eng:EPS,194,"Etwell House and former coach depot, Station Approach",,,not owned by a public authority,not permissioned,,,51.345142,-0.241938,0.19,,,2017-11-09,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
-2017-12-19,local-authority-eng:EPS,329,"King's Arms Public House, East Street",,,not owned by a public authority,not permissioned,,,51.338104,-0.25777,0.14,,,2017-11-13,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
-2017-12-19,local-authority-eng:EPS,570,"Sunnybank House, 39a East Street",,,not owned by a public authority,not permissioned,,,51.335995,-0.2623,0.1,,,2017-11-17,,9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-12-19,local-authority-eng:EPS,20,"Epsom Baptist Church, Church Street",,,not owned by a public authority,not permissioned,,,51.333297,-0.26289,0.23,,,2017-11-28,,"
+
+",9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+2017-12-19,local-authority-eng:EPS,21,"Rail Land, Mill Road",,yes,not owned by a public authority,permissioned,full planning permission,,51.336108,-0.256596,0.46,,,2017-11-08,,"
+Permission is for the development of student accommodation (77 units) contained within 9 buildings
+",9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+2017-12-19,local-authority-eng:EPS,148,"The Epsom Club, Church Street",,,not owned by a public authority,not permissioned,,,51.332553,-0.261282,0.14,,,2017-11-30,,"""Site forms part of an allocation in Plan E, an Area Action Plan for Epsom Town Centre, and is the subject of a Development Brief. http://www.epsom-ewell.gov.uk/sites/default/files/documents/residents/planning/planning-policy/Upper%20High%20Street%2C%20depot%20Road%20and%20Church%20Street%20Dev%20Breif%20Nov%202012.pdf. Comprehensive redevelopment of the wider site could increase the dwelling yield. Site is labelled as 148A on the Map of Brownfield Sites""
+
+",9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+2017-12-19,local-authority-eng:EPS,148,"United Reformed Church, Church Street",,,not owned by a public authority,not permissioned,,,51.332443,-0.261142,0.14,,,2017-11-15,,"""Site forms part of an allocation in Plan E, an Area Action Plan for Epsom Town Centre, and is the subject of a Development Brief. http://www.epsom-ewell.gov.uk/sites/default/files/documents/residents/planning/planning-policy/Upper%20High%20Street%2C%20depot%20Road%20and%20Church%20Street%20Dev%20Breif%20Nov%202012.pdf. Comprehensive redevelopment of the wider site could increase the dwelling yield. Site is labelled as 148B on the Map of Brownfield Sites""
+
+",9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+2017-12-19,local-authority-eng:EPS,186,31 to 37 East Street,,,not owned by a public authority,not permissioned,,,51.33588,-0.26308,0.29,,,2017-11-17,,"""Site forms part of a larger site allocated in Plan E, the Area Action Plan for Epsom Town Centre. http://www.epsom-ewell.gov.uk/sites/default/files/documents/residents/planning/planning-policy/Plan%20E%20final%20version.pdf. Comprehensive redevelopment of the wider site could increase the dwelling yield. Site is labelled as 186A on the Map of Brownfield Sites ""
+
+",9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+2017-12-19,local-authority-eng:EPS,186,Land to the rear of 29 East Street,,,not owned by a public authority,not permissioned,,,51.33567,-0.263418,0.5,,,2017-11-29,,"""Site forms part of a larger site allocated in Plan E, the Area Action Plan for Epsom Town Centre. http://www.epsom-ewell.gov.uk/sites/default/files/documents/residents/planning/planning-policy/Plan%20E%20final%20version.pdf. Comprehensive redevelopment of the wider site could increase the dwelling yield. Site is labelled as 186B on the Map of Brownfield Sites ""
+
+",9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+2017-12-19,local-authority-eng:EPS,194,"Etwell House and former coach depot, Station Approach",,,not owned by a public authority,not permissioned,,,51.345142,-0.241938,0.19,,,2017-11-09,,"
+
+",9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+2017-12-19,local-authority-eng:EPS,329,"King's Arms Public House, East Street",,,not owned by a public authority,not permissioned,,,51.338104,-0.25777,0.14,,,2017-11-13,,"
+
+",9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f
+2017-12-19,local-authority-eng:EPS,570,"Sunnybank House, 39a East Street",,,not owned by a public authority,not permissioned,,,51.335995,-0.2623,0.1,,,2017-11-17,,"
+
+",9f19704ae1cded4c413dd836183eef54a4cc124a4a13fe167132f956ddd6ab3f

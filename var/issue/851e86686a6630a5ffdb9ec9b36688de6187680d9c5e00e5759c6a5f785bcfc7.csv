@@ -5,6 +5,7 @@ row-number,field,issue-type,value
 2,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 2,GeoX,missing,
 2,GeoY,missing,
+3,NetDwellingsRangeFrom,integer,6 (net)
 3,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 3,GeoX,missing,
 3,GeoY,missing,
@@ -23,6 +24,7 @@ row-number,field,issue-type,value
 8,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 8,GeoX,missing,
 8,GeoY,missing,
+9,NetDwellingsRangeFrom,integer,1 (net)
 9,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 9,GeoX,missing,
 9,GeoY,missing,
@@ -41,9 +43,11 @@ row-number,field,issue-type,value
 14,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 14,GeoX,missing,
 14,GeoY,missing,
+15,NetDwellingsRangeFrom,integer,4 (net)
 15,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 15,GeoX,missing,
 15,GeoY,missing,
+16,NetDwellingsRangeFrom,integer,5 (net)
 16,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 16,GeoX,missing,
 16,GeoY,missing,
@@ -56,6 +60,7 @@ row-number,field,issue-type,value
 19,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 19,GeoX,missing,
 19,GeoY,missing,
+20,NetDwellingsRangeFrom,integer,2 (net)
 20,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 20,GeoX,missing,
 20,GeoY,missing,

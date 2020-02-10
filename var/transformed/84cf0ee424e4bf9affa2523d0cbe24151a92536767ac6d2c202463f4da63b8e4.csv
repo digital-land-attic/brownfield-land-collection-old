@@ -1,30 +1,89 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-10-13,local-authority-eng:DUR,1/ST/34,South Moor Hospital,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=420003.730558&y=551533.165752&scale=17,yes,owned by a public authority,pending decision,,,54.858202,-1.689933,2,,,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,1/ST/53,Stanley School of Technology,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419346.185078&y=552154.274701&scale=17,,owned by a public authority,not permissioned,,,54.863809,-1.700134,3.4,76,105,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,2/CH/17,Civic Centre,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=427514.937424&y=551854.288212&scale=17,yes,owned by a public authority,not permissioned,,,54.860733,-1.572902,1.8,48,60,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,2/SA/23,Edward Street,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=423973.041441&y=547079.278902&scale=17,,not owned by a public authority,not permissioned,,,54.818005,-1.628471,0.4,10,10,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,2/SA/26,Plawsworth Road Infant,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=424361.936647&y=547358.365784&scale=18,,not owned by a public authority,permissioned,full planning permission,,54.820494,-1.622396,0.5,,,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,3/BA/04,Former B B H Windings LTD,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=421405.458811&y=529185.504625&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.657321,-1.669734,1.8,,,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,3/BA/20,Catkin Ways,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419747.020638&y=527545.707843&scale=16,,not owned by a public authority,not permissioned,,,54.642652,-1.69555,3.2,71,118,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,3/BA/21,Former Chamberlain Phipps,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419627.972578&y=527458.505771&scale=17,,not owned by a public authority,not permissioned,,,54.641873,-1.697401,1.6,44,45,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,3/BA/50,Council Depot,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419839.807073&y=529024.289937&scale=17,,owned by a public authority,not permissioned,,,54.655936,-1.694012,1,27,27,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,3/BA/58,Land North of Greenfield Industrial,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419591.653153&y=527617.582704&scale=17,,not owned by a public authority,not permissioned,,,54.643304,-1.697953,4.3,98,98,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,3/CO/07,Land at the Crescent,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=424050.616396&y=529758.565291&scale=18,,not owned by a public authority,not permissioned,,,54.662352,-1.628687,0.6,16,16,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,3/WA/09,Bus depot at West Auckland,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=417797.556986&y=525880.632575&scale=17,,not owned by a public authority,not permissioned,,,54.627761,-1.725856,0.2,,,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,3/WO/14,Wolsingham Steelworks,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=408154.513197&y=537057.809607&scale=16,yes,not owned by a public authority,pending decision,,,54.72845,-1.874911,4.7,107,149,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,4/BO/16,Former Mabey Hire Ltd,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=430690.553196&y=538071.945618&scale=18,,not owned by a public authority,not permissioned,,,54.7367,-1.524885,0.7,,,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,4/BR/03,Land East of Brandon Football Club (BR002),https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=424086.837877&y=540290.430302&scale=17,,owned by a public authority,not permissioned,,,54.756994,-1.62726,1.6,45,45,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,4/DU/131,Former Shell Garage,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=426164.1476&y=542117.598936&scale=18,,not owned by a public authority,not permissioned,,,54.77331,-1.594818,0.2,6,6,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,4/WR/12,Land at T Hardy Coal Merchants,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=431400.126661&y=546562.597716&scale=18,,not owned by a public authority,not permissioned,,,54.812954,-1.512952,0.2,,,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,5/PE/18,P4: North East Industrial Estate,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=442970.182546&y=542059.057955&scale=16,,mixed ownership,pending decision,,,54.771631,-1.333601,16.9,380,390,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,5/TH/16,Gore Hall Farm,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=436224.243205&y=539760.389028&scale=18,,not owned by a public authority,not permissioned,,,54.751506,-1.438739,0.4,11,20,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,6/BC/01,Land at Groves Works,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=405225.780456&y=516544.450018&scale=17,,mixed ownership,not permissioned,,,54.544142,-1.920744,1.1,29,29,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,6/EG/03,Land at the Former Brown Jug PH,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=416216.427331&y=524239.145627&scale=17,yes,not owned by a public authority,pending decision,,,54.613062,-1.750436,0.3,,,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,6/GF/02a,St Peters School,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=417753.45891&y=516663.04979&scale=17,yes,not owned by a public authority,pending decision,,,54.544928,-1.727093,0.4,,,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,7/AV/322,"The North Briton, 23 High Street, Aycliffe Village",https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428360.464549&y=522426.328406&scale=18,yes,not owned by a public authority,permissioned,full planning permission,,54.596239,-1.562583,0.2,,,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,7/CH/239,Land at 17 Vine Place,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428464.943545&y=529437.596657&scale=17,,not owned by a public authority,pending decision,,,54.659239,-1.560288,0.3,,,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,7/FH/089a,Former DCMA and Land at Mainsforth Ind Est,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=430617.876344&y=531601.024844&scale=16,,not owned by a public authority,permissioned,full planning permission,,54.678555,-1.526691,10.3,232,258,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,7/FH/166,Land East of Croft Gardens (NEECOL site),https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=430312.091911&y=531754.036779&scale=17,,not owned by a public authority,not permissioned,,,54.679949,-1.531417,1.2,,,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,7/SH/076,Dale Road Industrial Estate,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=423886.33689&y=525383.784443&scale=16,yes,not owned by a public authority,pending decision,,,54.623046,-1.63159,15,,,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,7/SP/142,Mount Plesant Grange,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=426859.985004&y=534365.46929&scale=17,yes,owned by a public authority,pending decision,,,54.703611,-1.584714,0.4,,,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
-2017-10-13,local-authority-eng:DUR,7/SP/153,"Former Electrolux site, Merrington Lane Ind Est",https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=426547.848896&y=533216.665597&scale=17,,not owned by a public authority,permissioned,full planning permission,,54.693304,-1.589662,16.7,,,2016-06-08,,84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-10-13,local-authority-eng:DUR,1/ST/34,South Moor Hospital,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=420003.730558&y=551533.165752&scale=17,yes,owned by a public authority,pending decision,,,54.858202,-1.689933,2,,,2016-06-08,,"S106 Site.
+Erection of 65 no. 2, 3 and 4 bedroom two-storey dwellings with associated works
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,1/ST/53,Stanley School of Technology,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419346.185078&y=552154.274701&scale=17,,owned by a public authority,not permissioned,,,54.863809,-1.700134,3.4,76,105,2016-06-08,,"
+
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,2/CH/17,Civic Centre,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=427514.937424&y=551854.288212&scale=17,yes,owned by a public authority,not permissioned,,,54.860733,-1.572902,1.8,48,60,2016-06-08,,"
+
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,2/SA/23,Edward Street,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=423973.041441&y=547079.278902&scale=17,,not owned by a public authority,not permissioned,,,54.818005,-1.628471,0.4,10,10,2016-06-08,,"
+
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,2/SA/26,Plawsworth Road Infant,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=424361.936647&y=547358.365784&scale=18,,not owned by a public authority,permissioned,full planning permission,,54.820494,-1.622396,0.5,,,2016-06-08,,"
+Disused Infant School site; to be redeveloped to provide 21 houses; consisting of 3 and 4 bed detached; semi detached and terrace units.
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,3/BA/04,Former B B H Windings LTD,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=421405.458811&y=529185.504625&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.657321,-1.669734,1.8,,,2016-06-08,,"
+Demolition of bedford lodge and construction of 66 houses and associated works
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,3/BA/20,Catkin Ways,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419747.020638&y=527545.707843&scale=16,,not owned by a public authority,not permissioned,,,54.642652,-1.69555,3.2,71,118,2016-06-08,,"Lapsed Site.
+
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,3/BA/21,Former Chamberlain Phipps,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419627.972578&y=527458.505771&scale=17,,not owned by a public authority,not permissioned,,,54.641873,-1.697401,1.6,44,45,2016-06-08,,"
+
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,3/BA/50,Council Depot,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419839.807073&y=529024.289937&scale=17,,owned by a public authority,not permissioned,,,54.655936,-1.694012,1,27,27,2016-06-08,,"
+
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,3/BA/58,Land North of Greenfield Industrial,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419591.653153&y=527617.582704&scale=17,,not owned by a public authority,not permissioned,,,54.643304,-1.697953,4.3,98,98,2016-06-08,,"
+
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,3/CO/07,Land at the Crescent,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=424050.616396&y=529758.565291&scale=18,,not owned by a public authority,not permissioned,,,54.662352,-1.628687,0.6,16,16,2016-06-08,,"
+
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,3/WA/09,Bus depot at West Auckland,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=417797.556986&y=525880.632575&scale=17,,not owned by a public authority,not permissioned,,,54.627761,-1.725856,0.2,,,2016-06-08,,"Lapsed Site.
+Erection of 9NO detached two and a half storey dwellings and formation of associated access
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,3/WO/14,Wolsingham Steelworks,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=408154.513197&y=537057.809607&scale=16,yes,not owned by a public authority,pending decision,,,54.72845,-1.874911,4.7,107,149,2016-06-08,,"S106 Site.
+
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,4/BO/16,Former Mabey Hire Ltd,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=430690.553196&y=538071.945618&scale=18,,not owned by a public authority,not permissioned,,,54.7367,-1.524885,0.7,,,2016-06-08,,"Lapsed Site.
+Residential development of 36 dwellings
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,4/BR/03,Land East of Brandon Football Club (BR002),https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=424086.837877&y=540290.430302&scale=17,,owned by a public authority,not permissioned,,,54.756994,-1.62726,1.6,45,45,2016-06-08,,"
+
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,4/DU/131,Former Shell Garage,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=426164.1476&y=542117.598936&scale=18,,not owned by a public authority,not permissioned,,,54.77331,-1.594818,0.2,6,6,2016-06-08,,"
+
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,4/WR/12,Land at T Hardy Coal Merchants,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=431400.126661&y=546562.597716&scale=18,,not owned by a public authority,not permissioned,,,54.812954,-1.512952,0.2,,,2016-06-08,,"Lapsed Site.
+Erection of 14 residential apartments, associated access and car parking
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,5/PE/18,P4: North East Industrial Estate,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=442970.182546&y=542059.057955&scale=16,,mixed ownership,pending decision,,,54.771631,-1.333601,16.9,380,390,2016-06-08,,"S106 Site.
+
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,5/TH/16,Gore Hall Farm,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=436224.243205&y=539760.389028&scale=18,,not owned by a public authority,not permissioned,,,54.751506,-1.438739,0.4,11,20,2016-06-08,,"Lapsed Site.
+
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,6/BC/01,Land at Groves Works,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=405225.780456&y=516544.450018&scale=17,,mixed ownership,not permissioned,,,54.544142,-1.920744,1.1,29,29,2016-06-08,,"
+
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,6/EG/03,Land at the Former Brown Jug PH,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=416216.427331&y=524239.145627&scale=17,yes,not owned by a public authority,pending decision,,,54.613062,-1.750436,0.3,,,2016-06-08,,"S106 Site.
+Erection of 13 dwellings
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,6/GF/02a,St Peters School,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=417753.45891&y=516663.04979&scale=17,yes,not owned by a public authority,pending decision,,,54.544928,-1.727093,0.4,,,2016-06-08,,"S106 Site.
+Part conversion and demolition of existing school to 6 apartments and erection of 10 dwellings and associated infrastructure
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,7/AV/322,"The North Briton, 23 High Street, Aycliffe Village",https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428360.464549&y=522426.328406&scale=18,yes,not owned by a public authority,permissioned,full planning permission,,54.596239,-1.562583,0.2,,,2016-06-08,,"
+Conversion of Public House to 10 No. apartments and
+erection of 4 No. dwellings.
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,7/CH/239,Land at 17 Vine Place,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428464.943545&y=529437.596657&scale=17,,not owned by a public authority,pending decision,,,54.659239,-1.560288,0.3,,,2016-06-08,,"
+Erection of 14 dwellings
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,7/FH/089a,Former DCMA and Land at Mainsforth Ind Est,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=430617.876344&y=531601.024844&scale=16,,not owned by a public authority,permissioned,full planning permission,,54.678555,-1.526691,10.3,232,258,2016-06-08,,"
+
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,7/FH/166,Land East of Croft Gardens (NEECOL site),https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=430312.091911&y=531754.036779&scale=17,,not owned by a public authority,not permissioned,,,54.679949,-1.531417,1.2,,,2016-06-08,,"Lapsed Site.
+HE ERECTION OF 60 NO. DWELLINGS AND ASSOCIATED WORKS
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,7/SH/076,Dale Road Industrial Estate,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=423886.33689&y=525383.784443&scale=16,yes,not owned by a public authority,pending decision,,,54.623046,-1.63159,15,,,2016-06-08,,"S106 Site.
+For up to 310 dwellings with associated landscaping, including a 3.9 hectare community wildlife area and improvements to infrastructure including the provision of two roundabouts
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,7/SP/142,Mount Plesant Grange,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=426859.985004&y=534365.46929&scale=17,yes,owned by a public authority,pending decision,,,54.703611,-1.584714,0.4,,,2016-06-08,,"S106 Site.
+Erection of 15 dwellings and associated works
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4
+2017-10-13,local-authority-eng:DUR,7/SP/153,"Former Electrolux site, Merrington Lane Ind Est",https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=426547.848896&y=533216.665597&scale=17,,not owned by a public authority,permissioned,full planning permission,,54.693304,-1.589662,16.7,,,2016-06-08,,"
+Mixed Use Development comprising up to 425 dwellings and commercial uses including associated access and landscaping works 
+",84cf0ee424e4bf9affa2523d0cbe24151a92536767ac6d2c202463f4da63b8e4

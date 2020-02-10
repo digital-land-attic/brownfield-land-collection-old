@@ -1,39 +1,115 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-06,local-authority-eng:AMB,BFLR0001,Spring Road Riddings,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0692352277&lng=-1.3506579388,yes,not owned by a public authority,permissioned,full planning permission,,53.069235,-1.350658,1.27,14,14,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0002,Land at Greenhill Lane Leabrooks,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0755165967&lng=-1.3720578812,yes,not owned by a public authority,permissioned,reserved matters approval,,53.075517,-1.372058,2.02,24,24,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0003,Millford Mills Milford,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.00034104272&lng=-1.4794278291,yes,not owned by a public authority,permissioned,full planning permission,,53.00341,-1.479428,2.01,69,69,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0004,Black Horse Inn Lower Somercotes,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0748981511&lng=-1.3589017133,yes,not owned by a public authority,permissioned,outline planning permission,,53.074898,-1.358902,0.9,18,18,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0005,John Smedley Ltd Lea Road Lea Bridge,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.1040369302&lng=-1.5250554687,yes,not owned by a public authority,permissioned,full planning permission,,53.104037,-1.525055,0.46,26,26,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0006,Derwent Street Belper,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0238791092lng=-1.4877850025,yes,not owned by a public authority,permissioned,outline planning permission,,53.023879,-1.487785,4.02,107,107,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0007,Land at Salcombe Road Alfreton,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.1005040651&lng=-1.3732924756,yes,not owned by a public authority,permissioned,full planning permission,,53.100504,-1.373292,0.34,21,21,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0008,Delves Court Heanor,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0089935361&lng=-1.3580738024,yes,not owned by a public authority,permissioned,full planning permission,,53.008994,-1.358074,0.75,30,30,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0009,Bridge Waste Disposal 66 Main Road Pye Bridge,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0718899941&lng=-1.3413644197,,not owned by a public authority,pending decision,outline planning permission,,53.07189,-1.341364,0.48,17,17,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0010,Bradshaw Avenue Ridding,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0685877201&lng=-1.3622487862,yes,owned by a public authority,permissioned,full planning permission,,53.068588,-1.362249,2.5,93,93,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0011,Land at Butterley Hill Ripley,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0537146558&lng=-1.344808074,yes,not owned by a public authority,permissioned,outline planning permission,,53.053715,-1.344804,0.3,14,14,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0012,Former Loscoe Miners Welfare Loscoe,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0249869236&lng=-1.3616983637,,not owned by a public authority,permissioned,outline planning permission,,53.024987,-1.361698,2.18,68,68,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0013,19 Church Street Heanor,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0139600908&lng=-1.3506222175,yes,not owned by a public authority,permissioned,full planning permission,,53.01396,-1.350622,0.09,12,12,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0014,Land to rear of 27-41 Main Road Leabrooks,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0768114135&lng=-1.3721286348,,not owned by a public authority,permissioned,outline planning permission,,53.076811,-1.372129,0.32,18,18,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0015,Land to Rear of The Butchers Arms Hands Road Heanor,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0131066085&lng=-1.3425266854,yes,not owned by a public authority,permissioned,full planning permission,,53.013107,-1.342527,0.2,11,11,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0016,Middlebrook Transport Heanor,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.1003036141&lng=-1.3762077543,yes,not owned by a public authority,permissioned,reserved matters approval,,53.100304,-1.376208,1.2,54,54,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0017,17 King Street Alfreton,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0967981203&lng=-1.3901619656,yes,not owned by a public authority,permissioned,full planning permission,,53.096798,-1.390162,1,11,11,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0018,Former American Adventure Theme Park Pit Lane Shipley,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.9936392978&lng=-1.3382626567,yes,owned by a public authority,permissioned,outline planning permission,,52.993639,-1.338263,46.48,307,307,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0019,Belper Police Station Field Lane Belper,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.024760858&lng=-1.4817363861,yes,not owned by a public authority,permissioned,full planning permission,,53.024761,-1.481736,0.47,13,13,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0020,Land off Cromford Road Langley Mill,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0234317133&lng=-1.3274318858,yes,not owned by a public authority,permissioned,full planning permission,,53.023432,-1.327432,0.88,38,38,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0021,Marehay Garage Derby Road Marehay,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0317361246&lng=-1.4065426835,,not owned by a public authority,permissioned,outline planning permission,,53.031736,-1.406543,0.42,20,20,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0022,Land at Sleetmoor Lane Somercotes,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0806309749&lng=-1.3719686501,yes,not owned by a public authority,permissioned,full planning permission,,53.080631,-1.371969,0.11,12,12,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0023,Memory Lane Inn 72 Derby Road Heanor,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0135406622&lng=-1.3611515064,,not owned by a public authority,permissioned,outline planning permission,,53.013541,-1.361152,0.12,13,13,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0024,Land West of Old Coppice Side Heanor,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0047326278&lng=-1.356408232,yes,owned by a public authority,permissioned,full planning permission,,53.004733,-1.356408,0.93,30,30,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0025,Labour Club Lander Lane Belper,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.02399708&lng=-1.4776903346,,not owned by a public authority,permissioned,full planning permission,,53.023997,-1.47769,0.14,13,13,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0026,Land at 34 Greenhill Lane Leabrooks,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0744499141&lng=-1.3743421891,yes,not owned by a public authority,permissioned,full planning permission,,53.07445,-1.374342,1.27,58,58,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0027,Land at Bullbridge Hill Ambergate,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0661383088&lng=-1.4695395665,,not owned by a public authority,permissioned,outline planning permission,,53.066138,-1.46954,8.2,171,171,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFRL0028,Derwentside Industrial Park Derby Road Belper,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0121216712&lng=-1.4795919862,yes,mixed ownership,permissioned,outline planning permission,,53.012122,-1.479592,5.75,136,136,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0029,Land at Cemetery Road Ripley,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.044301032&lng=-1.402536981,,owned by a public authority,not permissioned,,,53.044301,-1.402537,1.74,20,20,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0030,Land adj 30 Cromford Road Langley Mill,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.016263292&lng=-1.3315081078,,not owned by a public authority,permissioned,outline planning permission,,53.016263,-1.331508,3.49,87,87,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFRL0031,Land at Hall Road Langley Mill,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.025872662&lng=-1.329883815,yes,not owned by a public authority,not permissioned,,,53.025873,-1.329884,1.12,33,33,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0032,Asher Lane Business Park (North) Ripley,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0623322729&lng=-1.4095252228,yes,not owned by a public authority,not permissioned,,,53.062332,-1.409525,2.13,85,85,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0033,Asher Lane Business Park (South) Ripley,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0606746746&lng=-1.4088017823,yes,not owned by a public authority,not permissioned,,,53.060675,-1.408802,3.04,95,95,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0034,All Saints Church Hall Site Moseley Street Ripley,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0517432986&lng=-1.4077751188,yes,not owned by a public authority,not permissioned,,,53.051743,-1.407775,0.15,10,10,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0035,Duffield Depot Derby Road Duffield,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=52.9762072903&lng=-1.4832390315,yes,owned by a public authority,not permissioned,,,52.976207,-1.483239,1.09,16,16,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0036,Land off Whysall Street Heanor,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0144307641&lng=-1.3528658898,yes,owned by a public authority,not permissioned,,,53.014431,-1.352866,1.45,76,76,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0037,Land at Taylor Lane Loscoe,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0253247976&lng=-1.3643621353,yes,not owned by a public authority,pending decision,outline planning permission,,53.025325,-1.364362,9.92,250,250,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
-2017-12-06,local-authority-eng:AMB,BFLR0038,Land North of Denby,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0197417532&lng=-1.4336748681,yes,not owned by a public authority,not permissioned,,,53.019742,-1.433675,40.42,720,720,2017-12-06,,93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-12-06,local-authority-eng:AMB,BFLR0001,Spring Road Riddings,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0692352277&lng=-1.3506579388,yes,not owned by a public authority,permissioned,full planning permission,,53.069235,-1.350658,1.27,14,14,2017-12-06,,"The site is currently under construction
+14 new dwellings
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0002,Land at Greenhill Lane Leabrooks,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0755165967&lng=-1.3720578812,yes,not owned by a public authority,permissioned,reserved matters approval,,53.075517,-1.372058,2.02,24,24,2017-12-06,,"The site is currently under construction
+Residential development with two planning applications
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0003,Millford Mills Milford,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.00034104272&lng=-1.4794278291,yes,not owned by a public authority,permissioned,full planning permission,,53.00341,-1.479428,2.01,69,69,2017-12-06,,"Part of a mixed use development
+Mixed use development - demolition of existing industrial buildings and construction of 69 dwellings
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0004,Black Horse Inn Lower Somercotes,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0748981511&lng=-1.3589017133,yes,not owned by a public authority,permissioned,outline planning permission,,53.074898,-1.358902,0.9,18,18,2017-12-06,,"
+Outline planning permission for residential development including the demolition of the public house
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0005,John Smedley Ltd Lea Road Lea Bridge,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.1040369302&lng=-1.5250554687,yes,not owned by a public authority,permissioned,full planning permission,,53.104037,-1.525055,0.46,26,26,2017-12-06,,"
+Redevelopment of the site including conversion and new build to provide 26 dwellings
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0006,Derwent Street Belper,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0238791092lng=-1.4877850025,yes,not owned by a public authority,permissioned,outline planning permission,,53.023879,-1.487785,4.02,107,107,2017-12-06,,"
+demolition of existing buildings and construction of new residential dwellings (approx 107 dwellings)
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0007,Land at Salcombe Road Alfreton,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.1005040651&lng=-1.3732924756,yes,not owned by a public authority,permissioned,full planning permission,,53.100504,-1.373292,0.34,21,21,2017-12-06,,"The site is currently under construction
+erection of new 21 dwellings consisting of 13 two storey dwellings and 8 maisonettes
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0008,Delves Court Heanor,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0089935361&lng=-1.3580738024,yes,not owned by a public authority,permissioned,full planning permission,,53.008994,-1.358074,0.75,30,30,2017-12-06,,"The site is currently under construction
+Proposed family houses, eldery persons bungalows & apartments
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0009,Bridge Waste Disposal 66 Main Road Pye Bridge,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0718899941&lng=-1.3413644197,,not owned by a public authority,pending decision,outline planning permission,,53.07189,-1.341364,0.48,17,17,2017-12-06,,"
+Residential development
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0010,Bradshaw Avenue Ridding,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0685877201&lng=-1.3622487862,yes,owned by a public authority,permissioned,full planning permission,,53.068588,-1.362249,2.5,93,93,2017-12-06,,"
+Two-storey residential dwellings
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0011,Land at Butterley Hill Ripley,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0537146558&lng=-1.344808074,yes,not owned by a public authority,permissioned,outline planning permission,,53.053715,-1.344804,0.3,14,14,2017-12-06,,"
+Demolition of existing structures and construction of 14 houses, three block of three terraced and two blocks of semi-detached, one detached and block of 3 garages
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0012,Former Loscoe Miners Welfare Loscoe,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0249869236&lng=-1.3616983637,,not owned by a public authority,permissioned,outline planning permission,,53.024987,-1.361698,2.18,68,68,2017-12-06,,"
+Outline planning permission for 68 dwellings
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0013,19 Church Street Heanor,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0139600908&lng=-1.3506222175,yes,not owned by a public authority,permissioned,full planning permission,,53.01396,-1.350622,0.09,12,12,2017-12-06,,"
+Demolition of builders storage buildinhs and associated offices and construction of flats
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0014,Land to rear of 27-41 Main Road Leabrooks,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0768114135&lng=-1.3721286348,,not owned by a public authority,permissioned,outline planning permission,,53.076811,-1.372129,0.32,18,18,2017-12-06,,"
+Outline planning permission for upto 18 dwellings following demolition and site clearance
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0015,Land to Rear of The Butchers Arms Hands Road Heanor,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0131066085&lng=-1.3425266854,yes,not owned by a public authority,permissioned,full planning permission,,53.013107,-1.342527,0.2,11,11,2017-12-06,,"
+erection of 11 dwellings to the rear of the existing oublic house
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0016,Middlebrook Transport Heanor,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.1003036141&lng=-1.3762077543,yes,not owned by a public authority,permissioned,reserved matters approval,,53.100304,-1.376208,1.2,54,54,2017-12-06,,"The site is currently under construction
+Reserved Matters approval for 54 dwellings
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0017,17 King Street Alfreton,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0967981203&lng=-1.3901619656,yes,not owned by a public authority,permissioned,full planning permission,,53.096798,-1.390162,1,11,11,2017-12-06,,"
+Conversion of buildings (17,19 and 21) into 11 flats
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0018,Former American Adventure Theme Park Pit Lane Shipley,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.9936392978&lng=-1.3382626567,yes,owned by a public authority,permissioned,outline planning permission,,52.993639,-1.338263,46.48,307,307,2017-12-06,,"Residential element as part of large mixed use development
+Sustainable mixed use development including upto 307 residential units
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0019,Belper Police Station Field Lane Belper,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.024760858&lng=-1.4817363861,yes,not owned by a public authority,permissioned,full planning permission,,53.024761,-1.481736,0.47,13,13,2017-12-06,,"
+Erection of 13 new dwellings
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0020,Land off Cromford Road Langley Mill,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0234317133&lng=-1.3274318858,yes,not owned by a public authority,permissioned,full planning permission,,53.023432,-1.327432,0.88,38,38,2017-12-06,,"The site is currently under construction
+Erection of 38 dwellings
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0021,Marehay Garage Derby Road Marehay,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0317361246&lng=-1.4065426835,,not owned by a public authority,permissioned,outline planning permission,,53.031736,-1.406543,0.42,20,20,2017-12-06,,"
+Outline planning permission for demolition of existing buildings and proposed residential re-development
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0022,Land at Sleetmoor Lane Somercotes,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0806309749&lng=-1.3719686501,yes,not owned by a public authority,permissioned,full planning permission,,53.080631,-1.371969,0.11,12,12,2017-12-06,,"The site is currently under construction
+12 new dwellings, with amix of 9no. 1 bedrooms and 2 bedroom apartments and 3no. 2 bedroom family homes
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0023,Memory Lane Inn 72 Derby Road Heanor,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0135406622&lng=-1.3611515064,,not owned by a public authority,permissioned,outline planning permission,,53.013541,-1.361152,0.12,13,13,2017-12-06,,"
+Outline planning application for demolition of existing public house and constriction of new residential development
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0024,Land West of Old Coppice Side Heanor,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0047326278&lng=-1.356408232,yes,owned by a public authority,permissioned,full planning permission,,53.004733,-1.356408,0.93,30,30,2017-12-06,,"
+Erection of 30 dwellings
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0025,Labour Club Lander Lane Belper,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.02399708&lng=-1.4776903346,,not owned by a public authority,permissioned,full planning permission,,53.023997,-1.47769,0.14,13,13,2017-12-06,,"
+Demolition of former Labour Club buildings and erection of 13 dwellings
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0026,Land at 34 Greenhill Lane Leabrooks,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0744499141&lng=-1.3743421891,yes,not owned by a public authority,permissioned,full planning permission,,53.07445,-1.374342,1.27,58,58,2017-12-06,,"
+Proposed residential development of 58 dwellings
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0027,Land at Bullbridge Hill Ambergate,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0661383088&lng=-1.4695395665,,not owned by a public authority,permissioned,outline planning permission,,53.066138,-1.46954,8.2,171,171,2017-12-06,,"Residential emelent as part of a mixed use development
+Outline planning permission for mixed use dvelopment
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFRL0028,Derwentside Industrial Park Derby Road Belper,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0121216712&lng=-1.4795919862,yes,mixed ownership,permissioned,outline planning permission,,53.012122,-1.479592,5.75,136,136,2017-12-06,,"
+Outline planning permission for demolition and site clearance and redevelopment
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0029,Land at Cemetery Road Ripley,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.044301032&lng=-1.402536981,,owned by a public authority,not permissioned,,,53.044301,-1.402537,1.74,20,20,2017-12-06,,"
+Site allocated within Ripley Neighbourhood Plan as a proposed housing allocation
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0030,Land adj 30 Cromford Road Langley Mill,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.016263292&lng=-1.3315081078,,not owned by a public authority,permissioned,outline planning permission,,53.016263,-1.331508,3.49,87,87,2017-12-06,,"
+Outline planning application for residential development
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFRL0031,Land at Hall Road Langley Mill,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.025872662&lng=-1.329883815,yes,not owned by a public authority,not permissioned,,,53.025873,-1.329884,1.12,33,33,2017-12-06,,"Part of a larger site which comprises greenfield land
+proposed housing allocation in the Pre-Submission Local Plan
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0032,Asher Lane Business Park (North) Ripley,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0623322729&lng=-1.4095252228,yes,not owned by a public authority,not permissioned,,,53.062332,-1.409525,2.13,85,85,2017-12-06,,"
+proposed housing allocation in the Pre-Submission Local Plan
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0033,Asher Lane Business Park (South) Ripley,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0606746746&lng=-1.4088017823,yes,not owned by a public authority,not permissioned,,,53.060675,-1.408802,3.04,95,95,2017-12-06,,"
+proposed housing allocation in the Pre-Submission Local Plan
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0034,All Saints Church Hall Site Moseley Street Ripley,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0517432986&lng=-1.4077751188,yes,not owned by a public authority,not permissioned,,,53.051743,-1.407775,0.15,10,10,2017-12-06,,"
+proposed housing allocation in the Pre-Submission Local Plan
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0035,Duffield Depot Derby Road Duffield,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=52.9762072903&lng=-1.4832390315,yes,owned by a public authority,not permissioned,,,52.976207,-1.483239,1.09,16,16,2017-12-06,,"
+proposed housing allocation in the Pre-Submission Local Plan
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0036,Land off Whysall Street Heanor,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0144307641&lng=-1.3528658898,yes,owned by a public authority,not permissioned,,,53.014431,-1.352866,1.45,76,76,2017-12-06,,"
+proposed housing allocation in the Pre-Submission Local Plan
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0037,Land at Taylor Lane Loscoe,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0253247976&lng=-1.3643621353,yes,not owned by a public authority,pending decision,outline planning permission,,53.025325,-1.364362,9.92,250,250,2017-12-06,,"
+Part of an outline planning application for upto 500 dwellings. Also a proposed housing allocation in the Pre-Submission Local Plan
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0
+2017-12-06,local-authority-eng:AMB,BFLR0038,Land North of Denby,http://info.ambervalley.gov.uk/maps/brownfieldmap.html?lat=53.0197417532&lng=-1.4336748681,yes,not owned by a public authority,not permissioned,,,53.019742,-1.433675,40.42,720,720,2017-12-06,,"
+proposed housing allocation in the Pre-Submission Local Plan
+",93264a2648d3dbbf4a154681831e006fb7ee7bbec0a46a4970285f4a847950e0

@@ -1,129 +1,385 @@
 OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK001,Heathside and Lethbridge Estate,-0.0128,51.47114,http://www.lewisham.gov.uk/brownfieldregister,6.05,mixed ownership,,permissioned,reserved matters approval,08/12/2014,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK002,"""BMW site, Lee Terrace""",0.000695,51.46352,http://www.lewisham.gov.uk/brownfieldregister,0.35,not owned by a public authority,,permissioned,full planning permission,20/10/2016,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK003,"""Former petrol station, 167 Lewisham Road""",-0.01082,51.4655,http://www.lewisham.gov.uk/brownfieldregister,0.07,not owned by a public authority,,permissioned,full planning permission,16/03/2016,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK004,"""23 Boone Street, Dacre Park Estate""",0.003763,51.45975,http://www.lewisham.gov.uk/brownfieldregister,0.91,owned by a public authority,,permissioned,full planning permission,04/03/2015,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK005,"""Tower House, 65-71 Lewisham High Street""",-0.0096,51.46289,http://www.lewisham.gov.uk/brownfieldregister,0.17,not owned by a public authority,,permissioned,planning permission granted under an order,16/04/2017,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK006,"""Independents Day Centre, Independents Road""",0.008078,51.4654,http://www.lewisham.gov.uk/brownfieldregister,0.06,not owned by a public authority,,permissioned,full planning permission,17/12/2013,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK007,1 Myron Place,-0.0092,51.46277,http://www.lewisham.gov.uk/brownfieldregister,0.02,not owned by a public authority,,permissioned,planning permission granted under an order,21/12/2016,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK008,"""Our Lady of Lourdes School, Belmont Hill""",-0.00218,51.46321,http://www.lewisham.gov.uk/brownfieldregister,0.26,not owned by a public authority,,permissioned,full planning permission,08/01/2016,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK009,Garages at 49-71 Dacre Park,0.003934,51.46084,http://www.lewisham.gov.uk/brownfieldregister,0.09,owned by a public authority,,permissioned,full planning permission,22/04/2015,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK010,17 Brandram Road,0.001491,51.46022,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BL001,351-355 Sydenham Road,-0.03835,51.42854,http://www.lewisham.gov.uk/brownfieldregister,0.04,not owned by a public authority,,permissioned,full planning permission,02/02/2015,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BL002,117 Dunfield Road,-0.01676,51.4245,http://www.lewisham.gov.uk/brownfieldregister,0.04,not owned by a public authority,,permissioned,full planning permission,19/05/2017,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BL003,"""Kenton Court, 132 Adamsrill Road""",-0.04084,51.43023,http://www.lewisham.gov.uk/brownfieldregister,0.2,owned by a public authority,,permissioned,full planning permission,20/12/2017,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BL004,"""Home Park Housing Office, 129 Winchfield Road""",-0.03969,51.42521,http://www.lewisham.gov.uk/brownfieldregister,0.24,mixed ownership,,permissioned,full planning permission,20/08/2018,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BR001,"""302-308, 310-312 New Cross Road""",-0.0374,51.47538,http://www.lewisham.gov.uk/brownfieldregister,0.09,not owned by a public authority,,permissioned,full planning permission,09/12/2015,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BR003,1 Brockley Cross,-0.03528,51.46578,http://www.lewisham.gov.uk/brownfieldregister,0.02,not owned by a public authority,,permissioned,full planning permission,22/05/2017,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BR004,97 - 103 Florence Road,-0.03072,51.47231,http://www.lewisham.gov.uk/brownfieldregister,0.09,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BR005,Land adjoining 196 Brockley Road,-0.03592,51.46276,http://www.lewisham.gov.uk/brownfieldregister,0.02,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BR006,111 and 115 Endwell Road,-0.0366,51.46592,http://www.lewisham.gov.uk/brownfieldregister,0.43,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CP002,33 - 39 Beadnell Road,-0.04968,51.44341,http://www.lewisham.gov.uk/brownfieldregister,0.09,not owned by a public authority,,permissioned,full planning permission,17/09/2015,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CP003,437-439 Brockley Road,-0.03803,51.45317,http://www.lewisham.gov.uk/brownfieldregister,0.05,not owned by a public authority,,permissioned,full planning permission,09/01/2015,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CP004,219 Stanstead Road,-0.04098,51.44242,http://www.lewisham.gov.uk/brownfieldregister,0.05,not owned by a public authority,,permissioned,full planning permission,31/08/2018,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CP005,113 Bovill Road,-0.04652,51.44502,http://www.lewisham.gov.uk/brownfieldregister,0.07,not owned by a public authority,,permissioned,full planning permission,12/09/2016,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CP006,58-64 Brockley Rise,-0.041,51.44776,http://www.lewisham.gov.uk/brownfieldregister,0.05,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CP007,50 St German's Road,-0.03877,51.443,http://www.lewisham.gov.uk/brownfieldregister,0.06,not owned by a public authority,,permissioned,full planning permission,21/08/2017,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CP008,26 Marnock Road,-0.03465,51.45385,http://www.lewisham.gov.uk/brownfieldregister,0.19,owned by a public authority,,permissioned,full planning permission,27/11/2017,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CS002,246 Brownhill Road,-0.00603,51.44462,http://www.lewisham.gov.uk/brownfieldregister,0.1,not owned by a public authority,,permissioned,full planning permission,15/06/2015,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CS003,"""Pheobes Garden Centre, Penerley Road""",-0.0189,51.44076,http://www.lewisham.gov.uk/brownfieldregister,0.42,not owned by a public authority,,permissioned,full planning permission,29/06/2018,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV001,Convoys Wharf,-0.0189,51.44076,http://www.lewisham.gov.uk/brownfieldregister,20.42,not owned by a public authority,,permissioned,outline planning permission,10/03/2015,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV002,"""Timber Yard, Deptford Wharves, Oxestalls Road""",-0.02818,51.48625,http://www.lewisham.gov.uk/brownfieldregister,4.6,not owned by a public authority,,permissioned,outline planning permission,23/03/2016,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV003,Arklow Road Trading Estate MEL,-0.0354,51.48743,http://www.lewisham.gov.uk/brownfieldregister,1.28,not owned by a public authority,,permissioned,reserved matters approval,20/01/2017,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV004,Marine Wharf East,-0.03544,51.48174,http://www.lewisham.gov.uk/brownfieldregister,0.87,not owned by a public authority,,permissioned,full planning permission,13/11/2015,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV005,"""Neptune Works, Parkside House, Grinstead Road""",-0.0354,51.4922,http://www.lewisham.gov.uk/brownfieldregister,1.14,not owned by a public authority,,permissioned,full planning permission,30/03/2012,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV007,19 Yeoman Street,-0.04074,51.48472,http://www.lewisham.gov.uk/brownfieldregister,0.26,not owned by a public authority,,permissioned,full planning permission,25/01/2017,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV009,"""Evelyn Court, Grinstead Road""",-0.03923,51.49192,http://www.lewisham.gov.uk/brownfieldregister,0.21,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV012,"""Acme House, 165 Childers Street MEL""",-0.03607,51.48635,http://www.lewisham.gov.uk/brownfieldregister,0.66,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV013,Rear of 197-199 Deptford High Street,-0.03526,51.48228,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV014,"""Astra House, 23-25 Arklow Road""",-0.02696,51.48054,http://www.lewisham.gov.uk/brownfieldregister,0.11,not owned by a public authority,,permissioned,planning permission granted under an order,11/01/2018,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV015,222-222a Trundley's Road,-0.0403,51.48259,http://www.lewisham.gov.uk/brownfieldregister,0.01,not owned by a public authority,,permissioned,full planning permission,07/08/2018,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV016,"""Pepys Housing Office, Eddystone Tower, Oxstalls Road""",-0.03593,51.48888,http://www.lewisham.gov.uk/brownfieldregister,0.07,owned by a public authority,,permissioned,full planning permission,03/04/2018,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH001,"""Rear of Christian Fellowship, rear of 15-17a Tyson Road""",-0.0532,51.4464,http://www.lewisham.gov.uk/brownfieldregister,0.94,not owned by a public authority,,permissioned,outline planning permission,22/04/2010,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH002,"""Featherstone Lodge, Eliot Bank""",-0.06187,51.43767,http://www.lewisham.gov.uk/brownfieldregister,0.63,not owned by a public authority,,permissioned,full planning permission,13/11/2015,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH003,"""Former Sydenham Police Station, 179 Dartmouth Road""",-0.05843,51.43317,http://www.lewisham.gov.uk/brownfieldregister,0.2,not owned by a public authority,,permissioned,full planning permission,19/05/2016,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH004,"""Fairway House, rear of 53 Dartmouth Road""",-0.05401,51.43713,http://www.lewisham.gov.uk/brownfieldregister,0.2,not owned by a public authority,,permissioned,full planning permission,27/11/2015,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH005,Longfield Crescent Estate,-0.05421,51.43411,http://www.lewisham.gov.uk/brownfieldregister,1.56,owned by a public authority,,permissioned,full planning permission,23/04/2015,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH006,14 Westwood Park,-0.05843,51.44299,http://www.lewisham.gov.uk/brownfieldregister,0.05,not owned by a public authority,,permissioned,full planning permission,06/05/2016,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH007,29 Ewelme Road,-0.0549,51.44305,http://www.lewisham.gov.uk/brownfieldregister,0.05,not owned by a public authority,,permissioned,full planning permission,12/10/2016,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH008,97 Honor Oak Park,-0.04757,51.44978,http://www.lewisham.gov.uk/brownfieldregister,0.09,not owned by a public authority,,permissioned,full planning permission,31/10/2011,,,,yes,,01/12/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH009,1 Waldram Crescent,-0.05308,51.44009,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH010,39 Honor Oak Road,-0.054,51.44701,http://www.lewisham.gov.uk/brownfieldregister,0.09,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH011,"""Station forecourt, Dartmouth Road, west of the railway line""",-0.05355,51.43899,http://www.lewisham.gov.uk/brownfieldregister,0.43,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH012,"""Windmill PH, 125-131 Kirkdale""",-0.05994,51.43169,http://www.lewisham.gov.uk/brownfieldregister,0.05,not owned by a public authority,,permissioned,full planning permission,01/08/2017,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,GP001,329 Baring Road and Haywood House,0.021736,51.42984,http://www.lewisham.gov.uk/brownfieldregister,0.07,not owned by a public authority,,permissioned,full planning permission,12/01/2018,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,GP002,Garages at 55-88 Castleton Road,0.037523,51.42676,http://www.lewisham.gov.uk/brownfieldregister,0.14,not owned by a public authority,,permissioned,full planning permission,26/06/2017,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,GP003,77 Burnt Ash Hill,0.015687,51.44596,http://www.lewisham.gov.uk/brownfieldregister,0.06,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,GP004,79 Chinbrook Road,0.028527,51.43195,http://www.lewisham.gov.uk/brownfieldregister,0.12,not owned by a public authority,,permissioned,full planning permission,16/10/2017,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC001,Lewisham Gateway,-0.0122,51.46438,http://www.lewisham.gov.uk/brownfieldregister,5.53,mixed ownership,,permissioned,reserved matters approval,12/11/2014,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC002,"""Lewisham House, 25 Molesworth Street (Citibank)""",-0.01209,51.46289,http://www.lewisham.gov.uk/brownfieldregister,0.1,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC003,"""Boones Almshouses, Belmont Park""",-0.00123,51.46071,http://www.lewisham.gov.uk/brownfieldregister,0.7,not owned by a public authority,,permissioned,full planning permission,30/03/2012,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC004,Rear of Chiddingstone House,-0.01235,51.45402,http://www.lewisham.gov.uk/brownfieldregister,0.55,owned by a public authority,,permissioned,other - s73 MMA,26/01/2017,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC005,223-225 Lewisham High Street,-0.01216,51.45842,http://www.lewisham.gov.uk/brownfieldregister,0.07,not owned by a public authority,,permissioned,full planning permission,25/03/2015,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC006,37-43 Nightingale Grove (remainder of site),-0.00196,51.45192,http://www.lewisham.gov.uk/brownfieldregister,0.22,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC008,35 Nightingale Grove,-0.00229,51.45229,http://www.lewisham.gov.uk/brownfieldregister,0.02,not owned by a public authority,,permissioned,full planning permission,21/07/2014,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC009,"""323 Lewisham High Street, Ravensbourne Arms""",-0.01502,51.45544,http://www.lewisham.gov.uk/brownfieldregister,0.04,not owned by a public authority,,permissioned,full planning permission,24/08/2015,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC012,Rear of 101-103 Springbank Road,0.001719,51.44879,http://www.lewisham.gov.uk/brownfieldregister,0.09,not owned by a public authority,,permissioned,full planning permission,20/08/2015,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC014,Robert Square Bonfield Road,-0.008621,51.46009,http://www.lewisham.gov.uk/brownfieldregister,0.26,not owned by a public authority,,permissioned,full planning permission,26/08/2016,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC015,"""Lewisham Retail Park, east of Jerrard Street""",-0.01547,51.46512,http://www.lewisham.gov.uk/brownfieldregister,1.04,not owned by a public authority,,pending decision,full planning permission,18/10/2017,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC016,"""Tesco, Conington Road""",-0.013109,51.466615,http://www.lewisham.gov.uk/brownfieldregister,2.63,not owned by a public authority,,pending decision,full planning permission,,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC017,"""Carpet Right, east of Thurston Road""",-0.01407,51.46485,http://www.lewisham.gov.uk/brownfieldregister,0.28,not owned by a public authority,,pending decision,full planning permission,,,,,,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC018,"""PLACE/Ladywell, former Ladywell Leisure Centre (remainder of site)""",-0.01334,51.45635,http://www.lewisham.gov.uk/brownfieldregister,0.93,owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC019,"""Driving test centre, off Ennersdale Road""",-0.00396,51.45276,http://www.lewisham.gov.uk/brownfieldregister,0.41,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC020,232 Hither Green Lane,-0.00585,51.4503,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC021,"""St Mungos Hostel, Spring Gardens, Arlington Close""",-0.00483,51.4527,http://www.lewisham.gov.uk/brownfieldregister,0.96,owned by a public authority,,permissioned,full planning permission,25/09/2017,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC022,1 Wearside Road,-0.01581,51.45704,http://www.lewisham.gov.uk/brownfieldregister,0.08,not owned by a public authority,,permissioned,full planning permission,06/10/2017,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC023,174-176 Lewisham High Street,-0.0114,51.46043,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,permissioned,planning permission granted under an order,13/02/2018,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC024,19b Marischal Road,-0.00736,51.4624,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,permissioned,full planning permission,10/03/2017,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC025,Church Grove,-0.0182777,51.457743,http://www.lewisham.gov.uk/brownfieldregister,0.35,owned by a public authority,,permissioned,full planning permission,07/06/2018,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LD001,87-89 Loampit Vale,-0.01776,51.46477,http://www.lewisham.gov.uk/brownfieldregister,0.19,not owned by a public authority,,permissioned,full planning permission,11/04/2016,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LD002,Land at 11 and 29 Embleton Road and 44 and 70 Algernon Road,-0.01913,51.46263,http://www.lewisham.gov.uk/brownfieldregister,0.45,owned by a public authority,,permissioned,full planning permission,11/06/2018,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LG001,36 Old Road,0.005382,51.45737,http://www.lewisham.gov.uk/brownfieldregister,0.16,not owned by a public authority,,permissioned,full planning permission,13/11/2014,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LG002,87 Old Road,0.005558,51.45823,http://www.lewisham.gov.uk/brownfieldregister,0.04,not owned by a public authority,,permissioned,full planning permission,24/09/2015,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LG003,"""Garages at Woodstock Court, Burnt Ash Hill""",0.013903,51.44829,http://www.lewisham.gov.uk/brownfieldregister,0.36,not owned by a public authority,,permissioned,full planning permission,20/03/2017,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LG004,"""Mayfields Hostel, 47 Burnt Ash Hill""",0.01499,51.45313,http://www.lewisham.gov.uk/brownfieldregister,0.08,owned by a public authority,,permissioned,full planning permission,02/08/2018,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LG005,Leegate Shopping Centre,0.014424,51.4472,http://www.lewisham.gov.uk/brownfieldregister,0.49,not owned by a public authority,,pending decision,full planning permission,,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LG006,"""Lee Green Estate, Cambridge Drive""",0.012387,51.45546,http://www.lewisham.gov.uk/brownfieldregister,1.9,not owned by a public authority,,permissioned,full planning permission,22/02/2018,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX001,"""New Bermondsey, Surrey Canal Triangle""",-0.05105,51.48537,http://www.lewisham.gov.uk/brownfieldregister,10.16,not owned by a public authority,,permissioned,outline planning permission,30/03/2012,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX002,"""Faircharm Trading Estate, Creekside""",-0.02024,51.47746,http://www.lewisham.gov.uk/brownfieldregister,0.97,not owned by a public authority,,permissioned,full planning permission,15/10/2013,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX003,"""New Cross Gate station sites,  29, 23-27 Goodwood Road""",-0.04005,51.47589,http://www.lewisham.gov.uk/brownfieldregister,0.61,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX005,"""Bond House, Goodwood Road""",-0.03926,51.47629,http://www.lewisham.gov.uk/brownfieldregister,0.24,not owned by a public authority,,permissioned,full planning permission,29/06/2016,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX007,Roof extension at 110-114 Deptford High Street,-0.02558,51.47811,http://www.lewisham.gov.uk/brownfieldregister,0.1,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX008,465 New Cross Road,-0.02869,51.47561,http://www.lewisham.gov.uk/brownfieldregister,0.04,not owned by a public authority,,permissioned,full planning permission,05/11/2013,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX009,"""Hatcham Works, New Cross Gate Retail Park/ Sainsbury, New Cross Road""",-0.042,51.47629,http://www.lewisham.gov.uk/brownfieldregister,3.67,mixed ownership,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX010,"""Sun Wharf, Cockpit Arts""",-0.02002,51.47867,http://www.lewisham.gov.uk/brownfieldregister,1,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX011,"""Giffin St Masterplan Area, Former Tidemill School (north of Reginald Road and south of Frankham Street)""",-0.02407,51.47674,http://www.lewisham.gov.uk/brownfieldregister,1.25,mixed ownership,,permissioned,full planning permission,16/07/2018,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX012,"""Former Deptford Green Secondary School, Amersham Vale""",-0.03264,51.4794,http://www.lewisham.gov.uk/brownfieldregister,0.68,mixed ownership,,permissioned,full planning permission,16/07/2018,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX013,2 Hatcham Park Mews,-0.04578,51.47482,http://www.lewisham.gov.uk/brownfieldregister,0.04,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX014,Rear of 104 Deptford High Street,-0.02541,51.47788,http://www.lewisham.gov.uk/brownfieldregister,0.02,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX015,"""Thanet Wharf, Creekside Village East""",-0.01802,51.48041,http://www.lewisham.gov.uk/brownfieldregister,0.75,mixed ownership,,pending decision,full planning permission,,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX016,54 Avonley Road,-0.04926,51.47979,http://www.lewisham.gov.uk/brownfieldregister,0.15,not owned by a public authority,,permissioned,full planning permission,20/04/2018,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX017,153 New Cross Road,-0.04648,51.47551,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,permissioned,full planning permission,08/11/2017,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,PV002,31 Dacres Road,-0.05153,51.43461,http://www.lewisham.gov.uk/brownfieldregister,0.11,not owned by a public authority,,permissioned,full planning permission,10/06/2016,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,PV004,"""Waldram Place & Perry Vale, east of the railway line""",-0.05255,51.43968,http://www.lewisham.gov.uk/brownfieldregister,0.2,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,PV005,"""8, 10 and 12 Perry Vale""",-0.05187,51.43981,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,PV006,236-238 Stanstead Road,-0.03786,51.44201,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,RG002,16-22 Brownhill Road,-0.01704,51.44557,http://www.lewisham.gov.uk/brownfieldregister,0.1,not owned by a public authority,,permissioned,full planning permission,11/01/2016,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,RG006,26-32 George Lane,-0.01407,51.45006,http://www.lewisham.gov.uk/brownfieldregister,0.12,not owned by a public authority,,permissioned,full planning permission,07/04/2016,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD001,"""St Clements Heights, 165 Wells Park Road""",-0.0725,51.43106,http://www.lewisham.gov.uk/brownfieldregister,2.17,not owned by a public authority,,permissioned,reserved matters approval,30/03/2015,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD002,"""Regent Business Centre, 291-307 Kirkdale""",-0.05591,51.42753,http://www.lewisham.gov.uk/brownfieldregister,0.23,not owned by a public authority,,permissioned,planning permission granted under an order,10/02/2017,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD003,22A-24 Sydenham Road,-0.053402,51.426034,http://www.lewisham.gov.uk/brownfieldregister,0.12,not owned by a public authority,,permissioned,full planning permission,09/03/2011,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD004,154-158 Sydenham Road,-0.04504,51.4253,http://www.lewisham.gov.uk/brownfieldregister,0.06,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD006,Workshop at rear of 171 Kirkdale,-0.0585,51.43075,http://www.lewisham.gov.uk/brownfieldregister,0.06,not owned by a public authority,,permissioned,full planning permission,18/07/2014,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD007,Roof extension at 96a Sydenham Road,-0.04859,51.42551,http://www.lewisham.gov.uk/brownfieldregister,0.02,not owned by a public authority,,permissioned,full planning permission,18/11/2016,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD008,42 Sydenham Road,-0.05174,51.42581,http://www.lewisham.gov.uk/brownfieldregister,0.09,not owned by a public authority,,permissioned,planning permission granted under an order,31/01/2017,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD009,169-171 Sydenham Road,-0.04636,51.4259,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD010,113 to 157 Sydenham Road,-0.04789,51.42607,http://www.lewisham.gov.uk/brownfieldregister,0.87,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD011,31-61 Silverdale,-0.05355,51.42852,http://www.lewisham.gov.uk/brownfieldregister,0.12,owned by a public authority,,permissioned,full planning permission,09/05/2018,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD012,138 Sydenham Road,-0.04574,51.42552,http://www.lewisham.gov.uk/brownfieldregister,0.02,not owned by a public authority,,permissioned,full planning permission,10/10/2017,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH001,43-49 Pomeroy Street,-0.05227,51.47549,http://www.lewisham.gov.uk/brownfieldregister,0.21,not owned by a public authority,,permissioned,full planning permission,03/08/2016,,,,yes,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH003,"""Spalding House, Turnham Road""",-0.0414,51.45793,http://www.lewisham.gov.uk/brownfieldregister,0.09,mixed ownership,,permissioned,full planning permission,05/05/2016,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH004,"""New Cross Gate NDC scheme, Besson Street""",-0.049,51.4754,http://www.lewisham.gov.uk/brownfieldregister,1.01,owned by a public authority,,not permissioned,,,,,,,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH006,6 Mantle Road,-0.03799,51.46432,http://www.lewisham.gov.uk/brownfieldregister,0.12,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH007,173-175 Waller Road,-0.04714,51.46912,http://www.lewisham.gov.uk/brownfieldregister,0.05,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH008,Rear of 122 New Cross Road,-0.04832,51.47571,http://www.lewisham.gov.uk/brownfieldregister,0.07,not owned by a public authority,,not permissioned,,,,,,,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH009,"""Wellington Close, Somerville Estate""",-0.04996,51.47181,http://www.lewisham.gov.uk/brownfieldregister,0.47,owned by a public authority,,permissioned,full planning permission,02/02/2018,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH010,1 Avignon Road,-0.0433,51.46399,http://www.lewisham.gov.uk/brownfieldregister,0.09,not owned by a public authority,,permissioned,full planning permission,12/10/2017,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH011,"""Garages At Crossway Court, Endwell Road""",-0.03904,51.46836,http://www.lewisham.gov.uk/brownfieldregister,0.12,owned by a public authority,,permissioned,full planning permission,03/04/2018,,,,yes,,22/10/2018,,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,WF001,"""Excalibur Estate, Baudwin Road""",-0.00074,51.43528,http://www.lewisham.gov.uk/brownfieldregister,6.12,mixed ownership,,permissioned,full planning permission,30/03/2012,,,,yes,,30/11/2017,22/10/2018,
-http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,WF002,"""Adj. to Foster House, Whitefoot Lane""",-0.00531,51.43029,http://www.lewisham.gov.uk/brownfieldregister,0.65,not owned by a public authority,,permissioned,full planning permission,12/08/2016,,,,yes,,30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK001,Heathside and Lethbridge Estate,-0.0128,51.47114,http://www.lewisham.gov.uk/brownfieldregister,6.05,mixed ownership,,permissioned,reserved matters approval,08/12/2014,,,,yes,"
+""14/087333 (currently at phase 4) for mixed use development including 2-6 phases with a total of 1,225 residential units minus 565 existing units, with phase 4 (236 units) still to be logged as completed and phases 5 (284 units) and 6 (159 units) still to be approved""
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK002,"""BMW site, Lee Terrace""",0.000695,51.46352,http://www.lewisham.gov.uk/brownfieldregister,0.35,not owned by a public authority,,permissioned,full planning permission,20/10/2016,,,,yes,"
+""16/095488 for mixed use development including 9 x one bedroom, 8 x two bedroom, 3 x three bedroom self-contained flats and 10 x four bedroom townhouses""
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK003,"""Former petrol station, 167 Lewisham Road""",-0.01082,51.4655,http://www.lewisham.gov.uk/brownfieldregister,0.07,not owned by a public authority,,permissioned,full planning permission,16/03/2016,,,,yes,"
+15/091914 for  mixed use development including 28 flats
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK004,"""23 Boone Street, Dacre Park Estate""",0.003763,51.45975,http://www.lewisham.gov.uk/brownfieldregister,0.91,owned by a public authority,,permissioned,full planning permission,04/03/2015,,,,yes,"
+""14/089902 for residential development including 6 x 1 bedroom and 14 x 2 bedroom flats, 3 x 3 bedroom and 2 x 4 bedroom flats""
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK005,"""Tower House, 65-71 Lewisham High Street""",-0.0096,51.46289,http://www.lewisham.gov.uk/brownfieldregister,0.17,not owned by a public authority,,permissioned,planning permission granted under an order,16/04/2017,,,,yes,"
+""15/094039, 15/094870 and 17/100726 Prior Approval for residential development including two additional floors at roof level with 56 residential units""
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK006,"""Independents Day Centre, Independents Road""",0.008078,51.4654,http://www.lewisham.gov.uk/brownfieldregister,0.06,not owned by a public authority,,permissioned,full planning permission,17/12/2013,,,,yes,"
+10/76229 for residential development including 10 x one bedroom self-contained flats and 4 x two bedroom and 2 x three bedroom self-contained maisonettes
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK007,1 Myron Place,-0.0092,51.46277,http://www.lewisham.gov.uk/brownfieldregister,0.02,not owned by a public authority,,permissioned,planning permission granted under an order,21/12/2016,,,,yes,"
+16/099036 Prior Approval for residential development including 12 studio flats
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK008,"""Our Lady of Lourdes School, Belmont Hill""",-0.00218,51.46321,http://www.lewisham.gov.uk/brownfieldregister,0.26,not owned by a public authority,,permissioned,full planning permission,08/01/2016,,,,yes,"
+15/094157 for residential development including 9 x four bedroom town houses comprising three pairs of semi-detached houses and one terrace of three houses
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK009,Garages at 49-71 Dacre Park,0.003934,51.46084,http://www.lewisham.gov.uk/brownfieldregister,0.09,owned by a public authority,,permissioned,full planning permission,22/04/2015,,,,yes,"
+14/89973 for residential development including 5 x two bedroom mews houses
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BK010,17 Brandram Road,0.001491,51.46022,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,not permissioned,,,,,,,"
+Lapsed 07/65979 and Lapsed 09/73230 for residential development including 4 x one bedroom and 2 x two bedroom self-contained flats
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BL001,351-355 Sydenham Road,-0.03835,51.42854,http://www.lewisham.gov.uk/brownfieldregister,0.04,not owned by a public authority,,permissioned,full planning permission,02/02/2015,,,,yes,"
+14/88927 for residential development including 8 x two bedroom self-contained flats and 1 x one bedroom maisonette
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BL002,117 Dunfield Road,-0.01676,51.4245,http://www.lewisham.gov.uk/brownfieldregister,0.04,not owned by a public authority,,permissioned,full planning permission,19/05/2017,,,,yes,"
+""16/99506 for residential development including 4 x one bedroom, 3 x two bedroom and 1 x three bedroom self-contained flats""
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BL003,"""Kenton Court, 132 Adamsrill Road""",-0.04084,51.43023,http://www.lewisham.gov.uk/brownfieldregister,0.2,owned by a public authority,,permissioned,full planning permission,20/12/2017,,,,yes,"
+""17/103961 for residential development including 5 x one bedroom, 15 x two bedroom, 4 x three bedroom and 1 x four bedroom self contained flats""
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BL004,"""Home Park Housing Office, 129 Winchfield Road""",-0.03969,51.42521,http://www.lewisham.gov.uk/brownfieldregister,0.24,mixed ownership,,permissioned,full planning permission,20/08/2018,,,,yes,"
+""18/106485 for mixed use development including 8 x one bedroom, 16 x two bedroom, 7 x three bedroomed self-contained flats""
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BR001,"""302-308, 310-312 New Cross Road""",-0.0374,51.47538,http://www.lewisham.gov.uk/brownfieldregister,0.09,not owned by a public authority,,permissioned,full planning permission,09/12/2015,,,,yes,"
+15/93085 for mixed use development including 16 x studio flats and 2 x one bedroom self-contained flats
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BR003,1 Brockley Cross,-0.03528,51.46578,http://www.lewisham.gov.uk/brownfieldregister,0.02,not owned by a public authority,,permissioned,full planning permission,22/05/2017,,,,yes,"
+17/100503 for residential development including 3 x one bedroom and 2 x two bedroom self-contained flats
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BR004,97 - 103 Florence Road,-0.03072,51.47231,http://www.lewisham.gov.uk/brownfieldregister,0.09,not owned by a public authority,,not permissioned,,,,,,,"
+""Lapsed 09/73121 for residential development including 1 x three bedroom, 2 x two bedroom and 6 x one bedroom self-contained flats""
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BR005,Land adjoining 196 Brockley Road,-0.03592,51.46276,http://www.lewisham.gov.uk/brownfieldregister,0.02,not owned by a public authority,,not permissioned,,,,,,,"
+Lapsed 11/77443 for residential development including 2 x one bedroom and 2 x two bedroom self-contained flats and 1 x two bedroom self-contained maisonette
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,BR006,111 and 115 Endwell Road,-0.0366,51.46592,http://www.lewisham.gov.uk/brownfieldregister,0.43,not owned by a public authority,,not permissioned,,,,,,,"
+Site Allocation SA30 for mixed use development including 40 residential units
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CP002,33 - 39 Beadnell Road,-0.04968,51.44341,http://www.lewisham.gov.uk/brownfieldregister,0.09,not owned by a public authority,,permissioned,full planning permission,17/09/2015,,,,yes,"
+""15/091375 for mixed use development including 4 x three bedroom two storey houses, 1 x three bedroom maisonette, 1 x three bedroom flat, 1 x two bedroom flat and 2 x three bedroom live/work unit""
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CP003,437-439 Brockley Road,-0.03803,51.45317,http://www.lewisham.gov.uk/brownfieldregister,0.05,not owned by a public authority,,permissioned,full planning permission,09/01/2015,,,,yes,"
+14/088077 for mixed use development including 2 x three bedroom houses and 4 x one bedroom and 3 x two bedroom self-contained flats
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CP004,219 Stanstead Road,-0.04098,51.44242,http://www.lewisham.gov.uk/brownfieldregister,0.05,not owned by a public authority,,permissioned,full planning permission,31/08/2018,,,,yes,"
+16/097266 Prior Approval for residential development including  5 x one bedroom self-contained flats and  18/106769 for  residential development including 2 x one bedroom and 4 x two bedroom self-contained flats
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CP005,113 Bovill Road,-0.04652,51.44502,http://www.lewisham.gov.uk/brownfieldregister,0.07,not owned by a public authority,,permissioned,full planning permission,12/09/2016,,,,yes,"
+16/097411 for residential development including  5 x four bedroom houses
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CP006,58-64 Brockley Rise,-0.041,51.44776,http://www.lewisham.gov.uk/brownfieldregister,0.05,not owned by a public authority,,not permissioned,,,,,,,"
+Lapsed 11/78739 for residential development including 7 x two bedroom and  2 x one bedroom self-contained units
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CP007,50 St German's Road,-0.03877,51.443,http://www.lewisham.gov.uk/brownfieldregister,0.06,not owned by a public authority,,permissioned,full planning permission,21/08/2017,,,,yes,"
+""17/100842 for residential development including 1 x one bedroom, 3 x two bedroom and 1 x three bedroom self contained flats""
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CP008,26 Marnock Road,-0.03465,51.45385,http://www.lewisham.gov.uk/brownfieldregister,0.19,owned by a public authority,,permissioned,full planning permission,27/11/2017,,,,yes,"
+17/102317 for residential development including 6 x three storey terraced houses
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CS002,246 Brownhill Road,-0.00603,51.44462,http://www.lewisham.gov.uk/brownfieldregister,0.1,not owned by a public authority,,permissioned,full planning permission,15/06/2015,,,,yes,"
+14/088055 for residential development including 5 x three bedroom residential units
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,CS003,"""Pheobes Garden Centre, Penerley Road""",-0.0189,51.44076,http://www.lewisham.gov.uk/brownfieldregister,0.42,not owned by a public authority,,permissioned,full planning permission,29/06/2018,,,,yes,"
+""17/102292 for residential development including 10 x one bedroom, 10 x two bedroom and 7 x three bedroom self-contained flats""
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV001,Convoys Wharf,-0.0189,51.44076,http://www.lewisham.gov.uk/brownfieldregister,20.42,not owned by a public authority,,permissioned,outline planning permission,10/03/2015,,,,yes,"
+""13/083358 for mixed use development including up to 3,514 (321,000 m2) residential units""
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV002,"""Timber Yard, Deptford Wharves, Oxestalls Road""",-0.02818,51.48625,http://www.lewisham.gov.uk/brownfieldregister,4.6,not owned by a public authority,,permissioned,outline planning permission,23/03/2016,,,,yes,"
+""15/092295 for mixed use development including 1132 residential units.  This is a hybrid application: full for phase 1 and outline for phases 2 and 3""
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV003,Arklow Road Trading Estate MEL,-0.0354,51.48743,http://www.lewisham.gov.uk/brownfieldregister,1.28,not owned by a public authority,,permissioned,reserved matters approval,20/01/2017,,,,yes,"
+15/093101 for mixed use development including full permission for 258 residential dwellings and reserved matters 16/097829 for up to 58 dwellings
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV004,Marine Wharf East,-0.03544,51.48174,http://www.lewisham.gov.uk/brownfieldregister,0.87,not owned by a public authority,,permissioned,full planning permission,13/11/2015,,,,yes,"
+""15/091087 and 16/097829 for mixed use development including 102 x one bed, 79 x two bed, 40 x three bed and 4 x four bed units""
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV005,"""Neptune Works, Parkside House, Grinstead Road""",-0.0354,51.4922,http://www.lewisham.gov.uk/brownfieldregister,1.14,not owned by a public authority,,permissioned,full planning permission,30/03/2012,,,,yes,"
+""10/75331 and 14/089647 for mixed use development including 199 residential units comprising 70 x one bedroom, 100 x two bed, 19 x three bedroom and 10 x four bedroom units""
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV007,19 Yeoman Street,-0.04074,51.48472,http://www.lewisham.gov.uk/brownfieldregister,0.26,not owned by a public authority,,permissioned,full planning permission,25/01/2017,,,,yes,"
+16/098132 for mixed use development including 72 residential units
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV009,"""Evelyn Court, Grinstead Road""",-0.03923,51.49192,http://www.lewisham.gov.uk/brownfieldregister,0.21,not owned by a public authority,,not permissioned,,,,,,,"
+Lapsed 14/089442 Prior approval for mixed use development including 18 residential dwellings
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV012,"""Acme House, 165 Childers Street MEL""",-0.03607,51.48635,http://www.lewisham.gov.uk/brownfieldregister,0.66,not owned by a public authority,,not permissioned,,,,,,,"
+Site Allocation SA8 for mixed use development including 84 residential units
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV013,Rear of 197-199 Deptford High Street,-0.03526,51.48228,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,not permissioned,,,,,,,"
+Lapsed 09/72501 for mixed use development including 5 x one bedroom and 4 x two bedroom self-contained flats
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV014,"""Astra House, 23-25 Arklow Road""",-0.02696,51.48054,http://www.lewisham.gov.uk/brownfieldregister,0.11,not owned by a public authority,,permissioned,planning permission granted under an order,11/01/2018,,,,yes,"
+17/104557 Prior Approval for residential development including 7 x one bed and 8 x two bed self-contained flats
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV015,222-222a Trundley's Road,-0.0403,51.48259,http://www.lewisham.gov.uk/brownfieldregister,0.01,not owned by a public authority,,permissioned,full planning permission,07/08/2018,,,,yes,"
+17/1016787 for residential development including 3 x one bedroom and 4 x two bedroom self-contained residential units
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,EV016,"""Pepys Housing Office, Eddystone Tower, Oxstalls Road""",-0.03593,51.48888,http://www.lewisham.gov.uk/brownfieldregister,0.07,owned by a public authority,,permissioned,full planning permission,03/04/2018,,,,yes,"
+""17/104445 for mixed use development including 2  xthree bedroom maisonettes, 1 x two bedroom, 1 x three bedroom and 1 x four bedroom self-contained flats""
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH001,"""Rear of Christian Fellowship, rear of 15-17a Tyson Road""",-0.0532,51.4464,http://www.lewisham.gov.uk/brownfieldregister,0.94,not owned by a public authority,,permissioned,outline planning permission,22/04/2010,,,,yes,"
+09/71953 for residential development including up to a maximum of 71 units
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH002,"""Featherstone Lodge, Eliot Bank""",-0.06187,51.43767,http://www.lewisham.gov.uk/brownfieldregister,0.63,not owned by a public authority,,permissioned,full planning permission,13/11/2015,,,,yes,"
+""14/086666 for residential development including 18 x one bedroom and 15 x two-bedroom self contained flats plus 6 x two bedroom, two storey houses""
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH003,"""Former Sydenham Police Station, 179 Dartmouth Road""",-0.05843,51.43317,http://www.lewisham.gov.uk/brownfieldregister,0.2,not owned by a public authority,,permissioned,full planning permission,19/05/2016,,,,yes,"
+""15/92798 for residential development including 15 x one bedroom, 15 x two bedroom and 3 x three bedroom self-contained flats""
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH004,"""Fairway House, rear of 53 Dartmouth Road""",-0.05401,51.43713,http://www.lewisham.gov.uk/brownfieldregister,0.2,not owned by a public authority,,permissioned,full planning permission,27/11/2015,,,,yes,"
+15/090942 for mixed use development including  27 self-contained residential flats
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH005,Longfield Crescent Estate,-0.05421,51.43411,http://www.lewisham.gov.uk/brownfieldregister,1.56,owned by a public authority,,permissioned,full planning permission,23/04/2015,,,,yes,"
+14/089888 for residential development including 13 x 3 bed houses and 6 x one bedroom and 8 x two bedroom self-contained flats
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH006,14 Westwood Park,-0.05843,51.44299,http://www.lewisham.gov.uk/brownfieldregister,0.05,not owned by a public authority,,permissioned,full planning permission,06/05/2016,,,,yes,"
+""15/091285 for residential development including 1 x one bedroom, 5 x two bedroom and 1 x three bedroom self-contained flats""
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH007,29 Ewelme Road,-0.0549,51.44305,http://www.lewisham.gov.uk/brownfieldregister,0.05,not owned by a public authority,,permissioned,full planning permission,12/10/2016,,,,yes,"
+""16/096800 for residential development including 1 x one bedroom, 2 x two bedroom and 3 x three bedroom flats""
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH008,97 Honor Oak Park,-0.04757,51.44978,http://www.lewisham.gov.uk/brownfieldregister,0.09,not owned by a public authority,,permissioned,full planning permission,31/10/2011,,,,yes,"
+08/68730 for residential development including 1x3 bedroom and 5x2 bedroom self-contained flats
+",01/12/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH009,1 Waldram Crescent,-0.05308,51.44009,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,not permissioned,,,,,,,"
+""Lapsed 07/65911 for residential development including 8 x one bedroom, self-contained flats""
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH010,39 Honor Oak Road,-0.054,51.44701,http://www.lewisham.gov.uk/brownfieldregister,0.09,not owned by a public authority,,not permissioned,,,,,,,"
+""Lapsed 07/67266 for residential development including 4 x three bedroom, self-contained maisonettes, 1 x one bedroom and 1 x three bedroom self-contained flats""
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH011,"""Station forecourt, Dartmouth Road, west of the railway line""",-0.05355,51.43899,http://www.lewisham.gov.uk/brownfieldregister,0.43,not owned by a public authority,,not permissioned,,,,,,,"
+Site Allocation SA19 for mixed use development including 74 residential units
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,FH012,"""Windmill PH, 125-131 Kirkdale""",-0.05994,51.43169,http://www.lewisham.gov.uk/brownfieldregister,0.05,not owned by a public authority,,permissioned,full planning permission,01/08/2017,,,,yes,"
+16/099356 for mixed use development including  2 x one bedroom and 7 x two bedroom self-contained residential units
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,GP001,329 Baring Road and Haywood House,0.021736,51.42984,http://www.lewisham.gov.uk/brownfieldregister,0.07,not owned by a public authority,,permissioned,full planning permission,12/01/2018,,,,yes,"
+17/100225 Prior approval for residential development including 6 self-contained flats and 17/104065 for one x 2 bedroom self-contained flat
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,GP002,Garages at 55-88 Castleton Road,0.037523,51.42676,http://www.lewisham.gov.uk/brownfieldregister,0.14,not owned by a public authority,,permissioned,full planning permission,26/06/2017,,,,yes,"
+16/098887 for residential development including 5 x three bedroom terrace houses
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,GP003,77 Burnt Ash Hill,0.015687,51.44596,http://www.lewisham.gov.uk/brownfieldregister,0.06,not owned by a public authority,,not permissioned,,,,,,,"
+""Lapsed 10/75510 for residential development including 3x one bedroom and 1 x four bedroom self-contained flats, 1 x one bedroom and 1 x two bedroom self-contained maisonettes""
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,GP004,79 Chinbrook Road,0.028527,51.43195,http://www.lewisham.gov.uk/brownfieldregister,0.12,not owned by a public authority,,permissioned,full planning permission,16/10/2017,,,,yes,"
+""17/100156 for residential development including 2 x one bedroom, 2 x two bedroom and 2 x three bedroom residential units""
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC001,Lewisham Gateway,-0.0122,51.46438,http://www.lewisham.gov.uk/brownfieldregister,5.53,mixed ownership,,permissioned,reserved matters approval,12/11/2014,,,,yes,"
+06/62375 outline for mixed use development including 800 residential units and 14/089233 latest reserved matters
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC002,"""Lewisham House, 25 Molesworth Street (Citibank)""",-0.01209,51.46289,http://www.lewisham.gov.uk/brownfieldregister,0.1,not owned by a public authority,,not permissioned,,,,,,,"
+Lapsed 15/092471 Prior approval for residential development including 237 units
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC003,"""Boones Almshouses, Belmont Park""",-0.00123,51.46071,http://www.lewisham.gov.uk/brownfieldregister,0.7,not owned by a public authority,,permissioned,full planning permission,30/03/2012,,,,yes,"
+""10/74143 for residential development including 32 x one bedroom and 30 x two bedroom almshouses, 1 x two bedroom and 9 x three bedroom self-contained flats, 8 x three bedroom and 8 x four/five bedroom self-contained maisonettes""
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC004,Rear of Chiddingstone House,-0.01235,51.45402,http://www.lewisham.gov.uk/brownfieldregister,0.55,owned by a public authority,,permissioned,other - s73 MMA,26/01/2017,,,,yes,"
+16/099284 for residential development including 46 x one bedroom and 5 x two bedroom flats plus amendment to provide 2 additional units
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC005,223-225 Lewisham High Street,-0.01216,51.45842,http://www.lewisham.gov.uk/brownfieldregister,0.07,not owned by a public authority,,permissioned,full planning permission,25/03/2015,,,,yes,"
+13/085398 for mixed use development including 22 flats
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC006,37-43 Nightingale Grove (remainder of site),-0.00196,51.45192,http://www.lewisham.gov.uk/brownfieldregister,0.22,not owned by a public authority,,not permissioned,,,,,,,"
+Site Allocation SA35 for mixed use development including 30 residential units
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC008,35 Nightingale Grove,-0.00229,51.45229,http://www.lewisham.gov.uk/brownfieldregister,0.02,not owned by a public authority,,permissioned,full planning permission,21/07/2014,,,,yes,"
+13/084806 for mixed use development including 7 x one bedroom and 1 x two bedroom self-contained flats
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC009,"""323 Lewisham High Street, Ravensbourne Arms""",-0.01502,51.45544,http://www.lewisham.gov.uk/brownfieldregister,0.04,not owned by a public authority,,permissioned,full planning permission,24/08/2015,,,,yes,"
+14/088176 for residential development including 5 x one bedroom and 2 x  two bedroom self-contained flats
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC012,Rear of 101-103 Springbank Road,0.001719,51.44879,http://www.lewisham.gov.uk/brownfieldregister,0.09,not owned by a public authority,,permissioned,full planning permission,20/08/2015,,,,yes,"
+14/090373 for residential development including 6 x two bedroom houses
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC014,Robert Square Bonfield Road,-0.008621,51.46009,http://www.lewisham.gov.uk/brownfieldregister,0.26,not owned by a public authority,,permissioned,full planning permission,26/08/2016,,,,yes,"
+16/097298 for residential development including 3 x one bedroom flats
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC015,"""Lewisham Retail Park, east of Jerrard Street""",-0.01547,51.46512,http://www.lewisham.gov.uk/brownfieldregister,1.04,not owned by a public authority,,pending decision,full planning permission,18/10/2017,,,,yes,"
+16/097629 for mixed use development including 536 residential units
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC016,"""Tesco, Conington Road""",-0.013109,51.466615,http://www.lewisham.gov.uk/brownfieldregister,2.63,not owned by a public authority,,pending decision,full planning permission,,,,,yes,"
+Site Allocation LTC5 for mixed use development including 367 residential units
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC017,"""Carpet Right, east of Thurston Road""",-0.01407,51.46485,http://www.lewisham.gov.uk/brownfieldregister,0.28,not owned by a public authority,,pending decision,full planning permission,,,,,,"
+Site Allocation LTC4 for mixed use development including 242 residential units
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC018,"""PLACE/Ladywell, former Ladywell Leisure Centre (remainder of site)""",-0.01334,51.45635,http://www.lewisham.gov.uk/brownfieldregister,0.93,owned by a public authority,,not permissioned,,,,,,,"
+Site Allocation LTC7 for mixed use development including 120 residential units
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC019,"""Driving test centre, off Ennersdale Road""",-0.00396,51.45276,http://www.lewisham.gov.uk/brownfieldregister,0.41,not owned by a public authority,,not permissioned,,,,,,,"
+Site Allocation SA33 for mixed use development including 30 residential units
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC020,232 Hither Green Lane,-0.00585,51.4503,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,not permissioned,,,,,,,"
+""Lapsed 10/75392 for mixed use development including 4 x one bedroom, 1 x two bedroom and 1 x three bedroom self-contained flats""
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC021,"""St Mungos Hostel, Spring Gardens, Arlington Close""",-0.00483,51.4527,http://www.lewisham.gov.uk/brownfieldregister,0.96,owned by a public authority,,permissioned,full planning permission,25/09/2017,,,,yes,"
+17/102175 for residential development including 28 self-contained studio flats
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC022,1 Wearside Road,-0.01581,51.45704,http://www.lewisham.gov.uk/brownfieldregister,0.08,not owned by a public authority,,permissioned,full planning permission,06/10/2017,,,,yes,"
+""16/098097 for residential development including 1 x two bedroom wheelchair accessible bungalow, 2 x three storey, three bedroom houses plus 4 x two bedroom and 2 x one bedroom self-contained flats""
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC023,174-176 Lewisham High Street,-0.0114,51.46043,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,permissioned,planning permission granted under an order,13/02/2018,,,,yes,"
+17/105157 Prior approval for residential development including 6 residential units
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC024,19b Marischal Road,-0.00736,51.4624,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,permissioned,full planning permission,10/03/2017,,,,yes,"
+""16/098334 for residential development including 2 x two bedroom, 1 x three bedroom and 1  one bedroom self contained flats""
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LC025,Church Grove,-0.0182777,51.457743,http://www.lewisham.gov.uk/brownfieldregister,0.35,owned by a public authority,,permissioned,full planning permission,07/06/2018,,,,yes,"
+""17/104264 for mixed use development including self-build 13 x one bedroom, 10 x two bedroom, 2 x three bedroom flats and 5 x three bedroom and 3 x four bedroom houses""
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LD001,87-89 Loampit Vale,-0.01776,51.46477,http://www.lewisham.gov.uk/brownfieldregister,0.19,not owned by a public authority,,permissioned,full planning permission,11/04/2016,,,,yes,"
+15/93403 for residential development including 49 self-contained dwellings
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LD002,Land at 11 and 29 Embleton Road and 44 and 70 Algernon Road,-0.01913,51.46263,http://www.lewisham.gov.uk/brownfieldregister,0.45,owned by a public authority,,permissioned,full planning permission,11/06/2018,,,,yes,"
+18/105952 for residential development including 4 x three bedroom houses
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LG001,36 Old Road,0.005382,51.45737,http://www.lewisham.gov.uk/brownfieldregister,0.16,not owned by a public authority,,permissioned,full planning permission,13/11/2014,,,,yes,"
+14/087793 for residential development including 9 x four bedroom houses
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LG002,87 Old Road,0.005558,51.45823,http://www.lewisham.gov.uk/brownfieldregister,0.04,not owned by a public authority,,permissioned,full planning permission,24/09/2015,,,,yes,"
+""14/090064 for residential development including 4 x one bedroom,  2 x two bedroom and 3 x three bedroom self-contained flats""
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LG003,"""Garages at Woodstock Court, Burnt Ash Hill""",0.013903,51.44829,http://www.lewisham.gov.uk/brownfieldregister,0.36,not owned by a public authority,,permissioned,full planning permission,20/03/2017,,,,yes,"
+15/094702 for residential development including 8 x three bedroom dwellings
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LG004,"""Mayfields Hostel, 47 Burnt Ash Hill""",0.01499,51.45313,http://www.lewisham.gov.uk/brownfieldregister,0.08,owned by a public authority,,permissioned,full planning permission,02/08/2018,,,,yes,"
+""17/103886 for mixed use development including 24 x two bedroom, 16 three bedroomed self-contained flats and 7 x two storey houses""
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LG005,Leegate Shopping Centre,0.014424,51.4472,http://www.lewisham.gov.uk/brownfieldregister,0.49,not owned by a public authority,,pending decision,full planning permission,,,,,yes,"
+14/90032 for mixed use development including 229 residential units
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,LG006,"""Lee Green Estate, Cambridge Drive""",0.012387,51.45546,http://www.lewisham.gov.uk/brownfieldregister,1.9,not owned by a public authority,,permissioned,full planning permission,22/02/2018,,,,yes,"
+""15/092720 for residential development including 4 x one bedroom, 4 x two bedroom and 4 x three bedroom self-contained flats""
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX001,"""New Bermondsey, Surrey Canal Triangle""",-0.05105,51.48537,http://www.lewisham.gov.uk/brownfieldregister,10.16,not owned by a public authority,,permissioned,outline planning permission,30/03/2012,,,,yes,"
+""11/76357 for mixed use development including 2,365 residential units""
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX002,"""Faircharm Trading Estate, Creekside""",-0.02024,51.47746,http://www.lewisham.gov.uk/brownfieldregister,0.97,not owned by a public authority,,permissioned,full planning permission,15/10/2013,,,,yes,"
+""12/082000 for mixed use development including 63 x one-bedroom, 68 x two bedroom and 17 x 3 bedroom units""
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX003,"""New Cross Gate station sites,  29, 23-27 Goodwood Road""",-0.04005,51.47589,http://www.lewisham.gov.uk/brownfieldregister,0.61,not owned by a public authority,,not permissioned,,,,,,,"
+Site Allocation SA5 (Lapsed 11/77418) for mixed use development including 148 residential units
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX005,"""Bond House, Goodwood Road""",-0.03926,51.47629,http://www.lewisham.gov.uk/brownfieldregister,0.24,not owned by a public authority,,permissioned,full planning permission,29/06/2016,,,,yes,"
+14/090267 for mixed use development including 89 residential units
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX007,Roof extension at 110-114 Deptford High Street,-0.02558,51.47811,http://www.lewisham.gov.uk/brownfieldregister,0.1,not owned by a public authority,,not permissioned,,,,,,,"
+Lapsed 14/088107 for residential development including 2 x one bedroom and 3 x two bedroom flats
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX008,465 New Cross Road,-0.02869,51.47561,http://www.lewisham.gov.uk/brownfieldregister,0.04,not owned by a public authority,,permissioned,full planning permission,05/11/2013,,,,yes,"
+""11/78237 for mixed use development including 4 x one bedroom, 4 x two bedroom flats and 1 x two bedroom house""
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX009,"""Hatcham Works, New Cross Gate Retail Park/ Sainsbury, New Cross Road""",-0.042,51.47629,http://www.lewisham.gov.uk/brownfieldregister,3.67,mixed ownership,,not permissioned,,,,,,,"
+Site Allocation SA6 for mixed use development including 200 residential units
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX010,"""Sun Wharf, Cockpit Arts""",-0.02002,51.47867,http://www.lewisham.gov.uk/brownfieldregister,1,not owned by a public authority,,not permissioned,,,,,,,"
+Site Allocation SA11 for mixed use development including 200 residential units
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX011,"""Giffin St Masterplan Area, Former Tidemill School (north of Reginald Road and south of Frankham Street)""",-0.02407,51.47674,http://www.lewisham.gov.uk/brownfieldregister,1.25,mixed ownership,,permissioned,full planning permission,16/07/2018,,,,yes,"
+""16/095039 for residential development including 78 x one bedroom, 97 x two bedroom, 26 x three bedroom, 8 x four bedroom units""
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX012,"""Former Deptford Green Secondary School, Amersham Vale""",-0.03264,51.4794,http://www.lewisham.gov.uk/brownfieldregister,0.68,mixed ownership,,permissioned,full planning permission,16/07/2018,,,,yes,"
+15/095027 for residential development including 120 residential units
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX013,2 Hatcham Park Mews,-0.04578,51.47482,http://www.lewisham.gov.uk/brownfieldregister,0.04,not owned by a public authority,,not permissioned,,,,,,,"
+""Lapsed 08/68231 for residential development including 3 x one bedroom, 4 x two bedroom and 1 x three bedroom self-contained flats""
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX014,Rear of 104 Deptford High Street,-0.02541,51.47788,http://www.lewisham.gov.uk/brownfieldregister,0.02,not owned by a public authority,,not permissioned,,,,,,,"
+""Lapsed 08/68951 for mixed use development including  two x studio flats, 4 x one bedroom self-contained flats""
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX015,"""Thanet Wharf, Creekside Village East""",-0.01802,51.48041,http://www.lewisham.gov.uk/brownfieldregister,0.75,mixed ownership,,pending decision,full planning permission,,,,,yes,"
+Site Allocation SA12 for mixed use development including 226 residential units
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX016,54 Avonley Road,-0.04926,51.47979,http://www.lewisham.gov.uk/brownfieldregister,0.15,not owned by a public authority,,permissioned,full planning permission,20/04/2018,,,,yes,"
+17/103958 for residential development including 9 residential units
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,NX017,153 New Cross Road,-0.04648,51.47551,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,permissioned,full planning permission,08/11/2017,,,,yes,"
+17/099960 for residential development including 6 x two bedroom units and 2 x one bedroom self-contained units
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,PV002,31 Dacres Road,-0.05153,51.43461,http://www.lewisham.gov.uk/brownfieldregister,0.11,not owned by a public authority,,permissioned,full planning permission,10/06/2016,,,,yes,"
+15/092092 for residential development including 9 x two-bedroom self-contained flats.
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,PV004,"""Waldram Place & Perry Vale, east of the railway line""",-0.05255,51.43968,http://www.lewisham.gov.uk/brownfieldregister,0.2,not owned by a public authority,,not permissioned,,,,,,,"
+Site Allocation SA18 for mixed use development including 33 residential units
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,PV005,"""8, 10 and 12 Perry Vale""",-0.05187,51.43981,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,not permissioned,,,,,,,"
+Lapsed 11/78857 for residential development including 8 x1 bedroom self-contained flats
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,PV006,236-238 Stanstead Road,-0.03786,51.44201,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,not permissioned,,,,,,,"
+""Lapsed 09/73071 The change of use, alteration and conversion of the existing ground floor shops and upper floors at SE23, to provide 3 x one bedroom, 2 x two bedroom self-contained flats and 2 x studio flats""
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,RG002,16-22 Brownhill Road,-0.01704,51.44557,http://www.lewisham.gov.uk/brownfieldregister,0.1,not owned by a public authority,,permissioned,full planning permission,11/01/2016,,,,yes,"
+14/089404 for mixed use development including 9 x one bedroom and 10 x two bedroom self-contained flats
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,RG006,26-32 George Lane,-0.01407,51.45006,http://www.lewisham.gov.uk/brownfieldregister,0.12,not owned by a public authority,,permissioned,full planning permission,07/04/2016,,,,yes,"
+15/090510 for residential development including 5 x three bedroom houses and 1 x three bedroom house
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD001,"""St Clements Heights, 165 Wells Park Road""",-0.0725,51.43106,http://www.lewisham.gov.uk/brownfieldregister,2.17,not owned by a public authority,,permissioned,reserved matters approval,30/03/2015,,,,yes,"
+""14/090031 for residential development including 50 x one and two bedroom Almshouses, 20 x four bedroom dwelling-houses and 26 x two and three bedroom self-contained flats""
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD002,"""Regent Business Centre, 291-307 Kirkdale""",-0.05591,51.42753,http://www.lewisham.gov.uk/brownfieldregister,0.23,not owned by a public authority,,permissioned,planning permission granted under an order,10/02/2017,,,,yes,"
+""16/099465 Prior Approval for residential development including 14 x studio flats, 7 x one bedroom flats, 2 x two bedroom flats""
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD003,22A-24 Sydenham Road,-0.053402,51.426034,http://www.lewisham.gov.uk/brownfieldregister,0.12,not owned by a public authority,,permissioned,full planning permission,09/03/2011,,,,yes,"
+""09/72662 for mixed use development including 6 x one bedroom, 5 x two bedroom and 1 x three bedroom self-contained flats, 1 x one and 5 x three bedroom self-contained maisonettes""
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD004,154-158 Sydenham Road,-0.04504,51.4253,http://www.lewisham.gov.uk/brownfieldregister,0.06,not owned by a public authority,,not permissioned,,,,,,,"
+Lapsed 14/088852 for Prior Approval residential development including 9 x two-bedroom and 6 x one-bedroom flats
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD006,Workshop at rear of 171 Kirkdale,-0.0585,51.43075,http://www.lewisham.gov.uk/brownfieldregister,0.06,not owned by a public authority,,permissioned,full planning permission,18/07/2014,,,,yes,"
+14/086283 for residential development including 3 x two bedroom and 2 x two bedroom self-contained flats
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD007,Roof extension at 96a Sydenham Road,-0.04859,51.42551,http://www.lewisham.gov.uk/brownfieldregister,0.02,not owned by a public authority,,permissioned,full planning permission,18/11/2016,,,,yes,"
+16/098075 for mixed use development including 2 x two bedroom and 3 x one bedroom units
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD008,42 Sydenham Road,-0.05174,51.42581,http://www.lewisham.gov.uk/brownfieldregister,0.09,not owned by a public authority,,permissioned,planning permission granted under an order,31/01/2017,,,,yes,"
+16/099221 Prior Approval for residential development including 5 x one bedroom self-contained flats
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD009,169-171 Sydenham Road,-0.04636,51.4259,http://www.lewisham.gov.uk/brownfieldregister,0.03,not owned by a public authority,,not permissioned,,,,,,,"
+Lapsed 09/71367 for mixed use development including 3 x one bedroom and 3 x 2 bedroom flats
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD010,113 to 157 Sydenham Road,-0.04789,51.42607,http://www.lewisham.gov.uk/brownfieldregister,0.87,not owned by a public authority,,not permissioned,,,,,,,"
+Site Allocation SA22 for mixed use development including 98 residential units
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD011,31-61 Silverdale,-0.05355,51.42852,http://www.lewisham.gov.uk/brownfieldregister,0.12,owned by a public authority,,permissioned,full planning permission,09/05/2018,,,,yes,"
+18/106597 for residential development including 5 x three bed houses
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,SD012,138 Sydenham Road,-0.04574,51.42552,http://www.lewisham.gov.uk/brownfieldregister,0.02,not owned by a public authority,,permissioned,full planning permission,10/10/2017,,,,yes,"
+""17/101668 for residential development including 4 x one bedroom, 2 x two bedroom and 1 x three bedroom self-contained flats plus 2 x two-storey, one bedroom dwellings""
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH001,43-49 Pomeroy Street,-0.05227,51.47549,http://www.lewisham.gov.uk/brownfieldregister,0.21,not owned by a public authority,,permissioned,full planning permission,03/08/2016,,,,yes,"
+15/093731 for mixed use development including 65 residential units
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH003,"""Spalding House, Turnham Road""",-0.0414,51.45793,http://www.lewisham.gov.uk/brownfieldregister,0.09,mixed ownership,,permissioned,full planning permission,05/05/2016,,,,yes,"
+""15/94208 for residential development including 1 x one bedroomed, 2 x two bedroomed and 2x  three bedroomed flats""
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH004,"""New Cross Gate NDC scheme, Besson Street""",-0.049,51.4754,http://www.lewisham.gov.uk/brownfieldregister,1.01,owned by a public authority,,not permissioned,,,,,,,"
+Lapsed 08/68448 for mixed use development including 173 residential units
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH006,6 Mantle Road,-0.03799,51.46432,http://www.lewisham.gov.uk/brownfieldregister,0.12,not owned by a public authority,,not permissioned,,,,,,,"
+Site Allocation SA28 for mixed use development including 20 residential units
+",30/11/2017,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH007,173-175 Waller Road,-0.04714,51.46912,http://www.lewisham.gov.uk/brownfieldregister,0.05,not owned by a public authority,,not permissioned,,,,,,,"
+""Lapsed 09/73025 for residential development including 1 x studio, 2 x one bedroom and 1 x three bedroom self-contained flats, 2 x one bedroom and 1 x three bedroom self-contained maisonettes""
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH008,Rear of 122 New Cross Road,-0.04832,51.47571,http://www.lewisham.gov.uk/brownfieldregister,0.07,not owned by a public authority,,not permissioned,,,,,,,"
+Lapsed 10/73432 for mixed use development including 5 x two bedroom self-contained maisonettes
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH009,"""Wellington Close, Somerville Estate""",-0.04996,51.47181,http://www.lewisham.gov.uk/brownfieldregister,0.47,owned by a public authority,,permissioned,full planning permission,02/02/2018,,,,yes,"
+DC/17/104189 for residential development including 20 x flats and 3 x three bedroom 2 storey houses
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH010,1 Avignon Road,-0.0433,51.46399,http://www.lewisham.gov.uk/brownfieldregister,0.09,not owned by a public authority,,permissioned,full planning permission,12/10/2017,,,,yes,"
+""17/102552 for residential development including 1 x one bedroom, 5 x  two bedroom and 1 x three bedroom self-contained flats""
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,TH011,"""Garages At Crossway Court, Endwell Road""",-0.03904,51.46836,http://www.lewisham.gov.uk/brownfieldregister,0.12,owned by a public authority,,permissioned,full planning permission,03/04/2018,,,,yes,"
+""17/105055 for residential development including 2 x one bedroom, 2 x two bedroom and 5 x three bedroom self contained units""
+",22/10/2018,,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,WF001,"""Excalibur Estate, Baudwin Road""",-0.00074,51.43528,http://www.lewisham.gov.uk/brownfieldregister,6.12,mixed ownership,,permissioned,full planning permission,30/03/2012,,,,yes,"
+10/75973 for residential development including 371 residential units
+",30/11/2017,22/10/2018,
+http://opendatacommunities.org/id/london-borough-council/lewisham,London Borough of Lewisham,WF002,"""Adj. to Foster House, Whitefoot Lane""",-0.00531,51.43029,http://www.lewisham.gov.uk/brownfieldregister,0.65,not owned by a public authority,,permissioned,full planning permission,12/08/2016,,,,yes,"
+15/091734 for residential development including 9 x one bedroom and 13 x two bedroom self-contained flats
+",30/11/2017,,

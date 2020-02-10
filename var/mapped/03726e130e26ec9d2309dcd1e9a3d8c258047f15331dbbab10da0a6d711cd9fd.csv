@@ -1,56 +1,156 @@
 OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-E06000041,Wokingham Borough Council,BR024,"Elms Field & The Paddocks, Elms Rd, Wokingham",480928,168468,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,6.6532892,not owned by a public authority,,permissioned,full planning permission,2016-03-30,153125,,,Yes,,2017-08-18,2018-12-10,
-E06000041,Wokingham Borough Council,BR058,Cyber House 2 Molly Millars Lane Wokingham Berkshire RG41 2PX,480564,167874,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.1990258,not owned by a public authority,,permissioned,full planning permission,2016-08-16,161689,,,Yes,,2017-08-18,2018-12-10,
-E06000041,Wokingham Borough Council,BR063,Nigra Building Mulberry Business Park Fishponds Road RG41 2GY,480214,167742,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.5472566,not owned by a public authority,,permissioned,full planning permission,2016-07-20,161809,,,Yes,,2017-08-18,2018-12-10,
-E06000041,Wokingham Borough Council,BR069,Nigra Building Mulberry Business Park Fishponds Road Wokingham RG41 2GY .,480212,167746,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.6248813,not owned by a public authority,,permissioned,full planning permission,2017-02-27,162051,,,Yes,,2017-11-29,2018-12-10,
-E06000041,Wokingham Borough Council,BR071,"North Wokingham - Matthewsgreen Farm, Phase 2b",480199,170379,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,3.5924144,not owned by a public authority,,permissioned,Reserved Matters Approval,2016-11-14,162140,,,Yes,,2017-08-18,2018-12-10,
-E06000041,Wokingham Borough Council,BR076,Rosa Building Mulberry Business Park Fishponds Wokingham Berkshire RG41 2GY,480084,167697,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.4025304,not owned by a public authority,,permissioned,full planning permission,2016-09-13,162289,,,Yes,,2017-08-18,2018-12-10,
-E06000041,Wokingham Borough Council,BR077,Ilex House Fishponds Road Wokingham Berkshire RG41 2GY,480111,167646,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.5056506,not owned by a public authority,,permissioned,full planning permission,2016-09-21,162421,,,Yes,,2017-08-18,2018-12-10,
-E06000041,Wokingham Borough Council,BR078,21-26 Tape Lane Hurst RG10 0DP .,479701,173752,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.3676262,not owned by a public authority,,permissioned,full planning permission,2016-12-06,162529,,,Yes,,2017-08-18,2018-12-10,
-E06000041,Wokingham Borough Council,BR104,"North Wokingham - Matthewsgreen Farm, Phase 3",480318,170258,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,5.358968,not owned by a public authority,,permissioned,Reserved Matters Approval,2017-07-17,170618,,,Yes,,2017-08-18,2018-12-10,
-E06000041,Wokingham Borough Council,BR156,"Land at Market Place, Peach St & Rose St, Wokingham",481295,168630,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.0663726,not owned by a public authority,,permissioned,full planning permission,2015-03-05,F/2014/2637,,,Yes,,2017-08-18,2018-12-10,
-E06000041,Wokingham Borough Council,BR175,"Land At The Manor, Brookers Hill Shinfield Reading RG2 9BX",473023,168400,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,4.4596047,not owned by a public authority,,permissioned,Reserved Matters Approval,2017-06-30,RM/2014/2062,,,Yes,,2017-08-18,2018-12-10,
-E06000041,Wokingham Borough Council,BR191,"Land At, Arborfield Garrison Biggs Lane  -Parcel K",476653,165499,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.4845755,not owned by a public authority,,permissioned,Reserved Matters Approval,2018-04-11,173734,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR192,"Land At, Arborfield Garrison Biggs Lane Arborfield - (Parcel Q)",476769,164956,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,2.584773,not owned by a public authority,,permissioned,Reserved Matters Approval,2018-01-22,172005,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR193,"Land At, Arborfield Garrison Biggs Lane Arborfield -Parcel U2",477227,165803,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,2.8068251,not owned by a public authority,,permissioned,Reserved Matters Approval,2017-08-09,171333,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR194,"Land At, Arborfield Garrison Biggs Lane Arborfield - Parcel H, I and J",476525,164913,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,8.9807685,not owned by a public authority,,permissioned,Reserved Matters Approval,2017-07-25,170686,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR195,"Sutton Court, Culver Lane, Earley",474535,173074,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.8208384,not owned by a public authority,,permissioned,full planning permission,2013-06-21,F/2013/0517,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR196,"15-27 High Street, Wargrave, RG10 8BU",478617,178790,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.2888888,not owned by a public authority,,permissioned,full planning permission,2017-08-10,171328,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR197,"Former Bearwood Golf Course, Mole Rd, Sindlesham",477178,168810,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,48.195304,not owned by a public authority,,permissioned,full planning permission,2015-07-20,F/2014/2119,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR198,74-80 Peach Street Wokingham RG40 1XH,481455,168707,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.1840316,not owned by a public authority,,permissioned,full planning permission,2015-01-30,F/2014/1317,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR199,7-9 Shute End Wokingham RG40 1BH,480970,168746,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.9064435,not owned by a public authority,,permissioned,full planning permission,2017-08-09,171648,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR200,"7-9 Wiltshire Road, RG40 1TP",481518,168990,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.3828854,not owned by a public authority,,permissioned,full planning permission,2015-12-24,152192,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR201,"Carnival Pool, Wellington Rd, Wokingham",480889,168280,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,2.1620235,not owned by a public authority,,permissioned,full planning permission,2018-02-02,172012,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR202,Hewden Plant Hire Old Forest Road Wokingham RG41 1HY,479237,169951,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.7942108,not owned by a public authority,,permissioned,full planning permission,2017-05-18,163058,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR203,134-146 London Road Twyford RG10 9HJ,479465,176780,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.6319767,not owned by a public authority,,permissioned,full planning permission,2017-08-15,161845,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR204,Valley Nurseries Whistley Green Hurst RG10 0DX,479414,174023,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.0782996,not owned by a public authority,,permissioned,full planning permission,2017-08-15,162219 (SA104),,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR205,58 Hurst Road Twyford Reading RG10 0AN,479059,175361,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.6940669,not owned by a public authority,,permissioned,full planning permission,2015-04-02,F/2014/2353,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR206,Land adj to Norton Road Wokingham Berkshire RG40 2BD,481066,168226,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.1395096,not owned by a public authority,,permissioned,full planning permission,2016-10-07,150066,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR207,"UoR Bulmershe Campus, Woodlands Ave, (phase 2) RG5 4BJ",474974,172859,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,8.8437125,not owned by a public authority,,permissioned,full planning permission,2014-10-17,F/2014/0875,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR208,"Marlborough House, Basingstoke Rd, Spencers Wood. RG7 1AE",471536,166733,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.1598035,not owned by a public authority,,permissioned,full planning permission,2016-03-15,OFF/2013/2477 + 153258,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR209,"81-109 Crockhamwell Road, Woodley, RG5 3JP",476114,173214,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.1032181,not owned by a public authority,,permissioned,full planning permission,2018-03-28,180184,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR210,Riseley Business Park Basingstoke Road Riseley Reading RG7 1NW,472255,163340,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.7754805,not owned by a public authority,,permissioned,full planning permission,2016-05-27,161065,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR211,"Waterloo House, Riseley Business Park Basingstoke Road Riseley RG71QF",472228,163287,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,4.7039841,not owned by a public authority,,permissioned,full planning permission,2016-06-21,161444,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR212,498 Reading Road Winnersh Berkshire RG41 5EX,477600,170891,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,9.777077,not owned by a public authority,,permissioned,Other,2017-11-03,172734,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR213,"12 Oaklands Business Centre, Oaklands Park Wokingham RG412FD",480088,167442,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.2115413,not owned by a public authority,,permissioned,full planning permission,2017-08-29,172050,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR214,Crown House Toutley Industrial Estate RG41 1QN,480065,170571,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.1548286,not owned by a public authority,,permissioned,full planning permission,2017-03-09,170415,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR215,Crown House Toutley Industrial Estate RG41 1QN,480065,170571,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.1548124,not owned by a public authority,,permissioned,full planning permission,2016-12-01,163140,,,Yes,,2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR024,"Elms Field & The Paddocks, Elms Rd, Wokingham",480928,168468,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,6.6532892,not owned by a public authority,,permissioned,full planning permission,2016-03-30,153125,,,Yes,"
+Full application for the erection of mixed use development for Town Centre uses and 126 residential units
+",2017-08-18,2018-12-10,
+E06000041,Wokingham Borough Council,BR058,Cyber House 2 Molly Millars Lane Wokingham Berkshire RG41 2PX,480564,167874,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.1990258,not owned by a public authority,,permissioned,full planning permission,2016-08-16,161689,,,Yes,"
+Prior approval submission for the conversion of existing offices (Use Class B1(a)) to 65no residential flats (10no studio and 55no one bedroom)(Use Class C3).
+",2017-08-18,2018-12-10,
+E06000041,Wokingham Borough Council,BR063,Nigra Building Mulberry Business Park Fishponds Road RG41 2GY,480214,167742,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.5472566,not owned by a public authority,,permissioned,full planning permission,2016-07-20,161809,,,Yes,"
+Prior approval submission for the conversion of existing office (Use Class B1(a)) to 42no residential apartments (Use Class C3).
+",2017-08-18,2018-12-10,
+E06000041,Wokingham Borough Council,BR069,Nigra Building Mulberry Business Park Fishponds Road Wokingham RG41 2GY .,480212,167746,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.6248813,not owned by a public authority,,permissioned,full planning permission,2017-02-27,162051,,,Yes,"
+Full application for the proposed raising of roof height to create a new second floor extension to create 9no self contained residential apartments including a communal garden and upgraded cycle storage and refuse facilities.
+",2017-11-29,2018-12-10,
+E06000041,Wokingham Borough Council,BR071,"North Wokingham - Matthewsgreen Farm, Phase 2b",480199,170379,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,3.5924144,not owned by a public authority,,permissioned,Reserved Matters Approval,2016-11-14,162140,,,Yes,"
+Reserved Matters application pursuant to Outline planning consent O/2014/2242 for Phase 2b of the development involving the erection of 73 residential dwellings
+",2017-08-18,2018-12-10,
+E06000041,Wokingham Borough Council,BR076,Rosa Building Mulberry Business Park Fishponds Wokingham Berkshire RG41 2GY,480084,167697,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.4025304,not owned by a public authority,,permissioned,full planning permission,2016-09-13,162289,,,Yes,"
+Prior approval submission for the conversion of existing office (Use Class B1(a)) to 33no residential apartments (Use Class C3).
+",2017-08-18,2018-12-10,
+E06000041,Wokingham Borough Council,BR077,Ilex House Fishponds Road Wokingham Berkshire RG41 2GY,480111,167646,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.5056506,not owned by a public authority,,permissioned,full planning permission,2016-09-21,162421,,,Yes,"
+Prior approval submission for the conversion of existing office (Use Class B1(a)) to 45no residential apartments (Use Class C3).
+",2017-08-18,2018-12-10,
+E06000041,Wokingham Borough Council,BR078,21-26 Tape Lane Hurst RG10 0DP .,479701,173752,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.3676262,not owned by a public authority,,permissioned,full planning permission,2016-12-06,162529,,,Yes,"
+Full application for the proposed erection of 11no dwellings with associated access, car parking, landscaping and drainage following demolition of existing semi-detached bungalows.
+",2017-08-18,2018-12-10,
+E06000041,Wokingham Borough Council,BR104,"North Wokingham - Matthewsgreen Farm, Phase 3",480318,170258,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,5.358968,not owned by a public authority,,permissioned,Reserved Matters Approval,2017-07-17,170618,,,Yes,"
+Reserved Matters application pursuant to Outline planning consent O/2014/2242  for 74 dwellings
+",2017-08-18,2018-12-10,
+E06000041,Wokingham Borough Council,BR156,"Land at Market Place, Peach St & Rose St, Wokingham",481295,168630,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.0663726,not owned by a public authority,,permissioned,full planning permission,2015-03-05,F/2014/2637,,,Yes,"
+Full application for part redevelopment and part retention and refurbishment of existing buildings to provide a mixed use development for town centre uses including 26 residential units
+",2017-08-18,2018-12-10,
+E06000041,Wokingham Borough Council,BR175,"Land At The Manor, Brookers Hill Shinfield Reading RG2 9BX",473023,168400,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,4.4596047,not owned by a public authority,,permissioned,Reserved Matters Approval,2017-06-30,RM/2014/2062,,,Yes,"
+Reserved Matters application pursuant to planning consent VAR/2013/0602 for a development of 126 dwellings, a sports pavilion, public open space, landscaping and associated works. This application comprises details of appearance, landscaping, layout and s cale.
+",2017-08-18,2018-12-10,
+E06000041,Wokingham Borough Council,BR191,"Land At, Arborfield Garrison Biggs Lane  -Parcel K",476653,165499,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.4845755,not owned by a public authority,,permissioned,Reserved Matters Approval,2018-04-11,173734,,,Yes,"
+Application for approval of Reserved Matters pursuant to Outline Planning Consent O/2014/2280 for 12 dwellings with access from Sheerlands Road, with associated internal access roads, parking, landscaping and open space, footpaths/cycleway, Sustainable Urban Drainage (SuDs) (Parcel K) (Appearance, Landscaping, Layout and scale to be considered)
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR192,"Land At, Arborfield Garrison Biggs Lane Arborfield - (Parcel Q)",476769,164956,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,2.584773,not owned by a public authority,,permissioned,Reserved Matters Approval,2018-01-22,172005,,,Yes,"
+Application for the Reserved Matters for the erection of 114 dwellings
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR193,"Land At, Arborfield Garrison Biggs Lane Arborfield -Parcel U2",477227,165803,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,2.8068251,not owned by a public authority,,permissioned,Reserved Matters Approval,2017-08-09,171333,,,Yes,"
+Application for approval of Reserved Matters pursuant to Outline Planning Consent O/2014/2280 for 79 dwellings
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR194,"Land At, Arborfield Garrison Biggs Lane Arborfield - Parcel H, I and J",476525,164913,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,8.9807685,not owned by a public authority,,permissioned,Reserved Matters Approval,2017-07-25,170686,,,Yes,"
+Reserved Matters application pursuant to Outline Planning Consent O/2014/2280 for the erection of 179 dwellings
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR195,"Sutton Court, Culver Lane, Earley",474535,173074,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.8208384,not owned by a public authority,,permissioned,full planning permission,2013-06-21,F/2013/0517,,,Yes,"
+Proposed demolition of existing block of flats and erection of 20 dwelling houses with access, parking and landscaping.
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR196,"15-27 High Street, Wargrave, RG10 8BU",478617,178790,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.2888888,not owned by a public authority,,permissioned,full planning permission,2017-08-10,171328,,,Yes,"
+Full planning application for demolition of existing car showroom, repair/MOT garage plus ""Suncroft"" dwelling and proposed erection of 10 dwellings with provision of car-parking, private amenity space, bin and bicycle storage.
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR197,"Former Bearwood Golf Course, Mole Rd, Sindlesham",477178,168810,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,48.195304,not owned by a public authority,,permissioned,full planning permission,2015-07-20,F/2014/2119,,,Yes,"
+Full application for the redevelopment of Former Bearwood Golf Course to provide a new football training ground and academy facility & 18 net residential units
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR198,74-80 Peach Street Wokingham RG40 1XH,481455,168707,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.1840316,not owned by a public authority,,permissioned,full planning permission,2015-01-30,F/2014/1317,,,Yes,"
+Proposed demolition of existing building (comprising office, retail and residential floorspace) and erection of a new building comprising 140 sq m retail floorspace on ground level, and 39 residential units
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR199,7-9 Shute End Wokingham RG40 1BH,480970,168746,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.9064435,not owned by a public authority,,permissioned,full planning permission,2017-08-09,171648,,,Yes,"
+Full application for the change of use from bed and breakfast (Use Class C1) to a residential hostel (Sui Generis) with 10 no self- contained units including changes to fenestration and internal refurbishment.
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR200,"7-9 Wiltshire Road, RG40 1TP",481518,168990,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.3828854,not owned by a public authority,,permissioned,full planning permission,2015-12-24,152192,,,Yes,"
+Demolition of existing buildings and erection of a block of 33 sheltered apartments for the elderly; construction of basement parking and surface parking spaces; associated integral refuse bin store, electric pavement car store and cycle store; modification of existing access.
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR201,"Carnival Pool, Wellington Rd, Wokingham",480889,168280,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,2.1620235,not owned by a public authority,,permissioned,full planning permission,2018-02-02,172012,,,Yes,"
+Full planning application for the redevelopment of the Carnival Pool site to create leisure led development as part of the regeneration of Wokingham town centre. The proposals include the demolition of all existing buildings on site and the construction of: a leisure centre (use class D2); library (use class D1); restaurant (use class A3); commercial unit for non-residential institution or assembly and leisure use (use classes D1 or D2); 55 dwellings (use class C3); pedestrian and vehicular access including a pedestrian boulevard and realignment of Wellington Road; car parking; hard and soft landscaping; realignment of an existing footpath; drainage and
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR202,Hewden Plant Hire Old Forest Road Wokingham RG41 1HY,479237,169951,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.7942108,not owned by a public authority,,permissioned,full planning permission,2017-05-18,163058,,,Yes,"
+Full application for proposed erection of 43 dwellings (7 x 1 bedroom apartments, 11 x 2 bedroom apartments, 17 x 3 bedroom houses and 8 x 4 bedroom houses) together with associated access improvements, parking and refuse storage following the demolition of existing buildings.
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR203,134-146 London Road Twyford RG10 9HJ,479465,176780,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.6319767,not owned by a public authority,,permissioned,full planning permission,2017-08-15,161845,,,Yes,"
+Full application for the erection of 31 two bedroom apartments with associated communal areas, landscaping and parking (C3 residential use).
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR204,Valley Nurseries Whistley Green Hurst RG10 0DX,479414,174023,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.0782996,not owned by a public authority,,permissioned,full planning permission,2017-08-15,162219 (SA104),,,Yes,"
+Full planning application for the proposed erection of 16 no. dwellings with garages and parking spaces with new access to Whistley Green following demolition of derelict greenhouses.
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR205,58 Hurst Road Twyford Reading RG10 0AN,479059,175361,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.6940669,not owned by a public authority,,permissioned,full planning permission,2015-04-02,F/2014/2353,,,Yes,"
+Proposed erection of 12no dwellings ( including 4no affordable dwellings ) with access, parking, open space and landscaping.
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR206,Land adj to Norton Road Wokingham Berkshire RG40 2BD,481066,168226,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.1395096,not owned by a public authority,,permissioned,full planning permission,2016-10-07,150066,,,Yes,"
+Full application for the proposed erection of 6no two bedroom flats and 3no two bedroom terraced houses including demolition of existing light industrial unit.
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR207,"UoR Bulmershe Campus, Woodlands Ave, (phase 2) RG5 4BJ",474974,172859,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,8.8437125,not owned by a public authority,,permissioned,full planning permission,2014-10-17,F/2014/0875,,,Yes,"
+Proposed erection of 68 dwellings with associated roads, parking, amenity space, landscaping and creation of new access onto Loddon Bridge Road.
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR208,"Marlborough House, Basingstoke Rd, Spencers Wood. RG7 1AE",471536,166733,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.1598035,not owned by a public authority,,permissioned,full planning permission,2016-03-15,OFF/2013/2477 + 153258,,,Yes,"
+Full application for the proposed conversion, alteration and extension of existing office building to provide 15 flats ( 12no 1bed, & 3no 2beds)
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR209,"81-109 Crockhamwell Road, Woodley, RG5 3JP",476114,173214,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.1032181,not owned by a public authority,,permissioned,full planning permission,2018-03-28,180184,,,Yes,"
+Prior approval submission for the conversion of part of first floor of existing offices (Use Class B1(a)) to 8no residential units (Use Class C3).
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR210,Riseley Business Park Basingstoke Road Riseley Reading RG7 1NW,472255,163340,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.7754805,not owned by a public authority,,permissioned,full planning permission,2016-05-27,161065,,,Yes,"
+Prior approval submission for the conversion of 3no existing office buildings (Use Class B1(a)) to 47no residential apartments (Use Class C3).
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR211,"Waterloo House, Riseley Business Park Basingstoke Road Riseley RG71QF",472228,163287,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,4.7039841,not owned by a public authority,,permissioned,full planning permission,2016-06-21,161444,,,Yes,"
+Prior approval submission for the conversion of existing office building (Use Class B1(a)) to 10no residential apartments (Use Class C3).
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR212,498 Reading Road Winnersh Berkshire RG41 5EX,477600,170891,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,9.777077,not owned by a public authority,,permissioned,Other,2017-11-03,172734,,,Yes,"
+Prior approval for proposed change of use from Offices to 8 residential apartments.
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR213,"12 Oaklands Business Centre, Oaklands Park Wokingham RG412FD",480088,167442,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.2115413,not owned by a public authority,,permissioned,full planning permission,2017-08-29,172050,,,Yes,"
+Prior approval submission for the conversion of existing office building (Use Class B1(a)) to 18no residential apartments (Use Class C3).
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR214,Crown House Toutley Industrial Estate RG41 1QN,480065,170571,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.1548286,not owned by a public authority,,permissioned,full planning permission,2017-03-09,170415,,,Yes,"
+Notification for prior approval for the proposed change of use from office (B1) to Residential (C3) use for 24 residential apartments.
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR215,Crown House Toutley Industrial Estate RG41 1QN,480065,170571,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.1548124,not owned by a public authority,,permissioned,full planning permission,2016-12-01,163140,,,Yes,"
+Prior approval submission for the conversion of existing offices (use class B1 (a)) to 22 x 1 bedroom flats (use class C3)
+",2018-04-01,2018-12-10,
 E06000041,Wokingham Borough Council,BR217,"Baileys House Central Walk
 Wokingham 
-RG40 1AZ",481163,168668,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,9.1597078,not owned by a public authority,,permissioned,full planning permission,2018-03-09,172772,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR218,Quoin House Fishponds Road RG41 2QJ,480370,167916,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.3469857,not owned by a public authority,,permissioned,full planning permission,2018-02-27,180318,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR219,"Loddon Vale House, Hurricane Way, Woodley RG5 4UX",477341,173430,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,4.4580278,not owned by a public authority,,permissioned,full planning permission,2017-09-15,172171,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR220,"North Wokingham - Matthewsgreen Farm, Phase 4",480475,169968,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,10.030157,not owned by a public authority,,permissioned,Reserved Matters Approval,2017-02-14,172751,,,Yes,,2018-04-01,2018-12-10,
+RG40 1AZ",481163,168668,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,9.1597078,not owned by a public authority,,permissioned,full planning permission,2018-03-09,172772,,,Yes,"
+Prior approval for proposed change of use from Offices to 8 residential dwelling units.
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR218,Quoin House Fishponds Road RG41 2QJ,480370,167916,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.3469857,not owned by a public authority,,permissioned,full planning permission,2018-02-27,180318,,,Yes,"
+Prior approval submission for the conversion of existing offices (use class B1 (a)) to 23 apartments (use class C3)
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR219,"Loddon Vale House, Hurricane Way, Woodley RG5 4UX",477341,173430,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,4.4580278,not owned by a public authority,,permissioned,full planning permission,2017-09-15,172171,,,Yes,"
+Prior approval submission for the conversion of existing offices to 10 residential units.
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR220,"North Wokingham - Matthewsgreen Farm, Phase 4",480475,169968,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,10.030157,not owned by a public authority,,permissioned,Reserved Matters Approval,2017-02-14,172751,,,Yes,"
+Application for the approval of Reserved Matters pursuant to Outline planning consent O/2014/2242 for the erection of 253 residential dwellings
+",2018-04-01,2018-12-10,
 E06000041,Wokingham Borough Council,BR221,"Land At, Arborfield Garrison Biggs Lane Arborfield 
-Parcel A-G",476418,165116,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,10.76087,not owned by a public authority,,permissioned,Reserved Matters Approval,2016-11-23,161747,,,Yes,,2018-04-01,2018-12-10,
+Parcel A-G",476418,165116,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,10.76087,not owned by a public authority,,permissioned,Reserved Matters Approval,2016-11-23,161747,,,Yes,"
+Application for Reserved Matters for the erection of 223 dwellings
+",2018-04-01,2018-12-10,
 E06000041,Wokingham Borough Council,BR222,"Land At, Arborfield Garrison Biggs Lane Arborfield 
-Parcel T",477724,165841,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,6.4022469,not owned by a public authority,,permissioned,Reserved Matters Approval,2016-09-14,161536,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR223,"North Wokingham - Matthewsgreen Farm, Phase 2a",480608,170188,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,4.6604524,not owned by a public authority,,permissioned,Reserved Matters Approval,2016-08-01,160765,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR224,S of M4 - Land North Of Hyde End Road Hyde End Road Shinfield RG2 9EP,472472,166621,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.6624331,not owned by a public authority,,permissioned,Reserved Matters Approval,2017-08-15,161255,,,Yes,,2018-04-01,2018-12-10,
+Parcel T",477724,165841,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,6.4022469,not owned by a public authority,,permissioned,Reserved Matters Approval,2016-09-14,161536,,,Yes,"
+Application for Reserved Matters for the erection of 127 dwellings
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR223,"North Wokingham - Matthewsgreen Farm, Phase 2a",480608,170188,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,4.6604524,not owned by a public authority,,permissioned,Reserved Matters Approval,2016-08-01,160765,,,Yes,"
+Reserved Matters application pursuant to Outline planning consent O/2014/2242 for Phase 2a development involving the erection of 82 residential dwellings
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR224,S of M4 - Land North Of Hyde End Road Hyde End Road Shinfield RG2 9EP,472472,166621,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.6624331,not owned by a public authority,,permissioned,Reserved Matters Approval,2017-08-15,161255,,,Yes,"
+Full application for the proposed erection of 32no dwellings with associated vehicular access, parking and landscaping.
+",2018-04-01,2018-12-10,
 E06000041,Wokingham Borough Council,BR225,"Land At, Arborfield Garrison Biggs Lane Arborfield 
-Parcel O1",477522,165801,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,5.0545323,not owned by a public authority,,permissioned,Reserved Matters Approval,2015-11-26,150162,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR226,"S of M4 - North of Cutbush Lane, Shinfield",473634,168773,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,7.9667758,not owned by a public authority,,permissioned,Reserved Matters Approval,2015-06-24,RM/2014/2561,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR227,Unit 3 Cutbush Court Danehill RG6 4UW .,474560,169661,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.9870454,not owned by a public authority,,permissioned,full planning permission,2017-02-28,170086,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR228,"Wellington House, Riseley Business Park Basingstoke Road Riseley RG71QF",472223,163307,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,3.5669308,not owned by a public authority,,permissioned,full planning permission,2016-06-21,161442,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR229,Kingsbridge House Wargrave Road Twyford RG10 9NY,478735,176036,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,7.1530663,owned by a public authority,,permissioned,full planning permission,2017-03-23,163224,,,Yes,,2018-04-01,2018-12-10,
-E06000041,Wokingham Borough Council,BR230,70A Waterloo Road Wokingham RG40 2JL,482513,168164,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.046368,not owned by a public authority,,permissioned,full planning permission,2017-11-02,163387,,,Yes,,2018-04-01,2018-12-10,
+Parcel O1",477522,165801,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,5.0545323,not owned by a public authority,,permissioned,Reserved Matters Approval,2015-11-26,150162,,,Yes,"
+Reserved Matters application for the erection of 113 dwellings
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR226,"S of M4 - North of Cutbush Lane, Shinfield",473634,168773,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,7.9667758,not owned by a public authority,,permissioned,Reserved Matters Approval,2015-06-24,RM/2014/2561,,,Yes,"
+Reserved Matters application pursuant to Outline Planning Consent O/2013/0101for a residential development comprising up to 126 dwellings
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR227,Unit 3 Cutbush Court Danehill RG6 4UW .,474560,169661,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.9870454,not owned by a public authority,,permissioned,full planning permission,2017-02-28,170086,,,Yes,"
+Prior approval submission for the conversion of existing office building (Use Class B1(a)) to 6no 1 bedroom residential flats (Use Class C3).
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR228,"Wellington House, Riseley Business Park Basingstoke Road Riseley RG71QF",472223,163307,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,3.5669308,not owned by a public authority,,permissioned,full planning permission,2016-06-21,161442,,,Yes,"
+Prior approval submission for the conversion of existing office building (Use Class B1(a)) to 9no residential apartments (Use Class C3).
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR229,Kingsbridge House Wargrave Road Twyford RG10 9NY,478735,176036,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,7.1530663,owned by a public authority,,permissioned,full planning permission,2017-03-23,163224,,,Yes,"
+Full Planning application for alterations to existing roof structure, facades and ground floor. Change of use on ground and first floor form offices and second floor from single flat to 8 self- contained apartments(C3 use).
+",2018-04-01,2018-12-10,
+E06000041,Wokingham Borough Council,BR230,70A Waterloo Road Wokingham RG40 2JL,482513,168164,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.046368,not owned by a public authority,,permissioned,full planning permission,2017-11-02,163387,,,Yes,"
+Full application for the proposed erection of 7no dwellings following demolition of existing dwelling.
+",2018-04-01,2018-12-10,

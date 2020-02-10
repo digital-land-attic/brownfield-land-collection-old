@@ -1,57 +1,163 @@
 OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-E06000041,Wokingham Borough Council,BR007,Hall Farm Church Lane Arborfield RG2 9HX,-1422222.24,6074582.48,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.38,not owned by a public authority,,permissioned,full planning permission,26/05/2016,,2,2,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR011,Oakley Farm Pound Lane Hurst RG10 0RS,-1478586.69,5926846.72,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,2.29,not owned by a public authority,,permissioned,full planning permission,11/07/2016,,1,1,Yes,,18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR007,Hall Farm Church Lane Arborfield RG2 9HX,-1422222.24,6074582.48,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.38,not owned by a public authority,,permissioned,full planning permission,26/05/2016,,2,2,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR011,Oakley Farm Pound Lane Hurst RG10 0RS,-1478586.69,5926846.72,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,2.29,not owned by a public authority,,permissioned,full planning permission,11/07/2016,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
 E06000041,Wokingham Borough Council,BR012,"Lambda Cottage Wick Hill
 Lane Finchampstead
-RG40 3SR",-1418754.86,6068579.38,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.28,not owned by a public authority,,permissioned,full planning permission,11/09/2016,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR018,Bell House Park Place Kentons Lane RG10 9HT,-1413731.65,6085370.05,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.25,not owned by a public authority,,permissioned,full planning permission,06/12/2016,,4,4,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR020,"The Bungalow, Henley Road",-1414265.75,6083512.63,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.44,not owned by a public authority,,permissioned,full planning permission,09/03/2016,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR024,"Elms Field & The Paddocks, Elms Rd, Wokingham",-1416370.23,6072375.51,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,6.7,not owned by a public authority,,permissioned,full planning permission,06/04/2016,,126,126,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR025,Arcadia Loddon Drive Wargrave RG10 8HH,-1415487.93,6083416.84,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.53,not owned by a public authority,,permissioned,full planning permission,17/03/2016,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR028,"Garth House, 53 Denmark Street, Wokingham",-1416228.02,6072321.3,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,,not owned by a public authority,,permissioned,other,05/02/2016,,6,6,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR033,Strowdes Upper Culham Lane Remenham Berkshire RG10 8NU,-1412988.13,6085947.21,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,2.47,not owned by a public authority,,permissioned,full planning permission,05/07/2016,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR034,Thatchers Mead Thames Drive Charvil RG10 9TP,-1416859.3,6082435.75,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.34,not owned by a public authority,,permissioned,full planning permission,15/04/2016,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR046,Riseley Business Park Basingstoke Road Riseley Reading RG7 1NW,-1426878.3,6071161.41,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,,not owned by a public authority,,permissioned,other,27/05/2016,,26,26,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR047,St John's Church Church Road Farley Hill,-1423649.52,6070908.43,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.27,not owned by a public authority,,permissioned,full planning permission,04/07/2016,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR050,86 Loddon Bridge Road Woodley Reading RG5 4AN,-1423649.52,6070908.43,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.53,not owned by a public authority,,permissioned,full planning permission,15/11/2016,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR056,42 Danywern Drive Winnersh Wokingham RG41 5PA,-1417665.6,6075578.38,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.75,not owned by a public authority,,permissioned,full planning permission,17/08/2016,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR058,Cyber House 2 Molly Millars Lane Wokingham Berkshire RG41 2PX,-1417032.57,6072034.11,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,,not owned by a public authority,,permissioned,other,16/08/2016,,65,65,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR061,50 London Road Twyford Wokingham RG10 9EU,-1415074.76,6080570.44,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.215,not owned by a public authority,,permissioned,outline planning permission,13/06/2017,,6,6,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR063,Nigra Building Mulberry Business Park Fishponds Road,-1417377.57,6072093.24,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,,not owned by a public authority,,permissioned,other,20/07/2016,,42,42,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR064,2 Hollow Lane Shinfield RG2 9DX .,-1423861.84,6075407.44,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.03,not owned by a public authority,,permissioned,other,15/08/2016,,5,5,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR065,"Loddon Vale House, Hurricane Way, Woodley",-1417805.55,6078761.87,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.17,not owned by a public authority,,permissioned,other,02/09/2016,,12,12,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR069,Nigra Building Mulberry Business Park Fishponds Road Wokingham RG41 2GY .,-1417380.1,6072016.64,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.62,not owned by a public authority,,permissioned,full planning permission,27/02/2017,,9,9,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR071,"North Wokingham - Matthewsgreen Farm, Phase 2b",-1416306.18,6074599.84,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,,not owned by a public authority,,permissioned,reserved matters approval,14/11/2016,,73,73,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR072,Laburnum Cottage Hatch Gate Lane Wargrave RG10 8NE,-1412076.1,6085011.92,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.65,not owned by a public authority,,permissioned,full planning permission,23/01/2017,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR075,Bridge Farm Bridge Farm Road Twyford TG10 9RU,-1415699.99,6081487.31,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.28,not owned by a public authority,,permissioned,full planning permission,23/11/2016,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR076,Rosa Building Mulberry Business Park Fishponds Wokingham Berkshire RG41 2GY,-1417404.33,6072047.88,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.1731,not owned by a public authority,,permissioned,other,13/09/2016,,33,33,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR077,Ilex House Fishponds Road Wokingham Berkshire RG41 2GY,-1417404.33,6072047.88,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.25,not owned by a public authority,,permissioned,other,21/09/2016,,45,45,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR078,21-26 Tape Lane Hurst RG10 0DP .,-1415350.45,6078026.36,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.37,not owned by a public authority,,permissioned,full planning permission,06/12/2016,,11,11,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR083,The Cabin Rear Of 85 Kiln Ride Finchampstead RG40 3PJ,-1415350.45,6078026.36,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.4,not owned by a public authority,,permissioned,full planning permission,02/08/2017,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR085,Worleys Farm Worleys Lane Wargrave Wokingham RG10 8PA,-1413021.67,6085330.79,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.3,not owned by a public authority,,permissioned,full planning permission,08/12/2016,,2,2,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR087,19 Pine Drive Finchampstead RG40 3LD,-1418403,6069703.88,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.59,not owned by a public authority,,permissioned,full planning permission,13/12/2016,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR092,Gravelly Bridge Farmhouse Grazeley Green Road Grazeley RG7 1LG .,-1427255.59,6075859.02,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.4,not owned by a public authority,,permissioned,full planning permission,14/02/2017,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR098,Unit 3 Cutbush Court Danehill RG6 4UW .,-1422001.23,6076251.52,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.0195,not owned by a public authority,,permissioned,other,28/02/2017,,6,6,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR102,"Land at 56a, 58, 60 Finchampstead Road, Earley RG6 7JU",-1420386.01,6077511.4,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.22,not owned by a public authority,,permissioned,full planning permission,12/05/2017,,6,6,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR104,"North Wokingham - Matthewsgreen Farm, Phase 3",-1416233.6,6074433.02,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,,not owned by a public authority,,permissioned,reserved matters approval,17/07/2017,,93,93,Yes,,18/08/2017,17/11/2017,
+RG40 3SR",-1418754.86,6068579.38,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.28,not owned by a public authority,,permissioned,full planning permission,11/09/2016,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR018,Bell House Park Place Kentons Lane RG10 9HT,-1413731.65,6085370.05,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.25,not owned by a public authority,,permissioned,full planning permission,06/12/2016,,4,4,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR020,"The Bungalow, Henley Road",-1414265.75,6083512.63,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.44,not owned by a public authority,,permissioned,full planning permission,09/03/2016,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR024,"Elms Field & The Paddocks, Elms Rd, Wokingham",-1416370.23,6072375.51,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,6.7,not owned by a public authority,,permissioned,full planning permission,06/04/2016,,126,126,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR025,Arcadia Loddon Drive Wargrave RG10 8HH,-1415487.93,6083416.84,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.53,not owned by a public authority,,permissioned,full planning permission,17/03/2016,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR028,"Garth House, 53 Denmark Street, Wokingham",-1416228.02,6072321.3,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,,not owned by a public authority,,permissioned,other,05/02/2016,,6,6,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR033,Strowdes Upper Culham Lane Remenham Berkshire RG10 8NU,-1412988.13,6085947.21,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,2.47,not owned by a public authority,,permissioned,full planning permission,05/07/2016,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR034,Thatchers Mead Thames Drive Charvil RG10 9TP,-1416859.3,6082435.75,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.34,not owned by a public authority,,permissioned,full planning permission,15/04/2016,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR046,Riseley Business Park Basingstoke Road Riseley Reading RG7 1NW,-1426878.3,6071161.41,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,,not owned by a public authority,,permissioned,other,27/05/2016,,26,26,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR047,St John's Church Church Road Farley Hill,-1423649.52,6070908.43,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.27,not owned by a public authority,,permissioned,full planning permission,04/07/2016,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR050,86 Loddon Bridge Road Woodley Reading RG5 4AN,-1423649.52,6070908.43,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.53,not owned by a public authority,,permissioned,full planning permission,15/11/2016,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR056,42 Danywern Drive Winnersh Wokingham RG41 5PA,-1417665.6,6075578.38,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.75,not owned by a public authority,,permissioned,full planning permission,17/08/2016,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR058,Cyber House 2 Molly Millars Lane Wokingham Berkshire RG41 2PX,-1417032.57,6072034.11,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,,not owned by a public authority,,permissioned,other,16/08/2016,,65,65,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR061,50 London Road Twyford Wokingham RG10 9EU,-1415074.76,6080570.44,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.215,not owned by a public authority,,permissioned,outline planning permission,13/06/2017,,6,6,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR063,Nigra Building Mulberry Business Park Fishponds Road,-1417377.57,6072093.24,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,,not owned by a public authority,,permissioned,other,20/07/2016,,42,42,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR064,2 Hollow Lane Shinfield RG2 9DX .,-1423861.84,6075407.44,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.03,not owned by a public authority,,permissioned,other,15/08/2016,,5,5,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR065,"Loddon Vale House, Hurricane Way, Woodley",-1417805.55,6078761.87,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.17,not owned by a public authority,,permissioned,other,02/09/2016,,12,12,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR069,Nigra Building Mulberry Business Park Fishponds Road Wokingham RG41 2GY .,-1417380.1,6072016.64,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.62,not owned by a public authority,,permissioned,full planning permission,27/02/2017,,9,9,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR071,"North Wokingham - Matthewsgreen Farm, Phase 2b",-1416306.18,6074599.84,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,,not owned by a public authority,,permissioned,reserved matters approval,14/11/2016,,73,73,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR072,Laburnum Cottage Hatch Gate Lane Wargrave RG10 8NE,-1412076.1,6085011.92,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.65,not owned by a public authority,,permissioned,full planning permission,23/01/2017,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR075,Bridge Farm Bridge Farm Road Twyford TG10 9RU,-1415699.99,6081487.31,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.28,not owned by a public authority,,permissioned,full planning permission,23/11/2016,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR076,Rosa Building Mulberry Business Park Fishponds Wokingham Berkshire RG41 2GY,-1417404.33,6072047.88,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.1731,not owned by a public authority,,permissioned,other,13/09/2016,,33,33,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR077,Ilex House Fishponds Road Wokingham Berkshire RG41 2GY,-1417404.33,6072047.88,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.25,not owned by a public authority,,permissioned,other,21/09/2016,,45,45,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR078,21-26 Tape Lane Hurst RG10 0DP .,-1415350.45,6078026.36,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.37,not owned by a public authority,,permissioned,full planning permission,06/12/2016,,11,11,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR083,The Cabin Rear Of 85 Kiln Ride Finchampstead RG40 3PJ,-1415350.45,6078026.36,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.4,not owned by a public authority,,permissioned,full planning permission,02/08/2017,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR085,Worleys Farm Worleys Lane Wargrave Wokingham RG10 8PA,-1413021.67,6085330.79,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.3,not owned by a public authority,,permissioned,full planning permission,08/12/2016,,2,2,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR087,19 Pine Drive Finchampstead RG40 3LD,-1418403,6069703.88,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.59,not owned by a public authority,,permissioned,full planning permission,13/12/2016,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR092,Gravelly Bridge Farmhouse Grazeley Green Road Grazeley RG7 1LG .,-1427255.59,6075859.02,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.4,not owned by a public authority,,permissioned,full planning permission,14/02/2017,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR098,Unit 3 Cutbush Court Danehill RG6 4UW .,-1422001.23,6076251.52,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.0195,not owned by a public authority,,permissioned,other,28/02/2017,,6,6,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR102,"Land at 56a, 58, 60 Finchampstead Road, Earley RG6 7JU",-1420386.01,6077511.4,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.22,not owned by a public authority,,permissioned,full planning permission,12/05/2017,,6,6,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR104,"North Wokingham - Matthewsgreen Farm, Phase 3",-1416233.6,6074433.02,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,,not owned by a public authority,,permissioned,reserved matters approval,17/07/2017,,93,93,Yes,"
+
+",18/08/2017,17/11/2017,
 E06000041,Wokingham Borough Council,BR106,"Land At, Arborfield Garrison Biggs Lane Arborfield 
-Parcel H, I and J",-1421962.09,6070659.8,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,,not owned by a public authority,,permissioned,reserved ?matters approval,25/07/2017,,179,179,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR107,Willow Haven Loddon Drive Wargrave Wokingham RG10 8HD,-1415376.3,6083295.72,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.8,not owned by a public authority,,permissioned,full planning permission,02/08/2017,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR113,"Former Fosters Home for the Elderly, Fosters Lane, Woodley",-1418808.43,6078545.06,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.51,not owned by a public authority,,permissioned,full planning permission,15/10/2014,,34,34,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR138,"Youngs Farm, Kenton Lane, Upper Culham",-1412921.95,6085768.1,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.5,not owned by a public authority,,permissioned,full planning permission,19/12/2014,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR144,"Beechtree Farm, Henley Road",-1413802.8,6084512.66,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,2.2,not owned by a public authority,,permissioned,full planning permission,17/10/2015,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR146,"269 Headley Road East, Woodley",-1417900.29,6078795.13,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.3,not owned by a public authority,,permissioned,full planning permission,21/01/2015,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR150,25 Sandy Lane,-1418721.76,6072709.49,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.25,not owned by a public authority,,permissioned,full planning permission,10/02/2015,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR155,20 Aborfield Road,-1423597.84,6074833.49,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.75,not owned by a public authority,,permissioned,full planning permission,26/03/2015,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR156,"Land at Market Place, Peach St & Rose St, Wokingham",-1415966.73,6072476.89,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.09,not owned by a public authority,,permissioned,full planning permission,05/03/2015,,26,26,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR160,"Green Isle, Wargave Road",-1414324.4,6086751.33,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.28,not owned by a public authority,,permissioned,full planning permission,30/04/2015,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR161,"Sanagree, Little Hill Road",-1416861.8,6076248.12,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.86,not owned by a public authority,,permissioned,full planning permission,13/02/2015,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR167,"Queen Victoria, Blakes Lane, Hare Hatch",-1412340.36,6081868.8,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.49,not owned by a public authority,,permissioned,full planning permission,06/05/2015,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR173,"Hilltop Yard, Crest Close",-1414688.15,6081133.26,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.3,not owned by a public authority,,permissioned,full planning permission,20/08/2015,,1,1,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR175,"Land at The Manor, Brookers Hill, Shinfield",-1423910.74,6075718,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,8.43,not owned by a public authority,,permissioned,reserved matters approval,03/06/2017,,126,126,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR177,"Land at 146 London Road, Ruscombe",-1414384.63,6081021.48,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.82,not owned by a public authority,,permissioned,outline planning permission,19/08/2015,,17,17,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR180,"Land At, Arborfield Garrison (Crest)",-1421104.12,6071723.44,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,167.03,not owned by a public authority,,permissioned,outline planning permission,02/04/2015,,1108,1108,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR182,"Carnival Pool, Wellington Rd, Wokingham",-1416473.51,6072239.06,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,2.23,owned by a public authority,,permissioned,outline planning permission,05/08/2015,,55,55,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR183,"Marlborough House, Basingstoke Rd, Spencers Wood. RG7 1AE",-1425419.82,6076100.74,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.25,not owned by a public authority,,permissioned,full planning permission,24/06/2016,,15,15,Yes,,18/08/2017,17/11/2017,
-E06000041,Wokingham Borough Council,BR189,"Ritza Plaza House, 9 Easthampstead Road, Wokingham",-1415798.17,6072339.4,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,,not owned by a public authority,,not permissioned,,,,4,10,Yes,,29/11/2017,29/11/2017,
-E06000041,Wokingham Borough Council,BR190,"Exa House, Elms Road, Wokingham",-1416330.99,6072391.8,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.135,owned by a public authority,,not permissioned,,,,18,18,Yes,,29/11/2017,29/11/2017,
+Parcel H, I and J",-1421962.09,6070659.8,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,,not owned by a public authority,,permissioned,reserved ?matters approval,25/07/2017,,179,179,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR107,Willow Haven Loddon Drive Wargrave Wokingham RG10 8HD,-1415376.3,6083295.72,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.8,not owned by a public authority,,permissioned,full planning permission,02/08/2017,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR113,"Former Fosters Home for the Elderly, Fosters Lane, Woodley",-1418808.43,6078545.06,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.51,not owned by a public authority,,permissioned,full planning permission,15/10/2014,,34,34,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR138,"Youngs Farm, Kenton Lane, Upper Culham",-1412921.95,6085768.1,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.5,not owned by a public authority,,permissioned,full planning permission,19/12/2014,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR144,"Beechtree Farm, Henley Road",-1413802.8,6084512.66,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,2.2,not owned by a public authority,,permissioned,full planning permission,17/10/2015,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR146,"269 Headley Road East, Woodley",-1417900.29,6078795.13,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.3,not owned by a public authority,,permissioned,full planning permission,21/01/2015,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR150,25 Sandy Lane,-1418721.76,6072709.49,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.25,not owned by a public authority,,permissioned,full planning permission,10/02/2015,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR155,20 Aborfield Road,-1423597.84,6074833.49,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.75,not owned by a public authority,,permissioned,full planning permission,26/03/2015,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR156,"Land at Market Place, Peach St & Rose St, Wokingham",-1415966.73,6072476.89,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.09,not owned by a public authority,,permissioned,full planning permission,05/03/2015,,26,26,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR160,"Green Isle, Wargave Road",-1414324.4,6086751.33,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.28,not owned by a public authority,,permissioned,full planning permission,30/04/2015,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR161,"Sanagree, Little Hill Road",-1416861.8,6076248.12,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,1.86,not owned by a public authority,,permissioned,full planning permission,13/02/2015,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR167,"Queen Victoria, Blakes Lane, Hare Hatch",-1412340.36,6081868.8,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.49,not owned by a public authority,,permissioned,full planning permission,06/05/2015,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR173,"Hilltop Yard, Crest Close",-1414688.15,6081133.26,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.3,not owned by a public authority,,permissioned,full planning permission,20/08/2015,,1,1,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR175,"Land at The Manor, Brookers Hill, Shinfield",-1423910.74,6075718,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,8.43,not owned by a public authority,,permissioned,reserved matters approval,03/06/2017,,126,126,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR177,"Land at 146 London Road, Ruscombe",-1414384.63,6081021.48,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.82,not owned by a public authority,,permissioned,outline planning permission,19/08/2015,,17,17,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR180,"Land At, Arborfield Garrison (Crest)",-1421104.12,6071723.44,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,167.03,not owned by a public authority,,permissioned,outline planning permission,02/04/2015,,1108,1108,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR182,"Carnival Pool, Wellington Rd, Wokingham",-1416473.51,6072239.06,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,2.23,owned by a public authority,,permissioned,outline planning permission,05/08/2015,,55,55,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR183,"Marlborough House, Basingstoke Rd, Spencers Wood. RG7 1AE",-1425419.82,6076100.74,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.25,not owned by a public authority,,permissioned,full planning permission,24/06/2016,,15,15,Yes,"
+
+",18/08/2017,17/11/2017,
+E06000041,Wokingham Borough Council,BR189,"Ritza Plaza House, 9 Easthampstead Road, Wokingham",-1415798.17,6072339.4,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,,not owned by a public authority,,not permissioned,,,,4,10,Yes,"
+
+",29/11/2017,29/11/2017,
+E06000041,Wokingham Borough Council,BR190,"Exa House, Elms Road, Wokingham",-1416330.99,6072391.8,http://planning.wokingham.gov.uk/FastWebPL/welcome.asp,0.135,owned by a public authority,,not permissioned,,,,18,18,Yes,"
+
+",29/11/2017,29/11/2017,

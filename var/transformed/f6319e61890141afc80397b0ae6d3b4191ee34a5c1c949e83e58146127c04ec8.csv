@@ -1,52 +1,155 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2018-12-04,local-authority-eng:DUR,1/CO/11,Consett Swimming Baths,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=411097.24135&y=551221.232695&scale=17,yes,owned by a public authority,not permissioned,,,54.855673,-1.828681,0.8,22,25,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,1/CO/113,Magistrates Court Ashdale Road,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=411003.675537&y=551435.410275&scale=17,yes,owned by a public authority,permissioned,full planning permission,,54.857599,-1.830131,0.52,14,14,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,1/CO/114,The Moorside Hotel,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=408765.383922&y=549236.72979&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.837885,-1.865062,0.45,12,12,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,1/CO/89a,Consett Community Sports College Site A,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=410606.103799&y=551940.693312&scale=17,yes,owned by a public authority,not permissioned,,,54.862148,-1.836306,4.17,95,100,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,1/ST/34,South Moor Hospital,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=420003.730538&y=551533.165765&scale=17,yes,mixed ownership,permissioned,full planning permission,,54.858202,-1.689933,1.98,53,65,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,1/ST/59,Former Return To Learn Centre Front Street,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419437.454026&y=552932.787116&scale=17,yes,owned by a public authority,permissioned,full planning permission,,54.870801,-1.69866,0.22,6,6,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,1/TL/03,Tanfield Lea Industrial Estate,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419045.123105&y=554807.405058&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.887661,-1.70465,15.46,348,365,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,2/CH/40,Arizona Chemicals Vigo Lane,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=427858.827371&y=553973.279913&scale=17,yes,not owned by a public authority,pending decision,full planning permission,,54.879755,-1.56734,2.68,60,85,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,2/PE/11,Former Sports Community College,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=424362.820994&y=552558.143688&scale=17,yes,owned by a public authority,not permissioned,,,54.86722,-1.621946,2.84,64,64,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,2/WP/05,Lawson Court,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=423114.721221&y=552903.912483&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.870386,-1.641364,0.33,9,9,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,3/BA/20,Catkin Way,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419747.020623&y=527545.70783&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.642652,-1.69555,3.16,71,118,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,3/BA/20,Catkin Ways,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419747.020638&y=527545.707843&scale=16,yes,not owned by a public authority,permissioned,full planning permission,,54.642652,-1.69555,3.2,71,118,2016-06-08,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,3/BA/60,Former St Anne's School Kingsways,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=421149.371427&y=529656.130047&scale=17,yes,owned by a public authority,permissioned,full planning permission,,54.661561,-1.67367,0.25,7,18,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,3/BA/61,Land Between 10-19 And 28-35 Howard Close,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=420132.244261&y=527981.608153&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.646554,-1.689551,0.34,9,9,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,3/DV/20,South Church Dene Valley School Site,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=423297.241135&y=528383.568793&scale=17,yes,owned by a public authority,not permissioned,,,54.650031,-1.640475,0.54,15,15,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,3/TL/15,Land North Of Smith Street,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=411968.464912&y=539448.79655&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.749861,-1.815593,2.29,38,52,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,3/WA/12,East Green House Care Home 3 East Green,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=418307.402086&y=526422.852504&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.632615,-1.717926,0.54,15,15,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,3/WO/14,Wolsingham Steelworks,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=408154.513202&y=537057.809612&scale=17,yes,not owned by a public authority,not permissioned,,,54.72845,-1.874911,4.75,107,149,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,3/WO/20,Wolsingham School Upper Site,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=407129.254918&y=537586.38146&scale=17,yes,owned by a public authority,not permissioned,,,54.733216,-1.890818,3.22,72,72,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,3/WP/07,Land to the north of New Road,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=417267.225806&y=530316.374461&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.667641,-1.733811,1.1,30,25,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,4/BO/16,Former Mabey Hire Ltd,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=430690.55321&y=538071.9456&scale=17,yes,not owned by a public authority,not permissioned,,,54.7367,-1.524885,0.69,19,36,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,4/BR/03,Land East of Brandon Football Club (BR002),https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=424086.837877&y=540290.430302&scale=17,yes,owned by a public authority,not permissioned,,,54.756994,-1.62726,1.6,45,45,2016-06-08,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,4/BS/09,Finchale College,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=427561.618363&y=546406.8716&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.811779,-1.572691,4.23,95,100,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,4/DU/157,Durham Free School,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=429022.762829&y=543330.718504&scale=17,yes,not owned by a public authority,not permissioned,,,54.784055,-1.550263,2.63,59,59,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,4/DU/161,Potterhouse Tce Site of Former Hawthorn House,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=426463.880922&y=545581.774433&scale=17,yes,owned by a public authority,not permissioned,,,54.804424,-1.589845,0.32,9,9,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,4/DU/172,DCNP Site D1.2,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=426718.99886&y=542438.760848&scale=17,yes,not owned by a public authority,not permissioned,,,54.776167,-1.586164,0.08,2,2,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,4/EW/13,Esh Winning Regeneration Scheme Pinetrees 2,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=418762.640023&y=541545.320278&scale=17,yes,owned by a public authority,not permissioned,,,54.768496,-1.709908,0.27,7,7,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,4/LP/16,Langley Park Community Centre,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=421472.167987&y=545038.123175&scale=17,yes,owned by a public authority,permissioned,full planning permission,,54.799776,-1.667538,0.24,7,14,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,5/EA/39,Dene Hall Care Home Horden Dene,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=443866.045375&y=543427.938887&scale=17,yes,owned by a public authority,permissioned,full planning permission,,54.783854,-1.31947,0.87,20,24,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,5/PE/01a,North Blunts,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=442502.679737&y=540565.445306&scale=17,yes,mixed ownership,not permissioned,,,54.758249,-1.341085,1.21,33,33,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,5/PE/01b,North Blunts,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=442604.159801&y=540552.452634&scale=17,yes,mixed ownership,not permissioned,,,54.758124,-1.33951,1.14,31,31,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,5/PE/18,North East Industrial Estate,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=442970.182553&y=542059.057957&scale=17,yes,mixed ownership,pending decision,full planning permission,,54.771631,-1.333601,16.93,380,390,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,5/PE/32,Essington House,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=442251.7301&y=542006.922837&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.771223,-1.344776,0.51,14,14,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,5/SE/09,S4: Seaham Colliery Site,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=441288.887796&y=549491.455991&scale=17,yes,mixed ownership,not permissioned,,,54.838557,-1.358677,14.75,332,332,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,5/SE/17,Seaton Nurseries,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=439413.889831&y=549950.143507&scale=17,yes,not owned by a public authority,pending decision,full planning permission,,54.842829,-1.387806,1.72,25,47,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,6/BC/20,SS District Office & Teesdale Multi Use Centre,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=405496.045451&y=516932.200575&scale=17,yes,owned by a public authority,not permissioned,,,54.547624,-1.91656,0.21,6,6,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,6/BW/10,Former Department Of Transport Storage Depot,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=399561.256262&y=513607.062909&scale=17,yes,owned by a public authority,pending decision,full planning permission,,54.51777,-2.008297,0.37,9,10,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,6/GF/02a,St Peters School,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=417753.458914&y=516663.049796&scale=17,yes,not owned by a public authority,pending decision,full planning permission,,54.544928,-1.727093,0.39,16,16,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,7/CH/149,Hunter Terrace,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428555.371499&y=529756.84483&scale=17,yes,owned by a public authority,pending decision,full planning permission,,54.662103,-1.558856,0.34,9,18,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,7/CH/239,Land at 17 Vine Place,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428464.943567&y=529437.596615&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.659239,-1.560288,0.29,8,14,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,7/FH/328,Ferryhill Feryemount Aged Persons Home,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428813.071765&y=532867.689956&scale=17,yes,owned by a public authority,not permissioned,,,54.690044,-1.554555,0.2,5,5,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,7/FH/333,Dean Bank Grange Hackworth Close,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428328.879364&y=532397.134039&scale=17,yes,owned by a public authority,permissioned,full planning permission,,54.685842,-1.562112,0.29,8,6,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,7/NA/336,Site 1 at Clarence Green,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428130.123369&y=524248.836913&scale=17,yes,owned by a public authority,not permissioned,,,54.61263,-1.565974,0.9,24,24,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,7/NA/337,Site 2 Clarence Green,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428274.879622&y=524243.579437&scale=17,yes,owned by a public authority,not permissioned,,,54.612575,-1.563733,0.29,8,8,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,7/NA/338,Site 2 Travellers Green,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428337.462352&y=524177.146151&scale=17,yes,owned by a public authority,not permissioned,,,54.611974,-1.562771,0.25,7,7,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,7/SF/332,Turners Garage Site,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=435576.688017&y=529631.217168&scale=17,yes,owned by a public authority,pending decision,full planning permission,,54.66053,-1.450031,2.35,53,53,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,7/SH/076,Dale Road Industrial Estate,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=423895.950222&y=525357.024989&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.622805,-1.631443,11.98,270,310,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,7/SP/142,Mount Pleasant Grange,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=426859.984994&y=534365.469286&scale=17,yes,owned by a public authority,permissioned,full planning permission,,54.703611,-1.584714,0.41,11,15,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,7/SP/153,"Former Electrolux site, Merrington Lane Ind Est",https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=426573.683822&y=533210.39333&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.693246,-1.589262,17.03,383,425,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,7/SP/445,King William Grange,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=425857.277719&y=534128.608184&scale=17,yes,owned by a public authority,not permissioned,,,54.701534,-1.600295,0.66,18,18,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
-2018-12-04,local-authority-eng:DUR,2/CH/01,Blind Lane Pelaw House,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=427686.6484&y=552676.8513&scale=17,yes,not owned by a public authority,not permissioned,,,54.868098,-1.5701,0.96,4,26,2018-12-04,,f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2018-12-04,local-authority-eng:DUR,1/CO/11,Consett Swimming Baths,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=411097.24135&y=551221.232695&scale=17,yes,owned by a public authority,not permissioned,,,54.855673,-1.828681,0.8,22,25,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,1/CO/113,Magistrates Court Ashdale Road,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=411003.675537&y=551435.410275&scale=17,yes,owned by a public authority,permissioned,full planning permission,,54.857599,-1.830131,0.52,14,14,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,1/CO/114,The Moorside Hotel,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=408765.383922&y=549236.72979&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.837885,-1.865062,0.45,12,12,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,1/CO/89a,Consett Community Sports College Site A,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=410606.103799&y=551940.693312&scale=17,yes,owned by a public authority,not permissioned,,,54.862148,-1.836306,4.17,95,100,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,1/ST/34,South Moor Hospital,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=420003.730538&y=551533.165765&scale=17,yes,mixed ownership,permissioned,full planning permission,,54.858202,-1.689933,1.98,53,65,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,1/ST/59,Former Return To Learn Centre Front Street,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419437.454026&y=552932.787116&scale=17,yes,owned by a public authority,permissioned,full planning permission,,54.870801,-1.69866,0.22,6,6,2018-12-04,,"A non-designated heritage asset is located on the site – if demolition is considered a convincing case based on an understanding of significance will be required to support this.
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,1/TL/03,Tanfield Lea Industrial Estate,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419045.123105&y=554807.405058&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.887661,-1.70465,15.46,348,365,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,2/CH/40,Arizona Chemicals Vigo Lane,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=427858.827371&y=553973.279913&scale=17,yes,not owned by a public authority,pending decision,full planning permission,,54.879755,-1.56734,2.68,60,85,2018-12-04,,"Permission subject to Section 106 being signed
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,2/PE/11,Former Sports Community College,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=424362.820994&y=552558.143688&scale=17,yes,owned by a public authority,not permissioned,,,54.86722,-1.621946,2.84,64,64,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,2/WP/05,Lawson Court,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=423114.721221&y=552903.912483&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.870386,-1.641364,0.33,9,9,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,3/BA/20,Catkin Way,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419747.020623&y=527545.70783&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.642652,-1.69555,3.16,71,118,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,3/BA/20,Catkin Ways,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=419747.020638&y=527545.707843&scale=16,yes,not owned by a public authority,permissioned,full planning permission,,54.642652,-1.69555,3.2,71,118,2016-06-08,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,3/BA/60,Former St Anne's School Kingsways,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=421149.371427&y=529656.130047&scale=17,yes,owned by a public authority,permissioned,full planning permission,,54.661561,-1.67367,0.25,7,18,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,3/BA/61,Land Between 10-19 And 28-35 Howard Close,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=420132.244261&y=527981.608153&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.646554,-1.689551,0.34,9,9,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,3/DV/20,South Church Dene Valley School Site,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=423297.241135&y=528383.568793&scale=17,yes,owned by a public authority,not permissioned,,,54.650031,-1.640475,0.54,15,15,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,3/TL/15,Land North Of Smith Street,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=411968.464912&y=539448.79655&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.749861,-1.815593,2.29,38,52,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,3/WA/12,East Green House Care Home 3 East Green,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=418307.402086&y=526422.852504&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.632615,-1.717926,0.54,15,15,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,3/WO/14,Wolsingham Steelworks,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=408154.513202&y=537057.809612&scale=17,yes,not owned by a public authority,not permissioned,,,54.72845,-1.874911,4.75,107,149,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,3/WO/20,Wolsingham School Upper Site,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=407129.254918&y=537586.38146&scale=17,yes,owned by a public authority,not permissioned,,,54.733216,-1.890818,3.22,72,72,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,3/WP/07,Land to the north of New Road,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=417267.225806&y=530316.374461&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.667641,-1.733811,1.1,30,25,2018-12-04,,"Site had Outline Planning Permission 3/2010/0179 subject to s106 
+ for 25 dwellings. Now Superseded.
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,4/BO/16,Former Mabey Hire Ltd,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=430690.55321&y=538071.9456&scale=17,yes,not owned by a public authority,not permissioned,,,54.7367,-1.524885,0.69,19,36,2018-12-04,,"Lapsed Site
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,4/BR/03,Land East of Brandon Football Club (BR002),https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=424086.837877&y=540290.430302&scale=17,yes,owned by a public authority,not permissioned,,,54.756994,-1.62726,1.6,45,45,2016-06-08,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,4/BS/09,Finchale College,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=427561.618363&y=546406.8716&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.811779,-1.572691,4.23,95,100,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,4/DU/157,Durham Free School,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=429022.762829&y=543330.718504&scale=17,yes,not owned by a public authority,not permissioned,,,54.784055,-1.550263,2.63,59,59,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,4/DU/161,Potterhouse Tce Site of Former Hawthorn House,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=426463.880922&y=545581.774433&scale=17,yes,owned by a public authority,not permissioned,,,54.804424,-1.589845,0.32,9,9,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,4/DU/172,DCNP Site D1.2,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=426718.99886&y=542438.760848&scale=17,yes,not owned by a public authority,not permissioned,,,54.776167,-1.586164,0.08,2,2,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,4/EW/13,Esh Winning Regeneration Scheme Pinetrees 2,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=418762.640023&y=541545.320278&scale=17,yes,owned by a public authority,not permissioned,,,54.768496,-1.709908,0.27,7,7,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,4/LP/16,Langley Park Community Centre,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=421472.167987&y=545038.123175&scale=17,yes,owned by a public authority,permissioned,full planning permission,,54.799776,-1.667538,0.24,7,14,2018-12-04,,"A non-designated heritage asset is located on the site – if demolition is considered a convincing case based on an understanding of significance will be required to support this.
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,5/EA/39,Dene Hall Care Home Horden Dene,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=443866.045375&y=543427.938887&scale=17,yes,owned by a public authority,permissioned,full planning permission,,54.783854,-1.31947,0.87,20,24,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,5/PE/01a,North Blunts,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=442502.679737&y=540565.445306&scale=17,yes,mixed ownership,not permissioned,,,54.758249,-1.341085,1.21,33,33,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,5/PE/01b,North Blunts,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=442604.159801&y=540552.452634&scale=17,yes,mixed ownership,not permissioned,,,54.758124,-1.33951,1.14,31,31,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,5/PE/18,North East Industrial Estate,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=442970.182553&y=542059.057957&scale=17,yes,mixed ownership,pending decision,full planning permission,,54.771631,-1.333601,16.93,380,390,2018-12-04,,"Permission subject to Section 106 being signed
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,5/PE/32,Essington House,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=442251.7301&y=542006.922837&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.771223,-1.344776,0.51,14,14,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,5/SE/09,S4: Seaham Colliery Site,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=441288.887796&y=549491.455991&scale=17,yes,mixed ownership,not permissioned,,,54.838557,-1.358677,14.75,332,332,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,5/SE/17,Seaton Nurseries,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=439413.889831&y=549950.143507&scale=17,yes,not owned by a public authority,pending decision,full planning permission,,54.842829,-1.387806,1.72,25,47,2018-12-04,,"Permission subject to Section 106 being signed
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,6/BC/20,SS District Office & Teesdale Multi Use Centre,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=405496.045451&y=516932.200575&scale=17,yes,owned by a public authority,not permissioned,,,54.547624,-1.91656,0.21,6,6,2018-12-04,,"A non-designated heritage asset is located on the site – if demolition is considered a convincing case based on an understanding of significance will be required to support
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,6/BW/10,Former Department Of Transport Storage Depot,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=399561.256262&y=513607.062909&scale=17,yes,owned by a public authority,pending decision,full planning permission,,54.51777,-2.008297,0.37,9,10,2018-12-04,,"Permission subject to Section 106 being signed
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,6/GF/02a,St Peters School,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=417753.458914&y=516663.049796&scale=17,yes,not owned by a public authority,pending decision,full planning permission,,54.544928,-1.727093,0.39,16,16,2018-12-04,,"Permission subject to Section 106 being signed
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,7/CH/149,Hunter Terrace,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428555.371499&y=529756.84483&scale=17,yes,owned by a public authority,pending decision,full planning permission,,54.662103,-1.558856,0.34,9,18,2018-12-04,,"Permission subject to Section 106 being signed
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,7/CH/239,Land at 17 Vine Place,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428464.943567&y=529437.596615&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.659239,-1.560288,0.29,8,14,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,7/FH/328,Ferryhill Feryemount Aged Persons Home,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428813.071765&y=532867.689956&scale=17,yes,owned by a public authority,not permissioned,,,54.690044,-1.554555,0.2,5,5,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,7/FH/333,Dean Bank Grange Hackworth Close,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428328.879364&y=532397.134039&scale=17,yes,owned by a public authority,permissioned,full planning permission,,54.685842,-1.562112,0.29,8,6,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,7/NA/336,Site 1 at Clarence Green,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428130.123369&y=524248.836913&scale=17,yes,owned by a public authority,not permissioned,,,54.61263,-1.565974,0.9,24,24,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,7/NA/337,Site 2 Clarence Green,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428274.879622&y=524243.579437&scale=17,yes,owned by a public authority,not permissioned,,,54.612575,-1.563733,0.29,8,8,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,7/NA/338,Site 2 Travellers Green,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=428337.462352&y=524177.146151&scale=17,yes,owned by a public authority,not permissioned,,,54.611974,-1.562771,0.25,7,7,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,7/SF/332,Turners Garage Site,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=435576.688017&y=529631.217168&scale=17,yes,owned by a public authority,pending decision,full planning permission,,54.66053,-1.450031,2.35,53,53,2018-12-04,,"Permission subject to Section 106 being signed
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,7/SH/076,Dale Road Industrial Estate,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=423895.950222&y=525357.024989&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.622805,-1.631443,11.98,270,310,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,7/SP/142,Mount Pleasant Grange,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=426859.984994&y=534365.469286&scale=17,yes,owned by a public authority,permissioned,full planning permission,,54.703611,-1.584714,0.41,11,15,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,7/SP/153,"Former Electrolux site, Merrington Lane Ind Est",https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=426573.683822&y=533210.39333&scale=17,yes,not owned by a public authority,permissioned,full planning permission,,54.693246,-1.589262,17.03,383,425,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,7/SP/445,King William Grange,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=425857.277719&y=534128.608184&scale=17,yes,owned by a public authority,not permissioned,,,54.701534,-1.600295,0.66,18,18,2018-12-04,,"
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8
+2018-12-04,local-authority-eng:DUR,2/CH/01,Blind Lane Pelaw House,https://maps.durham.gov.uk/OLBasic2/Index.aspx?appid=65&x=427686.6484&y=552676.8513&scale=17,yes,not owned by a public authority,not permissioned,,,54.868098,-1.5701,0.96,4,26,2018-12-04,,"A non-designated heritage asset is located on the site – if demolition is considered a convincing case based on an understanding of significance will be required to support
+
+",f6319e61890141afc80397b0ae6d3b4191ee34a5c1c949e83e58146127c04ec8

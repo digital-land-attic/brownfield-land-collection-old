@@ -1,19 +1,56 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-31,local-authority-eng:NWL,BLR1,Land adjacent 215 Occupation Road Albert Village,https://www.nwleics.gov.uk/pages/brownfield_land_register,yes,not owned by a public authority,permissioned,reserved matters approval,,52.753639,-1.557338,0.22,,,2017-12-31,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
-2017-12-31,local-authority-eng:NWL,BLR2,Jubilee Business Park Snarestone Road Appleby Magna,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,not permissioned,,,52.683435,-1.528403,2.02,38,38,2017-12-31,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
-2017-12-31,local-authority-eng:NWL,BLR3,Former Arla Dairy Smisby Road Ashby de la Zouch,https://www.nwleics.gov.uk/pages/brownfield_land_register,yes,not owned by a public authority,pending decision,outline planning permission,,52.757516,-1.474142,5.13,,,2017-12-31,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
-2017-12-31,local-authority-eng:NWL,BLR4,Breedon Priory Nursery Ashby Road Breedon on the Hill,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,pending decision,full planning permission,,52.802754,-1.404222,1.2,,,2017-12-31,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
-2017-12-31,local-authority-eng:NWL,BLR5,Stevenson House Ashby Road Coalville,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,permissioned,outline planning permission,,52.72711,-1.380436,0.28,,,2017-12-31,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
-2017-12-31,local-authority-eng:NWL,BLR6,Former Needle Factory Wolsey Road Coalville,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,not permissioned,,,52.727335,-1.375383,2.06,38,38,2017-12-31,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
-2017-12-31,local-authority-eng:NWL,BLR7,The Piggeries North of Standard Hill Coalville,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,not permissioned,,,52.717114,-1.383953,0.65,10,10,2017-12-31,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
-2017-12-31,local-authority-eng:NWL,BLR8,Workspace 17 Highfield Street Coalville,https://www.nwleics.gov.uk/pages/brownfield_land_register,yes,owned by a public authority,permissioned,outline planning permission,,52.717387,-1.376014,0.56,,,2017-12-31,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
-2017-12-31,local-authority-eng:NWL,BLR9,The Old Foundry Bridge Road Coalville,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,pending decision,full planning permission,,52.721443,-1.369605,0.28,,,2017-12-31,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
-2017-12-31,local-authority-eng:NWL,BLR10,Old Hall Farm Buildings Grimes Gate Diseworth,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,permissioned,full planning permission,,52.818152,-1.328143,0.59,,,2017-12-31,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
-2017-12-31,local-authority-eng:NWL,BLR11,Car Park Moira Road Doninsthorpe,https://www.nwleics.gov.uk/pages/brownfield_land_register,,owned by a public authority,not permissioned,,,52.725865,-1.52802,0.25,18,18,2017-12-31,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
-2017-12-31,local-authority-eng:NWL,BLR12,MTS Logistics Mill Lane Heather,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,permissioned,full planning permission,,52.6921,-1.415035,1.05,,,2017-12-31,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
-2017-12-31,local-authority-eng:NWL,BLR13,Former Garage 112-128 Melbourne Road Ibstock,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,not permissioned,,,52.687906,-1.401421,0.21,,,2017-12-31,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
-2017-12-31,local-authority-eng:NWL,BLR14,Brooks Machine Tools Derby Road Kegworth,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,permissioned,full planning permission,,52.836272,-1.278624,0.11,,,2017-12-31,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
-2017-12-31,local-authority-eng:NWL,BLR15,Slack and Parr Long Lane Kegworth,https://www.nwleics.gov.uk/pages/brownfield_land_register,yes,not owned by a public authority,permissioned,full planning permission,,52.841067,-1.280712,3.35,,,2017-12-31,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
-2017-12-31,local-authority-eng:NWL,BLR16,Secura Labels 50-56 Measham Road Moira,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,permissioned,outline planning permission,,52.734193,-1.533528,0.28,,,2017-12-31,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
-,local-authority-eng:NWL,BLR17,The Holly Bush Inn Main Street Oakthorpe,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,permissioned,reserved matters approval,,,,0.19,,,,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
-2017-12-31,local-authority-eng:NWL,BLR18,Beasleys Nurseries Heather Lane Ravenstone,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,permissioned,outline planning permission,,52.716864,-1.407258,1.59,,,2017-12-31,,0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-12-31,local-authority-eng:NWL,BLR1,Land adjacent 215 Occupation Road Albert Village,https://www.nwleics.gov.uk/pages/brownfield_land_register,yes,not owned by a public authority,permissioned,reserved matters approval,,52.753639,-1.557338,0.22,,,2017-12-31,,"13/00856/OUT approved 2015/02/26 | 17/00178/REM condition discharge in 2017
+Erection of eight dwellings (Reserved Matters to Outline Planning Permission reference 13/00856/OUT of layout, scale, appearance and landscaping)
+",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+2017-12-31,local-authority-eng:NWL,BLR2,Jubilee Business Park Snarestone Road Appleby Magna,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,not permissioned,,,52.683435,-1.528403,2.02,38,38,2017-12-31,,"
+
+",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+2017-12-31,local-authority-eng:NWL,BLR3,Former Arla Dairy Smisby Road Ashby de la Zouch,https://www.nwleics.gov.uk/pages/brownfield_land_register,yes,not owned by a public authority,pending decision,outline planning permission,,52.757516,-1.474142,5.13,,,2017-12-31,,"16/00275/OUTM
+Erection of up to 153 dwellings with associated car parking, landscaping, open space and access roads (Outline - all matters other than part access reserved)
+",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+2017-12-31,local-authority-eng:NWL,BLR4,Breedon Priory Nursery Ashby Road Breedon on the Hill,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,pending decision,full planning permission,,52.802754,-1.404222,1.2,,,2017-12-31,,"16/01120/FULM | Whole site 3.93ha - B/F element Circa 1.2ha
+Removal of existing buildings and erection of 27 dwellings a new Village Hall new Commercial/Retail units new agricultural building together with associated access
+",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+2017-12-31,local-authority-eng:NWL,BLR5,Stevenson House Ashby Road Coalville,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,permissioned,outline planning permission,,52.72711,-1.380436,0.28,,,2017-12-31,,"13/00107/OUTM approved 2016/12/20
+Demolition of existing structures and the change of use of the land to residential with the erection 14 dwellings (Outline - All Matters reserved)
+",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+2017-12-31,local-authority-eng:NWL,BLR6,Former Needle Factory Wolsey Road Coalville,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,not permissioned,,,52.727335,-1.375383,2.06,38,38,2017-12-31,,"
+
+",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+2017-12-31,local-authority-eng:NWL,BLR7,The Piggeries North of Standard Hill Coalville,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,not permissioned,,,52.717114,-1.383953,0.65,10,10,2017-12-31,,"
+
+",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+2017-12-31,local-authority-eng:NWL,BLR8,Workspace 17 Highfield Street Coalville,https://www.nwleics.gov.uk/pages/brownfield_land_register,yes,owned by a public authority,permissioned,outline planning permission,,52.717387,-1.376014,0.56,,,2017-12-31,,"two applications approved on the same date 16/00414/OUTM is all residential 16/00415/OUTM has a retail element
+Demolition of existing buildings and erection of up to 20 dwellings (outline - details of part access included) | Demolition of existing buildings and erection of up to 18 dwellings and retail convenience store (A1) (outline - details of part access included)
+",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+2017-12-31,local-authority-eng:NWL,BLR9,The Old Foundry Bridge Road Coalville,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,pending decision,full planning permission,,52.721443,-1.369605,0.28,,,2017-12-31,,"03/00401/OUT approved 2008/03/31 Demolition of industrial buildings and redevelopment for residential purpose (outline - all matters reserved) | current history is 17/01381/FULM
+Erection of 14 dwellings
+https://plans.nwleics.gov.uk/public-access/simpleSearchResults.do?action=firstPage",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+2017-12-31,local-authority-eng:NWL,BLR10,Old Hall Farm Buildings Grimes Gate Diseworth,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,permissioned,full planning permission,,52.818152,-1.328143,0.59,,,2017-12-31,,"17/00332/FULM with linked Listed Building application - 17/00333/LBC both approved 2017/10/04
+Erection of 7 dwellings and conversion and change of use of agricultural building to 3 dwellings
+https://plans.nwleics.gov.uk/public-access/applicationDetails.do?activeTab=summary&keyVal=ONHB4ZLRLHX00",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+2017-12-31,local-authority-eng:NWL,BLR11,Car Park Moira Road Doninsthorpe,https://www.nwleics.gov.uk/pages/brownfield_land_register,,owned by a public authority,not permissioned,,,52.725865,-1.52802,0.25,18,18,2017-12-31,,"
+
+",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+2017-12-31,local-authority-eng:NWL,BLR12,MTS Logistics Mill Lane Heather,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,permissioned,full planning permission,,52.6921,-1.415035,1.05,,,2017-12-31,,"14/00396/FULM
+Re-development of existing site (Including demolition) to provide 14 residential units
+",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+2017-12-31,local-authority-eng:NWL,BLR13,Former Garage 112-128 Melbourne Road Ibstock,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,not permissioned,,,52.687906,-1.401421,0.21,,,2017-12-31,,"07/01200/OUT for 12 dwellings approved but has since lapsed
+Residential development - erection of 12 no. dwellings (Outline - layout and access)
+",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+2017-12-31,local-authority-eng:NWL,BLR14,Brooks Machine Tools Derby Road Kegworth,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,permissioned,full planning permission,,52.836272,-1.278624,0.11,,,2017-12-31,,"05/00405/FUL The site was granted planning permission in 2007 at appeal for the development of 16
+flats. Whilst this development has been started none of the dwellings have been completed.
+Erection of 16 Flats
+",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+2017-12-31,local-authority-eng:NWL,BLR15,Slack and Parr Long Lane Kegworth,https://www.nwleics.gov.uk/pages/brownfield_land_register,yes,not owned by a public authority,permissioned,full planning permission,,52.841067,-1.280712,3.35,,,2017-12-31,,"14/01132/FULM | Whole site 8.92ha - B/F element Circa 3.35ha
+Demolition of existing commercial building and erection of 188 dwellings, B2 manufacturing unit and associated development including vehicular access, pedestrian and cycle links, public open space, car parking, landscaping and drainage
+",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+2017-12-31,local-authority-eng:NWL,BLR16,Secura Labels 50-56 Measham Road Moira,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,permissioned,outline planning permission,,52.734193,-1.533528,0.28,,,2017-12-31,,"16/00811/OUT
+Demolition of existing buildings and erection of nine new dwellings and associated infrastructure (outline access and layout)
+",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+,local-authority-eng:NWL,BLR17,The Holly Bush Inn Main Street Oakthorpe,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,permissioned,reserved matters approval,,,,0.19,,,,,"permission has lapsed but it is currently being marketed
+Erection of 5 dwellings (Reserved matters to consider landscaping only in relation to 11/00672/EXT)
+",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914
+2017-12-31,local-authority-eng:NWL,BLR18,Beasleys Nurseries Heather Lane Ravenstone,https://www.nwleics.gov.uk/pages/brownfield_land_register,,not owned by a public authority,permissioned,outline planning permission,,52.716864,-1.407258,1.59,,,2017-12-31,,"16/01151/OUTM | Whole site 2.2ha - B/F element Circa 1.59ha
+Outline application for up to 37 dwellings together with associated public open space, surface water attenuation and access (details of part access included)
+",0971665e09d354b2b04ea04611aab728191abfc2614e06f1c99918c38698a914

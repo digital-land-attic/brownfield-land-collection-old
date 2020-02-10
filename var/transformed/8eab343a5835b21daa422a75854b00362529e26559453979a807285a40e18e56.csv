@@ -1,24 +1,70 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2018-11-09,local-authority-eng:ECA,BLR0201,"Police Station, 12, Bell Road, Bottisham, CAMBRIDGE, CB25 9DF",https://www.eastcambs.gov.uk/sites/default/files/BLR0201.jpg,yes,not owned by a public authority,permissioned,full planning permission,,52.222905,0.256845,0.11,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR0501,Former D S Smith Site Reach Road Burwell Burwell CB25 0AH,https://www.eastcambs.gov.uk/sites/default/files/BLR0501.jpg,yes,not owned by a public authority,permissioned,reserved matters approval,,52.266392,0.322746,3.053,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR0601,"1, Oak Lane, Cheveley, NEWMARKET, CB8 9RA",https://www.eastcambs.gov.uk/sites/default/files/BLR0601.jpg,yes,not owned by a public authority,permissioned,reserved matters approval,,52.21174,0.462439,0.513,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR1001,Land At Barton Road Car Park Barton Road Ely Cambridgeshire,https://www.eastcambs.gov.uk/sites/default/files/BLR1001.jpg,yes,owned by a public authority,permissioned,reserved matters approval,,52.396555,0.258723,0.186,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR1002,"Pound Store, 10, Forehill, ELY, Cambridgeshire CB7 4AF",https://www.eastcambs.gov.uk/sites/default/files/BLR1002.jpg,yes,not owned by a public authority,permissioned,full planning permission,,52.398304,0.266795,0.096,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR1003,"The Grange, Nutholt Lane, Ely CB7 4EE",https://www.eastcambs.gov.uk/sites/default/files/BLR1003.jpg,yes,owned by a public authority,not permissioned,,,52.400841,0.263666,0.605,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR1004,"Paradise Leisure Centre, Newnham St, Ely CB7 4PQ",https://www.eastcambs.gov.uk/sites/default/files/BLR1004.jpg,yes,owned by a public authority,not permissioned,,,52.401932,0.266758,1.037,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR1005,"Station Gateway, Angel Drove, Ely",https://www.eastcambs.gov.uk/sites/default/files/BLR1005.jpg,yes,not owned by a public authority,not permissioned,,,52.391786,0.264881,11.37,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR1006,"Princess of Wales Hospital, Lynn Road, Ely CB6 1DN",https://www.eastcambs.gov.uk/sites/default/files/BLR1006.jpg,yes,owned by a public authority,not permissioned,,,52.413149,0.276096,4.016,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR1101,"Scotsdale Garden Centre, Market Street, Fordham, CB7 5LQ",https://www.eastcambs.gov.uk/sites/default/files/BLR1101.jpg,yes,not owned by a public authority,permissioned,outline planning permission,,52.308715,0.380995,8.63,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR1102,"Fordham Technology Centre, 5 Station Road, Fordham, Ely, Cambridgeshire CB7 5LW",https://www.eastcambs.gov.uk/sites/default/files/BLR1102.jpg,yes,not owned by a public authority,permissioned,outline planning permission,,52.305717,0.383384,0.259,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR1701,"Land Adacent, 12, Holt Fen, Little Thetford, Cambridgeshire, CB6 3BH",https://www.eastcambs.gov.uk/sites/default/files/BLR1701.jpg,yes,not owned by a public authority,permissioned,outline planning permission,,52.359867,0.251546,0.259,0,0,2018-11-09,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR1801,"Station Road, Littleport, Ely CB6 1JL",https://www.eastcambs.gov.uk/sites/default/files/BLR1801.jpg,yes,not owned by a public authority,pending decision,,,52.459773,0.316185,1.063,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR1802,"The Bingo Hall, Hempfield Road, Littleport, ELY, CB6 1NW",https://www.eastcambs.gov.uk/sites/default/files/BLR1802.jpg,yes,not owned by a public authority,permissioned,full planning permission,,52.455757,0.304843,0.159,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR1803,"Site To North And North West Of 50, Station Road, Littleport, ELY, CB6 1QF",https://www.eastcambs.gov.uk/sites/default/files/BLR1803.jpg,yes,not owned by a public authority,permissioned,full planning permission,,52.462525,0.315777,0.305,0,0,2018-11-09,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR2301,"Land To Rear Of 7 & 7A Townsend, Soham, Cambridgeshire, CB7 5DB",https://www.eastcambs.gov.uk/sites/default/files/BLR2301.jpg,yes,not owned by a public authority,not permissioned,,,52.343162,0.332777,0.533,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR2302,"90 Paddock Street, Soham, Ely Cambridgeshire CB7 5JA",https://www.eastcambs.gov.uk/sites/default/files/BLR2302.jpg,yes,not owned by a public authority,permissioned,full planning permission,,52.332432,0.339674,0.177,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR2303,"Eastern Gateway, East Fen Common, Soham, Ely CB7 5JJ",https://www.eastcambs.gov.uk/sites/default/files/BLR2303.jpg,yes,not owned by a public authority,not permissioned,,,52.335557,0.351451,1.334,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR2304,"Station Rd, Soham, Ely CB7 5DZ",https://www.eastcambs.gov.uk/sites/default/files/BLR2304.jpg,yes,not owned by a public authority,not permissioned,,,52.335552,0.328779,4.109,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR2501,Former Haulage Yard Newmarket Road Stretham Cambridgeshire,https://www.eastcambs.gov.uk/sites/default/files/BLR2501.jpg,yes,not owned by a public authority,permissioned,full planning permission,,52.345556,0.224503,0.511,0,0,2018-11-09,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR2701,"Hillside Mill, Quarry Ln, Swaffham Bulbeck, Cambridge CB25 0LU",https://www.eastcambs.gov.uk/sites/default/files/BLR2501.jpg,yes,not owned by a public authority,permissioned,full planning permission,,52.23786,0.282012,0.522,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR3101,"36, Chapel Lane, Wicken, ELY, CB7 5XZ",https://www.eastcambs.gov.uk/sites/default/files/BLR3101.jpg,yes,not owned by a public authority,permissioned,outline planning permission,,52.314436,0.300915,0.476,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
-2018-11-09,local-authority-eng:ECA,BLR3301,"Kings of Witcham, The Slade, Ely, CB6 2LA",https://www.eastcambs.gov.uk/sites/default/files/BLR3301.jpg,yes,not owned by a public authority,permissioned,full planning permission,,52.396917,0.149029,0.409,0,0,2017-12-12,,8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2018-11-09,local-authority-eng:ECA,BLR0201,"Police Station, 12, Bell Road, Bottisham, CAMBRIDGE, CB25 9DF",https://www.eastcambs.gov.uk/sites/default/files/BLR0201.jpg,yes,not owned by a public authority,permissioned,full planning permission,,52.222905,0.256845,0.11,0,0,2017-12-12,,"
+Redevelopment of former police station Construction of 9No. Flats with offstreet parking and new access road off Bell  Road
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR0501,Former D S Smith Site Reach Road Burwell Burwell CB25 0AH,https://www.eastcambs.gov.uk/sites/default/files/BLR0501.jpg,yes,not owned by a public authority,permissioned,reserved matters approval,,52.266392,0.322746,3.053,0,0,2017-12-12,,"
+Approval of details for all reserved matters for the housing element ( plots 1-70) of planning application 14/00046/OUM
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR0601,"1, Oak Lane, Cheveley, NEWMARKET, CB8 9RA",https://www.eastcambs.gov.uk/sites/default/files/BLR0601.jpg,yes,not owned by a public authority,permissioned,reserved matters approval,,52.21174,0.462439,0.513,0,0,2017-12-12,,"
+Reserved matters application for erection of eight detached dwellings
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR1001,Land At Barton Road Car Park Barton Road Ely Cambridgeshire,https://www.eastcambs.gov.uk/sites/default/files/BLR1001.jpg,yes,owned by a public authority,permissioned,reserved matters approval,,52.396555,0.258723,0.186,0,0,2017-12-12,,"
+Residential development for 11 dwellings, with minor alterations to the existing vehicular and pedestrian access.
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR1002,"Pound Store, 10, Forehill, ELY, Cambridgeshire CB7 4AF",https://www.eastcambs.gov.uk/sites/default/files/BLR1002.jpg,yes,not owned by a public authority,permissioned,full planning permission,,52.398304,0.266795,0.096,0,0,2017-12-12,,"
+Refurbishment and partial demolition of existing building to provide five residential townhouses and one residential apartment over retained commercial unit.
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR1003,"The Grange, Nutholt Lane, Ely CB7 4EE",https://www.eastcambs.gov.uk/sites/default/files/BLR1003.jpg,yes,owned by a public authority,not permissioned,,,52.400841,0.263666,0.605,0,0,2017-12-12,,"
+The site is allocated by the Local Plan for mixed-use development.
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR1004,"Paradise Leisure Centre, Newnham St, Ely CB7 4PQ",https://www.eastcambs.gov.uk/sites/default/files/BLR1004.jpg,yes,owned by a public authority,not permissioned,,,52.401932,0.266758,1.037,0,0,2017-12-12,,"
+The site is allocated by the Local Plan for mixed-use development.
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR1005,"Station Gateway, Angel Drove, Ely",https://www.eastcambs.gov.uk/sites/default/files/BLR1005.jpg,yes,not owned by a public authority,not permissioned,,,52.391786,0.264881,11.37,0,0,2017-12-12,,"
+The site is allocated by the Local Plan for mixed-use development.
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR1006,"Princess of Wales Hospital, Lynn Road, Ely CB6 1DN",https://www.eastcambs.gov.uk/sites/default/files/BLR1006.jpg,yes,owned by a public authority,not permissioned,,,52.413149,0.276096,4.016,0,0,2017-12-12,,"
+The submitted Local Plan identifies the site for mixed-use development.
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR1101,"Scotsdale Garden Centre, Market Street, Fordham, CB7 5LQ",https://www.eastcambs.gov.uk/sites/default/files/BLR1101.jpg,yes,not owned by a public authority,permissioned,outline planning permission,,52.308715,0.380995,8.63,0,0,2017-12-12,,"
+The site forms an area of brownfield land within a larger site,  with outline permission for 150 residential dwellings, a 75-bed care home, a local shop and an ancillary medical consultation facility.
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR1102,"Fordham Technology Centre, 5 Station Road, Fordham, Ely, Cambridgeshire CB7 5LW",https://www.eastcambs.gov.uk/sites/default/files/BLR1102.jpg,yes,not owned by a public authority,permissioned,outline planning permission,,52.305717,0.383384,0.259,0,0,2017-12-12,,"
+The site boundary includes an area of brownfield land which forms part of a larger site with planning permission for residential development for up to 27 dwellings.
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR1701,"Land Adacent, 12, Holt Fen, Little Thetford, Cambridgeshire, CB6 3BH",https://www.eastcambs.gov.uk/sites/default/files/BLR1701.jpg,yes,not owned by a public authority,permissioned,outline planning permission,,52.359867,0.251546,0.259,0,0,2018-11-09,,"
+Erection of four dwellings and associated works
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR1801,"Station Road, Littleport, Ely CB6 1JL",https://www.eastcambs.gov.uk/sites/default/files/BLR1801.jpg,yes,not owned by a public authority,pending decision,,,52.459773,0.316185,1.063,0,0,2017-12-12,,"
+Residential development incorporating a new access, strategic landscaping & public open space.
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR1802,"The Bingo Hall, Hempfield Road, Littleport, ELY, CB6 1NW",https://www.eastcambs.gov.uk/sites/default/files/BLR1802.jpg,yes,not owned by a public authority,permissioned,full planning permission,,52.455757,0.304843,0.159,0,0,2017-12-12,,"
+Residential development of nine dwellings comprising 1no one bed flat, 4no two bed houses, 4no three bed houses, parking, access drive and associated site works
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR1803,"Site To North And North West Of 50, Station Road, Littleport, ELY, CB6 1QF",https://www.eastcambs.gov.uk/sites/default/files/BLR1803.jpg,yes,not owned by a public authority,permissioned,full planning permission,,52.462525,0.315777,0.305,0,0,2018-11-09,,"
+Demolition of existing structures and erection of 3 detached dwellings, with associated access and landscaping works
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR2301,"Land To Rear Of 7 & 7A Townsend, Soham, Cambridgeshire, CB7 5DB",https://www.eastcambs.gov.uk/sites/default/files/BLR2301.jpg,yes,not owned by a public authority,not permissioned,,,52.343162,0.332777,0.533,0,0,2017-12-12,,"
+The submitted Local Plan identifies the site for housing development
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR2302,"90 Paddock Street, Soham, Ely Cambridgeshire CB7 5JA",https://www.eastcambs.gov.uk/sites/default/files/BLR2302.jpg,yes,not owned by a public authority,permissioned,full planning permission,,52.332432,0.339674,0.177,0,0,2017-12-12,,"
+Erection of 10 dwellings following the demolition of 90 Paddock Street. Creation of new vehicular access. Alterations and extensions to front boundary wall.
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR2303,"Eastern Gateway, East Fen Common, Soham, Ely CB7 5JJ",https://www.eastcambs.gov.uk/sites/default/files/BLR2303.jpg,yes,not owned by a public authority,not permissioned,,,52.335557,0.351451,1.334,0,0,2017-12-12,,"
+The site forms part of a larger strategic site, allocated by the Local Plan for mixed-use development. The site boundary includes only the area considered to be brownfield land.
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR2304,"Station Rd, Soham, Ely CB7 5DZ",https://www.eastcambs.gov.uk/sites/default/files/BLR2304.jpg,yes,not owned by a public authority,not permissioned,,,52.335552,0.328779,4.109,0,0,2017-12-12,,"
+The site is allocated by the Local Plan for mixed-use development.
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR2501,Former Haulage Yard Newmarket Road Stretham Cambridgeshire,https://www.eastcambs.gov.uk/sites/default/files/BLR2501.jpg,yes,not owned by a public authority,permissioned,full planning permission,,52.345556,0.224503,0.511,0,0,2018-11-09,,"
+Proposed redevelopment of transport depot including construction of 4no. three bedroom, two storey and 5no. four bedroom, two storey dwellings and highway improvements
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR2701,"Hillside Mill, Quarry Ln, Swaffham Bulbeck, Cambridge CB25 0LU",https://www.eastcambs.gov.uk/sites/default/files/BLR2501.jpg,yes,not owned by a public authority,permissioned,full planning permission,,52.23786,0.282012,0.522,0,0,2017-12-12,,"
+Construction of 19 dwellings with associated parking and amenity space and retention of existing offices on site. Site boundary relates only to part of site considered brownfield.
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR3101,"36, Chapel Lane, Wicken, ELY, CB7 5XZ",https://www.eastcambs.gov.uk/sites/default/files/BLR3101.jpg,yes,not owned by a public authority,permissioned,outline planning permission,,52.314436,0.300915,0.476,0,0,2017-12-12,,"
+Demolition of existing outbuildings and construction of 5 No detached and 2 No semi-detached houses with associated access road.
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56
+2018-11-09,local-authority-eng:ECA,BLR3301,"Kings of Witcham, The Slade, Ely, CB6 2LA",https://www.eastcambs.gov.uk/sites/default/files/BLR3301.jpg,yes,not owned by a public authority,permissioned,full planning permission,,52.396917,0.149029,0.409,0,0,2017-12-12,,"
+Demolition of existing motor vehicle garage and construction of 6No four bed dwellings, 2No 3 bed dwellings, garaging, access road and associated works
+",8eab343a5835b21daa422a75854b00362529e26559453979a807285a40e18e56

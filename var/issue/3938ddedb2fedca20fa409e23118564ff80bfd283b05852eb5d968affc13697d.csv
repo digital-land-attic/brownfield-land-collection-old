@@ -1,663 +1,175 @@
 row-number,field,issue-type,value
 1,PlanningStatus,enum,Other Commitment
-1,SiteReference,missing,
 2,PlanningStatus,enum,Other Commitment
-2,SiteReference,missing,
-3,SiteReference,missing,
-4,SiteReference,missing,
-5,SiteReference,missing,
-6,SiteReference,missing,
-7,SiteReference,missing,
-8,SiteReference,missing,
-9,SiteReference,missing,
-10,SiteReference,missing,
-11,SiteReference,missing,
-12,SiteReference,missing,
-13,SiteReference,missing,
-14,SiteReference,missing,
-15,SiteReference,missing,
-16,SiteReference,missing,
-17,SiteReference,missing,
-18,SiteReference,missing,
-19,SiteReference,missing,
-20,SiteReference,missing,
-21,SiteReference,missing,
-22,SiteReference,missing,
-23,SiteReference,missing,
-24,SiteReference,missing,
-25,SiteReference,missing,
-26,SiteReference,missing,
-27,SiteReference,missing,
-28,SiteReference,missing,
-29,SiteReference,missing,
-30,SiteReference,missing,
-31,SiteReference,missing,
-32,SiteReference,missing,
-33,SiteReference,missing,
-34,SiteReference,missing,
-35,SiteReference,missing,
-36,SiteReference,missing,
-37,SiteReference,missing,
-38,SiteReference,missing,
-39,SiteReference,missing,
 40,PlanningStatus,enum,Completed During 2016/17
-40,SiteReference,missing,
-41,SiteReference,missing,
-42,SiteReference,missing,
-43,SiteReference,missing,
-44,SiteReference,missing,
-45,SiteReference,missing,
-46,SiteReference,missing,
-47,SiteReference,missing,
-48,SiteReference,missing,
-49,SiteReference,missing,
-50,SiteReference,missing,
-51,SiteReference,missing,
-52,SiteReference,missing,
-53,SiteReference,missing,
-54,SiteReference,missing,
-55,SiteReference,missing,
-56,SiteReference,missing,
-57,SiteReference,missing,
-58,SiteReference,missing,
 59,PlanningStatus,enum,Completed During 2016/17
-59,SiteReference,missing,
 60,PlanningStatus,enum,Completed During 2016/17
-60,SiteReference,missing,
 61,PlanningStatus,enum,Completed During 2016/17
-61,SiteReference,missing,
 62,PlanningStatus,enum,Completed During 2016/17
-62,SiteReference,missing,
 63,PlanningStatus,enum,Completed During 2016/17
-63,SiteReference,missing,
-64,SiteReference,missing,
 65,PlanningStatus,enum,Completed During 2016/17
-65,SiteReference,missing,
 66,PlanningStatus,enum,Completed During 2016/17
-66,SiteReference,missing,
 67,PlanningStatus,enum,Completed During 2016/17
-67,SiteReference,missing,
 68,PlanningStatus,enum,Other Commitment
-68,SiteReference,missing,
 69,PlanningStatus,enum,Other Commitment
-69,SiteReference,missing,
 70,PlanningStatus,enum,Other Commitment
-70,SiteReference,missing,
 71,PlanningStatus,enum,Other Commitment
-71,SiteReference,missing,
 72,PlanningStatus,enum,Other Commitment
-72,SiteReference,missing,
 73,PlanningStatus,enum,Other Commitment
-73,SiteReference,missing,
 74,PlanningStatus,enum,Other Commitment
-74,SiteReference,missing,
 75,PlanningStatus,enum,Other Commitment
-75,SiteReference,missing,
 76,PlanningStatus,enum,Other Commitment
-76,SiteReference,missing,
 77,PlanningStatus,enum,Other Commitment
-77,SiteReference,missing,
 78,PlanningStatus,enum,Other Commitment
-78,SiteReference,missing,
 79,PlanningStatus,enum,Other Commitment
-79,SiteReference,missing,
 80,PlanningStatus,enum,Other Commitment
-80,SiteReference,missing,
 81,PlanningStatus,enum,Other Commitment
-81,SiteReference,missing,
 82,PlanningStatus,enum,Other Commitment
-82,SiteReference,missing,
 83,PlanningStatus,enum,Other Commitment
-83,SiteReference,missing,
 84,PlanningStatus,enum,Other Commitment
-84,SiteReference,missing,
 85,PlanningStatus,enum,Other Commitment
-85,SiteReference,missing,
 86,PlanningStatus,enum,Other Commitment
-86,SiteReference,missing,
 87,PlanningStatus,enum,Other Commitment
-87,SiteReference,missing,
 88,PlanningStatus,enum,Other Commitment
-88,SiteReference,missing,
 89,PlanningStatus,enum,Other Commitment
-89,SiteReference,missing,
 90,PlanningStatus,enum,Other Commitment
-90,SiteReference,missing,
 91,PlanningStatus,enum,Other Commitment
-91,SiteReference,missing,
 92,PlanningStatus,enum,Other Commitment
-92,SiteReference,missing,
 93,PlanningStatus,enum,Other Commitment
-93,SiteReference,missing,
 93,GeoX,missing,
 93,GeoY,missing,
 94,PlanningStatus,enum,Other Commitment
-94,SiteReference,missing,
 95,PlanningStatus,enum,Other Commitment
-95,SiteReference,missing,
 96,PlanningStatus,enum,Other Commitment
-96,SiteReference,missing,
 97,PlanningStatus,enum,Other Commitment
-97,SiteReference,missing,
 98,PlanningStatus,enum,Other Commitment
-98,SiteReference,missing,
 99,PlanningStatus,enum,Other Commitment
-99,SiteReference,missing,
 100,PlanningStatus,enum,Other Commitment
-100,SiteReference,missing,
 101,PlanningStatus,enum,Other Commitment
-101,SiteReference,missing,
 102,PlanningStatus,enum,Other Commitment
-102,SiteReference,missing,
 103,PlanningStatus,enum,Other Commitment
-103,SiteReference,missing,
 104,PlanningStatus,enum,Other Commitment
-104,SiteReference,missing,
 105,PlanningStatus,enum,Other Commitment
-105,SiteReference,missing,
 106,PlanningStatus,enum,Other Commitment
-106,SiteReference,missing,
 107,PlanningStatus,enum,Other Commitment
-107,SiteReference,missing,
 108,PlanningStatus,enum,Other Commitment
-108,SiteReference,missing,
-109,SiteReference,missing,
-110,SiteReference,missing,
 111,PlanningStatus,enum,Other Commitment
-111,SiteReference,missing,
 112,PlanningStatus,enum,Other Commitment
-112,SiteReference,missing,
 113,PlanningStatus,enum,Other Commitment
-113,SiteReference,missing,
 114,PlanningStatus,enum,Other Commitment
-114,SiteReference,missing,
 115,PlanningStatus,enum,Other Commitment
-115,SiteReference,missing,
 116,PlanningStatus,enum,Other Commitment
-116,SiteReference,missing,
 117,PlanningStatus,enum,Other Commitment
-117,SiteReference,missing,
 118,PlanningStatus,enum,Other Commitment
-118,SiteReference,missing,
 119,PlanningStatus,enum,Other Commitment
-119,SiteReference,missing,
 120,PlanningStatus,enum,Other Commitment
-120,SiteReference,missing,
-121,SiteReference,missing,
 122,PlanningStatus,enum,Other Commitment
-122,SiteReference,missing,
-123,SiteReference,missing,
 124,PlanningStatus,enum,Other Commitment
-124,SiteReference,missing,
 125,PlanningStatus,enum,Other Commitment
-125,SiteReference,missing,
 126,PlanningStatus,enum,Other Commitment
-126,SiteReference,missing,
 127,PlanningStatus,enum,Other Commitment
-127,SiteReference,missing,
 128,PlanningStatus,enum,Adopted Local Plan
-128,SiteReference,missing,
 129,PlanningStatus,enum,Other Commitment
-129,SiteReference,missing,
 130,PlanningStatus,enum,Completed During 2016/17
-130,SiteReference,missing,
 131,PlanningStatus,enum,Other Commitment
-131,SiteReference,missing,
-132,SiteReference,missing,
 133,PlanningStatus,enum,Other Commitment
-133,SiteReference,missing,
-134,SiteReference,missing,
 135,PlanningStatus,enum,Adopted Local Plan
-135,SiteReference,missing,
-136,SiteReference,missing,
 137,PlanningStatus,enum,Other Commitment
-137,SiteReference,missing,
 138,PlanningStatus,enum,Other Commitment
-138,SiteReference,missing,
 139,PlanningStatus,enum,Other Commitment
-139,SiteReference,missing,
-140,SiteReference,missing,
 141,PlanningStatus,enum,Other Commitment
-141,SiteReference,missing,
-142,SiteReference,missing,
-143,SiteReference,missing,
-144,SiteReference,missing,
-145,SiteReference,missing,
-146,SiteReference,missing,
-147,SiteReference,missing,
-148,SiteReference,missing,
-149,SiteReference,missing,
-150,SiteReference,missing,
-151,SiteReference,missing,
 152,PlanningStatus,enum,Other Commitment
-152,SiteReference,missing,
 153,PlanningStatus,enum,Other Commitment
-153,SiteReference,missing,
-154,SiteReference,missing,
 155,PlanningStatus,enum,Other Commitment
-155,SiteReference,missing,
-156,SiteReference,missing,
-157,SiteReference,missing,
 158,PlanningStatus,enum,Other Commitment
-158,SiteReference,missing,
-159,SiteReference,missing,
-160,SiteReference,missing,
-161,SiteReference,missing,
-162,SiteReference,missing,
-163,SiteReference,missing,
 164,PlanningStatus,enum,Other Commitment
-164,SiteReference,missing,
-165,SiteReference,missing,
-166,SiteReference,missing,
-167,SiteReference,missing,
-168,SiteReference,missing,
-169,SiteReference,missing,
-170,SiteReference,missing,
 171,PlanningStatus,enum,Other Commitment
-171,SiteReference,missing,
 172,PlanningStatus,enum,Other Commitment
-172,SiteReference,missing,
-173,SiteReference,missing,
-174,SiteReference,missing,
-175,SiteReference,missing,
-176,SiteReference,missing,
-177,SiteReference,missing,
-178,SiteReference,missing,
 179,PlanningStatus,enum,Other Commitment
-179,SiteReference,missing,
-180,SiteReference,missing,
-181,SiteReference,missing,
-182,SiteReference,missing,
-183,SiteReference,missing,
 184,PlanningStatus,enum,Other Commitment
-184,SiteReference,missing,
 185,PlanningStatus,enum,Other Commitment
-185,SiteReference,missing,
-186,SiteReference,missing,
-187,SiteReference,missing,
-188,SiteReference,missing,
-189,SiteReference,missing,
-190,SiteReference,missing,
-191,SiteReference,missing,
-192,SiteReference,missing,
-193,SiteReference,missing,
-194,SiteReference,missing,
 195,PlanningStatus,enum,Other Commitment
-195,SiteReference,missing,
 196,PlanningStatus,enum,Other Commitment
-196,SiteReference,missing,
-197,SiteReference,missing,
-198,SiteReference,missing,
-199,SiteReference,missing,
-200,SiteReference,missing,
-201,SiteReference,missing,
-202,SiteReference,missing,
-203,SiteReference,missing,
-204,SiteReference,missing,
 205,PlanningStatus,enum,Other Commitment
-205,SiteReference,missing,
-206,SiteReference,missing,
 207,PlanningStatus,enum,Other Commitment
-207,SiteReference,missing,
-208,SiteReference,missing,
-209,SiteReference,missing,
 210,PlanningStatus,enum,Other Commitment
-210,SiteReference,missing,
-211,SiteReference,missing,
-212,SiteReference,missing,
-213,SiteReference,missing,
-214,SiteReference,missing,
-215,SiteReference,missing,
-216,SiteReference,missing,
-217,SiteReference,missing,
-218,SiteReference,missing,
-219,SiteReference,missing,
-220,SiteReference,missing,
 221,PlanningStatus,enum,Completed During 2016/17
-221,SiteReference,missing,
-222,SiteReference,missing,
-223,SiteReference,missing,
-224,SiteReference,missing,
-225,SiteReference,missing,
-226,SiteReference,missing,
-227,SiteReference,missing,
-228,SiteReference,missing,
-229,SiteReference,missing,
-230,SiteReference,missing,
-231,SiteReference,missing,
-232,SiteReference,missing,
-233,SiteReference,missing,
 234,PlanningStatus,enum,Other Commitment
-234,SiteReference,missing,
 235,PlanningStatus,enum,Other Commitment
-235,SiteReference,missing,
 236,PlanningStatus,enum,Adopted Local Plan
-236,SiteReference,missing,
-237,SiteReference,missing,
 238,PlanningStatus,enum,Other Commitment
-238,SiteReference,missing,
-239,SiteReference,missing,
 240,PlanningStatus,enum,Other Commitment
-240,SiteReference,missing,
-241,SiteReference,missing,
 242,PlanningStatus,enum,Other Commitment
-242,SiteReference,missing,
-243,SiteReference,missing,
-244,SiteReference,missing,
-245,SiteReference,missing,
 246,PlanningStatus,enum,Other Commitment
-246,SiteReference,missing,
-247,SiteReference,missing,
-248,SiteReference,missing,
 249,PlanningStatus,enum,Other Commitment
-249,SiteReference,missing,
-250,SiteReference,missing,
-251,SiteReference,missing,
-252,SiteReference,missing,
-253,SiteReference,missing,
-254,SiteReference,missing,
-255,SiteReference,missing,
-256,SiteReference,missing,
-257,SiteReference,missing,
-258,SiteReference,missing,
-259,SiteReference,missing,
-260,SiteReference,missing,
-261,SiteReference,missing,
 262,PlanningStatus,enum,Adopted Local Plan
-262,SiteReference,missing,
-263,SiteReference,missing,
 264,PlanningStatus,enum,Completed During 2016/17
-264,SiteReference,missing,
-265,SiteReference,missing,
-266,SiteReference,missing,
-267,SiteReference,missing,
 268,PlanningStatus,enum,Completed During 2016/17
-268,SiteReference,missing,
 269,PlanningStatus,enum,Completed During 2016/17
-269,SiteReference,missing,
-270,SiteReference,missing,
-271,SiteReference,missing,
-272,SiteReference,missing,
-273,SiteReference,missing,
-274,SiteReference,missing,
-275,SiteReference,missing,
-276,SiteReference,missing,
-277,SiteReference,missing,
-278,SiteReference,missing,
-279,SiteReference,missing,
-280,SiteReference,missing,
-281,SiteReference,missing,
 282,PlanningStatus,enum,Other Commitment
-282,SiteReference,missing,
-283,SiteReference,missing,
-284,SiteReference,missing,
-285,SiteReference,missing,
-286,SiteReference,missing,
-287,SiteReference,missing,
-288,SiteReference,missing,
-289,SiteReference,missing,
-290,SiteReference,missing,
-291,SiteReference,missing,
-292,SiteReference,missing,
-293,SiteReference,missing,
-294,SiteReference,missing,
-295,SiteReference,missing,
-296,SiteReference,missing,
-297,SiteReference,missing,
-298,SiteReference,missing,
 299,PlanningStatus,enum,Other Commitment
-299,SiteReference,missing,
-300,SiteReference,missing,
-301,SiteReference,missing,
-302,SiteReference,missing,
-303,SiteReference,missing,
-304,SiteReference,missing,
-305,SiteReference,missing,
-306,SiteReference,missing,
-307,SiteReference,missing,
 308,PlanningStatus,enum,Completed During 2016/17
-308,SiteReference,missing,
-309,SiteReference,missing,
-310,SiteReference,missing,
 311,PlanningStatus,enum,Completed During 2016/17
-311,SiteReference,missing,
-312,SiteReference,missing,
-313,SiteReference,missing,
-314,SiteReference,missing,
-315,SiteReference,missing,
 316,PlanningStatus,enum,Completed During 2016/17
-316,SiteReference,missing,
-317,SiteReference,missing,
-318,SiteReference,missing,
-319,SiteReference,missing,
-320,SiteReference,missing,
-321,SiteReference,missing,
 322,PlanningStatus,enum,Completed During 2016/17
-322,SiteReference,missing,
 323,PlanningStatus,enum,Completed During 2016/17
-323,SiteReference,missing,
-324,SiteReference,missing,
-325,SiteReference,missing,
 326,PlanningStatus,enum,Completed During 2016/17
-326,SiteReference,missing,
-327,SiteReference,missing,
 328,PlanningStatus,enum,Completed During 2016/17
-328,SiteReference,missing,
-329,SiteReference,missing,
-330,SiteReference,missing,
-331,SiteReference,missing,
-332,SiteReference,missing,
 333,PlanningStatus,enum,Completed During 2016/17
-333,SiteReference,missing,
-334,SiteReference,missing,
-335,SiteReference,missing,
 336,PlanningStatus,enum,Completed During 2016/17
-336,SiteReference,missing,
-337,SiteReference,missing,
-338,SiteReference,missing,
-339,SiteReference,missing,
-340,SiteReference,missing,
-341,SiteReference,missing,
-342,SiteReference,missing,
-343,SiteReference,missing,
-344,SiteReference,missing,
-345,SiteReference,missing,
-346,SiteReference,missing,
 347,PlanningStatus,enum,Completed During 2016/17
-347,SiteReference,missing,
-348,SiteReference,missing,
 349,PlanningStatus,enum,Completed During 2016/17
-349,SiteReference,missing,
 350,PlanningStatus,enum,Completed During 2016/17
-350,SiteReference,missing,
-351,SiteReference,missing,
-352,SiteReference,missing,
-353,SiteReference,missing,
-354,SiteReference,missing,
-355,SiteReference,missing,
-356,SiteReference,missing,
-357,SiteReference,missing,
 358,PlanningStatus,enum,Completed During 2016/17
-358,SiteReference,missing,
-359,SiteReference,missing,
-360,SiteReference,missing,
-361,SiteReference,missing,
-362,SiteReference,missing,
-363,SiteReference,missing,
 364,PlanningStatus,enum,Completed During 2016/17
-364,SiteReference,missing,
-365,SiteReference,missing,
-366,SiteReference,missing,
-367,SiteReference,missing,
-368,SiteReference,missing,
-369,SiteReference,missing,
-370,SiteReference,missing,
-371,SiteReference,missing,
-372,SiteReference,missing,
-373,SiteReference,missing,
-374,SiteReference,missing,
 375,PlanningStatus,enum,Completed During 2016/17
-375,SiteReference,missing,
-376,SiteReference,missing,
-377,SiteReference,missing,
-378,SiteReference,missing,
-379,SiteReference,missing,
-380,SiteReference,missing,
-381,SiteReference,missing,
-382,SiteReference,missing,
-383,SiteReference,missing,
-384,SiteReference,missing,
-385,SiteReference,missing,
-386,SiteReference,missing,
-387,SiteReference,missing,
 388,PlanningStatus,enum,Completed During 2016/17
-388,SiteReference,missing,
-389,SiteReference,missing,
-390,SiteReference,missing,
-391,SiteReference,missing,
-392,SiteReference,missing,
-393,SiteReference,missing,
-394,SiteReference,missing,
-395,SiteReference,missing,
-396,SiteReference,missing,
 397,PlanningStatus,enum,Completed During 2016/17
-397,SiteReference,missing,
-398,SiteReference,missing,
 399,PlanningStatus,enum,Adopted Local Plan
-399,SiteReference,missing,
-400,SiteReference,missing,
-401,SiteReference,missing,
 402,PlanningStatus,enum,Completed During 2016/17
-402,SiteReference,missing,
-403,SiteReference,missing,
-404,SiteReference,missing,
-405,SiteReference,missing,
-406,SiteReference,missing,
-407,SiteReference,missing,
 408,PlanningStatus,enum,Adopted Local Plan
-408,SiteReference,missing,
-409,SiteReference,missing,
 410,PlanningStatus,enum,Completed During 2016/17
-410,SiteReference,missing,
-411,SiteReference,missing,
 412,PlanningStatus,enum,Completed During 2016/17
-412,SiteReference,missing,
 413,PlanningStatus,enum,Adopted Local Plan
-413,SiteReference,missing,
 414,PlanningStatus,enum,Adopted Local Plan
-414,SiteReference,missing,
-415,SiteReference,missing,
-416,SiteReference,missing,
-417,SiteReference,missing,
 418,PlanningStatus,enum,Adopted Local Plan
-418,SiteReference,missing,
-419,SiteReference,missing,
-420,SiteReference,missing,
-421,SiteReference,missing,
 422,PlanningStatus,enum,Other Commitment
-422,SiteReference,missing,
-423,SiteReference,missing,
-424,SiteReference,missing,
-425,SiteReference,missing,
-426,SiteReference,missing,
-427,SiteReference,missing,
 428,PlanningStatus,enum,Other Commitment
-428,SiteReference,missing,
-429,SiteReference,missing,
-430,SiteReference,missing,
-431,SiteReference,missing,
-432,SiteReference,missing,
 433,PlanningStatus,enum,Adopted Local Plan
-433,SiteReference,missing,
 434,PlanningStatus,enum,Adopted Local Plan
-434,SiteReference,missing,
 435,PlanningStatus,enum,Other Commitment
-435,SiteReference,missing,
-436,SiteReference,missing,
-437,SiteReference,missing,
-438,SiteReference,missing,
 439,PlanningStatus,enum,Adopted Local Plan
-439,SiteReference,missing,
 440,PlanningStatus,enum,Adopted Local Plan
-440,SiteReference,missing,
 441,PlanningStatus,enum,Adopted Local Plan
-441,SiteReference,missing,
 442,PlanningStatus,enum,Adopted Local Plan
-442,SiteReference,missing,
 443,PlanningStatus,enum,Adopted Local Plan
-443,SiteReference,missing,
 444,PlanningStatus,enum,Adopted Local Plan
-444,SiteReference,missing,
-445,SiteReference,missing,
 446,PlanningStatus,enum,Adopted Local Plan
-446,SiteReference,missing,
 447,PlanningStatus,enum,Adopted Local Plan
-447,SiteReference,missing,
 448,PlanningStatus,enum,Adopted Local Plan
-448,SiteReference,missing,
 449,PlanningStatus,enum,Adopted Local Plan
-449,SiteReference,missing,
 450,PlanningStatus,enum,Adopted Local Plan
-450,SiteReference,missing,
 451,PlanningStatus,enum,Adopted Local Plan
-451,SiteReference,missing,
 452,PlanningStatus,enum,Adopted Local Plan
-452,SiteReference,missing,
 453,PlanningStatus,enum,Adopted Local Plan
-453,SiteReference,missing,
 454,PlanningStatus,enum,Adopted Local Plan
-454,SiteReference,missing,
 455,PlanningStatus,enum,Adopted Local Plan
-455,SiteReference,missing,
 456,PlanningStatus,enum,Adopted Local Plan
-456,SiteReference,missing,
 457,PlanningStatus,enum,Adopted Local Plan
-457,SiteReference,missing,
 458,PlanningStatus,enum,Adopted Local Plan
-458,SiteReference,missing,
 459,PlanningStatus,enum,Adopted Local Plan
-459,SiteReference,missing,
 460,PlanningStatus,enum,Adopted Local Plan
-460,SiteReference,missing,
 461,PlanningStatus,enum,Adopted Local Plan
-461,SiteReference,missing,
 462,PlanningStatus,enum,Adopted Local Plan
-462,SiteReference,missing,
-463,SiteReference,missing,
-464,SiteReference,missing,
-465,SiteReference,missing,
 466,PlanningStatus,enum,Completed During 2016/17
-466,SiteReference,missing,
 467,PlanningStatus,enum,Adopted Local Plan
-467,SiteReference,missing,
-468,SiteReference,missing,
-469,SiteReference,missing,
 470,PlanningStatus,enum,Adopted Local Plan
-470,SiteReference,missing,
-471,SiteReference,missing,
 472,PlanningStatus,enum,Other Commitment
-472,SiteReference,missing,
-473,SiteReference,missing,
-474,SiteReference,missing,
-475,SiteReference,missing,
-476,SiteReference,missing,
 477,PlanningStatus,enum,Completed During 2016/17
-477,SiteReference,missing,
-478,SiteReference,missing,
 479,PlanningStatus,enum,Other Commitment
-479,SiteReference,missing,
 480,PlanningStatus,enum,Completed During 2016/17
-480,SiteReference,missing,
-481,SiteReference,missing,
-482,SiteReference,missing,
 483,OrganisationURI,default,http://opendatacommunities.org/id/metropolitan-district-council/wolverhampton
-483,SiteReference,missing,
 484,OrganisationURI,default,http://opendatacommunities.org/id/metropolitan-district-council/wolverhampton
-484,SiteReference,missing,
 485,PlanningStatus,enum,Completed During 2016/7
 485,OrganisationURI,default,http://opendatacommunities.org/id/metropolitan-district-council/wolverhampton
-485,SiteReference,missing,
-486,SiteReference,missing,
 487,PlanningStatus,enum,Adopted Local Plan
-487,SiteReference,missing,
-488,SiteReference,missing,

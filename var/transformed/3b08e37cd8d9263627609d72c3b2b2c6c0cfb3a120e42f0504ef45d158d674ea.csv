@@ -1,38 +1,112 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:WOC,SWDP43/3,Ribble Close & Gas Holder Site,,yes,not owned by a public authority,not permissioned,other,,52.190268,-2.203305,1.2,40,50,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,SWDP43/19,"Blackpole Road, Western Power Distribution Depot",,yes,not owned by a public authority,not permissioned,other,,,,2.58,40,40,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,SWDP43/a,73-77 Bromwich Road,,yes,not owned by a public authority,not permissioned,other,,,,0.14,5,11,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,SWDP43/c,"Malvern Gate, Bromwich Road",,yes,not owned by a public authority,not permissioned,other,,52.173761,-2.234108,1.28,45,55,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,SWDP43/9,"Old Brewery Service Station, Barbourne Road",,yes,not owned by a public authority,permissioned,full planning permission,,52.202013,-2.2261,0.14,12,18,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,SWDP43/f,"County Council Offices, Sherwood Lane",,yes,owned by a public authority,not permissioned,other,,52.17502,-2.237981,0.5,25,30,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,SWDP43/g,"County Council Offices, Bilford Road",,yes,owned by a public authority,not permissioned,other,,52.213017,-2.216007,0.67,15,20,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,SWDP43/h,"Laugherne Garage, Bransford Road",,yes,not owned by a public authority,not permissioned,other,,52.183961,-2.253973,0.44,8,10,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,SWDP43/m,"Former Club House, Tolladine Golf Course",,yes,not owned by a public authority,not permissioned,other,,52.199268,-2.188366,0.5,9,15,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,SWDP43/q,79 St Johns,,yes,not owned by a public authority,pending decision,other,,52.186872,-2.235188,0.05,10,10,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,SWDP43/s,Rose Avenue,,yes,not owned by a public authority,not permissioned,other,,52.198356,-2.201603,0.18,5,8,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,SWDP43/t,"Commandery Coach Depot, Tolladine Road",,yes,not owned by a public authority,not permissioned,other,,,,0.07,5,7,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,SWDP43/w,23-24 Foregate Street,,yes,not owned by a public authority,not permissioned,other,,52.196156,-2.221975,0.1,5,10,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,SWDP43/r,"The Bridge Inn, Lowesmoor Terrace",,yes,not owned by a public authority,not permissioned,other,,52.195967,-2.215645,0.1,5,9,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,SWDP43/aa,Lowesmoor Wharf,,yes,not owned by a public authority,not permissioned,other,,52.195718,-2.216588,1.14,50,100,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,SWDP44/4,Shrub Hill Opportunity Zone,,yes,not owned by a public authority,not permissioned,other,,52.195266,-2.211276,19.72,,,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,SWDP44/5,Carden Street Opportunity Zone,,yes,mixed ownership,not permissioned,other,,52.19044,-2.215937,3.9,,,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P15C0371,"The Ice House, Bromyard Road",,yes,not owned by a public authority,permissioned,full planning permission,,52.186742,-2.25131,0.45,30,54,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P15K0271,Rear of 18 St Johns,,yes,not owned by a public authority,permissioned,full planning permission,,52.188851,-2.234508,0.11,11,11,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P15D0554,"Former History Centre, Trinity House",,yes,not owned by a public authority,permissioned,full planning permission,,,,0.05,5,9,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P18D0310,Former Worcester Fire Station,,yes,not owned by a public authority,permissioned,permission in principle,,52.190562,-2.221496,0.16,9,9,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P18B0003,137 Bath Road,,yes,not owned by a public authority,permissioned,full planning permission,,52.18174,-2.21696,0.13,5,5,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P16C0542,5 Bull Ring,,yes,not owned by a public authority,permissioned,full planning permission,,52.18843,-2.23301,0.07,5,6,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P17D0087,12 Sansome Place,,yes,not owned by a public authority,permissioned,full planning permission,,52.19519,-2.21949,0.01,5,6,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P17D0451,"Stuart House, 147 London Road",,yes,not owned by a public authority,permissioned,full planning permission,,52.18507,-2.20569,0.15,5,6,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P17J0504,The Crown and Anchor 223 Hylton Road,,yes,not owned by a public authority,permissioned,full planning permission,,52.1967,-2.23583,0.03,5,6,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P18A0033,Wyatt Guest House 40 Barbourne Road,,yes,not owned by a public authority,permissioned,full planning permission,,52.20268,-2.22592,0.02,5,6,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P17D0599,Jenkins House 15 Foregate Street,,yes,not owned by a public authority,permissioned,full planning permission,,52.19535,-2.22191,0.01,5,8,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P16K0579,Corner of Comer Road/Lapal Close,,yes,not owned by a public authority,permissioned,full planning permission,,52.18948,-2.23827,0.15,18,20,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P17K0500,"Coppertops, 195 Oldbury Road",,yes,not owned by a public authority,permissioned,full planning permission,,52.19638,-2.25043,0.65,38,42,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P15D0510,St Martins Quarter,,yes,not owned by a public authority,permissioned,full planning permission,,52.19295,-2.21643,0.23,85,98,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P17G0258,"Former Crown Packaging Site, Williamson Road",,yes,not owned by a public authority,permissioned,full planning permission,,52.18848,-2.20385,7.5,210,215,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,SWDP43/7,Former Sansome Walk Swimming Pool,,yes,owned by a public authority,not permissioned,other,,52.199018,-2.220537,0.8,33,35,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P18H0011,96 Holly Mount,,yes,not owned by a public authority,permissioned,full planning permission,,,,0.4,5,5,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P18D0202,Land adjacent to 18-20 Silver Street,,yes,not owned by a public authority,permissioned,full planning permission,,52.19416,-2.2183,0.05,9,10,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P18D0228,13 Angel Street,,yes,not owned by a public authority,permissioned,full planning permission,,52.19348,-2.22215,0.01,6,6,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
-,local-authority-eng:WOC,P17J0577,"YMCA Hostel, Henwick Road",,yes,not owned by a public authority,permissioned,full planning permission,,52.19297,-2.23613,0.97,63,87,,,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+,local-authority-eng:WOC,SWDP43/3,Ribble Close & Gas Holder Site,,yes,not owned by a public authority,not permissioned,other,,52.190268,-2.203305,1.2,40,50,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,SWDP43/19,"Blackpole Road, Western Power Distribution Depot",,yes,not owned by a public authority,not permissioned,other,,,,2.58,40,40,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,SWDP43/a,73-77 Bromwich Road,,yes,not owned by a public authority,not permissioned,other,,,,0.14,5,11,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,SWDP43/c,"Malvern Gate, Bromwich Road",,yes,not owned by a public authority,not permissioned,other,,52.173761,-2.234108,1.28,45,55,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,SWDP43/9,"Old Brewery Service Station, Barbourne Road",,yes,not owned by a public authority,permissioned,full planning permission,,52.202013,-2.2261,0.14,12,18,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,SWDP43/f,"County Council Offices, Sherwood Lane",,yes,owned by a public authority,not permissioned,other,,52.17502,-2.237981,0.5,25,30,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,SWDP43/g,"County Council Offices, Bilford Road",,yes,owned by a public authority,not permissioned,other,,52.213017,-2.216007,0.67,15,20,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,SWDP43/h,"Laugherne Garage, Bransford Road",,yes,not owned by a public authority,not permissioned,other,,52.183961,-2.253973,0.44,8,10,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,SWDP43/m,"Former Club House, Tolladine Golf Course",,yes,not owned by a public authority,not permissioned,other,,52.199268,-2.188366,0.5,9,15,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,SWDP43/q,79 St Johns,,yes,not owned by a public authority,pending decision,other,,52.186872,-2.235188,0.05,10,10,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,SWDP43/s,Rose Avenue,,yes,not owned by a public authority,not permissioned,other,,52.198356,-2.201603,0.18,5,8,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,SWDP43/t,"Commandery Coach Depot, Tolladine Road",,yes,not owned by a public authority,not permissioned,other,,,,0.07,5,7,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,SWDP43/w,23-24 Foregate Street,,yes,not owned by a public authority,not permissioned,other,,52.196156,-2.221975,0.1,5,10,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,SWDP43/r,"The Bridge Inn, Lowesmoor Terrace",,yes,not owned by a public authority,not permissioned,other,,52.195967,-2.215645,0.1,5,9,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,SWDP43/aa,Lowesmoor Wharf,,yes,not owned by a public authority,not permissioned,other,,52.195718,-2.216588,1.14,50,100,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,SWDP44/4,Shrub Hill Opportunity Zone,,yes,not owned by a public authority,not permissioned,other,,52.195266,-2.211276,19.72,,,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,SWDP44/5,Carden Street Opportunity Zone,,yes,mixed ownership,not permissioned,other,,52.19044,-2.215937,3.9,,,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P15C0371,"The Ice House, Bromyard Road",,yes,not owned by a public authority,permissioned,full planning permission,,52.186742,-2.25131,0.45,30,54,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P15K0271,Rear of 18 St Johns,,yes,not owned by a public authority,permissioned,full planning permission,,52.188851,-2.234508,0.11,11,11,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P15D0554,"Former History Centre, Trinity House",,yes,not owned by a public authority,permissioned,full planning permission,,,,0.05,5,9,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P18D0310,Former Worcester Fire Station,,yes,not owned by a public authority,permissioned,permission in principle,,52.190562,-2.221496,0.16,9,9,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P18B0003,137 Bath Road,,yes,not owned by a public authority,permissioned,full planning permission,,52.18174,-2.21696,0.13,5,5,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P16C0542,5 Bull Ring,,yes,not owned by a public authority,permissioned,full planning permission,,52.18843,-2.23301,0.07,5,6,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P17D0087,12 Sansome Place,,yes,not owned by a public authority,permissioned,full planning permission,,52.19519,-2.21949,0.01,5,6,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P17D0451,"Stuart House, 147 London Road",,yes,not owned by a public authority,permissioned,full planning permission,,52.18507,-2.20569,0.15,5,6,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P17J0504,The Crown and Anchor 223 Hylton Road,,yes,not owned by a public authority,permissioned,full planning permission,,52.1967,-2.23583,0.03,5,6,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P18A0033,Wyatt Guest House 40 Barbourne Road,,yes,not owned by a public authority,permissioned,full planning permission,,52.20268,-2.22592,0.02,5,6,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P17D0599,Jenkins House 15 Foregate Street,,yes,not owned by a public authority,permissioned,full planning permission,,52.19535,-2.22191,0.01,5,8,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P16K0579,Corner of Comer Road/Lapal Close,,yes,not owned by a public authority,permissioned,full planning permission,,52.18948,-2.23827,0.15,18,20,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P17K0500,"Coppertops, 195 Oldbury Road",,yes,not owned by a public authority,permissioned,full planning permission,,52.19638,-2.25043,0.65,38,42,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P15D0510,St Martins Quarter,,yes,not owned by a public authority,permissioned,full planning permission,,52.19295,-2.21643,0.23,85,98,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P17G0258,"Former Crown Packaging Site, Williamson Road",,yes,not owned by a public authority,permissioned,full planning permission,,52.18848,-2.20385,7.5,210,215,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,SWDP43/7,Former Sansome Walk Swimming Pool,,yes,owned by a public authority,not permissioned,other,,52.199018,-2.220537,0.8,33,35,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P18H0011,96 Holly Mount,,yes,not owned by a public authority,permissioned,full planning permission,,,,0.4,5,5,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P18D0202,Land adjacent to 18-20 Silver Street,,yes,not owned by a public authority,permissioned,full planning permission,,52.19416,-2.2183,0.05,9,10,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P18D0228,13 Angel Street,,yes,not owned by a public authority,permissioned,full planning permission,,52.19348,-2.22215,0.01,6,6,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea
+,local-authority-eng:WOC,P17J0577,"YMCA Hostel, Henwick Road",,yes,not owned by a public authority,permissioned,full planning permission,,52.19297,-2.23613,0.97,63,87,,,"
+
+",3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea

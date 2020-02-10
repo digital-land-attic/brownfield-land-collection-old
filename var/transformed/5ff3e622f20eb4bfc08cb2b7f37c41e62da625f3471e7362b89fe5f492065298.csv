@@ -1,37 +1,109 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-11-16,local-authority-eng:SSO,S/YEOV/1300,"Former Box Factory, South Street, Yeovil",https://www.southsomerset.gov.uk/media/902236/yeov1300.pdf,,owned by a public authority,not permissioned,,,50.940348,-2.928601,0.5,20,20,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,S/YEOV/B001,"3, Newtown Road, Yeovil",https://www.southsomerset.gov.uk/media/902239/yeovb001.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.942073,-2.624683,0.21,85,85,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,S/YEOV/1302,"Former Cattle Market, Yeovil",https://www.southsomerset.gov.uk/media/902247/yeov1302.pdf,,not owned by a public authority,not permissioned,,,50.943254,-2.629253,2.1,100,120,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,S/YEOV/1303,"Petters Way Car Park, Yeovil",https://www.southsomerset.gov.uk/media/902244/yeov1303.pdf,,owned by a public authority,not permissioned,,,50.939835,-2.634502,0.6,9,9,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,S/YEOV/B002,"108/110 West Coker Road, Yeovil",https://www.southsomerset.gov.uk/media/902250/yeovb002.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.928641,-2.65548,0.7,9,9,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,S/BRYM/0004,"Land off George Smith Way, Yeovil",https://www.southsomerset.gov.uk/media/902254/brym0004.pdf,yes,mixed ownership,not permissioned,,,50.952141,-2.686248,8.9,65,75,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,W/CHAR/0019,"Land off Boden Street and Silver Street, Chard",https://www.southsomerset.gov.uk/media/902262/char0019-b002.pdf,yes,mixed ownership,not permissioned,,,50.871883,-2.962443,1.4,8,20,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,W/CHAR/B001,"Slades Garage, Touchstone Lane, Chard",https://www.southsomerset.gov.uk/media/902265/charb001.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.877199,-2.970896,0.14,6,6,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,W/CHAR/B002,"Former Tyre Depot, Silver Street, Chard",https://www.southsomerset.gov.uk/media/902262/char0019-b002.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.87158,-2.961058,0.14,22,22,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,W/CHAR/B003,"Church Hall, East Street, Chard",https://www.southsomerset.gov.uk/media/902268/charb003.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.874107,-2.958836,0.09,10,10,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,W/CREW/B001,"Viney Bridge Mills, South Street, Crewkerne",https://www.southsomerset.gov.uk/media/902272/crewb001.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.879443,-2.785119,1.02,58,58,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,W/CREW/B002,"The Shirt Factory, Abbey Street, Crewkerne",https://www.southsomerset.gov.uk/media/902275/crewb002.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.885582,-2.797377,0.02,6,6,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,W/CREW/B003,"Builder's Yard, Dairy Court, Crewkerne",https://www.southsomerset.gov.uk/media/902278/crewb003.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.880168,-2.796176,0.07,5,5,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,W/ILMI/B001,"Police Station, Butts, Ilminster",https://www.southsomerset.gov.uk/media/902282/ilmib001-b003.pdf,yes,,permissioned,full planning permission,,50.92779,-2.908615,0.11,7,7,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,W/ILMI/0016,"Former Powrmatic, Winterhay Lane, Ilminster",https://www.southsomerset.gov.uk/media/902285/ilmi0016.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,50.930498,-2.92452,1.74,72,72,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,W/ILMI/B002,"Former Cheese Factory Site, Station Road, Ilminster",https://www.southsomerset.gov.uk/media/902288/ilmib002.pdf,yes,not owned by a public authority,not permissioned,,,50.932102,-2.93198,3.3,50,70,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,W/ILMI/B003,"Gooch & Housego, Cornhill, Ilminster",https://www.southsomerset.gov.uk/media/902282/ilmib001-b003.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.927222,-2.909885,0.14,14,14,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,E/WINC/B001,"Former Works, Southgate Road, Wincanton",https://www.southsomerset.gov.uk/media/902293/wincb001.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.051488,-2.413138,0.03,19,19,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,E/WINC/0007,"The Tythings, Southgate Road, Wincanton",https://www.southsomerset.gov.uk/media/902296/winc0007-b001.pdf,yes,not owned by a public authority,not permissioned,,,51.052574,-2.41359,2.73,49,55,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,E/ANSF/0010,"Land at Ansford Farm, Cumnock Road, Castle Cary",https://www.southsomerset.gov.uk/media/902300/ansf0010.pdf,yes,not owned by a public authority,not permissioned,,,51.093416,-2.511484,0.15,5,5,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,E/CACA/1101,"BMI Site, Cumnock Road, Castle Cary",https://www.southsomerset.gov.uk/media/902307/caca1101.pdf,,not owned by a public authority,not permissioned,,,51.091339,-2.511461,1.3,29,32,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,E/CACA/B001,"Constitutional Club, Station Road, Castle Cary",https://www.southsomerset.gov.uk/media/902312/cacab001.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,51.088219,-2.519579,0.2,8,8,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,N/SOME/B001,"Former Garage Site, West Street, Somerton",https://www.southsomerset.gov.uk/media/902316/someb001.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.053829,-2.734633,0.16,6,6,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,N/SOME/0800,"Land at Etsome Terrace, Somerton",https://www.southsomerset.gov.uk/media/902319/some0800.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.055873,-2.737034,0.4,10,10,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,N/MART/B001,"Burfield Gloves, Manor Road, Martock",https://www.southsomerset.gov.uk/media/902323/martb001.pdf,yes,not owned by a public authority,not permissioned,,,50.969822,-2.765493,0.2,4,4,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,N/MART/0005,"Rear of the Rose & Crown, Hurst, Bower Hinton",https://www.southsomerset.gov.uk/media/902326/mart0005.pdf,yes,not owned by a public authority,not permissioned,,,50.963546,-2.773507,0.25,5,5,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,N/SOPE/0013,"Parkway Farm, West Street, South Pertherton",https://www.southsomerset.gov.uk/media/902330/sope0013.pdf,yes,not owned by a public authority,not permissioned,,,50.944996,-2.816898,4.2,20,40,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,E/ABTE/0001/10,"Temple Lane, Templecombe",https://www.southsomerset.gov.uk/media/902335/abte000110.pdf,yes,not owned by a public authority,not permissioned,,,51.001976,-2.410632,5.69,40,51,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,E/ABTE/0013,"Manor Farm, Coombe Hill, Templecombe",https://www.southsomerset.gov.uk/media/902338/abte0013.pdf,yes,not owned by a public authority,not permissioned,,,51.001976,-2.410632,4.34,70,78,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,E/LIMI/B001,"The Old Forge, Limington",https://www.southsomerset.gov.uk/media/902342/limib001.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,50.999735,-2.656994,0.31,5,5,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,E/NOCA/B001,"Harvester Works, Mayfield Close, Galhampton",https://www.southsomerset.gov.uk/media/902350/nocab001.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.067106,-2.52127,0.5,14,14,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,E/SPAR/0005,"Haynes Publishing, High Street, Sparkford",https://www.southsomerset.gov.uk/media/902346/spar0005.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,51.034422,-2.56517,2.3,37,48,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,N/HUEP/B001,"Great Orchard Stores. Brookland Road, Huish Episcopi",https://www.southsomerset.gov.uk/media/902361/huepb001.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.042345,-2.817325,0.08,8,8,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,S/ODCO/1101,"Manor Farm, Street Lane, Odcombe",https://www.southsomerset.gov.uk/media/902357/odco1101.pdf,,not owned by a public authority,not permissioned,,,50.936202,-2.706606,0.7,7,17,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,W/MERR/B001,"Tail Mill, Tail Mill Lane, Merriot",https://www.southsomerset.gov.uk/media/902365/merrb001.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.907935,-2.784574,1.8,38,38,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
-2017-11-16,local-authority-eng:SSO,W/MIST/1200,"Former Coal Yard, Station Road, Misterton",https://www.southsomerset.gov.uk/media/902369/mist1200.pdf,yes,not owned by a public authority,permissioned,reserved matters approval,,50.87329,-2.777341,0.95,16,16,2017-11-16,,5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-11-16,local-authority-eng:SSO,S/YEOV/1300,"Former Box Factory, South Street, Yeovil",https://www.southsomerset.gov.uk/media/902236/yeov1300.pdf,,owned by a public authority,not permissioned,,,50.940348,-2.928601,0.5,20,20,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,S/YEOV/B001,"3, Newtown Road, Yeovil",https://www.southsomerset.gov.uk/media/902239/yeovb001.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.942073,-2.624683,0.21,85,85,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,S/YEOV/1302,"Former Cattle Market, Yeovil",https://www.southsomerset.gov.uk/media/902247/yeov1302.pdf,,not owned by a public authority,not permissioned,,,50.943254,-2.629253,2.1,100,120,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,S/YEOV/1303,"Petters Way Car Park, Yeovil",https://www.southsomerset.gov.uk/media/902244/yeov1303.pdf,,owned by a public authority,not permissioned,,,50.939835,-2.634502,0.6,9,9,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,S/YEOV/B002,"108/110 West Coker Road, Yeovil",https://www.southsomerset.gov.uk/media/902250/yeovb002.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.928641,-2.65548,0.7,9,9,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,S/BRYM/0004,"Land off George Smith Way, Yeovil",https://www.southsomerset.gov.uk/media/902254/brym0004.pdf,yes,mixed ownership,not permissioned,,,50.952141,-2.686248,8.9,65,75,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,W/CHAR/0019,"Land off Boden Street and Silver Street, Chard",https://www.southsomerset.gov.uk/media/902262/char0019-b002.pdf,yes,mixed ownership,not permissioned,,,50.871883,-2.962443,1.4,8,20,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,W/CHAR/B001,"Slades Garage, Touchstone Lane, Chard",https://www.southsomerset.gov.uk/media/902265/charb001.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.877199,-2.970896,0.14,6,6,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,W/CHAR/B002,"Former Tyre Depot, Silver Street, Chard",https://www.southsomerset.gov.uk/media/902262/char0019-b002.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.87158,-2.961058,0.14,22,22,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,W/CHAR/B003,"Church Hall, East Street, Chard",https://www.southsomerset.gov.uk/media/902268/charb003.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.874107,-2.958836,0.09,10,10,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,W/CREW/B001,"Viney Bridge Mills, South Street, Crewkerne",https://www.southsomerset.gov.uk/media/902272/crewb001.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.879443,-2.785119,1.02,58,58,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,W/CREW/B002,"The Shirt Factory, Abbey Street, Crewkerne",https://www.southsomerset.gov.uk/media/902275/crewb002.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.885582,-2.797377,0.02,6,6,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,W/CREW/B003,"Builder's Yard, Dairy Court, Crewkerne",https://www.southsomerset.gov.uk/media/902278/crewb003.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.880168,-2.796176,0.07,5,5,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,W/ILMI/B001,"Police Station, Butts, Ilminster",https://www.southsomerset.gov.uk/media/902282/ilmib001-b003.pdf,yes,,permissioned,full planning permission,,50.92779,-2.908615,0.11,7,7,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,W/ILMI/0016,"Former Powrmatic, Winterhay Lane, Ilminster",https://www.southsomerset.gov.uk/media/902285/ilmi0016.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,50.930498,-2.92452,1.74,72,72,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,W/ILMI/B002,"Former Cheese Factory Site, Station Road, Ilminster",https://www.southsomerset.gov.uk/media/902288/ilmib002.pdf,yes,not owned by a public authority,not permissioned,,,50.932102,-2.93198,3.3,50,70,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,W/ILMI/B003,"Gooch & Housego, Cornhill, Ilminster",https://www.southsomerset.gov.uk/media/902282/ilmib001-b003.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.927222,-2.909885,0.14,14,14,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,E/WINC/B001,"Former Works, Southgate Road, Wincanton",https://www.southsomerset.gov.uk/media/902293/wincb001.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.051488,-2.413138,0.03,19,19,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,E/WINC/0007,"The Tythings, Southgate Road, Wincanton",https://www.southsomerset.gov.uk/media/902296/winc0007-b001.pdf,yes,not owned by a public authority,not permissioned,,,51.052574,-2.41359,2.73,49,55,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,E/ANSF/0010,"Land at Ansford Farm, Cumnock Road, Castle Cary",https://www.southsomerset.gov.uk/media/902300/ansf0010.pdf,yes,not owned by a public authority,not permissioned,,,51.093416,-2.511484,0.15,5,5,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,E/CACA/1101,"BMI Site, Cumnock Road, Castle Cary",https://www.southsomerset.gov.uk/media/902307/caca1101.pdf,,not owned by a public authority,not permissioned,,,51.091339,-2.511461,1.3,29,32,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,E/CACA/B001,"Constitutional Club, Station Road, Castle Cary",https://www.southsomerset.gov.uk/media/902312/cacab001.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,51.088219,-2.519579,0.2,8,8,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,N/SOME/B001,"Former Garage Site, West Street, Somerton",https://www.southsomerset.gov.uk/media/902316/someb001.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.053829,-2.734633,0.16,6,6,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,N/SOME/0800,"Land at Etsome Terrace, Somerton",https://www.southsomerset.gov.uk/media/902319/some0800.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.055873,-2.737034,0.4,10,10,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,N/MART/B001,"Burfield Gloves, Manor Road, Martock",https://www.southsomerset.gov.uk/media/902323/martb001.pdf,yes,not owned by a public authority,not permissioned,,,50.969822,-2.765493,0.2,4,4,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,N/MART/0005,"Rear of the Rose & Crown, Hurst, Bower Hinton",https://www.southsomerset.gov.uk/media/902326/mart0005.pdf,yes,not owned by a public authority,not permissioned,,,50.963546,-2.773507,0.25,5,5,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,N/SOPE/0013,"Parkway Farm, West Street, South Pertherton",https://www.southsomerset.gov.uk/media/902330/sope0013.pdf,yes,not owned by a public authority,not permissioned,,,50.944996,-2.816898,4.2,20,40,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,E/ABTE/0001/10,"Temple Lane, Templecombe",https://www.southsomerset.gov.uk/media/902335/abte000110.pdf,yes,not owned by a public authority,not permissioned,,,51.001976,-2.410632,5.69,40,51,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,E/ABTE/0013,"Manor Farm, Coombe Hill, Templecombe",https://www.southsomerset.gov.uk/media/902338/abte0013.pdf,yes,not owned by a public authority,not permissioned,,,51.001976,-2.410632,4.34,70,78,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,E/LIMI/B001,"The Old Forge, Limington",https://www.southsomerset.gov.uk/media/902342/limib001.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,50.999735,-2.656994,0.31,5,5,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,E/NOCA/B001,"Harvester Works, Mayfield Close, Galhampton",https://www.southsomerset.gov.uk/media/902350/nocab001.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.067106,-2.52127,0.5,14,14,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,E/SPAR/0005,"Haynes Publishing, High Street, Sparkford",https://www.southsomerset.gov.uk/media/902346/spar0005.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,51.034422,-2.56517,2.3,37,48,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,N/HUEP/B001,"Great Orchard Stores. Brookland Road, Huish Episcopi",https://www.southsomerset.gov.uk/media/902361/huepb001.pdf,yes,not owned by a public authority,permissioned,full planning permission,,51.042345,-2.817325,0.08,8,8,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,S/ODCO/1101,"Manor Farm, Street Lane, Odcombe",https://www.southsomerset.gov.uk/media/902357/odco1101.pdf,,not owned by a public authority,not permissioned,,,50.936202,-2.706606,0.7,7,17,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,W/MERR/B001,"Tail Mill, Tail Mill Lane, Merriot",https://www.southsomerset.gov.uk/media/902365/merrb001.pdf,yes,not owned by a public authority,permissioned,full planning permission,,50.907935,-2.784574,1.8,38,38,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298
+2017-11-16,local-authority-eng:SSO,W/MIST/1200,"Former Coal Yard, Station Road, Misterton",https://www.southsomerset.gov.uk/media/902369/mist1200.pdf,yes,not owned by a public authority,permissioned,reserved matters approval,,50.87329,-2.777341,0.95,16,16,2017-11-16,,"
+
+",5ff3e622f20eb4bfc08cb2b7f37c41e62da625f3471e7362b89fe5f492065298

@@ -1,6 +1,9 @@
 row-number,field,issue-type,value
+31,NetDwellingsRangeFrom,integer,TBC
+34,NetDwellingsRangeFrom,integer,TBC
 36,GeoX,missing,
 36,GeoY,missing,
+37,NetDwellingsRangeFrom,integer,TBC
 37,GeoX,missing,
 37,GeoY,missing,
 37,Hectares,missing,

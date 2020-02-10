@@ -1,15 +1,43 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-21,local-authority-eng:STT,452,Bowesfield Riverside Phase 1,https://www.stockton.gov.uk/media/876517/brownfield_register_452.pdf,,not owned by a public authority,not permissioned,,,54.54524,-1.315471,65.45,,,2017-12-21,,539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
-2017-12-21,local-authority-eng:STT,506,"Kingfisher Way, Bowesfield Park",https://www.stockton.gov.uk/media/876520/brownfield_register_506.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,54.542941,-1.315912,13.63,,,2017-12-21,,539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
-2017-12-21,local-authority-eng:STT,630,"77 Station Road, Billingham",https://www.stockton.gov.uk/media/876528/brownfield_register_630.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,54.59725,-1.295577,1.74,,,2017-12-21,,539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
-2017-12-21,local-authority-eng:STT,EPY15,"South of Kingfisher Way, Bowesfield",https://www.stockton.gov.uk/media/876514/brownfield_register_epy15.pdf,,not owned by a public authority,not permissioned,,,54.542018,-1.317983,5.39,20,30,2017-12-21,,539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
-2017-12-21,local-authority-eng:STT,268,Former Roseworth Public House,https://www.stockton.gov.uk/media/876523/brownfield_register_268.pdf,yes,not owned by a public authority,permissioned,full planning permission,,54.588954,-1.340055,2.03,,,2017-12-21,,539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
-2017-12-21,local-authority-eng:STT,698,"Day Nursery, Martinet Road",https://www.stockton.gov.uk/media/876525/brownfield_register_698.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,54.539768,-1.301559,0.91,,,2017-12-21,,539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
-2017-12-21,local-authority-eng:STT,S1,Boathouse Lane,https://www.stockton.gov.uk/media/876526/brownfield_register_s1.pdf,,not owned by a public authority,not permissioned,,,54.556307,-1.311529,71.71,250,500,2017-12-21,,539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
-2017-12-21,local-authority-eng:STT,203,"Car Lot, Parkin Street",https://www.stockton.gov.uk/media/876519/brownfield_register_203.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,54.568515,-1.315391,1.92,,,2017-12-21,,539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
-2017-12-21,local-authority-eng:STT,S23,"Alma House, Alma Street",https://www.stockton.gov.uk/media/876527/brownfield_register_s23.pdf,yes,not owned by a public authority,not permissioned,,,54.569153,-1.315272,6.18,30,40,2017-12-21,,539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
-2017-12-21,local-authority-eng:STT,T1,Tees Marshalling Yard,https://www.stockton.gov.uk/media/876521/brownfield_register_t1.pdf,,not owned by a public authority,not permissioned,,,54.561043,-1.288144,344.86,900,1300,2017-12-21,,539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
-2017-12-21,local-authority-eng:STT,S7,Land off Grangefield Road (Millfield),https://www.stockton.gov.uk/media/876516/brownfield_register_s7.pdf,,not owned by a public authority,not permissioned,,,54.565681,-1.324424,171.55,500,800,2017-12-21,,539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
-2017-12-21,local-authority-eng:STT,T13,Magister Road,https://www.stockton.gov.uk/media/876522/brownfield_register_t13.pdf,,not owned by a public authority,not permissioned,,,54.539012,-1.298296,6.03,20,35,2017-12-21,,539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
-2017-12-21,local-authority-eng:STT,674,Navigation Way,https://www.stockton.gov.uk/media/876518/brownfield_register_674.pdf,yes,owned by a public authority,permissioned,outline planning permission,,54.563015,-1.291806,39.25,96,150,2017-12-21,,539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
-2017-12-21,local-authority-eng:STT,S31,Railway Street,https://www.stockton.gov.uk/media/876515/brownfield_register_s31.pdf,,owned by a public authority,not permissioned,,,54.574601,-1.31402,43.33,120,200,2017-12-21,,539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-12-21,local-authority-eng:STT,452,Bowesfield Riverside Phase 1,https://www.stockton.gov.uk/media/876517/brownfield_register_452.pdf,,not owned by a public authority,not permissioned,,,54.54524,-1.315471,65.45,,,2017-12-21,,"13/1667/RNW (10/0244/OUT)
+Residential development and shop (250 square metres)
+",539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
+2017-12-21,local-authority-eng:STT,506,"Kingfisher Way, Bowesfield Park",https://www.stockton.gov.uk/media/876520/brownfield_register_506.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,54.542941,-1.315912,13.63,,,2017-12-21,,"11/2450/OUT
+Residential development of up to 37 dwellings
+",539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
+2017-12-21,local-authority-eng:STT,630,"77 Station Road, Billingham",https://www.stockton.gov.uk/media/876528/brownfield_register_630.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,54.59725,-1.295577,1.74,,,2017-12-21,,"15/0604/OUT
+Demolition of existing building and construction of residential development
+",539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
+2017-12-21,local-authority-eng:STT,EPY15,"South of Kingfisher Way, Bowesfield",https://www.stockton.gov.uk/media/876514/brownfield_register_epy15.pdf,,not owned by a public authority,not permissioned,,,54.542018,-1.317983,5.39,20,30,2017-12-21,,"
+
+",539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
+2017-12-21,local-authority-eng:STT,268,Former Roseworth Public House,https://www.stockton.gov.uk/media/876523/brownfield_register_268.pdf,yes,not owned by a public authority,permissioned,full planning permission,,54.588954,-1.340055,2.03,,,2017-12-21,,"16/2835/FUL
+12 dwelling houses and 2no. apartments with associated off street parking
+",539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
+2017-12-21,local-authority-eng:STT,698,"Day Nursery, Martinet Road",https://www.stockton.gov.uk/media/876525/brownfield_register_698.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,54.539768,-1.301559,0.91,,,2017-12-21,,"16/2898/OUT
+Three storey 14 unit block of flats (demolition of existing building).
+",539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
+2017-12-21,local-authority-eng:STT,S1,Boathouse Lane,https://www.stockton.gov.uk/media/876526/brownfield_register_s1.pdf,,not owned by a public authority,not permissioned,,,54.556307,-1.311529,71.71,250,500,2017-12-21,,"
+
+",539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
+2017-12-21,local-authority-eng:STT,203,"Car Lot, Parkin Street",https://www.stockton.gov.uk/media/876519/brownfield_register_203.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,54.568515,-1.315391,1.92,,,2017-12-21,,"16/1026/OUT
+Residential development of 43 flats
+",539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
+2017-12-21,local-authority-eng:STT,S23,"Alma House, Alma Street",https://www.stockton.gov.uk/media/876527/brownfield_register_s23.pdf,yes,not owned by a public authority,not permissioned,,,54.569153,-1.315272,6.18,30,40,2017-12-21,,"
+
+",539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
+2017-12-21,local-authority-eng:STT,T1,Tees Marshalling Yard,https://www.stockton.gov.uk/media/876521/brownfield_register_t1.pdf,,not owned by a public authority,not permissioned,,,54.561043,-1.288144,344.86,900,1300,2017-12-21,,"
+
+",539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
+2017-12-21,local-authority-eng:STT,S7,Land off Grangefield Road (Millfield),https://www.stockton.gov.uk/media/876516/brownfield_register_s7.pdf,,not owned by a public authority,not permissioned,,,54.565681,-1.324424,171.55,500,800,2017-12-21,,"
+
+",539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
+2017-12-21,local-authority-eng:STT,T13,Magister Road,https://www.stockton.gov.uk/media/876522/brownfield_register_t13.pdf,,not owned by a public authority,not permissioned,,,54.539012,-1.298296,6.03,20,35,2017-12-21,,"
+
+",539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
+2017-12-21,local-authority-eng:STT,674,Navigation Way,https://www.stockton.gov.uk/media/876518/brownfield_register_674.pdf,yes,owned by a public authority,permissioned,outline planning permission,,54.563015,-1.291806,39.25,96,150,2017-12-21,,"16/1603/OUT
+
+",539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a
+2017-12-21,local-authority-eng:STT,S31,Railway Street,https://www.stockton.gov.uk/media/876515/brownfield_register_s31.pdf,,owned by a public authority,not permissioned,,,54.574601,-1.31402,43.33,120,200,2017-12-21,,"07/1265/FUL
+
+",539170bd1ec826cc4f3d144667b25c65dfacc66cb197252087f393dc6698769a

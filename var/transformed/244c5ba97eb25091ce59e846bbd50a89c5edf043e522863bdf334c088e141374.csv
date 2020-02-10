@@ -1,21 +1,95 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-22,local-authority-eng:TOR,BLR/BID/132,"Littlejohns Coalyard, Northam Road, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18220,,not owned by a public authority,not permissioned,,,51.020891,-4.211422,0.2,10,10,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/NOR/158,"Bywater House, Silford Cross, Westward Ho!, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18229,yes,not owned by a public authority,permissioned,reserved matters approval,,51.031747,-4.232163,0.45,,,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/BID/72,"Former Jet Garage, New Road, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18218,,not owned by a public authority,not permissioned,,,51.012649,-4.20594,0.06,8,8,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/BID/18,"Land at Nuttaberry Works, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18211,yes,not owned by a public authority,pending decision,outline planning permission,,51.00967,-4.201237,3.64,,,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/BID/108,"8-11 Market Place, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18219,yes,not owned by a public authority,permissioned,full planning permission,,51.017405,-4.207905,0.16,,,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/PAR/4,"Penhaven and Rectory Farm, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18230,yes,not owned by a public authority,permissioned,outline planning permission,,50.967721,-4.295251,1.63,,,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/NOR/72,"Roslyn Gardens Caravan Park, Merley Road, Westward Ho!, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18226,yes,not owned by a public authority,permissioned,reserved matters approval,,51.03881,-4.244229,0.54,,,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/BID/29,"Land adjacent to Blights Garage, Clovelly Road, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18212,yes,not owned by a public authority,permissioned,outline planning permission,,51.011395,-4.224599,1.96,,,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/SHB/8,"Works, Haycross Hill, Shebbear, Beaworthy",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18231,yes,not owned by a public authority,pending decision,outline planning permission,,50.859892,-4.219155,1.27,,,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/BID/38,"Brunswick, Queens and Clarance Wharves, Barnstaple Street, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18213,yes,owned by a public authority,permissioned,full planning permission,,51.016991,-4.201256,0.89,,,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/BID/52,"Land to east of New Road, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18216,,not owned by a public authority,not permissioned,,,51.011584,-4.206089,0.44,12,14,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/BID/66,"Land south of Longbridge Wharf, New Road, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18217,,not owned by a public authority,not permissioned,,,51.012433,-4.205901,0.09,6,6,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/ASW/6,"Blagdon Manor Hotel And Restaurant, Ashwater",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18209,yes,not owned by a public authority,permissioned,full planning permission,,,,0.89,,,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/ASW/7,"Ashwater Methodist Church, Ashwater",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18210,yes,not owned by a public authority,permissioned,full planning permission,,,,0.28,,,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/GTT/36,"Vaughan Tapscott Glove Factory, White Lane, Torrington",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18224,,not owned by a public authority,not permissioned,,,50.95205,-4.146087,0.06,14,14,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/NOR/115,"Buckleigh Service Reservoir, Bay View Road, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18227,yes,owned by a public authority,permissioned,full planning permission,,51.03782,-4.228276,0.28,,,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/LAN/11,"Former Cattle Market Site, Stibb Cross, Torrington",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18225,,not owned by a public authority,not permissioned,,,50.912811,-4.237079,0.21,6,8,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/BID/133,"Land at Westcombe Depot, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18221,,owned by a public authority,not permissioned,,,51.020579,-4.211721,0.59,2,14,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/BID/49,"Land east of Devonshire Park, New Road, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18214,,not owned by a public authority,not permissioned,,,51.012788,-4.206674,0.52,12,22,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
-2017-12-22,local-authority-eng:TOR,BLR/GTT/56,"Former Creamery Site, Rolle Road, Torrington",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18245,,not owned by a public authority,permissioned,outline planning permission,,50.949186,-4.156576,3.32,,,2017-12-22,,244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-12-22,local-authority-eng:TOR,BLR/BID/132,"Littlejohns Coalyard, Northam Road, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18220,,not owned by a public authority,not permissioned,,,51.020891,-4.211422,0.2,10,10,2017-12-22,,"Allocated for housing development through saved policy BID7 of the Torridge District Local Plan 1997-2011
+Residential potential of site considered through SHLAA SHA/BID/32 (now archived) and SHLAA SHA/BID/132
+
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/NOR/158,"Bywater House, Silford Cross, Westward Ho!, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18229,yes,not owned by a public authority,permissioned,reserved matters approval,,51.031747,-4.232163,0.45,,,2017-12-22,,"Residential potential of site considered through SHLAA SHA/NOR/158.
+Site covered by planning permission 1/0154/2017/REM for 3 dwellings (net 2).
+Subdivision of existing dwelling in to two houses and 1 new dwelling.
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/BID/72,"Former Jet Garage, New Road, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18218,,not owned by a public authority,not permissioned,,,51.012649,-4.20594,0.06,8,8,2017-12-22,,"Permission for 8 apartments now lapsed. 1/0242/2010/FUL - Eight apartments and associated site works with small extension to the northern elevation - PER - 3.12.10
+Residential potential of site considered through SHLAA SHA/BID/72
+
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/BID/18,"Land at Nuttaberry Works, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18211,yes,not owned by a public authority,pending decision,outline planning permission,,51.00967,-4.201237,3.64,,,2017-12-22,,"Residential capacity of site considered through SHLAA SHA/BID/18.
+Application 1/0041/2009/OUTM for 96 dwellings currently pending.
+Allocated for housing development through Saved Policy HSC1 of the Torridge District Local Plan 1997-2011.
+Non allocated strategic site in emerging North Devon and Torridge Local Plan 2011-2031
+Residential redevelopment of former commercial brownfield site comprising up to 96 residential units including affordable homes
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/BID/108,"8-11 Market Place, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18219,yes,not owned by a public authority,permissioned,full planning permission,,51.017405,-4.207905,0.16,,,2017-12-22,,"Site subject to planning permission 1/0700/2015/FUL Residential development comprising 9 dwellings with associated access, parking and sewers. PER 10/1/2017
+Ressidential potential of site considered through SHLAA - SHA/BID/108
+Residential development comprising 9 dwellings
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/PAR/4,"Penhaven and Rectory Farm, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18230,yes,not owned by a public authority,permissioned,outline planning permission,,50.967721,-4.295251,1.63,,,2017-12-22,,"Residential potential of site considered through SHLAA SHA/PAR/4
+Site covered by planning permission 1/1216/2015/OUTM for 21 dwellings PER 23/12/2016
+Only PDL element of site has been included in calculation of yield
+Previously developed part of wider site that has planning permission for conversion of former hotel site and erection of dwellings to create up to 21no. dwellings (including affordable housing)
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/NOR/72,"Roslyn Gardens Caravan Park, Merley Road, Westward Ho!, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18226,yes,not owned by a public authority,permissioned,reserved matters approval,,51.03881,-4.244229,0.54,,,2017-12-22,,"Residential capacity of site considered through SHLAA SHA/NOR/72
+Site has planning permission 1/0586/2016/FULM for 14 dwellings, covering the entirety of the site.
+14 dwellings.
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/BID/29,"Land adjacent to Blights Garage, Clovelly Road, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18212,yes,not owned by a public authority,permissioned,outline planning permission,,51.011395,-4.224599,1.96,,,2017-12-22,,"Site subject to outline permission for provision of 100 dwellings (1/1437/2001/OUT) - granted 02.09.2010 (resolution to permit at April 2010). Extension of time application (with resolution to permit subject to s106 - 1/0617/2013/EXT). 
+Site allocated within the adopted development plan (TDLP - HSC1) for comprehensive residential development.
+Residential potential of site considered through SHLAA SHA/BID/29
+Residential Development (Minimum density of 35 units per hectare)
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/SHB/8,"Works, Haycross Hill, Shebbear, Beaworthy",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18231,yes,not owned by a public authority,pending decision,outline planning permission,,50.859892,-4.219155,1.27,,,2017-12-22,,"Site is proposed allocation SHB02 (Land West of Haycross Hill) for about 20 dwellings and 3 live-work units in the draft North Devon and Torridge Local Plan 2011-2031.
+1/0125/2015/OUTM. Outline application (all matters reserved) for 30 dwellings, 3 live work units with associated landscaping and play space (amended plans). Pending S106
+Residential capacity of site considered through SHLAA SHA/SHB/8
+30 dwellings
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/BID/38,"Brunswick, Queens and Clarance Wharves, Barnstaple Street, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18213,yes,owned by a public authority,permissioned,full planning permission,,51.016991,-4.201256,0.89,,,2017-12-22,,"Residential potential of site considered through SHLAA SHA/BID/38.
+The site is listed as a Non Strategic Housing Site in the emerging North Devon and Torridge Local Plan 2011-2031.
+Site covered by planning permission 1/0578/2014/FULM for mixed use development comprising of 52 residential units, approximately 763 sq metres of retail / commercial development, open space, car parking, marina (including managers accommodation) and associated development.
+Site is subject to proposal (BID16) within the adopted development plan (TDLP) which allocates the site for tourism, leisure or commercial uses (or a mix) including provision of a cycle route / walkway and a high standard of design. Site subject to an endorsed Site Development Brief. 
+The draft North Devon and Torridge Local Plan identifies this site as a Bideford Regeneration Site (BID07) for a mix of housing, leisure and retail uses.
+Mixed use development comprising of 52 residential units
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/BID/52,"Land to east of New Road, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18216,,not owned by a public authority,not permissioned,,,51.011584,-4.206089,0.44,12,14,2017-12-22,,"The site is identified as a housing site through policy (HSC1) of the adopted development plan (TDLP).
+Site is part of proposed policy BID07 (Bideford Regeneration Sites) New Road in the emerging North Devon and Torridge Local Plan 2011-2031 for development that results in the enhancement to the southern gateway to Bideford.
+No other pertinent planning history in relation to the site.
+Residential potential of site considered through SHLAA SHA/BID/52
+
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/BID/66,"Land south of Longbridge Wharf, New Road, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18217,,not owned by a public authority,not permissioned,,,51.012433,-4.205901,0.09,6,6,2017-12-22,,"Residential potential of site considered through SHLAA SHA/BID/66.
+Site was subject to planning consent for the redevelopment of the site for provision of 6 self contained flats within a single building (1/0924/2006/FUL). Now lapsed.
+
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/ASW/6,"Blagdon Manor Hotel And Restaurant, Ashwater",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18209,yes,not owned by a public authority,permissioned,full planning permission,,,,0.89,,,2017-12-22,,"Residential potential of site considered through SHLAA SHA/ASW/6
+Planning permission 1/0525/2015/FUL conversion of hotel to residential PER 17/11/2015
+Change of use from hotel to residential
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/ASW/7,"Ashwater Methodist Church, Ashwater",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18210,yes,not owned by a public authority,permissioned,full planning permission,,,,0.28,,,2017-12-22,,"Residential potential of site considered through SHLAA SHA/ASW/7
+Planning permission 1/0593/2016/FUL for COU to 1 dwelling PER 25/8/2016
+Change of use to dwelling with associated conditions and demolition of part of existing building
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/GTT/36,"Vaughan Tapscott Glove Factory, White Lane, Torrington",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18224,,not owned by a public authority,not permissioned,,,50.95205,-4.146087,0.06,14,14,2017-12-22,,"Previous permission has now lapsed. 1/1396/2003/COU - Conversion of redundant building to 14 flats - PER - 12.12.2005
+Residential capacity of site considered through SHLAA SHA/GTT/36
+
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/NOR/115,"Buckleigh Service Reservoir, Bay View Road, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18227,yes,owned by a public authority,permissioned,full planning permission,,51.03782,-4.228276,0.28,,,2017-12-22,,"Residential potential of site considered through SHLAA SHA/NOR/115
+Planning permission 1/0702/2015/FUL for three dwellings (resubmission of 1/1173/2014/FUL) PER 2.10.2015
+Three dwellings
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/LAN/11,"Former Cattle Market Site, Stibb Cross, Torrington",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18225,,not owned by a public authority,not permissioned,,,50.912811,-4.237079,0.21,6,8,2017-12-22,,"Residential capacity of site considered through SHLAA SHA/LAN/11
+This site (together with part of SHA/LAN/13) is within proposed allocation LAG02 (Land at the Former cattle market and Land to North) for approximately 8 dwellings in the draft North Devon and Torridge Local Plan.
+
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/BID/133,"Land at Westcombe Depot, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18221,,owned by a public authority,not permissioned,,,51.020579,-4.211721,0.59,2,14,2017-12-22,,"Allocated for housing development through saved policy BID7 of the Torridge District Local Plan 1997-2011
+Residential potential of site considered through SHLAA SHA/BID/32 (now archived) and SHLAA SHA/BID/133
+Planning permission 1/2587/2006/FUL for redevelopment of workshops to 2no. Dwellings - now lapsed.
+
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/BID/49,"Land east of Devonshire Park, New Road, Bideford",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18214,,not owned by a public authority,not permissioned,,,51.012788,-4.206674,0.52,12,22,2017-12-22,,"Allocated for housing development through saved policy HSC1 (Torridge District Local Plan 1997-2011)
+Site is part of proposed policy BID07 (Bideford Regeneration Sites) New Road (in emerging North Devon and Torridge Local Plan 2011-2031) for development that results in the enhancement to the southern gateway to Bideford.
+Residential capacity of site considered through SHLAA SHA/BID/49
+No relevant planning history.
+
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374
+2017-12-22,local-authority-eng:TOR,BLR/GTT/56,"Former Creamery Site, Rolle Road, Torrington",http://www.torridge.gov.uk/CHttpHandler.ashx?id=18245,,not owned by a public authority,permissioned,outline planning permission,,50.949186,-4.156576,3.32,,,2017-12-22,,"Site allocated for housing development through draft Policy GTT01 in emerging North Devon and Torridge Local Plan 2011-2031
+Residential potential of site considered through SHLAA SHA/GTT/56 (previously SHA/GTT/11)
+Hybrid full application 1/0039/2016/OUTM for the erection of 13 dwellings on northern part of site with new access to Limer's Hill, outline application for the erection of up to 136 dwelling.
+Previously developed part of wider site that has planning permission for Hybrid full application for the erection of 13 dwellings on northern part of site with new access to Limer's Hill, outline application for the erection of up to 136 dwelling.
+",244c5ba97eb25091ce59e846bbd50a89c5edf043e522863bdf334c088e141374

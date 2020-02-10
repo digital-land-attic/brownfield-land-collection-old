@@ -1,10 +1,28 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-10-06,local-authority-eng:TES,SHELAA28,"Andover Station freight yard, Andover, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,yes,not owned by a public authority,not permissioned,,,,,1.5,,,2017-10-06,,4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6
-2017-10-26,local-authority-eng:TES,SHELAA118,"Land at Hyde Farm, Horsebridge Road, Broughton, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,,not owned by a public authority,not permissioned,,,,,0.97,,,2017-10-26,,4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6
-2017-10-26,local-authority-eng:TES,SHELAA131,"Abbots Manor Farmyard, Leckford, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,,not owned by a public authority,not permissioned,,,,,1.1,,,2017-10-26,,4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6
-2017-10-26,local-authority-eng:TES,SHELAA195,"Land north of Walworth Road, west of the Commercial Centre, Andover, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,yes,not owned by a public authority,not permissioned,,,,,1.489,,,2017-10-26,,4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6
-2017-12-14,local-authority-eng:TES,SHLAA138,"Land at River Way, Andover, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,,not owned by a public authority,not permissioned,,,,,3.6,,,2017-12-14,,4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6
-2017-12-06,local-authority-eng:TES,Policy LE14,"George Yard and Black Swan Yard, Eastern Avenue, Andover, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,,owned by a public authority,not permissioned,,,,,1.67,,,2017-12-06,,4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6
-2017-12-06,local-authority-eng:TES,TVS.00515,"Former Brewery Site, The Horsefair, Romsey, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,yes,not owned by a public authority,permissioned,full planning permission,,,,2.68,,,2017-12-06,,4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6
-2017-12-14,local-authority-eng:TES,14/00245/FULLN,"Anton Laundry, Marlborough Street, Andover, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,yes,not owned by a public authority,permissioned,full planning permission,,,,0.3,,,2017-12-14,,4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6
-2017-12-14,local-authority-eng:TES,15/01261/FULLS,"Nightingale Lodge, Greatwell Drive, Romsey, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,yes,not owned by a public authority,permissioned,full planning permission,,,,0.66,,,2017-12-14,,4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-10-06,local-authority-eng:TES,SHELAA28,"Andover Station freight yard, Andover, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,yes,not owned by a public authority,not permissioned,,,,,1.5,,,2017-10-06,,"
+84 residential units and 86 parking spaces
+",4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6
+2017-10-26,local-authority-eng:TES,SHELAA118,"Land at Hyde Farm, Horsebridge Road, Broughton, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,,not owned by a public authority,not permissioned,,,,,0.97,,,2017-10-26,,"
+A mix of dwellings (both open market and affordable) ranging from smaller units (for downsizers and first time buyers) to larger family homes
+",4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6
+2017-10-26,local-authority-eng:TES,SHELAA131,"Abbots Manor Farmyard, Leckford, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,,not owned by a public authority,not permissioned,,,,,1.1,,,2017-10-26,,"
+13 dwellings ranging from 1 bed bungalows to 4-5 bed detached
+",4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6
+2017-10-26,local-authority-eng:TES,SHELAA195,"Land north of Walworth Road, west of the Commercial Centre, Andover, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,yes,not owned by a public authority,not permissioned,,,,,1.489,,,2017-10-26,,"
+Mixture of 1-2 bedroom apartments & 2-5 bedroom houses
+",4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6
+2017-12-14,local-authority-eng:TES,SHLAA138,"Land at River Way, Andover, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,,not owned by a public authority,not permissioned,,,,,3.6,,,2017-12-14,,"
+Mixture of 1, 2, 3 and 4 bedroom houses and apartments
+",4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6
+2017-12-06,local-authority-eng:TES,Policy LE14,"George Yard and Black Swan Yard, Eastern Avenue, Andover, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,,owned by a public authority,not permissioned,,,,,1.67,,,2017-12-06,,"
+The site can accommodate approximately 100 dwellings
+",4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6
+2017-12-06,local-authority-eng:TES,TVS.00515,"Former Brewery Site, The Horsefair, Romsey, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,yes,not owned by a public authority,permissioned,full planning permission,,,,2.68,,,2017-12-06,,"
+Proposed residential development of houses and flats
+",4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6
+2017-12-14,local-authority-eng:TES,14/00245/FULLN,"Anton Laundry, Marlborough Street, Andover, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,yes,not owned by a public authority,permissioned,full planning permission,,,,0.3,,,2017-12-14,,"
+28 apartments (comprising 14 no. 1 bed and 14 no. 2-bed units)
+",4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6
+2017-12-14,local-authority-eng:TES,15/01261/FULLS,"Nightingale Lodge, Greatwell Drive, Romsey, Hampshire",http://www.testvalley.gov.uk/assets/attach/5650/Brownfield%20Site%20Locations.pdf,yes,not owned by a public authority,permissioned,full planning permission,,,,0.66,,,2017-12-14,,"
+Erection of a two storey building plus roof accommodation comprising 54 Extra Care Units
+",4cfc2aedffbe77e3e1e6bc0bbd0b043a4a449c7e6223533bfa37e76908f54aa6

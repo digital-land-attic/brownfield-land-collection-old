@@ -1,174 +1,543 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:CHW,BLA/0039(a),"Land to rear of 21-33 Western Avenue, Blacon",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.203847,-2.9272,0.29,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,BLA/0070,"27 Blacon Point Road, Blacon, Chester. CH1 5LD",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.20191,-2.920795,0.17,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,BOU/0010,"King Edward Buildings/ Bensons site and surrounding land, Christleton",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,mixed ownership,not permissioned,,,53.189457,-2.864868,0.34,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,BOU/0045,"Land at Premier House, Charterhall Drive, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,reserved matters approval,,53.194638,-2.876752,2.48,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,BOU/0074,"125-127 Boughton, Chester, CH3 5BH",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,,,53.192722,-2.873301,,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,BOU/0084,"The Cloud, 10 Boughton, Chester, CH3 5BH",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,planning permission granted under an order,,53.192106,-2.879949,0.07,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,CHC/0003,"Linenhall car park, Stanley Street, Chester, CH1 2LR",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,full planning permission,,53.19043,-2.896198,0.74,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,CHC/0004,"Land off Hoole Way/Black Diamond Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,,,53.19696,-2.884913,0.3,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-2018-12-30,local-authority-eng:CHW,CHC/0005A,"Land at Trafford Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.196572,-2.88986,,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,CHC/0005B,"Former Partco Autoparts, Trafford Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.196581,-2.889845,,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,CHC/0006,"St Anne Street car park, Black Diamond Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.196205,-2.886095,0.34,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,CHC/0008,"Browns Yard car park, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.192295,-2.884817,0.28,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-2018-12-30,local-authority-eng:CHW,CHC/0018c,"Northgate Redevelopment Site: Land Bounded By Hunter Street, Northgate Street, Watergate Street And St Martins Way Chester Cheshire",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,mixed ownership,permissioned,outline planning permission,,53.19121,-2.894149,5.68,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,CHC/0027,"New Crane Street car park, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.189721,-2.898413,0.33,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-2018-12-30,local-authority-eng:CHW,CHC/0029,"Former car garage, Lower Bridge Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,pending decision,,,53.187092,-2.889484,0.22,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,CHC/0030,"Garden Lane car park, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.194969,-2.89505,0.33,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,CHC/0032,"BT Building and Newgate House, St John's Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.190106,-2.886673,0.32,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,CHC/0034,"Loves Garage, Garden Lane, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.194657,-2.895882,0.14,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-2018-12-30,local-authority-eng:CHW,CHC/0058B,"Land at Bollands Court, Commonhall Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.189225,-2.892626,,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,CHC/0072,"104 Watergate Street, Chester, CH1 2LF",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.189568,-2.897273,0.02,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,CHC/0100,"35 Eastgate Street, Chester, CH1 1LG",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.190785,-2.88962,0.17,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-2018-12-30,local-authority-eng:CHW,CHC/0120,"14-20 Watergate Street, Chester (within boundary of CHC/0008/H)",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,mixed ownership,permissioned,full planning permission,,53.190449,-2.892427,0.1,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,CHC/0163,Clemence House St Werburgh Street Chester Cheshire CH1 2DY ,http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.191453,-2.891625,0.03,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,CHC/0176,"Car park off Hunter Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.19235,-2.895535,0.08,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,CHC/0183,"Land at Volunteer Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.188362,-2.889076,0.055,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,CHV/0013,"White Lane Depot, White Lane, Christleton",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.184018,-2.844916,0.26,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,CHV/0092,"The Moorings, Rowton Bridge Road, G716Christleton, CH3 7AE",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.180334,-2.834518,0.23,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,CHV/0126,"Christleton Hall, Pepper Street, Christleton, CH3 7AB",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.185898,-2.842289,5.14,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-2018-12-30,local-authority-eng:CHW,DAM/0038(a),"Land at 44 Church Street, Shipbrook Road, Davenham",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.236779,-2.504452,0.27,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,DAM/0054(a),"Land to side and rear of The Salt Museum, London Road, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.254356,-2.514132,0.26,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,DAM/0072(a),"Land at 618 London Road, Davenham",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.227878,-2.509335,0.73,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,DOH/,"Former Huntington Primary School, Butterbache Road, Huntington, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,owned by a public authority,not permissioned,,,53.173432,-2.865817,,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,DOH/0016,"Land at Decoy Farm, Lache Lane, Marlston cum Lache, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.159165,-2.927926,1.13,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,DOH/0022,"Balderton Saw Mills, Welsh Road, Dodleston, CH4 9LF",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,,not permissioned,,,53.152723,-2.935548,1.67,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,DOH/0052,"Lyndale Farm, Wrexham Road, Pulford, CH4 9DG",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.130967,-2.928992,1.19,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,EPT/0038C,"CROMWELL ROAD-Phase 3-Land north of Cromwell Road, Ellesmere Port (HH Roberts)",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.280364,-2.889275,,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,EPT/0041,"Wellington Road North car park, rear of 89-109 Cambridge Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.279623,-2.893444,0.82,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,EPT/0059,"The Knot PH, Whitby Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.279773,-2.898622,0.24,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,EPT/0063B,"Land at Coronation Road (site of former leisure centre and office building), Stanney Lane, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.274516,-2.900731,2.02,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,EPT/0067,"Land south of Cromwell Road (former PZ Cussons), Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,outline planning permission,,53.278433,-2.88793,1.54,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,EPT/0096,"53 Whitby Road, Ellesmere Port CH65 8AB",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.279724,-2.899071,0.05,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,EPT/0117,"Agra Fort, 3 to 7 Cambridge Road, Ellesmere Port, CH65 8AB",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.28066,-2.89774,0.034,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,EPT/0118,"Phoenix Social Club, Cromwell Road, Ellesmere Port, CH65 4AA",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.280859,-2.89641,0.016,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,EPT/0126,"Grace Arms, Stanney Lane, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,not permissioned,,,53.272936,-2.899228,0.4,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,FAR/0054,"Grosvenor Estate Yard, Middle Lane, Aldford, Chester CH3 6JA",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.126812,-2.868496,0.66,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,FRO/0038,"Land off Greenfield Lane, Frodsham",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.296772,-2.727019,0.37,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,FRO/0041,"Land adjacent Frodsham High School, Queensway, Frodsham",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.293977,-2.727001,,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,FRO/0054,"Mersey View Club, Overton Hill, Bellemonte Road, Frodsham Cheshire WA6 6HH ",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.286268,-2.724935,1.39,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,GAQ/0005,"Land to rear of Crane Bank Garage, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.191365,-2.90213,0.18,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,GAQ/0006,"Southern Tail development (remaining part of allocation), New Crane Street",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.19053,-2.901992,0.66,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,GAQ/0024,"Raymond House and Diocesan House, Raymond Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.193362,-2.89837,0.05,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-2018-12-30,local-authority-eng:CHW,GRA/0010,"Council depot and garage court off Sutton Way, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.276942,-2.910395,,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,GRA/0012(a),"Former school site (The Acorns Primary and Nursery), Pooltown Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.280617,-2.917627,0.46,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-2018-12-30,local-authority-eng:CHW,GRB/0034(a),"Beechmoor Garden Centre / Shed sales, Whitchurch Road, Chester, Cheshire, CH3 5QD",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.186827,-2.853217,0.93,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,GRB/0042,"Foxwood, Caldy Valley Road, Great Boughton Chester Cheshire CH3 5PR",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.187241,-2.855619,0.2,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,HAG/0028,"176 and 178 Chester Road, Northwich, CW8 4AL",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,outline planning permission,,53.252652,-2.533731,0.1,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,HAG/0065,"Abbey Lodge, Abbey Lane, Hartford, CW8 1LX",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.243431,-2.545319,0.46,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,HAP/0030,"Land to rear of 45-51 Percy Road / 15-17 Eaton Road, Handbridge",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,mixed ownership,not permissioned,,,53.181807,-2.886875,0.29,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,HAP/0032,"Land to rear of 2-14 Bradford Street, Handbridge, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.18264,-2.8861,0.14,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,HAP/0033,"Watertower off Eaton Mews, Handbridge",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.181275,-2.889498,0.33,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,HEL/0003,"The Chase-Former Horse And Jockey, Chester Road, Helsby",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.277968,-2.761403,0.32,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,HEL/0005(a),"INEOS Compounds UK Limited, Chester Road, Helsby",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,reserved matters approval,,53.265839,-2.7772,1.88,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,HEL/0029(a),"MERE'S EDGE (Phase 4) site of existing Helsby Community Sports Club, between chester Road and Hornsmill Brook, Heslby",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,outline planning permission,,53.263806,-2.776024,1.6,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,HOO/0015,"Land off West Street, Hoole, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.199652,-2.883097,,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,HOO/0017,"Hoole Road Enterprise Centre, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.197816,-2.879721,0.71,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,HOO/0018,"Land between Lightfoot Street/ Thomas Brassery Court / railway line, Hoole, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,mixed ownership,not permissioned,,,53.196594,-2.876014,0.4,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,HOO/0028,"Former car sales garage and public house, Hoole Bridge, Hoole Road, Hoole, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,mixed ownership,not permissioned,,,53.198449,-2.881635,0.46,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,HOO/0051,"The Grange, 1 Hoole Road, Chester CH2 3NQ",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.198179,-2.880477,0.09,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,KIN/0011,"Former Delamere Forest School, Blakemere Lane, Norley, WA6 6NP",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.240366,-2.668703,1.04,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-2018-12-30,local-authority-eng:CHW,KIN/0018(a),"Haulage Yard, High Street, Norley, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.246706,-2.650429,0.3,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,LAC/0006,"Great Western House, The Sidings, Chester St, Saltney, ",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.178491,-2.919919,0.5,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,LAC/0012,"Red Hill House, Hope Street, Saltney",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.178007,-2.9175,0.96,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,LAC/0017,"4 Coronation Street, Chester, CH4 8BX",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.178716,-2.916453,0.1,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,LEM/0015,"726 Chester Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.272721,-2.937657,0.31,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,LNB/0028,"Romney Close garage site, Neston CH63 9RJ",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,owned by a public authority,permissioned,full planning permission,,53.285849,-3.059522,0.18,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,MAR/0007,"Canal Bridge House, 47 Chapel Street, Wincham, Northwich CW9 6DA",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.273428,-2.489138,0.12,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,MAR/0019,"Land north of Chapel Street, Wincham",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.273377,-2.490547,1.97,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,MAR/0039,"Land to rear of The Cedars, Chapel Lane, Wincham",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,,not permissioned,,,53.270679,-2.486648,,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-2018-12-30,local-authority-eng:CHW,MAR/0059(a),"Land at 7 Tunnel Road, Barnton, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.268937,-2.548163,,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-2018-12-30,local-authority-eng:CHW,MAR/0061,"Land to rear of Brown Owl PH car park, Church Road, Barnton, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.270137,-2.545404,,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,MAR/0062,"Malvern House (adjacent to Daisy Bank), Old Road, Anderton with Marbury, Northwich. CW9 6AG",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.273588,-2.533452,0.63,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,MAR/0063,"Garage site off Townfield Lane, Barnton, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.27615,-2.553264,0.214,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,MAR/0104,"Black Greyhound Hotel, Hall Lane, Wincham, Northwich. CW9 6DG",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.278252,-2.47874,0.78,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,NES/0034,"8 to 30 Brook Street, Neston",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,mixed ownership,not permissioned,,,53.289837,-3.062921,0.14,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,NET/0005(a),"Land off Netherpool Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.2921,-2.920619,0.38,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,NET/0013,"Site of former Foxfields Public House, Poole Hall Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.294593,-2.920162,0.71,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,NEW/,"Land off Liverpool Road (Total Fitness site), Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,not permissioned,,,53.201493,-2.895396,0.98,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,PAR/0032,"24-28 Bridge Street, Neston, CH64 9UL",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,,not permissioned,,,53.288412,-3.062451,,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,ROS/0002,"Rossfield Park Development (Sites 2C, 3 and 4), Rossfield Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,outline planning permission,,53.284014,-2.906,5.64,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,ROS/0010,"Land at Crescent Road, off Meadow Lane, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.283875,-2.892183,0.7,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,ROS/0027,"Rossfield Park Development (Site 5:Rossbank Road), Ellesmere Port (Persimmon)",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,outline planning permission,,53.287058,-2.90992,4.87,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,ROS/0028,"Land at Rosswood Road / Rossfield Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.284861,-2.910368,0.65,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,ROS/0029,"Land at Rossmore Road East / Rossfield Road North, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.289285,-2.908992,1.39,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,ROS/0031,"Land south of Meadow Lane (former Van Leer / Hansteen site), Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,outline planning permission,,53.282768,-2.891215,3.94,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,ROS/0032,"Rear of 70-88 Grace Road, New Grosvenor Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.286708,-2.901572,0.42,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,SAM/0083a,"Mollington Grange Business Park, Parkgate Road, Mollington, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,,,53.21793,-2.918308,,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,SHA/0002,"413 Manchester Road, Lostock Gralam, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.271069,-2.465525,0.53,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,SHA/0089,"Goostrey Business Park, New Platt Lane, Allostock, Northwich CW4 8NN",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.229013,-2.37814,0.36,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,SHA/0106,"411 Manchester Road, Lostock Gralam, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.270577,-2.467094,0.78,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,STP/0002,"Eccleston Avenue (garage court), Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.279252,-2.924452,0.24,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,STP/0003,"Overpool Road (garage court), Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.281749,-2.924596,0.23,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,STP/0005,"The Sutton Way PH, Sutton Way, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.2762,-2.926186,0.28,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,STP/0006,"Sutton High School, Woodchurch Lane /Mill Lane, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.281682,-2.927459,1.39,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,STP/0034,"Land at Chester Road, Ellesmere Port, CH66 3RJ",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.281329,-2.941565,0.26,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,STP/0040,"Rivacre Business Centre, Mill Lane, Great Sutton, Ellesmere Port CH66 3TL",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.280266,-2.926919,1.37,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,STR/0007,"Chester Road Garden Centre, Great Sutton, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.259534,-2.927325,1.17,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,SUT/0004,"Garage Court, Carlyle Crescent, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.273938,-2.925687,0.28,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,TAK/0020A,"Land at former Haulage Yard site, Chester Road, Oakmere, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.212555,-2.652472,1.14,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,TAK/0020B,"Land at former Haulage Yard site, off Shakerley Close, Oakmere, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.213087,-2.652166,0.28,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,TAK/0070,"Chester Road Nursery, Chester Road, Kelsall, CW6 0RN",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.207165,-2.723435,0.35,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,TAK/0115,Ottersbank Farm Fishpool Road Delamere Northwich Cheshire CW8 2HP,http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.199193,-2.648242,0.14,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,TAK/0137,"The Gables, Chester Road, Oakmere, Northwich CW8 2HB",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.213144,-2.65323,0.32,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,TAT/0026(a),"Beeston Cattle Auction site, Whitchurch Road, Beeston, Chester Cheshire",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,outline planning permission,,53.132465,-2.669746,4.72,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,TAT/0047(a),"Blackham Reclamation Yard, Tattenhall Road, Newton by Tattenhall, Chester, CH3 9QQ",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,reserved matters approval,,53.137465,-2.756434,0.48,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,TAT/0090,"Land at The Oak Room, Tattenhall Road, Newton by Tattenhall, CH3 9BD",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.137576,-2.758753,0.78,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,TAT/0097,"The former Oak Room Public House, Tattenhall Road, Newton By Tattenhall Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.137381,-2.758361,0.16,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,UPT/0005(a),"Former The Gamekeeper PH, (Plush Spice) Newhall Road, Upton, Chester, CH2 1TB",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.214329,-2.879805,0.13,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-2018-12-30,local-authority-eng:CHW,UPT/0047,"UPTON DENE (Phase 3): Land off Upton Grange, Liverpool Road, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.212626,-2.900764,3.11,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WEC/0006,"Briar Lane garage court, Weaverham",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.255743,-2.570928,0.26,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WEC/0054,"Mere Brow, Sandy Lane, Weaverham, Northwich, CW8 3PX",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.268731,-2.591373,,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-2018-12-30,local-authority-eng:CHW,WHI/0016(a),"Site of former Royal British Legion, Stanney Lane, Whitby, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.27148,-2.899212,,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WHI/0017,"Mealors Yard, rear of 94 Chester Road, Whitby, Ellesmere Port, CH65 6RY",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.269779,-2.911322,,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0007,"Land east of Winnington Avenue, Winnington",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.255491,-2.540137,6.02,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0009(a),"Land at Lock Street, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,,not permissioned,,,53.260988,-2.516715,0.21,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0010,"British Waterways site, Navigation Road, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.257131,-2.516953,1.26,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0032,"Land at Weaver Shipyard, Saxons Lane, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.248189,-2.52254,2.98,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0045,"Yoxalls Joinery, Winnington Avenue, Northwich, CW8 4EE",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.261973,-2.53779,,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0049,"TATA Works site, land at Winnington Works, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,,not permissioned,,,53.268324,-2.528708,58.55,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-2018-12-30,local-authority-eng:CHW,WIC/0050,"Land at Winnington Business Park, Winnington Avenue, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,,pending decision,,,53.257235,-2.53806,6.15,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0058(a),"Castleleigh Centre, David Street, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.254415,-2.521327,0.62,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0062,"Land to the north of Watling Street, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,,not permissioned,,,53.261247,-2.512925,2.28,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0072,"Land at Station Road, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.261852,-2.501629,1.78,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0073(a),"Land south of Chester Road, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.262774,-2.498371,0.73,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0075,"Watling Street (Council offices), Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.260276,-2.513018,0.7,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0076,"Weaver Shopping extension, Chester Way, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,,not permissioned,,,53.261457,-2.510109,0.72,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0077,"Land to west of Warrington Street, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.263462,-2.505801,3.17,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0078,"Land at Leicester Street, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,,not permissioned,,,53.263537,-2.502983,1.81,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0082(a),"Land west of Queen Street, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.25749,-2.514934,1.12,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0086,"Land at Chester Way, Victoria Bridge, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,full planning permission,,53.259559,-2.512425,0.29,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0088,Dane House Chester Way Northwich Cheshire CW9 5JG ,http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,planning permission granted under an order,,53.259236,-2.512316,0.11,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIC/0142,"Rear of 56-58 Church Road, Northwich, CW9 5NY",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.261292,-2.500243,,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIR/0031(a),"School Road North (former coal yard), Rudheath",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.250844,-2.476756,0.19,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIR/0033,"Land to the rear of Farmers Arms PH, Middlewich Road, Northwich (Phase II)",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.25788,-2.486158,2.47,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIR/0047,"Bridge View, King Street, Rudheath, Northwich, CW9 7RW",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.253663,-2.475408,,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIT/0021,"Cane House, Waterworks Lane, Hooton, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.297391,-2.976413,0.3,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIT/0023,"Land at Hooton Road, Willaston, Neston, CH64 1SJ",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.292689,-3.004631,0.25,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIT/0032,"Roften Works site, Hooton Road, Hooton, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,,,53.294508,-2.979378,17.6,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIW/0004,"Securicor Ltd, Wharton Road, Winsford CW7 3AP",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.200224,-2.50796,0.34,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIW/0020,"476 Rookery Rise, Station Road, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.190118,-2.497917,0.49,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIW/0030,"S Cooper and Sons Ltd, Warehouse One, Nat Lane, Winsford, CW7 3BS",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,outline planning permission,,53.198972,-2.510684,4.94,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIW/0034,"Wharton Road (Reposessions UK Ltd), Winsford. CW7 3BQ",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,outline planning permission,,53.197309,-2.510769,4.4,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIW/0048(a),"Land at Wharton Green, Deakins Road / Bostock Road, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.206792,-2.506585,1.2,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIW/0050(a),"Former coal yard site, Station Road, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.191233,-2.49567,0.23,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIW/0059,"Meadow Island, Bradford Road, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.19831,-2.522457,2.44,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WIW/0061,"North of Middlewich Road, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,pending decision,,,53.190868,-2.483857,,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WOV/0045(a),"Handley Hill School, Beeston Drive, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.186287,-2.5397,1.09,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WOV/0066,"Land and buildings off Sadler Road, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.192934,-2.526657,0.57,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WOV/0070(a),"Land north of former Richmond Packaging, New Road, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.195269,-2.521028,0.81,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WOV/0071(a),"Car park off Church Street, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.19345,-2.519614,0.43,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WOV/0072,"Land at Manchester House Carpets, 56 High Street, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.192932,-2.520925,0.13,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WOV/0074,"Greedy Pig site, New Road, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.193789,-2.518241,,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WOV/0078,"Pimletts and adjacent car park, Church Street / High Street, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.193069,-2.520477,0.18,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WOV/0084,"Sadler Road (Former Winsford Clio Centre), Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,outline planning permission,,53.193145,-2.527782,0.12,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WOV/0100,Meadow Home Park Mill Lane Whitegate Winsford Cheshire ,http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.215283,-2.526213,0.47,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WOV/0112,"Land at Grange Yard, Grange Lane, Winsford, CW7 2BP",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,pending decision,,,53.193238,-2.533157,,,,2018-12-30,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WSD/0014,"Winsford Shopping Centre, Dene's Drive, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.19173,-2.528648,3.15,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WSD/0027,"Car park off Dene Street, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.19178,-2.531448,0.79,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WSD/0028,"Site of former Civic Hall, High Street, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.192414,-2.530453,0.25,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WSD/0030,"Winsford Library and Dingle Recreation Centre, High Street, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.192486,-2.528448,0.26,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WSD/0031,"Land at High Street / Dingle Lane, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.192071,-2.526692,0.27,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WSD/0034,"Land to rear of Weaver Street, off Winnington Street, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.191343,-2.520427,0.36,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WSD/0044,"The Hollies, Darnhall School Lane, Winsford CW7 1LH",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,full planning permission,,53.176473,-2.535163,0.17,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
-,local-authority-eng:CHW,WSD/0052,"Former Drill Hall, Dingle Lane, Winsford CW7 1AB",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.19173,-2.528648,0.25,,,2017-12-21,,a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+,local-authority-eng:CHW,BLA/0039(a),"Land to rear of 21-33 Western Avenue, Blacon",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.203847,-2.9272,0.29,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,BLA/0070,"27 Blacon Point Road, Blacon, Chester. CH1 5LD",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.20191,-2.920795,0.17,,,2017-12-21,,"11/01876/FUL  12/02648/FUL
+""Two storey side extension to provide four (4) new flats. Addition of two (2) more flats - total of six (6)""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,BOU/0010,"King Edward Buildings/ Bensons site and surrounding land, Christleton",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,mixed ownership,not permissioned,,,53.189457,-2.864868,0.34,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,BOU/0045,"Land at Premier House, Charterhall Drive, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,reserved matters approval,,53.194638,-2.876752,2.48,,,2017-12-21,,"12/04895/FUL  14/03317/REM
+14/01799/NMA
+""Full permission for first office building and outline permission for mixed use development comprising office buildings, dwellings, shops, financial and professional services, restaurants and cafes, drinking establishments, hot food takeaways, non residential institutions, assembly and leisure, access, car parking, servicing and landscaping""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,BOU/0074,"125-127 Boughton, Chester, CH3 5BH",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,,,53.192722,-2.873301,,,,2018-12-30,,"
+""Change of use of a listed building to residential (8 apartments), demolition of out-building and erection of 2 storey building for 6 apartments ""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,BOU/0084,"The Cloud, 10 Boughton, Chester, CH3 5BH",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,planning permission granted under an order,,53.192106,-2.879949,0.07,,,2018-12-30,,"17/04633/PDO, 18/01720/FUL
+""Change of use of building to 8 apartments""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,CHC/0003,"Linenhall car park, Stanley Street, Chester, CH1 2LR",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,full planning permission,,53.19043,-2.896198,0.74,,,2017-12-21,,"13/03210/FUL
+17/00530/NMA
+""Six-storey student accommodation comprising 59 cluster flats and 143 studios, together with ancilliary and communal facilities, landscaping and car parking""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,CHC/0004,"Land off Hoole Way/Black Diamond Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,,,53.19696,-2.884913,0.3,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+2018-12-30,local-authority-eng:CHW,CHC/0005A,"Land at Trafford Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.196572,-2.88986,,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,CHC/0005B,"Former Partco Autoparts, Trafford Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.196581,-2.889845,,,,2018-12-30,,"18/00486/FUL
+""Re-development of site to provide 35 residential apartments (Class C3)""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,CHC/0006,"St Anne Street car park, Black Diamond Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.196205,-2.886095,0.34,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,CHC/0008,"Browns Yard car park, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.192295,-2.884817,0.28,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+2018-12-30,local-authority-eng:CHW,CHC/0018c,"Northgate Redevelopment Site: Land Bounded By Hunter Street, Northgate Street, Watergate Street And St Martins Way Chester Cheshire",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,mixed ownership,permissioned,outline planning permission,,53.19121,-2.894149,5.68,,,2017-12-21,,"02/00838/FUL   07/00061/S73 10/11534/EXT
+16/02282/OUT
+""Hybrid application for part-demolition and part-retention of existing buildings and the construction of comprehensive mixed-use development comprising; retail stores, restaurants, cafes, drinking establishments (Use Classes A1, A2, A3 and A4), offices (Use Class B1), cinema and leisure uses (Use Class D2), 70-120 residential units (Use Class C3), public toilets, shopmobility, a relocated hotel and indoor market with associated new public squares, car and cycle parking, provision for buses and associated highway works and infrastructure, landscaping and public realm works. 
+16/02282/OUT Phase Two includes residential at upper floors""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,CHC/0027,"New Crane Street car park, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.189721,-2.898413,0.33,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+2018-12-30,local-authority-eng:CHW,CHC/0029,"Former car garage, Lower Bridge Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,pending decision,,,53.187092,-2.889484,0.22,,,2017-12-21,,"18/04893/FUL (pending)
+""Mixed use scheme including 43 apartments and 5 town houses, with ground floor retail/commercial""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,CHC/0030,"Garden Lane car park, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.194969,-2.89505,0.33,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,CHC/0032,"BT Building and Newgate House, St John's Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.190106,-2.886673,0.32,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,CHC/0034,"Loves Garage, Garden Lane, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.194657,-2.895882,0.14,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+2018-12-30,local-authority-eng:CHW,CHC/0058B,"Land at Bollands Court, Commonhall Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.189225,-2.892626,,,,2017-12-21,,"
+""24 town houses and apartments and ground floor shop on corner plot.""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,CHC/0072,"104 Watergate Street, Chester, CH1 2LF",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.189568,-2.897273,0.02,,,2018-12-30,,"
+""Conversion of building to form nine (9) self contained flats. (2x1bed and 3x2bed flats, 4xbedsits)""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,CHC/0100,"35 Eastgate Street, Chester, CH1 1LG",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.190785,-2.88962,0.17,,,2018-12-30,,"17/01670/FUL
+""change of use from offices to 5 apartments over three storeys""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+2018-12-30,local-authority-eng:CHW,CHC/0120,"14-20 Watergate Street, Chester (within boundary of CHC/0008/H)",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,mixed ownership,permissioned,full planning permission,,53.190449,-2.892427,0.1,,,2017-12-21,,"16/00580/FUL
+""Change of use / conversion / extension to / part-demolition of for mixed-use development incorporating retail (Use Class A1) / residential (23 apartments) (Use Class C3) / food and beverage (Use Class A3).
+HELAA capacity = 25 dwellings""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,CHC/0163,Clemence House St Werburgh Street Chester Cheshire CH1 2DY ,http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.191453,-2.891625,0.03,,,2017-12-21,,"16/00844/FUL
+""Conversion of 2nd and 3rd floors into 8 apartments ""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,CHC/0176,"Car park off Hunter Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.19235,-2.895535,0.08,,,2017-12-21,,"15/04014/FUL
+""77 self contained student units""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,CHC/0183,"Land at Volunteer Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.188362,-2.889076,0.055,,,2018-12-30,,"17/02631/FUL
+""demolition of warehouse and erection of four storey building for 8 apartments""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,CHV/0013,"White Lane Depot, White Lane, Christleton",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.184018,-2.844916,0.26,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,CHV/0092,"The Moorings, Rowton Bridge Road, G716Christleton, CH3 7AE",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.180334,-2.834518,0.23,,,2017-12-21,,"13/00999/FUL
+""Demolition of existing office buildings and erection of five (5) dwellings with associated parking and drive improvements""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,CHV/0126,"Christleton Hall, Pepper Street, Christleton, CH3 7AB",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.185898,-2.842289,5.14,,,2018-12-30,,"18/03803/FUL refused 25/01/2019
+""residential development of 42 dwellings""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+2018-12-30,local-authority-eng:CHW,DAM/0038(a),"Land at 44 Church Street, Shipbrook Road, Davenham",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.236779,-2.504452,0.27,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,DAM/0054(a),"Land to side and rear of The Salt Museum, London Road, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.254356,-2.514132,0.26,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,DAM/0072(a),"Land at 618 London Road, Davenham",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.227878,-2.509335,0.73,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,DOH/,"Former Huntington Primary School, Butterbache Road, Huntington, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,owned by a public authority,not permissioned,,,53.173432,-2.865817,,,,2018-12-30,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,DOH/0016,"Land at Decoy Farm, Lache Lane, Marlston cum Lache, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.159165,-2.927926,1.13,,,2017-12-21,,"15/01429/OUT
+""Mixed use development comprising up to 24 dwellings and 24 commercial units with associated access. ""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,DOH/0022,"Balderton Saw Mills, Welsh Road, Dodleston, CH4 9LF",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,,not permissioned,,,53.152723,-2.935548,1.67,,,2018-12-30,,"
+""Redevelopment of site for residential development of up to 25 dwellings""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,DOH/0052,"Lyndale Farm, Wrexham Road, Pulford, CH4 9DG",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.130967,-2.928992,1.19,,,2018-12-30,,"17/00049/OUT|17/05230/DIS
+""Construction of mixed use development up to 24 dwellings and 24 commercial units""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,EPT/0038C,"CROMWELL ROAD-Phase 3-Land north of Cromwell Road, Ellesmere Port (HH Roberts)",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.280364,-2.889275,,,,2018-12-30,,"14/00041/OUT
+""Residential development comprising up to 350 dwellings together with associated road infrastructure and open space (outline)-Phase 1a, 1b and 2 complete""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,EPT/0041,"Wellington Road North car park, rear of 89-109 Cambridge Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.279623,-2.893444,0.82,,,2017-12-21,,"Site in Middle;Outer hazard zone
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,EPT/0059,"The Knot PH, Whitby Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.279773,-2.898622,0.24,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,EPT/0063B,"Land at Coronation Road (site of former leisure centre and office building), Stanney Lane, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.274516,-2.900731,2.02,,,2017-12-21,,"
+""Demolition of Former Leisure Centre Building - permission granted 
+Local Authority surplus land / site
+HELAA capacity = 85 for wider site""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,EPT/0067,"Land south of Cromwell Road (former PZ Cussons), Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,outline planning permission,,53.278433,-2.88793,1.54,,,2017-12-21,,"P/08/745   P/2008/102/ST/745
+""Erection of 71 Dwellings (Outline) (Demolition Of Existing Buildings)""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,EPT/0096,"53 Whitby Road, Ellesmere Port CH65 8AB",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.279724,-2.899071,0.05,,,2017-12-21,,"16/02077/FUL
+""Conversion of first floor to mixed use drinking establishment (Use Class A4)/snooker hall (Use Class D2) (relocation from first floor) and one flat and conversion of first floor to form 9 flats (total 10 flats)""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,EPT/0117,"Agra Fort, 3 to 7 Cambridge Road, Ellesmere Port, CH65 8AB",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.28066,-2.89774,0.034,,,2018-12-30,,"17/02172/FUL
+""Conversion of building to provide residetial accommodtaion - 8no one-bed apartments""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,EPT/0118,"Phoenix Social Club, Cromwell Road, Ellesmere Port, CH65 4AA",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.280859,-2.89641,0.016,,,2018-12-30,,"17/02173/FUL
+""Conversion of first floor to dwelling use to create 20 bedsits/flats""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,EPT/0126,"Grace Arms, Stanney Lane, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,not permissioned,,,53.272936,-2.899228,0.4,,,2018-12-30,,"17/04425/FUL (withdrawn)
+""2no three-storey apartment blocks to provide 42no social rented units""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,FAR/0054,"Grosvenor Estate Yard, Middle Lane, Aldford, Chester CH3 6JA",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.126812,-2.868496,0.66,,,2017-12-21,,"08/01294/FUL  11/04335/EXT
+""Re-organisation of existing estate yard, provision of new forestry building and conversion of existing storage barns into 8 affordable units with associated bins/cycle stores and parking areas ""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,FRO/0038,"Land off Greenfield Lane, Frodsham",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.296772,-2.727019,0.37,,,2017-12-21,,"Site in Outer hazard zone
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,FRO/0041,"Land adjacent Frodsham High School, Queensway, Frodsham",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.293977,-2.727001,,,,2018-12-30,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,FRO/0054,"Mersey View Club, Overton Hill, Bellemonte Road, Frodsham Cheshire WA6 6HH ",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.286268,-2.724935,1.39,,,2017-12-21,,"14/03835/OUT
+""12 Dwellings (4 affordable), Provision of Revised Car Parking Layout to existing Hotel, Revised Access, Provision of New Access and Open Space (demolition of existing buildings) ""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,GAQ/0005,"Land to rear of Crane Bank Garage, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.191365,-2.90213,0.18,,,2017-12-21,,"Site in Middle;Outer hazard zone
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,GAQ/0006,"Southern Tail development (remaining part of allocation), New Crane Street",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.19053,-2.901992,0.66,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,GAQ/0024,"Raymond House and Diocesan House, Raymond Street, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.193362,-2.89837,0.05,,,2017-12-21,,"15/02650/FUL
+""Change of use of existing buildings to form 18 bedroom student accommodation with ancillary rooms""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+2018-12-30,local-authority-eng:CHW,GRA/0010,"Council depot and garage court off Sutton Way, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.276942,-2.910395,,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,GRA/0012(a),"Former school site (The Acorns Primary and Nursery), Pooltown Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.280617,-2.917627,0.46,,,2017-12-21,,"
+""Local Authority owned vacant site""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+2018-12-30,local-authority-eng:CHW,GRB/0034(a),"Beechmoor Garden Centre / Shed sales, Whitchurch Road, Chester, Cheshire, CH3 5QD",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.186827,-2.853217,0.93,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,GRB/0042,"Foxwood, Caldy Valley Road, Great Boughton Chester Cheshire CH3 5PR",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.187241,-2.855619,0.2,,,2017-12-21,,"15/01278/FUL
+""Demolition of existing bungalow and construction of 7no new two storey houses and associated garages and external works""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,HAG/0028,"176 and 178 Chester Road, Northwich, CW8 4AL",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,outline planning permission,,53.252652,-2.533731,0.1,,,2017-12-21,,"13/02368/OUT
+""Demolition of existing retail units and temporary buildings and re development of the site with residential accommodation, up to 10 units""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,HAG/0065,"Abbey Lodge, Abbey Lane, Hartford, CW8 1LX",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.243431,-2.545319,0.46,,,2018-12-30,,"16/03165/FUL (allowed on appeal)
+""Demolition of existing dwelling and construction of 6no detached dwellings and pair of semi-detached dwellings""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,HAP/0030,"Land to rear of 45-51 Percy Road / 15-17 Eaton Road, Handbridge",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,mixed ownership,not permissioned,,,53.181807,-2.886875,0.29,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,HAP/0032,"Land to rear of 2-14 Bradford Street, Handbridge, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.18264,-2.8861,0.14,,,2017-12-21,,"08/02031/FUL 13/02232/EXT
+""Demolition of existing depot shed, erection of five three bedroom terrace houses with parking and refuse collection point""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,HAP/0033,"Watertower off Eaton Mews, Handbridge",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.181275,-2.889498,0.33,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,HEL/0003,"The Chase-Former Horse And Jockey, Chester Road, Helsby",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.277968,-2.761403,0.32,,,2017-12-21,,"16/03313/FUL
+14/03769/FUL
+09/02434/FUL
+""Conversion and alteration of existing public house including demolitions and extensions to create 4 No dwellings, erection of 10 dwellings comprising of a mixture of 2 bed and 3 bed two storey dwellings, demolition of existing outbuilding including associated external works (resubmission 08-1603-FUM). (6x2 bed / 8x3bed market houses)""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,HEL/0005(a),"INEOS Compounds UK Limited, Chester Road, Helsby",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,reserved matters approval,,53.265839,-2.7772,1.88,,,2017-12-21,,"13/02503/OUT 
+16/05566/REM
+""Demolition of existing buildings and structures and erection of up to 69 residential dwellings (use class C3) and associated access""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,HEL/0029(a),"MERE'S EDGE (Phase 4) site of existing Helsby Community Sports Club, between chester Road and Hornsmill Brook, Heslby",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,outline planning permission,,53.263806,-2.776024,1.6,,,2017-12-21,,"08/02901/OUM 14/04044/OUT
+""Outline application for the construction of 96 dwellings, with associated highway improvements and landscaping. 2014 application permitted December 2015 for 120 dwellings with open space, access and associated infrastructure (incl demolition of existing buildings). 30 additional units also reamaing in permission 08/02901/OUM""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,HOO/0015,"Land off West Street, Hoole, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.199652,-2.883097,,,,2018-12-30,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,HOO/0017,"Hoole Road Enterprise Centre, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.197816,-2.879721,0.71,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,HOO/0018,"Land between Lightfoot Street/ Thomas Brassery Court / railway line, Hoole, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,mixed ownership,not permissioned,,,53.196594,-2.876014,0.4,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,HOO/0028,"Former car sales garage and public house, Hoole Bridge, Hoole Road, Hoole, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,mixed ownership,not permissioned,,,53.198449,-2.881635,0.46,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,HOO/0051,"The Grange, 1 Hoole Road, Chester CH2 3NQ",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.198179,-2.880477,0.09,,,2017-12-21,,"16/03189/FUL
+""Conversion of office space into 6no residential apartments, consisting of 2x2bed apartments and 4x1bed apartments, and conversion of Coach House into residential storage space.""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,KIN/0011,"Former Delamere Forest School, Blakemere Lane, Norley, WA6 6NP",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.240366,-2.668703,1.04,,,2018-12-30,,"
+""12 market dwellings and 4 affordable dwellings and associated works""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+2018-12-30,local-authority-eng:CHW,KIN/0018(a),"Haulage Yard, High Street, Norley, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.246706,-2.650429,0.3,,,2017-12-21,,"15/01749/OUT
+""Residential development comprising six (6) market houses and six (6) affordable homes.""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,LAC/0006,"Great Western House, The Sidings, Chester St, Saltney, ",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.178491,-2.919919,0.5,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,LAC/0012,"Red Hill House, Hope Street, Saltney",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.178007,-2.9175,0.96,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,LAC/0017,"4 Coronation Street, Chester, CH4 8BX",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.178716,-2.916453,0.1,,,2018-12-30,,"17/02763/OUT
+""Demolition of unit and erection of 8no residential units""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,LEM/0015,"726 Chester Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.272721,-2.937657,0.31,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,LNB/0028,"Romney Close garage site, Neston CH63 9RJ",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,owned by a public authority,permissioned,full planning permission,,53.285849,-3.059522,0.18,,,2017-12-21,,"16/03082/FUL
+""Demolition of existing lock-up garages and remove concrete hardstanibg and the erection of a two storey residential block containing 8x1bed apartments and 16 car parking spaces""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,MAR/0007,"Canal Bridge House, 47 Chapel Street, Wincham, Northwich CW9 6DA",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.273428,-2.489138,0.12,,,2017-12-21,,"09/02524/FUL  14/02588/FUL
+""Demolition of existing buildings and construction of three dwellings and six apartments with associated works / Construction of seven townhouses with associated parking""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,MAR/0019,"Land north of Chapel Street, Wincham",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.273377,-2.490547,1.97,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,MAR/0039,"Land to rear of The Cedars, Chapel Lane, Wincham",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,,not permissioned,,,53.270679,-2.486648,,,,2018-12-30,,"
+
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+2018-12-30,local-authority-eng:CHW,MAR/0059(a),"Land at 7 Tunnel Road, Barnton, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.268937,-2.548163,,,,2017-12-21,,"08-2090-FUM 11/03583/EXT ""Demolition of existing garages and workshop and erection of 13 residential units (8 apartments and 5 dwellings) ""
+
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+2018-12-30,local-authority-eng:CHW,MAR/0061,"Land to rear of Brown Owl PH car park, Church Road, Barnton, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.270137,-2.545404,,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,MAR/0062,"Malvern House (adjacent to Daisy Bank), Old Road, Anderton with Marbury, Northwich. CW9 6AG",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.273588,-2.533452,0.63,,,2017-12-21,,"15/01549/OUT
+""Demolition of existing buildings and redevelopment of the site for residential use  (up to nine dwellings)""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,MAR/0063,"Garage site off Townfield Lane, Barnton, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.27615,-2.553264,0.214,,,2018-12-30,,"18/00342/FUL
+""Erection of 6no dwellings""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,MAR/0104,"Black Greyhound Hotel, Hall Lane, Wincham, Northwich. CW9 6DG",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.278252,-2.47874,0.78,,,2018-12-30,,"17/03244/OUT
+""Demolition of existing buildings and erection of 12 apartments and 4 terraced bungalows""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,NES/0034,"8 to 30 Brook Street, Neston",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,mixed ownership,not permissioned,,,53.289837,-3.062921,0.14,,,2017-12-21,,"
+""Neston NP site""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,NET/0005(a),"Land off Netherpool Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.2921,-2.920619,0.38,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,NET/0013,"Site of former Foxfields Public House, Poole Hall Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.294593,-2.920162,0.71,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,NEW/,"Land off Liverpool Road (Total Fitness site), Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,not permissioned,,,53.201493,-2.895396,0.98,,,2018-12-30,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,PAR/0032,"24-28 Bridge Street, Neston, CH64 9UL",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,,not permissioned,,,53.288412,-3.062451,,,,2018-12-30,,"
+
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,ROS/0002,"Rossfield Park Development (Sites 2C, 3 and 4), Rossfield Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,outline planning permission,,53.284014,-2.906,5.64,,,2017-12-21,,"P/02/929 
+13/01365/EXT (pending)
+16/03098/CWC (pending)
+""Outline permission granted for residential development (approximately 500 units) Phases 1 and 2 = 310 units.""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,ROS/0010,"Land at Crescent Road, off Meadow Lane, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.283875,-2.892183,0.7,,,2017-12-21,,"Site in Middle;Outer hazard zone
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,ROS/0027,"Rossfield Park Development (Site 5:Rossbank Road), Ellesmere Port (Persimmon)",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,outline planning permission,,53.287058,-2.90992,4.87,,,2017-12-21,,"P/02/929  10/00636/OUT
+""Residential development of up to 190 dwellings with access and associated works (outline) (amended resubmission of P/2--7/102/WE/904)""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,ROS/0028,"Land at Rosswood Road / Rossfield Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.284861,-2.910368,0.65,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,ROS/0029,"Land at Rossmore Road East / Rossfield Road North, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.289285,-2.908992,1.39,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,ROS/0031,"Land south of Meadow Lane (former Van Leer / Hansteen site), Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,outline planning permission,,53.282768,-2.891215,3.94,,,2017-12-21,,"P/2009/102/WE/156  12/04513/EXT
+""179 dwellings and associated works""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,ROS/0032,"Rear of 70-88 Grace Road, New Grosvenor Road, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.286708,-2.901572,0.42,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,SAM/0083a,"Mollington Grange Business Park, Parkgate Road, Mollington, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,,,53.21793,-2.918308,,,,2018-12-30,,"
+""Change of use from office units to 24 residential units""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,SHA/0002,"413 Manchester Road, Lostock Gralam, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.271069,-2.465525,0.53,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,SHA/0089,"Goostrey Business Park, New Platt Lane, Allostock, Northwich CW4 8NN",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.229013,-2.37814,0.36,,,2017-12-21,,"16/03425/FUL
+15/04269/OUT
+""Conversion of existing buildings to 5 dwellings""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,SHA/0106,"411 Manchester Road, Lostock Gralam, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.270577,-2.467094,0.78,,,2018-12-30,,"17/01434/FUL
+""Residential development of 15 dwellings""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,STP/0002,"Eccleston Avenue (garage court), Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.279252,-2.924452,0.24,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,STP/0003,"Overpool Road (garage court), Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.281749,-2.924596,0.23,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,STP/0005,"The Sutton Way PH, Sutton Way, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.2762,-2.926186,0.28,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,STP/0006,"Sutton High School, Woodchurch Lane /Mill Lane, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.281682,-2.927459,1.39,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,STP/0034,"Land at Chester Road, Ellesmere Port, CH66 3RJ",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.281329,-2.941565,0.26,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,STP/0040,"Rivacre Business Centre, Mill Lane, Great Sutton, Ellesmere Port CH66 3TL",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.280266,-2.926919,1.37,,,2017-12-21,,"
+""Offices vacant and proposed for demolition (prior approval not required).""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,STR/0007,"Chester Road Garden Centre, Great Sutton, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.259534,-2.927325,1.17,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,SUT/0004,"Garage Court, Carlyle Crescent, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.273938,-2.925687,0.28,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,TAK/0020A,"Land at former Haulage Yard site, Chester Road, Oakmere, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.212555,-2.652472,1.14,,,2017-12-21,,"10/01939/FUL
+""Erection of 27 dwellings and associated landscaping and parking. Demolition of existing buildings (Phase 2)""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,TAK/0020B,"Land at former Haulage Yard site, off Shakerley Close, Oakmere, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.213087,-2.652166,0.28,,,2017-12-21,,"15/03652/OUT
+""Construction of five (5) dwellings""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,TAK/0070,"Chester Road Nursery, Chester Road, Kelsall, CW6 0RN",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.207165,-2.723435,0.35,,,2018-12-30,,"13/03294/OUT, 17/00814/REM
+""Residential development of 10 dwellings""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,TAK/0115,Ottersbank Farm Fishpool Road Delamere Northwich Cheshire CW8 2HP,http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.199193,-2.648242,0.14,,,2017-12-21,,"13/04028/FUL     13/03068/FUL
+16/00218/FUL
+""Conversion of existing office building to form seven residential dwellings (resubmission of 13/03068/FUL)""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,TAK/0137,"The Gables, Chester Road, Oakmere, Northwich CW8 2HB",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.213144,-2.65323,0.32,,,2017-12-21,,"15/04214/OUT
+""Residential development of five (5) dwellings""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,TAT/0026(a),"Beeston Cattle Auction site, Whitchurch Road, Beeston, Chester Cheshire",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,outline planning permission,,53.132465,-2.669746,4.72,,,2017-12-21,,"13/04149/OUT
+""Demolition of existing buildings and redevelopment of the site for up to 103 dwellings with associated open space and redevelopment of existing unused residential cottage for A1 Food Retail (retention of some existing Use Class B1, B2, B8 and Sui Generis uses on site) with associated access""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,TAT/0047(a),"Blackham Reclamation Yard, Tattenhall Road, Newton by Tattenhall, Chester, CH3 9QQ",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,reserved matters approval,,53.137465,-2.756434,0.48,,,2017-12-21,,"13/02120/OUT
+16/03089/REM
+""Demolition of existing buildings and erection of  up to 25 dwellings, up to 700 sq.metres of office floor space (B1), access works and car parking and open space.""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,TAT/0090,"Land at The Oak Room, Tattenhall Road, Newton by Tattenhall, CH3 9BD",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.137576,-2.758753,0.78,,,2017-12-21,,"12/02283/FUL
+""Demolition of buildings on site. Erection of 31 new dwellings. Demolition of modern additions to public house, refurbishment and extensions to side and rear with shop facility and bed and breakfast accommodation.""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,TAT/0097,"The former Oak Room Public House, Tattenhall Road, Newton By Tattenhall Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.137381,-2.758361,0.16,,,2017-12-21,,"15/03391/FUL
+""Demolition of existing public house and erection of 5 affordable houses""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,UPT/0005(a),"Former The Gamekeeper PH, (Plush Spice) Newhall Road, Upton, Chester, CH2 1TB",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.214329,-2.879805,0.13,,,2017-12-21,,"13/03014/OUT
+16/05308/REM (pending)
+""Twelve (12) self contained apartments""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+2018-12-30,local-authority-eng:CHW,UPT/0047,"UPTON DENE (Phase 3): Land off Upton Grange, Liverpool Road, Chester",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.212626,-2.900764,3.11,,,2017-12-21,,"14/05171/OUT
+17/01543/FUL
+""2016 application: 90 new dwellings
+2017 application: Erection of 74 dwellinsg (30% affordable) with associated access, landscaping and works, including retention of on-site water tower and demolition of redundant buildings""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WEC/0006,"Briar Lane garage court, Weaverham",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.255743,-2.570928,0.26,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WEC/0054,"Mere Brow, Sandy Lane, Weaverham, Northwich, CW8 3PX",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.268731,-2.591373,,,,2018-12-30,,"14/02510/OUT, 16/03028/FUL
+""Conversion of dwelling, barn and stables to form 6 dwellings""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+2018-12-30,local-authority-eng:CHW,WHI/0016(a),"Site of former Royal British Legion, Stanney Lane, Whitby, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.27148,-2.899212,,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WHI/0017,"Mealors Yard, rear of 94 Chester Road, Whitby, Ellesmere Port, CH65 6RY",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.269779,-2.911322,,,,2018-12-30,,"16/03781/OUT
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0007,"Land east of Winnington Avenue, Winnington",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.255491,-2.540137,6.02,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0009(a),"Land at Lock Street, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,,not permissioned,,,53.260988,-2.516715,0.21,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0010,"British Waterways site, Navigation Road, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.257131,-2.516953,1.26,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0032,"Land at Weaver Shipyard, Saxons Lane, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.248189,-2.52254,2.98,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0045,"Yoxalls Joinery, Winnington Avenue, Northwich, CW8 4EE",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.261973,-2.53779,,,,2018-12-30,,"17/02087/OUT refused 25 May 2019
+""Demolition of industrial buildings and erection of 33 dwellings""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0049,"TATA Works site, land at Winnington Works, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,,not permissioned,,,53.268324,-2.528708,58.55,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+2018-12-30,local-authority-eng:CHW,WIC/0050,"Land at Winnington Business Park, Winnington Avenue, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,,pending decision,,,53.257235,-2.53806,6.15,,,2017-12-21,,"17/01965/OUT
+""Outline planning application for employment uses (B1, B2, B8 uses), residential dwellings (up to 160 dwelling), retail units, family pub/restaurant, with associated access and ancillary works""
+Site in outer hazard zone",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0058(a),"Castleleigh Centre, David Street, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.254415,-2.521327,0.62,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0062,"Land to the north of Watling Street, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,,not permissioned,,,53.261247,-2.512925,2.28,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0072,"Land at Station Road, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.261852,-2.501629,1.78,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0073(a),"Land south of Chester Road, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.262774,-2.498371,0.73,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0075,"Watling Street (Council offices), Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.260276,-2.513018,0.7,,,2017-12-21,,"pending
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0076,"Weaver Shopping extension, Chester Way, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,,not permissioned,,,53.261457,-2.510109,0.72,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0077,"Land to west of Warrington Street, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.263462,-2.505801,3.17,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0078,"Land at Leicester Street, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,,not permissioned,,,53.263537,-2.502983,1.81,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0082(a),"Land west of Queen Street, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.25749,-2.514934,1.12,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0086,"Land at Chester Way, Victoria Bridge, Northwich",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,full planning permission,,53.259559,-2.512425,0.29,,,2017-12-21,,"08-1854-FUM 10/00991/ful
+""Erection of class C2 residential accommodation with care, comprising 52 No 1, 2 and 3 bedroom apartments for persons aged 60 years and over, with associated works""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0088,Dane House Chester Way Northwich Cheshire CW9 5JG ,http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,planning permission granted under an order,,53.259236,-2.512316,0.11,,,2017-12-21,,"16/05245/PDO
+""Change of use and conversion of existing building from offices to residential, creating 15 apartments for assisted living with associated communal areas and parking ""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIC/0142,"Rear of 56-58 Church Road, Northwich, CW9 5NY",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.261292,-2.500243,,,,2018-12-30,,"17/02641/OUT
+""Residential development of 6 one-bed apartments""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIR/0031(a),"School Road North (former coal yard), Rudheath",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.250844,-2.476756,0.19,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIR/0033,"Land to the rear of Farmers Arms PH, Middlewich Road, Northwich (Phase II)",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.25788,-2.486158,2.47,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIR/0047,"Bridge View, King Street, Rudheath, Northwich, CW9 7RW",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.253663,-2.475408,,,,2018-12-30,,"17/00472/S73
+""Demolition of building and erection of 19 dwellings""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIT/0021,"Cane House, Waterworks Lane, Hooton, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.297391,-2.976413,0.3,,,2017-12-21,,"14/02291/OUT
+""24 one and two bed apartments (demolition of existing buildings)""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIT/0023,"Land at Hooton Road, Willaston, Neston, CH64 1SJ",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.292689,-3.004631,0.25,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIT/0032,"Roften Works site, Hooton Road, Hooton, Ellesmere Port",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,,,53.294508,-2.979378,17.6,,,2018-12-30,,"
+""Residential development comprising 265 residential units and a care home together with access from Hooton Road.
+27x2bed flats / 66x bed, 34x3bed, 138x4bed houses)""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIW/0004,"Securicor Ltd, Wharton Road, Winsford CW7 3AP",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,outline planning permission,,53.200224,-2.50796,0.34,,,2017-12-21,,"09/02249/OUT
+15/05130/OUT
+""Erection of up to 14no. Dwellings (demolition of existing structures) including access from Wharton Road with allo ther matters reserved""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIW/0020,"476 Rookery Rise, Station Road, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.190118,-2.497917,0.49,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIW/0030,"S Cooper and Sons Ltd, Warehouse One, Nat Lane, Winsford, CW7 3BS",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,outline planning permission,,53.198972,-2.510684,4.94,,,2017-12-21,,"12/04804/OUT
+""Winsford NP site W4
+Demolition of all buildings except Wharton Park House and erection of up to 161 dwellings""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIW/0034,"Wharton Road (Reposessions UK Ltd), Winsford. CW7 3BQ",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,outline planning permission,,53.197309,-2.510769,4.4,,,2017-12-21,,"11/00558/OUT
+""Winsford NP site W3
+Residential development (up to 150 dwellings) with 12000sq.ft of B1 / B2 / B8 employment space. S106 signed October 2014""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIW/0048(a),"Land at Wharton Green, Deakins Road / Bostock Road, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.206792,-2.506585,1.2,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIW/0050(a),"Former coal yard site, Station Road, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.191233,-2.49567,0.23,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIW/0059,"Meadow Island, Bradford Road, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.19831,-2.522457,2.44,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WIW/0061,"North of Middlewich Road, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,pending decision,,,53.190868,-2.483857,,,,2018-12-30,,"17/03135/OUT (pending)
+""Construction of up to 21 dwellings""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WOV/0045(a),"Handley Hill School, Beeston Drive, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.186287,-2.5397,1.09,,,2017-12-21,,"
+""Winsford NP site O4
+Promoted by Local Authority for residential redeveopment. Demolition application approved 23 Feb 2017""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WOV/0066,"Land and buildings off Sadler Road, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.192934,-2.526657,0.57,,,2017-12-21,,"
+""Winsford NP site TC 6""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WOV/0070(a),"Land north of former Richmond Packaging, New Road, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.195269,-2.521028,0.81,,,2017-12-21,,"
+""Winsford NP site NTC 5""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WOV/0071(a),"Car park off Church Street, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.19345,-2.519614,0.43,,,2017-12-21,,"
+""Winsford NP site TC 9""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WOV/0072,"Land at Manchester House Carpets, 56 High Street, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.192932,-2.520925,0.13,,,2017-12-21,,"
+""Winsford NP site TC 7""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WOV/0074,"Greedy Pig site, New Road, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.193789,-2.518241,,,,2018-12-30,,"
+""Winsford NP site TC 10""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WOV/0078,"Pimletts and adjacent car park, Church Street / High Street, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.193069,-2.520477,0.18,,,2017-12-21,,"
+""Winsford NP site TC 8""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WOV/0084,"Sadler Road (Former Winsford Clio Centre), Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,outline planning permission,,53.193145,-2.527782,0.12,,,2017-12-21,,"09/00635/OUM  12/03149/EXT
+""Winsford NP site NTC 3""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WOV/0100,Meadow Home Park Mill Lane Whitegate Winsford Cheshire ,http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.215283,-2.526213,0.47,,,2017-12-21,,"15/04548/FUL
+""Engineering works to allow siting of 7 park homes and associated works ""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WOV/0112,"Land at Grange Yard, Grange Lane, Winsford, CW7 2BP",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,pending decision,,,53.193238,-2.533157,,,,2018-12-30,,"17/00619/OUT (pending)
+""Erection of up to 40 dwellings""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WSD/0014,"Winsford Shopping Centre, Dene's Drive, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.19173,-2.528648,3.15,,,2017-12-21,,"
+""Winsford NP site TC 0""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WSD/0027,"Car park off Dene Street, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.19178,-2.531448,0.79,,,2017-12-21,,"
+""Winsford NP site TC 1""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WSD/0028,"Site of former Civic Hall, High Street, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.192414,-2.530453,0.25,,,2017-12-21,,"
+""Winsford NP site TC 2""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WSD/0030,"Winsford Library and Dingle Recreation Centre, High Street, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,owned by a public authority,not permissioned,,,53.192486,-2.528448,0.26,,,2017-12-21,,"
+""Winsford NP site TC 3""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WSD/0031,"Land at High Street / Dingle Lane, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.192071,-2.526692,0.27,,,2017-12-21,,"
+""Winsford NP site TC 5""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WSD/0034,"Land to rear of Weaver Street, off Winnington Street, Winsford",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,not permissioned,,,53.191343,-2.520427,0.36,,,2017-12-21,,"
+""Residential development""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WSD/0044,"The Hollies, Darnhall School Lane, Winsford CW7 1LH",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,,not owned by a public authority,permissioned,full planning permission,,53.176473,-2.535163,0.17,,,2017-12-21,,"08-0824-FUM
+""Demolition of existing building and erection of 14 apartments. Buildings demolished in 2009 - no further progress on site to date""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b
+,local-authority-eng:CHW,WSD/0052,"Former Drill Hall, Dingle Lane, Winsford CW7 1AB",http://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr?tab=files,yes,not owned by a public authority,permissioned,full planning permission,,53.19173,-2.528648,0.25,,,2017-12-21,,"15/03878/FUL
+""Demolition of existing building and erection of 31 residential units and associated bin stores, bicycle stores, car parking and communal amenity space""
+",a28ab5b077b2881b307a9055ca692b548784af55fdeb821da957363d6d356d6b

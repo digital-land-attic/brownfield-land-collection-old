@@ -1,43 +1,127 @@
 OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-002,"""St Martin's Hospital, Canterbury""",1.106021,51.277165,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=616725,157695,27700&scale=2000",6.39,Unknown,,Not Permissioned,,,,,,Yes,Strategic Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-004,"""Land Adjacent to Canterbury West Station, Canterbury""",1.076847,51.285042,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614654,158485,27700&scale=500",0.22,Mixed ownership,,Not Permissioned,,,,,,Yes,Existing Allocation in Local Plan,01/11/2017,08/02/2018,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-005,"""Kingsmead Depot, Kingsmead Road, Canterbury""",1.087569,51.285578,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615399,158576,27700&scale=2000",3.85,Mixed ownership,,Pending Decision,,,,,,Yes,Existing Allocation in Local Plan. Full Application is pending decision,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-006,"""Former Employment Exchange, St Johns Lane, Canterbury""",1.078092,51.276419,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614781,157530,27700&scale=500",0.08,Unknown,,Not Permissioned,,,,,,No,Existing Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-007,"""Canterbury East Station (North side) Car Park, Canterbury""",1.078642,51.273697,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614832,157229,27700&scale=1000",0.48,Unknown,,Not Permissioned,,,,,,Yes,Existing Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-008,"""Northgate Car Park, Norhgate, Canterbury""",1.086126,51.284168,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615305,158415,27700&scale=500",0.21,Mixed ownership,,Not Permissioned,,,,,,No,Existing Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-009,"""Castle Street Car Park, Canterbury""",1.075498,51.275579,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614604,157429,27700&scale=1000",0.28,Public Authority,,Not Permissioned,,,,,,No,Existing Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-010,"""BT Car park, Upper Chantry Lane, Canterbury""",1.085929,51.274162,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615338,157302,27700&scale=1000",0.43,Unknown,,Not Permissioned,,,,,,Yes,Existing Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-011,"""Holmans Meadow Car Park, Dover Street, Canterbury""",1.083241,51.275564,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615144,157450,27700&scale=1000",0.54,Public Authority,,Not Permissioned,,,,,,No,Existing Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-012,"""Rosemary Lane Car Park, Rosemary Lane, Canterbury""",1.075695,51.276806,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614612,157566,27700&scale=500",0.27,Public Authority,,Not Permissioned,,,,,,Yes,Existing Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-014,"""White Horse Lane, Canterbury""",1.079038,51.278769,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614836,157794,27700&scale=1000",0.19,Mixed ownership,,Not Permissioned,,,,,,Yes,Existing Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-015,"""Ivy Lane Car Park, Ivy Lane, Canterbury""",1.087611,51.276798,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615443,157600,27700&scale=500",0.08,Public Authority,,Not Permissioned,,,,,,Yes,Existing Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-016,"""Hawks Lane Car Park, Hawks Lane, Canterbury""",1.078822,51.278325,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614823,157744,27700&scale=500",0.03,Public Authority,,Not Permissioned,,,,,,Yes,Existing Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-017,"""St Radigunds Car Park, St Radigunds Street, Canterbury""",1.082287,51.283163,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615042,158292,27700&scale=500",0.07,Public Authority,,Not Permissioned,,,,,,No,Existing Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-018,"""The Garth, St Stephens Road, Canterbury""",1.079927,51.284124,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614873,158392,27700&scale=500",0.14,Unknown,,Permissioned,Full Planning Permission,23/06/2017,,,,Yes,Existing Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-019,"""St Johns Lane Car Park, St Johns Lane, Canterbury""",1.077595,51.276711,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614745,157561,27700&scale=500",0.06,Mixed ownership,,Not Permissioned,,,,,,No,Existing Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-020,"""Garage Site at Kings Road/Park Road Junction, Herne Bay""",1.126311,51.369332,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617703,168002,27700&scale=500",0.13,Unknown,,Not Permissioned,,,,,,No,Existing Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-021,"""Land at Herne Bay Station, Herne Bay""",1.116319,51.364598,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617030,167446,27700&scale=1000",0.58,Unknown,,Not Permissioned,,,,,,Yes,Existing Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-022,"""Central Development Area, Herne Bay""",1.126575,51.370468,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617716,168129,27700&scale=1000",3.7,Mixed ownership,,Not Permissioned,,,,46,56,No,Part Of Herne Bay Action Plan HB1,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-023,"""Beach Street, Herne Bay""",1.126429,51.372324,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617697,168335,27700&scale=1000",0.33,Mixed ownership,,Not Permissioned,,,,14,19,Yes,Part Of Herne Bay Action Plan HB2,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-025,"""Tankerton Road Car Park & Garage, Whitstable""",1.048979,51.363996,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=612346,167172,27700&scale=500",0.19,Public Authority,,Not Permissioned,,,,,,No,Existing Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-026,"""124 & Adjoining Middle Wall, Whitstable""",1.024079,51.35724,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=610644,166359,27700&scale=500",0.15,Mixed ownership,,Not Permissioned,,,,,,No,Existing Allocation in Local Plan,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-029,"""Herne Bay Court, Canterbury Road, Herne Bay, CT6 5TD""",1.133075,51.361695,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=618210,167173,27700&scale=2000",3.76,Unknown,,Permissioned,Full Planning Permission,03/12/2014,,,,Yes,,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-034,"""Site of Former Sturry Road Social Club, East Street, Canterbury, CT1 1EE""",1.10296,51.289839,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=616452,159095,27700&scale=1000",0.26,Public Authority,,Permissioned,Full Planning Permission,16/10/2017,,,,Yes,,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-041,"""49-55 Canterbury Road, Whitstable, CT5 4HH""",1.025181,51.353253,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=610739,165919,27700&scale=500",0.06,Unknown,,Permissioned,Full Planning Permission,27/01/2016,,,,Yes,,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-047,"""Wesley Manse, 71 Whitstable Road, Canterbury, CT2 8EA""",1.068045,51.285318,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614039,158490,27700&scale=500",0.11,Unknown,,Permissioned,Full Planning Permission,02/03/2016,,,,Yes,,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-053,"""Old Brewery Business Centre, 75 Stour Street, Canterbury, CT1 2NR""",1.078152,51.278603,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614775,157773,27700&scale=500",0.07,Unknown,,Permissioned,Full Planning Permission,13/05/2016,,,,Yes,,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-059,"""Northgate House, 115-120 Northgate, Canterbury, CT1 1EZ""",1.086598,51.283723,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615340,158367,27700&scale=500",0.12,Unknown,,Permissioned,Planning Permission granted under an order,17/08/2016,,,,Yes,,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-062,"""10 Upper Bridge Street, Canterbury, CT1 2NA""",1.083002,51.276074,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615125,157506,27700&scale=500",0.04,Unknown,,Permissioned,Planning Permission granted under an order,27/09/2016,,,,Yes,,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-063,"""21 St Georges Terrace, Herne Bay, CT6 8RH""",1.117588,51.371445,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617086,168211,27700&scale=500",0.04,Unknown,,Permissioned,Full Planning Permission,10/03/2017,,,,Yes,,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-065,"""8b-11 North Lane, Canterbury, CT2 7SL""",1.076278,51.282538,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614626,158205,27700&scale=500",0.04,Unknown,,Permissioned,Full Planning Permission,02/12/2016,,,,Yes,,01/11/2017,30/11/2018,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-066,"""226A and 226B Tankerton Road, Whitstable, CT5 2AY""",1.051378,51.363556,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=612515,167140,27700&scale=500",0.03,Unknown,,Permissioned,Full Planning Permission,10/04/2017,,,,Yes,,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-087,"""64-65 Central Paradee, Herne Bay, CT6 5JG""",1.127194,51.372799,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617748,168390,27700&scale=500",0.03,Unknown,,Permissioned,Full Planning Permission,28/04/2017,,,,Yes,,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-088,"""St Benedict Nursing Home, 22-23 St George's Terrace, Herne Bay, CT6 8RH""",1.117255,51.371409,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617063,168206,27700&scale=500",0.09,Unknown,,Permissioned,Full Planning Permission,03/10/2017,,,,Yes,,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-091,"""Herne Bay Golf Driving Range, Greenhill""",1.113434,51.359341,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=616854,166853,27700&scale=500",0.31,Unknown,,Not Permissioned,,,,1,8,No,This is part of a larger Local Plan allocated site for 40 dwellings,01/11/2017,23/11/2017,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-092,"""Land at Chislet Colliery, Hersden""",1.167528,51.312367,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=620845,161972,27700&scale=2000",19.24,Unknown,,Permissioned,Outline Planning Permission,22/11/2018,,,,Yes,,22/11/2018,30/11/2018,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-095,"""7-9 Ethelbert Road, Canterbury, CT1 3ND""",1.087275,51.270717,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615448,156923,27700&scale=500",0.22,Unknown,,Permissioned,Full Planning Permission,17/05/2018,,,,Yes,,01/11/2018,30/11/2018,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-096,"""Land adjacent to 64 Warwick Road, Canterbury, CT1 1RQ""",1.099357,51.276379,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=616264,157588,27700&scale=500",0.09,Public Authority,,Permissioned,Outline Planning Permission,12/01/2018,,,,Yes,,01/11/2018,30/11/2018,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-097,"""Two Acres, Hardes Court Road, Canterbury, CT4 6EA""",1.077194,51.201174,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615069,149162,27700&scale=500",0.4,Unknown,,Permissioned,Full Planning Permission,01/02/2018,,,,Yes,,01/11/2018,30/11/2018,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-099,"""Arter Brothers, Eagle Motor Works, Old Dover Road, Barham, CT4 6EX""",1.17733,51.200979,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=622064,149438,27700&scale=500",0.33,Unknown,,Permissioned,Full Planning Permission,09/08/2018,,,,Yes,,01/11/2018,30/11/2018,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-100,"""Builders Yard and, 14 Ivy Lane, Canterbury""",1.086727,51.277082,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615380,157629,27700&scale=500",0.07,Unknown,,Permissioned,Full Planning Permission,03/07/2018,,,,Yes,,01/11/2018,30/11/2018,
-http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-101,"""28-30 St Peters Street, Canterbury, CT1 2BQ""",1.076344,51.281376,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614636,158076,27700&scale=500",0.04,Unknown,,Permissioned,Planning Permission granted under an order,23/12/2016,,,,Yes,,01/11/2018,30/11/2018,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-002,"""St Martin's Hospital, Canterbury""",1.106021,51.277165,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=616725,157695,27700&scale=2000",6.39,Unknown,,Not Permissioned,,,,,,Yes,"Strategic Allocation in Local Plan
+Allocated for 164 Units
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-004,"""Land Adjacent to Canterbury West Station, Canterbury""",1.076847,51.285042,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614654,158485,27700&scale=500",0.22,Mixed ownership,,Not Permissioned,,,,,,Yes,"Existing Allocation in Local Plan
+Allocated for erection of 20 dwellings
+",01/11/2017,08/02/2018,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-005,"""Kingsmead Depot, Kingsmead Road, Canterbury""",1.087569,51.285578,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615399,158576,27700&scale=2000",3.85,Mixed ownership,,Pending Decision,,,,,,Yes,"Existing Allocation in Local Plan. Full Application is pending decision
+Demolition of existing buildings and erection of 40 dwellings
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-006,"""Former Employment Exchange, St Johns Lane, Canterbury""",1.078092,51.276419,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614781,157530,27700&scale=500",0.08,Unknown,,Not Permissioned,,,,,,No,"Existing Allocation in Local Plan
+Allocated for 24 Dwellings
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-007,"""Canterbury East Station (North side) Car Park, Canterbury""",1.078642,51.273697,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614832,157229,27700&scale=1000",0.48,Unknown,,Not Permissioned,,,,,,Yes,"Existing Allocation in Local Plan
+Allocated for erection of 24 dwellings
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-008,"""Northgate Car Park, Norhgate, Canterbury""",1.086126,51.284168,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615305,158415,27700&scale=500",0.21,Mixed ownership,,Not Permissioned,,,,,,No,"Existing Allocation in Local Plan
+Allocated for erection of 21 dwellings
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-009,"""Castle Street Car Park, Canterbury""",1.075498,51.275579,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614604,157429,27700&scale=1000",0.28,Public Authority,,Not Permissioned,,,,,,No,"Existing Allocation in Local Plan
+Allocated for erection of 54 dwellings
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-010,"""BT Car park, Upper Chantry Lane, Canterbury""",1.085929,51.274162,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615338,157302,27700&scale=1000",0.43,Unknown,,Not Permissioned,,,,,,Yes,"Existing Allocation in Local Plan
+Allocated for erection of 20 dwellings
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-011,"""Holmans Meadow Car Park, Dover Street, Canterbury""",1.083241,51.275564,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615144,157450,27700&scale=1000",0.54,Public Authority,,Not Permissioned,,,,,,No,"Existing Allocation in Local Plan
+Allocated for erection of 20 dwellings
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-012,"""Rosemary Lane Car Park, Rosemary Lane, Canterbury""",1.075695,51.276806,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614612,157566,27700&scale=500",0.27,Public Authority,,Not Permissioned,,,,,,Yes,"Existing Allocation in Local Plan
+Allocated for erection of 20 dwellings
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-014,"""White Horse Lane, Canterbury""",1.079038,51.278769,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614836,157794,27700&scale=1000",0.19,Mixed ownership,,Not Permissioned,,,,,,Yes,"Existing Allocation in Local Plan
+Allocated for erection of 10 dwellings
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-015,"""Ivy Lane Car Park, Ivy Lane, Canterbury""",1.087611,51.276798,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615443,157600,27700&scale=500",0.08,Public Authority,,Not Permissioned,,,,,,Yes,"Existing Allocation in Local Plan
+Allocated for erection of 10 dwellings
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-016,"""Hawks Lane Car Park, Hawks Lane, Canterbury""",1.078822,51.278325,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614823,157744,27700&scale=500",0.03,Public Authority,,Not Permissioned,,,,,,Yes,"Existing Allocation in Local Plan
+Allocated for 9 dwellings
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-017,"""St Radigunds Car Park, St Radigunds Street, Canterbury""",1.082287,51.283163,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615042,158292,27700&scale=500",0.07,Public Authority,,Not Permissioned,,,,,,No,"Existing Allocation in Local Plan
+Allocated for 7 dwellings
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-018,"""The Garth, St Stephens Road, Canterbury""",1.079927,51.284124,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614873,158392,27700&scale=500",0.14,Unknown,,Permissioned,Full Planning Permission,23/06/2017,,,,Yes,"Existing Allocation in Local Plan
+Proposed three storey building containing 12 two-bedroom apartments.
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-019,"""St Johns Lane Car Park, St Johns Lane, Canterbury""",1.077595,51.276711,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614745,157561,27700&scale=500",0.06,Mixed ownership,,Not Permissioned,,,,,,No,"Existing Allocation in Local Plan
+Allocation for erection of 5 dwellings
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-020,"""Garage Site at Kings Road/Park Road Junction, Herne Bay""",1.126311,51.369332,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617703,168002,27700&scale=500",0.13,Unknown,,Not Permissioned,,,,,,No,"Existing Allocation in Local Plan
+Allocated for 43 dwellings
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-021,"""Land at Herne Bay Station, Herne Bay""",1.116319,51.364598,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617030,167446,27700&scale=1000",0.58,Unknown,,Not Permissioned,,,,,,Yes,"Existing Allocation in Local Plan
+Erection of 35 dwellings
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-022,"""Central Development Area, Herne Bay""",1.126575,51.370468,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617716,168129,27700&scale=1000",3.7,Mixed ownership,,Not Permissioned,,,,46,56,No,"Part Of Herne Bay Action Plan HB1
+
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-023,"""Beach Street, Herne Bay""",1.126429,51.372324,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617697,168335,27700&scale=1000",0.33,Mixed ownership,,Not Permissioned,,,,14,19,Yes,"Part Of Herne Bay Action Plan HB2
+
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-025,"""Tankerton Road Car Park & Garage, Whitstable""",1.048979,51.363996,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=612346,167172,27700&scale=500",0.19,Public Authority,,Not Permissioned,,,,,,No,"Existing Allocation in Local Plan
+Allocated for 17 dwellings
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-026,"""124 & Adjoining Middle Wall, Whitstable""",1.024079,51.35724,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=610644,166359,27700&scale=500",0.15,Mixed ownership,,Not Permissioned,,,,,,No,"Existing Allocation in Local Plan
+Allocated for 7 dwellings
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-029,"""Herne Bay Court, Canterbury Road, Herne Bay, CT6 5TD""",1.133075,51.361695,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=618210,167173,27700&scale=2000",3.76,Unknown,,Permissioned,Full Planning Permission,03/12/2014,,,,Yes,"
+Erection of retirement village
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-034,"""Site of Former Sturry Road Social Club, East Street, Canterbury, CT1 1EE""",1.10296,51.289839,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=616452,159095,27700&scale=1000",0.26,Public Authority,,Permissioned,Full Planning Permission,16/10/2017,,,,Yes,"
+Erection of 10 bungalows
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-041,"""49-55 Canterbury Road, Whitstable, CT5 4HH""",1.025181,51.353253,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=610739,165919,27700&scale=500",0.06,Unknown,,Permissioned,Full Planning Permission,27/01/2016,,,,Yes,"
+Change of use of part of the ground floor of 49-55 Canterbury Road from restaurant to three flats, and change of use of first floor of 49-51 Canterbury Road to two flats.
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-047,"""Wesley Manse, 71 Whitstable Road, Canterbury, CT2 8EA""",1.068045,51.285318,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614039,158490,27700&scale=500",0.11,Unknown,,Permissioned,Full Planning Permission,02/03/2016,,,,Yes,"
+Alteration, extension and conversion of property to nine no. apartments.
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-053,"""Old Brewery Business Centre, 75 Stour Street, Canterbury, CT1 2NR""",1.078152,51.278603,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614775,157773,27700&scale=500",0.07,Unknown,,Permissioned,Full Planning Permission,13/05/2016,,,,Yes,"
+Demolition of rear extension to 75 Stour Street together with internal alterations, change of use and construction of 2 new buildings within the courtyard to form 5 new residential dwellings.
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-059,"""Northgate House, 115-120 Northgate, Canterbury, CT1 1EZ""",1.086598,51.283723,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615340,158367,27700&scale=500",0.12,Unknown,,Permissioned,Planning Permission granted under an order,17/08/2016,,,,Yes,"
+Convert existing offices into 24 flats.
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-062,"""10 Upper Bridge Street, Canterbury, CT1 2NA""",1.083002,51.276074,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615125,157506,27700&scale=500",0.04,Unknown,,Permissioned,Planning Permission granted under an order,27/09/2016,,,,Yes,"
+Convert existing offices into 8 units of residential accommodation.
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-063,"""21 St Georges Terrace, Herne Bay, CT6 8RH""",1.117588,51.371445,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617086,168211,27700&scale=500",0.04,Unknown,,Permissioned,Full Planning Permission,10/03/2017,,,,Yes,"
+Proposed four-storey building containing 7 apartments following demolition of the existing dwelling.
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-065,"""8b-11 North Lane, Canterbury, CT2 7SL""",1.076278,51.282538,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614626,158205,27700&scale=500",0.04,Unknown,,Permissioned,Full Planning Permission,02/12/2016,,,,Yes,"
+Conversion to 4 townhouses and demolition of existing outbuildings to rear and erection of 2no. apartments and 1no. studio unit.
+",01/11/2017,30/11/2018,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-066,"""226A and 226B Tankerton Road, Whitstable, CT5 2AY""",1.051378,51.363556,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=612515,167140,27700&scale=500",0.03,Unknown,,Permissioned,Full Planning Permission,10/04/2017,,,,Yes,"
+Roof extension and alterations to provide 5 flats
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-087,"""64-65 Central Paradee, Herne Bay, CT6 5JG""",1.127194,51.372799,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617748,168390,27700&scale=500",0.03,Unknown,,Permissioned,Full Planning Permission,28/04/2017,,,,Yes,"
+Demolition of existing building and erection of five-storey building with 12
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-088,"""St Benedict Nursing Home, 22-23 St George's Terrace, Herne Bay, CT6 8RH""",1.117255,51.371409,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=617063,168206,27700&scale=500",0.09,Unknown,,Permissioned,Full Planning Permission,03/10/2017,,,,Yes,"
+Proposed change of use from care home to residential; together with two-storey rear and roof extension, to provide 10 apartments.
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-091,"""Herne Bay Golf Driving Range, Greenhill""",1.113434,51.359341,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=616854,166853,27700&scale=500",0.31,Unknown,,Not Permissioned,,,,1,8,No,"This is part of a larger Local Plan allocated site for 40 dwellings
+
+",01/11/2017,23/11/2017,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-092,"""Land at Chislet Colliery, Hersden""",1.167528,51.312367,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=620845,161972,27700&scale=2000",19.24,Unknown,,Permissioned,Outline Planning Permission,22/11/2018,,,,Yes,"
+Mixed-use development of up to 370 dwellings
+",22/11/2018,30/11/2018,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-095,"""7-9 Ethelbert Road, Canterbury, CT1 3ND""",1.087275,51.270717,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615448,156923,27700&scale=500",0.22,Unknown,,Permissioned,Full Planning Permission,17/05/2018,,,,Yes,"
+Proposed change of use from house in multiple occupation to 10 no. flats with associated alterations and demolition.
+",01/11/2018,30/11/2018,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-096,"""Land adjacent to 64 Warwick Road, Canterbury, CT1 1RQ""",1.099357,51.276379,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=616264,157588,27700&scale=500",0.09,Public Authority,,Permissioned,Outline Planning Permission,12/01/2018,,,,Yes,"
+Proposed 8 flats together with associated parking
+",01/11/2018,30/11/2018,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-097,"""Two Acres, Hardes Court Road, Canterbury, CT4 6EA""",1.077194,51.201174,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615069,149162,27700&scale=500",0.4,Unknown,,Permissioned,Full Planning Permission,01/02/2018,,,,Yes,"
+Proposed five two-storey detached dwellings with associated garages following demolition of detached dwelling and outbuilding.
+",01/11/2018,30/11/2018,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-099,"""Arter Brothers, Eagle Motor Works, Old Dover Road, Barham, CT4 6EX""",1.17733,51.200979,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=622064,149438,27700&scale=500",0.33,Unknown,,Permissioned,Full Planning Permission,09/08/2018,,,,Yes,"
+Proposed 10 two-storey dwellings following demolition of existing commercial buildings.
+",01/11/2018,30/11/2018,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-100,"""Builders Yard and, 14 Ivy Lane, Canterbury""",1.086727,51.277082,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=615380,157629,27700&scale=500",0.07,Unknown,,Permissioned,Full Planning Permission,03/07/2018,,,,Yes,"
+Proposed six two-storey dwellings following the demolition of storage/office buildings.
+",01/11/2018,30/11/2018,
+http://opendatacommunities.org/id/district-council/canterbury,Canterbury City Council,BR-101,"""28-30 St Peters Street, Canterbury, CT1 2BQ""",1.076344,51.281376,"https://mapping.canterbury.gov.uk/webapps/Brownfield_Sites/?center=614636,158076,27700&scale=500",0.04,Unknown,,Permissioned,Planning Permission granted under an order,23/12/2016,,,,Yes,"
+Convert offices into 22 dwellings
+",01/11/2018,30/11/2018,

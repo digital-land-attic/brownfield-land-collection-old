@@ -1,33 +1,97 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-08,local-authority-eng:WIN,BLR17/01,Old Station Yard Oxford Road,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,51.153152,-1.336096,0.9,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/02,63 Andover Road,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,51.073925,-1.322528,0.29,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/03,Trafalgar House Trafalgar Street,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,other,,51.062876,-1.318422,0.06,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/04,12-13 Capitol House Bridge Street,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,other,,51.060898,-1.306279,0.05,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/05,12-13 Capitol House Bridge Street,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,other,,51.060898,-1.306279,0.05,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/06,Co-Operative Group Ember House Moorside Road,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,other,,51.072762,-1.297766,0.11,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/07,The Brook Clewers Hill,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,50.939035,-1.20219,0.33,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/08,51 Denmead Baptist Church Anmore Road,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,50.903286,-1.059192,0.16,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/09,15 Chilbolton Avenue,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,51.063182,-1.338881,0.5,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/10,Garage Court Bailey Close,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,owned by a public authority,permissioned,full planning permission,,51.056126,-1.337655,0.06,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/11,"Winchester Snooker Centre, Radley House 8 St Cross Road",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,51.059472,-1.319071,0.09,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/12,Regency House 2-4 Southgate Street Winchester Hampshire SO23 9EF,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,51.062664,-1.317455,0.03,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/13,Canister House 2 Exchange Square,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,other,,51.06553,-1.315472,0.04,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/14,9-11 High Street,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,51.061731,-1.311803,0.08,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/15,"Cunningham House, Claylands Road",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,50.956261,-1.221714,0.18,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/16,11-16 Garage Block Mitford Road,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,owned by a public authority,permissioned,full planning permission,,51.084519,-1.173236,0.35,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/17,"Laurel House, Station Approach",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,51.08882,-1.16345,0.12,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/18,"Brymor House & Ocean House Parklands Business Park, Forest Rd",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,other,,50.895773,-1.069951,0.5,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/19,Acer House Parklands Business Park Forest Road Denmead,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,other,,50.89493,-1.070238,0.23,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/20,"16 Edgar Road, Winchester, SO23 9TW",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,50.995253,-5.865299,0.21,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/21,"St Peter's, Hyde Abbey Road Car Park, Winchester",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,51.065742,-1.311787,0.43,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/22,"Kings Worthy Court, Kings Worthy, SO23 7QA",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,51.089444,-1.29947,0.53,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/23,"Land At the end of West End Close, Winchester",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,51.064588,-1.326717,0.25,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/24,"Land off Firmstone Road, Winchester",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,51.063717,-1.300914,0.24,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/25,"Clayfield Park Homes Ltd, Main Road, Colden Common",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,50.997188,-1.315466,2.05,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/26,"Malt Lane, Bishops Waltham",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,50.887321,-6.018776,0.36,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/27,"Royal Hampshire County Hospital B, Winchester",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,owned by a public authority,not permissioned,,,51.06188,-1.328069,0.53,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/28,"Royal Hampshire County Hospital E, Winchester",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,owned by a public authority,not permissioned,,,51.061825,-1.329382,0.75,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/29,"Behind Trussell Crescent, Winchester",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,owned by a public authority,not permissioned,,,51.077242,-1.33654,0.2,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/30,"Telephone Exchange, Station Road, New Alresford, SO32 2LX",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,51.089819,-1.162332,0.25,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/31,Cornerways Church Lane Kingsworthy,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,51.091055,-1.30113,1.27,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
-2017-12-08,local-authority-eng:WIN,BLR17/32,The Dean Housing Allocation,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,51.091127,-1.166592,2.13,,,2017-12-01,,0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-12-08,local-authority-eng:WIN,BLR17/01,Old Station Yard Oxford Road,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,51.153152,-1.336096,0.9,,,2017-12-01,,"
+Erection of 27No. Dwellings
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/02,63 Andover Road,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,51.073925,-1.322528,0.29,,,2017-12-01,,"
+Demolition of existing dwelling and erection of 10No. dwellings (6No. 2 Bed Flats and 4No. 3 Bed Houses)
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/03,Trafalgar House Trafalgar Street,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,other,,51.062876,-1.318422,0.06,,,2017-12-01,,"
+Change Of Use from B1 to 26 1 Bed Flats
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/04,12-13 Capitol House Bridge Street,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,other,,51.060898,-1.306279,0.05,,,2017-12-01,,"
+(Prior Approval) Change Of Use for First Floor Ofices (B1 Use) to 5 No. Residential Units
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/05,12-13 Capitol House Bridge Street,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,other,,51.060898,-1.306279,0.05,,,2017-12-01,,"
+(Prior Approval) Change Of Use of the basement, second and third floors and roof spaces from Offices (B1 Use) to 11 Dwellings.
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/06,Co-Operative Group Ember House Moorside Road,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,other,,51.072762,-1.297766,0.11,,,2017-12-01,,"
+(Prior Approval) Change Of Use from B1(A) Office to 12 x Studio Flats.
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/07,The Brook Clewers Hill,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,50.939035,-1.20219,0.33,,,2017-12-01,,"
+Demolition of Exisitng Dwelling and Erection of 10 x Dwellings
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/08,51 Denmead Baptist Church Anmore Road,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,50.903286,-1.059192,0.16,,,2017-12-01,,"
+Erection of 10 x dwellings following demolition of the existing Denmead Baptist Church.
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/09,15 Chilbolton Avenue,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,51.063182,-1.338881,0.5,,,2017-12-01,,"
+Demolition of exisitng buildings and erection of 6 x Houses.
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/10,Garage Court Bailey Close,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,owned by a public authority,permissioned,full planning permission,,51.056126,-1.337655,0.06,,,2017-12-01,,"
+Erection of 5 x 1 Bed affordable housing units.
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/11,"Winchester Snooker Centre, Radley House 8 St Cross Road",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,51.059472,-1.319071,0.09,,,2017-12-01,,"
+Demolition of exisitng Snooker Centre and erection of 5No. 3 Bed, 1No. 2 Bed Dwellings AND A COMMERCIAL BLDG.
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/12,Regency House 2-4 Southgate Street Winchester Hampshire SO23 9EF,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,51.062664,-1.317455,0.03,,,2017-12-01,,"
+Retention of lower ground & ground Floor Offices & Change Of Use of First & Second Floor from B1 (Office) to 4x1 Bed & 4 x 2 Bed Flats
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/13,Canister House 2 Exchange Square,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,other,,51.06553,-1.315472,0.04,,,2017-12-01,,"
+Change of Use from B1(A) Offices to 9No. Residential Dwellings
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/14,9-11 High Street,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,51.061731,-1.311803,0.08,,,2017-12-01,,"
+Redevelop Exisitng Facades on High St & Market St. Change Of Use of 2 Floors from A1 & erection of a 3rd floor to create 7 x Duplex flats
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/15,"Cunningham House, Claylands Road",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,50.956261,-1.221714,0.18,,,2017-12-01,,"
+Alterations to provide new hipped roof to existing building and formation of 5xFlats.
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/16,11-16 Garage Block Mitford Road,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,owned by a public authority,permissioned,full planning permission,,51.084519,-1.173236,0.35,,,2017-12-01,,"
+Erection of 6 x1 Bed and 2 x 2 Bed Affordable Flats Following Demolition of Exisitng Garages.
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/17,"Laurel House, Station Approach",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,full planning permission,,51.08882,-1.16345,0.12,,,2017-12-01,,"
+Conversion of Building to 7No. Dwellings (Previously Approved on 15/01674/PNCOU)
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/18,"Brymor House & Ocean House Parklands Business Park, Forest Rd",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,other,,50.895773,-1.069951,0.5,,,2017-12-01,,"
+Change of use of existing B1(a) offices (within 2x separate blocks) to provide a total of 24. No Class C3 Dwellings together with on-site car parking.
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/19,Acer House Parklands Business Park Forest Road Denmead,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,permissioned,other,,50.89493,-1.070238,0.23,,,2017-12-01,,"
+Change of use of existing office building (Use Class B1(a)) to 8 no. apartments (Use Class C3)
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/20,"16 Edgar Road, Winchester, SO23 9TW",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,50.995253,-5.865299,0.21,,,2017-12-01,,"
+
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/21,"St Peter's, Hyde Abbey Road Car Park, Winchester",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,51.065742,-1.311787,0.43,,,2017-12-01,,"
+
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/22,"Kings Worthy Court, Kings Worthy, SO23 7QA",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,51.089444,-1.29947,0.53,,,2017-12-01,,"
+
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/23,"Land At the end of West End Close, Winchester",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,51.064588,-1.326717,0.25,,,2017-12-01,,"
+
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/24,"Land off Firmstone Road, Winchester",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,51.063717,-1.300914,0.24,,,2017-12-01,,"
+
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/25,"Clayfield Park Homes Ltd, Main Road, Colden Common",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,50.997188,-1.315466,2.05,,,2017-12-01,,"
+
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/26,"Malt Lane, Bishops Waltham",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,50.887321,-6.018776,0.36,,,2017-12-01,,"
+
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/27,"Royal Hampshire County Hospital B, Winchester",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,owned by a public authority,not permissioned,,,51.06188,-1.328069,0.53,,,2017-12-01,,"
+
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/28,"Royal Hampshire County Hospital E, Winchester",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,owned by a public authority,not permissioned,,,51.061825,-1.329382,0.75,,,2017-12-01,,"
+
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/29,"Behind Trussell Crescent, Winchester",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,owned by a public authority,not permissioned,,,51.077242,-1.33654,0.2,,,2017-12-01,,"
+
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/30,"Telephone Exchange, Station Road, New Alresford, SO32 2LX",http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,51.089819,-1.162332,0.25,,,2017-12-01,,"
+
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/31,Cornerways Church Lane Kingsworthy,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,51.091055,-1.30113,1.27,,,2017-12-01,,"
+
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612
+2017-12-08,local-authority-eng:WIN,BLR17/32,The Dean Housing Allocation,http://winch.maps.arcgis.com/apps/webappviewer/index.html?id=4c4379c8d2c14f8c81033b4ffd1d4a3b,yes,not owned by a public authority,not permissioned,,,51.091127,-1.166592,2.13,,,2017-12-01,,"
+
+",0e998c88ba58035c5a638240ecaec77aa5498b4a177cb40f79d5dc84ef85f612

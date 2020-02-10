@@ -1,36 +1,106 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-20,local-authority-eng:GRY,BFR1,"137-139 King Street, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2568&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.604397,1.729122,0.04,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR2,"Land adjacent Runham Road / North River Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2569&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.615404,1.72094,1.19,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR3,"Gainsborough Court, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2570&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.599037,1.733659,0.04,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR4,"Rear of 5 Marine Parade, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2571&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.601305,1.735344,0.02,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR5,"Former Ivy House & The Hollies, Burnt Lane / Addison Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2572&p=0,yes,not owned by a public authority,pending decision,,,52.585926,1.725011,0.26,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR6,"Former Claydon High School, Beccles Road, Gorleston, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2573&p=0,yes,not owned by a public authority,pending decision,,,52.584387,1.71416,5.08,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR7,"31/31A Hall Plain, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2574&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.606097,1.725705,0.02,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR8,"137 Mill Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2575&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.606112,1.720639,0.04,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR9,"Te-aroha, Albert Square, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2576&p=0,yes,not owned by a public authority,permissioned,outline planning permission,,52.599533,1.734188,0.12,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR10,"5-6 Nelson Road South, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2577&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.600079,1.733408,0.02,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR11,"5 Deneside, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2578&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.605811,1.729079,0.02,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR12,"Deneside House, Deneside, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2579&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.605957,1.728988,0.02,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR13,"Peters Car Sales, Acle New Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2580&p=0,yes,not owned by a public authority,permissioned,outline planning permission,,52.613857,1.720927,0.12,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR14,"Abbeville Lodge, Acle New Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2581&p=0,yes,not owned by a public authority,permissioned,outline planning permission,,52.6135,1.721118,0.12,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR15,"Watsons Bakery, 6 Howard Street North, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2582&p=0,yes,not owned by a public authority,permissioned,outline planning permission,,52.608637,1.725035,0.05,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR16,"Former Shepherd Engineering Premises, Riverside Road, Gorleston, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2583&p=0,yes,not owned by a public authority,permissioned,outline planning permission,,52.584174,1.728938,0.06,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR17,"1 Woodfarm Lane, Gorleston, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2584&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.559743,1.711515,0.02,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR18,"Horatio House, Southtown Road, Gorleston, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2585&p=0,yes,not owned by a public authority,permissioned,outline planning permission,,52.598537,1.723837,0.5,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR19,"Magdalen House, Magdalen Square, Gorleston, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2586&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.571755,1.713682,0.81,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR20,"North of Hertford Way, Gorleston, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2587&p=0,yes,owned by a public authority,permissioned,full planning permission,,52.57257,1.712097,0.18,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR21,"165 King Street, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2588&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.60618,1.727633,0.03,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR22,"26 Southgates Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2589&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.596224,1.728441,0.07,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR23,"14 Camperdown, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2590&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.600734,1.733744,0.01,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR24,"11/12 South Quay, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2591&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.604799,1.725787,0.03,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR25,"84 North Denes Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2592&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.619437,1.734229,0.03,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR26,"Former trailer storage yard, Mill Road, Cobholm, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2593&p=0,yes,not owned by a public authority,pending decision,,,52.60865,1.714324,0.17,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR27,"132 Gordon Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2594&p=0,yes,not owned by a public authority,pending decision,,,52.599501,1.722944,0.12,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR28,"Northgate Hospital, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2595&p=0,yes,owned by a public authority,pending decision,,,52.618005,1.730013,2.18,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR29,"Atlantis Complex, Marine Parade, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2596&p=0,yes,not owned by a public authority,pending decision,,,52.604479,1.735939,0.22,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR30,"Clere House, Pippin Close, Ormesby St Margaret, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2597&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.674142,1.685183,0.11,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR31,Great Yarmouth Waterfront,https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2598&p=0,,mixed ownership,not permissioned,,,52.610482,1.72098,4E+1,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR32,"73 Southtown Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2599&p=0,yes,not owned by a public authority,permissioned,outline planning permission,,52.599926,1.723143,0.18,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR33,"35-36 South Quay, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2600&p=0,yes,not owned by a public authority,permissioned,,,52.602993,1.726875,0.01,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR34,"Former garage, Estcourt Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2601&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.61602,1.733347,0.01,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
-2017-12-20,local-authority-eng:GRY,BFR35,"33 Marine Parade, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2602&p=0,,not owned by a public authority,pending decision,,,52.608362,1.736315,0.01,,,2017-12-20,,e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-12-20,local-authority-eng:GRY,BFR1,"137-139 King Street, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2568&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.604397,1.729122,0.04,,,2017-12-20,,"06/04/0783/F
+Conversion to 6 flats
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR2,"Land adjacent Runham Road / North River Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2569&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.615404,1.72094,1.19,,,2017-12-20,,"06/05/0866/F
+Erection of up to 24 units
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR3,"Gainsborough Court, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2570&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.599037,1.733659,0.04,,,2017-12-20,,"06/12/0647/F & 06/14/0551/F
+Redevelopment (demolition) of former holiday accommodation for up to 12 units
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR4,"Rear of 5 Marine Parade, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2571&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.601305,1.735344,0.02,,,2017-12-20,,"06/10/0448/F
+Redevelopment (demolition) of lean to extension and replacement with 6 flats
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR5,"Former Ivy House & The Hollies, Burnt Lane / Addison Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2572&p=0,yes,not owned by a public authority,pending decision,,,52.585926,1.725011,0.26,,,2017-12-20,,"06/16/0189/F
+Redevelopment (demolition) of 2 existing buildings and replacement with 18 flats
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR6,"Former Claydon High School, Beccles Road, Gorleston, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2573&p=0,yes,not owned by a public authority,pending decision,,,52.584387,1.71416,5.08,,,2017-12-20,,"06/15/0737/F
+Redevelopment of site to provide up to 113 residential units
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR7,"31/31A Hall Plain, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2574&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.606097,1.725705,0.02,,,2017-12-20,,"06/13/0391/F
+Formation of 6 residential flats
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR8,"137 Mill Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2575&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.606112,1.720639,0.04,,,2017-12-20,,"06/14/0592/F
+Demolition of existing building and replacement with 10 self-contained apartments
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR9,"Te-aroha, Albert Square, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2576&p=0,yes,not owned by a public authority,permissioned,outline planning permission,,52.599533,1.734188,0.12,,,2017-12-20,,"06/14/0096/O
+Demolition of existing bungalow and replacement with 8 dwellings
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR10,"5-6 Nelson Road South, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2577&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.600079,1.733408,0.02,,,2017-12-20,,"06/15/0647/F
+Change of use from hostel to 6 residential flats
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR11,"5 Deneside, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2578&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.605811,1.729079,0.02,,,2017-12-20,,"06/13/0083/F
+Redevelopment of former builders yard to four apartments and one house
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR12,"Deneside House, Deneside, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2579&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.605957,1.728988,0.02,,,2017-12-20,,"06/15/0558/F
+Conversion of existing building to 6 flats
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR13,"Peters Car Sales, Acle New Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2580&p=0,yes,not owned by a public authority,permissioned,outline planning permission,,52.613857,1.720927,0.12,,,2017-12-20,,"06/15/0584/O
+14 Apartments
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR14,"Abbeville Lodge, Acle New Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2581&p=0,yes,not owned by a public authority,permissioned,outline planning permission,,52.6135,1.721118,0.12,,,2017-12-20,,"06/15/0587/O
+Erection of 2 apartment blocks comprising 16 units
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR15,"Watsons Bakery, 6 Howard Street North, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2582&p=0,yes,not owned by a public authority,permissioned,outline planning permission,,52.608637,1.725035,0.05,,,2017-12-20,,"06/15/0634/O
+Demolition of part of bakery and erection of starter homes
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR16,"Former Shepherd Engineering Premises, Riverside Road, Gorleston, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2583&p=0,yes,not owned by a public authority,permissioned,outline planning permission,,52.584174,1.728938,0.06,,,2017-12-20,,"06/15/0736/O
+Demolition of workshop and erection of 5 houses
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR17,"1 Woodfarm Lane, Gorleston, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2584&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.559743,1.711515,0.02,,,2017-12-20,,"06/16/0781/F
+Demolition of existing building and erection of 7 dwellings
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR18,"Horatio House, Southtown Road, Gorleston, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2585&p=0,yes,not owned by a public authority,permissioned,outline planning permission,,52.598537,1.723837,0.5,,,2017-12-20,,"06/15/0348/O
+Demolition of existing buildings and erection of 24 residential units
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR19,"Magdalen House, Magdalen Square, Gorleston, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2586&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.571755,1.713682,0.81,,,2017-12-20,,"06/14/0773/F
+Demolition of former care home and erection of 46 residential units
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR20,"North of Hertford Way, Gorleston, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2587&p=0,yes,owned by a public authority,permissioned,full planning permission,,52.57257,1.712097,0.18,,,2017-12-20,,"06/16/0387/SU
+Demolition of existing offices and erection of 6 residential units
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR21,"165 King Street, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2588&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.60618,1.727633,0.03,,,2017-12-20,,"06/16/0278/F
+Conversion of office space to 8 flats
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR22,"26 Southgates Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2589&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.596224,1.728441,0.07,,,2017-12-20,,"06/16/0193/F
+Change of use of upper floor shop to 6 apartments
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR23,"14 Camperdown, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2590&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.600734,1.733744,0.01,,,2017-12-20,,"06/16/0126/F
+Change of use from HMO to 5 self-contained flats
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR24,"11/12 South Quay, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2591&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.604799,1.725787,0.03,,,2017-12-20,,"06/16/0661/F
+Change of use from offices to 7 apartments
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR25,"84 North Denes Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2592&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.619437,1.734229,0.03,,,2017-12-20,,"06/16/0523/F
+Sub-division of property to 7 self-contained flats
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR26,"Former trailer storage yard, Mill Road, Cobholm, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2593&p=0,yes,not owned by a public authority,pending decision,,,52.60865,1.714324,0.17,,,2017-12-20,,"06/16/0431/F
+Redevelopment of site and construction of 11 dwellings
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR27,"132 Gordon Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2594&p=0,yes,not owned by a public authority,pending decision,,,52.599501,1.722944,0.12,,,2017-12-20,,"06/16/0188/F
+Demolition of existing storgae buildings and erection of 22 residential units
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR28,"Northgate Hospital, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2595&p=0,yes,owned by a public authority,pending decision,,,52.618005,1.730013,2.18,,,2017-12-20,,"""06/13/0472/O, potential for contaminated land associated with hospital, a Site Investigation Report has been considered with the application""
+Erection of up to 79 residential units on former hospital site
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR29,"Atlantis Complex, Marine Parade, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2596&p=0,yes,not owned by a public authority,pending decision,,,52.604479,1.735939,0.22,,,2017-12-20,,"06/15/0769/F
+Conversion of upper floors to residential uses
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR30,"Clere House, Pippin Close, Ormesby St Margaret, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2597&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.674142,1.685183,0.11,,,2017-12-20,,"06/16/0140/F
+Demolition of care home and construction of 7 dwellings
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR31,Great Yarmouth Waterfront,https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2598&p=0,,mixed ownership,not permissioned,,,52.610482,1.72098,4E+1,,,2017-12-20,,"""Site Allocation - Policy CS17, contains comtaminated land associated with previous industrial uses and requires signficant flood infrastructure to protect site and surrounding land.""
+""Mixture of types and tenures, 300 units delivered within plan period""
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR32,"73 Southtown Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2599&p=0,yes,not owned by a public authority,permissioned,outline planning permission,,52.599926,1.723143,0.18,,,2017-12-20,,"06/16/0695/O
+Demolition of existing buildings and erection of 14 residential units
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR33,"35-36 South Quay, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2600&p=0,yes,not owned by a public authority,permissioned,,,52.602993,1.726875,0.01,,,2017-12-20,,"06/16/0593/F
+Change of use from doctors surgery to residential units
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR34,"Former garage, Estcourt Road, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2601&p=0,yes,not owned by a public authority,permissioned,full planning permission,,52.61602,1.733347,0.01,,,2017-12-20,,"06/17/0455/F
+Conversion of existing building to 6 terraced houses
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74
+2017-12-20,local-authority-eng:GRY,BFR35,"33 Marine Parade, Great Yarmouth",https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=2602&p=0,,not owned by a public authority,pending decision,,,52.608362,1.736315,0.01,,,2017-12-20,,"06/16/0784/F
+Change of use of first floor from nightclub to form 16 residential flats
+",e897f9b6fb2a6d2de1282a6a1376cf5bd2fc15a3a08dda1ed805ffb647480b74

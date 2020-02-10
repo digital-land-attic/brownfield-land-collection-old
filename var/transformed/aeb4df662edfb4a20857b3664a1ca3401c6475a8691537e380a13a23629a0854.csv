@@ -1,19 +1,55 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-13,local-authority-eng:MAS,1,"Former Mansfield Brewery (part B), Great Central Road, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9535&p=0,,not owned by a public authority,permissioned,permission in principle,,53.14,-1.19,0.76,20,30,2017-09-26,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
-2017-09-26,local-authority-eng:MAS,2,"Former Mansfield General Hospital, West Hill Drive, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,owned by a public authority,permissioned,full planning permission,,53.15,-1.2,1.11,,,2017-09-26,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
-2017-12-13,local-authority-eng:MAS,33,"Wood Lane (Miners Welfare), Wood Lane, Church Warsop",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9536&p=0,,not owned by a public authority,permissioned,permission in principle,,53.21,-1.17,1.05,25,35,2017-09-26,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
-2017-09-26,local-authority-eng:MAS,54,"Former Evans Halshaw site, Nottingham Road, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,full planning permission,,53.12,-1.19,1.92,,,2017-09-26,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
-2017-12-13,local-authority-eng:MAS,68,"Kirkland Avenue Industrial Park, Kirkland Avenue, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9537&p=0,,not owned by a public authority,permissioned,permission in principle,,53.14,-1.21,0.7,15,25,2017-09-26,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
-2017-12-13,local-authority-eng:MAS,75,"Former Mansfield Hosiery Mill Car Park & Electricity Board workshops & social club, Botany Avenue, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9538&p=0,,not owned by a public authority,permissioned,permission in principle,,53.14,-1.21,0.97,25,35,2017-09-26,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
-2017-09-26,local-authority-eng:MAS,86,"Land at the corner of Quarry Lane, Mansfield., Quarry Lane, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,full planning permission,,53.13,-1.21,0.25,,,2017-09-26,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
-2017-09-26,local-authority-eng:MAS,92,"Pleasley Hill Regeneration Area, Chesterfield Road North, Pleasley",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,full planning permission,,53.17,-1.24,3.81,,,2017-09-26,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
-2017-09-26,local-authority-eng:MAS,95,"Vauxhall Garage, Sutton Road, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,,not owned by a public authority,permissioned,outline planning permission,,53.14,-1.22,0.87,,,2017-09-26,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
-2017-09-26,local-authority-eng:MAS,96,"Land at Hermitage Lane, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,full planning permission,,53.14,-1.22,0.9,,,2017-09-26,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
-2017-09-26,local-authority-eng:MAS,99,"18 Burns Street, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,pending decision,full planning permission,,53.15,-1.21,0.17,,,2017-09-26,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
-2017-09-26,local-authority-eng:MAS,105,"Land at 7 Oxclose Lane, Grosvenor Close, Mansfield Woodhouse",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,full planning permission,,53.16,-1.2,0.45,,,2017-09-26,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
-2017-09-26,local-authority-eng:MAS,106,"Former Mansfield Sand Co, Sandhurst Avenue, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,outline planning permission,,53.13,-1.19,3.35,,,2017-09-26,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
-2017-09-26,local-authority-eng:MAS,109,"Land off Sutton Road, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,full planning permission,,53.13,-1.23,0.21,,,2017-09-26,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
-2017-09-26,local-authority-eng:MAS,156,"Former Miners Offices, Berry Hill Lane, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,reserved matters approval,,53.13,-1.18,0.93,,,2017-09-26,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
-2017-09-26,local-authority-eng:MAS,164,"Former garage site Alexandra Avenue, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,full planning permission,,53.17,-1.2,0.19,,,2017-09-26,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
-2017-09-26,local-authority-eng:MAS,168,"10A Montague Street, Montague Street, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,owned by a public authority,permissioned,full planning permission,,53.14,-1.18,0.11,,,2017-09-26,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
-,local-authority-eng:MAS,185,"52, Ratcliffe Gate, Ratcliffe Gate, Mansfield",,yes,,permissioned,full planning permission,,53.14,-1.19,0.19,,,,,aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-12-13,local-authority-eng:MAS,1,"Former Mansfield Brewery (part B), Great Central Road, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9535&p=0,,not owned by a public authority,permissioned,permission in principle,,53.14,-1.19,0.76,20,30,2017-09-26,,"2017/0631/PIP
+
+https://planning.mansfield.gov.uk/online-applications",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+2017-09-26,local-authority-eng:MAS,2,"Former Mansfield General Hospital, West Hill Drive, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,owned by a public authority,permissioned,full planning permission,,53.15,-1.2,1.11,,,2017-09-26,,"
+REGULATION 3 APPLICATION FOR 42 NO APARTMENTS WITH COMMUNAL AREAS AND 12 NO. BUNGALOWS FOR OCCUPATION BY THE ELDERLY
+",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+2017-12-13,local-authority-eng:MAS,33,"Wood Lane (Miners Welfare), Wood Lane, Church Warsop",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9536&p=0,,not owned by a public authority,permissioned,permission in principle,,53.21,-1.17,1.05,25,35,2017-09-26,,"2017/0633/PIP
+
+https://planning.mansfield.gov.uk/online-applications",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+2017-09-26,local-authority-eng:MAS,54,"Former Evans Halshaw site, Nottingham Road, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,full planning permission,,53.12,-1.19,1.92,,,2017-09-26,,"
+DEMOLITION OF EXISTING BUILDINGS AND CONSTRUCTION OF 66 NO. RESIDENTIAL DWELLINGS WITH ASSOCIATED ACCESS CAR PARKING AND GARAGES
+",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+2017-12-13,local-authority-eng:MAS,68,"Kirkland Avenue Industrial Park, Kirkland Avenue, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9537&p=0,,not owned by a public authority,permissioned,permission in principle,,53.14,-1.21,0.7,15,25,2017-09-26,,"2017/0636/PIP
+
+https://planning.mansfield.gov.uk/online-applications",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+2017-12-13,local-authority-eng:MAS,75,"Former Mansfield Hosiery Mill Car Park & Electricity Board workshops & social club, Botany Avenue, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9538&p=0,,not owned by a public authority,permissioned,permission in principle,,53.14,-1.21,0.97,25,35,2017-09-26,,"2017/0637/PIP
+
+https://planning.mansfield.gov.uk/online-applications",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+2017-09-26,local-authority-eng:MAS,86,"Land at the corner of Quarry Lane, Mansfield., Quarry Lane, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,full planning permission,,53.13,-1.21,0.25,,,2017-09-26,,"
+CONSTRUCTION OF 21 NO. TWO AND THREE BEDROOM APARTMENTS TOGETHER WITH ASSOCIATED PARKING AND SITE DEVELOPMENT WORKS
+",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+2017-09-26,local-authority-eng:MAS,92,"Pleasley Hill Regeneration Area, Chesterfield Road North, Pleasley",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,full planning permission,,53.17,-1.24,3.81,,,2017-09-26,,"
+151 NO. NEW HOMES INCLUDING 12 NO. APARTMENTS AND 1 NO. COMMERCIAL/RETAIL BUILDING
+",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+2017-09-26,local-authority-eng:MAS,95,"Vauxhall Garage, Sutton Road, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,,not owned by a public authority,permissioned,outline planning permission,,53.14,-1.22,0.87,,,2017-09-26,,"
+APPLICATION TO REPLACE AN EXTANT PERMISSION (2010/0407/ST) IN ORDER TO EXTEND THE TIME LIMIT FOR IMPLEMENTATION - OUTLINE APPLICATION FOR RESIDENTIAL DEVELOPMENT COMPRISING 41 NO. UNITS AND FORMATION OF NEW MEANS OF ACCESS FROM SUTTON ROAD.
+",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+2017-09-26,local-authority-eng:MAS,96,"Land at Hermitage Lane, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,full planning permission,,53.14,-1.22,0.9,,,2017-09-26,,"
+DEMOLITION OF EXISTING BUILDING AND ERECTION OF 25 NO. HOUSES AND ANCILLARY WORKS
+",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+2017-09-26,local-authority-eng:MAS,99,"18 Burns Street, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,pending decision,full planning permission,,53.15,-1.21,0.17,,,2017-09-26,,"
+CONVERSION OF DISUSED FACTORY AND ANCILLARY BUILDINGS TO 8NO. APARTMENTS AND 13NO. FLATS
+",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+2017-09-26,local-authority-eng:MAS,105,"Land at 7 Oxclose Lane, Grosvenor Close, Mansfield Woodhouse",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,full planning permission,,53.16,-1.2,0.45,,,2017-09-26,,"
+RESIDENTIAL DEVELOPMENT OF 17 NO. BUNGALOWS (FOR THE OVER 50 AGE GROUP) WITH OFF ROAD PARKING AND AMENDED VEHICULAR ACCESS
+",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+2017-09-26,local-authority-eng:MAS,106,"Former Mansfield Sand Co, Sandhurst Avenue, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,outline planning permission,,53.13,-1.19,3.35,,,2017-09-26,,"
+APPLICATION FOR OUTLINE PLANNING PERMISSION FOR RESIDENTIAL DEVELOPMENT (107 UNITS) WITH ACCESS TO BE CONSIDERED AND OTHER MATTERS RESERVED
+",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+2017-09-26,local-authority-eng:MAS,109,"Land off Sutton Road, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,full planning permission,,53.13,-1.23,0.21,,,2017-09-26,,"
+RESIDENTIAL DEVELOPMENT OF 10 NO. THREE BEDROOM DWELLINGS WITH ACCESS ROAD AND LANDSCAPING
+",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+2017-09-26,local-authority-eng:MAS,156,"Former Miners Offices, Berry Hill Lane, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,reserved matters approval,,53.13,-1.18,0.93,,,2017-09-26,,"
+APPROVAL OF RESERVED MATTERS (APPEARANCE, LANDSCAPING, LAYOUT AND SCALE) FOR 18 NO. DWELLINGS FOLLOWING OUTLINE PERMISSION (2013/0174/ST)
+",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+2017-09-26,local-authority-eng:MAS,164,"Former garage site Alexandra Avenue, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,not owned by a public authority,permissioned,full planning permission,,53.17,-1.2,0.19,,,2017-09-26,,"
+RESIDENTIAL DEVELOPMENT OF 5 NO. 3 BEDROOM HOUSES
+",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+2017-09-26,local-authority-eng:MAS,168,"10A Montague Street, Montague Street, Mansfield",http://www.mansfield.gov.uk/CHttpHandler.ashx?id=9547&p=0,yes,owned by a public authority,permissioned,full planning permission,,53.14,-1.18,0.11,,,2017-09-26,,"
+NEW RESIDENTIAL DEVELOPMENT OF 8 NO. 3 BEDROOM HOUSES
+",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854
+,local-authority-eng:MAS,185,"52, Ratcliffe Gate, Ratcliffe Gate, Mansfield",,yes,,permissioned,full planning permission,,53.14,-1.19,0.19,,,,,"
+
+",aeb4df662edfb4a20857b3664a1ca3401c6475a8691537e380a13a23629a0854

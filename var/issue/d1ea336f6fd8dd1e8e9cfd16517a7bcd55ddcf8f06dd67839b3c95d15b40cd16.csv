@@ -1,921 +1,328 @@
 row-number,field,issue-type,value
 1,PlanningStatus,enum,Other Commitment
-1,SiteReference,missing,
-2,SiteReference,missing,
-3,SiteReference,missing,
-4,SiteReference,missing,
-5,SiteReference,missing,
-6,SiteReference,missing,
-7,SiteReference,missing,
-8,SiteReference,missing,
-9,SiteReference,missing,
 10,PlanningStatus,enum,Completed During 2017/18
-10,SiteReference,missing,
-11,SiteReference,missing,
 12,PlanningStatus,enum,Completed During 2017/18
-12,SiteReference,missing,
-13,SiteReference,missing,
-14,SiteReference,missing,
-15,SiteReference,missing,
 16,PlanningStatus,enum,Completed During 2018/19
-16,SiteReference,missing,
-17,SiteReference,missing,
-18,SiteReference,missing,
 19,PlanningStatus,enum,Completed During 2018/19
-19,SiteReference,missing,
-20,SiteReference,missing,
-21,SiteReference,missing,
-22,SiteReference,missing,
-23,SiteReference,missing,
 24,PlanningStatus,enum,Completed During 2018/19
-24,SiteReference,missing,
-25,SiteReference,missing,
-26,SiteReference,missing,
-27,SiteReference,missing,
-28,SiteReference,missing,
-29,SiteReference,missing,
 30,PlanningStatus,enum,Completed During 2018/19
-30,SiteReference,missing,
-31,SiteReference,missing,
-32,SiteReference,missing,
-33,SiteReference,missing,
-34,SiteReference,missing,
-35,SiteReference,missing,
-36,SiteReference,missing,
-37,SiteReference,missing,
-38,SiteReference,missing,
 39,PlanningStatus,enum,Completed During 2016/17
-39,SiteReference,missing,
-40,SiteReference,missing,
 41,PlanningStatus,enum,Completed During 2017/18
-41,SiteReference,missing,
-42,SiteReference,missing,
-43,SiteReference,missing,
-44,SiteReference,missing,
-45,SiteReference,missing,
-46,SiteReference,missing,
-47,SiteReference,missing,
-48,SiteReference,missing,
-49,SiteReference,missing,
-50,SiteReference,missing,
 51,PlanningStatus,enum,Completed During 2017/18
-51,SiteReference,missing,
 52,PlanningStatus,enum,Completed During 2018/19
-52,SiteReference,missing,
-53,SiteReference,missing,
 54,PlanningStatus,enum,Completed During 2017/18
-54,SiteReference,missing,
 55,PlanningStatus,enum,Completed During 2017/18
-55,SiteReference,missing,
-56,SiteReference,missing,
 57,PlanningStatus,enum,Completed During 2016/17
-57,SiteReference,missing,
 58,PlanningStatus,enum,Completed During 2016/17
-58,SiteReference,missing,
 59,PlanningStatus,enum,Completed During 2016/17
-59,SiteReference,missing,
 60,PlanningStatus,enum,Completed During 2016/17
-60,SiteReference,missing,
 61,PlanningStatus,enum,Completed During 2016/17
-61,SiteReference,missing,
-62,SiteReference,missing,
 63,PlanningStatus,enum,Completed During 2016/17
-63,SiteReference,missing,
 64,PlanningStatus,enum,Completed During 2016/17
-64,SiteReference,missing,
 65,PlanningStatus,enum,Completed During 2016/17
-65,SiteReference,missing,
 66,PlanningStatus,enum,Other Commitment
-66,SiteReference,missing,
 67,PlanningStatus,enum,Other Commitment
-67,SiteReference,missing,
 68,PlanningStatus,enum,Other Commitment
-68,SiteReference,missing,
 69,PlanningStatus,enum,Other Commitment
-69,SiteReference,missing,
 70,PlanningStatus,enum,Other Commitment
-70,SiteReference,missing,
 71,PlanningStatus,enum,Other Commitment
-71,SiteReference,missing,
 72,PlanningStatus,enum,Other Commitment
-72,SiteReference,missing,
 73,PlanningStatus,enum,Other Commitment
-73,SiteReference,missing,
 74,PlanningStatus,enum,Other Commitment
-74,SiteReference,missing,
 75,PlanningStatus,enum,Other Commitment
-75,SiteReference,missing,
-76,SiteReference,missing,
-77,SiteReference,missing,
-78,SiteReference,missing,
 79,PlanningStatus,enum,Other Commitment
-79,SiteReference,missing,
-80,SiteReference,missing,
-81,SiteReference,missing,
-82,SiteReference,missing,
-83,SiteReference,missing,
 84,PlanningStatus,enum,Other Commitment
-84,SiteReference,missing,
-85,SiteReference,missing,
 86,PlanningStatus,enum,Other Commitment
-86,SiteReference,missing,
 87,PlanningStatus,enum,Completed During 2018/19
-87,SiteReference,missing,
-88,SiteReference,missing,
 89,PlanningStatus,enum,Completed During 2018/19
-89,SiteReference,missing,
 90,PlanningStatus,enum,Completed During 2018/19
-90,SiteReference,missing,
 91,PlanningStatus,enum,Other Commitment
-91,SiteReference,missing,
 92,PlanningStatus,enum,Other Commitment
-92,SiteReference,missing,
 93,PlanningStatus,enum,Completed During 2017/18
-93,SiteReference,missing,
-94,SiteReference,missing,
-95,SiteReference,missing,
 96,PlanningStatus,enum,Other Commitment
-96,SiteReference,missing,
 97,PlanningStatus,enum,Other Commitment
-97,SiteReference,missing,
 98,PlanningStatus,enum,Other Commitment
-98,SiteReference,missing,
 99,PlanningStatus,enum,Other Commitment
-99,SiteReference,missing,
 100,PlanningStatus,enum,Other Commitment
-100,SiteReference,missing,
 101,PlanningStatus,enum,Other Commitment
-101,SiteReference,missing,
-102,SiteReference,missing,
 103,PlanningStatus,enum,Other Commitment
-103,SiteReference,missing,
 104,PlanningStatus,enum,Other Commitment
-104,SiteReference,missing,
-105,SiteReference,missing,
 106,PlanningStatus,enum,Completed During 2017/18
-106,SiteReference,missing,
 107,PlanningStatus,enum,Other Commitment
-107,SiteReference,missing,
-108,SiteReference,missing,
 109,PlanningStatus,enum,Other Commitment
-109,SiteReference,missing,
 110,PlanningStatus,enum,Other Commitment
-110,SiteReference,missing,
 111,PlanningStatus,enum,Other Commitment
-111,SiteReference,missing,
 112,PlanningStatus,enum,Completed During 2016/17
-112,SiteReference,missing,
 113,PlanningStatus,enum,Other Commitment
-113,SiteReference,missing,
 114,PlanningStatus,enum,Other Commitment
-114,SiteReference,missing,
-115,SiteReference,missing,
 116,PlanningStatus,enum,Adopted Local Plan
-116,SiteReference,missing,
 117,PlanningStatus,enum,Other Commitment
-117,SiteReference,missing,
 118,PlanningStatus,enum,Other Commitment
-118,SiteReference,missing,
 119,PlanningStatus,enum,Other Commitment
-119,SiteReference,missing,
 120,PlanningStatus,enum,Other Commitment
-120,SiteReference,missing,
 121,PlanningStatus,enum,Completed During 2018/19
-121,SiteReference,missing,
 122,PlanningStatus,enum,Other Commitment
-122,SiteReference,missing,
 123,PlanningStatus,enum,Other Commitment
-123,SiteReference,missing,
 124,PlanningStatus,enum,Completed During 2017/18
-124,SiteReference,missing,
-125,SiteReference,missing,
-126,SiteReference,missing,
 127,PlanningStatus,enum,Completed During 2017/18
-127,SiteReference,missing,
 128,PlanningStatus,enum,Completed During 2018/19
-128,SiteReference,missing,
 129,PlanningStatus,enum,Other Commitment
-129,SiteReference,missing,
-130,SiteReference,missing,
 131,PlanningStatus,enum,Other Commitment
-131,SiteReference,missing,
 132,PlanningStatus,enum,Other Commitment
-132,SiteReference,missing,
 133,PlanningStatus,enum,Other Commitment
-133,SiteReference,missing,
 134,PlanningStatus,enum,Other Commitment
-134,SiteReference,missing,
 135,PlanningStatus,enum,Other Commitment
-135,SiteReference,missing,
 136,PlanningStatus,enum,Other Commitment
-136,SiteReference,missing,
 137,PlanningStatus,enum,Other Commitment
-137,SiteReference,missing,
 138,PlanningStatus,enum,Other Commitment
-138,SiteReference,missing,
 139,PlanningStatus,enum,Completed During 2017/18
-139,SiteReference,missing,
-140,SiteReference,missing,
 141,PlanningStatus,enum,Other Commitment
-141,SiteReference,missing,
 142,PlanningStatus,enum,Other Commitment
-142,SiteReference,missing,
 143,PlanningStatus,enum,Other Commitment
-143,SiteReference,missing,
 144,PlanningStatus,enum,Other Commitment
-144,SiteReference,missing,
-145,SiteReference,missing,
 146,PlanningStatus,enum,Other Commitment
-146,SiteReference,missing,
 147,PlanningStatus,enum,Other Commitment
-147,SiteReference,missing,
 148,PlanningStatus,enum,Other Commitment
-148,SiteReference,missing,
 149,PlanningStatus,enum,Other Commitment
-149,SiteReference,missing,
-150,SiteReference,missing,
 151,PlanningStatus,enum,Other Commitment
-151,SiteReference,missing,
 152,PlanningStatus,enum,Other Commitment
-152,SiteReference,missing,
-153,SiteReference,missing,
 154,PlanningStatus,enum,Other Commitment
-154,SiteReference,missing,
 155,PlanningStatus,enum,Other Commitment
-155,SiteReference,missing,
 156,PlanningStatus,enum,Other Commitment
-156,SiteReference,missing,
-157,SiteReference,missing,
 158,PlanningStatus,enum,Other Commitment
-158,SiteReference,missing,
-159,SiteReference,missing,
 160,PlanningStatus,enum,Other Commitment
-160,SiteReference,missing,
 161,PlanningStatus,enum,Other Commitment
-161,SiteReference,missing,
 162,PlanningStatus,enum,Other Commitment
-162,SiteReference,missing,
-163,SiteReference,missing,
 164,PlanningStatus,enum,Other Commitment
-164,SiteReference,missing,
-165,SiteReference,missing,
 166,PlanningStatus,enum,Other Commitment
-166,SiteReference,missing,
 167,PlanningStatus,enum,Other Commitment
-167,SiteReference,missing,
 168,PlanningStatus,enum,Completed During 2017/18
-168,SiteReference,missing,
 169,PlanningStatus,enum,Other Commitment
-169,SiteReference,missing,
 170,PlanningStatus,enum,Other Commitment
-170,SiteReference,missing,
 171,PlanningStatus,enum,Other Commitment
-171,SiteReference,missing,
 172,PlanningStatus,enum,Other Commitment
-172,SiteReference,missing,
-173,SiteReference,missing,
 174,PlanningStatus,enum,Other Commitment
-174,SiteReference,missing,
 175,PlanningStatus,enum,Other Commitment
-175,SiteReference,missing,
 176,PlanningStatus,enum,Other Commitment
-176,SiteReference,missing,
 177,PlanningStatus,enum,Other Commitment
-177,SiteReference,missing,
 178,PlanningStatus,enum,Other Commitment
-178,SiteReference,missing,
-179,SiteReference,missing,
 180,PlanningStatus,enum,Other Commitment
-180,SiteReference,missing,
 181,PlanningStatus,enum,Completed During 2017/18
-181,SiteReference,missing,
 182,PlanningStatus,enum,Other Commitment
-182,SiteReference,missing,
 183,PlanningStatus,enum,Other Commitment
-183,SiteReference,missing,
 184,PlanningStatus,enum,Other Commitment
-184,SiteReference,missing,
 185,PlanningStatus,enum,Other Commitment
-185,SiteReference,missing,
 186,PlanningStatus,enum,Completed During 2017/18
-186,SiteReference,missing,
 187,PlanningStatus,enum,Other Commitment
-187,SiteReference,missing,
 188,PlanningStatus,enum,Other Commitment
-188,SiteReference,missing,
 189,PlanningStatus,enum,Other Commitment
-189,SiteReference,missing,
-190,SiteReference,missing,
 191,PlanningStatus,enum,Other Commitment
-191,SiteReference,missing,
 192,PlanningStatus,enum,Completed During 2017/18
-192,SiteReference,missing,
 193,PlanningStatus,enum,Completed During 2018/19
-193,SiteReference,missing,
 194,PlanningStatus,enum,Other Commitment
-194,SiteReference,missing,
 195,PlanningStatus,enum,Other Commitment
-195,SiteReference,missing,
 196,PlanningStatus,enum,Other Commitment
-196,SiteReference,missing,
 197,PlanningStatus,enum,Other Commitment
-197,SiteReference,missing,
 198,PlanningStatus,enum,Completed During 2018/19
-198,SiteReference,missing,
 199,PlanningStatus,enum,Completed During 2016/17
-199,SiteReference,missing,
 200,PlanningStatus,enum,Other Commitment
-200,SiteReference,missing,
 201,PlanningStatus,enum,Completed During 2018/19
-201,SiteReference,missing,
 202,PlanningStatus,enum,Other Commitment
-202,SiteReference,missing,
 203,PlanningStatus,enum,Completed During 2017/18
-203,SiteReference,missing,
 204,PlanningStatus,enum,Completed During 2018/19
-204,SiteReference,missing,
 205,PlanningStatus,enum,Other Commitment
-205,SiteReference,missing,
 206,PlanningStatus,enum,Other Commitment
-206,SiteReference,missing,
 207,PlanningStatus,enum,Completed During 2017/18
-207,SiteReference,missing,
-208,SiteReference,missing,
 209,PlanningStatus,enum,Other Commitment
-209,SiteReference,missing,
-210,SiteReference,missing,
 211,PlanningStatus,enum,Other Commitment
-211,SiteReference,missing,
 212,PlanningStatus,enum,Other Commitment
-212,SiteReference,missing,
-213,SiteReference,missing,
 214,PlanningStatus,enum,Adopted Local Plan
-214,SiteReference,missing,
-215,SiteReference,missing,
 216,PlanningStatus,enum,Other Commitment
-216,SiteReference,missing,
 217,PlanningStatus,enum,Other Commitment
-217,SiteReference,missing,
 218,PlanningStatus,enum,Completed During 2017/18
-218,SiteReference,missing,
 219,PlanningStatus,enum,Completed During 2018/19
-219,SiteReference,missing,
 220,PlanningStatus,enum,Other Commitment
-220,SiteReference,missing,
 221,PlanningStatus,enum,Other Commitment
-221,SiteReference,missing,
 222,PlanningStatus,enum,Other Commitment
-222,SiteReference,missing,
 223,PlanningStatus,enum,Completed During 2017/18
-223,SiteReference,missing,
 224,PlanningStatus,enum,Other Commitment
-224,SiteReference,missing,
 225,PlanningStatus,enum,Other Commitment
-225,SiteReference,missing,
-226,SiteReference,missing,
 227,PlanningStatus,enum,Other Commitment
-227,SiteReference,missing,
-228,SiteReference,missing,
 229,PlanningStatus,enum,Completed During 2018/19
-229,SiteReference,missing,
-230,SiteReference,missing,
-231,SiteReference,missing,
 232,PlanningStatus,enum,Completed During 2018/19
-232,SiteReference,missing,
 233,PlanningStatus,enum,Completed During 2017/18
-233,SiteReference,missing,
 234,PlanningStatus,enum,Completed During 2017/18
-234,SiteReference,missing,
-235,SiteReference,missing,
 236,PlanningStatus,enum,Completed During 2018/19
-236,SiteReference,missing,
 237,PlanningStatus,enum,Adopted Local Plan
-237,SiteReference,missing,
-238,SiteReference,missing,
 239,PlanningStatus,enum,Completed During 2016/17
-239,SiteReference,missing,
 240,PlanningStatus,enum,Other Commitment
-240,SiteReference,missing,
 241,PlanningStatus,enum,Completed During 2018/19
-241,SiteReference,missing,
 242,PlanningStatus,enum,Completed During 2016/17
-242,SiteReference,missing,
 243,PlanningStatus,enum,Completed During 2016/17
-243,SiteReference,missing,
 244,PlanningStatus,enum,Completed During 2017/18
-244,SiteReference,missing,
 245,PlanningStatus,enum,Other Commitment
-245,SiteReference,missing,
-246,SiteReference,missing,
-247,SiteReference,missing,
-248,SiteReference,missing,
 249,PlanningStatus,enum,Other Commitment
-249,SiteReference,missing,
 250,PlanningStatus,enum,Completed During 2018/19
-250,SiteReference,missing,
-251,SiteReference,missing,
 252,PlanningStatus,enum,Completed During 2018/19
-252,SiteReference,missing,
-253,SiteReference,missing,
 254,PlanningStatus,enum,Other Commitment
-254,SiteReference,missing,
 255,PlanningStatus,enum,Completed During 2017/18
-255,SiteReference,missing,
 256,PlanningStatus,enum,Other Commitment
-256,SiteReference,missing,
-257,SiteReference,missing,
 258,PlanningStatus,enum,Other Commitment
-258,SiteReference,missing,
-259,SiteReference,missing,
 260,PlanningStatus,enum,Completed During 2018/19
-260,SiteReference,missing,
-261,SiteReference,missing,
-262,SiteReference,missing,
 263,PlanningStatus,enum,Completed During 2018/19
-263,SiteReference,missing,
 264,PlanningStatus,enum,Other Commitment
-264,SiteReference,missing,
-265,SiteReference,missing,
 266,PlanningStatus,enum,Completed During 2018/19
-266,SiteReference,missing,
 267,PlanningStatus,enum,Completed During 2018/19
-267,SiteReference,missing,
 268,PlanningStatus,enum,Other Commitment
-268,SiteReference,missing,
 269,PlanningStatus,enum,Completed During 2018/19
-269,SiteReference,missing,
 270,PlanningStatus,enum,Other Commitment
-270,SiteReference,missing,
 271,PlanningStatus,enum,Other Commitment
-271,SiteReference,missing,
 272,PlanningStatus,enum,Other Commitment
-272,SiteReference,missing,
 273,PlanningStatus,enum,Other Commitment
-273,SiteReference,missing,
-274,SiteReference,missing,
 275,PlanningStatus,enum,Completed During 2018/19
-275,SiteReference,missing,
 276,PlanningStatus,enum,Completed During 2017/18
-276,SiteReference,missing,
-277,SiteReference,missing,
 278,PlanningStatus,enum,Completed During 2017/18
-278,SiteReference,missing,
-279,SiteReference,missing,
 280,PlanningStatus,enum,Completed During 2017/18
-280,SiteReference,missing,
 281,PlanningStatus,enum,Completed During 2017/18
-281,SiteReference,missing,
 282,PlanningStatus,enum,Completed During 2016/17
-282,SiteReference,missing,
-283,SiteReference,missing,
 284,PlanningStatus,enum,Completed During 2016/17
-284,SiteReference,missing,
 285,PlanningStatus,enum,Completed During 2018/19
-285,SiteReference,missing,
-286,SiteReference,missing,
 287,PlanningStatus,enum,Other Commitment
-287,SiteReference,missing,
 288,PlanningStatus,enum,Other Commitment
-288,SiteReference,missing,
 289,PlanningStatus,enum,Completed During 2016/17
-289,SiteReference,missing,
 290,PlanningStatus,enum,Other Commitment
-290,SiteReference,missing,
 291,PlanningStatus,enum,Other Commitment
-291,SiteReference,missing,
 292,PlanningStatus,enum,Completed During 2018/19
-292,SiteReference,missing,
-293,SiteReference,missing,
 294,PlanningStatus,enum,Completed During 2018/19
-294,SiteReference,missing,
 295,PlanningStatus,enum,Completed During 2016/17
-295,SiteReference,missing,
 296,PlanningStatus,enum,Completed During 2016/17
-296,SiteReference,missing,
 297,PlanningStatus,enum,Completed During 2018/19
-297,SiteReference,missing,
 298,PlanningStatus,enum,Other Commitment
-298,SiteReference,missing,
 299,PlanningStatus,enum,Completed During 2016/17
-299,SiteReference,missing,
 300,PlanningStatus,enum,Other Commitment
-300,SiteReference,missing,
 301,PlanningStatus,enum,Completed During 2016/17
-301,SiteReference,missing,
-302,SiteReference,missing,
 303,PlanningStatus,enum,Completed During 2018/19
-303,SiteReference,missing,
-304,SiteReference,missing,
-305,SiteReference,missing,
 306,PlanningStatus,enum,Completed During 2016/17
-306,SiteReference,missing,
-307,SiteReference,missing,
-308,SiteReference,missing,
 309,PlanningStatus,enum,Completed During 2016/17
-309,SiteReference,missing,
 310,PlanningStatus,enum,Completed During 2018/19
-310,SiteReference,missing,
 311,PlanningStatus,enum,Completed During 2017/18
-311,SiteReference,missing,
-312,SiteReference,missing,
 313,PlanningStatus,enum,Completed During 2017/18
-313,SiteReference,missing,
-314,SiteReference,missing,
-315,SiteReference,missing,
 316,PlanningStatus,enum,Completed During 2018/19
-316,SiteReference,missing,
-317,SiteReference,missing,
 318,PlanningStatus,enum,Other Commitment
-318,SiteReference,missing,
 319,PlanningStatus,enum,Completed During 2016/17
-319,SiteReference,missing,
-320,SiteReference,missing,
 321,PlanningStatus,enum,Completed During 2016/17
-321,SiteReference,missing,
 322,PlanningStatus,enum,Completed During 2016/17
-322,SiteReference,missing,
 323,PlanningStatus,enum,Completed During 2018/19
-323,SiteReference,missing,
-324,SiteReference,missing,
 325,PlanningStatus,enum,Other Commitment
-325,SiteReference,missing,
-326,SiteReference,missing,
 327,PlanningStatus,enum,Completed During 2018/19
-327,SiteReference,missing,
 328,PlanningStatus,enum,Completed During 2016/17
-328,SiteReference,missing,
-329,SiteReference,missing,
 330,PlanningStatus,enum,Completed During 2018/19
-330,SiteReference,missing,
 331,PlanningStatus,enum,Other Commitment
-331,SiteReference,missing,
-332,SiteReference,missing,
 333,PlanningStatus,enum,Completed During 2018/19
-333,SiteReference,missing,
 334,PlanningStatus,enum,Completed During 2016/17
-334,SiteReference,missing,
-335,SiteReference,missing,
-336,SiteReference,missing,
-337,SiteReference,missing,
 338,PlanningStatus,enum,Completed During 2017/18
-338,SiteReference,missing,
-339,SiteReference,missing,
-340,SiteReference,missing,
 341,PlanningStatus,enum,Other Commitment
-341,SiteReference,missing,
 342,PlanningStatus,enum,Completed During 2017/18
-342,SiteReference,missing,
-343,SiteReference,missing,
 344,PlanningStatus,enum,Completed During 2017/18
-344,SiteReference,missing,
 345,PlanningStatus,enum,Completed During 2016/17
-345,SiteReference,missing,
 346,PlanningStatus,enum,Completed During 2018/19
-346,SiteReference,missing,
-347,SiteReference,missing,
-348,SiteReference,missing,
-349,SiteReference,missing,
-350,SiteReference,missing,
-351,SiteReference,missing,
 352,PlanningStatus,enum,Completed During 2017/18
-352,SiteReference,missing,
-353,SiteReference,missing,
-354,SiteReference,missing,
 355,PlanningStatus,enum,Completed During 2018/19
-355,SiteReference,missing,
 356,PlanningStatus,enum,Completed During 2018/19
-356,SiteReference,missing,
 357,PlanningStatus,enum,Completed During 2017/18
-357,SiteReference,missing,
 358,PlanningStatus,enum,Completed During 2016/17
-358,SiteReference,missing,
-359,SiteReference,missing,
 360,PlanningStatus,enum,Other Commitment
-360,SiteReference,missing,
 361,PlanningStatus,enum,Completed During 2018/19
-361,SiteReference,missing,
 362,PlanningStatus,enum,Completed During 2017/18
-362,SiteReference,missing,
-363,SiteReference,missing,
-364,SiteReference,missing,
-365,SiteReference,missing,
 366,PlanningStatus,enum,Other Commitment
-366,SiteReference,missing,
 367,PlanningStatus,enum,Completed During 2016/17
-367,SiteReference,missing,
 368,PlanningStatus,enum,Completed During 2017/18
-368,SiteReference,missing,
 369,PlanningStatus,enum,Adopted Local Plan
-369,SiteReference,missing,
 370,PlanningStatus,enum,Completed During 2018/19
-370,SiteReference,missing,
-371,SiteReference,missing,
-372,SiteReference,missing,
 373,PlanningStatus,enum,Completed During 2016/17
-373,SiteReference,missing,
 374,PlanningStatus,enum,Completed During 2017/18
-374,SiteReference,missing,
 375,PlanningStatus,enum,Completed During 2017/18
-375,SiteReference,missing,
-376,SiteReference,missing,
 377,PlanningStatus,enum,Completed During 2017/18
-377,SiteReference,missing,
-378,SiteReference,missing,
 379,PlanningStatus,enum,Adopted Local Plan
-379,SiteReference,missing,
-380,SiteReference,missing,
 381,PlanningStatus,enum,Completed During 2016/17
-381,SiteReference,missing,
-382,SiteReference,missing,
 383,PlanningStatus,enum,Completed During 2016/17
-383,SiteReference,missing,
 384,PlanningStatus,enum,Adopted Local Plan
-384,SiteReference,missing,
 385,PlanningStatus,enum,Adopted Local Plan
-385,SiteReference,missing,
 386,PlanningStatus,enum,Completed During 2017/18
-386,SiteReference,missing,
 387,PlanningStatus,enum,Completed During 2018/19
-387,SiteReference,missing,
 388,PlanningStatus,enum,Completed During 2017/18
-388,SiteReference,missing,
 389,PlanningStatus,enum,Completed During 2017/18
-389,SiteReference,missing,
 390,PlanningStatus,enum,Completed During 2018/19
-390,SiteReference,missing,
-391,SiteReference,missing,
 392,PlanningStatus,enum,Other Commitment
-392,SiteReference,missing,
 393,PlanningStatus,enum,Completed During 2018/19
-393,SiteReference,missing,
-394,SiteReference,missing,
 395,PlanningStatus,enum,Completed During 2017/18
-395,SiteReference,missing,
-396,SiteReference,missing,
 397,PlanningStatus,enum,Completed During 2017/18
-397,SiteReference,missing,
 398,PlanningStatus,enum,Other Commitment
-398,SiteReference,missing,
 399,PlanningStatus,enum,Completed During 2017/18
-399,SiteReference,missing,
-400,SiteReference,missing,
 401,PlanningStatus,enum,Other Commitment
-401,SiteReference,missing,
 402,PlanningStatus,enum,Adopted Local Plan
-402,SiteReference,missing,
 403,PlanningStatus,enum,Adopted Local Plan
-403,SiteReference,missing,
-404,SiteReference,missing,
 405,PlanningStatus,enum,Adopted Local Plan
-405,SiteReference,missing,
 406,PlanningStatus,enum,Adopted Local Plan
-406,SiteReference,missing,
 407,PlanningStatus,enum,Adopted Local Plan
-407,SiteReference,missing,
 408,PlanningStatus,enum,Adopted Local Plan
-408,SiteReference,missing,
 409,PlanningStatus,enum,Adopted Local Plan
-409,SiteReference,missing,
-410,SiteReference,missing,
 411,PlanningStatus,enum,Adopted Local Plan
-411,SiteReference,missing,
 412,PlanningStatus,enum,Adopted Local Plan
-412,SiteReference,missing,
 413,PlanningStatus,enum,Adopted Local Plan
-413,SiteReference,missing,
 414,PlanningStatus,enum,Adopted Local Plan
-414,SiteReference,missing,
 415,PlanningStatus,enum,Adopted Local Plan
-415,SiteReference,missing,
 416,PlanningStatus,enum,Adopted Local Plan
-416,SiteReference,missing,
 417,PlanningStatus,enum,Adopted Local Plan
-417,SiteReference,missing,
 418,PlanningStatus,enum,Adopted Local Plan
-418,SiteReference,missing,
 419,PlanningStatus,enum,Adopted Local Plan
-419,SiteReference,missing,
-420,SiteReference,missing,
 421,PlanningStatus,enum,Completed During 2018/19
-421,SiteReference,missing,
-422,SiteReference,missing,
 423,PlanningStatus,enum,Completed During 2016/17
-423,SiteReference,missing,
 424,PlanningStatus,enum,Adopted Local Plan
-424,SiteReference,missing,
-425,SiteReference,missing,
 426,PlanningStatus,enum,Adopted Local Plan
-426,SiteReference,missing,
 427,PlanningStatus,enum,Adopted Local Plan
-427,SiteReference,missing,
 428,PlanningStatus,enum,Other Commitment
-428,SiteReference,missing,
-429,SiteReference,missing,
-430,SiteReference,missing,
-431,SiteReference,missing,
-432,SiteReference,missing,
 433,PlanningStatus,enum,Completed During 2016/17
-433,SiteReference,missing,
 434,PlanningStatus,enum,Completed During 2017/18
-434,SiteReference,missing,
 435,PlanningStatus,enum,Other Commitment
-435,SiteReference,missing,
 436,PlanningStatus,enum,Completed During 2016/17
-436,SiteReference,missing,
-437,SiteReference,missing,
 438,PlanningStatus,enum,Completed During 2017/18
-438,SiteReference,missing,
-439,SiteReference,missing,
-440,SiteReference,missing,
 441,PlanningStatus,enum,Completed During 2016/7
-441,SiteReference,missing,
-442,SiteReference,missing,
-443,SiteReference,missing,
 444,PlanningStatus,enum,Completed During 2018/19
-444,SiteReference,missing,
 445,PlanningStatus,enum,Other Commitment
-445,SiteReference,missing,
-446,SiteReference,missing,
-447,SiteReference,missing,
-448,SiteReference,missing,
-449,SiteReference,missing,
 450,PlanningStatus,enum,Completed During 2017/18
-450,SiteReference,missing,
 451,PlanningStatus,enum,Completed During 2018/19
-451,SiteReference,missing,
-452,SiteReference,missing,
 453,PlanningStatus,enum,Completed During 2018/19
-453,SiteReference,missing,
 454,PlanningStatus,enum,Completed During 2018/19
-454,SiteReference,missing,
-455,SiteReference,missing,
-456,SiteReference,missing,
-457,SiteReference,missing,
-458,SiteReference,missing,
 459,PlanningStatus,enum,Completed During 2018/19
-459,SiteReference,missing,
 460,PlanningStatus,enum,Completed During 2018/19
-460,SiteReference,missing,
-461,SiteReference,missing,
-462,SiteReference,missing,
 463,PlanningStatus,enum,Completed During 2018/19
-463,SiteReference,missing,
 464,PlanningStatus,enum,Completed During 2018/19
-464,SiteReference,missing,
-465,SiteReference,missing,
 466,PlanningStatus,enum,Completed During 2018/19
-466,SiteReference,missing,
-467,SiteReference,missing,
 468,PlanningStatus,enum,Completed During 2018/19
-468,SiteReference,missing,
-469,SiteReference,missing,
 470,PlanningStatus,enum,Completed During 2018/19
-470,SiteReference,missing,
-471,SiteReference,missing,
-472,SiteReference,missing,
-473,SiteReference,missing,
-474,SiteReference,missing,
-475,SiteReference,missing,
-476,SiteReference,missing,
-477,SiteReference,missing,
-478,SiteReference,missing,
-479,SiteReference,missing,
-480,SiteReference,missing,
 481,PlanningStatus,enum,Completed During 2018/19
-481,SiteReference,missing,
 482,PlanningStatus,enum,Completed During 2017/18
-482,SiteReference,missing,
-483,SiteReference,missing,
-484,SiteReference,missing,
-485,SiteReference,missing,
 486,PlanningStatus,enum,Completed During 2018/19
-486,SiteReference,missing,
 487,PlanningStatus,enum,Completed During 2018/19
-487,SiteReference,missing,
-488,SiteReference,missing,
-489,SiteReference,missing,
-490,SiteReference,missing,
-491,SiteReference,missing,
-492,SiteReference,missing,
-493,SiteReference,missing,
 494,PlanningStatus,enum,Completed During 2018/19
-494,SiteReference,missing,
 495,Hectares,minimum,0
-495,SiteReference,missing,
 495,Hectares,missing,
 496,PlanningStatus,enum,Completed During 2017/18
-496,SiteReference,missing,
-497,SiteReference,missing,
 498,PlanningStatus,enum,Other Commitment
-498,SiteReference,missing,
 499,PlanningStatus,enum,Completed During 2017/18
-499,SiteReference,missing,
 500,PlanningStatus,enum,Other Commitment
-500,SiteReference,missing,
 501,PlanningStatus,enum,Other Commitment
-501,SiteReference,missing,
-502,SiteReference,missing,
-503,SiteReference,missing,
 504,PlanningStatus,enum,Other Commitment
-504,SiteReference,missing,
 505,PlanningStatus,enum,Completed During 2018/19
-505,SiteReference,missing,
 506,PlanningStatus,enum,Completed During 2018/19
-506,SiteReference,missing,
-507,SiteReference,missing,
-508,SiteReference,missing,
-509,SiteReference,missing,
-510,SiteReference,missing,
-511,SiteReference,missing,
-512,SiteReference,missing,
-513,SiteReference,missing,
-514,SiteReference,missing,
-515,SiteReference,missing,
-516,SiteReference,missing,
-517,SiteReference,missing,
-518,SiteReference,missing,
-519,SiteReference,missing,
-520,SiteReference,missing,
-521,SiteReference,missing,
-522,SiteReference,missing,
-523,SiteReference,missing,
-524,SiteReference,missing,
-525,SiteReference,missing,
-526,SiteReference,missing,
-527,SiteReference,missing,
-528,SiteReference,missing,
-529,SiteReference,missing,
-530,SiteReference,missing,
-531,SiteReference,missing,
-532,SiteReference,missing,
-533,SiteReference,missing,
-534,SiteReference,missing,
 535,PlanningStatus,enum,Completed During 2018/19
-535,SiteReference,missing,
 536,PlanningStatus,enum,Completed During 2018/19
-536,SiteReference,missing,
 537,PlanningStatus,enum,Completed During 2018/19
-537,SiteReference,missing,
 538,PlanningStatus,enum,Completed During 2018/19
-538,SiteReference,missing,
 539,PlanningStatus,enum,Completed During 2018/19
-539,SiteReference,missing,
 540,PlanningStatus,enum,Completed During 2018/19
-540,SiteReference,missing,
 541,PlanningStatus,enum,Completed During 2018/19
-541,SiteReference,missing,
 542,PlanningStatus,enum,Completed During 2018/19
-542,SiteReference,missing,
 543,PlanningStatus,enum,Completed During 2018/19
-543,SiteReference,missing,
 544,PlanningStatus,enum,Completed During 2018/19
-544,SiteReference,missing,
-545,SiteReference,missing,
-546,SiteReference,missing,
-547,SiteReference,missing,
-548,SiteReference,missing,
-549,SiteReference,missing,
-550,SiteReference,missing,
-551,SiteReference,missing,
-552,SiteReference,missing,
-553,SiteReference,missing,
-554,SiteReference,missing,
-555,SiteReference,missing,
-556,SiteReference,missing,
-557,SiteReference,missing,
-558,SiteReference,missing,
-559,SiteReference,missing,
-560,SiteReference,missing,
-561,SiteReference,missing,
-562,SiteReference,missing,
-563,SiteReference,missing,
-564,SiteReference,missing,
-565,SiteReference,missing,
-566,SiteReference,missing,
-567,SiteReference,missing,
-568,SiteReference,missing,
-569,SiteReference,missing,
-570,SiteReference,missing,
-571,SiteReference,missing,
-572,SiteReference,missing,
-573,SiteReference,missing,
-574,SiteReference,missing,
-575,SiteReference,missing,
-576,SiteReference,missing,
-577,SiteReference,missing,
-578,SiteReference,missing,
-579,SiteReference,missing,
-580,SiteReference,missing,
-581,SiteReference,missing,
-582,SiteReference,missing,
-583,SiteReference,missing,
-584,SiteReference,missing,
-585,SiteReference,missing,
-586,SiteReference,missing,
-587,SiteReference,missing,
-588,SiteReference,missing,
-589,SiteReference,missing,
-590,SiteReference,missing,
-591,SiteReference,missing,
-592,SiteReference,missing,
-593,SiteReference,missing,

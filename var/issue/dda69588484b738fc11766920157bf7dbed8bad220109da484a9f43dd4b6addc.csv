@@ -9,8 +9,10 @@ row-number,field,issue-type,value
 4,SiteReference,missing,
 5,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 5,SiteReference,missing,
+6,NetDwellingsRangeFrom,integer,Unspecified
 6,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 6,SiteReference,missing,
+7,NetDwellingsRangeFrom,integer,Unspecified
 7,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 7,SiteReference,missing,
 8,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter

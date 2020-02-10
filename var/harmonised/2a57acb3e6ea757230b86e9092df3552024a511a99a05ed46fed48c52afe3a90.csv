@@ -1,4 +1,10 @@
 OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/east-hampshire,East Hampshire District Council,BFL/001,"Convent School, Anstey Lane, Alton, GU34 2NG",-0.96696,51.15936,,0.41,not owned by a public authority,,not permissioned,,,https://planningpublicaccess.easthants.gov.uk/online-applications/propertyDetails.do?activeTab=relatedCases&keyVal=_EHANT_PROPLPI_41550_2,6,12,,,2017-05-01,2017-05-01,
-http://opendatacommunities.org/id/district-council/east-hampshire,East Hampshire District Council,BFL/002,"Keydell Nurseries, Havant Road, Horndean",-0.99614,50.909805,,7.46,not owned by a public authority,,not permissioned,,,https://planningpublicaccess.easthants.gov.uk/online-applications/propertyDetails.do?activeTab=relatedCases&keyVal=_EHANT_PROPLPI_13667_2,68,135,,,2017-05-01,2017-05-01,
-http://opendatacommunities.org/id/district-council/east-hampshire,East Hampshire District Council,BFL/003,"Land rear of 8-10 London Road, Liphook",-0.801819,51.77664,,0.37,not owned by a public authority,,not permissioned,,,https://planningpublicaccess.easthants.gov.uk/online-applications/propertyDetails.do?activeTab=relatedCases&keyVal=_EHANT_PROPLPI_87185_1,5,11,,,2017-05-01,2017-05-01,
+http://opendatacommunities.org/id/district-council/east-hampshire,East Hampshire District Council,BFL/001,"Convent School, Anstey Lane, Alton, GU34 2NG",-0.96696,51.15936,,0.41,not owned by a public authority,,not permissioned,,,https://planningpublicaccess.easthants.gov.uk/online-applications/propertyDetails.do?activeTab=relatedCases&keyVal=_EHANT_PROPLPI_41550_2,6,12,,"
+
+",2017-05-01,2017-05-01,
+http://opendatacommunities.org/id/district-council/east-hampshire,East Hampshire District Council,BFL/002,"Keydell Nurseries, Havant Road, Horndean",-0.99614,50.909805,,7.46,not owned by a public authority,,not permissioned,,,https://planningpublicaccess.easthants.gov.uk/online-applications/propertyDetails.do?activeTab=relatedCases&keyVal=_EHANT_PROPLPI_13667_2,68,135,,"
+
+",2017-05-01,2017-05-01,
+http://opendatacommunities.org/id/district-council/east-hampshire,East Hampshire District Council,BFL/003,"Land rear of 8-10 London Road, Liphook",-0.801819,51.77664,,0.37,not owned by a public authority,,not permissioned,,,https://planningpublicaccess.easthants.gov.uk/online-applications/propertyDetails.do?activeTab=relatedCases&keyVal=_EHANT_PROPLPI_87185_1,5,11,,"
+
+",2017-05-01,2017-05-01,

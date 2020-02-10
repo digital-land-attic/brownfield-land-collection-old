@@ -1,2 +1,4 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-12-31,local-authority-eng:LND,15/00329/FULL,6 New Street London EC2M 4TP,http://www.mapping.cityoflondon.gov.uk/geocortex/mapping/?viewer=compass,yes,,permissioned,full planning permission,,51.517283,-0.079495,0.01,5,5,2017-12-31,,dcc576d823088e02d12f971c964623a92afe5b0825f60cbfd774087f1b83ca9e
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-12-31,local-authority-eng:LND,15/00329/FULL,6 New Street London EC2M 4TP,http://www.mapping.cityoflondon.gov.uk/geocortex/mapping/?viewer=compass,yes,,permissioned,full planning permission,,51.517283,-0.079495,0.01,5,5,2017-12-31,,"
+Change of use from a single dwelling house to 5no. self-contained studios flats and installation of smoke vents at roof level.
+",dcc576d823088e02d12f971c964623a92afe5b0825f60cbfd774087f1b83ca9e

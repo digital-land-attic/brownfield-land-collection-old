@@ -1,3 +1,7 @@
 OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/north-kesteven,North Kesteven District Council,BLR/0001,"The Hoplands Depot, Boston Road, Sleaford",-0.393631,53.000879,https://www.n-kesteven.gov.uk/residents/planning-and-building/planning/planning-policy/brownfield-land-register/,1.84,owned by a public authority,,not permissioned,,,,,,yes,,2017-12-14,2017-12-14,
-http://opendatacommunities.org/id/district-council/north-kesteven,North Kesteven District Council,BLR/0002,"Land off Moor Lane, Swinderby",-0.69712,53.157441,https://www.n-kesteven.gov.uk/residents/planning-and-building/planning/planning-policy/brownfield-land-register/,8.29,not owned by a public authority,,permissioned,outline planning permission,,,,,yes,,2017-12-14,2017-12-14,
+http://opendatacommunities.org/id/district-council/north-kesteven,North Kesteven District Council,BLR/0001,"The Hoplands Depot, Boston Road, Sleaford",-0.393631,53.000879,https://www.n-kesteven.gov.uk/residents/planning-and-building/planning/planning-policy/brownfield-land-register/,1.84,owned by a public authority,,not permissioned,,,,,,yes,"
+
+",2017-12-14,2017-12-14,
+http://opendatacommunities.org/id/district-council/north-kesteven,North Kesteven District Council,BLR/0002,"Land off Moor Lane, Swinderby",-0.69712,53.157441,https://www.n-kesteven.gov.uk/residents/planning-and-building/planning/planning-policy/brownfield-land-register/,8.29,not owned by a public authority,,permissioned,outline planning permission,,,,,yes,"
+
+",2017-12-14,2017-12-14,

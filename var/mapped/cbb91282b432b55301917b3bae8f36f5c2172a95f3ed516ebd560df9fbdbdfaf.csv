@@ -1,25 +1,73 @@
 OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AST033,"Land r/0 1-87 Weston Road, Aston Clinton",487263,211855,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,5.5,not owned by a public authority,,not permissioned,,,,165,165,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL016,Circus Fields,483664,214184,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,1.77,not owned by a public authority,,permissioned,full planning permission,10/09/2003,,74,74,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL025,"Elmhurst community centre, 36 Fairfax Crescent",482356,214659,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.15,not owned by a public authority,,permissioned,full planning permission,15/06/2016,,6,6,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL028,Griffin Lane,480917,214289,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,4.43,not owned by a public authority,,permissioned,full planning permission,20/08/2013,,98,98,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL029,Civic Quarter,482042,217783,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.78,not owned by a public authority,,permissioned,full planning permission,06/02/2015,,47,47,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL032,Ardenham Lane,481678,214139,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.04,not owned by a public authority,,not permissioned,,,,9,9,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL052,"PO Sorting Office, Cambridge Street",482158,213995,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.92,not owned by a public authority,,not permissioned,,,,23,23,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL059,Land At Junction Of Buckingham Street And New Street,481746,214144,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.49,not owned by a public authority,,not permissioned,,,,14,14,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL068,"Land North of Manor Hospital, Bierton Road",482566,214289,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,1.11,not owned by a public authority,,permissioned,full planning permission,01/04/2016,,44,44,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL076,"Land east of Gatehouse Road, Gatehouse Quarter",481084,214317,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,4.07,not owned by a public authority,,not permissioned,,,,25,25,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL082,"Gatehouse Quarter, Gatehouse Road",481262,214232,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,4.34,not owned by a public authority,,permissioned,full planning permission,22/12/2006,,370,370,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL108,"Kingsbury House, 2 George Street, Aylesbury",481849,213848,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.01,not owned by a public authority,,permissioned,full planning permission,04/04/2013,,6,6,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL110,"Kingfisher House, 61 Walton Street, Aylesbury",482222,213455,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.42,not owned by a public authority,,permissioned,full planning permission,01/04/2015,,48,48,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL111,"Wing House, 5 Britannia Street, Aylesbury",482083,213902,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.03,not owned by a public authority,,permissioned,full planning permission,16/04/2015,,18,18,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL115,"Rabans Lane, Aylesbury",479543,214532,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,6.6,not owned by a public authority,,not permissioned,,,,200,200,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL116,"Western House, 14 Rickfords Hill",481744,213674,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.04,not owned by a public authority,,permissioned,full planning permission,29/02/2016,,15,15,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL123,37 Bicester Road,481549,214323,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.05,not owned by a public authority,,permissioned,full planning permission,07/09/2016,,8,8,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,BUC005,Police Station and Land adjacent 38 Moreton Road,469740,234365,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.21,not owned by a public authority,,permissioned,full planning permission,11/05/2015,,13,13,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,BUC060,"Land to south of the A421 and east of A413, London Road",470765,232877,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,5.1,not owned by a public authority,,permissioned,full planning permission,28/10/2009,,117,117,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,BUC061,"Bridge Street, Buckingham",469706,233922,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.59,not owned by a public authority,,permissioned,full planning permission,01/10/1998,,103,103,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,BUC064,Land between  Bridge Street and Well Street (Neighbourhood Plan Site 'K'),468569,237884,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.22,not owned by a public authority,,not permissioned,,,,28,28,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,SHM015,"The Lindens Care Home, Stoke House, Fenny Road",488267,231182,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.91,not owned by a public authority,,permissioned,full planning permission,18/08/2014,,12,12,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,SMD011,"Bucks Sport and Social Club, Lower Road",482423,211372,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,3.73,not owned by a public authority,,not permissioned,,,,100,100,yes,,19/12/2017,19/12/2017,
-http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,WTV024,"Mount Pleasant, Tamarisk Way",484106,211418,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,1.03,not owned by a public authority,,permissioned,full planning permission,10/02/2014,,27,27,yes,,19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AST033,"Land r/0 1-87 Weston Road, Aston Clinton",487263,211855,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,5.5,not owned by a public authority,,not permissioned,,,,165,165,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL016,Circus Fields,483664,214184,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,1.77,not owned by a public authority,,permissioned,full planning permission,10/09/2003,,74,74,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL025,"Elmhurst community centre, 36 Fairfax Crescent",482356,214659,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.15,not owned by a public authority,,permissioned,full planning permission,15/06/2016,,6,6,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL028,Griffin Lane,480917,214289,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,4.43,not owned by a public authority,,permissioned,full planning permission,20/08/2013,,98,98,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL029,Civic Quarter,482042,217783,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.78,not owned by a public authority,,permissioned,full planning permission,06/02/2015,,47,47,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL032,Ardenham Lane,481678,214139,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.04,not owned by a public authority,,not permissioned,,,,9,9,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL052,"PO Sorting Office, Cambridge Street",482158,213995,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.92,not owned by a public authority,,not permissioned,,,,23,23,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL059,Land At Junction Of Buckingham Street And New Street,481746,214144,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.49,not owned by a public authority,,not permissioned,,,,14,14,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL068,"Land North of Manor Hospital, Bierton Road",482566,214289,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,1.11,not owned by a public authority,,permissioned,full planning permission,01/04/2016,,44,44,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL076,"Land east of Gatehouse Road, Gatehouse Quarter",481084,214317,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,4.07,not owned by a public authority,,not permissioned,,,,25,25,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL082,"Gatehouse Quarter, Gatehouse Road",481262,214232,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,4.34,not owned by a public authority,,permissioned,full planning permission,22/12/2006,,370,370,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL108,"Kingsbury House, 2 George Street, Aylesbury",481849,213848,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.01,not owned by a public authority,,permissioned,full planning permission,04/04/2013,,6,6,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL110,"Kingfisher House, 61 Walton Street, Aylesbury",482222,213455,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.42,not owned by a public authority,,permissioned,full planning permission,01/04/2015,,48,48,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL111,"Wing House, 5 Britannia Street, Aylesbury",482083,213902,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.03,not owned by a public authority,,permissioned,full planning permission,16/04/2015,,18,18,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL115,"Rabans Lane, Aylesbury",479543,214532,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,6.6,not owned by a public authority,,not permissioned,,,,200,200,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL116,"Western House, 14 Rickfords Hill",481744,213674,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.04,not owned by a public authority,,permissioned,full planning permission,29/02/2016,,15,15,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,AYL123,37 Bicester Road,481549,214323,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.05,not owned by a public authority,,permissioned,full planning permission,07/09/2016,,8,8,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,BUC005,Police Station and Land adjacent 38 Moreton Road,469740,234365,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.21,not owned by a public authority,,permissioned,full planning permission,11/05/2015,,13,13,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,BUC060,"Land to south of the A421 and east of A413, London Road",470765,232877,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,5.1,not owned by a public authority,,permissioned,full planning permission,28/10/2009,,117,117,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,BUC061,"Bridge Street, Buckingham",469706,233922,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.59,not owned by a public authority,,permissioned,full planning permission,01/10/1998,,103,103,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,BUC064,Land between  Bridge Street and Well Street (Neighbourhood Plan Site 'K'),468569,237884,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.22,not owned by a public authority,,not permissioned,,,,28,28,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,SHM015,"The Lindens Care Home, Stoke House, Fenny Road",488267,231182,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,0.91,not owned by a public authority,,permissioned,full planning permission,18/08/2014,,12,12,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,SMD011,"Bucks Sport and Social Club, Lower Road",482423,211372,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,3.73,not owned by a public authority,,not permissioned,,,,100,100,yes,"
+
+",19/12/2017,19/12/2017,
+http://opendatacommunities.org/id/district-council/aylesbury-vale,Aylesbury Vale,WTV024,"Mount Pleasant, Tamarisk Way",484106,211418,https://www.aylesburyvaledc.gov.uk/housing-economic-land-availability-assessment-helaa,1.03,not owned by a public authority,,permissioned,full planning permission,10/02/2014,,27,27,yes,"
+
+",19/12/2017,19/12/2017,

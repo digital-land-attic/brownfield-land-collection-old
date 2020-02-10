@@ -19,6 +19,7 @@ row-number,field,issue-type,value
 14,OwnershipStatus,enum,Ownership Status
 14,PermissionType,enum,Permission Type
 14,PermissionDate,date,Permission Date
+14,NetDwellingsRangeFrom,integer,Min Net Dwellings
 14,FirstAddedDate,date,31-06-2017
 14,GeoX,missing,
 14,GeoY,missing,

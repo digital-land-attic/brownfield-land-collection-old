@@ -1,129 +1,385 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-,local-authority-eng:LEW,BK001,Heathside and Lethbridge Estate,http://www.lewisham.gov.uk/brownfieldregister,yes,mixed ownership,permissioned,reserved matters approval,,51.47114,-0.0128,6.05,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,BK002,"BMW site, Lee Terrace",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.46352,0.000695,0.35,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,BK003,"Former petrol station, 167 Lewisham Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.4655,-0.01082,0.07,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,BK004,"23 Boone Street, Dacre Park Estate",http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.45975,0.003763,0.91,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,BK005,"Tower House, 65-71 Lewisham High Street",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.46289,-0.0096,0.17,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,BK006,"Independents Day Centre, Independents Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.4654,0.008078,0.06,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,BK007,1 Myron Place,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.46277,-0.0092,0.02,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,BK008,"Our Lady of Lourdes School, Belmont Hill",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.46321,-0.00218,0.26,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,BK009,Garages at 49-71 Dacre Park,http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.46084,0.003934,0.09,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,BK010,17 Brandram Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.46022,0.001491,0.03,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,BL001,351-355 Sydenham Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.42854,-0.03835,0.04,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,BL002,117 Dunfield Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.4245,-0.01676,0.04,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,BL003,"Kenton Court, 132 Adamsrill Road",http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.43023,-0.04084,0.2,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,BL004,"Home Park Housing Office, 129 Winchfield Road",http://www.lewisham.gov.uk/brownfieldregister,yes,mixed ownership,permissioned,full planning permission,,51.42521,-0.03969,0.24,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,BR001,"302-308, 310-312 New Cross Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.47538,-0.0374,0.09,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,BR003,1 Brockley Cross,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.46578,-0.03528,0.02,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,BR004,97-103 Florence Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.47231,-0.03072,0.09,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,BR005,Land adjoining 196 Brockley Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.46276,-0.03592,0.02,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,BR006,111 and 115 Endwell Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.46592,-0.0366,0.43,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,CP002,33-39 Beadnell Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44341,-0.04968,0.09,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,CP003,437-439 Brockley Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45317,-0.03803,0.05,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,CP004,219 Stanstead Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44242,-0.04098,0.05,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,CP005,113 Bovill Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44502,-0.04652,0.07,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,CP006,58-64 Brockley Rise,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.44776,-0.041,0.05,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,CP007,50 St German's Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.443,-0.03877,0.06,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,CP008,26 Marnock Road,http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.45385,-0.03465,0.19,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,CS002,246 Brownhill Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44462,-0.00603,0.1,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,CS003,"Pheobes Garden Centre, Penerley Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44076,-0.0189,0.42,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,EV001,Convoys Wharf,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,outline planning permission,,51.44076,-0.0189,20.42,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,EV002,"Timber Yard, Deptford Wharves, Oxestalls Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,outline planning permission,,51.48625,-0.02818,4.6,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,EV003,Arklow Road Trading Estate MEL,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,reserved matters approval,,51.48743,-0.0354,1.28,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,EV004,Marine Wharf East,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.48174,-0.03544,0.87,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,EV005,"Neptune Works, Parkside House, Grinstead Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.4922,-0.0354,1.14,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,EV007,19 Yeoman Street,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.48472,-0.04074,0.26,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,EV009,"Evelyn Court, Grinstead Road",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.49192,-0.03923,0.21,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,EV012,"Acme House, 165 Childers Street MEL",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.48635,-0.03607,0.66,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,EV013,Rear of 197-199 Deptford High Street,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.48228,-0.03526,0.03,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,EV014,"Astra House, 23-25 Arklow Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.48054,-0.02696,0.11,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,EV015,222-222a Trundley's Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.48259,-0.0403,0.01,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,EV016,"Pepys Housing Office, Eddystone Tower, Oxstalls Road",http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.48888,-0.03593,0.07,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,FH001,"Rear of Christian Fellowship, rear of 15-17a Tyson Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,outline planning permission,,51.4464,-0.0532,0.94,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,FH002,"Featherstone Lodge, Eliot Bank",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.43767,-0.06187,0.63,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,FH003,"Former Sydenham Police Station, 179 Dartmouth Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.43317,-0.05843,0.2,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,FH004,"Fairway House, rear of 53 Dartmouth Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.43713,-0.05401,0.2,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,FH005,Longfield Crescent Estate,http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.43411,-0.05421,1.56,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,FH006,14 Westwood Park,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44299,-0.05843,0.05,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,FH007,29 Ewelme Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44305,-0.0549,0.05,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,FH008,97 Honor Oak Park,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44978,-0.04757,0.09,,,2017-12-01,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,FH009,1 Waldram Crescent,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.44009,-0.05308,0.03,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,FH010,39 Honor Oak Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.44701,-0.054,0.09,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,FH011,"Station forecourt, Dartmouth Road, west of the railway line",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.43899,-0.05355,0.43,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,FH012,"Windmill PH, 125-131 Kirkdale",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.43169,-0.05994,0.05,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,GP001,329 Baring Road and Haywood House,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.42984,0.021736,0.07,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,GP002,Garages at 55-88 Castleton Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.42676,0.037523,0.14,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,GP003,77 Burnt Ash Hill,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.44596,0.015687,0.06,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,GP004,79 Chinbrook Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.43195,0.028527,0.12,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,LC001,Lewisham Gateway,http://www.lewisham.gov.uk/brownfieldregister,yes,mixed ownership,permissioned,reserved matters approval,,51.46438,-0.0122,5.53,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,LC002,"Lewisham House, 25 Molesworth Street (Citibank)",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.46289,-0.01209,0.1,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LC003,"Boones Almshouses, Belmont Park",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.46071,-0.00123,0.7,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,LC004,Rear of Chiddingstone House,http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,other,,51.45402,-0.01235,0.55,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LC005,223-225 Lewisham High Street,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45842,-0.01216,0.07,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LC006,37-43 Nightingale Grove (remainder of site),http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.45192,-0.00196,0.22,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,LC008,35 Nightingale Grove,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45229,-0.00229,0.02,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LC009,"323 Lewisham High Street, Ravensbourne Arms",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45544,-0.01502,0.04,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LC012,Rear of 101-103 Springbank Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44879,0.001719,0.09,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LC014,Robert Square Bonfield Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.46009,-0.008621,0.26,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LC015,"Lewisham Retail Park, east of Jerrard Street",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,pending decision,full planning permission,,51.46512,-0.01547,1.04,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,LC016,"Tesco, Conington Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,pending decision,full planning permission,,51.466615,-0.013109,2.63,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LC017,"Carpet Right, east of Thurston Road",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,pending decision,full planning permission,,51.46485,-0.01407,0.28,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,LC018,"PLACE/Ladywell, former Ladywell Leisure Centre (remainder of site)",http://www.lewisham.gov.uk/brownfieldregister,,owned by a public authority,not permissioned,,,51.45635,-0.01334,0.93,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LC019,"Driving test centre, off Ennersdale Road",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.45276,-0.00396,0.41,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,LC020,232 Hither Green Lane,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.4503,-0.00585,0.03,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LC021,"St Mungos Hostel, Spring Gardens, Arlington Close",http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.4527,-0.00483,0.96,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LC022,1 Wearside Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45704,-0.01581,0.08,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LC023,174-176 Lewisham High Street,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.46043,-0.0114,0.03,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LC024,19b Marischal Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.4624,-0.00736,0.03,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LC025,Church Grove,http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.457743,-0.018278,0.35,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LD001,87-89 Loampit Vale,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.46477,-0.01776,0.19,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LD002,Land at 11 and 29 Embleton Road and 44 and 70 Algernon Road,http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.46263,-0.01913,0.45,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LG001,36 Old Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45737,0.005382,0.16,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,LG002,87 Old Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45823,0.005558,0.04,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,LG003,"Garages at Woodstock Court, Burnt Ash Hill",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44829,0.013903,0.36,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LG004,"Mayfields Hostel, 47 Burnt Ash Hill",http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.45313,0.01499,0.08,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,LG005,Leegate Shopping Centre,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,pending decision,full planning permission,,51.4472,0.014424,0.49,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,LG006,"Lee Green Estate, Cambridge Drive",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45546,0.012387,1.9,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,NX001,"New Bermondsey, Surrey Canal Triangle",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,outline planning permission,,51.48537,-0.05105,10.16,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,NX002,"Faircharm Trading Estate, Creekside",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.47746,-0.02024,0.97,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,NX003,"New Cross Gate station sites, 29, 23-27 Goodwood Road",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.47589,-0.04005,0.61,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,NX005,"Bond House, Goodwood Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.47629,-0.03926,0.24,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,NX007,Roof extension at 110-114 Deptford High Street,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.47811,-0.02558,0.1,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,NX008,465 New Cross Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.47561,-0.02869,0.04,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,NX009,"Hatcham Works, New Cross Gate Retail Park/ Sainsbury, New Cross Road",http://www.lewisham.gov.uk/brownfieldregister,,mixed ownership,not permissioned,,,51.47629,-0.042,3.67,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,NX010,"Sun Wharf, Cockpit Arts",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.47867,-0.02002,1,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,NX011,"Giffin St Masterplan Area, Former Tidemill School (north of Reginald Road and south of Frankham Street)",http://www.lewisham.gov.uk/brownfieldregister,yes,mixed ownership,permissioned,full planning permission,,51.47674,-0.02407,1.25,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,NX012,"Former Deptford Green Secondary School, Amersham Vale",http://www.lewisham.gov.uk/brownfieldregister,yes,mixed ownership,permissioned,full planning permission,,51.4794,-0.03264,0.68,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,NX013,2 Hatcham Park Mews,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.47482,-0.04578,0.04,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,NX014,Rear of 104 Deptford High Street,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.47788,-0.02541,0.02,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,NX015,"Thanet Wharf, Creekside Village East",http://www.lewisham.gov.uk/brownfieldregister,yes,mixed ownership,pending decision,full planning permission,,51.48041,-0.01802,0.75,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,NX016,54 Avonley Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.47979,-0.04926,0.15,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,NX017,153 New Cross Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.47551,-0.04648,0.03,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,PV002,31 Dacres Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.43461,-0.05153,0.11,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,PV004,"Waldram Place & Perry Vale, east of the railway line",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.43968,-0.05255,0.2,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,PV005,"8, 10 and 12 Perry Vale",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.43981,-0.05187,0.03,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,PV006,236-238 Stanstead Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.44201,-0.03786,0.03,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,RG002,16-22 Brownhill Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44557,-0.01704,0.1,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,RG006,26-32 George Lane,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45006,-0.01407,0.12,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,SD001,"St Clements Heights, 165 Wells Park Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,reserved matters approval,,51.43106,-0.0725,2.17,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,SD002,"Regent Business Centre, 291-307 Kirkdale",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.42753,-0.05591,0.23,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,SD003,22A-24 Sydenham Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.426034,-0.053402,0.12,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,SD004,154-158 Sydenham Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.4253,-0.04504,0.06,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,SD006,Workshop at rear of 171 Kirkdale,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.43075,-0.0585,0.06,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,SD007,Roof extension at 96a Sydenham Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.42551,-0.04859,0.02,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,SD008,42 Sydenham Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.42581,-0.05174,0.09,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,SD009,169-171 Sydenham Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.4259,-0.04636,0.03,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,SD010,113 to 157 Sydenham Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.42607,-0.04789,0.87,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,SD011,31-61 Silverdale,http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.42852,-0.05355,0.12,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,SD012,138 Sydenham Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.42552,-0.04574,0.02,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,TH001,43-49 Pomeroy Street,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.47549,-0.05227,0.21,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,TH003,"Spalding House, Turnham Road",http://www.lewisham.gov.uk/brownfieldregister,yes,mixed ownership,permissioned,full planning permission,,51.45793,-0.0414,0.09,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,TH004,"New Cross Gate NDC scheme, Besson Street",http://www.lewisham.gov.uk/brownfieldregister,,owned by a public authority,not permissioned,,,51.4754,-0.049,1.01,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,TH006,6 Mantle Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.46432,-0.03799,0.12,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,TH007,173-175 Waller Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.46912,-0.04714,0.05,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,TH008,Rear of 122 New Cross Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.47571,-0.04832,0.07,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,TH009,"Wellington Close, Somerville Estate",http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.47181,-0.04996,0.47,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,TH010,1 Avignon Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.46399,-0.0433,0.09,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,TH011,"Garages At Crossway Court, Endwell Road",http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.46836,-0.03904,0.12,,,2018-10-22,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-2018-10-22,local-authority-eng:LEW,WF001,"Excalibur Estate, Baudwin Road",http://www.lewisham.gov.uk/brownfieldregister,yes,mixed ownership,permissioned,full planning permission,,51.43528,-0.00074,6.12,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
-,local-authority-eng:LEW,WF002,"Adj. to Foster House, Whitefoot Lane",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.43029,-0.00531,0.65,,,2017-11-30,,4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+,local-authority-eng:LEW,BK001,Heathside and Lethbridge Estate,http://www.lewisham.gov.uk/brownfieldregister,yes,mixed ownership,permissioned,reserved matters approval,,51.47114,-0.0128,6.05,,,2017-11-30,,"
+""14/087333 (currently at phase 4) for mixed use development including 2-6 phases with a total of 1,225 residential units minus 565 existing units, with phase 4 (236 units) still to be logged as completed and phases 5 (284 units) and 6 (159 units) still to be approved""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,BK002,"BMW site, Lee Terrace",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.46352,0.000695,0.35,,,2017-11-30,,"
+""16/095488 for mixed use development including 9 x one bedroom, 8 x two bedroom, 3 x three bedroom self-contained flats and 10 x four bedroom townhouses""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,BK003,"Former petrol station, 167 Lewisham Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.4655,-0.01082,0.07,,,2017-11-30,,"
+15/091914 for  mixed use development including 28 flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,BK004,"23 Boone Street, Dacre Park Estate",http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.45975,0.003763,0.91,,,2017-11-30,,"
+""14/089902 for residential development including 6 x 1 bedroom and 14 x 2 bedroom flats, 3 x 3 bedroom and 2 x 4 bedroom flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,BK005,"Tower House, 65-71 Lewisham High Street",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.46289,-0.0096,0.17,,,2017-11-30,,"
+""15/094039, 15/094870 and 17/100726 Prior Approval for residential development including two additional floors at roof level with 56 residential units""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,BK006,"Independents Day Centre, Independents Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.4654,0.008078,0.06,,,2017-11-30,,"
+10/76229 for residential development including 10 x one bedroom self-contained flats and 4 x two bedroom and 2 x three bedroom self-contained maisonettes
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,BK007,1 Myron Place,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.46277,-0.0092,0.02,,,2017-11-30,,"
+16/099036 Prior Approval for residential development including 12 studio flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,BK008,"Our Lady of Lourdes School, Belmont Hill",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.46321,-0.00218,0.26,,,2017-11-30,,"
+15/094157 for residential development including 9 x four bedroom town houses comprising three pairs of semi-detached houses and one terrace of three houses
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,BK009,Garages at 49-71 Dacre Park,http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.46084,0.003934,0.09,,,2017-11-30,,"
+14/89973 for residential development including 5 x two bedroom mews houses
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,BK010,17 Brandram Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.46022,0.001491,0.03,,,2017-11-30,,"
+Lapsed 07/65979 and Lapsed 09/73230 for residential development including 4 x one bedroom and 2 x two bedroom self-contained flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,BL001,351-355 Sydenham Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.42854,-0.03835,0.04,,,2017-11-30,,"
+14/88927 for residential development including 8 x two bedroom self-contained flats and 1 x one bedroom maisonette
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,BL002,117 Dunfield Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.4245,-0.01676,0.04,,,2017-11-30,,"
+""16/99506 for residential development including 4 x one bedroom, 3 x two bedroom and 1 x three bedroom self-contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,BL003,"Kenton Court, 132 Adamsrill Road",http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.43023,-0.04084,0.2,,,2018-10-22,,"
+""17/103961 for residential development including 5 x one bedroom, 15 x two bedroom, 4 x three bedroom and 1 x four bedroom self contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,BL004,"Home Park Housing Office, 129 Winchfield Road",http://www.lewisham.gov.uk/brownfieldregister,yes,mixed ownership,permissioned,full planning permission,,51.42521,-0.03969,0.24,,,2018-10-22,,"
+""18/106485 for mixed use development including 8 x one bedroom, 16 x two bedroom, 7 x three bedroomed self-contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,BR001,"302-308, 310-312 New Cross Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.47538,-0.0374,0.09,,,2017-11-30,,"
+15/93085 for mixed use development including 16 x studio flats and 2 x one bedroom self-contained flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,BR003,1 Brockley Cross,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.46578,-0.03528,0.02,,,2017-11-30,,"
+17/100503 for residential development including 3 x one bedroom and 2 x two bedroom self-contained flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,BR004,97-103 Florence Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.47231,-0.03072,0.09,,,2017-11-30,,"
+""Lapsed 09/73121 for residential development including 1 x three bedroom, 2 x two bedroom and 6 x one bedroom self-contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,BR005,Land adjoining 196 Brockley Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.46276,-0.03592,0.02,,,2017-11-30,,"
+Lapsed 11/77443 for residential development including 2 x one bedroom and 2 x two bedroom self-contained flats and 1 x two bedroom self-contained maisonette
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,BR006,111 and 115 Endwell Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.46592,-0.0366,0.43,,,2017-11-30,,"
+Site Allocation SA30 for mixed use development including 40 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,CP002,33-39 Beadnell Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44341,-0.04968,0.09,,,2017-11-30,,"
+""15/091375 for mixed use development including 4 x three bedroom two storey houses, 1 x three bedroom maisonette, 1 x three bedroom flat, 1 x two bedroom flat and 2 x three bedroom live/work unit""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,CP003,437-439 Brockley Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45317,-0.03803,0.05,,,2017-11-30,,"
+14/088077 for mixed use development including 2 x three bedroom houses and 4 x one bedroom and 3 x two bedroom self-contained flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,CP004,219 Stanstead Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44242,-0.04098,0.05,,,2017-11-30,,"
+16/097266 Prior Approval for residential development including  5 x one bedroom self-contained flats and  18/106769 for  residential development including 2 x one bedroom and 4 x two bedroom self-contained flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,CP005,113 Bovill Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44502,-0.04652,0.07,,,2017-11-30,,"
+16/097411 for residential development including  5 x four bedroom houses
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,CP006,58-64 Brockley Rise,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.44776,-0.041,0.05,,,2017-11-30,,"
+Lapsed 11/78739 for residential development including 7 x two bedroom and  2 x one bedroom self-contained units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,CP007,50 St German's Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.443,-0.03877,0.06,,,2018-10-22,,"
+""17/100842 for residential development including 1 x one bedroom, 3 x two bedroom and 1 x three bedroom self contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,CP008,26 Marnock Road,http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.45385,-0.03465,0.19,,,2018-10-22,,"
+17/102317 for residential development including 6 x three storey terraced houses
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,CS002,246 Brownhill Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44462,-0.00603,0.1,,,2017-11-30,,"
+14/088055 for residential development including 5 x three bedroom residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,CS003,"Pheobes Garden Centre, Penerley Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44076,-0.0189,0.42,,,2018-10-22,,"
+""17/102292 for residential development including 10 x one bedroom, 10 x two bedroom and 7 x three bedroom self-contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,EV001,Convoys Wharf,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,outline planning permission,,51.44076,-0.0189,20.42,,,2017-11-30,,"
+""13/083358 for mixed use development including up to 3,514 (321,000 m2) residential units""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,EV002,"Timber Yard, Deptford Wharves, Oxestalls Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,outline planning permission,,51.48625,-0.02818,4.6,,,2017-11-30,,"
+""15/092295 for mixed use development including 1132 residential units.  This is a hybrid application: full for phase 1 and outline for phases 2 and 3""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,EV003,Arklow Road Trading Estate MEL,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,reserved matters approval,,51.48743,-0.0354,1.28,,,2017-11-30,,"
+15/093101 for mixed use development including full permission for 258 residential dwellings and reserved matters 16/097829 for up to 58 dwellings
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,EV004,Marine Wharf East,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.48174,-0.03544,0.87,,,2017-11-30,,"
+""15/091087 and 16/097829 for mixed use development including 102 x one bed, 79 x two bed, 40 x three bed and 4 x four bed units""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,EV005,"Neptune Works, Parkside House, Grinstead Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.4922,-0.0354,1.14,,,2017-11-30,,"
+""10/75331 and 14/089647 for mixed use development including 199 residential units comprising 70 x one bedroom, 100 x two bed, 19 x three bedroom and 10 x four bedroom units""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,EV007,19 Yeoman Street,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.48472,-0.04074,0.26,,,2017-11-30,,"
+16/098132 for mixed use development including 72 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,EV009,"Evelyn Court, Grinstead Road",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.49192,-0.03923,0.21,,,2017-11-30,,"
+Lapsed 14/089442 Prior approval for mixed use development including 18 residential dwellings
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,EV012,"Acme House, 165 Childers Street MEL",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.48635,-0.03607,0.66,,,2017-11-30,,"
+Site Allocation SA8 for mixed use development including 84 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,EV013,Rear of 197-199 Deptford High Street,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.48228,-0.03526,0.03,,,2017-11-30,,"
+Lapsed 09/72501 for mixed use development including 5 x one bedroom and 4 x two bedroom self-contained flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,EV014,"Astra House, 23-25 Arklow Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.48054,-0.02696,0.11,,,2018-10-22,,"
+17/104557 Prior Approval for residential development including 7 x one bed and 8 x two bed self-contained flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,EV015,222-222a Trundley's Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.48259,-0.0403,0.01,,,2018-10-22,,"
+17/1016787 for residential development including 3 x one bedroom and 4 x two bedroom self-contained residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,EV016,"Pepys Housing Office, Eddystone Tower, Oxstalls Road",http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.48888,-0.03593,0.07,,,2018-10-22,,"
+""17/104445 for mixed use development including 2  xthree bedroom maisonettes, 1 x two bedroom, 1 x three bedroom and 1 x four bedroom self-contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,FH001,"Rear of Christian Fellowship, rear of 15-17a Tyson Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,outline planning permission,,51.4464,-0.0532,0.94,,,2017-11-30,,"
+09/71953 for residential development including up to a maximum of 71 units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,FH002,"Featherstone Lodge, Eliot Bank",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.43767,-0.06187,0.63,,,2018-10-22,,"
+""14/086666 for residential development including 18 x one bedroom and 15 x two-bedroom self contained flats plus 6 x two bedroom, two storey houses""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,FH003,"Former Sydenham Police Station, 179 Dartmouth Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.43317,-0.05843,0.2,,,2017-11-30,,"
+""15/92798 for residential development including 15 x one bedroom, 15 x two bedroom and 3 x three bedroom self-contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,FH004,"Fairway House, rear of 53 Dartmouth Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.43713,-0.05401,0.2,,,2017-11-30,,"
+15/090942 for mixed use development including  27 self-contained residential flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,FH005,Longfield Crescent Estate,http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.43411,-0.05421,1.56,,,2017-11-30,,"
+14/089888 for residential development including 13 x 3 bed houses and 6 x one bedroom and 8 x two bedroom self-contained flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,FH006,14 Westwood Park,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44299,-0.05843,0.05,,,2017-11-30,,"
+""15/091285 for residential development including 1 x one bedroom, 5 x two bedroom and 1 x three bedroom self-contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,FH007,29 Ewelme Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44305,-0.0549,0.05,,,2017-11-30,,"
+""16/096800 for residential development including 1 x one bedroom, 2 x two bedroom and 3 x three bedroom flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,FH008,97 Honor Oak Park,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44978,-0.04757,0.09,,,2017-12-01,,"
+08/68730 for residential development including 1x3 bedroom and 5x2 bedroom self-contained flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,FH009,1 Waldram Crescent,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.44009,-0.05308,0.03,,,2017-11-30,,"
+""Lapsed 07/65911 for residential development including 8 x one bedroom, self-contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,FH010,39 Honor Oak Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.44701,-0.054,0.09,,,2017-11-30,,"
+""Lapsed 07/67266 for residential development including 4 x three bedroom, self-contained maisonettes, 1 x one bedroom and 1 x three bedroom self-contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,FH011,"Station forecourt, Dartmouth Road, west of the railway line",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.43899,-0.05355,0.43,,,2017-11-30,,"
+Site Allocation SA19 for mixed use development including 74 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,FH012,"Windmill PH, 125-131 Kirkdale",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.43169,-0.05994,0.05,,,2018-10-22,,"
+16/099356 for mixed use development including  2 x one bedroom and 7 x two bedroom self-contained residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,GP001,329 Baring Road and Haywood House,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.42984,0.021736,0.07,,,2017-11-30,,"
+17/100225 Prior approval for residential development including 6 self-contained flats and 17/104065 for one x 2 bedroom self-contained flat
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,GP002,Garages at 55-88 Castleton Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.42676,0.037523,0.14,,,2017-11-30,,"
+16/098887 for residential development including 5 x three bedroom terrace houses
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,GP003,77 Burnt Ash Hill,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.44596,0.015687,0.06,,,2017-11-30,,"
+""Lapsed 10/75510 for residential development including 3x one bedroom and 1 x four bedroom self-contained flats, 1 x one bedroom and 1 x two bedroom self-contained maisonettes""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,GP004,79 Chinbrook Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.43195,0.028527,0.12,,,2018-10-22,,"
+""17/100156 for residential development including 2 x one bedroom, 2 x two bedroom and 2 x three bedroom residential units""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,LC001,Lewisham Gateway,http://www.lewisham.gov.uk/brownfieldregister,yes,mixed ownership,permissioned,reserved matters approval,,51.46438,-0.0122,5.53,,,2017-11-30,,"
+06/62375 outline for mixed use development including 800 residential units and 14/089233 latest reserved matters
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,LC002,"Lewisham House, 25 Molesworth Street (Citibank)",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.46289,-0.01209,0.1,,,2017-11-30,,"
+Lapsed 15/092471 Prior approval for residential development including 237 units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LC003,"Boones Almshouses, Belmont Park",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.46071,-0.00123,0.7,,,2017-11-30,,"
+""10/74143 for residential development including 32 x one bedroom and 30 x two bedroom almshouses, 1 x two bedroom and 9 x three bedroom self-contained flats, 8 x three bedroom and 8 x four/five bedroom self-contained maisonettes""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,LC004,Rear of Chiddingstone House,http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,other,,51.45402,-0.01235,0.55,,,2017-11-30,,"
+16/099284 for residential development including 46 x one bedroom and 5 x two bedroom flats plus amendment to provide 2 additional units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LC005,223-225 Lewisham High Street,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45842,-0.01216,0.07,,,2017-11-30,,"
+13/085398 for mixed use development including 22 flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LC006,37-43 Nightingale Grove (remainder of site),http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.45192,-0.00196,0.22,,,2017-11-30,,"
+Site Allocation SA35 for mixed use development including 30 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,LC008,35 Nightingale Grove,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45229,-0.00229,0.02,,,2017-11-30,,"
+13/084806 for mixed use development including 7 x one bedroom and 1 x two bedroom self-contained flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LC009,"323 Lewisham High Street, Ravensbourne Arms",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45544,-0.01502,0.04,,,2017-11-30,,"
+14/088176 for residential development including 5 x one bedroom and 2 x  two bedroom self-contained flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LC012,Rear of 101-103 Springbank Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44879,0.001719,0.09,,,2017-11-30,,"
+14/090373 for residential development including 6 x two bedroom houses
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LC014,Robert Square Bonfield Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.46009,-0.008621,0.26,,,2017-11-30,,"
+16/097298 for residential development including 3 x one bedroom flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LC015,"Lewisham Retail Park, east of Jerrard Street",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,pending decision,full planning permission,,51.46512,-0.01547,1.04,,,2017-11-30,,"
+16/097629 for mixed use development including 536 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,LC016,"Tesco, Conington Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,pending decision,full planning permission,,51.466615,-0.013109,2.63,,,2017-11-30,,"
+Site Allocation LTC5 for mixed use development including 367 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LC017,"Carpet Right, east of Thurston Road",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,pending decision,full planning permission,,51.46485,-0.01407,0.28,,,2017-11-30,,"
+Site Allocation LTC4 for mixed use development including 242 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,LC018,"PLACE/Ladywell, former Ladywell Leisure Centre (remainder of site)",http://www.lewisham.gov.uk/brownfieldregister,,owned by a public authority,not permissioned,,,51.45635,-0.01334,0.93,,,2017-11-30,,"
+Site Allocation LTC7 for mixed use development including 120 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LC019,"Driving test centre, off Ennersdale Road",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.45276,-0.00396,0.41,,,2017-11-30,,"
+Site Allocation SA33 for mixed use development including 30 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,LC020,232 Hither Green Lane,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.4503,-0.00585,0.03,,,2017-11-30,,"
+""Lapsed 10/75392 for mixed use development including 4 x one bedroom, 1 x two bedroom and 1 x three bedroom self-contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LC021,"St Mungos Hostel, Spring Gardens, Arlington Close",http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.4527,-0.00483,0.96,,,2018-10-22,,"
+17/102175 for residential development including 28 self-contained studio flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LC022,1 Wearside Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45704,-0.01581,0.08,,,2018-10-22,,"
+""16/098097 for residential development including 1 x two bedroom wheelchair accessible bungalow, 2 x three storey, three bedroom houses plus 4 x two bedroom and 2 x one bedroom self-contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LC023,174-176 Lewisham High Street,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.46043,-0.0114,0.03,,,2018-10-22,,"
+17/105157 Prior approval for residential development including 6 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LC024,19b Marischal Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.4624,-0.00736,0.03,,,2018-10-22,,"
+""16/098334 for residential development including 2 x two bedroom, 1 x three bedroom and 1  one bedroom self contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LC025,Church Grove,http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.457743,-0.018278,0.35,,,2018-10-22,,"
+""17/104264 for mixed use development including self-build 13 x one bedroom, 10 x two bedroom, 2 x three bedroom flats and 5 x three bedroom and 3 x four bedroom houses""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LD001,87-89 Loampit Vale,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.46477,-0.01776,0.19,,,2017-11-30,,"
+15/93403 for residential development including 49 self-contained dwellings
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LD002,Land at 11 and 29 Embleton Road and 44 and 70 Algernon Road,http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.46263,-0.01913,0.45,,,2018-10-22,,"
+18/105952 for residential development including 4 x three bedroom houses
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LG001,36 Old Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45737,0.005382,0.16,,,2017-11-30,,"
+14/087793 for residential development including 9 x four bedroom houses
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,LG002,87 Old Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45823,0.005558,0.04,,,2017-11-30,,"
+""14/090064 for residential development including 4 x one bedroom,  2 x two bedroom and 3 x three bedroom self-contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,LG003,"Garages at Woodstock Court, Burnt Ash Hill",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44829,0.013903,0.36,,,2017-11-30,,"
+15/094702 for residential development including 8 x three bedroom dwellings
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LG004,"Mayfields Hostel, 47 Burnt Ash Hill",http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.45313,0.01499,0.08,,,2018-10-22,,"
+""17/103886 for mixed use development including 24 x two bedroom, 16 three bedroomed self-contained flats and 7 x two storey houses""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,LG005,Leegate Shopping Centre,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,pending decision,full planning permission,,51.4472,0.014424,0.49,,,2017-11-30,,"
+14/90032 for mixed use development including 229 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,LG006,"Lee Green Estate, Cambridge Drive",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45546,0.012387,1.9,,,2018-10-22,,"
+""15/092720 for residential development including 4 x one bedroom, 4 x two bedroom and 4 x three bedroom self-contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,NX001,"New Bermondsey, Surrey Canal Triangle",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,outline planning permission,,51.48537,-0.05105,10.16,,,2017-11-30,,"
+""11/76357 for mixed use development including 2,365 residential units""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,NX002,"Faircharm Trading Estate, Creekside",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.47746,-0.02024,0.97,,,2017-11-30,,"
+""12/082000 for mixed use development including 63 x one-bedroom, 68 x two bedroom and 17 x 3 bedroom units""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,NX003,"New Cross Gate station sites, 29, 23-27 Goodwood Road",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.47589,-0.04005,0.61,,,2017-11-30,,"
+Site Allocation SA5 (Lapsed 11/77418) for mixed use development including 148 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,NX005,"Bond House, Goodwood Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.47629,-0.03926,0.24,,,2017-11-30,,"
+14/090267 for mixed use development including 89 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,NX007,Roof extension at 110-114 Deptford High Street,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.47811,-0.02558,0.1,,,2017-11-30,,"
+Lapsed 14/088107 for residential development including 2 x one bedroom and 3 x two bedroom flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,NX008,465 New Cross Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.47561,-0.02869,0.04,,,2017-11-30,,"
+""11/78237 for mixed use development including 4 x one bedroom, 4 x two bedroom flats and 1 x two bedroom house""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,NX009,"Hatcham Works, New Cross Gate Retail Park/ Sainsbury, New Cross Road",http://www.lewisham.gov.uk/brownfieldregister,,mixed ownership,not permissioned,,,51.47629,-0.042,3.67,,,2017-11-30,,"
+Site Allocation SA6 for mixed use development including 200 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,NX010,"Sun Wharf, Cockpit Arts",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.47867,-0.02002,1,,,2017-11-30,,"
+Site Allocation SA11 for mixed use development including 200 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,NX011,"Giffin St Masterplan Area, Former Tidemill School (north of Reginald Road and south of Frankham Street)",http://www.lewisham.gov.uk/brownfieldregister,yes,mixed ownership,permissioned,full planning permission,,51.47674,-0.02407,1.25,,,2017-11-30,,"
+""16/095039 for residential development including 78 x one bedroom, 97 x two bedroom, 26 x three bedroom, 8 x four bedroom units""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,NX012,"Former Deptford Green Secondary School, Amersham Vale",http://www.lewisham.gov.uk/brownfieldregister,yes,mixed ownership,permissioned,full planning permission,,51.4794,-0.03264,0.68,,,2017-11-30,,"
+15/095027 for residential development including 120 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,NX013,2 Hatcham Park Mews,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.47482,-0.04578,0.04,,,2017-11-30,,"
+""Lapsed 08/68231 for residential development including 3 x one bedroom, 4 x two bedroom and 1 x three bedroom self-contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,NX014,Rear of 104 Deptford High Street,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.47788,-0.02541,0.02,,,2017-11-30,,"
+""Lapsed 08/68951 for mixed use development including  two x studio flats, 4 x one bedroom self-contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,NX015,"Thanet Wharf, Creekside Village East",http://www.lewisham.gov.uk/brownfieldregister,yes,mixed ownership,pending decision,full planning permission,,51.48041,-0.01802,0.75,,,2017-11-30,,"
+Site Allocation SA12 for mixed use development including 226 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,NX016,54 Avonley Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.47979,-0.04926,0.15,,,2018-10-22,,"
+17/103958 for residential development including 9 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,NX017,153 New Cross Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.47551,-0.04648,0.03,,,2018-10-22,,"
+17/099960 for residential development including 6 x two bedroom units and 2 x one bedroom self-contained units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,PV002,31 Dacres Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.43461,-0.05153,0.11,,,2017-11-30,,"
+15/092092 for residential development including 9 x two-bedroom self-contained flats.
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,PV004,"Waldram Place & Perry Vale, east of the railway line",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.43968,-0.05255,0.2,,,2017-11-30,,"
+Site Allocation SA18 for mixed use development including 33 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,PV005,"8, 10 and 12 Perry Vale",http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.43981,-0.05187,0.03,,,2017-11-30,,"
+Lapsed 11/78857 for residential development including 8 x1 bedroom self-contained flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,PV006,236-238 Stanstead Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.44201,-0.03786,0.03,,,2017-11-30,,"
+""Lapsed 09/73071 The change of use, alteration and conversion of the existing ground floor shops and upper floors at SE23, to provide 3 x one bedroom, 2 x two bedroom self-contained flats and 2 x studio flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,RG002,16-22 Brownhill Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.44557,-0.01704,0.1,,,2017-11-30,,"
+14/089404 for mixed use development including 9 x one bedroom and 10 x two bedroom self-contained flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,RG006,26-32 George Lane,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.45006,-0.01407,0.12,,,2017-11-30,,"
+15/090510 for residential development including 5 x three bedroom houses and 1 x three bedroom house
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,SD001,"St Clements Heights, 165 Wells Park Road",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,reserved matters approval,,51.43106,-0.0725,2.17,,,2017-11-30,,"
+""14/090031 for residential development including 50 x one and two bedroom Almshouses, 20 x four bedroom dwelling-houses and 26 x two and three bedroom self-contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,SD002,"Regent Business Centre, 291-307 Kirkdale",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.42753,-0.05591,0.23,,,2017-11-30,,"
+""16/099465 Prior Approval for residential development including 14 x studio flats, 7 x one bedroom flats, 2 x two bedroom flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,SD003,22A-24 Sydenham Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.426034,-0.053402,0.12,,,2017-11-30,,"
+""09/72662 for mixed use development including 6 x one bedroom, 5 x two bedroom and 1 x three bedroom self-contained flats, 1 x one and 5 x three bedroom self-contained maisonettes""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,SD004,154-158 Sydenham Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.4253,-0.04504,0.06,,,2017-11-30,,"
+Lapsed 14/088852 for Prior Approval residential development including 9 x two-bedroom and 6 x one-bedroom flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,SD006,Workshop at rear of 171 Kirkdale,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.43075,-0.0585,0.06,,,2017-11-30,,"
+14/086283 for residential development including 3 x two bedroom and 2 x two bedroom self-contained flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,SD007,Roof extension at 96a Sydenham Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.42551,-0.04859,0.02,,,2017-11-30,,"
+16/098075 for mixed use development including 2 x two bedroom and 3 x one bedroom units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,SD008,42 Sydenham Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.42581,-0.05174,0.09,,,2017-11-30,,"
+16/099221 Prior Approval for residential development including 5 x one bedroom self-contained flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,SD009,169-171 Sydenham Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.4259,-0.04636,0.03,,,2017-11-30,,"
+Lapsed 09/71367 for mixed use development including 3 x one bedroom and 3 x 2 bedroom flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,SD010,113 to 157 Sydenham Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.42607,-0.04789,0.87,,,2017-11-30,,"
+Site Allocation SA22 for mixed use development including 98 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,SD011,31-61 Silverdale,http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.42852,-0.05355,0.12,,,2018-10-22,,"
+18/106597 for residential development including 5 x three bed houses
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,SD012,138 Sydenham Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.42552,-0.04574,0.02,,,2018-10-22,,"
+""17/101668 for residential development including 4 x one bedroom, 2 x two bedroom and 1 x three bedroom self-contained flats plus 2 x two-storey, one bedroom dwellings""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,TH001,43-49 Pomeroy Street,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.47549,-0.05227,0.21,,,2017-11-30,,"
+15/093731 for mixed use development including 65 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,TH003,"Spalding House, Turnham Road",http://www.lewisham.gov.uk/brownfieldregister,yes,mixed ownership,permissioned,full planning permission,,51.45793,-0.0414,0.09,,,2017-11-30,,"
+""15/94208 for residential development including 1 x one bedroomed, 2 x two bedroomed and 2x  three bedroomed flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,TH004,"New Cross Gate NDC scheme, Besson Street",http://www.lewisham.gov.uk/brownfieldregister,,owned by a public authority,not permissioned,,,51.4754,-0.049,1.01,,,2017-11-30,,"
+Lapsed 08/68448 for mixed use development including 173 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,TH006,6 Mantle Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.46432,-0.03799,0.12,,,2017-11-30,,"
+Site Allocation SA28 for mixed use development including 20 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,TH007,173-175 Waller Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.46912,-0.04714,0.05,,,2017-11-30,,"
+""Lapsed 09/73025 for residential development including 1 x studio, 2 x one bedroom and 1 x three bedroom self-contained flats, 2 x one bedroom and 1 x three bedroom self-contained maisonettes""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,TH008,Rear of 122 New Cross Road,http://www.lewisham.gov.uk/brownfieldregister,,not owned by a public authority,not permissioned,,,51.47571,-0.04832,0.07,,,2017-11-30,,"
+Lapsed 10/73432 for mixed use development including 5 x two bedroom self-contained maisonettes
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,TH009,"Wellington Close, Somerville Estate",http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.47181,-0.04996,0.47,,,2018-10-22,,"
+DC/17/104189 for residential development including 20 x flats and 3 x three bedroom 2 storey houses
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,TH010,1 Avignon Road,http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.46399,-0.0433,0.09,,,2018-10-22,,"
+""17/102552 for residential development including 1 x one bedroom, 5 x  two bedroom and 1 x three bedroom self-contained flats""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,TH011,"Garages At Crossway Court, Endwell Road",http://www.lewisham.gov.uk/brownfieldregister,yes,owned by a public authority,permissioned,full planning permission,,51.46836,-0.03904,0.12,,,2018-10-22,,"
+""17/105055 for residential development including 2 x one bedroom, 2 x two bedroom and 5 x three bedroom self contained units""
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+2018-10-22,local-authority-eng:LEW,WF001,"Excalibur Estate, Baudwin Road",http://www.lewisham.gov.uk/brownfieldregister,yes,mixed ownership,permissioned,full planning permission,,51.43528,-0.00074,6.12,,,2017-11-30,,"
+10/75973 for residential development including 371 residential units
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f
+,local-authority-eng:LEW,WF002,"Adj. to Foster House, Whitefoot Lane",http://www.lewisham.gov.uk/brownfieldregister,yes,not owned by a public authority,permissioned,full planning permission,,51.43029,-0.00531,0.65,,,2017-11-30,,"
+15/091734 for residential development including 9 x one bedroom and 13 x two bedroom self-contained flats
+",4f17f637b33516e34ce60864d5053c32d7913d59aeb15117775c84cc4fc3b24f

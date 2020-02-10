@@ -1,33 +1,97 @@
 OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00036,Sunningdale Park Civil Service College Silwood Road Ascot Berkshire SL5 0LS,-0.638624,51.40042,,4,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00037a,Land at ICL Silwood Campus-Zone A Imperial College Silwood Park Buckhurst Road Ascot,-0.643268,51.407218,,3,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00037b,Land at ICL Silwood Campus-Zone B Imperial College Silwood Park Buckhurst Road Ascot,-0.641429,51.408609,,3,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00040,"Land west of St George's Lane, including Shorts Recycling, Ascot",-0.669618,51.407853,,6,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00066,Boyn Valley Rd/Kings Grove Industrial Area,-0.730007,51.517767,,4,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00066a,Boyn Valley Rd/Kings Grove Industrial Area,-0.728959,51.518151,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00069,"Straight Works, Straight Road, Old Windsor",-0.577697,51.457966,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00070,"OW NP site: 95 Straight Road, Old Windsor",-0.575994,51.455787,,,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00077,Gas Holder Station Whyteladyes Lane Cookham Maidenhead,-0.730165,51.553035,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00080,St Cloud's Gate,-0.718551,51.52542,,3,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00082a,West Street Opportunity Area (AAP),-0.722265,51.523537,,1,mixed ownership,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00086a,Broadway Opportunity Area (AAP),-0.721444,51.52092,,3,mixed ownership,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00113,(Osbornes Garage) 55 St Marks Road Maidenhead Berkshire SL6 6DL,-0.741826,51.522984,,,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00115,School on College Avenue,-0.731702,51.524718,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00117,"DTC Research, Belmont Road, Maidenhead",-0.731686,51.52791,,2,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00120,"Middlehurst Ltd, 99-103 Boyn Valley Road",-0.734948,51.51684,,,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00128,Ascot Station,-0.67407,51.40606,,1,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00142,"National Grid Gasholder Site, Bridge Road, Sunninghill",-0.654086,51.399178,,2,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00162a,Sunningdale Broomhall Centre,-0.629427,51.393596,,1,mixed ownership,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00187a,Tithe Farm Tithe Lane Wraysbury Staines,-0.546901,51.457742,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00204a,Windsor and Eton Riverside Station Car Park,-0.605501,51.487399,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00216,Territorial Army Centre Bolton Road Windsor,-0.611189,51.47039,,,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00221,Vale Road Industrial site,-0.633984,51.481835,,2,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00230,"Squires Garden Centre, Maidenhead Road, Windsor",-0.640151,51.484155,,3,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00231a,"Wyevale Garden Centre, Dedworth Road, Oakley Green",-0.658966,51.480028,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00250a,"Land at Water Oakley Farm, Bray",-0.677692,51.491301,,3,not owned by a public authority,,,,,,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00270,Tectonic Place Holyport Road Maidenhead Berkshire SL6 2YE,-0.706949,51.495314,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00314a,"Reform Road, Maidenhead",-0.711396,51.522024,,4,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00315c,York Road Opportunity Area-AAP,-0.718201,51.520948,,2,mixed ownership,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00407,Windsor Area Police Station Alma Road Windsor SL4 3ES,,,,,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00416,Heatherwood Hospital,-0.687352,51.410166,,16,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
-http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00417b,Minton Place Victoria Street Windsor SL4 1EG,-0.611006,51.480675,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,,,,,2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00036,Sunningdale Park Civil Service College Silwood Road Ascot Berkshire SL5 0LS,-0.638624,51.40042,,4,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,150,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00037a,Land at ICL Silwood Campus-Zone A Imperial College Silwood Park Buckhurst Road Ascot,-0.643268,51.407218,,3,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,5,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00037b,Land at ICL Silwood Campus-Zone B Imperial College Silwood Park Buckhurst Road Ascot,-0.641429,51.408609,,3,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,5,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00040,"Land west of St George's Lane, including Shorts Recycling, Ascot",-0.669618,51.407853,,6,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,35,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00066,Boyn Valley Rd/Kings Grove Industrial Area,-0.730007,51.517767,,4,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,40,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00066a,Boyn Valley Rd/Kings Grove Industrial Area,-0.728959,51.518151,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,40,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00069,"Straight Works, Straight Road, Old Windsor",-0.577697,51.457966,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,13,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00070,"OW NP site: 95 Straight Road, Old Windsor",-0.575994,51.455787,,,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,8,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00077,Gas Holder Station Whyteladyes Lane Cookham Maidenhead,-0.730165,51.553035,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,35,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00080,St Cloud's Gate,-0.718551,51.52542,,3,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,400,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00082a,West Street Opportunity Area (AAP),-0.722265,51.523537,,1,mixed ownership,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,150,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00086a,Broadway Opportunity Area (AAP),-0.721444,51.52092,,3,mixed ownership,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,190,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00113,(Osbornes Garage) 55 St Marks Road Maidenhead Berkshire SL6 6DL,-0.741826,51.522984,,,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,10,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00115,School on College Avenue,-0.731702,51.524718,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,20,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00117,"DTC Research, Belmont Road, Maidenhead",-0.731686,51.52791,,2,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,20,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00120,"Middlehurst Ltd, 99-103 Boyn Valley Road",-0.734948,51.51684,,,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,35,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00128,Ascot Station,-0.67407,51.40606,,1,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,15,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00142,"National Grid Gasholder Site, Bridge Road, Sunninghill",-0.654086,51.399178,,2,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,40,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00162a,Sunningdale Broomhall Centre,-0.629427,51.393596,,1,mixed ownership,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,10,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00187a,Tithe Farm Tithe Lane Wraysbury Staines,-0.546901,51.457742,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,12,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00204a,Windsor and Eton Riverside Station Car Park,-0.605501,51.487399,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,15,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00216,Territorial Army Centre Bolton Road Windsor,-0.611189,51.47039,,,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,15,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00221,Vale Road Industrial site,-0.633984,51.481835,,2,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,55,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00230,"Squires Garden Centre, Maidenhead Road, Windsor",-0.640151,51.484155,,3,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,20,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00231a,"Wyevale Garden Centre, Dedworth Road, Oakley Green",-0.658966,51.480028,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,20,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00250a,"Land at Water Oakley Farm, Bray",-0.677692,51.491301,,3,not owned by a public authority,,,,,,10,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00270,Tectonic Place Holyport Road Maidenhead Berkshire SL6 2YE,-0.706949,51.495314,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,10,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00314a,"Reform Road, Maidenhead",-0.711396,51.522024,,4,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,50,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00315c,York Road Opportunity Area-AAP,-0.718201,51.520948,,2,mixed ownership,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,130,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00407,Windsor Area Police Station Alma Road Windsor SL4 3ES,,,,,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,25,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00416,Heatherwood Hospital,-0.687352,51.410166,,16,owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,175,,,"
+
+",2018-01-19,,
+http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead,,H00417b,Minton Place Victoria Street Windsor SL4 1EG,-0.611006,51.480675,,1,not owned by a public authority,,,,,http://publicaccess.rbwm.gov.uk/online-applications/,50,,,"
+
+",2018-01-19,,

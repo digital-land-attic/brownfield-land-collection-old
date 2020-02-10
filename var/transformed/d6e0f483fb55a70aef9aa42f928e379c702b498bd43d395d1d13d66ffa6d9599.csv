@@ -1,45 +1,133 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,resource
-2017-11-30,local-authority-eng:CLD,BLR001,"Site of Box Trees Mill, Boy Lane, Wheatley, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.739357,-1.899168,0.99,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR002,"Land west of 78-82 Backhold Lane, Siddal, Halifax",,yes,mixed ownership,permissioned,full planning permission,,53.699942,-1.852205,0.04,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR003,"Empire Works, Blackmires/Shay Lane, Holmfield, Halifax",,yes,not owned by a public authority,not permissioned,,,53.748652,-1.876984,1.02,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR004,"The Ranch, New Road, Holywell Green, Elland",,yes,not owned by a public authority,permissioned,full planning permission,,53.663018,-1.866249,0.36,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR005,"Land at junction of Knightbridge Court and Parsonage Lane, Brighouse",,yes,not owned by a public authority,permissioned,full planning permission,,53.703369,-1.784694,0.17,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR006,"467-475 Elland Road, Elland",,yes,not owned by a public authority,permissioned,full planning permission,,53.698438,-1.818558,0.23,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR007,"Land opposite Tetrodena Kennels, Break Neck Lane, Hipperholme, Brighouse",,yes,not owned by a public authority,permissioned,full planning permission,,53.727922,-1.828566,0.35,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR008,"Land At Whitehouse Farm, Holmfield, Halifax",,yes,not owned by a public authority,permissioned,reserved matters approval,,53.758238,-1.877449,0.52,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR009,"Jubilee Works, Jubilee Street North, Ovenden, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.743431,-1.878568,0.18,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR010,"Site of former Hope Mills, Alma Road, Walsden, Todmorden",,yes,not owned by a public authority,permissioned,full planning permission,,53.697304,-2.103197,0.31,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR011,"Site of High Level Works, Pellon Lane, Pellon, Halifax",,yes,not owned by a public authority,permissioned,outline planning permission,,53.729488,-1.88315,0.38,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR012,"Vale School House, Burnley Road, Cornholme, Todmorden",,yes,not owned by a public authority,permissioned,full planning permission,,53.732801,-2.137513,0.15,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR013,"Ryburn Polythene Limited, Oldham Road, Ripponden, Sowerby Bridge",,yes,not owned by a public authority,permissioned,full planning permission,,53.668065,-1.948018,0.08,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR014,"Site of Scar Bottom Mill, Scar Bottom Lane, Greetland, Elland",,yes,not owned by a public authority,permissioned,full planning permission,,53.687903,-1.886232,0.17,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR015,"Victoria Works, Dean Street, West Vale, Elland",,yes,not owned by a public authority,permissioned,full planning permission,,53.685658,-1.857352,0.07,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR017,"Baxter Lane Works, Baxter Lane, Northowram, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.740436,-1.833543,0.05,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR018,"Wheatley Wells Inn, 106-112 Wheatley Road, Wheatley, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.73585,-1.885727,0.02,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR019,"8-12 Cross Hills, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.726885,-1.860335,0.02,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR020,"Garage site adjacent to Dodge Holme Court, Dodge Holme Close, Mixenden, Halifax",,,not owned by a public authority,not permissioned,,,53.747034,-1.901284,0.07,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR021,"Exley Park PH, Park Lane, Siddal, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.699819,-1.850941,0.1,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR022,"Land at Abbey Park, Illingworth, Halifax",,,not owned by a public authority,not permissioned,,,53.756406,-1.897335,2.25,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR023,"Hebble Court, Mixenden Road, Halifax",,,not owned by a public authority,not permissioned,,,53.746667,-1.902118,0.48,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR024,"Land at Titan Works, Claremount Road, Boothtown, Halifax",,,not owned by a public authority,permissioned,outline planning permission,,53.737684,-1.865274,0.26,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR025,"The Old Coach House, Oak Street, Elland",,yes,not owned by a public authority,permissioned,full planning permission,,53.684194,-1.836096,0.02,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR026,"Lindwell Methodist Church, Lindwell, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.690335,-1.860738,0.08,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR027,"Heath Bank Nursing Home, Linden Road, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.711252,-1.862949,0.23,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR028,"Walsden Methodist Church, Rochdale Road, Todmorden",,yes,not owned by a public authority,permissioned,full planning permission,,53.694432,-2.100821,0.04,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR029,"Upper floors, 20-26 Commerical Street, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.722644,-1.861307,0.04,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR030,"District Bank Chambers, George Square, Halifax",,yes,not owned by a public authority,permissioned,other,,53.722601,-1.861895,0.03,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR031,"5 Clare Road, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.720318,-1.858735,0.11,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR032,"8 Lord Street, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.721944,-1.864539,0.02,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR033,"1st, 2nd, 3rd and 4th floors, Southgate House, Wards Ends, Halifax",,yes,not owned by a public authority,permissioned,other,,53.721036,-1.859881,0.09,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR034,"3rd & 4th Floors, 39-47 Commerical Street, Halifax",,yes,not owned by a public authority,permissioned,other,,53.721522,-1.861668,0.03,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR035,"Kingfisher House, Portland Place, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.719459,-1.859895,0.05,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR036,"Fountain Chambers, 22 Fountain Street, Halifax",,yes,not owned by a public authority,permissioned,other,,53.721288,-1.862096,0.03,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR037,"Ebenezer Methodist Church, 605 Bradford Road, Brighouse",,yes,not owned by a public authority,permissioned,outline planning permission,,53.721765,-1.777269,0.14,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR038,"Land east of 11 Gooder Lane, Brighouse",,yes,not owned by a public authority,permissioned,full planning permission,,53.697735,-1.780521,0.02,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR039,"Slade Lane Works, Slade Lane, Brighouse",,yes,not owned by a public authority,permissioned,full planning permission,,53.682805,-1.79624,0.2,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR040,"Firth's Carpets, Bradford Road, Baliff Bridge, Brighouse",,yes,not owned by a public authority,not permissioned,,,53.723912,-1.775954,0.67,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR041,"Ash Lea, 19 Woodhouse Lane, Brighouse",,yes,not owned by a public authority,permissioned,full planning permission,,53.692474,-1.773137,0.14,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR042,"Former Engine Room Hollins Mill, Rochdale Road, Todmorden",,yes,not owned by a public authority,permissioned,full planning permission,,53.695423,-2.101937,0.14,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR043,"Floors 1-3, 2 Silver Street, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.723211,-1.862209,0.02,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR044,"Site of Macmillans, Long Lane, Wheatley, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.737338,-1.893937,0.17,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
-2017-11-30,local-authority-eng:CLD,BLR045,"Land off Pudsey Road, Todmorden",,,not owned by a public authority,permissioned,full planning permission,,53.733702,-2.140326,0.43,,,2017-11-30,,d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
+2017-11-30,local-authority-eng:CLD,BLR001,"Site of Box Trees Mill, Boy Lane, Wheatley, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.739357,-1.899168,0.99,,,2017-11-30,,"
+Construction of 87 residential dwellings
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR002,"Land west of 78-82 Backhold Lane, Siddal, Halifax",,yes,mixed ownership,permissioned,full planning permission,,53.699942,-1.852205,0.04,,,2017-11-30,,"
+Demolish existing building and re build on similar footprint to form 8 apartments
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR003,"Empire Works, Blackmires/Shay Lane, Holmfield, Halifax",,yes,not owned by a public authority,not permissioned,,,53.748652,-1.876984,1.02,,,2017-11-30,,"
+
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR004,"The Ranch, New Road, Holywell Green, Elland",,yes,not owned by a public authority,permissioned,full planning permission,,53.663018,-1.866249,0.36,,,2017-11-30,,"
+Conversion of industrial buildings to 2 dwellings. Construction of stable block and menage.
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR005,"Land at junction of Knightbridge Court and Parsonage Lane, Brighouse",,yes,not owned by a public authority,permissioned,full planning permission,,53.703369,-1.784694,0.17,,,2017-11-30,,"
+30 retirement living apartments and provision of communal facilities, landscaping and car parking
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR006,"467-475 Elland Road, Elland",,yes,not owned by a public authority,permissioned,full planning permission,,53.698438,-1.818558,0.23,,,2017-11-30,,"Amendment to 10/01534/FUL for development of 10 houses
+Amendments to plots 1 to 5 on approved scheme 10/01534/FUL to utilise void beneath buildings
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR007,"Land opposite Tetrodena Kennels, Break Neck Lane, Hipperholme, Brighouse",,yes,not owned by a public authority,permissioned,full planning permission,,53.727922,-1.828566,0.35,,,2017-11-30,,"
+residential development of 4 dwellings
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR008,"Land At Whitehouse Farm, Holmfield, Halifax",,yes,not owned by a public authority,permissioned,reserved matters approval,,53.758238,-1.877449,0.52,,,2017-11-30,,"
+Construction of 23 dwellings (REM pursant to 14/00058/OUT)
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR009,"Jubilee Works, Jubilee Street North, Ovenden, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.743431,-1.878568,0.18,,,2017-11-30,,"
+Formation of 6 new dwellings
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR010,"Site of former Hope Mills, Alma Road, Walsden, Todmorden",,yes,not owned by a public authority,permissioned,full planning permission,,53.697304,-2.103197,0.31,,,2017-11-30,,"
+11 holiday cottages and 5 workshops
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR011,"Site of High Level Works, Pellon Lane, Pellon, Halifax",,yes,not owned by a public authority,permissioned,outline planning permission,,53.729488,-1.88315,0.38,,,2017-11-30,,"
+Demolition of vacant industrial units and construction of 34 dwellings
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR012,"Vale School House, Burnley Road, Cornholme, Todmorden",,yes,not owned by a public authority,permissioned,full planning permission,,53.732801,-2.137513,0.15,,,2017-11-30,,"
+Retention of the existing house and change of use of the former school to form six houses including external alterations
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR013,"Ryburn Polythene Limited, Oldham Road, Ripponden, Sowerby Bridge",,yes,not owned by a public authority,permissioned,full planning permission,,53.668065,-1.948018,0.08,,,2017-11-30,,"
+Conversion of existing mill to form 13 apartments (amended plan)
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR014,"Site of Scar Bottom Mill, Scar Bottom Lane, Greetland, Elland",,yes,not owned by a public authority,permissioned,full planning permission,,53.687903,-1.886232,0.17,,,2017-11-30,,"
+Residential development of six dwellings (Amended part scheme relating to 00/00916/FUL)
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR015,"Victoria Works, Dean Street, West Vale, Elland",,yes,not owned by a public authority,permissioned,full planning permission,,53.685658,-1.857352,0.07,,,2017-11-30,,"
+Residential development of seven dwellings
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR017,"Baxter Lane Works, Baxter Lane, Northowram, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.740436,-1.833543,0.05,,,2017-11-30,,"
+Conversion of disused Engineering Works to form 5 dwellings and extension to South elevation
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR018,"Wheatley Wells Inn, 106-112 Wheatley Road, Wheatley, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.73585,-1.885727,0.02,,,2017-11-30,,"
+Conversion of former public house to form 5 dwellings
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR019,"8-12 Cross Hills, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.726885,-1.860335,0.02,,,2017-11-30,,"
+Conversion of former restaurant to 27 bedsits and construction of stairway
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR020,"Garage site adjacent to Dodge Holme Court, Dodge Holme Close, Mixenden, Halifax",,,not owned by a public authority,not permissioned,,,53.747034,-1.901284,0.07,,,2017-11-30,,"
+
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR021,"Exley Park PH, Park Lane, Siddal, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.699819,-1.850941,0.1,,,2017-11-30,,"
+Demolition of former public house to facilitate residential development of seven townhouses
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR022,"Land at Abbey Park, Illingworth, Halifax",,,not owned by a public authority,not permissioned,,,53.756406,-1.897335,2.25,,,2017-11-30,,"
+
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR023,"Hebble Court, Mixenden Road, Halifax",,,not owned by a public authority,not permissioned,,,53.746667,-1.902118,0.48,,,2017-11-30,,"
+
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR024,"Land at Titan Works, Claremount Road, Boothtown, Halifax",,,not owned by a public authority,permissioned,outline planning permission,,53.737684,-1.865274,0.26,,,2017-11-30,,"
+Residential development of 49 dwellings
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR025,"The Old Coach House, Oak Street, Elland",,yes,not owned by a public authority,permissioned,full planning permission,,53.684194,-1.836096,0.02,,,2017-11-30,,"
+Conversion to six residential studios, single storey extension to rear with access stairs to first floor
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR026,"Lindwell Methodist Church, Lindwell, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.690335,-1.860738,0.08,,,2017-11-30,,"
+Conversion of redundant chapel to five apartments
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR027,"Heath Bank Nursing Home, Linden Road, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.711252,-1.862949,0.23,,,2017-11-30,,"
+Conversion of Nursing home to 7 dwellings and construction of detached dwelling. (amended design to planning approval 14/00963/CON)
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR028,"Walsden Methodist Church, Rochdale Road, Todmorden",,yes,not owned by a public authority,permissioned,full planning permission,,53.694432,-2.100821,0.04,,,2017-11-30,,"
+Conversion and alterations to derelict church to create 13 apartments.
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR029,"Upper floors, 20-26 Commerical Street, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.722644,-1.861307,0.04,,,2017-11-30,,"14/56013/CLASSJ - prior approval not required - October 2014 for 8 flats. Total capacity for the site therefore 10.
+Change of use of offices to two flats
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR030,"District Bank Chambers, George Square, Halifax",,yes,not owned by a public authority,permissioned,other,,53.722601,-1.861895,0.03,,,2017-11-30,,"
+Prior approval application for a change of use from Offices (B1a) to twelve apartments (C3)
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR031,"5 Clare Road, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.720318,-1.858735,0.11,,,2017-11-30,,"14/56019/CLASSJ Prior approval granted 100315 for COU from office to 15 apartments. Minimum net dwelling capacity based on both applications.
+Conversion of lower and ground floors from restaurant to three apartments
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR032,"8 Lord Street, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.721944,-1.864539,0.02,,,2017-11-30,,"
+Conversion of Club and construction of a three-storey rear extension to create 11 bedroom House in Multiple Occupation
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR033,"1st, 2nd, 3rd and 4th floors, Southgate House, Wards Ends, Halifax",,yes,not owned by a public authority,permissioned,other,,53.721036,-1.859881,0.09,,,2017-11-30,,"
+Prior approval application for a change of use from office (B1a) to 51 apartments (C3)
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR034,"3rd & 4th Floors, 39-47 Commerical Street, Halifax",,yes,not owned by a public authority,permissioned,other,,53.721522,-1.861668,0.03,,,2017-11-30,,"
+Prior approval for a change of use from offices (B1a) to nine apartments (C3)
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR035,"Kingfisher House, Portland Place, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.719459,-1.859895,0.05,,,2017-11-30,,"
+Change of use from commercial premises to twelve apartments
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR036,"Fountain Chambers, 22 Fountain Street, Halifax",,yes,not owned by a public authority,permissioned,other,,53.721288,-1.862096,0.03,,,2017-11-30,,"
+Prior approval application for a change of use from office (B1a) to seven apartments (C3)
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR037,"Ebenezer Methodist Church, 605 Bradford Road, Brighouse",,yes,not owned by a public authority,permissioned,outline planning permission,,53.721765,-1.777269,0.14,,,2017-11-30,,"16/00657/FUL approved July 2015 for conversion of the church to B1 use
+Demolition of church and garages to facilitate residential development (Outline)
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR038,"Land east of 11 Gooder Lane, Brighouse",,yes,not owned by a public authority,permissioned,full planning permission,,53.697735,-1.780521,0.02,,,2017-11-30,,"
+Residential development of 5 one bedroom apartments
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR039,"Slade Lane Works, Slade Lane, Brighouse",,yes,not owned by a public authority,permissioned,full planning permission,,53.682805,-1.79624,0.2,,,2017-11-30,,"
+Demolition of existing building and construction of 10 No dwellings and associated external works (Amended Plans)
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR040,"Firth's Carpets, Bradford Road, Baliff Bridge, Brighouse",,yes,not owned by a public authority,not permissioned,,,53.723912,-1.775954,0.67,,,2017-11-30,,"
+
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR041,"Ash Lea, 19 Woodhouse Lane, Brighouse",,yes,not owned by a public authority,permissioned,full planning permission,,53.692474,-1.773137,0.14,,,2017-11-30,,"
+Conversion of existing dwelling into 9 apartments.
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR042,"Former Engine Room Hollins Mill, Rochdale Road, Todmorden",,yes,not owned by a public authority,permissioned,full planning permission,,53.695423,-2.101937,0.14,,,2017-11-30,,"
+Conversion of former engine room, boiler room and workshop buildings to form 12 No flats with communal lift, stair and storage area.  Upgrading of parking area in existing courtyard. Re-cladding of existing goods lift to 4 storey former spinning mill
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR043,"Floors 1-3, 2 Silver Street, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.723211,-1.862209,0.02,,,2017-11-30,,"Three separate approvals for this site - 14/01322/CON, 15/00252/CON and 16/01675/FUL total 11 partments for the site.
+Change of use of third floor to form 3 No 1 bedroom flats
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR044,"Site of Macmillans, Long Lane, Wheatley, Halifax",,yes,not owned by a public authority,permissioned,full planning permission,,53.737338,-1.893937,0.17,,,2017-11-30,,"
+Construction of 10 dwellings and the creation of a new access. Modification of existing access, car parking and landscaping.
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
+2017-11-30,local-authority-eng:CLD,BLR045,"Land off Pudsey Road, Todmorden",,,not owned by a public authority,permissioned,full planning permission,,53.733702,-2.140326,0.43,,,2017-11-30,,"
+Residential development of twenty three dwellings (Amended Plan)
+",d6e0f483fb55a70aef9aa42f928e379c702b498bd43d395d1d13d66ffa6d9599
