@@ -1,72 +1,28 @@
-OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,714,Archer Road NC,-0.183968,51.909622,,0.5,owned by a public authority,,permissioned,full planning permission,2014-11-14,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=N7OCJRPH05U00&activeTab=summary,24,,yes,"
-Demolition of community centre and existing mixed use shops and flats. Provision of 2 no. retail units, 8no. one bed and 9no. two bed flats and 9no. two bed and 4no. three bed houses with associated landscaping and car parking and construction of temporary car park.
-",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,721,Bedwell Crescent Neighbourhood Centre,-0.188961,51.902226,,1.62,owned by a public authority,,not permissioned,,,,45,,,"
-
-Potentially contaminated",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,707,Burwell Road Neighbourhood Centre,-0.170509,51.897355,,0.66,owned by a public authority,,pending decision,,,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=OUU4GEPHJHK00&activeTab=summary,20,,yes,"
-Erection of 6no two bedroom and 9no one bedroom flats with associated parking.
-",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,,"DuPont (UK) Ltd, Wedgwood Way, SG1 4QN",-0.170618,51.922939,,2.22,not owned by a public authority,,permissioned,outline planning permission,2016-08-11,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=NNNSUZPHFKY00&activeTab=summary,200,,yes,"
-Outline planning application for the demolition of existing buildings and provision of up to 200 new homes, up to 900 sqm of Use classes A1/A2/A3/D1, provision of residential amenity space and associated access and car parking
-",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Hertfordshire County Council,BFR3,Former Lonsdale School,-0.187304,51.911615,,3.8,owned by a public authority,,permissioned,outline planning permission,2013-01-15,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=MC3BSYPH08E00&activeTab=summary,67,,yes,"
-Outline application for redevelopment of existing school site for the erection of 67 dwellings.
-",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,213,"Former Redemption Academy, Eliot Road",-0.165296,51.909008,,0.28,owned by a public authority,,not permissioned,,,,16,,yes,"
-
-Recreation/Open space",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,214,"Fry Road day nursery, Fry Road",-0.170376,51.902424,,0.29,owned by a public authority,,not permissioned,,,,6,,,"
-
-Recreation/Open space
+OrganisationURI,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/stevenage,714,Archer Road NC,-0.183968,51.909622,,0.5,owned by a public authority,,permissioned,full planning permission,2014-11-14,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=N7OCJRPH05U00&activeTab=summary,24,,yes,"Demolition of community centre and existing mixed use shops and flats. Provision of 2 no. retail units, 8no. one bed and 9no. two bed flats and 9no. two bed and 4no. three bed houses with associated landscaping and car parking and construction of temporary car park.",2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,721,Bedwell Crescent Neighbourhood Centre,-0.188961,51.902226,,1.62,owned by a public authority,,not permissioned,,,,45,,,Potentially contaminated,2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,707,Burwell Road Neighbourhood Centre,-0.170509,51.897355,,0.66,owned by a public authority,,pending decision,,,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=OUU4GEPHJHK00&activeTab=summary,20,,yes,Erection of 6no two bedroom and 9no one bedroom flats with associated parking.,2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,,"DuPont (UK) Ltd, Wedgwood Way, SG1 4QN",-0.170618,51.922939,,2.22,not owned by a public authority,,permissioned,outline planning permission,2016-08-11,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=NNNSUZPHFKY00&activeTab=summary,200,,yes,"Outline planning application for the demolition of existing buildings and provision of up to 200 new homes, up to 900 sqm of Use classes A1/A2/A3/D1, provision of residential amenity space and associated access and car parking",2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,BFR3,Former Lonsdale School,-0.187304,51.911615,,3.8,owned by a public authority,,permissioned,outline planning permission,2013-01-15,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=MC3BSYPH08E00&activeTab=summary,67,,yes,Outline application for redevelopment of existing school site for the erection of 67 dwellings.,2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,213,"Former Redemption Academy, Eliot Road",-0.165296,51.909008,,0.28,owned by a public authority,,not permissioned,,,,16,,yes,Recreation/Open space,2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,214,"Fry Road day nursery, Fry Road",-0.170376,51.902424,,0.29,owned by a public authority,,not permissioned,,,,6,,,"Recreation/Open space
 Adjacent to wildlife site",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,107,"Ken Brown car showroom, Shephall Way",-0.174298,51.898556,,0.29,not owned by a public authority,,not permissioned,,,,36,,,"
-
-Potential contamination",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,701,Kenilworth Close Neighbourhood Centre,-0.166644,51.874824,,0.63,owned by a public authority,,not permissioned,,,,65,,yes,"
-
-Agricultural Land Grade 3",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,217,Longfield Fire and Rescue,-0.214195,51.918375,,2.67,owned by a public authority,,pending decision,,,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=MDIWTAPH08E00&activeTab=summary,95,,yes,"
-Outline planning application for residential development of up to 95 dwellings.
-",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,710,Marymead Neighbourhood Centre,-0.178709,51.881836,,0.54,owned by a public authority,,not permissioned,,,,60,,,"
-
-Conservation Area",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,141,Matalan,-0.203844,51.900458,,1.38,not owned by a public authority,,permissioned,outline planning permission,2017-10-20,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=NCVGO9PH07E00&activeTab=summary,526,,yes,"
-Application for outline permission for residential development of up to 526 residential apartments and commercial units Class A1 (retail) A2 (professional and financial) A3 (restaurant) and A4 (drinking establishments) and A5 (hot food take away) with associated access, parking and landscaping following demolition of existing buildings.
+http://opendatacommunities.org/id/district-council/stevenage,107,"Ken Brown car showroom, Shephall Way",-0.174298,51.898556,,0.29,not owned by a public authority,,not permissioned,,,,36,,,Potential contamination,2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,701,Kenilworth Close Neighbourhood Centre,-0.166644,51.874824,,0.63,owned by a public authority,,not permissioned,,,,65,,yes,Agricultural Land Grade 3,2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,217,Longfield Fire and Rescue,-0.214195,51.918375,,2.67,owned by a public authority,,pending decision,,,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=MDIWTAPH08E00&activeTab=summary,95,,yes,Outline planning application for residential development of up to 95 dwellings.,2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,710,Marymead Neighbourhood Centre,-0.178709,51.881836,,0.54,owned by a public authority,,not permissioned,,,,60,,,Conservation Area,2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,141,Matalan,-0.203844,51.900458,,1.38,not owned by a public authority,,permissioned,outline planning permission,2017-10-20,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=NCVGO9PH07E00&activeTab=summary,526,,yes,"Application for outline permission for residential development of up to 526 residential apartments and commercial units Class A1 (retail) A2 (professional and financial) A3 (restaurant) and A4 (drinking establishments) and A5 (hot food take away) with associated access, parking and landscaping following demolition of existing buildings.
 Potentially contaminated",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,126,Park Place,-0.20025,51.902741,,0.5,not owned by a public authority,,permissioned,full planning permission,2016-12-12,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=OB48WNPHHJZ00&activeTab=summary,202,,,"
-Change of use of an existing three storey building from A1 (retail), B1 (office) and D1 (dental clinic) to retail and residential use and the construction of three additional floors for residential use comprising no. 44 studio units, no. 120 one bedroom residential units, and no. 38 two bedroom residential units.
+http://opendatacommunities.org/id/district-council/stevenage,126,Park Place,-0.20025,51.902741,,0.5,not owned by a public authority,,permissioned,full planning permission,2016-12-12,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=OB48WNPHHJZ00&activeTab=summary,202,,,"Change of use of an existing three storey building from A1 (retail), B1 (office) and D1 (dental clinic) to retail and residential use and the construction of three additional floors for residential use comprising no. 44 studio units, no. 120 one bedroom residential units, and no. 38 two bedroom residential units.
 Adjacent to a Conservation Area",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,BFR5,"Pond Close, 11 Walkern Road",-0.207421,51.913587,,0.78,not owned by a public authority,,permissioned,full planning permission,2016-08-31,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=J0ULITPH00000&activeTab=summary,12,,yes,"
-Erection of 2no three storey blocks to provide 12no one bedroom flats, parking and landscaping
-",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,611,"Rugby Club, North Road",-0.214089,51.926547,,2.55,not owned by a public authority,,not permissioned,,,,149,,yes,"
-
-Potentially contaminated",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,212,"Scout Hut, Drakes Drive",-0.1709,51.912081,,0.28,owned by a public authority,,not permissioned,,,,18,,,"
-
-Potentially contaminated",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,,Symonds Green NC,-0.221995,51.913071,,0.93,owned by a public authority,,pending decision,,,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=O8FY64PHHBM00&activeTab=summary,22,,yes,"
-Demolition of 4 no. residential units and refurbishment and external alterations of neighbourhood centre, change of use of existing A1 (shop), B1/B8 (Former Council Estate Office, Business and Storage), D1 (Community Centre) and ancillary Community Cafe to create 3 no. units comprising 2no. Class A1 (shop) and 1no. Class B1 (business) at ground floor level, construction of one additional floor to create 12 no. one bedroom apartments and 10 no. two bedroom flats.
-",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,709,The Glebe Neighbourhood Centre,-0.170025,51.909262,,1.39,owned by a public authority,,not permissioned,,,,35,,,"
-
-Potentially contaminated",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,703,The Hyde Neighbourhood Centre,-0.169477,51.892366,,1.23,owned by a public authority,,not permissioned,,,,50,,,"
-
-Potentially contaminated",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,704,The Oval Neighbourhood Centre,-0.179423,51.919182,,1.81,owned by a public authority,,not permissioned,,,,275,,,"
-
-Potentially contaminated",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,201,"The Shephall Centre, Shephall Green",-0.179245,51.890881,,0.7,owned by a public authority,,not permissioned,,,,34,,,"
-
-Area of Archeology",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,BFR7,Town Centre,,,,51.69,mixed ownership,,,,,,2000,,,"
-
-",2017-11-03,2017-11-03,
-http://opendatacommunities.org/id/district-council/stevenage,Stevenage Borough Council,"Check if complete - started (SMART)
-002","Vincent Court, Fishers Green Road",-0.218141,51.918255,,1.13,not owned by a public authority,,permissioned,reserved matters approval,2015-10-05,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=NQX31XPHFUZ00&activeTab=summary,37,,yes,"
-Reserved matters application pursuant to outline planning permission 14/00178/OPM for the erection of 37 dwellings seeking approval of the access, appearance, landscaping, layout and scale
-",2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,BFR5,"Pond Close, 11 Walkern Road",-0.207421,51.913587,,0.78,not owned by a public authority,,permissioned,full planning permission,2016-08-31,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=J0ULITPH00000&activeTab=summary,12,,yes,"Erection of 2no three storey blocks to provide 12no one bedroom flats, parking and landscaping",2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,611,"Rugby Club, North Road",-0.214089,51.926547,,2.55,not owned by a public authority,,not permissioned,,,,149,,yes,Potentially contaminated,2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,212,"Scout Hut, Drakes Drive",-0.1709,51.912081,,0.28,owned by a public authority,,not permissioned,,,,18,,,Potentially contaminated,2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,,Symonds Green NC,-0.221995,51.913071,,0.93,owned by a public authority,,pending decision,,,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=O8FY64PHHBM00&activeTab=summary,22,,yes,"Demolition of 4 no. residential units and refurbishment and external alterations of neighbourhood centre, change of use of existing A1 (shop), B1/B8 (Former Council Estate Office, Business and Storage), D1 (Community Centre) and ancillary Community Cafe to create 3 no. units comprising 2no. Class A1 (shop) and 1no. Class B1 (business) at ground floor level, construction of one additional floor to create 12 no. one bedroom apartments and 10 no. two bedroom flats.",2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,709,The Glebe Neighbourhood Centre,-0.170025,51.909262,,1.39,owned by a public authority,,not permissioned,,,,35,,,Potentially contaminated,2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,703,The Hyde Neighbourhood Centre,-0.169477,51.892366,,1.23,owned by a public authority,,not permissioned,,,,50,,,Potentially contaminated,2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,704,The Oval Neighbourhood Centre,-0.179423,51.919182,,1.81,owned by a public authority,,not permissioned,,,,275,,,Potentially contaminated,2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,201,"The Shephall Centre, Shephall Green",-0.179245,51.890881,,0.7,owned by a public authority,,not permissioned,,,,34,,,Area of Archeology,2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,BFR7,Town Centre,,,,51.69,mixed ownership,,,,,,2000,,,,2017-11-03,2017-11-03,
+http://opendatacommunities.org/id/district-council/stevenage,"Check if complete - started (SMART)
+002","Vincent Court, Fishers Green Road",-0.218141,51.918255,,1.13,not owned by a public authority,,permissioned,reserved matters approval,2015-10-05,https://publicaccess.stevenage.gov.uk/online-applications/applicationDetails.do?keyVal=NQX31XPHFUZ00&activeTab=summary,37,,yes,"Reserved matters application pursuant to outline planning permission 14/00178/OPM for the erection of 37 dwellings seeking approval of the access, appearance, landscaping, layout and scale",2017-11-03,2017-11-03,

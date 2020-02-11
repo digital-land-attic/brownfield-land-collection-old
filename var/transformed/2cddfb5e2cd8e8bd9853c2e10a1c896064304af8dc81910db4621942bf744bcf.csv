@@ -1,22 +1,8 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
-2017-11-13,national-park-authority:Q27178932,S/05/2,"Bronte House, Crookenden House and Garner House, Casterton School, Casterton",http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0008/977309/Casterton.pdf,yes,not owned by a public authority,permissioned,full planning permission,,54.21189,-2.57899,0.67,,,2017-11-13,,"
-Conversion - 17 units - open market - affordable housing sum payable
-",2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
-2017-11-13,national-park-authority:Q27178932,R/31/23F,"The Stables, Marske",http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0006/977316/Stables-Marske.pdf,yes,not owned by a public authority,permissioned,full planning permission,,54.39813,-1.84286,0.3,,,2017-11-13,,"
-Conversion - 9 units - local occupancy or holiday letting restricted
-",2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
-2017-11-13,national-park-authority:Q27178932,C/04/41G,"Town Head Garage, Town Head Lane, Austwick",http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0007/977317/Townhead-Austwick.pdf,yes,not owned by a public authority,permissioned,full planning permission,,54.11445,-2.35448,0.15,,,2017-11-13,,"
-New build - 5 units - local occupancy restriction
-",2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
-2017-11-13,national-park-authority:Q27178932,C/52/56C,"Green Gates, Long Preston",http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0010/977311/Greengate-Long-P.pdf,yes,not owned by a public authority,permissioned,full planning permission,,54.02097,-2.25404,0.31,,,2017-11-13,,"
-New build - 13 units - 6 affordable with local occupancy restriction - 7 open market
-",2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
-2017-11-13,national-park-authority:Q27178932,S/03/606,"Kings Yard, Bainbridge Road, Sedbergh",http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0011/977312/Kings-Yard-Sedbergh.pdf,yes,not owned by a public authority,permissioned,full planning permission,,54.32418,-2.52824,0.14,,,2017-11-13,,"
-New build - 5 units - local occupancy restriction
-",2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
-2017-11-13,national-park-authority:Q27178932,S/03/148D,"37-39 Main Street, Sedbergh",http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0003/977313/Main-St-Sedbergh.pdf,yes,not owned by a public authority,not permissioned,,,54.32347,-2.52767,0.05,,,2017-11-13,,"
-
-",2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
-2017-11-13,national-park-authority:Q27178932,211,"East of Park Lea, Reeth",http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0005/977315/Park-Lea-Reeth.pdf,,not owned by a public authority,not permissioned,,,54.38788,-1.94089,0.21,,,2017-11-13,,"
-
-",2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
+2017-11-13,national-park-authority:Q27178932,S/05/2,"Bronte House, Crookenden House and Garner House, Casterton School, Casterton",http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0008/977309/Casterton.pdf,yes,not owned by a public authority,permissioned,full planning permission,,54.21189,-2.57899,0.67,,,2017-11-13,,Conversion - 17 units - open market - affordable housing sum payable,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
+2017-11-13,national-park-authority:Q27178932,R/31/23F,"The Stables, Marske",http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0006/977316/Stables-Marske.pdf,yes,not owned by a public authority,permissioned,full planning permission,,54.39813,-1.84286,0.3,,,2017-11-13,,Conversion - 9 units - local occupancy or holiday letting restricted,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
+2017-11-13,national-park-authority:Q27178932,C/04/41G,"Town Head Garage, Town Head Lane, Austwick",http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0007/977317/Townhead-Austwick.pdf,yes,not owned by a public authority,permissioned,full planning permission,,54.11445,-2.35448,0.15,,,2017-11-13,,New build - 5 units - local occupancy restriction,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
+2017-11-13,national-park-authority:Q27178932,C/52/56C,"Green Gates, Long Preston",http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0010/977311/Greengate-Long-P.pdf,yes,not owned by a public authority,permissioned,full planning permission,,54.02097,-2.25404,0.31,,,2017-11-13,,New build - 13 units - 6 affordable with local occupancy restriction - 7 open market,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
+2017-11-13,national-park-authority:Q27178932,S/03/606,"Kings Yard, Bainbridge Road, Sedbergh",http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0011/977312/Kings-Yard-Sedbergh.pdf,yes,not owned by a public authority,permissioned,full planning permission,,54.32418,-2.52824,0.14,,,2017-11-13,,New build - 5 units - local occupancy restriction,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
+2017-11-13,national-park-authority:Q27178932,S/03/148D,"37-39 Main Street, Sedbergh",http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0003/977313/Main-St-Sedbergh.pdf,yes,not owned by a public authority,not permissioned,,,54.32347,-2.52767,0.05,,,2017-11-13,,,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf
+2017-11-13,national-park-authority:Q27178932,211,"East of Park Lea, Reeth",http://www.yorkshiredales.org.uk/__data/assets/pdf_file/0005/977315/Park-Lea-Reeth.pdf,,not owned by a public authority,not permissioned,,,54.38788,-1.94089,0.21,,,2017-11-13,,,2cddfb5e2cd8e8bd9853c2e10a1c896064304af8dc81910db4621942bf744bcf

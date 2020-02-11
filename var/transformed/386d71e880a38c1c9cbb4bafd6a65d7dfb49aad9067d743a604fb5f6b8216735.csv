@@ -1,433 +1,198 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
-2017-12-31,local-authority-eng:WKF,BLR17003,"Land off Cambridge Street, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442937&y=425514&zoom=10,,,not permissioned,,,53.72427,-1.350755,0.31,57,57,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17005,"Sartek Uk Ltd Savile Road, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442889&y=425493&zoom=10,,,not permissioned,,,53.724085,-1.351485,0.15,40,40,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17006,"1-3 Vickers Street, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442951&y=425579&zoom=10,,,not permissioned,,,53.724853,-1.350533,0.03,7,7,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17007,"Castleford Tigers Ground, Wheldon Road, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=443634&y=426112&zoom=10,,,not permissioned,,,53.729587,-1.340108,3.85,105,105,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17008,"Land at Pemberton Drive, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=444785&y=425750&zoom=10,,owned by a public authority,not permissioned,,,53.726236,-1.322716,2.19,87,87,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17009,"Land at Saxon Way, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=444511&y=425819&zoom=10,,owned by a public authority,not permissioned,,,53.72688,-1.326858,6.07,242,242,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17010,"Former C6 Solutions Centre, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=443343&y=426440&zoom=10,,,not permissioned,,,53.732559,-1.344473,37.15,300,300,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17012,"Bus Depot Wheldon Road, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=443197&y=425897&zoom=10,,,not permissioned,,,53.727691,-1.346761,1.39,55,55,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17013,"Nestle Site, Wheldon Road, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=443302&y=425971&zoom=10,,,not permissioned,,,53.728347,-1.34516,3.47,155,155,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17014,"The Old Vicarage, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=440362&y=424421&zoom=10,,,not permissioned,,,53.714652,-1.389919,0.26,5,5,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17003,"Land off Cambridge Street, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442937&y=425514&zoom=10,,,not permissioned,,,53.72427,-1.350755,0.31,57,57,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17005,"Sartek Uk Ltd Savile Road, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442889&y=425493&zoom=10,,,not permissioned,,,53.724085,-1.351485,0.15,40,40,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17006,"1-3 Vickers Street, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442951&y=425579&zoom=10,,,not permissioned,,,53.724853,-1.350533,0.03,7,7,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17007,"Castleford Tigers Ground, Wheldon Road, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=443634&y=426112&zoom=10,,,not permissioned,,,53.729587,-1.340108,3.85,105,105,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17008,"Land at Pemberton Drive, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=444785&y=425750&zoom=10,,owned by a public authority,not permissioned,,,53.726236,-1.322716,2.19,87,87,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17009,"Land at Saxon Way, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=444511&y=425819&zoom=10,,owned by a public authority,not permissioned,,,53.72688,-1.326858,6.07,242,242,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17010,"Former C6 Solutions Centre, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=443343&y=426440&zoom=10,,,not permissioned,,,53.732559,-1.344473,37.15,300,300,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17012,"Bus Depot Wheldon Road, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=443197&y=425897&zoom=10,,,not permissioned,,,53.727691,-1.346761,1.39,55,55,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17013,"Nestle Site, Wheldon Road, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=443302&y=425971&zoom=10,,,not permissioned,,,53.728347,-1.34516,3.47,155,155,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17014,"The Old Vicarage, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=440362&y=424421&zoom=10,,,not permissioned,,,53.714652,-1.389919,0.26,5,5,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17015,"194 Holywell Lane, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=444891&y=424738&zoom=10,yes,,permissioned,full planning permission,,53.717132,-1.321256,0.2,,,2017-12-31,,"14/00545/FUL
-Erection of 5no new dwellings, demolition of extension and outbuildings and associated works
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Erection of 5no new dwellings, demolition of extension and outbuildings and associated works",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17016,"Holy Cross Parochial Church The Mount, Airedale, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445154&y=425483&zoom=10,yes,,permissioned,full planning permission,,53.723805,-1.317162,0.11,,,2017-12-31,,"14/01047/FUL
-Residential development (6no. dwellings)
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Residential development (6no. dwellings)",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17017,"14, 16, 18 Carlton Street, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=443009&y=425793&zoom=10,yes,,permissioned,full planning permission,,53.726772,-1.349625,0.02,,,2017-12-31,,"12/01261/FUL
-Formation of 6no. one and two bedroom flats at first and second floors
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17018,"Yorkshire Rose PH, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442051&y=424974&zoom=10,,,not permissioned,,,53.719489,-1.364254,0.42,14,14,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17019,"Aire St/Bridge St/Sagar St/ Back Wesley St, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442942&y=425823&zoom=10,,mixed ownership,not permissioned,,,53.727047,-1.350636,0.6,80,80,2017-12-31,,"11/02126/RPP
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Formation of 6no. one and two bedroom flats at first and second floors",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17018,"Yorkshire Rose PH, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442051&y=424974&zoom=10,,,not permissioned,,,53.719489,-1.364254,0.42,14,14,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17019,"Aire St/Bridge St/Sagar St/ Back Wesley St, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442942&y=425823&zoom=10,,mixed ownership,not permissioned,,,53.727047,-1.350636,0.6,80,80,2017-12-31,,11/02126/RPP,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17020,"Leeds Road/Lagentium Plaza (Junction), Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=443422&y=424567&zoom=10,yes,,permissioned,outline planning permission,,53.715719,-1.343537,0.07,,,2017-12-31,,"15/01958/OUT
-Erection of 11no apartments on redundant car park
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Erection of 11no apartments on redundant car park",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17021,"Lumley Street, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=441652&y=424899&zoom=10,yes,,permissioned,outline planning permission,,53.718847,-1.37031,4.64,,,2017-12-31,,"15/00772/OUT
-Demolition of existing buildings and outline application for circa 100 dwellings and construction of a new Childrens and Adolescent Mental Health (CAMHS) care facility including details of proposed vehicular access
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Demolition of existing buildings and outline application for circa 100 dwellings and construction of a new Childrens and Adolescent Mental Health (CAMHS) care facility including details of proposed vehicular access",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17022,"Cinder Lane (former Lambsons site), Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442278&y=426065&zoom=10,yes,,permissioned,outline planning permission,,53.729276,-1.360666,7.86,,,2017-12-31,,"05/99/18971/AW
-Residential development (up to 1337 units) with associated infrastructure; commercial uses (A1 & A3) public open space & leisure facilities (outline)
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17023,"Castleford Waterfront, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442722&y=425922&zoom=10,,mixed ownership,not permissioned,,,53.727955,-1.353957,2.91,5,5,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Residential development (up to 1337 units) with associated infrastructure; commercial uses (A1 & A3) public open space & leisure facilities (outline)",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17023,"Castleford Waterfront, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442722&y=425922&zoom=10,,mixed ownership,not permissioned,,,53.727955,-1.353957,2.91,5,5,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17024,"The New Airedale, Castleford",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=444868&y=424813&zoom=10,yes,,permissioned,full planning permission,,53.717808,-1.321593,0.12,,,2017-12-31,,"16/02954/FUL
-Change of use of ground floor to retail (A1) and first and second floors to residential (C3) (5no. flats), demolition of existing outbuildings to rear, erection of single storey extension to rear and other external alterations
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17029,"R/o 36 Green Lane, Featherstone",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442648&y=420771&zoom=10,,,not permissioned,,,53.681666,-1.355785,0.08,8,8,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Change of use of ground floor to retail (A1) and first and second floors to residential (C3) (5no. flats), demolition of existing outbuildings to rear, erection of single storey extension to rear and other external alterations",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17029,"R/o 36 Green Lane, Featherstone",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442648&y=420771&zoom=10,,,not permissioned,,,53.681666,-1.355785,0.08,8,8,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17030,"Adj Vicarage Street (Site A), Post Office Road, Featherstone",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442773&y=420309&zoom=10,yes,,permissioned,full planning permission,,53.677504,-1.353956,0.1,,,2017-12-31,,"15/01260/FUL
-Residential development (Site B) of 6 houses
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Residential development (Site B) of 6 houses",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17031,"Adj 2 Post office Road (Site B), Featherstone",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442594&y=420340&zoom=10,yes,,permissioned,full planning permission,,53.677797,-1.356662,0.1,,,2017-12-31,,"15/01261/FUL
-Residential development (Site A) of 7 houses.
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Residential development (Site A) of 7 houses.",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17033,"Highways Depot, Hemsworth Lane, Fitzwilliam",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=441101&y=415870&zoom=10,yes,,permissioned,reserved matters approval,,53.637741,-1.379852,0.8,,,2017-12-31,,"16/01399/REM
-Residential development 27no. dwellings (landscaping details pursuant to 13/01949/OUT)
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Residential development 27no. dwellings (landscaping details pursuant to 13/01949/OUT)",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17035,"The Rovers Return, Fitzwilliam",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=441157&y=415584&zoom=10,yes,,permissioned,outline planning permission,,53.635166,-1.379043,0.21,,,2017-12-31,,"15/00269/OUT
-Outline Application for three Townhouses, and four Semi-Detached Houses and one detached house (following demolition of the existing public house)
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Outline Application for three Townhouses, and four Semi-Detached Houses and one detached house (following demolition of the existing public house)",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17036,"Our Lady Of Graces Church & Presbytery, Kinsley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=441753&y=414566&zoom=10,yes,,permissioned,full planning permission,,53.62597,-1.370166,0.28,,,2017-12-31,,"14/02472/FUL
-Residential development (10no. dwellings) including demolition of existing church
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17038,"Health Centre, Highfield Road, Hemsworth",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442842&y=412928&zoom=10,,,not permissioned,,,53.61116,-1.353926,0.21,11,11,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17039,"Union House, 55 Southmoor Road, Hemsworth",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=443020&y=412624&zoom=10,,,not permissioned,,,53.608414,-1.351278,0.05,10,10,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17040,"West End, Hemsworth",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442314&y=413231&zoom=10,,owned by a public authority,not permissioned,,,53.613926,-1.361865,2.32,160,160,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Residential development (10no. dwellings) including demolition of existing church",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17038,"Health Centre, Highfield Road, Hemsworth",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442842&y=412928&zoom=10,,,not permissioned,,,53.61116,-1.353926,0.21,11,11,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17039,"Union House, 55 Southmoor Road, Hemsworth",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=443020&y=412624&zoom=10,,,not permissioned,,,53.608414,-1.351278,0.05,10,10,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17040,"West End, Hemsworth",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442314&y=413231&zoom=10,,owned by a public authority,not permissioned,,,53.613926,-1.361865,2.32,160,160,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17042,"Fire Station, Hemsworth",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=442754&y=413412&zoom=10,yes,,permissioned,full planning permission,,53.615518,-1.35519,0.14,,,2017-12-31,,"16/02066/FUL
-Erection of 5no. houses.
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17043,"The Market Kirkby Road Hemsworth, Hemsworth",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=443046&y=412768&zoom=10,,owned by a public authority,not permissioned,,,53.609706,-1.350865,0.57,17,17,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17044,"Adj Quarry Inn, Quarry Hill, Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=428900&y=418106&zoom=10,,,not permissioned,,,53.658652,-1.564169,0.13,7,7,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17045,"Hawkingcroft Road (land off) Quarry Hill, Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=428718&y=418201&zoom=10,,,not permissioned,,,53.659515,-1.566914,0.34,10,10,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17046,"15 To 21 Westfield Road, & 2 To 4 Jenkin Road, Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=429176&y=418357&zoom=10,,,not permissioned,,,53.660892,-1.559969,0.06,8,8,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17047,"Safeguard House, Millfield Road, Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=430259&y=417633&zoom=10,,,not permissioned,,,53.654324,-1.543652,0.23,7,7,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17048,"Spring Garage, Cluntergate, Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=429822&y=418172&zoom=10,,,not permissioned,,,53.659193,-1.550212,0.05,6,6,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17049,"23 Twitch Hill, Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=429586&y=418298&zoom=10,,,not permissioned,,,53.660339,-1.553771,0.12,13,13,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Erection of 5no. houses.",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17043,"The Market Kirkby Road Hemsworth, Hemsworth",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=443046&y=412768&zoom=10,,owned by a public authority,not permissioned,,,53.609706,-1.350865,0.57,17,17,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17044,"Adj Quarry Inn, Quarry Hill, Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=428900&y=418106&zoom=10,,,not permissioned,,,53.658652,-1.564169,0.13,7,7,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17045,"Hawkingcroft Road (land off) Quarry Hill, Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=428718&y=418201&zoom=10,,,not permissioned,,,53.659515,-1.566914,0.34,10,10,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17046,"15 To 21 Westfield Road, & 2 To 4 Jenkin Road, Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=429176&y=418357&zoom=10,,,not permissioned,,,53.660892,-1.559969,0.06,8,8,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17047,"Safeguard House, Millfield Road, Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=430259&y=417633&zoom=10,,,not permissioned,,,53.654324,-1.543652,0.23,7,7,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17048,"Spring Garage, Cluntergate, Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=429822&y=418172&zoom=10,,,not permissioned,,,53.659193,-1.550212,0.05,6,6,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17049,"23 Twitch Hill, Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=429586&y=418298&zoom=10,,,not permissioned,,,53.660339,-1.553771,0.12,13,13,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17051,"Medlock Road (Land At), Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=429205&y=418440&zoom=10,yes,,permissioned,full planning permission,,53.661637,-1.559523,0.08,,,2017-12-31,,"15/02921/FUL
-Demolition of Existing Garages & Proposed 6 Dwellings.
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Demolition of Existing Garages & Proposed 6 Dwellings.",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17052,"Land at Quarry, Quarry Hill, Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=428808&y=418159&zoom=10,yes,,permissioned,reserved matters approval,,53.659133,-1.565556,0.85,,,2017-12-31,,"16/01374/REM
-Residential development 20no. dwellings (reserved matters detail pursuant to 13/00523/RPP and 16/01408/FUL)
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17053,"R/o Quarry Hill, Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=428784&y=418153&zoom=10,,,not permissioned,,,53.65908,-1.56592,0.16,6,6,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Residential development 20no. dwellings (reserved matters detail pursuant to 13/00523/RPP and 16/01408/FUL)",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17053,"R/o Quarry Hill, Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=428784&y=418153&zoom=10,,,not permissioned,,,53.65908,-1.56592,0.16,6,6,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17055,"16 Spawd Bone Lane, Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=449727&y=423553&zoom=10,yes,,permissioned,full planning permission,,53.706045,-1.248173,0.3,,,2017-12-31,,"16/01436/FUL
-Erection of 12 Dwellings (7 bungalows and 5 two storey dwellings) including Access Road, Associated Parking and Garden Areas
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17056,"Headlands Business Centre, Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=449134&y=423412&zoom=10,,,not permissioned,,,53.704834,-1.257178,0.24,12,12,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17057,"Former British Legion Hall, Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=450309&y=423989&zoom=10,,,not permissioned,,,53.709908,-1.239287,0.05,8,8,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17058,"Racca Green (land at), Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=450444&y=423710&zoom=10,,,not permissioned,,,53.707387,-1.237287,0.14,8,8,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17059,"Former Easdale Foundry Site, Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=450564&y=424132&zoom=10,,,not permissioned,,,53.711168,-1.235401,0.16,8,8,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17060,"Former Quarry Womersley Road, Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=450326&y=423068&zoom=10,,,not permissioned,,,53.701629,-1.239179,7.77,165,165,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Erection of 12 Dwellings (7 bungalows and 5 two storey dwellings) including Access Road, Associated Parking and Garden Areas",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17056,"Headlands Business Centre, Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=449134&y=423412&zoom=10,,,not permissioned,,,53.704834,-1.257178,0.24,12,12,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17057,"Former British Legion Hall, Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=450309&y=423989&zoom=10,,,not permissioned,,,53.709908,-1.239287,0.05,8,8,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17058,"Racca Green (land at), Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=450444&y=423710&zoom=10,,,not permissioned,,,53.707387,-1.237287,0.14,8,8,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17059,"Former Easdale Foundry Site, Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=450564&y=424132&zoom=10,,,not permissioned,,,53.711168,-1.235401,0.16,8,8,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17060,"Former Quarry Womersley Road, Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=450326&y=423068&zoom=10,,,not permissioned,,,53.701629,-1.239179,7.77,165,165,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17061,"Adj 2a Holes Lane, Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=449128&y=423825&zoom=10,yes,,permissioned,full planning permission,,53.708546,-1.257204,0.08,,,2017-12-31,,"06/99/27539/D
-45No dwellings including car parking and landscaping
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17062,"Land at A1 Business Park, Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=448090&y=423412&zoom=10,,,not permissioned,,,53.704931,-1.272992,1.09,32,32,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+45No dwellings including car parking and landscaping",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17062,"Land at A1 Business Park, Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=448090&y=423412&zoom=10,,,not permissioned,,,53.704931,-1.272992,1.09,32,32,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17063,"Holyrood House, Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=449666&y=423553&zoom=10,yes,,permissioned,outline planning permission,,53.706051,-1.249097,0.21,,,2017-12-31,,"15/00520/OUT
-Outline application for 28 unit independent living/sheltered housing facility with associated car parking (Access, Appearance, Layout, Scale).
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17064,"Oxiris Chemical Works and Adjoining Common Lane, Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=451322&y=423490&zoom=10,,,not permissioned,,,53.705325,-1.224024,9.88,395,395,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Outline application for 28 unit independent living/sheltered housing facility with associated car parking (Access, Appearance, Layout, Scale).",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17064,"Oxiris Chemical Works and Adjoining Common Lane, Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=451322&y=423490&zoom=10,,,not permissioned,,,53.705325,-1.224024,9.88,395,395,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17065,"Land at Ferrybridge Road, Knottingley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=449003&y=423774&zoom=10,yes,,permissioned,full planning permission,,53.708099,-1.259105,0.96,,,2017-12-31,,"16/00818/FUL
-Development of the site for 39 dwellings, including engineering operation for removal of limestone fines and imported material, backfill and compacting of the former quarry
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17067,"Stations Area, Normanton",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=438264&y=422907&zoom=10,,,not permissioned,,,53.701202,-1.421892,9.87,409,409,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17068,"152 Castleford Road, Normanton",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=439164&y=423053&zoom=10,,,not permissioned,,,53.702448,-1.408242,0.05,9,9,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Development of the site for 39 dwellings, including engineering operation for removal of limestone fines and imported material, backfill and compacting of the former quarry",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17067,"Stations Area, Normanton",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=438264&y=422907&zoom=10,,,not permissioned,,,53.701202,-1.421892,9.87,409,409,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17068,"152 Castleford Road, Normanton",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=439164&y=423053&zoom=10,,,not permissioned,,,53.702448,-1.408242,0.05,9,9,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17069,"Empire House, 29 Wakefield Road, Normanton",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=438239&y=422548&zoom=10,yes,,permissioned,full planning permission,,53.697977,-1.422315,0.1,,,2017-12-31,,"13/01794/RPP
-Residential Development (12no flats) including partial demolition and extension of existing building (renewal of 09/00330/FUL)
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17070,"Station Road/Normanton Sidings, Normanton",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=438100&y=422807&zoom=10,,,not permissioned,,,53.700315,-1.424389,5.4,142,142,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17072,"Victoria Mills, Ossett",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=427982&y=419456&zoom=10,,,not permissioned,,,53.670835,-1.577938,3.91,117,117,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17073,"Former HETS Site, Ossett",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=428451&y=419078&zoom=10,,,not permissioned,,,53.667412,-1.570874,0.52,14,14,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Residential Development (12no flats) including partial demolition and extension of existing building (renewal of 09/00330/FUL)",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17070,"Station Road/Normanton Sidings, Normanton",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=438100&y=422807&zoom=10,,,not permissioned,,,53.700315,-1.424389,5.4,142,142,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17072,"Victoria Mills, Ossett",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=427982&y=419456&zoom=10,,,not permissioned,,,53.670835,-1.577938,3.91,117,117,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17073,"Former HETS Site, Ossett",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=428451&y=419078&zoom=10,,,not permissioned,,,53.667412,-1.570874,0.52,14,14,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17074,"Ossett Fire Station, Ossett",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=427927&y=420794&zoom=10,yes,,permissioned,outline planning permission,,53.682864,-1.578651,0.35,,,2017-12-31,,"15/01929/OUT
-Outline Residential Development for up to 11 no. dwellings with means of access only and demolition of fire station.
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Outline Residential Development for up to 11 no. dwellings with means of access only and demolition of fire station.",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17075,"Engineering Works, Ossett",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=428616&y=419726&zoom=10,yes,,permissioned,outline planning permission,,53.673227,-1.568318,0.4,,,2017-12-31,,"16/02605/OUT
-Outline planning permission for the erection of 13 No. Dwellings including means of access. The works would also include the demolition of the existing engineering works.
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Outline planning permission for the erection of 13 No. Dwellings including means of access. The works would also include the demolition of the existing engineering works.",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17076,"73 Church Street/Hirstlands Drive, Ossett",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=427465&y=421404&zoom=10,yes,,permissioned,full planning permission,,53.688371,-1.585592,0.42,,,2017-12-31,,"16/01301/FUL
-Construction of 12No dwellings and associated infrastructure
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Construction of 12No dwellings and associated infrastructure",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17077,"Former Chapel Crossley Street, New Sharlston",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=438149&y=420038&zoom=10,yes,,permissioned,outline planning permission,,53.675425,-1.423986,0.17,,,2017-12-31,,"15/02981/OUT
-Erection of residential development (maximum of 6 dwellings) and construction of an access road
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17078,"Nevison Avenue (Land off), Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=446501&y=423087&zoom=10,,,not permissioned,,,53.702153,-1.297109,0.08,6,6,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17079,"Stringer's Garage, Slutwell Lane / Friarwood Lane, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445821&y=421910&zoom=10,,,not permissioned,,,53.691635,-1.307582,0.46,18,18,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Erection of residential development (maximum of 6 dwellings) and construction of an access road",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17078,"Nevison Avenue (Land off), Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=446501&y=423087&zoom=10,,,not permissioned,,,53.702153,-1.297109,0.08,6,6,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17079,"Stringer's Garage, Slutwell Lane / Friarwood Lane, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445821&y=421910&zoom=10,,,not permissioned,,,53.691635,-1.307582,0.46,18,18,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17080,"Prince of Wales Colliery Park Road, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445486&y=422676&zoom=10,yes,,permissioned,outline planning permission,,53.698549,-1.312543,16.86,,,2017-12-31,,"13/01144/OUT
-S73 Variation of conditions from approved application 06/02544/OUT: Condition 5 ( Revised Notional Masterplan);6 ( Revised Notional Masterplan);7(Approved Plans);18 (Proposed 540 dwellings served from Park Road Access); 25 (Details of highway works).
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17081,"Tanshelf Industrial Estate, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445229&y=422210&zoom=10,,mixed ownership,not permissioned,,,53.694383,-1.316503,2.3,60,60,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+S73 Variation of conditions from approved application 06/02544/OUT: Condition 5 ( Revised Notional Masterplan);6 ( Revised Notional Masterplan);7(Approved Plans);18 (Proposed 540 dwellings served from Park Road Access); 25 (Details of highway works).",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17081,"Tanshelf Industrial Estate, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445229&y=422210&zoom=10,,mixed ownership,not permissioned,,,53.694383,-1.316503,2.3,60,60,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17082,"52A Northgate, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445790&y=422155&zoom=10,yes,,permissioned,full planning permission,,53.69384,-1.308015,0.16,,,2017-12-31,,"15/01063/FUL
-Demolition of existing building and erection of 3.no two storey apartment blocks accommodating a total of 14 apartments (7.no one Bed and 7.no two bed) including associated highway works, hard and soft landscaping, parking area, amenity areas, bin storage
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Demolition of existing building and erection of 3.no two storey apartment blocks accommodating a total of 14 apartments (7.no one Bed and 7.no two bed) including associated highway works, hard and soft landscaping, parking area, amenity areas, bin storage",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17084,"31 Market Place, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445630&y=421847&zoom=10,yes,,permissioned,full planning permission,,53.691085,-1.310483,0.06,,,2017-12-31,,"15/03030/FUL
-Change of use of part of ground floor and whole of upper floors to provide residential accommodation (7 no. flats) with associated external alterations and retention of ground floor retail unit
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Change of use of part of ground floor and whole of upper floors to provide residential accommodation (7 no. flats) with associated external alterations and retention of ground floor retail unit",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17085,"Pontefract Barracks Depot, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=444422&y=421358&zoom=10,yes,,permissioned,full planning permission,,53.686794,-1.328845,0.28,,,2017-12-31,,"15/02728/FUL
-Demolition of existing council depot and erection of 6no two bedroom dwellings and 8no 3 bedroom dwellings.
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17086,"Land between Horsefair and Northgate, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445844&y=422145&zoom=10,,,not permissioned,,,53.693745,-1.307199,2.13,61,61,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Demolition of existing council depot and erection of 6no two bedroom dwellings and 8no 3 bedroom dwellings.",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17086,"Land between Horsefair and Northgate, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445844&y=422145&zoom=10,,,not permissioned,,,53.693745,-1.307199,2.13,61,61,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17087,"King Charles II House, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445475&y=421987&zoom=10,yes,,permissioned,other,,53.692357,-1.31281,0.12,,,2017-12-31,,"14/01600/COU
-Change of use from offices (B1a) to residential  (C3)
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17089,"Former Prince of Wales Colliery-Monk Hill Triangle Site, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445266&y=422982&zoom=10,,,not permissioned,,,53.701318,-1.31583,13.55,544,544,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Change of use from offices (B1a) to residential  (C3)",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17089,"Former Prince of Wales Colliery-Monk Hill Triangle Site, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445266&y=422982&zoom=10,,,not permissioned,,,53.701318,-1.31583,13.55,544,544,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17091,"55A Northgate/Back Northgate (Land At), Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445742&y=422222&zoom=10,yes,,permissioned,outline planning permission,,53.694446,-1.308732,0.21,,,2017-12-31,,"16/01291/OUT
-Demolition of existing commercial buildings on site and construction of a three storey building for 14 apartments with associated car parking (landscaping reserved matter for subsequent approval)
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Demolition of existing commercial buildings on site and construction of a three storey building for 14 apartments with associated car parking (landscaping reserved matter for subsequent approval)",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17092,"The Maltings, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445981&y=422000&zoom=10,yes,,permissioned,full planning permission,,53.69243,-1.305146,0.04,,,2017-12-31,,"15/02640/FUL
-Demolition of Former Malt Kiln and construction of 8No 1 and 2 Bed apartments.
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17094,"Former factory Monkhill lane, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=446143&y=423027&zoom=10,,mixed ownership,not permissioned,,,53.701646,-1.30254,2.78,111,111,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17095,"Land at Willowdene Lane, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445515&y=423344&zoom=10,,,not permissioned,,,53.70455,-1.312005,1.34,53,53,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17097,"Former Chequerfield Infant School, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=446939&y=421317&zoom=10,,owned by a public authority,not permissioned,,,53.686206,-1.290742,1.28,51,51,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17099,"Scrapyard, Midland Road, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=446189&y=422097&zoom=10,,,not permissioned,,,53.693283,-1.301982,1.42,57,57,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17100,"Carleton Furniture Works Car Park, Mill Dam Lane, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=446162&y=422564&zoom=10,,,not permissioned,,,53.697483,-1.302321,0.42,16,16,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17101,"Brooklands Crescent (land to rear), Havercroft",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=439739&y=414406&zoom=10,,,not permissioned,,,53.624688,-1.400636,0.34,10,10,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17102,"St George's Church, 99 Cow Lane, Havercroft",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=439615&y=414448&zoom=10,,,not permissioned,,,53.625075,-1.402506,0.11,9,9,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17103,"The Scotsman (land within curtilage) Cow Lane, Havercroft",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=439059&y=414096&zoom=10,,,not permissioned,,,53.621953,-1.410956,0.5,17,17,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17105,"6 Hammer Lane, Sharlston",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=438867&y=419495&zoom=10,,,not permissioned,,,53.670492,-1.413186,0.08,6,6,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17106,"R/o 164 Barnsley Road, South Kirkby",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445968&y=411078&zoom=10,,,not permissioned,,,53.594269,-1.306953,0.27,6,6,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Demolition of Former Malt Kiln and construction of 8No 1 and 2 Bed apartments.",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17094,"Former factory Monkhill lane, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=446143&y=423027&zoom=10,,mixed ownership,not permissioned,,,53.701646,-1.30254,2.78,111,111,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17095,"Land at Willowdene Lane, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445515&y=423344&zoom=10,,,not permissioned,,,53.70455,-1.312005,1.34,53,53,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17097,"Former Chequerfield Infant School, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=446939&y=421317&zoom=10,,owned by a public authority,not permissioned,,,53.686206,-1.290742,1.28,51,51,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17099,"Scrapyard, Midland Road, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=446189&y=422097&zoom=10,,,not permissioned,,,53.693283,-1.301982,1.42,57,57,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17100,"Carleton Furniture Works Car Park, Mill Dam Lane, Pontefract",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=446162&y=422564&zoom=10,,,not permissioned,,,53.697483,-1.302321,0.42,16,16,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17101,"Brooklands Crescent (land to rear), Havercroft",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=439739&y=414406&zoom=10,,,not permissioned,,,53.624688,-1.400636,0.34,10,10,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17102,"St George's Church, 99 Cow Lane, Havercroft",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=439615&y=414448&zoom=10,,,not permissioned,,,53.625075,-1.402506,0.11,9,9,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17103,"The Scotsman (land within curtilage) Cow Lane, Havercroft",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=439059&y=414096&zoom=10,,,not permissioned,,,53.621953,-1.410956,0.5,17,17,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17105,"6 Hammer Lane, Sharlston",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=438867&y=419495&zoom=10,,,not permissioned,,,53.670492,-1.413186,0.08,6,6,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17106,"R/o 164 Barnsley Road, South Kirkby",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445968&y=411078&zoom=10,,,not permissioned,,,53.594269,-1.306953,0.27,6,6,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17107,"Weston Hall Westfield Lane, South Elmsall",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=446805&y=410731&zoom=10,yes,,permissioned,full planning permission,,53.591077,-1.29436,0.16,,,2017-12-31,,"16/01624/FUL
-Demolition of existing dwelling and the erection of 8 no. Dewllings.
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17108,"South Elmsall Fire Station, Barnsley Road, South Elmsall",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=446759&y=411146&zoom=10,,,not permissioned,,,53.59481,-1.294993,0.42,12,12,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17109,"Former Scrap Yard High Street, South Elmsall",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=447939&y=411485&zoom=10,,,not permissioned,,,53.597751,-1.277114,0.98,25,25,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17110,"Cherry Lea, Field Lane, South Elmsall",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=447973&y=411753&zoom=10,,,not permissioned,,,53.600156,-1.276559,2.51,86,86,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Demolition of existing dwelling and the erection of 8 no. Dewllings.",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17108,"South Elmsall Fire Station, Barnsley Road, South Elmsall",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=446759&y=411146&zoom=10,,,not permissioned,,,53.59481,-1.294993,0.42,12,12,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17109,"Former Scrap Yard High Street, South Elmsall",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=447939&y=411485&zoom=10,,,not permissioned,,,53.597751,-1.277114,0.98,25,25,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17110,"Cherry Lea, Field Lane, South Elmsall",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=447973&y=411753&zoom=10,,,not permissioned,,,53.600156,-1.276559,2.51,86,86,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17111,"Trigot Court, South Kirkby",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445473&y=411413&zoom=10,yes,,permissioned,full planning permission,,53.597323,-1.314383,0.63,,,2017-12-31,,"15/01658/FUL
-Demolition of existing residential complex and erection of  20 no. affordable dwellings and associated car parking.
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Demolition of existing residential complex and erection of  20 no. affordable dwellings and associated car parking.",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17112,"Diamond Jubilee Club, South Kirkby",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=444866&y=410984&zoom=10,yes,,permissioned,outline planning permission,,53.593519,-1.323615,0.1,,,2017-12-31,,"16/01115/OUT
-Demolition of existing building and redevelopment of the site with five townhouses (outline including access, appearance, layout and scale).
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Demolition of existing building and redevelopment of the site with five townhouses (outline including access, appearance, layout and scale).",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17113,"Mill Lane WMC, South Kirkby",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=444511&y=410564&zoom=10,yes,,permissioned,outline planning permission,,53.589775,-1.329038,0.36,,,2017-12-31,,"16/00737/OUT
-Demolition of existing working mens club and staff house and residential development of up to 14no. dwellings with access off Mill Lane
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17118,"Land at Grove Drive, South Kirkby",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=444968&y=410907&zoom=10,,owned by a public authority,not permissioned,,,53.592819,-1.322085,0.19,15,15,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17119,"Former Burntwood Junior and Infant School, Church Top, South Kirkby",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445476&y=410512&zoom=10,,,not permissioned,,,53.589225,-1.314469,0.79,24,24,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17120,"Former Fox Inn, South Hiendley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=439668&y=412757&zoom=10,,,not permissioned,,,53.609873,-1.401919,0.27,10,10,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Demolition of existing working mens club and staff house and residential development of up to 14no. dwellings with access off Mill Lane",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17118,"Land at Grove Drive, South Kirkby",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=444968&y=410907&zoom=10,,owned by a public authority,not permissioned,,,53.592819,-1.322085,0.19,15,15,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17119,"Former Burntwood Junior and Infant School, Church Top, South Kirkby",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=445476&y=410512&zoom=10,,,not permissioned,,,53.589225,-1.314469,0.79,24,24,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17120,"Former Fox Inn, South Hiendley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=439668&y=412757&zoom=10,,,not permissioned,,,53.609873,-1.401919,0.27,10,10,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17121,"1 Bolus Lane, Outwood",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432972&y=423735&zoom=10,yes,,permissioned,full planning permission,,53.709004,-1.501959,0.17,,,2017-12-31,,"05/99/46598/H
-Demolition of existing factory unit/offices & replacement by 16No. flats
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17122,"Newton House, Grey Street, Outwood",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432857&y=423293&zoom=10,,,not permissioned,,,53.705038,-1.503748,0.16,7,7,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Demolition of existing factory unit/offices & replacement by 16No. flats",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17122,"Newton House, Grey Street, Outwood",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432857&y=423293&zoom=10,,,not permissioned,,,53.705038,-1.503748,0.16,7,7,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17123,"Sunnyvilla, Park View, Outwood",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433307&y=424798&zoom=10,yes,,permissioned,full planning permission,,53.718537,-1.49677,0.06,,,2017-12-31,,"16/01505/FUL
-Demolition of existing dwelling and construction of 8no apartments.
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17125,"1 Westfield Terrace, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433124&y=421615&zoom=10,,,not permissioned,,,53.68994,-1.499882,0.03,9,9,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17126,"R/o 35 Flanshaw Lane, Alverthorpe, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=431048&y=421335&zoom=10,,,not permissioned,,,53.687551,-1.531345,0.4,37,37,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17127,"Flanshaw Hotel, Flanshaw Lane, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=431237&y=420672&zoom=10,,,not permissioned,,,53.68158,-1.52855,0.18,10,10,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17128,"Radcliffe Place, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433164&y=420906&zoom=10,,,not permissioned,,,53.683565,-1.499352,0.29,9,9,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17129,"Kirkgate (Kirkgate / Sun Lane), Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433601&y=420739&zoom=10,,owned by a public authority,not permissioned,,,53.682037,-1.492754,0.28,14,14,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17130,"Providence Street, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433218&y=421068&zoom=10,,,not permissioned,,,53.685018,-1.498517,0.23,12,12,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Demolition of existing dwelling and construction of 8no apartments.",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17125,"1 Westfield Terrace, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433124&y=421615&zoom=10,,,not permissioned,,,53.68994,-1.499882,0.03,9,9,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17126,"R/o 35 Flanshaw Lane, Alverthorpe, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=431048&y=421335&zoom=10,,,not permissioned,,,53.687551,-1.531345,0.4,37,37,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17127,"Flanshaw Hotel, Flanshaw Lane, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=431237&y=420672&zoom=10,,,not permissioned,,,53.68158,-1.52855,0.18,10,10,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17128,"Radcliffe Place, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433164&y=420906&zoom=10,,,not permissioned,,,53.683565,-1.499352,0.29,9,9,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17129,"Kirkgate (Kirkgate / Sun Lane), Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433601&y=420739&zoom=10,,owned by a public authority,not permissioned,,,53.682037,-1.492754,0.28,14,14,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17130,"Providence Street, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433218&y=421068&zoom=10,,,not permissioned,,,53.685018,-1.498517,0.23,12,12,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17131,"18 St John's North, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432813&y=421502&zoom=10,yes,,permissioned,full planning permission,,53.688944,-1.504603,0.03,,,2017-12-31,,"15/01110/FUL
-Conversion of buildings from offices to 13 no. flats.
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17132,"Ings Road (former Crown works site), Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433607&y=420324&zoom=10,,,not permissioned,,,53.678306,-1.492708,0.51,154,154,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17133,"4 College Grove View, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433256&y=421556&zoom=10,,,not permissioned,,,53.689402,-1.49789,0.02,5,5,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17134,"West end of West Street, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=431931&y=420176&zoom=10,,,not permissioned,,,53.677081,-1.518094,0.11,9,9,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Conversion of buildings from offices to 13 no. flats.",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17132,"Ings Road (former Crown works site), Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433607&y=420324&zoom=10,,,not permissioned,,,53.678306,-1.492708,0.51,154,154,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17133,"4 College Grove View, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433256&y=421556&zoom=10,,,not permissioned,,,53.689402,-1.49789,0.02,5,5,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17134,"West end of West Street, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=431931&y=420176&zoom=10,,,not permissioned,,,53.677081,-1.518094,0.11,9,9,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17135,"The Old Mill Hollingthorpe Lane, Hall Green, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=431345&y=415046&zoom=10,yes,,permissioned,outline planning permission,,53.631008,-1.527481,0.22,,,2017-12-31,,"15/02331/OUT
-Outline residential development for up to 6 dwellings (all other matters reserved) and demolition of buildings.
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17136,"Former Flanshaw Children's Centre, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=430775&y=420799&zoom=10,,owned by a public authority,not permissioned,,,53.682749,-1.535532,1.92,77,77,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17137,"Former Warburton's, Westgate End, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432295&y=420518&zoom=10,,,not permissioned,,,53.680132,-1.512549,0.75,30,30,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17138,"Former Clayton Hospital, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432910&y=421398&zoom=10,,,not permissioned,,,53.688003,-1.503145,1.62,122,122,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17139,"Registry of Deeds, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432799&y=421171&zoom=10,,,not permissioned,,,53.68597,-1.50485,0.32,20,20,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17140,"Eagle Grove, Flanshaw, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=430965&y=420935&zoom=10,,mixed ownership,not permissioned,,,53.68396,-1.532642,1.23,49,49,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17141,"Sirdar, Flanshaw Lane, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=431067&y=421112&zoom=10,,,not permissioned,,,53.685545,-1.53108,6.54,262,262,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17142,"Victoria Works, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432217&y=420998&zoom=10,,,not permissioned,,,53.684451,-1.51368,0.18,20,20,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17143,"1-15 Pashley Court, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433754&y=420639&zoom=10,,,not permissioned,,,53.681128,-1.490448,0.06,5,5,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Outline residential development for up to 6 dwellings (all other matters reserved) and demolition of buildings.",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17136,"Former Flanshaw Children's Centre, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=430775&y=420799&zoom=10,,owned by a public authority,not permissioned,,,53.682749,-1.535532,1.92,77,77,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17137,"Former Warburton's, Westgate End, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432295&y=420518&zoom=10,,,not permissioned,,,53.680132,-1.512549,0.75,30,30,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17138,"Former Clayton Hospital, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432910&y=421398&zoom=10,,,not permissioned,,,53.688003,-1.503145,1.62,122,122,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17139,"Registry of Deeds, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432799&y=421171&zoom=10,,,not permissioned,,,53.68597,-1.50485,0.32,20,20,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17140,"Eagle Grove, Flanshaw, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=430965&y=420935&zoom=10,,mixed ownership,not permissioned,,,53.68396,-1.532642,1.23,49,49,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17141,"Sirdar, Flanshaw Lane, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=431067&y=421112&zoom=10,,,not permissioned,,,53.685545,-1.53108,6.54,262,262,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17142,"Victoria Works, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432217&y=420998&zoom=10,,,not permissioned,,,53.684451,-1.51368,0.18,20,20,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17143,"1-15 Pashley Court, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433754&y=420639&zoom=10,,,not permissioned,,,53.681128,-1.490448,0.06,5,5,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17144,"90-92-94 Horbury Road, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432019&y=420197&zoom=10,yes,,permissioned,outline planning permission,,53.677264,-1.51676,0.09,,,2017-12-31,,"14/00923/OUT
-Residential development (14 apartments) (outline)
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17145,"Adj 144 Flanshaw Lane, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=430969&y=420721&zoom=10,,,not permissioned,,,53.682037,-1.532603,0.14,12,12,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17146,"497 Denby Dale Road Calder Grove, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=430962&y=416917&zoom=10,,,not permissioned,,,53.647847,-1.533087,0.19,9,9,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17147,"Primrose House, Primrose Lane, Calder Grove, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=430709&y=416841&zoom=10,,,not permissioned,,,53.647179,-1.536921,0.14,6,6,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Residential development (14 apartments) (outline)",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17145,"Adj 144 Flanshaw Lane, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=430969&y=420721&zoom=10,,,not permissioned,,,53.682037,-1.532603,0.14,12,12,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17146,"497 Denby Dale Road Calder Grove, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=430962&y=416917&zoom=10,,,not permissioned,,,53.647847,-1.533087,0.19,9,9,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17147,"Primrose House, Primrose Lane, Calder Grove, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=430709&y=416841&zoom=10,,,not permissioned,,,53.647179,-1.536921,0.14,6,6,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17148,"91 Agbrigg Road, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=434340&y=418870&zoom=10,yes,,permissioned,full planning permission,,53.66519,-1.481772,0.25,,,2017-12-31,,"11/00692/FUL
-Sheltered accommodation for people with learning difficulties comprising 6no. 1 bedroom apartments and 2no. 8 bedroom chalet bungalows, access, parking and bin store
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17149,"Belle Vue Stadium, Doncaster Road, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=434531&y=419376&zoom=10,,,not permissioned,,,53.669726,-1.478825,2.53,106,106,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17150,"162-164 Westgate, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432635&y=420610&zoom=10,,,not permissioned,,,53.680938,-1.507392,0.06,6,6,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17153,"Ings Road (South of Ings Road), Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433342&y=420278&zoom=10,,,not permissioned,,,53.67791,-1.496724,5.72,271,271,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17154,"Ings Road (North of Ings Road), Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432974&y=420544&zoom=10,,mixed ownership,not permissioned,,,53.680324,-1.502267,4.86,122,122,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17155,"Jacobs Well Lane, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433747&y=421180&zoom=10,,mixed ownership,not permissioned,,,53.685991,-1.490496,3.61,217,217,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17156,"Waterfront Area, Barnsley Road, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433753&y=419944&zoom=10,,mixed ownership,not permissioned,,,53.674881,-1.490539,2.83,302,302,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Sheltered accommodation for people with learning difficulties comprising 6no. 1 bedroom apartments and 2no. 8 bedroom chalet bungalows, access, parking and bin store",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17149,"Belle Vue Stadium, Doncaster Road, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=434531&y=419376&zoom=10,,,not permissioned,,,53.669726,-1.478825,2.53,106,106,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17150,"162-164 Westgate, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432635&y=420610&zoom=10,,,not permissioned,,,53.680938,-1.507392,0.06,6,6,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17153,"Ings Road (South of Ings Road), Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433342&y=420278&zoom=10,,,not permissioned,,,53.67791,-1.496724,5.72,271,271,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17154,"Ings Road (North of Ings Road), Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432974&y=420544&zoom=10,,mixed ownership,not permissioned,,,53.680324,-1.502267,4.86,122,122,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17155,"Jacobs Well Lane, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433747&y=421180&zoom=10,,mixed ownership,not permissioned,,,53.685991,-1.490496,3.61,217,217,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17156,"Waterfront Area, Barnsley Road, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433753&y=419944&zoom=10,,mixed ownership,not permissioned,,,53.674881,-1.490539,2.83,302,302,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17158,"Kirkgate (south & east of Kirkgate roundabout) Chantry House, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433704&y=420554&zoom=10,yes,,permissioned,other,,53.680367,-1.491214,0.3,,,2017-12-31,,"14/02857/COU
-Change of use from offices (B1) to residential accomodation (C3)
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Change of use from offices (B1) to residential accomodation (C3)",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17159,"Clothiers Arms, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432021&y=420352&zoom=10,yes,,permissioned,full planning permission,,53.678657,-1.516714,0.12,,,2017-12-31,,"15/00678/FUL
-Erection of three storey building comprising 3no. ground floor retail units and 8no.one bedroomed flats with associated parking and access provision (Resubmission - amended from application 14/01321/FUL to incorporate rear extensions and reposition one pa
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Erection of three storey building comprising 3no. ground floor retail units and 8no.one bedroomed flats with associated parking and access provision (Resubmission - amended from application 14/01321/FUL to incorporate rear extensions and reposition one pa",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17160,"St John's Avenue/St John's Mews (land At), Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432632&y=421513&zoom=10,yes,,permissioned,full planning permission,,53.689054,-1.507343,0.09,,,2017-12-31,,"15/02986/FUL
-Erect 5 no dwellings (3no townhouses and one pair of semi-detached dwellings), including demolition of existing lock-up garages (variation to previously approved scheme 14/00481/FUL).
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Erect 5 no dwellings (3no townhouses and one pair of semi-detached dwellings), including demolition of existing lock-up garages (variation to previously approved scheme 14/00481/FUL).",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17163,"Red Hall Avenue (unit 18B), Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432676&y=422811&zoom=10,yes,,permissioned,other,,53.700718,-1.50654,0.98,,,2017-12-31,,"15/01197/COU
-Change of use from B1(a) office to 26 no. apartments.
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Change of use from B1(a) office to 26 no. apartments.",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17164,"Manygates Adult Education Centre, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433808&y=418585&zoom=10,yes,,permissioned,outline planning permission,,53.662664,-1.489854,0.43,,,2017-12-31,,"15/01732/OUT
-To create 14 No. new 3 bedroom semi detached houses and town houses on a windfall site adjacent to the Wakefield Adult Education Service.
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+To create 14 No. new 3 bedroom semi detached houses and town houses on a windfall site adjacent to the Wakefield Adult Education Service.",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17165,"76 Horbury Road (land At), Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432036&y=420214&zoom=10,yes,,permissioned,outline planning permission,,53.677416,-1.516501,0.07,,,2017-12-31,,"15/01819/OUT
-Residential development comprising 9no apartments up to 2.5 storeys including details of access and scale.
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Residential development comprising 9no apartments up to 2.5 storeys including details of access and scale.",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17166,"Bishopgarth, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433097&y=421679&zoom=10,yes,,permissioned,outline planning permission,,53.690517,-1.500284,3.55,,,2017-12-31,,"14/02730/OUT
-Demolition of existing buildings. Outline application for residential development up to 150no. dwellings with means of access
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Demolition of existing buildings. Outline application for residential development up to 150no. dwellings with means of access",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17167,"Former B Power Station Site, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=434929&y=419635&zoom=10,yes,,permissioned,full planning permission,,53.672027,-1.472772,16.64,,,2017-12-31,,"16/01977/FUL
-Full Application for 334 dwellings and associated car parking, garages, access and landscaping, open space and drainage provision, with vehicular access served from Doncaster Road and new junction improvements proposed as part of the Wakefield Eastern Rel
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Full Application for 334 dwellings and associated car parking, garages, access and landscaping, open space and drainage provision, with vehicular access served from Doncaster Road and new junction improvements proposed as part of the Wakefield Eastern Rel",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17168,"8-14 St Johns North, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432839&y=421520&zoom=10,yes,,permissioned,full planning permission,,53.689104,-1.504208,0.09,,,2017-12-31,,"16/02226/FUL
-Change of use of 14 St Johns North from B1 offices to 12 apartments including creation of undercroft parking at ground floor, 3 storey entrance feature and associated works.
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Change of use of 14 St Johns North from B1 offices to 12 apartments including creation of undercroft parking at ground floor, 3 storey entrance feature and associated works.",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17169,"Former Redcats, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=431314&y=419225&zoom=10,yes,,permissioned,full planning permission,,53.66857,-1.52753,3.56,,,2017-12-31,,"15/02888/FUL
-Residential development 96no. dwellings, revised access to golf club and associated works
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17174,"Merchantgate Cliffe Lane, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432811&y=420907&zoom=10,yes,,permissioned,outline planning permission,,53.683596,-1.504696,0.46,23,23,2017-12-31,,"15/00320/RPP
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17176,"Land to the south of Standbridge Lane, Kettlethorpe, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432524&y=416472&zoom=10,,owned by a public authority,not permissioned,,,53.643753,-1.509504,1.17,43,43,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17177,"Former Springfield Centre St George's Road, Lupset, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=430557&y=419391&zoom=10,,owned by a public authority,not permissioned,,,53.670107,-1.538971,1.11,44,44,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Residential development 96no. dwellings, revised access to golf club and associated works",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17174,"Merchantgate Cliffe Lane, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432811&y=420907&zoom=10,yes,,permissioned,outline planning permission,,53.683596,-1.504696,0.46,23,23,2017-12-31,,15/00320/RPP,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17176,"Land to the south of Standbridge Lane, Kettlethorpe, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432524&y=416472&zoom=10,,owned by a public authority,not permissioned,,,53.643753,-1.509504,1.17,43,43,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17177,"Former Springfield Centre St George's Road, Lupset, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=430557&y=419391&zoom=10,,owned by a public authority,not permissioned,,,53.670107,-1.538971,1.11,44,44,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17178,"Land at Snowhill, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432686&y=422028&zoom=10,yes,owned by a public authority,permissioned,outline planning permission,,53.69368,-1.506471,6.57,,,2017-12-31,,"09/01248/OUT
-Mixed use development of Residential (use class C3), Employment (Use Class B1), ancillary Retail (Use Classes A1, A2, A3, A4, A5), non Residential Institutions (Use Class D1), Assembly and Leisure (Use Class D2), Community Facilities, Recreation and Open
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17179,"Kirkgate (south & east of Kirkgate roundabout), Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433838&y=420456&zoom=10,,mixed ownership,not permissioned,,,53.679478,-1.489196,3.42,151,151,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17180,"Former Walton Junior School, Walton, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=435295&y=417304&zoom=10,,,not permissioned,,,53.651052,-1.467497,0.2,11,11,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Mixed use development of Residential (use class C3), Employment (Use Class B1), ancillary Retail (Use Classes A1, A2, A3, A4, A5), non Residential Institutions (Use Class D1), Assembly and Leisure (Use Class D2), Community Facilities, Recreation and Open",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17179,"Kirkgate (south & east of Kirkgate roundabout), Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=433838&y=420456&zoom=10,,mixed ownership,not permissioned,,,53.679478,-1.489196,3.42,151,151,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17180,"Former Walton Junior School, Walton, Wakefield",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=435295&y=417304&zoom=10,,,not permissioned,,,53.651052,-1.467497,0.2,11,11,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
 2017-12-31,local-authority-eng:WKF,BLR17181,"Beech Farm, Woolley",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=432048&y=413068&zoom=10,yes,,permissioned,full planning permission,,53.613188,-1.517053,0.49,,,2017-12-31,,"13/02901/FUL
-Demolition of dwelling and agricultural buildings; conversion of barn to 1no. dwelling and erection of 7no. new dwellings and garages; alterations to access
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
-2017-12-31,local-authority-eng:WKF,BLR17182,"Tithe Barn Christian Church, Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=429248&y=418325&zoom=10,,,not permissioned,,,53.660601,-1.558883,0.09,10,10,2017-12-31,,"
-
-",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+Demolition of dwelling and agricultural buildings; conversion of barn to 1no. dwelling and erection of 7no. new dwellings and garages; alterations to access",386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735
+2017-12-31,local-authority-eng:WKF,BLR17182,"Tithe Barn Christian Church, Horbury",http://map.wakefield.gov.uk/connect/analyst/?mapcfg=BLregister&x=429248&y=418325&zoom=10,,,not permissioned,,,53.660601,-1.558883,0.09,10,10,2017-12-31,,,386d71e880a38c1c9cbb4bafd6a65d7dfb49aad9067d743a604fb5f6b8216735

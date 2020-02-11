@@ -1,49 +1,17 @@
-OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/redditch,Redditch Borough Council,RBLR1,Matchborough District Centre,-1.896464,52.295719,,1,not owned by a public authority,,not permissioned,other,,,,,yes,"
-Mixed use
-",2016-12-10,2016-12-10,
-http://opendatacommunities.org/id/district-council/redditch,Redditch Borough Council,RBLR2,Loxley Close,-1.899281,52.314367,,0.31,owned by a public authority,,not permissioned,other,,,,,yes,"
-Residential Development
-",2016-12-10,2016-12-10,
-http://opendatacommunities.org/id/district-council/redditch,Redditch Borough Council,RBLR3,"Park House, Town Centre",-1.942497,52.302978,,0.1,not owned by a public authority,,not permissioned,other,,,,,yes,"
-Residential Development
-",2016-12-10,2016-12-10,
-http://opendatacommunities.org/id/district-council/redditch,Redditch Borough Council,RBLR6,"Ashleigh Works, Bromsgrove Road",-1.947113,52.306019,,0.06,not owned by a public authority,,permissioned,full planning permission,2016-12-22,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=OHCODQMU00D00,,,yes,"
-Conversion of units into residential
-",2016-12-10,2016-12-10,
-http://opendatacommunities.org/id/district-council/redditch,Redditch Borough Council,RBLR7,Former Church Hill Medical Centre,-1.906729,52.316297,,0.25,not owned by a public authority,,pending decision,full planning permission,,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=NY7I9VMUMJJ00,,,yes,"
-Residential Apartments
-",2016-12-10,2016-12-10,
-http://opendatacommunities.org/id/district-council/redditch,Redditch Borough Council,RBLR8,Redditch Trades and Labour Club,-1.947773,52.306029,,0.25,not owned by a public authority,,pending decision,full planning permission,,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=O1VDK3MU04I00,,,yes,"
-Residential Apartments
-",2016-12-10,2016-12-10,
-http://opendatacommunities.org/id/district-council/redditch,Redditch Borough Council,RBLR9,"Clive Road, Prospect Hill",-1.940609,52.311006,,0.31,not owned by a public authority,,not permissioned,other,,,,,yes,"
-Residential Development
-",2016-12-10,2016-12-10,
-http://opendatacommunities.org/id/district-council/redditch,Redditch Borough Council,RBLR10,"Land at St.Gregory's Church, Winyates",-1.899639,52.298787,,0.44,not owned by a public authority,,not permissioned,other,,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/simpleSearchResults.do?action=firstPage,,,yes,"
-Residential Development
-",2016-12-10,2016-12-10,
-http://opendatacommunities.org/id/district-council/redditch,Redditch Borough Council,RBLR11,"Jolly Farmer PH, Woodrow Drive",-1.921311,52.28317,,0.43,not owned by a public authority,,not permissioned,other,,,,,yes,"
-Residential Development
-",2016-12-10,2016-12-10,
-http://opendatacommunities.org/id/district-council/redditch,Redditch Borough Council,RBLR12,Former Holyoaks Field First School,-1.947653,52.308159,,0.77,not owned by a public authority,,not permissioned,other,,,,,yes,"
-Residential Development
-",2016-12-10,2016-12-10,
-http://opendatacommunities.org/id/district-council/redditch,Redditch Borough Council,RBLR13,"Millsborough House, Ph2",-1.936219,52.30391,,0.5,not owned by a public authority,,permissioned,full planning permission,2016-04-08,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/simpleSearchResults.do?action=firstPage,,,yes,"
-Residential Apartments
-",2016-12-10,2016-12-10,
-http://opendatacommunities.org/id/district-council/redditch,Redditch Borough Council,RBLR14,Winyates District centre,-1.895127,52.303368,,1,not owned by a public authority,,not permissioned,other,,,,,yes,"
-Mixed use
-",2016-12-10,2016-12-10,
-http://opendatacommunities.org/id/district-council/redditch,Redditch Borough Council,RBLR15,"Victoria Works, Edward Street",-1.946511,52.306612,,1.2,not owned by a public authority,,not permissioned,other,,,,,yes,"
-Residential Development
-",2016-12-10,2016-12-10,
-http://opendatacommunities.org/id/district-council/redditch,Redditch Borough Council,RBLR16,Prospect Hill,-1.938997,52.309998,,1.32,not owned by a public authority,,not permissioned,other,,,,,yes,"
-Residential Development
-",2016-12-10,2016-12-10,
-http://opendatacommunities.org/id/district-council/redditch,Redditch Borough Council,RBLR17,Millfields,-1.940075,52.315339,,1.36,owned by a public authority,,not permissioned,other,,,,,yes,"
-Residential Development
-",2016-12-10,2016-12-10,
-http://opendatacommunities.org/id/district-council/redditch,Redditch Borough Council,RBLR18,Widney House,-1.955047,52.306499,,2.24,not owned by a public authority,,not permissioned,other,,,,,yes,"
-Residential Development
-",2016-12-10,2016-12-10,
+OrganisationURI,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/redditch,RBLR1,Matchborough District Centre,-1.896464,52.295719,,1,not owned by a public authority,,not permissioned,other,,,,,yes,Mixed use,2016-12-10,2016-12-10,
+http://opendatacommunities.org/id/district-council/redditch,RBLR2,Loxley Close,-1.899281,52.314367,,0.31,owned by a public authority,,not permissioned,other,,,,,yes,Residential Development,2016-12-10,2016-12-10,
+http://opendatacommunities.org/id/district-council/redditch,RBLR3,"Park House, Town Centre",-1.942497,52.302978,,0.1,not owned by a public authority,,not permissioned,other,,,,,yes,Residential Development,2016-12-10,2016-12-10,
+http://opendatacommunities.org/id/district-council/redditch,RBLR6,"Ashleigh Works, Bromsgrove Road",-1.947113,52.306019,,0.06,not owned by a public authority,,permissioned,full planning permission,2016-12-22,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=OHCODQMU00D00,,,yes,Conversion of units into residential,2016-12-10,2016-12-10,
+http://opendatacommunities.org/id/district-council/redditch,RBLR7,Former Church Hill Medical Centre,-1.906729,52.316297,,0.25,not owned by a public authority,,pending decision,full planning permission,,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=NY7I9VMUMJJ00,,,yes,Residential Apartments,2016-12-10,2016-12-10,
+http://opendatacommunities.org/id/district-council/redditch,RBLR8,Redditch Trades and Labour Club,-1.947773,52.306029,,0.25,not owned by a public authority,,pending decision,full planning permission,,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=O1VDK3MU04I00,,,yes,Residential Apartments,2016-12-10,2016-12-10,
+http://opendatacommunities.org/id/district-council/redditch,RBLR9,"Clive Road, Prospect Hill",-1.940609,52.311006,,0.31,not owned by a public authority,,not permissioned,other,,,,,yes,Residential Development,2016-12-10,2016-12-10,
+http://opendatacommunities.org/id/district-council/redditch,RBLR10,"Land at St.Gregory's Church, Winyates",-1.899639,52.298787,,0.44,not owned by a public authority,,not permissioned,other,,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/simpleSearchResults.do?action=firstPage,,,yes,Residential Development,2016-12-10,2016-12-10,
+http://opendatacommunities.org/id/district-council/redditch,RBLR11,"Jolly Farmer PH, Woodrow Drive",-1.921311,52.28317,,0.43,not owned by a public authority,,not permissioned,other,,,,,yes,Residential Development,2016-12-10,2016-12-10,
+http://opendatacommunities.org/id/district-council/redditch,RBLR12,Former Holyoaks Field First School,-1.947653,52.308159,,0.77,not owned by a public authority,,not permissioned,other,,,,,yes,Residential Development,2016-12-10,2016-12-10,
+http://opendatacommunities.org/id/district-council/redditch,RBLR13,"Millsborough House, Ph2",-1.936219,52.30391,,0.5,not owned by a public authority,,permissioned,full planning permission,2016-04-08,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/simpleSearchResults.do?action=firstPage,,,yes,Residential Apartments,2016-12-10,2016-12-10,
+http://opendatacommunities.org/id/district-council/redditch,RBLR14,Winyates District centre,-1.895127,52.303368,,1,not owned by a public authority,,not permissioned,other,,,,,yes,Mixed use,2016-12-10,2016-12-10,
+http://opendatacommunities.org/id/district-council/redditch,RBLR15,"Victoria Works, Edward Street",-1.946511,52.306612,,1.2,not owned by a public authority,,not permissioned,other,,,,,yes,Residential Development,2016-12-10,2016-12-10,
+http://opendatacommunities.org/id/district-council/redditch,RBLR16,Prospect Hill,-1.938997,52.309998,,1.32,not owned by a public authority,,not permissioned,other,,,,,yes,Residential Development,2016-12-10,2016-12-10,
+http://opendatacommunities.org/id/district-council/redditch,RBLR17,Millfields,-1.940075,52.315339,,1.36,owned by a public authority,,not permissioned,other,,,,,yes,Residential Development,2016-12-10,2016-12-10,
+http://opendatacommunities.org/id/district-council/redditch,RBLR18,Widney House,-1.955047,52.306499,,2.24,not owned by a public authority,,not permissioned,other,,,,,yes,Residential Development,2016-12-10,2016-12-10,

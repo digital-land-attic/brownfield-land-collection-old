@@ -1,43 +1,15 @@
-OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/bromsgrove,Bromsgrove District Council,BBLR1,"Finstall Training Centre, Stoke Road, Bromsgrove",-2.051541,52.32195,http://www.bromsgrove.gov.uk/media/3409774/BBLR1.pdf,0.48,owned by a public authority,,not permissioned,,,,,,yes,"
-
-",2016-10-10,2016-10-10,
-http://opendatacommunities.org/id/district-council/bromsgrove,Bromsgrove District Council,BBLR10,"Burcot Grange, Burcot",-2.020111,52.346602,http://www.bromsgrove.gov.uk/media/3409801/BBLR10.pdf,2.06,not owned by a public authority,,permissioned,full planning permission,2016-06-13,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=NYBWNHDPJ2U00,,,yes,"
-
-",2016-10-10,2016-10-10,
-http://opendatacommunities.org/id/district-council/bromsgrove,Bromsgrove District Council,BBLR11,"The Uplands, Burcot",-2.019671,52.346971,http://www.bromsgrove.gov.uk/media/3409804/BBLR11.pdf,1.93,not owned by a public authority,,permissioned,full planning permission,2017-06-20,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/simpleSearchResults.do?action=firstPage,,,yes,"
-
-",2017-10-10,2016-10-10,
-http://opendatacommunities.org/id/district-council/bromsgrove,Bromsgrove District Council,BBLR12,"206 Alcester Road, Hollywood",-1.885544,52.385458,http://www.bromsgrove.gov.uk/media/3409807/BBLR12.pdf,0.25,not owned by a public authority,,not permissioned,,,,,,yes,"
-
-",2016-10-10,2016-10-10,
-http://opendatacommunities.org/id/district-council/bromsgrove,Bromsgrove District Council,BBLR13,"The Greyhound, 30 Rock Hill, Bromsgrove, B61 7LR",-2.072674,52.325832,http://www.bromsgrove.gov.uk/media/3409810/BBLR13.pdf,0.28,not owned by a public authority,,not permissioned,other,,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=OURVV5SEKP200,,,yes,"
-
-",2016-10-10,2016-10-10,
-http://opendatacommunities.org/id/district-council/bromsgrove,Bromsgrove District Council,BBLR14,"50, 52 & 54 Rear of Red Lion Street, Alvechurch",-1.96121,52.353628,http://www.bromsgrove.gov.uk/media/3409813/BBLR14.pdf,0.25,not owned by a public authority,,,,,,,,yes,"
-
-",2016-10-10,2016-10-10,
-http://opendatacommunities.org/id/district-council/bromsgrove,Bromsgrove District Council,BBLR2,"All Saints Vicarage, Burcot Lane, Bromsgrove",-2.049876,52.341639,http://www.bromsgrove.gov.uk/media/3409777/BBLR2.pdf,0.25,not owned by a public authority,,not permissioned,,,,,,yes,"
-
-",2016-10-10,2016-10-10,
-http://opendatacommunities.org/id/district-council/bromsgrove,Bromsgrove District Council,BBLR3,"18 Burcot Lane, Bromsgrove",-2.0492,52.341361,http://www.bromsgrove.gov.uk/media/3409780/BBLR3.pdf,0.3,owned by a public authority,,not permissioned,,,,,,yes,"
-
-",2016-10-10,2016-10-10,
-http://opendatacommunities.org/id/district-council/bromsgrove,Bromsgrove District Council,BBLR4,"The Council House, Burcot Lane, Bromsgrove",-2.018215,52.341037,http://www.bromsgrove.gov.uk/media/3409783/BBLR4.pdf,1.213,owned by a public authority,,not permissioned,,,,,,yes,"
-
-",2016-10-10,2016-10-10,
-http://opendatacommunities.org/id/district-council/bromsgrove,Bromsgrove District Council,BBLR5,"The Birches, New Road, Bromsgrove, B60 2LB",-2.050915,52.326554,http://www.bromsgrove.gov.uk/media/3409786/BBLR5.pdf,0.32,owned by a public authority,,not permissioned,,,,,,yes,"
-
-",2016-10-10,2016-10-10,
-http://opendatacommunities.org/id/district-council/bromsgrove,Bromsgrove District Council,BBLR6,"Polymer Latex, Stoke Prior, Bromsgrove",-2.081672,52.494147,http://www.bromsgrove.gov.uk/media/3409789/BBLR6.pdf,8.5,not owned by a public authority,,pending decision,full planning permission,,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=OSMKN6SEJEQ00,,,yes,"
-
-",2016-10-10,2016-10-10,
-http://opendatacommunities.org/id/district-council/bromsgrove,Bromsgrove District Council,BBLR7,"7&9 Worcester Road, Bromsgrove",-2.14913,52.415877,http://www.bromsgrove.gov.uk/media/3409792/BBLR7.pdf,0.239,not owned by a public authority,,not permissioned,,,,,,yes,"
-
-",2016-10-10,2016-10-10,
-http://opendatacommunities.org/id/district-council/bromsgrove,Bromsgrove District Council,BBLR8,"Land off Barnsley Hall Road/Mallow Drive, Bromsgrove",-2.062264,52.351765,http://www.bromsgrove.gov.uk/media/3409795/BBLR8.pdf,1.059,not owned by a public authority,,not permissioned,,,,,,yes,"
-
-",2016-10-10,2016-10-10,
-http://opendatacommunities.org/id/district-council/bromsgrove,Bromsgrove District Council,BBLR9,"Land Adjacent To 145, Perryfields Road Bromsgrove",-2.073191,52.345322,http://www.bromsgrove.gov.uk/media/3409798/BBLR9.pdf,0.27,not owned by a public authority,,permissioned,full planning permission,2017-03-20,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=OKSUUZDPI4Q00,,,yes,"
-
-",2017-10-10,2016-10-10,
+OrganisationURI,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/bromsgrove,BBLR1,"Finstall Training Centre, Stoke Road, Bromsgrove",-2.051541,52.32195,http://www.bromsgrove.gov.uk/media/3409774/BBLR1.pdf,0.48,owned by a public authority,,not permissioned,,,,,,yes,,2016-10-10,2016-10-10,
+http://opendatacommunities.org/id/district-council/bromsgrove,BBLR10,"Burcot Grange, Burcot",-2.020111,52.346602,http://www.bromsgrove.gov.uk/media/3409801/BBLR10.pdf,2.06,not owned by a public authority,,permissioned,full planning permission,2016-06-13,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=NYBWNHDPJ2U00,,,yes,,2016-10-10,2016-10-10,
+http://opendatacommunities.org/id/district-council/bromsgrove,BBLR11,"The Uplands, Burcot",-2.019671,52.346971,http://www.bromsgrove.gov.uk/media/3409804/BBLR11.pdf,1.93,not owned by a public authority,,permissioned,full planning permission,2017-06-20,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/simpleSearchResults.do?action=firstPage,,,yes,,2017-10-10,2016-10-10,
+http://opendatacommunities.org/id/district-council/bromsgrove,BBLR12,"206 Alcester Road, Hollywood",-1.885544,52.385458,http://www.bromsgrove.gov.uk/media/3409807/BBLR12.pdf,0.25,not owned by a public authority,,not permissioned,,,,,,yes,,2016-10-10,2016-10-10,
+http://opendatacommunities.org/id/district-council/bromsgrove,BBLR13,"The Greyhound, 30 Rock Hill, Bromsgrove, B61 7LR",-2.072674,52.325832,http://www.bromsgrove.gov.uk/media/3409810/BBLR13.pdf,0.28,not owned by a public authority,,not permissioned,other,,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=OURVV5SEKP200,,,yes,,2016-10-10,2016-10-10,
+http://opendatacommunities.org/id/district-council/bromsgrove,BBLR14,"50, 52 & 54 Rear of Red Lion Street, Alvechurch",-1.96121,52.353628,http://www.bromsgrove.gov.uk/media/3409813/BBLR14.pdf,0.25,not owned by a public authority,,,,,,,,yes,,2016-10-10,2016-10-10,
+http://opendatacommunities.org/id/district-council/bromsgrove,BBLR2,"All Saints Vicarage, Burcot Lane, Bromsgrove",-2.049876,52.341639,http://www.bromsgrove.gov.uk/media/3409777/BBLR2.pdf,0.25,not owned by a public authority,,not permissioned,,,,,,yes,,2016-10-10,2016-10-10,
+http://opendatacommunities.org/id/district-council/bromsgrove,BBLR3,"18 Burcot Lane, Bromsgrove",-2.0492,52.341361,http://www.bromsgrove.gov.uk/media/3409780/BBLR3.pdf,0.3,owned by a public authority,,not permissioned,,,,,,yes,,2016-10-10,2016-10-10,
+http://opendatacommunities.org/id/district-council/bromsgrove,BBLR4,"The Council House, Burcot Lane, Bromsgrove",-2.018215,52.341037,http://www.bromsgrove.gov.uk/media/3409783/BBLR4.pdf,1.213,owned by a public authority,,not permissioned,,,,,,yes,,2016-10-10,2016-10-10,
+http://opendatacommunities.org/id/district-council/bromsgrove,BBLR5,"The Birches, New Road, Bromsgrove, B60 2LB",-2.050915,52.326554,http://www.bromsgrove.gov.uk/media/3409786/BBLR5.pdf,0.32,owned by a public authority,,not permissioned,,,,,,yes,,2016-10-10,2016-10-10,
+http://opendatacommunities.org/id/district-council/bromsgrove,BBLR6,"Polymer Latex, Stoke Prior, Bromsgrove",-2.081672,52.494147,http://www.bromsgrove.gov.uk/media/3409789/BBLR6.pdf,8.5,not owned by a public authority,,pending decision,full planning permission,,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=OSMKN6SEJEQ00,,,yes,,2016-10-10,2016-10-10,
+http://opendatacommunities.org/id/district-council/bromsgrove,BBLR7,"7&9 Worcester Road, Bromsgrove",-2.14913,52.415877,http://www.bromsgrove.gov.uk/media/3409792/BBLR7.pdf,0.239,not owned by a public authority,,not permissioned,,,,,,yes,,2016-10-10,2016-10-10,
+http://opendatacommunities.org/id/district-council/bromsgrove,BBLR8,"Land off Barnsley Hall Road/Mallow Drive, Bromsgrove",-2.062264,52.351765,http://www.bromsgrove.gov.uk/media/3409795/BBLR8.pdf,1.059,not owned by a public authority,,not permissioned,,,,,,yes,,2016-10-10,2016-10-10,
+http://opendatacommunities.org/id/district-council/bromsgrove,BBLR9,"Land Adjacent To 145, Perryfields Road Bromsgrove",-2.073191,52.345322,http://www.bromsgrove.gov.uk/media/3409798/BBLR9.pdf,0.27,not owned by a public authority,,permissioned,full planning permission,2017-03-20,https://publicaccess.bromsgroveandredditch.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=OKSUUZDPI4Q00,,,yes,,2017-10-10,2016-10-10,

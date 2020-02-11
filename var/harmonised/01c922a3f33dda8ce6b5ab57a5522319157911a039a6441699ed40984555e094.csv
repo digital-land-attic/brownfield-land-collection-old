@@ -1,118 +1,40 @@
-OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR011,"Coton's van Hire / Millfields House, Lichfield Road",-1.712869,52.635352,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR011.pdf,0.66,not owned by a public authority,,not permissioned,,,,,,,"Site allocation in TBC LP 2006-2031
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR039,Co-op filling station,-1.699491,52.629559,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR039.pdf,0.32,not owned by a public authority,,not permissioned,,,,,,,"Site allocation in LP 2006-2031
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR007,Station Car Park off B5404,-1.680263,52.611496,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR007.pdf,0.23,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR010,"Jewsons, Saxon Drive",-1.687781,52.635679,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR010.pdf,0.51,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR005,"Arriva Bus Depot, Aldergate",-1.694985,52.635379,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR005.pdf,0.39,not owned by a public authority,,not permissioned,,,,,,,"Site allocation in TBC LP 2006-2031
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR001,"Phoenix Special Purpose Machines, Hospital Street",-1.697015,52.635747,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR001.pdf,0.31,not owned by a public authority,,not permissioned,,,,,,,"Site allocation in TBC LP 2006-2031
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR008,"Hyundai Garage, Lichfield Street",-1.702254,52.634382,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR008.pdf,0.24,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR004,"Norris Bros, Lichfield Street",-1.699216,52.634251,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR004.pdf,0.2,not owned by a public authority,,not permissioned,,,,,,,"Site allocation in TBC LP 2006-2031
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR002,Land off Cottage Farm Road,-1.681157,52.610778,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR002.pdf,1.5,not owned by a public authority,,not permissioned,,,,,,,"Site allocation in TBC LP 2006-2031
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR009,Factory north of B5404,-1.675176,52.610289,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR009.pdf,0.17,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR003,Derelict buildings south of B5404,-1.681992,52.611262,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR003.pdf,0.17,not owned by a public authority,,not permissioned,,,,,,,"Site allocation in TBC LP 2006-2031.  Lapsed planning permission 0551/2007
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR006,Northern Part of Beauchamp Employment Area,-1.676942,52.611137,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR006.pdf,1.04,not owned by a public authority,,not permissioned,,,,,,,"Site allocation in TBC LP 2006-2031
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR012,Amington Pub,-1.677611,52.632459,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR012.pdf,0.39,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR013,Car Park off Park Farm Road,-1.686562,52.618959,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR013.pdf,0.42,owned by a public authority,,not permissioned,,,,,,,"Site allocation in TBC LP 2006-2031
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR014,Fazeley Autocentre and Units behind,-1.698548,52.622974,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR014.pdf,0.52,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR015,"Sandyback Pub, Overwoods Road",-1.662618,52.601313,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR015.pdf,0.24,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR016,"Staffs County Council Care Home, New Road",-1.6664,52.606859,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR016.pdf,0.5,owned by a public authority,,not permissioned,,,,,,,"Site allocation in TBC LP 2006-2031
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR018,"Seaton Hire Ltd and land to south, Wilnecote Lane",-1.677326,52.615641,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR018.pdf,0.36,not owned by a public authority,,not permissioned,,,,,,,"Site allocation in TBC LP 2006-2031
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR019,"Royal Mail sorting office, Blythe Street",-1.685074,52.628256,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR019.pdf,0.39,mixed ownership,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR020,"Briers Scrapyard, Glascote",-1.678921,52.629539,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR020.pdf,0.31,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR021,"JE Harrison Depot, Moor Lane",-1.682306,52.634188,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR021.pdf,0.15,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR022,Units North of Campion Drive,-1.689229,52.62507,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR022.pdf,0.16,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR023,"Treetops Garage, Dosthill",-1.683806,52.600677,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR023.pdf,0.38,not owned by a public authority,,not permissioned,,,,,,,"Site allocation in TBC LP 2006-2031
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR024,"Club, Spinning School Lane",-1.69317,52.635819,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR024.pdf,0.15,owned by a public authority,,not permissioned,,,,,,,"Site allocation in TBC LP 2006-2031
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR025,"Youth Centre, Albert Road",-1.692722,52.636195,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR025.pdf,0.21,owned by a public authority,,not permissioned,,,,,,,"Site allocation in TBC LP 2006-2031
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR026,"Job Centre, Saxon Mill Lane",-1.689894,52.632666,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR026.pdf,0.19,,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR027,"Former railway goods yard, Wilnecote",-1.680749,52.612989,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR027.pdf,0.86,not owned by a public authority,,not permissioned,,,,,,,"site allocation in TBC LP 2006-2031.  Wilnecote regeneration corridor
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR028,Beauchamp Employment Area,-1.678944,52.611247,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR028.pdf,0.63,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR017,"Profile Wrappers, Marlborough Way",-1.667514,52.625832,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR017.pdf,0.48,not owned by a public authority,,not permissioned,,,,,,,"Now Wake engineering.  Lapsed pp 0289/2008
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR029,"Petrol filling station, part of Beauchamp Employment Area",-1.676404,52.610578,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR029.pdf,0.26,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR030,"Progressive Club, Halford Street",-1.699467,52.634638,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR030.pdf,0.09,not owned by a public authority,,not permissioned,,,,,,,"behind Norris Brothers on Lichfield Street
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR031,Adjacent to Tame Valley Alloys,-1.671011,52.60133,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR031.pdf,0.73,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR032,Solway Close,-1.705751,52.644359,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR032.pdf,0.78,owned by a public authority,,pending decision,,,,,,,"TBC owned.  In LP 25006-2031.  Planning app in with resolution to permit 0424/2015
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR033,"Kettlebrook Road Industrial Estate, South",-1.685056,52.624756,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR033.pdf,1.05,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR034,"The Winning Post Pub, Argyle Street",-1.671804,52.632273,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR034.pdf,0.17,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR035,"WMC, Bowling Green Avenue",-1.668806,52.607151,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR035.pdf,0.7,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR036,Two Gates Working Mens Club,-1.683875,52.611669,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR036.pdf,0.66,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR037,"High Wynard, Highfield Avenue, Amington, Tamworth, B77 3JB",-1.660506,52.633164,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR037.pdf,0.19,not owned by a public authority,,permissioned,,2017-02-08,,,,,"0326/2016
-
-",2017-12-08,2017-12-08,
-http://opendatacommunities.org/id/district-council/tamworth,Tamworth Borough Council,BR038,"10 Colehill, Tamworth, B79 7HE",-1.692466,52.633853,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR038.pdf,0.05,not owned by a public authority,,permissioned,,2016-12-22,,,,,"0467/2016.  Change of use of 4 units on ground floor with A1/A2/A3/B1 use and creation of 5 residential units on first and second floors
-
-",2017-12-08,2017-12-08,
+OrganisationURI,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/tamworth,BR011,"Coton's van Hire / Millfields House, Lichfield Road",-1.712869,52.635352,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR011.pdf,0.66,not owned by a public authority,,not permissioned,,,,,,,Site allocation in TBC LP 2006-2031,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR039,Co-op filling station,-1.699491,52.629559,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR039.pdf,0.32,not owned by a public authority,,not permissioned,,,,,,,Site allocation in LP 2006-2031,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR007,Station Car Park off B5404,-1.680263,52.611496,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR007.pdf,0.23,not owned by a public authority,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR010,"Jewsons, Saxon Drive",-1.687781,52.635679,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR010.pdf,0.51,not owned by a public authority,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR005,"Arriva Bus Depot, Aldergate",-1.694985,52.635379,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR005.pdf,0.39,not owned by a public authority,,not permissioned,,,,,,,Site allocation in TBC LP 2006-2031,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR001,"Phoenix Special Purpose Machines, Hospital Street",-1.697015,52.635747,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR001.pdf,0.31,not owned by a public authority,,not permissioned,,,,,,,Site allocation in TBC LP 2006-2031,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR008,"Hyundai Garage, Lichfield Street",-1.702254,52.634382,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR008.pdf,0.24,not owned by a public authority,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR004,"Norris Bros, Lichfield Street",-1.699216,52.634251,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR004.pdf,0.2,not owned by a public authority,,not permissioned,,,,,,,Site allocation in TBC LP 2006-2031,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR002,Land off Cottage Farm Road,-1.681157,52.610778,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR002.pdf,1.5,not owned by a public authority,,not permissioned,,,,,,,Site allocation in TBC LP 2006-2031,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR009,Factory north of B5404,-1.675176,52.610289,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR009.pdf,0.17,not owned by a public authority,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR003,Derelict buildings south of B5404,-1.681992,52.611262,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR003.pdf,0.17,not owned by a public authority,,not permissioned,,,,,,,Site allocation in TBC LP 2006-2031.  Lapsed planning permission 0551/2007,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR006,Northern Part of Beauchamp Employment Area,-1.676942,52.611137,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR006.pdf,1.04,not owned by a public authority,,not permissioned,,,,,,,Site allocation in TBC LP 2006-2031,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR012,Amington Pub,-1.677611,52.632459,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR012.pdf,0.39,not owned by a public authority,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR013,Car Park off Park Farm Road,-1.686562,52.618959,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR013.pdf,0.42,owned by a public authority,,not permissioned,,,,,,,Site allocation in TBC LP 2006-2031,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR014,Fazeley Autocentre and Units behind,-1.698548,52.622974,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR014.pdf,0.52,not owned by a public authority,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR015,"Sandyback Pub, Overwoods Road",-1.662618,52.601313,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR015.pdf,0.24,not owned by a public authority,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR016,"Staffs County Council Care Home, New Road",-1.6664,52.606859,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR016.pdf,0.5,owned by a public authority,,not permissioned,,,,,,,Site allocation in TBC LP 2006-2031,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR018,"Seaton Hire Ltd and land to south, Wilnecote Lane",-1.677326,52.615641,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR018.pdf,0.36,not owned by a public authority,,not permissioned,,,,,,,Site allocation in TBC LP 2006-2031,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR019,"Royal Mail sorting office, Blythe Street",-1.685074,52.628256,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR019.pdf,0.39,mixed ownership,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR020,"Briers Scrapyard, Glascote",-1.678921,52.629539,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR020.pdf,0.31,not owned by a public authority,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR021,"JE Harrison Depot, Moor Lane",-1.682306,52.634188,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR021.pdf,0.15,not owned by a public authority,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR022,Units North of Campion Drive,-1.689229,52.62507,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR022.pdf,0.16,not owned by a public authority,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR023,"Treetops Garage, Dosthill",-1.683806,52.600677,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR023.pdf,0.38,not owned by a public authority,,not permissioned,,,,,,,Site allocation in TBC LP 2006-2031,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR024,"Club, Spinning School Lane",-1.69317,52.635819,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR024.pdf,0.15,owned by a public authority,,not permissioned,,,,,,,Site allocation in TBC LP 2006-2031,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR025,"Youth Centre, Albert Road",-1.692722,52.636195,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR025.pdf,0.21,owned by a public authority,,not permissioned,,,,,,,Site allocation in TBC LP 2006-2031,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR026,"Job Centre, Saxon Mill Lane",-1.689894,52.632666,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR026.pdf,0.19,,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR027,"Former railway goods yard, Wilnecote",-1.680749,52.612989,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR027.pdf,0.86,not owned by a public authority,,not permissioned,,,,,,,site allocation in TBC LP 2006-2031.  Wilnecote regeneration corridor,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR028,Beauchamp Employment Area,-1.678944,52.611247,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR028.pdf,0.63,not owned by a public authority,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR017,"Profile Wrappers, Marlborough Way",-1.667514,52.625832,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR017.pdf,0.48,not owned by a public authority,,not permissioned,,,,,,,Now Wake engineering.  Lapsed pp 0289/2008,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR029,"Petrol filling station, part of Beauchamp Employment Area",-1.676404,52.610578,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR029.pdf,0.26,not owned by a public authority,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR030,"Progressive Club, Halford Street",-1.699467,52.634638,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR030.pdf,0.09,not owned by a public authority,,not permissioned,,,,,,,behind Norris Brothers on Lichfield Street,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR031,Adjacent to Tame Valley Alloys,-1.671011,52.60133,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR031.pdf,0.73,not owned by a public authority,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR032,Solway Close,-1.705751,52.644359,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR032.pdf,0.78,owned by a public authority,,pending decision,,,,,,,TBC owned.  In LP 25006-2031.  Planning app in with resolution to permit 0424/2015,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR033,"Kettlebrook Road Industrial Estate, South",-1.685056,52.624756,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR033.pdf,1.05,not owned by a public authority,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR034,"The Winning Post Pub, Argyle Street",-1.671804,52.632273,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR034.pdf,0.17,not owned by a public authority,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR035,"WMC, Bowling Green Avenue",-1.668806,52.607151,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR035.pdf,0.7,not owned by a public authority,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR036,Two Gates Working Mens Club,-1.683875,52.611669,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR036.pdf,0.66,not owned by a public authority,,not permissioned,,,,,,,,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR037,"High Wynard, Highfield Avenue, Amington, Tamworth, B77 3JB",-1.660506,52.633164,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR037.pdf,0.19,not owned by a public authority,,permissioned,,2017-02-08,,,,,0326/2016,2017-12-08,2017-12-08,
+http://opendatacommunities.org/id/district-council/tamworth,BR038,"10 Colehill, Tamworth, B79 7HE",-1.692466,52.633853,https://www.tamworth.gov.uk/sites/default/files/planning_docs/brownfield_register/BR038.pdf,0.05,not owned by a public authority,,permissioned,,2016-12-22,,,,,0467/2016.  Change of use of 4 units on ground floor with A1/A2/A3/B1 use and creation of 5 residential units on first and second floors,2017-12-08,2017-12-08,

@@ -1,82 +1,28 @@
-OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,UT019,"Haulage Depot, St Thomas's Road",-1.98558,52.953983,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.4,not owned by a public authority,,not permissioned,,,,,,yes,"
-Haulage Depot
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,LE060,"Churnet Works, Macclesfield Road",-2.037829,53.111071,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,9.9,not owned by a public authority,,permissioned,reserved matters approval,,,,,,"
-Has planning permission for mixed use development
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,LE071A,"Former reservoirs off, Land at Bridge End, Macclesfield Road",-2.040834,53.113255,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,1.1,not owned by a public authority,,permissioned,outline planning permission,,,,,yes,"
-Has outline planning permission for 11 dwellings granted at appeal 5/11/2014
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,LE066,"Kniveden Hall and Springhill, Mount Road",,,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,3.5,owned by a public authority,,not permissioned,,,,,,,"
-Care home in wooded grounds
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,LE073,"Portland Mill, Portland Street",-2.016988,53.107076,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.46,not owned by a public authority,,permissioned,full planning permission,,,,,yes,"
-Conv of mill into 18 townhouses and apartments plus erection of 17 new houses.
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,BD055,"Site of former, Meadows School, Tunstall Road",-2.179966,53.109692,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.66,owned by a public authority,,not permissioned,,,,,,,"
-Former school now derelict
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,BD056,"Uplands Mill, The Uplands",-2.163702,53.122569,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,6.55,not owned by a public authority,,permissioned,outline planning permission,,,,,yes,"
-Residential redevelopment under construction
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,BD070,"Forge Colour Works, Congleton Road",-2.168413,53.135021,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,1.76,,,permissioned,full planning permission,,,,,,"
-Has permission
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,LE089,"Land adjacent to The Orchard, Springfield Drive",-2.008758,53.107958,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.38,,,permissioned,full planning permission,,,,,yes,"
-Has planning permission for residential development
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,OC050,"Former, Anzio Camp, Buxton Road",-1.991426,53.128848,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,9.67,not owned by a public authority,,not permissioned,,,,,,,"
-Former MOD training camp
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,BD102,"Minster Mill, Walley Street",-2.174714,53.118661,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.28,not owned by a public authority,,not permissioned,,,,,,,"
-Underused retail & employment site
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,CH014,"Hurst Yard, Meadow Drive / Bank Street",-1.989264,52.985185,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.95,not owned by a public authority,,permissioned,full planning permission,,,,,yes,"
-Has permission for 42 residential units - all social rented
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,CH015,"Stoddards Depot, Leek Road",-1.986105,52.990209,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.8,not owned by a public authority,,not permissioned,,,,,,,"
-Coach Depot and Oil Depot Yard
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,CH020,"Land north of, The Green",-2.005827,52.984133,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,1.2,not owned by a public authority,,not permissioned,,,,,,,"
-Mixed Use Site
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,LE151,"Compton Mill, Compton Street",-2.02444,53.103578,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.36,not owned by a public authority,,permissioned,full planning permission,,,,,yes,"
-Planning permission for C2 residential institution
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,LE088,"Big Mill, Big Mill, Mill Street",-2.032419,53.107558,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.63,,,permissioned,full planning permission,,,,,yes,"
-Has planning permission for conversion to residential. Shade and Davenport Mill now complete
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,LE079,London Mill Leek,-2.024082,53.104306,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.37,not owned by a public authority,,permissioned,outline planning permission,,,,,yes,"
-Demolition of mill and re-build of 93 apartments (33 sheltered, 40 retirement & 20 apartments)
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,LE260,Hughes concrete Leek,-2.034111,53.094551,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,6.59,not owned by a public authority,,permissioned,outline planning permission,,,,,yes,"
-Resi up to 175 dwellings, open space, play area, live work units, marina (inc LE261)
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,BD075?,"46B, Station Road",-2.176096,53.120403,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.49,,,permissioned,full planning permission,,,,,yes,"
-Conversion of chapel Sunday school to 4no. Flats
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,WR036,"Land off Gold Place, Randles Lane W Rocks",-2.052646,53.0358,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.34,,,permissioned,full planning permission,,,,,yes,"
-Demolition of agricultural buildings and erection of dwelling
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,EN135,"Land and Buildings at, Endon Riding School, Stanley Moss Road",-2.110737,53.067438,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,1.46,,,not permissioned,,,,,,,"
-Operating Equestrian business including indoor arena, ancillary buildings, manege, and landscaping
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,OC067,"Land at, Caverswall Park Farm, Caverswall Lane",-2.082912,52.978414,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,4.2,not owned by a public authority,,permissioned,full planning permission,,,,,yes,"
-Change of Use of existing Offices to 4 dwellings - prior determination and 2 further dwellings
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,OC036,"Highwayman Inn, Alton Road",-1.94232,52.980883,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.84,not owned by a public authority,,permissioned,full planning permission,,,,,yes,"
-Conversion to form 9 dwellings
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,CH012,"Lightwood, Well Street, not highwayman.",-1.983231,52.986038,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.48,,,permissioned,full planning permission,,,,,yes,"
-Has planning permission
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,OC076,coregreenyard scrapyard tenford lane,-1.975292,52.959842,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.73,,,permissioned,full planning permission,,,,,yes,"
-Redevelopment to provide 6 new dwellings
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,OC039,Fole Dairy,-1.936104,52.933219,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,2.18,not owned by a public authority,,permissioned,outline planning permission,,,,,yes,"
-Partial demolition of existing buildings &redevelopment -housing led mixed use
-",2017-12-01,2017-12-01,
-http://opendatacommunities.org/id/district-council/staffordshire-moorlands,Staffordshire Moorlands District Council,BB090,"Land and Buildings at, Blythe Bridge Police Station, 285-291 Uttoxeter Road",-2.068091,52.967358,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.33,owned by a public authority,,not permissioned,,,,,,,"
-Police Station & associated office buildings/rear car parking/front grass. Unclear if still in use
-",2017-12-01,2017-12-01,
+OrganisationURI,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,UT019,"Haulage Depot, St Thomas's Road",-1.98558,52.953983,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.4,not owned by a public authority,,not permissioned,,,,,,yes,Haulage Depot,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,LE060,"Churnet Works, Macclesfield Road",-2.037829,53.111071,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,9.9,not owned by a public authority,,permissioned,reserved matters approval,,,,,,Has planning permission for mixed use development,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,LE071A,"Former reservoirs off, Land at Bridge End, Macclesfield Road",-2.040834,53.113255,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,1.1,not owned by a public authority,,permissioned,outline planning permission,,,,,yes,Has outline planning permission for 11 dwellings granted at appeal 5/11/2014,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,LE066,"Kniveden Hall and Springhill, Mount Road",,,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,3.5,owned by a public authority,,not permissioned,,,,,,,Care home in wooded grounds,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,LE073,"Portland Mill, Portland Street",-2.016988,53.107076,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.46,not owned by a public authority,,permissioned,full planning permission,,,,,yes,Conv of mill into 18 townhouses and apartments plus erection of 17 new houses.,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,BD055,"Site of former, Meadows School, Tunstall Road",-2.179966,53.109692,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.66,owned by a public authority,,not permissioned,,,,,,,Former school now derelict,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,BD056,"Uplands Mill, The Uplands",-2.163702,53.122569,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,6.55,not owned by a public authority,,permissioned,outline planning permission,,,,,yes,Residential redevelopment under construction,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,BD070,"Forge Colour Works, Congleton Road",-2.168413,53.135021,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,1.76,,,permissioned,full planning permission,,,,,,Has permission,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,LE089,"Land adjacent to The Orchard, Springfield Drive",-2.008758,53.107958,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.38,,,permissioned,full planning permission,,,,,yes,Has planning permission for residential development,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,OC050,"Former, Anzio Camp, Buxton Road",-1.991426,53.128848,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,9.67,not owned by a public authority,,not permissioned,,,,,,,Former MOD training camp,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,BD102,"Minster Mill, Walley Street",-2.174714,53.118661,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.28,not owned by a public authority,,not permissioned,,,,,,,Underused retail & employment site,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,CH014,"Hurst Yard, Meadow Drive / Bank Street",-1.989264,52.985185,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.95,not owned by a public authority,,permissioned,full planning permission,,,,,yes,Has permission for 42 residential units - all social rented,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,CH015,"Stoddards Depot, Leek Road",-1.986105,52.990209,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.8,not owned by a public authority,,not permissioned,,,,,,,Coach Depot and Oil Depot Yard,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,CH020,"Land north of, The Green",-2.005827,52.984133,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,1.2,not owned by a public authority,,not permissioned,,,,,,,Mixed Use Site,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,LE151,"Compton Mill, Compton Street",-2.02444,53.103578,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.36,not owned by a public authority,,permissioned,full planning permission,,,,,yes,Planning permission for C2 residential institution,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,LE088,"Big Mill, Big Mill, Mill Street",-2.032419,53.107558,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.63,,,permissioned,full planning permission,,,,,yes,Has planning permission for conversion to residential. Shade and Davenport Mill now complete,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,LE079,London Mill Leek,-2.024082,53.104306,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.37,not owned by a public authority,,permissioned,outline planning permission,,,,,yes,"Demolition of mill and re-build of 93 apartments (33 sheltered, 40 retirement & 20 apartments)",2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,LE260,Hughes concrete Leek,-2.034111,53.094551,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,6.59,not owned by a public authority,,permissioned,outline planning permission,,,,,yes,"Resi up to 175 dwellings, open space, play area, live work units, marina (inc LE261)",2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,BD075?,"46B, Station Road",-2.176096,53.120403,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.49,,,permissioned,full planning permission,,,,,yes,Conversion of chapel Sunday school to 4no. Flats,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,WR036,"Land off Gold Place, Randles Lane W Rocks",-2.052646,53.0358,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.34,,,permissioned,full planning permission,,,,,yes,Demolition of agricultural buildings and erection of dwelling,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,EN135,"Land and Buildings at, Endon Riding School, Stanley Moss Road",-2.110737,53.067438,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,1.46,,,not permissioned,,,,,,,"Operating Equestrian business including indoor arena, ancillary buildings, manege, and landscaping",2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,OC067,"Land at, Caverswall Park Farm, Caverswall Lane",-2.082912,52.978414,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,4.2,not owned by a public authority,,permissioned,full planning permission,,,,,yes,Change of Use of existing Offices to 4 dwellings - prior determination and 2 further dwellings,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,OC036,"Highwayman Inn, Alton Road",-1.94232,52.980883,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.84,not owned by a public authority,,permissioned,full planning permission,,,,,yes,Conversion to form 9 dwellings,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,CH012,"Lightwood, Well Street, not highwayman.",-1.983231,52.986038,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.48,,,permissioned,full planning permission,,,,,yes,Has planning permission,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,OC076,coregreenyard scrapyard tenford lane,-1.975292,52.959842,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.73,,,permissioned,full planning permission,,,,,yes,Redevelopment to provide 6 new dwellings,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,OC039,Fole Dairy,-1.936104,52.933219,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,2.18,not owned by a public authority,,permissioned,outline planning permission,,,,,yes,Partial demolition of existing buildings &redevelopment -housing led mixed use,2017-12-01,2017-12-01,
+http://opendatacommunities.org/id/district-council/staffordshire-moorlands,BB090,"Land and Buildings at, Blythe Bridge Police Station, 285-291 Uttoxeter Road",-2.068091,52.967358,https://www.staffsmoorlands.gov.uk/article/1366/Housing-strategies,0.33,owned by a public authority,,not permissioned,,,,,,,Police Station & associated office buildings/rear car parking/front grass. Unclear if still in use,2017-12-01,2017-12-01,

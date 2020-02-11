@@ -1,52 +1,23 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
-2018-02-28,local-authority-eng:BUN,BURN001,Land at Simpson Street,http://www.burnley.gov.uk/attachments/APP20150048_215%200048%20Amended%20Prop%20Site%20Plan.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,53.784062,-2.31723,0.31,,,2018-01-12,,"
-Planning permission is for the demolition of industrial buildings, construction of 7no. town houses and 12no. apartments including details of layout, scale, access and appearance (landscaping reserved for future approval)
-",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
-2018-02-28,local-authority-eng:BUN,BURN002,Land rear of 7 Southern Avenue,http://www.burnley.gov.uk/attachments/APP20150233_315%200233%20Site%20Plan.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,53.798344,-2.272475,0.23,,,2018-01-12,,"
-Planning permission is for the erection of 5 no. detached dwellings including details of access
-",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
-2018-02-28,local-authority-eng:BUN,BURN003,"Former Library, Barbon Street, Briercliffe Road",http://www.burnley.gov.uk/attachments/APP20140382_314%200382%20Proposed%20Site%20Plan.pdf,yes,owned by a public authority,permissioned,outline planning permission,,53.808181,-2.22471,0.26,,,2018-01-12,,"
-Planning permission for the erection of a single residential dwelling (with all matters reserved for further approval).
-",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
-2018-02-28,local-authority-eng:BUN,BURN004,"Lower Gibfield Farm, Crown Point Road",http://www.burnley.gov.uk/attachments/APP20150064_415%200064%20Drawing%203.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,53.768488,-2.255995,0.3,,,2018-01-12,,"
-Planning permission for the demolition of existing farm cottage and conversion of existing barn to form new dwelling
-",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
-2018-02-28,local-authority-eng:BUN,BURN005,Lambert Howarth,http://www.burnley.gov.uk/attachments/APP20130501_113%200500%20&%200501%20Amended%20Proposed%20Site%20Plan%20Healey%20Royd%20&%20Finsley%20Gate%20Sites.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,53.784426,-2.242949,3.2,100,100,2018-01-12,,"Proposed Housing Allocation in Submission Burnley Local Plan (HS1/6)
-
-",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
-2018-02-28,local-authority-eng:BUN,BURN006,Former AIT Site,http://www.burnley.gov.uk/attachments/APP20140145_014%200145%20Illustrative%20Masterplan.pdf,yes,not owned by a public authority,not permissioned,,,53.785174,-2.268806,1.81,54,54,2018-01-12,,"Proposed Housing Allocation in Submission Burnley Local Plan (HS1/12)
-
-",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
-2018-02-28,local-authority-eng:BUN,BURN007,Former Baxi Site,http://www.burnley.gov.uk/attachments/NOT20170474_0_17%200474%20Demolition%20Works%20Site%20Layout.pdf,yes,mixed ownership,not permissioned,,,53.802634,-2.306442,6.9,205,244,2018-01-12,,"Proposed Housing Allocation in Submission Burnley Local Plan (HS1/5)
-
-",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
+2018-02-28,local-authority-eng:BUN,BURN001,Land at Simpson Street,http://www.burnley.gov.uk/attachments/APP20150048_215%200048%20Amended%20Prop%20Site%20Plan.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,53.784062,-2.31723,0.31,,,2018-01-12,,"Planning permission is for the demolition of industrial buildings, construction of 7no. town houses and 12no. apartments including details of layout, scale, access and appearance (landscaping reserved for future approval)",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
+2018-02-28,local-authority-eng:BUN,BURN002,Land rear of 7 Southern Avenue,http://www.burnley.gov.uk/attachments/APP20150233_315%200233%20Site%20Plan.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,53.798344,-2.272475,0.23,,,2018-01-12,,Planning permission is for the erection of 5 no. detached dwellings including details of access,c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
+2018-02-28,local-authority-eng:BUN,BURN003,"Former Library, Barbon Street, Briercliffe Road",http://www.burnley.gov.uk/attachments/APP20140382_314%200382%20Proposed%20Site%20Plan.pdf,yes,owned by a public authority,permissioned,outline planning permission,,53.808181,-2.22471,0.26,,,2018-01-12,,Planning permission for the erection of a single residential dwelling (with all matters reserved for further approval).,c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
+2018-02-28,local-authority-eng:BUN,BURN004,"Lower Gibfield Farm, Crown Point Road",http://www.burnley.gov.uk/attachments/APP20150064_415%200064%20Drawing%203.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,53.768488,-2.255995,0.3,,,2018-01-12,,Planning permission for the demolition of existing farm cottage and conversion of existing barn to form new dwelling,c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
+2018-02-28,local-authority-eng:BUN,BURN005,Lambert Howarth,http://www.burnley.gov.uk/attachments/APP20130501_113%200500%20&%200501%20Amended%20Proposed%20Site%20Plan%20Healey%20Royd%20&%20Finsley%20Gate%20Sites.pdf,yes,not owned by a public authority,permissioned,outline planning permission,,53.784426,-2.242949,3.2,100,100,2018-01-12,,Proposed Housing Allocation in Submission Burnley Local Plan (HS1/6),c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
+2018-02-28,local-authority-eng:BUN,BURN006,Former AIT Site,http://www.burnley.gov.uk/attachments/APP20140145_014%200145%20Illustrative%20Masterplan.pdf,yes,not owned by a public authority,not permissioned,,,53.785174,-2.268806,1.81,54,54,2018-01-12,,Proposed Housing Allocation in Submission Burnley Local Plan (HS1/12),c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
+2018-02-28,local-authority-eng:BUN,BURN007,Former Baxi Site,http://www.burnley.gov.uk/attachments/NOT20170474_0_17%200474%20Demolition%20Works%20Site%20Layout.pdf,yes,mixed ownership,not permissioned,,,53.802634,-2.306442,6.9,205,244,2018-01-12,,Proposed Housing Allocation in Submission Burnley Local Plan (HS1/5),c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
 2018-02-28,local-authority-eng:BUN,BURN008,George Street Mill,http://www.burnley.gov.uk/attachments/APP20130194_013%200194%20Location%20plan.PDF,,not owned by a public authority,not permissioned,,,53.788686,-2.250105,0.98,,,2018-01-12,,"Proposed Housing Allocation in Submission Burnley Local Plan (HS1/34)
-This would be suitable for B1, C2, C3 and D1 uses
-",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
+This would be suitable for B1, C2, C3 and D1 uses",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
 2018-02-28,local-authority-eng:BUN,BURN009,"Former Dexter Paints, Gannow Lane",http://www.burnley.gov.uk/attachments/APP20150114_315%200114%20Proposed%20Site%20Plan.pdf,yes,not owned by a public authority,permissioned,full planning permission,,53.789624,-2.278569,0.83,,,2018-01-12,,"Proposed Housing Allocation in Submission Burnley Local Plan (HS1/27)
-Planning permission for residential development comprising 27no. Bungalows
-",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
+Planning permission for residential development comprising 27no. Bungalows",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
 2018-02-28,local-authority-eng:BUN,BURN010,"Barden Mill, Barden Lane",http://www.burnley.gov.uk/attachments/app20140031_014%200031%20Amended%20proposed%20site%20plan.pdf,yes,not owned by a public authority,permissioned,full planning permission,,53.810281,-2.242842,0.86,,,2018-01-12,,"Proposed Housing Allocation in Submission Burnley Local Plan (HS1/37)
-Planning permission for redevelopment of existing retail mill site
-",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
+Planning permission for redevelopment of existing retail mill site",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
 2018-02-28,local-authority-eng:BUN,BURN011,Former William Blythe Site,http://www.burnley.gov.uk/attachments/APP20160021_0_16%200021%20Amended%20Proposed%20Site%20Layout%20-%201-500%20Rev%20N.pdf,yes,not owned by a public authority,permissioned,full planning permission,,53.784249,-2.311506,6,,,2018-01-12,,"Proposed Housing Allocation in Submission Burnley Local Plan (HS1/3).  Full planning permission is for a larger site for a total of 202 dwellings.
-151 new houses
-",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
-2018-02-28,local-authority-eng:BUN,BURN012,Land at Burnley General Hospital,,,owned by a public authority,not permissioned,,,53.807582,-2.227403,1.27,64,64,2018-01-12,,"Proposed Housing Allocation in Submission Burnley Local Plan (HS1/11)
-
-",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
-2018-02-28,local-authority-eng:BUN,BURN013,Tay Street,http://www.burnley.gov.uk/attachments/12_0247_Site_Plan.pdf,yes,owned by a public authority,not permissioned,,,53.787583,-2.260673,1.18,35,35,2018-01-12,,"Proposed Housing Allocation in Submission Burnley Local Plan (HS1/16)
-
-",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
-2018-02-28,local-authority-eng:BUN,BURN014,Former Gardner Site,,,owned by a public authority,not permissioned,,,53.785726,-2.264192,1.43,43,43,2018-01-12,,"Proposed Housing Allocation in Submission Burnley Local Plan (HS1/17)
-
-",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
-2018-02-28,local-authority-eng:BUN,BURN015,Livingstone Mill,http://www.burnley.gov.uk/attachments/12_0089_existing_site_plan_&_location_plan.pdf,yes,not owned by a public authority,not permissioned,,,53.80361,-2.243882,0.95,36,36,2018-01-12,,"Proposed Housing Allocation in Submission Burnley Local Plan (HS1/21)
-
-",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
-2018-02-28,local-authority-eng:BUN,BURN016,Land NE of Sycamore Avenue,http://www.burnley.gov.uk/attachments/11_0176_Amemded__Proposed_site_plans.PDF,yes,not owned by a public authority,not permissioned,,,53.790562,-2.273022,0.77,34,34,2018-01-12,,"Proposed Housing Allocation in Submission Burnley Local Plan (HS1/24)
-
-",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
+151 new houses",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
+2018-02-28,local-authority-eng:BUN,BURN012,Land at Burnley General Hospital,,,owned by a public authority,not permissioned,,,53.807582,-2.227403,1.27,64,64,2018-01-12,,Proposed Housing Allocation in Submission Burnley Local Plan (HS1/11),c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
+2018-02-28,local-authority-eng:BUN,BURN013,Tay Street,http://www.burnley.gov.uk/attachments/12_0247_Site_Plan.pdf,yes,owned by a public authority,not permissioned,,,53.787583,-2.260673,1.18,35,35,2018-01-12,,Proposed Housing Allocation in Submission Burnley Local Plan (HS1/16),c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
+2018-02-28,local-authority-eng:BUN,BURN014,Former Gardner Site,,,owned by a public authority,not permissioned,,,53.785726,-2.264192,1.43,43,43,2018-01-12,,Proposed Housing Allocation in Submission Burnley Local Plan (HS1/17),c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
+2018-02-28,local-authority-eng:BUN,BURN015,Livingstone Mill,http://www.burnley.gov.uk/attachments/12_0089_existing_site_plan_&_location_plan.pdf,yes,not owned by a public authority,not permissioned,,,53.80361,-2.243882,0.95,36,36,2018-01-12,,Proposed Housing Allocation in Submission Burnley Local Plan (HS1/21),c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
+2018-02-28,local-authority-eng:BUN,BURN016,Land NE of Sycamore Avenue,http://www.burnley.gov.uk/attachments/11_0176_Amemded__Proposed_site_plans.PDF,yes,not owned by a public authority,not permissioned,,,53.790562,-2.273022,0.77,34,34,2018-01-12,,Proposed Housing Allocation in Submission Burnley Local Plan (HS1/24),c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
 2018-02-28,local-authority-eng:BUN,BURN017,Land at Oswald Street,http://www.burnley.gov.uk/attachments/app20170472_3_17%200472%20revised%20site%20plan.pdf,yes,not owned by a public authority,pending decision,,,53.799301,-2.245481,0.6,8,20,2018-01-12,,"Proposed Housing Allocation in Submission Burnley Local Plan (HS1/29) for 20 houses.
-Planning application for the erection of 8no. five bedroom detached dwellings.
-",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779
+Planning application for the erection of 8no. five bedroom detached dwellings.",c038bcf38e57e999041bd66998883f180d6c25bb70ec17880fdf7c057947b779

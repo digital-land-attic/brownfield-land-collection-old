@@ -1,55 +1,25 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
 2017-11-28,local-authority-eng:MOL,BLR02,,,,,permissioned,other,,,,,,,,,"http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf
-25
-",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
+25",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
 2017-11-28,local-authority-eng:MOL,BLR06,,,,,permissioned,other,,,,,,,,,"http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf|http://www.molevalley.gov.uk/index.cfm?articleid=29385
-25
-",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
+25",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
 2017-11-28,local-authority-eng:MOL,BLR04,,,,,,other,,,,,,,,,"http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf|http://www.molevalley.gov.uk/index.cfm?articleid=29385
-120
-",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
+120",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
 2017-11-28,local-authority-eng:MOL,BLR01,,,,,permissioned,other,,,,,,,,,"http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf
-5
-",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
+5",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
 2017-11-28,local-authority-eng:MOL,BLR05,,,,,,other,,,,,,,,,"http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf|http://www.molevalley.gov.uk/index.cfm?articleid=29385
-95
-",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
-2017-11-28,local-authority-eng:MOL,BLR12,,,,,permissioned,full planning permission,,,,,,,,,"
-8
-",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
-2017-11-28,local-authority-eng:MOL,BLR10,,,,,permissioned,full planning permission,,,,,,,,,"
-8
-",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
-2017-11-28,local-authority-eng:MOL,BLR17,,,,,permissioned,full planning permission,,,,,,,,,"
-12
-",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
-2017-11-28,local-authority-eng:MOL,BLR08,,,,,,full planning permission,,,,,,,,,"
-7
-",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
-2017-11-28,local-authority-eng:MOL,BLR18,,,,,permissioned,full planning permission,,,,,,,,,"
-8
-",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
-2018-12-18,local-authority-eng:MOL,BLR20,,,,,permissioned,full planning permission,,,,,,,,,"
-5
-",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
-2018-12-18,local-authority-eng:MOL,BLR21,,,,,permissioned,full planning permission,,,,,,,,,"
-9
-",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
-2018-12-18,local-authority-eng:MOL,BLR22,,,,,permissioned,full planning permission,,,,,,,,,"
-8
-",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
-,local-authority-eng:MOL,BLR23,,,,,,,,,,,,,,,"
-permissioned
+95",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
+2017-11-28,local-authority-eng:MOL,BLR12,,,,,permissioned,full planning permission,,,,,,,,,8,97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
+2017-11-28,local-authority-eng:MOL,BLR10,,,,,permissioned,full planning permission,,,,,,,,,8,97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
+2017-11-28,local-authority-eng:MOL,BLR17,,,,,permissioned,full planning permission,,,,,,,,,12,97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
+2017-11-28,local-authority-eng:MOL,BLR08,,,,,,full planning permission,,,,,,,,,7,97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
+2017-11-28,local-authority-eng:MOL,BLR18,,,,,permissioned,full planning permission,,,,,,,,,8,97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
+2018-12-18,local-authority-eng:MOL,BLR20,,,,,permissioned,full planning permission,,,,,,,,,5,97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
+2018-12-18,local-authority-eng:MOL,BLR21,,,,,permissioned,full planning permission,,,,,,,,,9,97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
+2018-12-18,local-authority-eng:MOL,BLR22,,,,,permissioned,full planning permission,,,,,,,,,8,97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
+,local-authority-eng:MOL,BLR23,,,,,,,,,,,,,,,"permissioned
 Erect four storey building (including basement) comprising 9 No. residential units with associated landscaping and basement parking.",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
-2018-12-18,local-authority-eng:MOL,BLR24,,,,,permissioned,full planning permission,,,,,,,,,"
-7
-",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
-2018-12-18,local-authority-eng:MOL,BLR26,,,,,permissioned,full planning permission,,,,,,,,,"
-218
-",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
-2018-12-18,local-authority-eng:MOL,BLR27,,,,,permissioned,full planning permission,,,,,,,,,"
-10
-",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
-2018-12-18,local-authority-eng:MOL,BLR28,,,,,permissioned,full planning permission,,,,,,,,,"
-10
-",97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
+2018-12-18,local-authority-eng:MOL,BLR24,,,,,permissioned,full planning permission,,,,,,,,,7,97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
+2018-12-18,local-authority-eng:MOL,BLR26,,,,,permissioned,full planning permission,,,,,,,,,218,97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
+2018-12-18,local-authority-eng:MOL,BLR27,,,,,permissioned,full planning permission,,,,,,,,,10,97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57
+2018-12-18,local-authority-eng:MOL,BLR28,,,,,permissioned,full planning permission,,,,,,,,,10,97eb6c31f21efb200abcfc769025480608f96b40a21e97d423483afa9fa35a57

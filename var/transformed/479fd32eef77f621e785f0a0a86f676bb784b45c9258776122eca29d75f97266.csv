@@ -1,169 +1,59 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
-2017-03-31,local-authority-eng:SOS,BR1,"48 Alexandra Street, Southend-On-Sea, Essex, SS1 1BJ",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.535399,0.710936,0.053,9,9,2017-03-31,,"
-""3 x 1 Bed Houses, 6 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR4,"Car Park Centurion Close, Shoeburyness, Essex, SS3 9UT",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,owned by a public authority,permissioned,full planning permission,,51.539237,0.794553,0.42,9,9,2017-03-31,,"
-""1 x 1 Bed House, 7 x 1 Bed Houses and 1 x 1 Bed House""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR5,"Chartwell House Chartwell Square (Plaza Centre), Southend-On-Sea, Essex, SS2 5SP",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.540552,0.712511,0.189,108,108,2017-03-31,,"
-""73 x 1 Bed Houses and 35 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR6,"Part Of Former Keddies Building And Maitland House Chichester Road, Southend-On-Sea, Essex, SS1 2JY",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.53916,0.713596,0.276,98,98,2017-03-31,,"
-""83 x 1 Bed Houses, 10 x 1 Bed Houses and 5 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR7,"8 (Central House) Clifftown Road, Southend-On-Sea, Essex, SS1 1AB",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.537148,0.712727,0.296,28,28,2017-03-31,,"
-""8 x 1 Bed Houses and 20 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR8,"6 (The Britannia) Eastern Esplanade, Southend-On-Sea, Essex, SS1 2ER",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.532483,0.725024,0.049,9,9,2017-03-31,,"
-""6 x 1 Bed Houses and 4 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR9,"57-59 (The Sarah Moore Public House) Elm Road, Leigh-on-Sea, Essex, SS9 1SP",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.544067,0.654016,0.066,6,6,2017-03-31,,"
-""3 x 1 Bed Houses and 3 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR10,"9 Elmer Approach, Southend-On-Sea, Essex, SS1 1NE",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.538495,0.712014,0.197,140,140,2017-03-31,,"
-""140 x Flats (bedrooms unknown)""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR11,"Venture House (First Floor) Essex Street, Southend-On-Sea, Essex, SS1 2NY",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.540541,0.715698,0.009,1,1,2017-03-31,,"
-""1 x 1 Bed House""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR12,"Venture House (Ground Floor) Essex Street, Southend-On-Sea, Essex, SS1 2NY",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.540541,0.715698,0.009,1,1,2017-03-31,,"
-""1 x 1 Bed House""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR13,"152 (First And Second Floor) Hamlet Court Road, Westcliff-on-Sea, Essex, SS0 7LJ",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.540643,0.6957,0.051,6,6,2017-03-31,,"
-""2 x 1 Bed Houses and 4 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR14,"157 (Mariner House) High Street, Southend-on-Sea, Essex, SS1 1LL",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.538923,0.712169,0.036,5,5,2017-03-31,,"
-""4 x 1 Bed Houses and 1 x 1 Bed House""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR15,"195-197 High Street, Southend-on-Sea, Essex, SS1 1LL",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.539551,0.711875,0.042,6,6,2017-03-31,,"
-""1 x 1 Bed House and 5 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR16,"13-15 (St Hildas School) Imperial Avenue, Westcliff-on-Sea, Essex, SS0 8NE",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.543947,0.685741,0.286,18,18,2017-03-31,,"
-""4 x 1 Bed Houses, 4 x 1 Bed Houses, 9 x 1 Bed Houses and 1 x 1 Bed House""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR17,"177 London Road, Southend-On-Sea, Essex, SS1 1PW",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.540195,0.701904,0.063,8,8,2017-03-31,,"
-""8 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR18,"459 London Road, Westcliff-on-Sea, Essex, SS0 9LG",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.544403,0.69135,0.11,6,6,2017-03-31,,"
-""2 x 1 Bed Houses and 4 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR19,"658 London Road, Westcliff-on-Sea, Essex, SS0 9HQ",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.545445,0.682007,0.063,7,7,2017-03-31,,"
-""3 x 1 Bed Houses and 6 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR20,"1026 London Road, Leigh-on-Sea, Essex, SS9 3NE",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.547554,0.658489,0.016,6,6,2017-03-31,,"
-""5 x 1 Bed Houses and 3 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR21,"13-15 (The Royal Bank Of Scotland) London Road, Southend-On-Sea, Essex, SS1 1PE",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.540391,0.709776,0.035,7,7,2017-03-31,,"
-""4 x 1 Bed Houses and 3 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR22,"659-665 London Road, Westcliff-on-Sea, Essex, SS0 9PD",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.545947,0.682844,0.077,14,14,2017-03-31,,"
-""2 x 1 Bed Houses, 10 x 1 Bed Houses and 4 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR23,"700 (Chalkwell Park House) London Road, Westcliff-on-Sea, Essex, SS0 9HQ",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.54538,0.680128,0.084,6,6,2017-03-31,,"
-""6 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR24,"Marine Plaza Land Between Southchurch Avenue And Pleasant Road Fronting Marine Parade Marine Parade, Southend-On-Sea, Essex, SS1 2EN",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,mixed ownership,permissioned,full planning permission,,51.533607,0.723072,1.104,278,278,2017-03-31,,"
-""128 x 1 Bed Houses, 129 x 1 Bed Houses and 25 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR25,"Unit 6 New Garrison Road, Shoeburyness, Essex, SS3 9BF",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.529405,0.786698,0.213,6,6,2017-03-31,,"
-""6 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR26,"12 Bridge Cottages (Land Adjacent) North Shoebury Road, Shoeburyness, Essex, SS3 8UN",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.535608,0.780386,0.17,5,5,2017-03-31,,"
-""5 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR27,"520-524 (Besafe Ltd) Prince Avenue, Westcliff-on-Sea, Essex, SS0 0ER",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.561459,0.67546,0.242,9,9,2017-03-31,,"
-""1 x 1 Bed House, 7 x 1 Bed Houses and 1 x 1 Bed House""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR28,"97-99 Rochford Road, Southend-On-Sea, Essex, SS2 6SR",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.562324,0.696232,0.15,14,14,2017-03-31,,"
-""2 x 1 Bed Houses and 12 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR29,"15 Royal Terrace, Southend-On-Sea, Essex, SS1 1DY",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.534183,0.712579,0.045,6,6,2017-03-31,,"
-""1 x 1 Bed House, 5 x 1 Bed Houses and 1 x 1 Bed House""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR30,"8 (Terrace Hotel) Royal Terrace, Southend-On-Sea, Essex, SS1 1DY",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.53414,0.713269,0.035,5,5,2017-03-31,,"
-""2 x 1 Bed Houses and 3 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR31,"22 (The Eagle Working Mans Club) Seaview Road, Shoeburyness, Essex, SS3 9DX",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,outline planning permission,,51.530249,0.781472,0.143,8,8,2017-03-31,,"
-""9 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR32,"191 (Grove Court) Southbourne Grove, Westcliff-on-Sea, Essex, SS0 0AA",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.551564,0.678327,0.238,7,7,2017-03-31,,"
-""3 x 1 Bed Houses and 4 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR33,"93-99 (The Southchurch Centre) Southchurch Road, Southend-On-Sea, Essex, SS1 2NL",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.540397,0.715329,0.075,16,16,2017-03-31,,"
-""4 x 1 Bed Houses and 4 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR34,"96 (Acorn Stationers) Southchurch Road, Southend-On-Sea, Essex, SS1 2LX",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.540082,0.716521,0.028,8,8,2017-03-31,,"
-""1 x 1 Bed House, 4 x 1 Bed Houses and 3 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR36,"104-112 Sutton Road, Southend-On-Sea, Essex, SS2 5ER",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.542666,0.719098,0.121,7,7,2017-03-31,,"
-""7 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR37,"77 The Ridgeway, Westcliff-on-Sea, Essex, SS0 8PX",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,reserved matters approval,,51.539122,0.670977,0.07,8,8,2017-03-31,,"
-""9 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR41,"The Esplanade Western Esplanade, Southend-on-Sea, Essex, SS1 1EE",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,mixed ownership,permissioned,full planning permission,,51.533576,0.710034,0.123,22,22,2017-03-31,,"
-""23 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR42,"Prittlebrook Industrial Estate Priory Crescent, Southend-On-Sea, Essex, SS2 6QN",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.557442,0.705913,7.37,172,172,2017-03-31,,"
-""41 x 1 Bed Houses, 46 x 1 Bed Houses, 29 x 1 Bed Houses, 17 x 1 Bed Houses and 39 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR44,"Land Between Barge Pier Road And Ness Road Barge Pier Road/Ness Road, Shoeburyness, Essex",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,mixed ownership,permissioned,outline planning permission,,51.526048,0.783018,9.615,172,172,2017-03-31,,"
-""48 x 1 Bed Houses, 100 x 1 Bed Houses and 24 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR45,"215-215A North Road, Westcliff-on-Sea, Essex, SS0 7AF",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.545468,0.701783,0.103,9,9,2017-03-31,,"
-""2 x 1 Bed Houses and 7 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR46,"Esplanade House Eastern Esplanade, Southend-On-Sea, Essex, SS99 1YY",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.531166,0.729444,1.416,216,216,2017-03-31,,"
-""60 x 1 Bed Houses, 129 x 1 Bed Houses and 27 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR47,"57 York Road, Southend-On-Sea, Essex, SS1 2BZ",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.536512,0.716886,0.017,4,4,2017-03-31,,"
-""5 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR48,"18-20 (Frankie And Bennys) Southchurch Road, Southend-On-Sea, Essex, SS1 2ND",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.539836,0.714315,0.07,16,16,2017-03-31,,"
-""3 x 1 Bed Houses and 13 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR49,"742 (Strand House) Southchurch Road, Southend-On-Sea, Essex, SS1 2PS",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.541374,0.737915,0.059,6,6,2017-03-31,,"
-""4 x 1 Bed Houses and 2 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR50,"105-107 Shakespeare Drive, Westcliff-on-Sea, Essex, SS0 9AE",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,mixed ownership,permissioned,full planning permission,,51.550159,0.699191,0.158,8,8,2017-03-31,,"
-""8 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR51,"20 (Saxon Lodge) Smith Street, Shoeburyness, Essex, SS3 9AL",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.529717,0.793624,0.16,15,15,2017-03-31,,"
-""4 x 1 Bed Houses and 11 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR43,"573 Prince Avenue, Westcliff-on-Sea, Essex, SS0 0JL",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.561558,0.676649,0.242,8,8,2017-03-31,,"
-""2 x 1 Bed Houses, 5 x 1 Bed Houses and 1 x 1 Bed House""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR40,"1373 (Royal Mail Leigh On Sea Delivery Office) London Road, Leigh-on-Sea, Essex, SS9 2AB",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.548734,0.648474,0.084,9,9,2017-03-31,,"
-""1 x 1 Bed House and 8 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR39,"1771 (Orchard Motor Co) London Road, Leigh-on-Sea, Essex, SS9 2ST",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.548628,0.630437,0.074,8,8,2017-03-31,,"
-""8 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR38,"565-569 London Road, Westcliff-on-Sea, Essex, SS0 9PQ",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.545421,0.687357,0.06,9,9,2017-03-31,,"
-""3 x 1 Bed Houses and 6 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR35,"20 (The Bell Hotel And Land Adjacent) Leigh Hill, Leigh-on-Sea, Essex, SS9 2DN",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,reserved matters approval,,51.54009,0.652515,0.19,19,19,2017-03-31,,"
-""5 x 1 Bed Houses, 13 x 1 Bed Houses and 2 x 1 Bed Houses""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,BR3,"67C-67G Hamlet Court Road, Westcliff-on-Sea, Essex, SS0 7EU",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.538742,0.692732,0.041,5,5,2017-03-31,,"
-""4 x 1 Bed Houses and 1 x 1 Bed House""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,PA4.1,Queensway Opportunity Site,http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,mixed ownership,not permissioned,,,51.541037,0.715827,6.139,1080,1320,2017-03-31,,"
-""Proposal site for housing""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,PA7.1,Tylers Avenue Opportunty Site,http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,owned by a public authority,not permissioned,,,51.536476,0.71548,1.814,135,165,2017-03-31,,"
-""Proposal site for housing""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR1,"48 Alexandra Street, Southend-On-Sea, Essex, SS1 1BJ",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.535399,0.710936,0.053,9,9,2017-03-31,,"""3 x 1 Bed Houses, 6 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR4,"Car Park Centurion Close, Shoeburyness, Essex, SS3 9UT",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,owned by a public authority,permissioned,full planning permission,,51.539237,0.794553,0.42,9,9,2017-03-31,,"""1 x 1 Bed House, 7 x 1 Bed Houses and 1 x 1 Bed House""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR5,"Chartwell House Chartwell Square (Plaza Centre), Southend-On-Sea, Essex, SS2 5SP",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.540552,0.712511,0.189,108,108,2017-03-31,,"""73 x 1 Bed Houses and 35 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR6,"Part Of Former Keddies Building And Maitland House Chichester Road, Southend-On-Sea, Essex, SS1 2JY",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.53916,0.713596,0.276,98,98,2017-03-31,,"""83 x 1 Bed Houses, 10 x 1 Bed Houses and 5 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR7,"8 (Central House) Clifftown Road, Southend-On-Sea, Essex, SS1 1AB",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.537148,0.712727,0.296,28,28,2017-03-31,,"""8 x 1 Bed Houses and 20 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR8,"6 (The Britannia) Eastern Esplanade, Southend-On-Sea, Essex, SS1 2ER",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.532483,0.725024,0.049,9,9,2017-03-31,,"""6 x 1 Bed Houses and 4 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR9,"57-59 (The Sarah Moore Public House) Elm Road, Leigh-on-Sea, Essex, SS9 1SP",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.544067,0.654016,0.066,6,6,2017-03-31,,"""3 x 1 Bed Houses and 3 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR10,"9 Elmer Approach, Southend-On-Sea, Essex, SS1 1NE",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.538495,0.712014,0.197,140,140,2017-03-31,,"""140 x Flats (bedrooms unknown)""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR11,"Venture House (First Floor) Essex Street, Southend-On-Sea, Essex, SS1 2NY",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.540541,0.715698,0.009,1,1,2017-03-31,,"""1 x 1 Bed House""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR12,"Venture House (Ground Floor) Essex Street, Southend-On-Sea, Essex, SS1 2NY",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.540541,0.715698,0.009,1,1,2017-03-31,,"""1 x 1 Bed House""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR13,"152 (First And Second Floor) Hamlet Court Road, Westcliff-on-Sea, Essex, SS0 7LJ",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.540643,0.6957,0.051,6,6,2017-03-31,,"""2 x 1 Bed Houses and 4 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR14,"157 (Mariner House) High Street, Southend-on-Sea, Essex, SS1 1LL",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.538923,0.712169,0.036,5,5,2017-03-31,,"""4 x 1 Bed Houses and 1 x 1 Bed House""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR15,"195-197 High Street, Southend-on-Sea, Essex, SS1 1LL",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.539551,0.711875,0.042,6,6,2017-03-31,,"""1 x 1 Bed House and 5 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR16,"13-15 (St Hildas School) Imperial Avenue, Westcliff-on-Sea, Essex, SS0 8NE",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.543947,0.685741,0.286,18,18,2017-03-31,,"""4 x 1 Bed Houses, 4 x 1 Bed Houses, 9 x 1 Bed Houses and 1 x 1 Bed House""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR17,"177 London Road, Southend-On-Sea, Essex, SS1 1PW",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.540195,0.701904,0.063,8,8,2017-03-31,,"""8 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR18,"459 London Road, Westcliff-on-Sea, Essex, SS0 9LG",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.544403,0.69135,0.11,6,6,2017-03-31,,"""2 x 1 Bed Houses and 4 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR19,"658 London Road, Westcliff-on-Sea, Essex, SS0 9HQ",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.545445,0.682007,0.063,7,7,2017-03-31,,"""3 x 1 Bed Houses and 6 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR20,"1026 London Road, Leigh-on-Sea, Essex, SS9 3NE",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.547554,0.658489,0.016,6,6,2017-03-31,,"""5 x 1 Bed Houses and 3 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR21,"13-15 (The Royal Bank Of Scotland) London Road, Southend-On-Sea, Essex, SS1 1PE",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.540391,0.709776,0.035,7,7,2017-03-31,,"""4 x 1 Bed Houses and 3 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR22,"659-665 London Road, Westcliff-on-Sea, Essex, SS0 9PD",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.545947,0.682844,0.077,14,14,2017-03-31,,"""2 x 1 Bed Houses, 10 x 1 Bed Houses and 4 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR23,"700 (Chalkwell Park House) London Road, Westcliff-on-Sea, Essex, SS0 9HQ",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.54538,0.680128,0.084,6,6,2017-03-31,,"""6 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR24,"Marine Plaza Land Between Southchurch Avenue And Pleasant Road Fronting Marine Parade Marine Parade, Southend-On-Sea, Essex, SS1 2EN",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,mixed ownership,permissioned,full planning permission,,51.533607,0.723072,1.104,278,278,2017-03-31,,"""128 x 1 Bed Houses, 129 x 1 Bed Houses and 25 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR25,"Unit 6 New Garrison Road, Shoeburyness, Essex, SS3 9BF",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.529405,0.786698,0.213,6,6,2017-03-31,,"""6 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR26,"12 Bridge Cottages (Land Adjacent) North Shoebury Road, Shoeburyness, Essex, SS3 8UN",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.535608,0.780386,0.17,5,5,2017-03-31,,"""5 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR27,"520-524 (Besafe Ltd) Prince Avenue, Westcliff-on-Sea, Essex, SS0 0ER",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.561459,0.67546,0.242,9,9,2017-03-31,,"""1 x 1 Bed House, 7 x 1 Bed Houses and 1 x 1 Bed House""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR28,"97-99 Rochford Road, Southend-On-Sea, Essex, SS2 6SR",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.562324,0.696232,0.15,14,14,2017-03-31,,"""2 x 1 Bed Houses and 12 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR29,"15 Royal Terrace, Southend-On-Sea, Essex, SS1 1DY",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.534183,0.712579,0.045,6,6,2017-03-31,,"""1 x 1 Bed House, 5 x 1 Bed Houses and 1 x 1 Bed House""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR30,"8 (Terrace Hotel) Royal Terrace, Southend-On-Sea, Essex, SS1 1DY",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.53414,0.713269,0.035,5,5,2017-03-31,,"""2 x 1 Bed Houses and 3 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR31,"22 (The Eagle Working Mans Club) Seaview Road, Shoeburyness, Essex, SS3 9DX",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,outline planning permission,,51.530249,0.781472,0.143,8,8,2017-03-31,,"""9 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR32,"191 (Grove Court) Southbourne Grove, Westcliff-on-Sea, Essex, SS0 0AA",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.551564,0.678327,0.238,7,7,2017-03-31,,"""3 x 1 Bed Houses and 4 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR33,"93-99 (The Southchurch Centre) Southchurch Road, Southend-On-Sea, Essex, SS1 2NL",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.540397,0.715329,0.075,16,16,2017-03-31,,"""4 x 1 Bed Houses and 4 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR34,"96 (Acorn Stationers) Southchurch Road, Southend-On-Sea, Essex, SS1 2LX",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.540082,0.716521,0.028,8,8,2017-03-31,,"""1 x 1 Bed House, 4 x 1 Bed Houses and 3 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR36,"104-112 Sutton Road, Southend-On-Sea, Essex, SS2 5ER",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.542666,0.719098,0.121,7,7,2017-03-31,,"""7 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR37,"77 The Ridgeway, Westcliff-on-Sea, Essex, SS0 8PX",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,reserved matters approval,,51.539122,0.670977,0.07,8,8,2017-03-31,,"""9 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR41,"The Esplanade Western Esplanade, Southend-on-Sea, Essex, SS1 1EE",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,mixed ownership,permissioned,full planning permission,,51.533576,0.710034,0.123,22,22,2017-03-31,,"""23 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR42,"Prittlebrook Industrial Estate Priory Crescent, Southend-On-Sea, Essex, SS2 6QN",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.557442,0.705913,7.37,172,172,2017-03-31,,"""41 x 1 Bed Houses, 46 x 1 Bed Houses, 29 x 1 Bed Houses, 17 x 1 Bed Houses and 39 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR44,"Land Between Barge Pier Road And Ness Road Barge Pier Road/Ness Road, Shoeburyness, Essex",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,mixed ownership,permissioned,outline planning permission,,51.526048,0.783018,9.615,172,172,2017-03-31,,"""48 x 1 Bed Houses, 100 x 1 Bed Houses and 24 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR45,"215-215A North Road, Westcliff-on-Sea, Essex, SS0 7AF",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.545468,0.701783,0.103,9,9,2017-03-31,,"""2 x 1 Bed Houses and 7 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR46,"Esplanade House Eastern Esplanade, Southend-On-Sea, Essex, SS99 1YY",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.531166,0.729444,1.416,216,216,2017-03-31,,"""60 x 1 Bed Houses, 129 x 1 Bed Houses and 27 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR47,"57 York Road, Southend-On-Sea, Essex, SS1 2BZ",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.536512,0.716886,0.017,4,4,2017-03-31,,"""5 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR48,"18-20 (Frankie And Bennys) Southchurch Road, Southend-On-Sea, Essex, SS1 2ND",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.539836,0.714315,0.07,16,16,2017-03-31,,"""3 x 1 Bed Houses and 13 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR49,"742 (Strand House) Southchurch Road, Southend-On-Sea, Essex, SS1 2PS",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,planning permission granted under an order,,51.541374,0.737915,0.059,6,6,2017-03-31,,"""4 x 1 Bed Houses and 2 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR50,"105-107 Shakespeare Drive, Westcliff-on-Sea, Essex, SS0 9AE",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,mixed ownership,permissioned,full planning permission,,51.550159,0.699191,0.158,8,8,2017-03-31,,"""8 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR51,"20 (Saxon Lodge) Smith Street, Shoeburyness, Essex, SS3 9AL",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.529717,0.793624,0.16,15,15,2017-03-31,,"""4 x 1 Bed Houses and 11 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR43,"573 Prince Avenue, Westcliff-on-Sea, Essex, SS0 0JL",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.561558,0.676649,0.242,8,8,2017-03-31,,"""2 x 1 Bed Houses, 5 x 1 Bed Houses and 1 x 1 Bed House""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR40,"1373 (Royal Mail Leigh On Sea Delivery Office) London Road, Leigh-on-Sea, Essex, SS9 2AB",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.548734,0.648474,0.084,9,9,2017-03-31,,"""1 x 1 Bed House and 8 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR39,"1771 (Orchard Motor Co) London Road, Leigh-on-Sea, Essex, SS9 2ST",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.548628,0.630437,0.074,8,8,2017-03-31,,"""8 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR38,"565-569 London Road, Westcliff-on-Sea, Essex, SS0 9PQ",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.545421,0.687357,0.06,9,9,2017-03-31,,"""3 x 1 Bed Houses and 6 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR35,"20 (The Bell Hotel And Land Adjacent) Leigh Hill, Leigh-on-Sea, Essex, SS9 2DN",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,reserved matters approval,,51.54009,0.652515,0.19,19,19,2017-03-31,,"""5 x 1 Bed Houses, 13 x 1 Bed Houses and 2 x 1 Bed Houses""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,BR3,"67C-67G Hamlet Court Road, Westcliff-on-Sea, Essex, SS0 7EU",http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,permissioned,full planning permission,,51.538742,0.692732,0.041,5,5,2017-03-31,,"""4 x 1 Bed Houses and 1 x 1 Bed House""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,PA4.1,Queensway Opportunity Site,http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,mixed ownership,not permissioned,,,51.541037,0.715827,6.139,1080,1320,2017-03-31,,"""Proposal site for housing""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,PA7.1,Tylers Avenue Opportunty Site,http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,owned by a public authority,not permissioned,,,51.536476,0.71548,1.814,135,165,2017-03-31,,"""Proposal site for housing""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
 2017-03-31,local-authority-eng:SOS,PA8.1,Victoria Avenue Opportunity Site,http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,mixed ownership,not permissioned,,,51.543793,0.709007,12.721,900,1100,2017-03-31,,"662 units with planning permission/prior approval
-""Proposal site for housing""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,PA8.2,Baxter Avenue Opportunity Site,http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,not permissioned,,,51.542418,0.707328,2.129,450,550,2017-03-31,,"
-""Proposal site for housing""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+""Proposal site for housing""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,PA8.2,Baxter Avenue Opportunity Site,http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,not permissioned,,,51.542418,0.707328,2.129,450,550,2017-03-31,,"""Proposal site for housing""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
 2017-03-31,local-authority-eng:SOS,PA9.1,Sutton Road Opportunity Site,http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,not permissioned,,,51.547424,0.715664,2.232,193,235,2017-03-31,,"92 units with planning permission/prior approval
-""Proposal site for housing""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
-2017-03-31,local-authority-eng:SOS,PA9.2,Guildford Road Opportunity Site,http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,not permissioned,,,51.542339,0.717717,0.365,45,55,2017-03-31,,"
-""Proposal site for housing""
-",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+""Proposal site for housing""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266
+2017-03-31,local-authority-eng:SOS,PA9.2,Guildford Road Opportunity Site,http://www.southend.gov.uk/downloads/200160/local_planning_framework,yes,not owned by a public authority,not permissioned,,,51.542339,0.717717,0.365,45,55,2017-03-31,,"""Proposal site for housing""",479fd32eef77f621e785f0a0a86f676bb784b45c9258776122eca29d75f97266

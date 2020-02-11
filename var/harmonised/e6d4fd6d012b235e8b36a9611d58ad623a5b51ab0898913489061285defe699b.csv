@@ -1,130 +1,44 @@
-OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,06/08/0010,"Sandhill Park, Bishops Lydeard",-3.205686,51.062229,https://www.tauntondeane.gov.uk/media/2057/sandhill-park-mansion-sandhill-park-bishops-lydeard-06080010.pdf,57.24,not owned by a public authority,,permissioned,full planning permission,2013-08-01,,,,,"
-Residential development of 54 units
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,06/15/0019,"Sandhill Park Mansion, Sandhill Park, Bishops Lydeard",-3.001253,51.064456,https://www.tauntondeane.gov.uk/media/2056/sandhill-park-mansion-sandhill-park-06150019.pdf,13.29,not owned by a public authority,,permissioned,full planning permission,2016-04-22,,,,,"
-Conversion of barn and stable courtyard into 8 no dwellings
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,25/12/0032oa,"Langford Mead, Norton Fitzwarren, TA2",-3.138134,51.027494,https://www.tauntondeane.gov.uk/media/2047/langford-mead-norton-fitzwarren-25120032.pdf,6.77,not owned by a public authority,,permissioned,outline planning permission,2013-04-11,,,,,"
-Mixed use development inc. up to 407 dwellings, idustrial units on 2.78ha
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,25/13/0014,"Langford Mead, Norton Fitzwarren, TA2",-3.139018,51.028645,https://www.tauntondeane.gov.uk/media/2046/langford-mead-norton-fitzwarren-23130014.pdf,1.93,not owned by a public authority,,permissioned,reserved matters approval,2013-08-06,,,,,"
-Residential development phase H6 Phase 2
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,25/12/0017oa,"Little Acre, Station Road, Norton Fitzwarren, TA2 6RG",-3.149987,51.023592,https://www.tauntondeane.gov.uk/media/2048/little-acre-station-road-norton-fitzwarren.pdf,0.14,not owned by a public authority,,permissioned,outline planning permission,2013-12-13,,,,,"
-Erection of 6 dwellings
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,38/05/0430,"57-59 Staplegrove Road, Taunton, TA1 1DG",-3.109253,51.019507,https://www.tauntondeane.gov.uk/media/2176/57-59-staplegrove-road-taunton.pdf,0.16,not owned by a public authority,,permissioned,full planning permission,2005-12-21,,,,,"
-Conversion of guesthouse to 14 two bedroom flats
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,38/12/0164,"Rear 12-13 East Reach, Taunton, TA1 3EW",-3.095512,51.015419,https://www.tauntondeane.gov.uk/media/2118/rear-12-13-east-reach-taunton.pdf,0.05,not owned by a public authority,,permissioned,full planning permission,2016-10-14,,,,,"
-Erection of block of 8 flats and block of 2 flats
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,38/11/0596,"Areas A, B, C and D, Firepool Lock, Taunton, TA1",-3.099226,51.022345,https://www.tauntondeane.gov.uk/media/2119/areas-a-b-c-and-d-firepool-lock-taunton.pdf,2.4,not owned by a public authority,,permissioned,reserved matters approval,2012-01-20,,,,,"
-Redevelopment to provide 204 dwellings
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,38/13/0477oa,"Area I, Firepool Lock, Taunton, TA1",-3.098772,51.022457,https://www.tauntondeane.gov.uk/media/2120/area-i-firepool-lock-taunton.pdf,0.24,not owned by a public authority,,permissioned,outline planning permission,2015-04-30,,,,,"
-Redevelopment for up to 44 dwellings
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,38/15/0506,"Area H, Firepool Lock, Taunton, TA1",-3.098887,51.022501,https://www.tauntondeane.gov.uk/media/2121/area-h-firepool-lock-taunton.pdf,0.63,not owned by a public authority,,permissioned,reserved matters approval,2016-03-02,,,,,"
-Erection of 55 apartments (inc. 45 retirement)
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,38/14/0076,"Area F, Firepool Lock, Taunton, TA1",-3.092779,51.022873,https://www.tauntondeane.gov.uk/media/2122/area-f-firepool-lock-taunton.pdf,0.3,not owned by a public authority,,permissioned,full planning permission,2016-06-30,,,,,"
-Erection of 19 affordable flats and 5 affordable houses
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,38/12/0234,"Kings College, South Road, Taunton, TA1 3LA",-3.095271,51.010647,https://www.tauntondeane.gov.uk/media/2177/kings-college-south-road.pdf,1.39,not owned by a public authority,,permissioned,full planning permission,2013-09-06,,,,,"
-Erection of 58 dwellings (inc. 15 affordable)
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,38/12/0429,"Freemantle House, Priory Avenue, Taunton, TA1 1XX",-3.097997,51.018606,https://www.tauntondeane.gov.uk/media/2123/freemantle-house-priory-avenue-taunton.pdf,0.01,not owned by a public authority,,permissioned,full planning permission,2013-05-15,,,,,"
-Erection of extension to provide 3x1 bed and 2x2 bed flats
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,38/13/0420,"1 Kingston Road, Taunton, TA2 7ED",-3.104237,51.023835,https://www.tauntondeane.gov.uk/media/2126/1-kingston-road-taunton.pdf,0.05,not owned by a public authority,,permissioned,full planning permission,2014-11-05,,,,,"
-Demolition of snooker hall and erection of 40 flats
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,38/14/0355,"Parmin Close, Taunton, TA1 2JY",-3.084527,51.01384,https://www.tauntondeane.gov.uk/media/2130/parmin-close-taunton.pdf,0.95,not owned by a public authority,,permissioned,full planning permission,2015-05-27,,,,,"
-Demolish 31 dwellings and erect 66 retirement flats and 12 assisted living flats
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,38/16/0169,"49 East Reach, Taunton, TA1 3EX",-3.091195,51.016143,https://www.tauntondeane.gov.uk/media/2149/49-east-reach-taunton.pdf,0.02,not owned by a public authority,,permissioned,full planning permission,2016-08-02,,,,,"
-Demolish retail unit with flat above and erect 12 flats
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,38/16/0425,"45 Wood Street, Taunton, TA1 1UW",-3.106462,51.019084,https://www.tauntondeane.gov.uk/media/2158/45-wood-street-taunton.pdf,0.1,not owned by a public authority,,permissioned,full planning permission,2017-03-31,,,,,"
-Demolish buildings and erect 9 dwellings
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,38/16/0472,"Laxton/Blackbrook Road, Taunton, TA1 2UR",-3.069034,51.022058,https://www.tauntondeane.gov.uk/media/2161/laxton-blackbrook-road-taunton.pdf,0.09,owned by a public authority,,permissioned,full planning permission,2017-03-02,,,,,"
-Demolish garages and erect 8 flats
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,38/16/0484co,"1-11a Bridge Street, Taunton, TA1 1JY",-3.104521,51.017798,https://www.tauntondeane.gov.uk/media/2163/1-11a-bridge-street-taunton.pdf,0.06,not owned by a public authority,,permissioned,full planning permission,2017-02-22,,,,,"
-COU 1st floor offices to 5 flats
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,43/09/0062,"1-1a Cornhill, Wellington, TA21 8LU",-3.228044,50.978463,https://www.tauntondeane.gov.uk/media/2170/1-1a-cornhill-wellington.pdf,0.01,not owned by a public authority,,permissioned,full planning permission,2009-08-28,,,,,"
-Conversion of single flat to 6 one bed flats
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,43/11/0080,"Tone Works, Milverton Road, Wellington, TA21 0BQ",-3.245066,50.989605,https://www.tauntondeane.gov.uk/media/2171/tone-works-wellington.pdf,1.9,not owned by a public authority,,permissioned,full planning permission,2012-04-03,,,,,"
-Redevelopment of Tone Mill to include dwellings
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,43/12/0032,"rear of 21 High Street (vet clinic), Wellington, TA21 8QS",-3.227479,50.97971,https://www.tauntondeane.gov.uk/media/2172/rear-of-21-high-street-wellington.pdf,0.08,not owned by a public authority,,permissioned,full planning permission,2013-08-07,,,,,"
-Erection of 7 dwellings
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,43/14/0137,"Rear of former Three Cups, Fore Street, Wellington, TA21 8AQ",-3.229297,50.976804,https://www.tauntondeane.gov.uk/media/2079/rear-of-former-three-cups-fore-street-wellington.pdf,0.09,not owned by a public authority,,permissioned,full planning permission,2015-10-22,,,,,"
-Erection of 7 dwellings
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,43/15/0059,"Weavers Arms/Oaken Ground, Rockwell Green, Wellington, TA21 9BY",-3.246357,50.975059,https://www.tauntondeane.gov.uk/media/2081/weavers-arms-rockwell-green-wellington.pdf,0.46,owned by a public authority,,permissioned,full planning permission,2015-10-30,,,,,"
-Demolish public house, public toilets & 10 council houses and erect 26 dwellings
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,49/06/0008,"The Brewery, Golden Hill, Wiveliscombe TA2 8LH",-3.309551,51.043152,https://www.tauntondeane.gov.uk/media/2180/the-brewery-golden-hill-wiveliscombe.pdf,0.26,not owned by a public authority,,permissioned,full planning permission,2006-04-19,,,,,"
-Demolition of old brewery buildings to form 14 dwellings
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,49/15/0044,"Staceys Yard, Mill Lane, Wiveliscombe, TA4 2LX",-3.307134,51.03987,https://www.tauntondeane.gov.uk/media/2099/staceys-yard-mill-lane-wiveliscombe.pdf,0.28,not owned by a public authority,,permissioned,full planning permission,2017-01-31,,,,,"
-COU from builders yard, erection of 8 dwellings
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,49/15/0058CO,"The Office Building, Station Road, Wiveliscombe, TA4 2LX",-3.306987,51.040223,https://www.tauntondeane.gov.uk/media/2100/the-office-building-station-road-wiveliscombe.pdf,0.06,not owned by a public authority,,permissioned,full planning permission,2015-12-23,,,,,"
-COU office to flats
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,53/16/0006,"Former Tone Vale Hospital, Graham Way, Cotford St Luke, TA4 1GQ",-3.186615,51.038027,https://www.tauntondeane.gov.uk/media/2104/former-tone-vale-hospital-cotford-st-luke.pdf,0.35,not owned by a public authority,,permissioned,full planning permission,2016-10-13,,,,,"
-Conversion of lodge house, demolition of ballroom to create 10 dwellings
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,38/16/0345,"Quantock House, Paul Street, Taunton, TA1 3NX",-3.101342,51.01299,https://www.tauntondeane.gov.uk/media/2202/quantock-house-paul-street-taunton.pdf,0.38,not owned by a public authority,,permissioned,full planning permission,2017-07-06,,,,,"
-Demolition of office block and erection of care led facility (62 bed care home and 58 assisted living apartments)
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,38/17/0224,"42-44 Upper Street/23 The Crescent, Taunton, TA1 4EB",-3.104969,51.01203,https://www.tauntondeane.gov.uk/media/2201/42-44-upper-street-23-the-crescent-taunton.pdf,0.3,not owned by a public authority,,permissioned,full planning permission,2017-08-02,,,,,"
-Conversion of offices to flats
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,SHLAATAUN005,"Former Livestock Market, Firepool, Taunton, TA1 1PN",-3.102908,51.020125,https://www.tauntondeane.gov.uk/media/2200/former-livestock-market-firepool-taunton.pdf,3.91,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,SHLAATAUN007,"Coal Orchard, Taunton, TA1 1JP",-3.103382,51.017261,https://www.tauntondeane.gov.uk/media/2199/coal-orchard-taunton.pdf,0.45,not owned by a public authority,,pending decision,,,,,,,"
-
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,SHLAATAUN015,"Bus Depot, Hamilton Road, Taunton, TA1 2BF",-3.086511,51.016996,https://www.tauntondeane.gov.uk/media/2198/bus-depot-hamilton-road-taunton.pdf,0.51,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,SHLAATAUN016,"High Street, East & West, Taunton, TA1",-3.105601,51.012231,https://www.tauntondeane.gov.uk/media/2197/high-street-east-west-taunton.pdf,3.6,mixed ownership,,not permissioned,,,,,,,"
-
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,SHLAATAUN017,"St James Street, Taunton, TA1 1JH",-3.100632,51.017296,https://www.tauntondeane.gov.uk/media/2196/st-james-street-taunton.pdf,0.17,mixed ownership,,not permissioned,,,,,,,"
-
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,SHLAATAUN018,"Kilkenny Car Park, Taunton, TA2 7BL",-3.103819,51.023632,https://www.tauntondeane.gov.uk/media/2195/kilkenny-car-park-taunton.pdf,0.62,owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,SHLAATAUN019,"Former Cameron Dixon Works, Albemarle Road, Taunton, TA1 1BJ",-3.107998,51.021884,https://www.tauntondeane.gov.uk/media/2194/former-cameron-dixon-works-albemarle-road-taunton.pdf,1.09,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,SHLAATAUN020,"Tangier, Castle Street, Taunton, TA1 4AS",-3.110896,51.013718,https://www.tauntondeane.gov.uk/media/2193/tangier-castle-street-taunton.pdf,5.24,mixed ownership,,not permissioned,,,,,,,"
-
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,SHLAATAUN021,"Wood Street, Taunton, TA1",-3.106874,51.016005,https://www.tauntondeane.gov.uk/media/2192/wood-street-taunton.pdf,1.68,mixed ownership,,not permissioned,,,,,,,"
-
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,SHLAATAUN024,"Police Station, Shuttern, Taunton, TA1 4ET",-3.108,51.010634,https://www.tauntondeane.gov.uk/media/2191/police-station-shuttern-taunton.pdf,1.23,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,SHLAAWELL001,"Swallowfield Factory, Wellington, TA21 8NL",-3.239293,50.983111,https://www.tauntondeane.gov.uk/media/2190/swallowfield-factory-wellington.pdf,1.47,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,SHLAAWELL002,"Swallowfield West of Station Road, Wellington, TA21 8NL",-3.241312,50.982972,https://www.tauntondeane.gov.uk/media/2189/swallowfield-west-of-station-road-wellington.pdf,1.04,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-31,,
-http://opendatacommunities.org/id/district-council/taunton-deane,Taunton Deane Borough Council,SHLAAWELL003,"Relyon, Wellington TA21 8NN",-3.23876,50.983413,https://www.tauntondeane.gov.uk/media/2188/relyon-wellington.pdf,8.19,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-31,,
+OrganisationURI,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/taunton-deane,06/08/0010,"Sandhill Park, Bishops Lydeard",-3.205686,51.062229,https://www.tauntondeane.gov.uk/media/2057/sandhill-park-mansion-sandhill-park-bishops-lydeard-06080010.pdf,57.24,not owned by a public authority,,permissioned,full planning permission,2013-08-01,,,,,Residential development of 54 units,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,06/15/0019,"Sandhill Park Mansion, Sandhill Park, Bishops Lydeard",-3.001253,51.064456,https://www.tauntondeane.gov.uk/media/2056/sandhill-park-mansion-sandhill-park-06150019.pdf,13.29,not owned by a public authority,,permissioned,full planning permission,2016-04-22,,,,,Conversion of barn and stable courtyard into 8 no dwellings,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,25/12/0032oa,"Langford Mead, Norton Fitzwarren, TA2",-3.138134,51.027494,https://www.tauntondeane.gov.uk/media/2047/langford-mead-norton-fitzwarren-25120032.pdf,6.77,not owned by a public authority,,permissioned,outline planning permission,2013-04-11,,,,,"Mixed use development inc. up to 407 dwellings, idustrial units on 2.78ha",2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,25/13/0014,"Langford Mead, Norton Fitzwarren, TA2",-3.139018,51.028645,https://www.tauntondeane.gov.uk/media/2046/langford-mead-norton-fitzwarren-23130014.pdf,1.93,not owned by a public authority,,permissioned,reserved matters approval,2013-08-06,,,,,Residential development phase H6 Phase 2,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,25/12/0017oa,"Little Acre, Station Road, Norton Fitzwarren, TA2 6RG",-3.149987,51.023592,https://www.tauntondeane.gov.uk/media/2048/little-acre-station-road-norton-fitzwarren.pdf,0.14,not owned by a public authority,,permissioned,outline planning permission,2013-12-13,,,,,Erection of 6 dwellings,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,38/05/0430,"57-59 Staplegrove Road, Taunton, TA1 1DG",-3.109253,51.019507,https://www.tauntondeane.gov.uk/media/2176/57-59-staplegrove-road-taunton.pdf,0.16,not owned by a public authority,,permissioned,full planning permission,2005-12-21,,,,,Conversion of guesthouse to 14 two bedroom flats,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,38/12/0164,"Rear 12-13 East Reach, Taunton, TA1 3EW",-3.095512,51.015419,https://www.tauntondeane.gov.uk/media/2118/rear-12-13-east-reach-taunton.pdf,0.05,not owned by a public authority,,permissioned,full planning permission,2016-10-14,,,,,Erection of block of 8 flats and block of 2 flats,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,38/11/0596,"Areas A, B, C and D, Firepool Lock, Taunton, TA1",-3.099226,51.022345,https://www.tauntondeane.gov.uk/media/2119/areas-a-b-c-and-d-firepool-lock-taunton.pdf,2.4,not owned by a public authority,,permissioned,reserved matters approval,2012-01-20,,,,,Redevelopment to provide 204 dwellings,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,38/13/0477oa,"Area I, Firepool Lock, Taunton, TA1",-3.098772,51.022457,https://www.tauntondeane.gov.uk/media/2120/area-i-firepool-lock-taunton.pdf,0.24,not owned by a public authority,,permissioned,outline planning permission,2015-04-30,,,,,Redevelopment for up to 44 dwellings,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,38/15/0506,"Area H, Firepool Lock, Taunton, TA1",-3.098887,51.022501,https://www.tauntondeane.gov.uk/media/2121/area-h-firepool-lock-taunton.pdf,0.63,not owned by a public authority,,permissioned,reserved matters approval,2016-03-02,,,,,Erection of 55 apartments (inc. 45 retirement),2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,38/14/0076,"Area F, Firepool Lock, Taunton, TA1",-3.092779,51.022873,https://www.tauntondeane.gov.uk/media/2122/area-f-firepool-lock-taunton.pdf,0.3,not owned by a public authority,,permissioned,full planning permission,2016-06-30,,,,,Erection of 19 affordable flats and 5 affordable houses,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,38/12/0234,"Kings College, South Road, Taunton, TA1 3LA",-3.095271,51.010647,https://www.tauntondeane.gov.uk/media/2177/kings-college-south-road.pdf,1.39,not owned by a public authority,,permissioned,full planning permission,2013-09-06,,,,,Erection of 58 dwellings (inc. 15 affordable),2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,38/12/0429,"Freemantle House, Priory Avenue, Taunton, TA1 1XX",-3.097997,51.018606,https://www.tauntondeane.gov.uk/media/2123/freemantle-house-priory-avenue-taunton.pdf,0.01,not owned by a public authority,,permissioned,full planning permission,2013-05-15,,,,,Erection of extension to provide 3x1 bed and 2x2 bed flats,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,38/13/0420,"1 Kingston Road, Taunton, TA2 7ED",-3.104237,51.023835,https://www.tauntondeane.gov.uk/media/2126/1-kingston-road-taunton.pdf,0.05,not owned by a public authority,,permissioned,full planning permission,2014-11-05,,,,,Demolition of snooker hall and erection of 40 flats,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,38/14/0355,"Parmin Close, Taunton, TA1 2JY",-3.084527,51.01384,https://www.tauntondeane.gov.uk/media/2130/parmin-close-taunton.pdf,0.95,not owned by a public authority,,permissioned,full planning permission,2015-05-27,,,,,Demolish 31 dwellings and erect 66 retirement flats and 12 assisted living flats,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,38/16/0169,"49 East Reach, Taunton, TA1 3EX",-3.091195,51.016143,https://www.tauntondeane.gov.uk/media/2149/49-east-reach-taunton.pdf,0.02,not owned by a public authority,,permissioned,full planning permission,2016-08-02,,,,,Demolish retail unit with flat above and erect 12 flats,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,38/16/0425,"45 Wood Street, Taunton, TA1 1UW",-3.106462,51.019084,https://www.tauntondeane.gov.uk/media/2158/45-wood-street-taunton.pdf,0.1,not owned by a public authority,,permissioned,full planning permission,2017-03-31,,,,,Demolish buildings and erect 9 dwellings,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,38/16/0472,"Laxton/Blackbrook Road, Taunton, TA1 2UR",-3.069034,51.022058,https://www.tauntondeane.gov.uk/media/2161/laxton-blackbrook-road-taunton.pdf,0.09,owned by a public authority,,permissioned,full planning permission,2017-03-02,,,,,Demolish garages and erect 8 flats,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,38/16/0484co,"1-11a Bridge Street, Taunton, TA1 1JY",-3.104521,51.017798,https://www.tauntondeane.gov.uk/media/2163/1-11a-bridge-street-taunton.pdf,0.06,not owned by a public authority,,permissioned,full planning permission,2017-02-22,,,,,COU 1st floor offices to 5 flats,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,43/09/0062,"1-1a Cornhill, Wellington, TA21 8LU",-3.228044,50.978463,https://www.tauntondeane.gov.uk/media/2170/1-1a-cornhill-wellington.pdf,0.01,not owned by a public authority,,permissioned,full planning permission,2009-08-28,,,,,Conversion of single flat to 6 one bed flats,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,43/11/0080,"Tone Works, Milverton Road, Wellington, TA21 0BQ",-3.245066,50.989605,https://www.tauntondeane.gov.uk/media/2171/tone-works-wellington.pdf,1.9,not owned by a public authority,,permissioned,full planning permission,2012-04-03,,,,,Redevelopment of Tone Mill to include dwellings,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,43/12/0032,"rear of 21 High Street (vet clinic), Wellington, TA21 8QS",-3.227479,50.97971,https://www.tauntondeane.gov.uk/media/2172/rear-of-21-high-street-wellington.pdf,0.08,not owned by a public authority,,permissioned,full planning permission,2013-08-07,,,,,Erection of 7 dwellings,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,43/14/0137,"Rear of former Three Cups, Fore Street, Wellington, TA21 8AQ",-3.229297,50.976804,https://www.tauntondeane.gov.uk/media/2079/rear-of-former-three-cups-fore-street-wellington.pdf,0.09,not owned by a public authority,,permissioned,full planning permission,2015-10-22,,,,,Erection of 7 dwellings,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,43/15/0059,"Weavers Arms/Oaken Ground, Rockwell Green, Wellington, TA21 9BY",-3.246357,50.975059,https://www.tauntondeane.gov.uk/media/2081/weavers-arms-rockwell-green-wellington.pdf,0.46,owned by a public authority,,permissioned,full planning permission,2015-10-30,,,,,"Demolish public house, public toilets & 10 council houses and erect 26 dwellings",2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,49/06/0008,"The Brewery, Golden Hill, Wiveliscombe TA2 8LH",-3.309551,51.043152,https://www.tauntondeane.gov.uk/media/2180/the-brewery-golden-hill-wiveliscombe.pdf,0.26,not owned by a public authority,,permissioned,full planning permission,2006-04-19,,,,,Demolition of old brewery buildings to form 14 dwellings,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,49/15/0044,"Staceys Yard, Mill Lane, Wiveliscombe, TA4 2LX",-3.307134,51.03987,https://www.tauntondeane.gov.uk/media/2099/staceys-yard-mill-lane-wiveliscombe.pdf,0.28,not owned by a public authority,,permissioned,full planning permission,2017-01-31,,,,,"COU from builders yard, erection of 8 dwellings",2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,49/15/0058CO,"The Office Building, Station Road, Wiveliscombe, TA4 2LX",-3.306987,51.040223,https://www.tauntondeane.gov.uk/media/2100/the-office-building-station-road-wiveliscombe.pdf,0.06,not owned by a public authority,,permissioned,full planning permission,2015-12-23,,,,,COU office to flats,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,53/16/0006,"Former Tone Vale Hospital, Graham Way, Cotford St Luke, TA4 1GQ",-3.186615,51.038027,https://www.tauntondeane.gov.uk/media/2104/former-tone-vale-hospital-cotford-st-luke.pdf,0.35,not owned by a public authority,,permissioned,full planning permission,2016-10-13,,,,,"Conversion of lodge house, demolition of ballroom to create 10 dwellings",2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,38/16/0345,"Quantock House, Paul Street, Taunton, TA1 3NX",-3.101342,51.01299,https://www.tauntondeane.gov.uk/media/2202/quantock-house-paul-street-taunton.pdf,0.38,not owned by a public authority,,permissioned,full planning permission,2017-07-06,,,,,Demolition of office block and erection of care led facility (62 bed care home and 58 assisted living apartments),2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,38/17/0224,"42-44 Upper Street/23 The Crescent, Taunton, TA1 4EB",-3.104969,51.01203,https://www.tauntondeane.gov.uk/media/2201/42-44-upper-street-23-the-crescent-taunton.pdf,0.3,not owned by a public authority,,permissioned,full planning permission,2017-08-02,,,,,Conversion of offices to flats,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,SHLAATAUN005,"Former Livestock Market, Firepool, Taunton, TA1 1PN",-3.102908,51.020125,https://www.tauntondeane.gov.uk/media/2200/former-livestock-market-firepool-taunton.pdf,3.91,not owned by a public authority,,not permissioned,,,,,,,,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,SHLAATAUN007,"Coal Orchard, Taunton, TA1 1JP",-3.103382,51.017261,https://www.tauntondeane.gov.uk/media/2199/coal-orchard-taunton.pdf,0.45,not owned by a public authority,,pending decision,,,,,,,,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,SHLAATAUN015,"Bus Depot, Hamilton Road, Taunton, TA1 2BF",-3.086511,51.016996,https://www.tauntondeane.gov.uk/media/2198/bus-depot-hamilton-road-taunton.pdf,0.51,not owned by a public authority,,not permissioned,,,,,,,,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,SHLAATAUN016,"High Street, East & West, Taunton, TA1",-3.105601,51.012231,https://www.tauntondeane.gov.uk/media/2197/high-street-east-west-taunton.pdf,3.6,mixed ownership,,not permissioned,,,,,,,,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,SHLAATAUN017,"St James Street, Taunton, TA1 1JH",-3.100632,51.017296,https://www.tauntondeane.gov.uk/media/2196/st-james-street-taunton.pdf,0.17,mixed ownership,,not permissioned,,,,,,,,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,SHLAATAUN018,"Kilkenny Car Park, Taunton, TA2 7BL",-3.103819,51.023632,https://www.tauntondeane.gov.uk/media/2195/kilkenny-car-park-taunton.pdf,0.62,owned by a public authority,,not permissioned,,,,,,,,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,SHLAATAUN019,"Former Cameron Dixon Works, Albemarle Road, Taunton, TA1 1BJ",-3.107998,51.021884,https://www.tauntondeane.gov.uk/media/2194/former-cameron-dixon-works-albemarle-road-taunton.pdf,1.09,not owned by a public authority,,not permissioned,,,,,,,,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,SHLAATAUN020,"Tangier, Castle Street, Taunton, TA1 4AS",-3.110896,51.013718,https://www.tauntondeane.gov.uk/media/2193/tangier-castle-street-taunton.pdf,5.24,mixed ownership,,not permissioned,,,,,,,,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,SHLAATAUN021,"Wood Street, Taunton, TA1",-3.106874,51.016005,https://www.tauntondeane.gov.uk/media/2192/wood-street-taunton.pdf,1.68,mixed ownership,,not permissioned,,,,,,,,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,SHLAATAUN024,"Police Station, Shuttern, Taunton, TA1 4ET",-3.108,51.010634,https://www.tauntondeane.gov.uk/media/2191/police-station-shuttern-taunton.pdf,1.23,not owned by a public authority,,not permissioned,,,,,,,,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,SHLAAWELL001,"Swallowfield Factory, Wellington, TA21 8NL",-3.239293,50.983111,https://www.tauntondeane.gov.uk/media/2190/swallowfield-factory-wellington.pdf,1.47,not owned by a public authority,,not permissioned,,,,,,,,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,SHLAAWELL002,"Swallowfield West of Station Road, Wellington, TA21 8NL",-3.241312,50.982972,https://www.tauntondeane.gov.uk/media/2189/swallowfield-west-of-station-road-wellington.pdf,1.04,not owned by a public authority,,not permissioned,,,,,,,,2017-12-31,,
+http://opendatacommunities.org/id/district-council/taunton-deane,SHLAAWELL003,"Relyon, Wellington TA21 8NN",-3.23876,50.983413,https://www.tauntondeane.gov.uk/media/2188/relyon-wellington.pdf,8.19,not owned by a public authority,,not permissioned,,,,,,,,2017-12-31,,

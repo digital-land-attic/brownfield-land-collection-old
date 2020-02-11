@@ -1,82 +1,40 @@
-OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR008,"Former Worsley Inn, High Stret, Wroxall, PO38 3HB",,,https://www.iwight.com/brownfieldlandregister,0.31,not owned by a public authority,,not permissioned,,,,,,,"
-""Residential led development""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR026,"Former Somerton Reservoir, Newport Road, Cowes, PO31 7ER",,,https://www.iwight.com/brownfieldlandregister,1.89,not owned by a public authority,,not permissioned,,,,,,,"
-""Residential led development""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR038a,"9-11 George Street, Ryde, PO33 2EB",,,https://www.iwight.com/brownfieldlandregister,0.09,not owned by a public authority,,not permissioned,,,,,,,"
-""Residential led development""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR038b,"6-8 George Street, Ryde, PO33 2EB",,,https://www.iwight.com/brownfieldlandregister,0.03,not owned by a public authority,,not permissioned,,,,,,,"
-""Residential led development""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR047,"SPA site, Shanklin Esplanade",,,https://www.iwight.com/brownfieldlandregister,0.37,owned by a public authority,,not permissioned,,,,,,,"
-""Residential led development""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR050,"23, Carter Street, Sandown, PO36 8DG",,,https://www.iwight.com/brownfieldlandregister,0.19,not owned by a public authority,,not permissioned,,,,,,,"
-""Residential led development""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR053,"Car sales area, Havenstreet Garage, Main Road, Havenstreet, PO33 4DR",,,https://www.iwight.com/brownfieldlandregister,0.28,not owned by a public authority,,not permissioned,,,,,,,"
-""Residential led development""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR073,"Cheeks Farm, Merstone Lane, Merstone, Newport, PO30 3DE",,,https://www.iwight.com/brownfieldlandregister,0.6,not owned by a public authority,,not permissioned,,,,,,,"
-""Residential led development""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR080,"Berkeley Court Hotel, 2 Culver Road, Shanklin, PO376ER",,,https://www.iwight.com/brownfieldlandregister,0.17,not owned by a public authority,,permissioned,full planning permission,2016-04-07,,,,yes,"""Permission was for 14, 5 have been built to date. P/01675/10&P/01194/12& P/00164/16""
-""Demolition of hotel, residential development comprising 14 flats""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR081,"Site of Former Rozelle Hotel, 22 Atherley Road, Shanklin, PO377AT",,,https://www.iwight.com/brownfieldlandregister,0.08,not owned by a public authority,,permissioned,full planning permission,2015-09-03,,,,yes,"P/00689/15
-""4 Storey block of 11 Flats with associated parking""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR082,"Land between Castle Street and Church Path fronting Old Road, East Cowes, PO32",,,https://www.iwight.com/brownfieldlandregister,0.38,not owned by a public authority,,permissioned,reserved matters approval,2015-03-19,,,,yes,"""P/01562/14""
-""Mixed use development comprising four/five storey block of 39 sheltered apartments with Class B1 commercial on ground floor, 10 dwellings and parking""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR083,"Sans Souci, Main Road, Havenstreet, Ryde, PO334DL",,,https://www.iwight.com/brownfieldlandregister,0.75,not owned by a public authority,,permissioned,full planning permission,2015-07-01,,,,yes,"""P/01263/14""
-""Proposed residential comprising 3 paris of semi-detached houses and 5 detached houses with parking""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR084,"Westfield Holiday Centre, Shore Road, Ventnor, PO381RL",,,https://www.iwight.com/brownfieldlandregister,1.08,not owned by a public authority,,permissioned,full planning permission,2017-03-08,,,,yes,"""P/00039/16""
-""Permission of 12 flats to be used as permanent residential""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR085,"Former Harcourt Sands Holiday Park, Puckpool Hill, Ryde, PO331PJ",,,https://www.iwight.com/brownfieldlandregister,11.29,not owned by a public authority,,permissioned,outline planning permission,2015-12-01,,,,yes,"""P/00573/15""
-""Demolition of buildings, outline for 128 units, 63 bed hotel and parking""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR086,"Spring Vale Hotel & Restaurant, Springvale Road, Seaview, PO345AN",,,https://www.iwight.com/brownfieldlandregister,0.09,not owned by a public authority,,permissioned,full planning permission,2016-11-01,,,,yes,"""P/00700/16""
-""Alteration, conversion and extensions tp provide 12 residential units with parking""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR087,"11, 11a, 11b, 11c, 11d St James Street, Newport, PO30",,,https://www.iwight.com/brownfieldlandregister,0.06,not owned by a public authority,,permissioned,full planning permission,2017-09-18,,,,yes,"""P/00914/16""
-""Demolition and proposed 2.5/3 storey block of 20 flats, office on ground floor""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR088,"Land to west of Castle Street & Maresfield, incorporating Columbine, part of Venture Quays, Barracks Building at the Esplanade and Albany Road, East Cowes, PO32",,,https://www.iwight.com/brownfieldlandregister,2.31,not owned by a public authority,,pending decision,outline planning permission,,,,,yes,"""Resolution to grant subject to signing of S106. P/00941/16""
-""Various including 53 residential units, retail, hotel, café, bar, parking and public realm""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR089,"Part OS parcel 8530 off Main Road, Rookley, Ventnor, PO38",,,https://www.iwight.com/brownfieldlandregister,1.52,not owned by a public authority,,permissioned,full planning permission,2017-05-17,,,,yes,"""P/01392/16""
-""Demolition of industrial building, proposed development of 21 residential units, associated highway access""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR090,"Formerly Pondwell Holiday Camp, Pondwell Hill, Ryde, PO331QA",,,https://www.iwight.com/brownfieldlandregister,1.44,not owned by a public authority,,permissioned,full planning permission,2017-10-16,,,,yes,"""P/00867/17""
-""Demolition of office block and 37 residential units, redevelopment of the site for 25 residential units.""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR091,"Former Bembridge C or E School, Steyne Road, Brembridge, PO35",,,https://www.iwight.com/brownfieldlandregister,0.75,not owned by a public authority,,permissioned,full planning permission,2015-06-09,,,,yes,"""P/01479/14""
-""Demolition of buildings, construction of 5 pairs of semi-detached dwellings and terrace of 3 dwellings""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR092,"Former Youth Centre, Well Street, Ryde",,,https://www.iwight.com/brownfieldlandregister,0.08,owned by a public authority,,not permissioned,,,,,,,"
-""Residential led development""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR094,"Former Sandham Middle School site, Sandown",,,https://www.iwight.com/brownfieldlandregister,2.29,owned by a public authority,,not permissioned,,,,,,,"
-""Residential led development""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR095,"Test Centre, 23 Medina Avenue, Newport",,,https://www.iwight.com/brownfieldlandregister,0.1,owned by a public authority,,not permissioned,,,,,,,"
-""Residential led development""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR096,"Former Ventnor Youth Centre, Victoria Street, Ventnor",,,https://www.iwight.com/brownfieldlandregister,0.03,owned by a public authority,,not permissioned,,,,,,,"
-""Residential led development""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR098,"St Thomas' Car Park, St Thomas Street (south), Ryde",,,https://www.iwight.com/brownfieldlandregister,0.45,owned by a public authority,,not permissioned,,,,,,,"
-""Residential led development""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR100,"Former Town Hall, Grafton Street, Sandown",,,https://www.iwight.com/brownfieldlandregister,0.15,owned by a public authority,,not permissioned,,,,,,,"
-""Residential led development""
-",2017-12-22,2017-12-22,
-http://opendatacommunities.org/id/unitary-authority/isle-of-wight,Isle of Wight Council,BFR101,"Former Weston Primary School site, Weston Road, Totland",,,https://www.iwight.com/brownfieldlandregister,0.41,owned by a public authority,,not permissioned,,,,,,,"
-""Residential led development""
-",2017-12-22,2017-12-22,
+OrganisationURI,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR008,"Former Worsley Inn, High Stret, Wroxall, PO38 3HB",,,https://www.iwight.com/brownfieldlandregister,0.31,not owned by a public authority,,not permissioned,,,,,,,"""Residential led development""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR026,"Former Somerton Reservoir, Newport Road, Cowes, PO31 7ER",,,https://www.iwight.com/brownfieldlandregister,1.89,not owned by a public authority,,not permissioned,,,,,,,"""Residential led development""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR038a,"9-11 George Street, Ryde, PO33 2EB",,,https://www.iwight.com/brownfieldlandregister,0.09,not owned by a public authority,,not permissioned,,,,,,,"""Residential led development""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR038b,"6-8 George Street, Ryde, PO33 2EB",,,https://www.iwight.com/brownfieldlandregister,0.03,not owned by a public authority,,not permissioned,,,,,,,"""Residential led development""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR047,"SPA site, Shanklin Esplanade",,,https://www.iwight.com/brownfieldlandregister,0.37,owned by a public authority,,not permissioned,,,,,,,"""Residential led development""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR050,"23, Carter Street, Sandown, PO36 8DG",,,https://www.iwight.com/brownfieldlandregister,0.19,not owned by a public authority,,not permissioned,,,,,,,"""Residential led development""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR053,"Car sales area, Havenstreet Garage, Main Road, Havenstreet, PO33 4DR",,,https://www.iwight.com/brownfieldlandregister,0.28,not owned by a public authority,,not permissioned,,,,,,,"""Residential led development""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR073,"Cheeks Farm, Merstone Lane, Merstone, Newport, PO30 3DE",,,https://www.iwight.com/brownfieldlandregister,0.6,not owned by a public authority,,not permissioned,,,,,,,"""Residential led development""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR080,"Berkeley Court Hotel, 2 Culver Road, Shanklin, PO376ER",,,https://www.iwight.com/brownfieldlandregister,0.17,not owned by a public authority,,permissioned,full planning permission,2016-04-07,,,,yes,"""Permission was for 14, 5 have been built to date. P/01675/10&P/01194/12& P/00164/16""
+""Demolition of hotel, residential development comprising 14 flats""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR081,"Site of Former Rozelle Hotel, 22 Atherley Road, Shanklin, PO377AT",,,https://www.iwight.com/brownfieldlandregister,0.08,not owned by a public authority,,permissioned,full planning permission,2015-09-03,,,,yes,"P/00689/15
+""4 Storey block of 11 Flats with associated parking""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR082,"Land between Castle Street and Church Path fronting Old Road, East Cowes, PO32",,,https://www.iwight.com/brownfieldlandregister,0.38,not owned by a public authority,,permissioned,reserved matters approval,2015-03-19,,,,yes,"""P/01562/14""
+""Mixed use development comprising four/five storey block of 39 sheltered apartments with Class B1 commercial on ground floor, 10 dwellings and parking""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR083,"Sans Souci, Main Road, Havenstreet, Ryde, PO334DL",,,https://www.iwight.com/brownfieldlandregister,0.75,not owned by a public authority,,permissioned,full planning permission,2015-07-01,,,,yes,"""P/01263/14""
+""Proposed residential comprising 3 paris of semi-detached houses and 5 detached houses with parking""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR084,"Westfield Holiday Centre, Shore Road, Ventnor, PO381RL",,,https://www.iwight.com/brownfieldlandregister,1.08,not owned by a public authority,,permissioned,full planning permission,2017-03-08,,,,yes,"""P/00039/16""
+""Permission of 12 flats to be used as permanent residential""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR085,"Former Harcourt Sands Holiday Park, Puckpool Hill, Ryde, PO331PJ",,,https://www.iwight.com/brownfieldlandregister,11.29,not owned by a public authority,,permissioned,outline planning permission,2015-12-01,,,,yes,"""P/00573/15""
+""Demolition of buildings, outline for 128 units, 63 bed hotel and parking""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR086,"Spring Vale Hotel & Restaurant, Springvale Road, Seaview, PO345AN",,,https://www.iwight.com/brownfieldlandregister,0.09,not owned by a public authority,,permissioned,full planning permission,2016-11-01,,,,yes,"""P/00700/16""
+""Alteration, conversion and extensions tp provide 12 residential units with parking""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR087,"11, 11a, 11b, 11c, 11d St James Street, Newport, PO30",,,https://www.iwight.com/brownfieldlandregister,0.06,not owned by a public authority,,permissioned,full planning permission,2017-09-18,,,,yes,"""P/00914/16""
+""Demolition and proposed 2.5/3 storey block of 20 flats, office on ground floor""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR088,"Land to west of Castle Street & Maresfield, incorporating Columbine, part of Venture Quays, Barracks Building at the Esplanade and Albany Road, East Cowes, PO32",,,https://www.iwight.com/brownfieldlandregister,2.31,not owned by a public authority,,pending decision,outline planning permission,,,,,yes,"""Resolution to grant subject to signing of S106. P/00941/16""
+""Various including 53 residential units, retail, hotel, café, bar, parking and public realm""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR089,"Part OS parcel 8530 off Main Road, Rookley, Ventnor, PO38",,,https://www.iwight.com/brownfieldlandregister,1.52,not owned by a public authority,,permissioned,full planning permission,2017-05-17,,,,yes,"""P/01392/16""
+""Demolition of industrial building, proposed development of 21 residential units, associated highway access""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR090,"Formerly Pondwell Holiday Camp, Pondwell Hill, Ryde, PO331QA",,,https://www.iwight.com/brownfieldlandregister,1.44,not owned by a public authority,,permissioned,full planning permission,2017-10-16,,,,yes,"""P/00867/17""
+""Demolition of office block and 37 residential units, redevelopment of the site for 25 residential units.""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR091,"Former Bembridge C or E School, Steyne Road, Brembridge, PO35",,,https://www.iwight.com/brownfieldlandregister,0.75,not owned by a public authority,,permissioned,full planning permission,2015-06-09,,,,yes,"""P/01479/14""
+""Demolition of buildings, construction of 5 pairs of semi-detached dwellings and terrace of 3 dwellings""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR092,"Former Youth Centre, Well Street, Ryde",,,https://www.iwight.com/brownfieldlandregister,0.08,owned by a public authority,,not permissioned,,,,,,,"""Residential led development""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR094,"Former Sandham Middle School site, Sandown",,,https://www.iwight.com/brownfieldlandregister,2.29,owned by a public authority,,not permissioned,,,,,,,"""Residential led development""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR095,"Test Centre, 23 Medina Avenue, Newport",,,https://www.iwight.com/brownfieldlandregister,0.1,owned by a public authority,,not permissioned,,,,,,,"""Residential led development""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR096,"Former Ventnor Youth Centre, Victoria Street, Ventnor",,,https://www.iwight.com/brownfieldlandregister,0.03,owned by a public authority,,not permissioned,,,,,,,"""Residential led development""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR098,"St Thomas' Car Park, St Thomas Street (south), Ryde",,,https://www.iwight.com/brownfieldlandregister,0.45,owned by a public authority,,not permissioned,,,,,,,"""Residential led development""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR100,"Former Town Hall, Grafton Street, Sandown",,,https://www.iwight.com/brownfieldlandregister,0.15,owned by a public authority,,not permissioned,,,,,,,"""Residential led development""",2017-12-22,2017-12-22,
+http://opendatacommunities.org/id/unitary-authority/isle-of-wight,BFR101,"Former Weston Primary School site, Weston Road, Totland",,,https://www.iwight.com/brownfieldlandregister,0.41,owned by a public authority,,not permissioned,,,,,,,"""Residential led development""",2017-12-22,2017-12-22,

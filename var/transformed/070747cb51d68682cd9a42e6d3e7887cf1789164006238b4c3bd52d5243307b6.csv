@@ -1,24 +1,11 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
-2017-11-21,local-authority-eng:SST,BI/41,"Birches Bridge Garage, Wolverhampton Road, Bilbrook",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,yes,not owned by a public authority,permissioned,full planning permission,,52.624327,-2.186268,0.4,,,2017-11-21,,"
-The proposed demolition and development of 39 Retirement Living apartments including communal facilities, landscaping and car parking. (Major development)
-",070747cb51d68682cd9a42e6d3e7887cf1789164006238b4c3bd52d5243307b6
-2017-11-21,local-authority-eng:SST,CD/191,"Terrace Nurseries (Hommers), Oaken Drive, Codsall",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,yes,not owned by a public authority,permissioned,full planning permission,,52.62224,-2.208978,0.79,,,2017-11-21,,"
-Demolition of existing single- and two-storey buildings and development of 12 dwellings
-",070747cb51d68682cd9a42e6d3e7887cf1789164006238b4c3bd52d5243307b6
-2017-11-21,local-authority-eng:SST,GW/165,"Hazelbrook Industrial Estate, Hazel Lane, Great Wyrley",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,yes,not owned by a public authority,permissioned,reserved matters approval,,52.65841,-2.002175,2.74,,,2017-11-21,,"
-The scale and appearance of the dwellings and landscaping of the site
-",070747cb51d68682cd9a42e6d3e7887cf1789164006238b4c3bd52d5243307b6
-2017-11-21,local-authority-eng:SST,PK/165,"Lyne Hill (Phase 3), Boscomoor Lane, Penkridge",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,yes,not owned by a public authority,permissioned,reserved matters approval,,52.715203,-2.116295,5.52,,,2017-11-21,,"
-Revision of application for the approval of reserved matters to outline permission 12/00497/OUT. The application is for 154 units (increased from 144) comprising phase 3 of the site with outline planning permission. The outline planning permission was NOT an EIA application.
-",070747cb51d68682cd9a42e6d3e7887cf1789164006238b4c3bd52d5243307b6
-2017-11-21,local-authority-eng:SST,WM/234,"Land off Giggetty Lane, Wombourne",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,yes,not owned by a public authority,permissioned,outline planning permission,,52.534224,-2.201601,1.06,,,2017-11-21,,"
-Demolition of 3 no. redundant industrial buildings/warehouses, re-configuartion of an existing accessway and the principle of the erection of 19 no. dwellings.
-",070747cb51d68682cd9a42e6d3e7887cf1789164006238b4c3bd52d5243307b6
-2017-11-21,local-authority-eng:SST,AC/82,"Springslade Works, Cannock Road, Bednall",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,yes,not owned by a public authority,permissioned,full planning permission,,52.751819,-2.050716,0.7,,,2017-11-21,,"
-Redevelopment of the existing buildings in general industrial (Class B2) use by way of the erection of 6 no. dwellinghouses with associated works
-",070747cb51d68682cd9a42e6d3e7887cf1789164006238b4c3bd52d5243307b6
-2017-11-21,local-authority-eng:SST,SHLAA Site 141,"154a Walsall Road, Great Wyrley",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,yes,owned by a public authority,not permissioned,,,52.665143,-2.012511,1.2,,,2017-11-21,,"
-The site is suitable, available now and achievable for residential development and will be delivered in accordance with the relevant SAD polices and other relevant Development Management policies in the adopted Core Strategy.
+2017-11-21,local-authority-eng:SST,BI/41,"Birches Bridge Garage, Wolverhampton Road, Bilbrook",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,yes,not owned by a public authority,permissioned,full planning permission,,52.624327,-2.186268,0.4,,,2017-11-21,,"The proposed demolition and development of 39 Retirement Living apartments including communal facilities, landscaping and car parking. (Major development)",070747cb51d68682cd9a42e6d3e7887cf1789164006238b4c3bd52d5243307b6
+2017-11-21,local-authority-eng:SST,CD/191,"Terrace Nurseries (Hommers), Oaken Drive, Codsall",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,yes,not owned by a public authority,permissioned,full planning permission,,52.62224,-2.208978,0.79,,,2017-11-21,,Demolition of existing single- and two-storey buildings and development of 12 dwellings,070747cb51d68682cd9a42e6d3e7887cf1789164006238b4c3bd52d5243307b6
+2017-11-21,local-authority-eng:SST,GW/165,"Hazelbrook Industrial Estate, Hazel Lane, Great Wyrley",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,yes,not owned by a public authority,permissioned,reserved matters approval,,52.65841,-2.002175,2.74,,,2017-11-21,,The scale and appearance of the dwellings and landscaping of the site,070747cb51d68682cd9a42e6d3e7887cf1789164006238b4c3bd52d5243307b6
+2017-11-21,local-authority-eng:SST,PK/165,"Lyne Hill (Phase 3), Boscomoor Lane, Penkridge",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,yes,not owned by a public authority,permissioned,reserved matters approval,,52.715203,-2.116295,5.52,,,2017-11-21,,Revision of application for the approval of reserved matters to outline permission 12/00497/OUT. The application is for 154 units (increased from 144) comprising phase 3 of the site with outline planning permission. The outline planning permission was NOT an EIA application.,070747cb51d68682cd9a42e6d3e7887cf1789164006238b4c3bd52d5243307b6
+2017-11-21,local-authority-eng:SST,WM/234,"Land off Giggetty Lane, Wombourne",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,yes,not owned by a public authority,permissioned,outline planning permission,,52.534224,-2.201601,1.06,,,2017-11-21,,"Demolition of 3 no. redundant industrial buildings/warehouses, re-configuartion of an existing accessway and the principle of the erection of 19 no. dwellings.",070747cb51d68682cd9a42e6d3e7887cf1789164006238b4c3bd52d5243307b6
+2017-11-21,local-authority-eng:SST,AC/82,"Springslade Works, Cannock Road, Bednall",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,yes,not owned by a public authority,permissioned,full planning permission,,52.751819,-2.050716,0.7,,,2017-11-21,,Redevelopment of the existing buildings in general industrial (Class B2) use by way of the erection of 6 no. dwellinghouses with associated works,070747cb51d68682cd9a42e6d3e7887cf1789164006238b4c3bd52d5243307b6
+2017-11-21,local-authority-eng:SST,SHLAA Site 141,"154a Walsall Road, Great Wyrley",https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,yes,owned by a public authority,not permissioned,,,52.665143,-2.012511,1.2,,,2017-11-21,,"The site is suitable, available now and achievable for residential development and will be delivered in accordance with the relevant SAD polices and other relevant Development Management policies in the adopted Core Strategy.
 
 Any proposal must meet the following requirements:
 • To deliver a minimum of 25 dwellings.
@@ -31,10 +18,8 @@ Any proposal must meet the following requirements:
 • In accordance with Policies SAD7 and SAD9 to provide an appropriate off-site open space contribution.
 • To provide connectivity to existing open space/Green Infrastructure.
 • To provide an Education contribution agreed through dialogue with the School Organisation Team at Staffordshire County Council. 
-• To meet any other applicable Key Development Requirements set out in Policy SAD9.
-",070747cb51d68682cd9a42e6d3e7887cf1789164006238b4c3bd52d5243307b6
-2017-11-21,local-authority-eng:SST,SHLAA Site 228,Adult training centre off Histons Hill,https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,yes,owned by a public authority,not permissioned,,,52.626319,-2.194534,0.7,,,2017-11-21,,"
-The site is suitable, available now and achievable for residential development and will be delivered in accordance with the relevant SAD polices and other relevant Development Management policies in the adopted Core Strategy.
+• To meet any other applicable Key Development Requirements set out in Policy SAD9.",070747cb51d68682cd9a42e6d3e7887cf1789164006238b4c3bd52d5243307b6
+2017-11-21,local-authority-eng:SST,SHLAA Site 228,Adult training centre off Histons Hill,https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,yes,owned by a public authority,not permissioned,,,52.626319,-2.194534,0.7,,,2017-11-21,,"The site is suitable, available now and achievable for residential development and will be delivered in accordance with the relevant SAD polices and other relevant Development Management policies in the adopted Core Strategy.
 
 Any proposal must meet the following requirements:
 
@@ -49,5 +34,4 @@ Any proposal must meet the following requirements:
 • To provide a sustainable drainage scheme as part of masterplanning.
 • To provide connectivity to existing open space/Green Infrastructure networks 
 • To provide an Education contribution agreed through dialogue with the School Organisation Team at Staffordshire County Council. 
-• To meet any other applicable Key Development Requirements set out in Policy SAD9.
-",070747cb51d68682cd9a42e6d3e7887cf1789164006238b4c3bd52d5243307b6
+• To meet any other applicable Key Development Requirements set out in Policy SAD9.",070747cb51d68682cd9a42e6d3e7887cf1789164006238b4c3bd52d5243307b6

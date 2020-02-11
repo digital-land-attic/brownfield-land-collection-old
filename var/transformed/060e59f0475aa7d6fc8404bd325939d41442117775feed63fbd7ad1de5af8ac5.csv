@@ -1,76 +1,28 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
-2017-12-13,local-authority-eng:RIC,RBR/17/0001,Pouparts Yard And Land Rear Of 84A Hampton Road Twickenham,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.441515,-0.347007,0.03,9,9,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0002,"St Paul's School, Lonsdale Road, Barnes",https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,outline planning permission,,51.486913,-0.237988,17.98,46,46,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0006,84 Whitton Road Twickenham TW1 1BS,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.452894,-0.33455,0.03,9,9,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0007,Becketts Wharf And Osbourne House Becketts Place Hampton Wick,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.413429,-0.309611,0.2,11,11,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0008,Twickenham Railway Station London Road Twickenham,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.450536,-0.32931,1.18,115,115,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0009,37 Grosvenor Road Twickenham TW1 4AD,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.447961,-0.330368,0.01,7,7,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0011,Lockcorp House 75 Norcutt Road Twickenham TW2 6SR,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.44769,-0.341675,0.02,9,9,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0012,HMP Latchmere House Church Road Ham Richmond TW10 5HH,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.427997,-0.296573,2.53,42,42,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0014,29 Charles Street Barnes London,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.470539,-0.253709,0.1,5,5,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0015,2 Broad Street Teddington TW11 8RF,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.425998,-0.339641,0.01,5,5,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0016,Richmond Film Services Park Lane Richmond TW9 2RA,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.463588,-0.303943,0.12,8,8,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0017,97A White Hart Lane Barnes London SW13 0JL,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.467703,-0.253471,0.01,8,8,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0018,Christ Church Station Road Teddington,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.426277,-0.332669,0.22,6,6,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2018-12-20,local-authority-eng:RIC,RBR/17/0019,Teddington Studios Broom Road Teddington,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.428983,-0.321264,1.8,237,237,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0020,The Avenue Centre 1 Normansfield Avenue Hampton Wick Teddington TW11 9RP,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.419151,-0.311039,0.52,15,15,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0021,Silver Birches 2-6 Marchmont Road Richmond TW10 6HH,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.458862,-0.294891,0.24,8,8,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0022,29 George Street Richmond TW9 1HY,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.460656,-0.303908,0.15,9,9,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0023,"Police Station, 60-68 Station Road, Hampton",https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.41505,-0.365564,0.26,28,28,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0024,275 Sandycombe Road Richmond TW9 3LU,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.474203,-0.286299,0.05,6,6,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0025,"2 High Street, Teddington",https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.42645,-0.334116,0.02,22,22,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0026,"9 Tudor Road and 27 Milton Road, Hampton",https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.417961,-0.370551,0.11,5,5,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0027,Land At Junction Of A316 And Langhorn Drive And Richmond College Site (Including Craneford Way East Playing Fields And Marsh Farm Lane) Egerton Road Twickenham,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,reserved matters approval,,51.451023,-0.340806,9.38,180,180,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0028,"Sandycombe Centre, 1-9 Sandycombe Road, Richmond",https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.468445,-0.287954,0.12,20,20,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2017-12-13,local-authority-eng:RIC,RBR/17/0029,"Rear Of 74 Church Road, Barnes",https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.474657,-0.240462,0.07,6,6,2017-12-13,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0001,Pouparts Yard And Land Rear Of 84A Hampton Road Twickenham,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.441515,-0.347007,0.03,9,9,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0002,"St Paul's School, Lonsdale Road, Barnes",https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,outline planning permission,,51.486913,-0.237988,17.98,46,46,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0006,84 Whitton Road Twickenham TW1 1BS,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.452894,-0.33455,0.03,9,9,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0007,Becketts Wharf And Osbourne House Becketts Place Hampton Wick,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.413429,-0.309611,0.2,11,11,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0008,Twickenham Railway Station London Road Twickenham,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.450536,-0.32931,1.18,115,115,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0009,37 Grosvenor Road Twickenham TW1 4AD,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.447961,-0.330368,0.01,7,7,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0011,Lockcorp House 75 Norcutt Road Twickenham TW2 6SR,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.44769,-0.341675,0.02,9,9,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0012,HMP Latchmere House Church Road Ham Richmond TW10 5HH,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.427997,-0.296573,2.53,42,42,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0014,29 Charles Street Barnes London,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.470539,-0.253709,0.1,5,5,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0015,2 Broad Street Teddington TW11 8RF,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.425998,-0.339641,0.01,5,5,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0016,Richmond Film Services Park Lane Richmond TW9 2RA,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.463588,-0.303943,0.12,8,8,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0017,97A White Hart Lane Barnes London SW13 0JL,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.467703,-0.253471,0.01,8,8,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0018,Christ Church Station Road Teddington,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.426277,-0.332669,0.22,6,6,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2018-12-20,local-authority-eng:RIC,RBR/17/0019,Teddington Studios Broom Road Teddington,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.428983,-0.321264,1.8,237,237,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0020,The Avenue Centre 1 Normansfield Avenue Hampton Wick Teddington TW11 9RP,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.419151,-0.311039,0.52,15,15,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0021,Silver Birches 2-6 Marchmont Road Richmond TW10 6HH,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.458862,-0.294891,0.24,8,8,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0022,29 George Street Richmond TW9 1HY,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.460656,-0.303908,0.15,9,9,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0023,"Police Station, 60-68 Station Road, Hampton",https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.41505,-0.365564,0.26,28,28,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0024,275 Sandycombe Road Richmond TW9 3LU,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.474203,-0.286299,0.05,6,6,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0025,"2 High Street, Teddington",https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.42645,-0.334116,0.02,22,22,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0026,"9 Tudor Road and 27 Milton Road, Hampton",https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.417961,-0.370551,0.11,5,5,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0027,Land At Junction Of A316 And Langhorn Drive And Richmond College Site (Including Craneford Way East Playing Fields And Marsh Farm Lane) Egerton Road Twickenham,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,reserved matters approval,,51.451023,-0.340806,9.38,180,180,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0028,"Sandycombe Centre, 1-9 Sandycombe Road, Richmond",https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.468445,-0.287954,0.12,20,20,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2017-12-13,local-authority-eng:RIC,RBR/17/0029,"Rear Of 74 Church Road, Barnes",https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.474657,-0.240462,0.07,6,6,2017-12-13,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
 2017-12-13,local-authority-eng:RIC,RBR/17/0030,"Mereway Day Centre, Mereway Road",https://maps.london.gov.uk/brownfield-site-register,,,not permissioned,,,51.446843,-0.346052,0.23,17,20,2017-12-13,,"The minimum and maximum number of dwellings that the land is capable of supporting are estimates. The estimates are derived from the residential capacity estimates in the London Strategic Housing Land Availability Assessment 2017. The number of dwelling
 
 http://richmond.gov.uk/media/15181/lbr-lp-023b-track-changes-to-publication-local-plan-in-progress-v3_171031-lores.pdf",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
@@ -143,9 +95,5 @@ https://www.richmond.gov.uk/twickenham_area_action_plan",060e59f0475aa7d6fc8404b
 2017-12-13,local-authority-eng:RIC,RBR/17/0053,Twickenham Riverside (Former Pool Site) and south of King Street,https://maps.london.gov.uk/brownfield-site-register,,,not permissioned,,,51.445674,-0.328293,1.06,9,10,2017-12-13,,"The minimum and maximum number of dwellings that the land is capable of supporting are estimates. The estimates are derived from the residential capacity estimates in the London Strategic Housing Land Availability Assessment 2017. The number of dwelling
 
 https://www.richmond.gov.uk/twickenham_area_action_plan",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2018-12-20,local-authority-eng:RIC,RBR/17/0055,"63-71 High Street, Hampton Hill",https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.425011,-0.358261,0.24,41,41,2018-12-20,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
-2018-12-20,local-authority-eng:RIC,RBR/17/0054,Land at 149-151 Heath Road Twickneham,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.445106,-0.33702,0.27,9,9,2018-12-20,,"
-
-",060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2018-12-20,local-authority-eng:RIC,RBR/17/0055,"63-71 High Street, Hampton Hill",https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.425011,-0.358261,0.24,41,41,2018-12-20,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5
+2018-12-20,local-authority-eng:RIC,RBR/17/0054,Land at 149-151 Heath Road Twickneham,https://maps.london.gov.uk/brownfield-site-register,yes,,permissioned,full planning permission,,51.445106,-0.33702,0.27,9,9,2018-12-20,,,060e59f0475aa7d6fc8404bd325939d41442117775feed63fbd7ad1de5af8ac5

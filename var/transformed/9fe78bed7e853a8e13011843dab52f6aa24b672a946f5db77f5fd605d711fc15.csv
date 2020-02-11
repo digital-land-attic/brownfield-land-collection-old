@@ -1,115 +1,43 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
 2018-12-10,local-authority-eng:THE,BR1,"Land at Three Acres, Toms Lane, Kings Langley",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,permissioned,full planning permission,,51.715369,-0.439487,0.42,13,17,2017-12-12,,"Has planning permission for four dwellings, however has also been put forward as a potential development site for the Brownfield Land Register. Part site put forward to  Call for Sites (CFS2).
-Demolition of existing dwelling and builders yard buildings and redevelopment of the site with four detached dwellings and associated gardens and car parking with access to the dwellings via existing entrance to the site from Toms Lane
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR2,"Land at Chorleywood Station, Chorleywood",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.653695,-0.518063,1.68,84,150,2017-12-12,,"Part of site put forward to Call for Sites (CFS16)
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR3,"Knoll Oak, Sandy Lane, Northwood",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.619702,-0.407235,0.07,5,7,2017-12-12,,"Part of site put forward to Call for Sites (CFS22)
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR4,"Land at Maple Cross, Maple Lodge",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.626369,-0.502498,3.18,95,160,2017-12-12,,"Part of site put forward to Call for Sites (CFS33)
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR5,"Land at Park Road, High Street, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.641264,-0.46728,0.61,36,50,2017-12-12,,"Part of site put forward to Call for Sites (CFS40)
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR6A,"Rickmansworth Station Car Park, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.640411,-0.473609,0.11,10,15,2017-12-12,,"Part of site put forward to Call for Sites (CFS41)
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR6B,"Land at Rickmansworth Station, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.640067,-0.473447,0.31,19,25,2017-12-12,,"Part of site put forward to Call for Sites (CFS41)
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR7,"Former Sir James Altham School, South Oxhey",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.618631,-0.383453,0.72,43,60,2017-12-12,,"Part of site put forward to Call for Sites (CFS52)
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR8,"Kings Langley Employment Area, Kings Langley",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,permissioned,full planning permission,,51.713081,-0.442518,30.93,200,300,2017-12-12,,"Planning permission has been granted for parts of the site, however there are still sections of the site suitable for brownfield housing development.
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+Demolition of existing dwelling and builders yard buildings and redevelopment of the site with four detached dwellings and associated gardens and car parking with access to the dwellings via existing entrance to the site from Toms Lane",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR2,"Land at Chorleywood Station, Chorleywood",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.653695,-0.518063,1.68,84,150,2017-12-12,,Part of site put forward to Call for Sites (CFS16),9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR3,"Knoll Oak, Sandy Lane, Northwood",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.619702,-0.407235,0.07,5,7,2017-12-12,,Part of site put forward to Call for Sites (CFS22),9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR4,"Land at Maple Cross, Maple Lodge",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.626369,-0.502498,3.18,95,160,2017-12-12,,Part of site put forward to Call for Sites (CFS33),9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR5,"Land at Park Road, High Street, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.641264,-0.46728,0.61,36,50,2017-12-12,,Part of site put forward to Call for Sites (CFS40),9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR6A,"Rickmansworth Station Car Park, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.640411,-0.473609,0.11,10,15,2017-12-12,,Part of site put forward to Call for Sites (CFS41),9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR6B,"Land at Rickmansworth Station, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.640067,-0.473447,0.31,19,25,2017-12-12,,Part of site put forward to Call for Sites (CFS41),9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR7,"Former Sir James Altham School, South Oxhey",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.618631,-0.383453,0.72,43,60,2017-12-12,,Part of site put forward to Call for Sites (CFS52),9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR8,"Kings Langley Employment Area, Kings Langley",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,permissioned,full planning permission,,51.713081,-0.442518,30.93,200,300,2017-12-12,,"Planning permission has been granted for parts of the site, however there are still sections of the site suitable for brownfield housing development.",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
 2018-12-10,local-authority-eng:THE,BR9,"Mansion House Farm Equastrian Centre, Bedmond Road, Abbots Langley",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,permissioned,full planning permission,,51.711388,-0.414149,0.41,17,25,2017-12-12,,"Part of site put forward to Call for Sites (CFS6)
-Demolition of existing equestrian centre and redevelopment of the land for 15 dwellinghouses and 2 flats (17 units in total) with associated vehicular access, car parking, landscaping and engineering works
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR10,"Pin Wei, 35 High Street, Abbots Langley",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,,not owned by a public authority,not permissioned,,,51.706985,-0.416329,0.13,10,15,2017-12-12,,"
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR11,"Furtherfield Depot Furtherfield, Abbots Langley",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.699013,-0.418633,0.53,21,32,2017-12-12,,"Part of site PCS60
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR12,"Hill Farm Industrial Estate, Hill Farm Avenue, Leavesden",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.694598,-0.410019,0.57,30,40,2017-12-12,,"
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+Demolition of existing equestrian centre and redevelopment of the land for 15 dwellinghouses and 2 flats (17 units in total) with associated vehicular access, car parking, landscaping and engineering works",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR10,"Pin Wei, 35 High Street, Abbots Langley",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,,not owned by a public authority,not permissioned,,,51.706985,-0.416329,0.13,10,15,2017-12-12,,,9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR11,"Furtherfield Depot Furtherfield, Abbots Langley",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.699013,-0.418633,0.53,21,32,2017-12-12,,Part of site PCS60,9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR12,"Hill Farm Industrial Estate, Hill Farm Avenue, Leavesden",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.694598,-0.410019,0.57,30,40,2017-12-12,,,9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
 2018-12-10,local-authority-eng:THE,BR13,"Langleybury House/School, Langleybury",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.68887,-0.442192,1.97,60,80,2017-12-12,,"This site is part of the Council's development brief for 'Langleybury and the Grove'. Part of site put forward to Call for Sites (CFS23).
 
 http://www.threerivers.gov.uk/egcl-page/langleybury-and-the-grove-development-brief",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR14,"Royal British Legion, Church Lane, Sarratt",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.68121,-0.492575,0.15,10,15,2017-12-12,,"Rural exception site in Sarratt village. Three applications have been withdrawn.
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR15,"33 Baldwins Lane, Croxley Green",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.651753,-0.431496,0.09,10,13,2017-12-12,,"
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR16,"50-52 New Road, Croxley Green",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,,not owned by a public authority,not permissioned,,,51.648024,-0.45134,0.17,10,15,2017-12-12,,"
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR17,"Croxley Station Car Park and Timber Yard, Croxley Green",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.648017,-0.440008,1.45,87,105,2017-12-12,,"Part of site put forward to Call for Sites (CFS20)
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR18,"Police Station, Rectory Road, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.638705,-0.477236,0.29,15,24,2017-12-12,,"
-Police station has been demolished, however no planning application for the development of the site has been received by the Council
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR19,"Royal British Legion, Ebury Road, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.63859,-0.471185,0.08,5,7,2017-12-12,,"
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR20,"Bridge Motors, Church Street, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.636437,-0.468093,0.12,10,15,2017-12-12,,"
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR21,"Depot, Stockers Farm Road, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,,owned by a public authority,not permissioned,,,51.630827,-0.474379,0.8,60,70,2017-12-12,,"
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR22,"Pocklington House, Eastbury Avenue, Northwood",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,permissioned,full planning permission,,51.615784,-0.412081,0.63,40,50,2017-12-12,,"
-Redevelopment of the site to provide 40 residential dwellings in three appartment blocks, with Block 1 and Block 2 extending to four storeys in height, and Block 3 extending to three storeys in height with associated underground parking, private and communal amenity space, refuse and cycle storage. Creation of second access off Eastbury Avenue
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR23,"The Fairway, Green Lane, Oxhey Hall",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.634835,-0.392645,0.35,25,33,2017-12-12,,"
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR24,"Little Furze School, South Oxhey",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,permissioned,outline planning permission,,51.626883,-0.401623,1.99,90,140,2017-12-12,,"
-Erection of up to 70 dwellings (Use Class C3) and a 75 bed care home (Use Class C2), with associated new access (appearance, landscaping, layout and scale reserved)
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR26,"Grapevine Public House, Prestwick Road, South Oxhey",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,permissioned,full planning permission,,51.616841,-0.392573,0.27,20,33,2017-12-12,,"
-Demolition of Public House and erection of one three storey and one two storey residential block, comprising a total of 33 flats with associated parking and landscaping
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR25,"Northwick Day Centre, South Oxhey Town Centre",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.623429,-0.39104,0.56,40,55,2017-12-12,,"
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR27,"Bury Hall, Bury Lane, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,permissioned,full planning permission,,51.637176,-0.469643,0.04,17,22,2017-12-12,,"
-Demolition of existing hall and provision of 17no units of temporary residential accommodation with associated car parking and landscape works
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR28,"65 Toms Lane, Kings Langley",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.717352,-0.433063,0.38,15,20,2017-12-12,,"Site put forward to Call for Sites (OSPF21)
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR29,"Land at Bedmond Road, Abbots Langley",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.712647,-0.416174,0.99,30,50,2017-12-18,,"Site put forward to Call for Sites (ACFS9D)
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR30,"Affinity Water Depot, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.634465,-0.465153,1.06,53,73,2018-12-10,,"Site put forward to Call for Sites (CFS60)
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR31,"Rickmansworth Library, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.639054,-0.468828,0.09,5,7,2018-12-10,,"Site put forward to Call for Sites (CFS77)
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR32,"Kebbell House, Delta Gain",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.629047,-0.385019,0.65,55,75,2018-12-10,,"Part of site put forward to Call for Sites (CFS12)
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR33,"Cinnamond House, Cassiobridge",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.65206,-0.429591,0.59,50,60,2018-12-10,,"Site put forward to Call for Sites (CFS61)
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR34,"Land at Station Road, Kings Langley",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.701338,-0.437857,0.32,13,16,2018-12-10,,"Part of site put forward to Call for Sites (CFS55)
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR35,"Adams Nurseries, Sarratt",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.679575,-0.492687,0.24,7,10,2018-12-10,,"Part of site put forward to Call for Sites (CFS47C)
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR36,"38 Eastbury Avenue, Northwood",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,permissioned,full planning permission,,51.616235,-0.413466,0.01,7,10,2018-12-10,,"
-Erection of two storey building with habitable roofspace to create 7 x 2-bed self contained flats with associated parking within basement level, cycle and refuse store, amenity areas and landscaping involving demolition of existing dwelling house
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
-2018-12-10,local-authority-eng:THE,BR37,"Leavesden Pumping Station, Abbots Langley",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.707343,-0.402277,0.48,15,20,2018-12-10,,"Part of site PCS42
-
-",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR14,"Royal British Legion, Church Lane, Sarratt",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.68121,-0.492575,0.15,10,15,2017-12-12,,Rural exception site in Sarratt village. Three applications have been withdrawn.,9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR15,"33 Baldwins Lane, Croxley Green",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.651753,-0.431496,0.09,10,13,2017-12-12,,,9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR16,"50-52 New Road, Croxley Green",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,,not owned by a public authority,not permissioned,,,51.648024,-0.45134,0.17,10,15,2017-12-12,,,9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR17,"Croxley Station Car Park and Timber Yard, Croxley Green",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.648017,-0.440008,1.45,87,105,2017-12-12,,Part of site put forward to Call for Sites (CFS20),9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR18,"Police Station, Rectory Road, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.638705,-0.477236,0.29,15,24,2017-12-12,,"Police station has been demolished, however no planning application for the development of the site has been received by the Council",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR19,"Royal British Legion, Ebury Road, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.63859,-0.471185,0.08,5,7,2017-12-12,,,9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR20,"Bridge Motors, Church Street, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.636437,-0.468093,0.12,10,15,2017-12-12,,,9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR21,"Depot, Stockers Farm Road, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,,owned by a public authority,not permissioned,,,51.630827,-0.474379,0.8,60,70,2017-12-12,,,9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR22,"Pocklington House, Eastbury Avenue, Northwood",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,permissioned,full planning permission,,51.615784,-0.412081,0.63,40,50,2017-12-12,,"Redevelopment of the site to provide 40 residential dwellings in three appartment blocks, with Block 1 and Block 2 extending to four storeys in height, and Block 3 extending to three storeys in height with associated underground parking, private and communal amenity space, refuse and cycle storage. Creation of second access off Eastbury Avenue",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR23,"The Fairway, Green Lane, Oxhey Hall",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.634835,-0.392645,0.35,25,33,2017-12-12,,,9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR24,"Little Furze School, South Oxhey",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,permissioned,outline planning permission,,51.626883,-0.401623,1.99,90,140,2017-12-12,,"Erection of up to 70 dwellings (Use Class C3) and a 75 bed care home (Use Class C2), with associated new access (appearance, landscaping, layout and scale reserved)",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR26,"Grapevine Public House, Prestwick Road, South Oxhey",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,permissioned,full planning permission,,51.616841,-0.392573,0.27,20,33,2017-12-12,,"Demolition of Public House and erection of one three storey and one two storey residential block, comprising a total of 33 flats with associated parking and landscaping",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR25,"Northwick Day Centre, South Oxhey Town Centre",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.623429,-0.39104,0.56,40,55,2017-12-12,,,9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR27,"Bury Hall, Bury Lane, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,permissioned,full planning permission,,51.637176,-0.469643,0.04,17,22,2017-12-12,,Demolition of existing hall and provision of 17no units of temporary residential accommodation with associated car parking and landscape works,9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR28,"65 Toms Lane, Kings Langley",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.717352,-0.433063,0.38,15,20,2017-12-12,,Site put forward to Call for Sites (OSPF21),9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR29,"Land at Bedmond Road, Abbots Langley",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.712647,-0.416174,0.99,30,50,2017-12-18,,Site put forward to Call for Sites (ACFS9D),9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR30,"Affinity Water Depot, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.634465,-0.465153,1.06,53,73,2018-12-10,,Site put forward to Call for Sites (CFS60),9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR31,"Rickmansworth Library, Rickmansworth",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,owned by a public authority,not permissioned,,,51.639054,-0.468828,0.09,5,7,2018-12-10,,Site put forward to Call for Sites (CFS77),9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR32,"Kebbell House, Delta Gain",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.629047,-0.385019,0.65,55,75,2018-12-10,,Part of site put forward to Call for Sites (CFS12),9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR33,"Cinnamond House, Cassiobridge",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.65206,-0.429591,0.59,50,60,2018-12-10,,Site put forward to Call for Sites (CFS61),9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR34,"Land at Station Road, Kings Langley",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.701338,-0.437857,0.32,13,16,2018-12-10,,Part of site put forward to Call for Sites (CFS55),9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR35,"Adams Nurseries, Sarratt",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.679575,-0.492687,0.24,7,10,2018-12-10,,Part of site put forward to Call for Sites (CFS47C),9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR36,"38 Eastbury Avenue, Northwood",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,permissioned,full planning permission,,51.616235,-0.413466,0.01,7,10,2018-12-10,,"Erection of two storey building with habitable roofspace to create 7 x 2-bed self contained flats with associated parking within basement level, cycle and refuse store, amenity areas and landscaping involving demolition of existing dwelling house",9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15
+2018-12-10,local-authority-eng:THE,BR37,"Leavesden Pumping Station, Abbots Langley",http://www.mapsinteractive.co.uk/planvu/trdc/index.php,yes,not owned by a public authority,not permissioned,,,51.707343,-0.402277,0.48,15,20,2018-12-10,,Part of site PCS42,9fe78bed7e853a8e13011843dab52f6aa24b672a946f5db77f5fd605d711fc15

@@ -1,124 +1,46 @@
-OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/1,Harrow Road,-0.240301,51.53246,https://data.london.gov.uk/,1.6,owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/2,2 Scrubs Lane,-0.237725,51.531963,https://data.london.gov.uk/,0.1,not owned by a public authority,,permissioned,full planning permission,2017-10-11,https://www.london.gov.uk/moderngovopdc/ieListDocuments.aspx?CId=381&MId=6062&Ver=4,,,yes,"
-""20-storey building, 85 C3 homes  of which 28 affordable""
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/3,Car Giant,-0.239694,51.527272,https://data.london.gov.uk/,9.7,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/4,EMR,-0.241983,51.529977,https://data.london.gov.uk/,1.8,owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/5,Cumberland Business Park,-0.23737,51.529215,https://data.london.gov.uk/,1.1,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/6,North Kensington Gate North,-0.235402,51.527993,https://data.london.gov.uk/,0.2,not owned by a public authority,,permissioned,full planning permission,2017-03-01,https://www.london.gov.uk/moderngovopdc/ieListDocuments.aspx?CId=381&MId=6044&Ver=4,,,yes,"
-""4-storey and 11-storey buildings, 47 C3 homes of which 15 affordable""
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/7,Mitre Yard,-0.235433,51.527194,https://data.london.gov.uk/,0.5,not owned by a public authority,,permissioned,full planning permission,2017-07-12,https://www.london.gov.uk/moderngovopdc/ieListDocuments.aspx?CId=381&MId=6060&Ver=4,,,yes,"
-""19-storey building, 200 C3 homes of which 67 affordable""
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/8,North Kensington Gate South,-0.234356,51.526645,https://data.london.gov.uk/,0.1,not owned by a public authority,,permissioned,full planning permission,2017-05-05,https://www.london.gov.uk/moderngovopdc/ieListDocuments.aspx?CId=381&MId=6045&Ver=4,,,yes,"
-""6 to 20-storey buildings, 164  C3 homes of which 44 affordable""
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/9,Mitre Wharf,-0.234097,51.526241,https://data.london.gov.uk/,0.1,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/10,Willesden Junction Depot,-0.239968,51.531449,https://data.london.gov.uk/,0.2,owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/11,2 Victoria Terrace,-0.256048,51.524965,https://data.london.gov.uk/,,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/12,Oaklands North,-0.248928,51.527815,https://data.london.gov.uk/,0.7,owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/13,"Oaklands, Old Oak Common Lane, London, NW10 6DU",-0.249166,51.527171,https://data.london.gov.uk/,1,not owned by a public authority,,permissioned,full planning permission,2016-07-13,https://www.london.gov.uk/moderngovopdc/ieListDocuments.aspx?CId=381&MId=6033&Ver=4,,,yes,"
-""6 to 26-storey buildings, 601 C3 homes of which 242 affordable""
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/14,Old Oak Common Lane sites (North),-0.25077,51.52655,https://data.london.gov.uk/,0.6,mixed ownership,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/15,Old Oak Common Station and surroundings,-0.24598,51.52632,https://data.london.gov.uk/,12.3,mixed ownership,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/16,Big Yellow Storage,-0.233539,51.5249,https://data.london.gov.uk/,0.2,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/17,Mitre Industrial Estate,-0.230991,51.5245,https://data.london.gov.uk/,0.9,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/18,Tea Crate,-0.231601,51.52371,https://data.london.gov.uk/,0.4,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/19,Acton Wells,-0.255338,51.52456,https://data.london.gov.uk/,3.5,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/20,Boden House,-0.25665,51.52378,https://data.london.gov.uk/,0.7,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/21,Midland Gate,-0.253385,51.525368,https://data.london.gov.uk/,0.2,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/22,"Holbrook House, Victoria Road Acton W3 6UW",-0.258666,51.522915,https://data.london.gov.uk/,0.1,not owned by a public authority,,permissioned,full planning permission,2017-02-14,https://pam.ealing.gov.uk/online-applications/applicationDetails.do?keyVal=O4SO8BJM02F00&activeTab=summary,,,yes,"
-""16 to 24-storey buildings comprising 424 student bed spaces""
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/23,"Perfume Factory North, 140 Wales Farm Road, Acton W3 6UG",-0.257501,51.52227,https://data.london.gov.uk/,0.5,not owned by a public authority,,pending decision,,,https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=P589MSJM0E200,,,yes,"Permission subject to s106
-""3 No. buildings between 12 and 25 storeys in height, 380 residential units""
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/24,Victoria Estate,-0.257258,51.520648,https://data.london.gov.uk/,1.7,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/25,"6 Portal West, North Acton W3 6RU",-0.262053,51.522109,https://data.london.gov.uk/,0.6,not owned by a public authority,,permissioned,full planning permission,2017-02-14,https://pam.ealing.gov.uk/online-applications/applicationDetails.do?keyVal=O4G865JM02A00&activeTab=summary,,,yes,"
-""Four buildings of 2, 9, 11, 32 and 42 storeys comprising 578 residential flats, 164 affordable""
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/26,Carphone Warehouse 1 Portal Way Acton W3 6RT,-0.260823,51.521577,https://data.london.gov.uk/,1.1,not owned by a public authority,,permissioned,outline planning permission,2016-08-08,https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=ZZZW7QJMTA375,,,yes,"
-"" 8 blocks ranging in height from 6 to 32 storeys to incorporate up to 764 residential flats""
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/27,"The Portal, The Portal Land At Wales Farm Road & Portal Way. Acton W3 6EJ",-0.259372,51.522012,https://data.london.gov.uk/,0.1,mixed ownership,,pending decision,,,https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=OFPEEQJM09L00,,,,"Permission is subject to S106 being agreed
-""Part 10, part 36 storey building comprising 355 residential units, 30% affordable""
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/28,"Perfume Factory South, 140 Wales Farm Road, Acton W3 6UG",-0.258008,51.521764,https://data.london.gov.uk/,0.5,not owned by a public authority,,permissioned,full planning permission,2017-12-06,https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=OQIGENJM09L00,,,yes,"
-""Five buildings of 5, 7, 10, 11 and 31 storeys comprising 736 student bed spaces, 85 residential flats""
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/29,Algerian Embassy,-0.262619,51.52168,https://data.london.gov.uk/,0.4,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/30,"2 Portal Way, Acton W3 6RT",-0.261495,51.52073,https://data.london.gov.uk/,0.2,not owned by a public authority,,pending decision,,,https://pam.ealing.gov.uk/online-applications/applicationDetails.do?keyVal=OY0WU3JM0E200&activeTab=summary,,,,"Permission is subject to S106 being agreed
-""Two buildings of 25 and 35 storeys comprising 380 residential flats""
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/31,3 Portal Way,-0.262254,51.520037,https://data.london.gov.uk/,0.2,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/32,Big Yellow Storage (Wales Farm Road),-0.26154,51.51957,https://data.london.gov.uk/,0.5,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/33,Westway Estate,-0.253067,51.520129,https://data.london.gov.uk/,3.7,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/34,Old Oak Common Lane sites,-0.251536,51.521258,https://data.london.gov.uk/,0.6,mixed ownership,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/35,"ASDA, Park Royal",-0.269333,51.52842,https://data.london.gov.uk/,4,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/36,247 Acton Lane,-0.258556,51.534934,https://data.london.gov.uk/,0.3,not owned by a public authority,,pending decision,,,https://www.london.gov.uk/moderngovopdc/ieListDocuments.aspx?CId=381&MId=6064&Ver=4,,,yes,"Permission is subject to S106 being agreed
-""Part 4, 5, 6 and 9 storey building comprising 141  extra care units (Use Class C2), 48 being affordable""
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/37,First Central and surrounds,-0.282546,51.530042,https://data.london.gov.uk/,2.7,not owned by a public authority,,permissioned,full planning permission,2013-06-27,https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=ZZZW7UJMTA945,,,yes,"This site includes an extant pemission for a hotel to the south of Coronation Road which has not been built out
-
-",2017-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/38,"First Central, Lakeside Drive",-0.282546,51.530042,https://data.london.gov.uk/,2.4,not owned by a public authority,,permissioned,full planning permission,2017-10-11,https://www.london.gov.uk/moderngovopdc/ieListDocuments.aspx?CId=381&MId=6062&Ver=4,,,yes,"
-""5 to 27-storey buildings, 807 C3 homes of which 263 affordable""
-",2018-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/39,Triangle business centre,-0.24226,51.52918,https://data.london.gov.uk/,1,mixed ownership,,not permissioned,,,,,,,"
-
-",2018-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/40,Goodall Street Industrial estate and site to the west,-0.248024,51.531848,https://data.london.gov.uk/,0.3,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2018-12-15,2018-12-15,
-http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,Old Oak & Park Royal Development Corporation,OPDC/BLR/41,Ursula Lapp Estate,-0.24666,51.53136,https://data.london.gov.uk/,0.8,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2018-12-15,2018-12-15,
+OrganisationURI,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/1,Harrow Road,-0.240301,51.53246,https://data.london.gov.uk/,1.6,owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/2,2 Scrubs Lane,-0.237725,51.531963,https://data.london.gov.uk/,0.1,not owned by a public authority,,permissioned,full planning permission,2017-10-11,https://www.london.gov.uk/moderngovopdc/ieListDocuments.aspx?CId=381&MId=6062&Ver=4,,,yes,"""20-storey building, 85 C3 homes  of which 28 affordable""",2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/3,Car Giant,-0.239694,51.527272,https://data.london.gov.uk/,9.7,not owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/4,EMR,-0.241983,51.529977,https://data.london.gov.uk/,1.8,owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/5,Cumberland Business Park,-0.23737,51.529215,https://data.london.gov.uk/,1.1,not owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/6,North Kensington Gate North,-0.235402,51.527993,https://data.london.gov.uk/,0.2,not owned by a public authority,,permissioned,full planning permission,2017-03-01,https://www.london.gov.uk/moderngovopdc/ieListDocuments.aspx?CId=381&MId=6044&Ver=4,,,yes,"""4-storey and 11-storey buildings, 47 C3 homes of which 15 affordable""",2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/7,Mitre Yard,-0.235433,51.527194,https://data.london.gov.uk/,0.5,not owned by a public authority,,permissioned,full planning permission,2017-07-12,https://www.london.gov.uk/moderngovopdc/ieListDocuments.aspx?CId=381&MId=6060&Ver=4,,,yes,"""19-storey building, 200 C3 homes of which 67 affordable""",2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/8,North Kensington Gate South,-0.234356,51.526645,https://data.london.gov.uk/,0.1,not owned by a public authority,,permissioned,full planning permission,2017-05-05,https://www.london.gov.uk/moderngovopdc/ieListDocuments.aspx?CId=381&MId=6045&Ver=4,,,yes,"""6 to 20-storey buildings, 164  C3 homes of which 44 affordable""",2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/9,Mitre Wharf,-0.234097,51.526241,https://data.london.gov.uk/,0.1,not owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/10,Willesden Junction Depot,-0.239968,51.531449,https://data.london.gov.uk/,0.2,owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/11,2 Victoria Terrace,-0.256048,51.524965,https://data.london.gov.uk/,,not owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/12,Oaklands North,-0.248928,51.527815,https://data.london.gov.uk/,0.7,owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/13,"Oaklands, Old Oak Common Lane, London, NW10 6DU",-0.249166,51.527171,https://data.london.gov.uk/,1,not owned by a public authority,,permissioned,full planning permission,2016-07-13,https://www.london.gov.uk/moderngovopdc/ieListDocuments.aspx?CId=381&MId=6033&Ver=4,,,yes,"""6 to 26-storey buildings, 601 C3 homes of which 242 affordable""",2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/14,Old Oak Common Lane sites (North),-0.25077,51.52655,https://data.london.gov.uk/,0.6,mixed ownership,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/15,Old Oak Common Station and surroundings,-0.24598,51.52632,https://data.london.gov.uk/,12.3,mixed ownership,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/16,Big Yellow Storage,-0.233539,51.5249,https://data.london.gov.uk/,0.2,not owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/17,Mitre Industrial Estate,-0.230991,51.5245,https://data.london.gov.uk/,0.9,not owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/18,Tea Crate,-0.231601,51.52371,https://data.london.gov.uk/,0.4,not owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/19,Acton Wells,-0.255338,51.52456,https://data.london.gov.uk/,3.5,not owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/20,Boden House,-0.25665,51.52378,https://data.london.gov.uk/,0.7,not owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/21,Midland Gate,-0.253385,51.525368,https://data.london.gov.uk/,0.2,not owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/22,"Holbrook House, Victoria Road Acton W3 6UW",-0.258666,51.522915,https://data.london.gov.uk/,0.1,not owned by a public authority,,permissioned,full planning permission,2017-02-14,https://pam.ealing.gov.uk/online-applications/applicationDetails.do?keyVal=O4SO8BJM02F00&activeTab=summary,,,yes,"""16 to 24-storey buildings comprising 424 student bed spaces""",2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/23,"Perfume Factory North, 140 Wales Farm Road, Acton W3 6UG",-0.257501,51.52227,https://data.london.gov.uk/,0.5,not owned by a public authority,,pending decision,,,https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=P589MSJM0E200,,,yes,"Permission subject to s106
+""3 No. buildings between 12 and 25 storeys in height, 380 residential units""",2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/24,Victoria Estate,-0.257258,51.520648,https://data.london.gov.uk/,1.7,not owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/25,"6 Portal West, North Acton W3 6RU",-0.262053,51.522109,https://data.london.gov.uk/,0.6,not owned by a public authority,,permissioned,full planning permission,2017-02-14,https://pam.ealing.gov.uk/online-applications/applicationDetails.do?keyVal=O4G865JM02A00&activeTab=summary,,,yes,"""Four buildings of 2, 9, 11, 32 and 42 storeys comprising 578 residential flats, 164 affordable""",2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/26,Carphone Warehouse 1 Portal Way Acton W3 6RT,-0.260823,51.521577,https://data.london.gov.uk/,1.1,not owned by a public authority,,permissioned,outline planning permission,2016-08-08,https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=ZZZW7QJMTA375,,,yes,""" 8 blocks ranging in height from 6 to 32 storeys to incorporate up to 764 residential flats""",2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/27,"The Portal, The Portal Land At Wales Farm Road & Portal Way. Acton W3 6EJ",-0.259372,51.522012,https://data.london.gov.uk/,0.1,mixed ownership,,pending decision,,,https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=OFPEEQJM09L00,,,,"Permission is subject to S106 being agreed
+""Part 10, part 36 storey building comprising 355 residential units, 30% affordable""",2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/28,"Perfume Factory South, 140 Wales Farm Road, Acton W3 6UG",-0.258008,51.521764,https://data.london.gov.uk/,0.5,not owned by a public authority,,permissioned,full planning permission,2017-12-06,https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=OQIGENJM09L00,,,yes,"""Five buildings of 5, 7, 10, 11 and 31 storeys comprising 736 student bed spaces, 85 residential flats""",2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/29,Algerian Embassy,-0.262619,51.52168,https://data.london.gov.uk/,0.4,not owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/30,"2 Portal Way, Acton W3 6RT",-0.261495,51.52073,https://data.london.gov.uk/,0.2,not owned by a public authority,,pending decision,,,https://pam.ealing.gov.uk/online-applications/applicationDetails.do?keyVal=OY0WU3JM0E200&activeTab=summary,,,,"Permission is subject to S106 being agreed
+""Two buildings of 25 and 35 storeys comprising 380 residential flats""",2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/31,3 Portal Way,-0.262254,51.520037,https://data.london.gov.uk/,0.2,not owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/32,Big Yellow Storage (Wales Farm Road),-0.26154,51.51957,https://data.london.gov.uk/,0.5,not owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/33,Westway Estate,-0.253067,51.520129,https://data.london.gov.uk/,3.7,not owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/34,Old Oak Common Lane sites,-0.251536,51.521258,https://data.london.gov.uk/,0.6,mixed ownership,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/35,"ASDA, Park Royal",-0.269333,51.52842,https://data.london.gov.uk/,4,not owned by a public authority,,not permissioned,,,,,,,,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/36,247 Acton Lane,-0.258556,51.534934,https://data.london.gov.uk/,0.3,not owned by a public authority,,pending decision,,,https://www.london.gov.uk/moderngovopdc/ieListDocuments.aspx?CId=381&MId=6064&Ver=4,,,yes,"Permission is subject to S106 being agreed
+""Part 4, 5, 6 and 9 storey building comprising 141  extra care units (Use Class C2), 48 being affordable""",2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/37,First Central and surrounds,-0.282546,51.530042,https://data.london.gov.uk/,2.7,not owned by a public authority,,permissioned,full planning permission,2013-06-27,https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=ZZZW7UJMTA945,,,yes,This site includes an extant pemission for a hotel to the south of Coronation Road which has not been built out,2017-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/38,"First Central, Lakeside Drive",-0.282546,51.530042,https://data.london.gov.uk/,2.4,not owned by a public authority,,permissioned,full planning permission,2017-10-11,https://www.london.gov.uk/moderngovopdc/ieListDocuments.aspx?CId=381&MId=6062&Ver=4,,,yes,"""5 to 27-storey buildings, 807 C3 homes of which 263 affordable""",2018-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/39,Triangle business centre,-0.24226,51.52918,https://data.london.gov.uk/,1,mixed ownership,,not permissioned,,,,,,,,2018-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/40,Goodall Street Industrial estate and site to the west,-0.248024,51.531848,https://data.london.gov.uk/,0.3,not owned by a public authority,,not permissioned,,,,,,,,2018-12-15,2018-12-15,
+http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,OPDC/BLR/41,Ursula Lapp Estate,-0.24666,51.53136,https://data.london.gov.uk/,0.8,not owned by a public authority,,not permissioned,,,,,,,,2018-12-15,2018-12-15,

@@ -1,28 +1,10 @@
-OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,Epsom and Ewell Borough Council,20,"Epsom Baptist Church, Church Street",-0.26289,51.333297,,0.23,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-11-28,2018-12-18,
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,Epsom and Ewell Borough Council,21,"Rail Land, Mill Road",-0.256596,51.336108,,0.46,not owned by a public authority,,pending decision,,,http://eplanning.epsom-ewell.gov.uk/online-applications/simpleSearchResults.do?action=firstPage,,,,"
-Permission is being sought for 31 units
-",2017-11-08,2018-12-18,
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,Epsom and Ewell Borough Council,194,"Etwell House and former coach depot, Station Approach",-0.241938,51.345142,,0.19,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-11-09,2018-12-18,
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,Epsom and Ewell Borough Council,329,"King's Arms Public House, East Street",-0.25777,51.338104,,0.14,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2017-11-13,2018-12-18,
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,Epsom and Ewell Borough Council,148,"United Reformed Church, Church Street",-0.261142,51.332443,,0.14,not owned by a public authority,,not permissioned,,,,,,,"""Site forms part of an allocation in Plan E, an Area Action Plan for Epsom Town Centre, and is the subject of a Development Brief. http://www.epsom-ewell.gov.uk/sites/default/files/documents/residents/planning/planning-policy/Upper%20High%20Street%2C%20depot%20Road%20and%20Church%20Street%20Dev%20Breif%20Nov%202012.pdf. Comprehensive redevelopment of the wider site could increase the dwelling yield. Site is labelled as 148B on the Map of Brownfield Sites""
-
-",2017-11-15,2018-12-18,
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,Epsom and Ewell Borough Council,600,"Lower Mill, Kingston Road",-0.252906,51.355,,0.55,not owned by a public authority,,pending decision,,,http://eplanning.epsom-ewell.gov.uk/online-applications/applicationDetails.do?keyVal=PF70Q9GY08I00&activeTab=summary,,,,"
-Permission is being sought for 53 extra care apartments, C2 use class
-",2018-12-04,2018-12-18,
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,Epsom and Ewell Borough Council,601,"Spread Eagle Shopping Centre, High Street",-0.2667,51.333146,,0.18,not owned by a public authority,,not permissioned,,,,,,,"
-
-",2018-12-04,2018-12-18,
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,Epsom and Ewell Borough Council,602,"Haddad House, 91 East Street",-0.258328,51.338148,,0.05,not owned by a public authority,,permissioned,reserved matters approval,2018-02-12,http://eplanning.epsom-ewell.gov.uk/online-applications/simpleSearchResults.do?action=firstPage,,,,"
-
-",2018-11-27,2018-12-18,
-http://opendatacommunities.org/id/district-council/epsom-and-ewell,Epsom and Ewell Borough Council,603,"Aviary Court, 138 Miles Road",-0.266037,51.339314,,0.07,not owned by a public authority,,permissioned,planning permission granted under an order,2018-04-25,http://eplanning.epsom-ewell.gov.uk/online-applications/simpleSearchResults.do?action=firstPage,,,,"
-Prior approval permitted for COU of B1 floorspace to 8 residential units
-",2018-12-04,2018-12-18,
+OrganisationURI,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,20,"Epsom Baptist Church, Church Street",-0.26289,51.333297,,0.23,not owned by a public authority,,not permissioned,,,,,,,,2017-11-28,2018-12-18,
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,21,"Rail Land, Mill Road",-0.256596,51.336108,,0.46,not owned by a public authority,,pending decision,,,http://eplanning.epsom-ewell.gov.uk/online-applications/simpleSearchResults.do?action=firstPage,,,,Permission is being sought for 31 units,2017-11-08,2018-12-18,
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,194,"Etwell House and former coach depot, Station Approach",-0.241938,51.345142,,0.19,not owned by a public authority,,not permissioned,,,,,,,,2017-11-09,2018-12-18,
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,329,"King's Arms Public House, East Street",-0.25777,51.338104,,0.14,not owned by a public authority,,not permissioned,,,,,,,,2017-11-13,2018-12-18,
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,148,"United Reformed Church, Church Street",-0.261142,51.332443,,0.14,not owned by a public authority,,not permissioned,,,,,,,"""Site forms part of an allocation in Plan E, an Area Action Plan for Epsom Town Centre, and is the subject of a Development Brief. http://www.epsom-ewell.gov.uk/sites/default/files/documents/residents/planning/planning-policy/Upper%20High%20Street%2C%20depot%20Road%20and%20Church%20Street%20Dev%20Breif%20Nov%202012.pdf. Comprehensive redevelopment of the wider site could increase the dwelling yield. Site is labelled as 148B on the Map of Brownfield Sites""",2017-11-15,2018-12-18,
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,600,"Lower Mill, Kingston Road",-0.252906,51.355,,0.55,not owned by a public authority,,pending decision,,,http://eplanning.epsom-ewell.gov.uk/online-applications/applicationDetails.do?keyVal=PF70Q9GY08I00&activeTab=summary,,,,"Permission is being sought for 53 extra care apartments, C2 use class",2018-12-04,2018-12-18,
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,601,"Spread Eagle Shopping Centre, High Street",-0.2667,51.333146,,0.18,not owned by a public authority,,not permissioned,,,,,,,,2018-12-04,2018-12-18,
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,602,"Haddad House, 91 East Street",-0.258328,51.338148,,0.05,not owned by a public authority,,permissioned,reserved matters approval,2018-02-12,http://eplanning.epsom-ewell.gov.uk/online-applications/simpleSearchResults.do?action=firstPage,,,,,2018-11-27,2018-12-18,
+http://opendatacommunities.org/id/district-council/epsom-and-ewell,603,"Aviary Court, 138 Miles Road",-0.266037,51.339314,,0.07,not owned by a public authority,,permissioned,planning permission granted under an order,2018-04-25,http://eplanning.epsom-ewell.gov.uk/online-applications/simpleSearchResults.do?action=firstPage,,,,Prior approval permitted for COU of B1 floorspace to 8 residential units,2018-12-04,2018-12-18,

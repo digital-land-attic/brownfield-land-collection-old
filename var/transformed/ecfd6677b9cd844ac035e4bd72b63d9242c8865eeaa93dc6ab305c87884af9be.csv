@@ -1,769 +1,257 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
-2016-06-30,local-authority-eng:SAW,28,"Alma Street, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.553922,-2.005119,0.52,19,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,265,"Old Cross Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.529593,-2.069724,0.48,14,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,354,"Park Lane West ( South Staffs Depot ), Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.522709,-2.064953,2.95,103,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,440,"Orchard Street, Burnt Tree, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.51435,-2.06214,0.28,30,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,463,"Dudley Road East (Brades Hall), Brades Hall, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.51527,-2.031948,1.85,58,,2016-06-30,,"43 units completed 15 under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,585,"Birmingham Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,not owned by a public authority,,full planning permission,,52.502859,-2.011005,0.68,41,,2016-06-30,,"3 complete 2 under construction.
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,764,"Hawes Lane, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.48505,-2.047815,0.56,20,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,768,"Reservoir Road, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.485413,-2.038199,0.76,30,,2016-06-30,,"Part SMBC and part private
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,856,"Cradley Road / Bannister Road, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,reserved matters approval,,52.476672,-2.07946,0.52,12,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,1170,"Beever Road, Great Bridge",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.536503,-2.037006,1.01,35,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,1183,"land at Horseley Heath, Alexandra Road, and Lower Church Lane, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.529361,-2.047745,2.3,60,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,1186,"Peel Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,not owned by a public authority,,full planning permission,,52.523631,-2.055374,1.04,58,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,1189,"former Accles and Pollock Sports Ground, Brades Rise, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.506765,-2.033548,6.36,199,,2017-12-01,,"11 not started, 2 under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,1193,"Messenger Road, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.494195,-1.959084,2.94,103,,2017-12-01,,"Site nearly complete, 3 units remain
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,1203,"Mill Street, Great Bridge",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.529374,-2.035776,0.92,36,,2016-06-30,,"12 units completed, 24 under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,1203a,"Mill Street, Great Bridge",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.529374,-2.035776,0.87,30,,2016-06-30,,"Allocated part of site
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,1376,"Elbow Street, Old Hill",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.476159,-2.065929,0.72,25,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,1380,"Whitehall Road, Great Bridge",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.525717,-2.029818,0.41,16,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,1401,"Bell Street/Dudley Road, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.52693,-2.073567,0.62,22,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,1436,"St Annes Road, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.473989,-2.084873,1.13,40,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,1437,"Lower High Street, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.470246,-2.089812,0.4,26,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,1438,"Social Club, Friar Park Farm, Kent Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.559792,-1.98972,1.96,69,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,1440,"John Street North, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.525586,-2.003022,1.47,52,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,1443,"Working Mens Club, Cardigan Close, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.535079,-1.998571,0.14,5,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,1446,"(Site of Former Primrose Centre), Holly Lane Clinic, St. Pauls Road, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,not owned by a public authority,,other,,52.500629,-1.981646,0.18,16,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,1448,"Station Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.525916,-2.051279,1.35,47,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,1449,"Wellington Road, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.525169,-2.05371,0.86,31,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,1451,"28-64 High Street, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.513368,-1.986046,1.04,53,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,1456,"Sandwell College, Smethwick Campus, Crocketts Lane, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,not owned by a public authority,,full planning permission,,52.493029,-1.966213,2.41,178,,2016-06-30,,"85 under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,1459,"Bank Street (West), Hateley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.532544,-1.994001,0.85,43,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,1461,"Waterfall Lane (West), Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.471885,-2.056074,0.46,16,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,1463,"Lower City Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.509444,-2.034006,2.33,82,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,1698,"Units 1-7 Wellesley Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.497187,-2.00137,0.26,9,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-,local-authority-eng:SAW,1919,"Former Starlight Auto Sales, Wolverhampton Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.484744,-2.017053,0.23,14,,,,"Allocated
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,1987,"Site Of Former Black Country Man, 29 Lower Church Lane, Horseley Heath, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.527832,-2.049586,0.14,9,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,1994,"Land And Premises At Winkle Street And John Street, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.52439,-2.0023,1.01,35,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,1997,"Tudor Works, 36A Windmill Lane, Smethwick, B66 3EU",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.490068,-1.957762,0.25,24,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2013,"Land Between No.32 And George Betts School, West End Avenue, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.501835,-1.993916,0.29,11,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2016,"Oak Garage, 63 Gospel Oak Road, Gospel Oak",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.54424,-2.046022,0.55,33,,2016-06-30,,"10 units completed
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2035,"Land Off, Alexandra Road/Spring Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.529707,-2.057268,0.2,9,,2016-06-30,,"8 units already completed
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2043,"The Lagoon, 159 High Street, Princes End, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.542713,-2.062667,0.13,9,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2085,"Block A And Block B Brunswick Park Trading Estate, Brunswick Park Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.55928,-2.004751,0.39,54,,2016-06-30,,"12 units completed
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2172,"Land at 12 Grange Road and The Wharf PH, Grange Road, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.471437,-2.053306,1,40,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2192,"Land at Mill Lane, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.490282,-2.00869,2.4,88,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2193,"Land adjacent to 2 Clifford Road, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.511283,-2.007427,0.07,12,,2016-06-30,,"All units under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2227,"The Boat Gauging House & Adjoining Land, Factory Road, tipton, DY4 9AU",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.172169,-2.072934,0.57,35,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2232,"United Steels Limited, Upper Church Lane, Princes end",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.538229,-2.059314,1.58,73,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2253,"Haden Cross, Halesowen Road, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.467622,-2.059233,0.5,21,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2259,"Sentinel Plastics Limited, 39 Wrights Lane, Cradley Heath, B64 6QY",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.475766,-2.060187,0.27,13,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2284,"2-4 Cape Hill, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.486735,-1.961918,0.04,6,,2017-12-01,,"DC/15/58733
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2367,"Alexandra Road / Upper Church Lane / Locarno Road, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.53155,-2.057639,3.4,142,,2016-06-30,,"128units completed
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2368,"Central Avenue, The existing Summerhill Primary School, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.533392,-2.060148,1.09,40,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2369,"Land at Tibbington Terrace, Former Princes End Primary School, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,full planning permission,,52.538206,-2.068131,0.75,29,,2016-06-30,,"23 units completed, 3 under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2370,"Bradleys Lane / High Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.541846,-2.070407,5.6,230,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2371,"North Smethwick Canalside, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.497578,-1.966063,8.77,400,,2016-06-30,,"Part SMBC and part private
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2372,"Rabone Lane, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.497019,-1.960436,5.98,209,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2373,"Cranford Street (SME5) residential allocation, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.493562,-1.949172,7.08,142,,2016-06-30,,"80 under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2375,"Lyng Industrial Estate, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.514861,-1.995521,10.22,357,,2016-06-30,,"Few small plots in SMBC ownership
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2377,"Carters Green / Gun Lane, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.522718,-2.005085,1.09,50,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2379,"Claypit Lane / Wattle Road, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.521872,-2.014061,6.5,175,,2016-06-30,,"137 units completed
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2380,"Oxford Road, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,full planning permission,,52.519149,-2.00367,3.1,187,,2016-06-30,,"93 units complete, 8 under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2381,"Bus Depot Oak Road, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.518259,-2.005527,1.47,68,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2384,"Oldbury Road, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.520001,-2.022564,16.82,588,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2385,"Brandon Way / Albion Road (WB C4), West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.51904,-2.016138,6.2,248,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2387,"Brandon Way / Brandon Close, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,not owned by a public authority,,other,,52.512766,-2.009239,1.05,43,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2389,"Church Lane / Gladstone Street, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.531295,-1.997804,2.75,111,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2390,"Sandwell District & General Hospital, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.526583,-1.988312,3.08,125,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2396,"116/117 Graingers Lane, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.470313,-2.084086,0.04,6,,2017-12-01,,"under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2402,"Cradley Print Limited, 18 Chester Road, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.469726,-2.086955,1.06,45,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2423,"Former Dept of Social Security, Church Hill Street, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.494442,-1.972457,0.5,60,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2445,"Land adjacent 16 & 23 eagle Close &, Land between 39 & Day Centre Harves Road, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,not owned by a public authority,,full planning permission,,52.485747,-2.056092,1.16,62,,2016-06-30,,"6 completed, 16 under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2450,"Cottage Spring, 97 Alexandra Road, Tipton, West Midlands, DY4 8TD",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.529995,-2.058345,0.12,10,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2463,"Newcomen Drive, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.519752,-2.063475,7.6,300,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2498,"Site of 50 Former Valentin Restaurant, Newbury Lane, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.497597,-2.029284,0.2,7,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2516,"Brindley II, Land between Lewisham Rd/ Mafeking Rd and, Birmingham Canal, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.499816,-1.965044,5.15,168,,2016-06-30,,"All under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2583,"Extension to Caravan Site, Brierley Lane, Bilston, WV14 8TU",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.549828,-2.071909,1.38,26,,2017-12-01,,"16 plots completed
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2588,"Abberley Street, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.488752,-1.947469,1.66,108,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2590,"South of Cranford Street and Heath Street, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.49153,-1.946921,3.21,113,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2625,"Haden Cross Drive, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.466859,-2.057702,1.56,41,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2712,"50-52 Sandwell Road, West Bromwich, B70 8TG",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.523069,-1.998188,0.21,11,,2016-06-30,,"11 units under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2715,"Bolton Court (former Site Of Maisonettes), Ocker Hill Road, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,full planning permission,,52.542039,-2.042786,1.98,58,,2016-06-30,,"All under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2820,"Eastern Gateway Development Site, High Street, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.516434,-1.988639,1.18,45,,2016-06-30,,"96 units completed
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2886,"Site Of 18A Church Vale, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.52901,-1.986307,0.05,6,,2016-06-30,,"All under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2893,"Former Sunlight Laundry, Standhope Road, Smethwick, B67 6HN",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.483726,-1.971198,0.73,40,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2906,"Darlaston Road/Old Park Road, Kings Hill, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.559007,-2.026198,5.2,200,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2908,"Site Of 30-144 & Open Space, Mounts Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,not owned by a public authority,,other,,52.549911,-2.017005,1.07,45,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2910,"Leabrook Road/Willingsworth Road, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.546095,-2.035908,0.37,13,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2911,"Mounts Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.549273,-2.01637,1.1,39,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2915,"Land between Tinsley St and Whitehall Road, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.528423,-2.030675,0.28,10,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2916,"Whitehall Road Industrial Estate, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.527821,-2.029274,2.51,88,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2917,"Land Between Whitehall Road and Walsall Canal, Great Bridge",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.527821,-2.029274,0.64,23,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2919,"Land to east of Black Lake, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,53.492693,-2.008191,2.45,86,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2922,"Old Park Trading Estate site, on Old Park Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.558136,-2.024973,2.6,91,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2925,"Site off Mounts Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.548958,-2.018258,0.49,17,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2926,"Site on the corner of Bridge Street & Mounts Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.547682,-2.017387,3.15,110,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2927,"Site on the corner of Woden Road South & Bridge St, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.546675,-2.016649,1.61,56,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2929,"Site on corner of New Street, Hill Top, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.535717,-2.012237,1.11,39,,2016-06-30,,"Part SMBC and part private
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2930,"Pembroke Way, Hateley Heath, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.536401,-2.003613,2.3,81,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2931,"Garage on Whitehall Road, Great Bridge",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.528279,-2.031545,0.14,5,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2933,"Leabrook Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.549053,-2.037532,2.17,76,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2934,"Site on New Road, Great Bridge",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.532664,-2.036825,0.4,14,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2936,"CBF Ltd, Wade Building Services, Groveland Road",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.517296,-2.049486,1.29,45,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2937,"Fisher St / Coneygre Road, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.518955,-2.057652,1.7,60,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2938,"Castle Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.525707,-2.072872,1.49,52,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2939,"Lower City Road / Dudley Rd East, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.511251,-2.033713,0.56,20,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2940,"Rattlechain Site Land to the north of, Temple Way, Tividale",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.518838,-2.037845,9.21,322,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2942,"Castle Street / High Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.526949,-2.07196,0.66,23,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2943,"Coneygre Road/ Burnt Tree, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.520098,-2.056593,1.11,39,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2944,"Birmingham Board Co Ltd, Dudley Road East, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.507127,-2.024001,0.99,35,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2945,"land off dudley Rd, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.506202,-2.022011,0.96,33,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2946,"Site surrounding former Post office and, Telephone exchange, Horseley heath, tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.528131,-2.042836,0.63,22,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2947,"Site on Railway Street, Horseley Heath, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.528131,-2.042836,0.35,12,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2948,"industrial Site on Salem St, Great Bridge, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.527244,-2.034006,0.17,11,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2949,"British Gas Plc, Land off Dudley Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.506651,-2.023514,1.04,36,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2950,"Land Adj to Cleton business Park, Tipton Rd, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.517521,-2.048543,0.56,19,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2951,"Vaughan Trading Estate, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.520227,-2.048679,1.5,70,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2952,"Lower Church Lane, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.529863,-2.052021,0.76,13,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2953,"Sedgley Rd West, High Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.529464,-2.074028,1.12,39,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2955,Unit 1 Groveland Road,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.514625,-2.051207,0.36,13,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2956,"Upper Chapel St/ Brittania St/, 70-74 dudley Rd West",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.514411,-2.048731,0.63,22,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2957,"Dudley Rd / 28 Dudley Rd, West",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.514287,-2.043824,1.78,62,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2958,"Tipton Rd, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.514835,-2.042749,1.76,62,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2963,Groveland Rd,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.516001,-2.049794,1.18,41,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-,local-authority-eng:SAW,2965,"Land between Great Bridge Street & William Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.52811,-2.025236,1.92,67,,,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2966,"Alexandra Industrial Est, Locarno Rd / Alexandra Rd, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.530164,-2.061161,2.2,77,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2967,"Site between Charles Street & Walsall Canal, Great Bridge",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.528271,-2.028169,2.18,76,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2969,"Dudley Rd West, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.51486,-2.049807,0.46,16,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2971,"Hurst Lane / Birmingham Canal / Sedgley Road, West, tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.530578,-2.075696,2.19,77,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-,local-authority-eng:SAW,2972,"Used Car Sales site on corner of Lower Church Lane, and Horseley Heath, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.525406,-2.0478,0.56,20,,,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2973,"Burnt Tree Ind Est, Groveland rd",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.515156,-2.050869,0.82,29,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2974,88/90 dudley Rd West,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.514635,-2.049527,0.37,13,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2980,"Clay Lane, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.489068,-2.01433,0.28,12,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2982,"Land at Portway Road & Hawes Lane, Tippity Green, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.487027,-2.049452,1.13,40,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2983,"Land at Tippity Green, Portway Road, Allsops Hill, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.488519,-2.048879,0.38,13,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2984,"Land at Tippity Green, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.489402,-2.044256,4.34,150,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2985,"STW/SMBC Land, Friar Park Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.556187,-1.990738,27.87,975,,2016-06-30,,"Part SMBC and part private
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2986,"Friar Street, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.554785,-2.002833,1.01,38,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2987,"Wolverhampton Road and Anvil Drive, Oldbury, B69 2JW",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.497193,-2.026146,0.31,11,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2990,"Fitzgerald Lighting LTD, Rood End Road, Oldbury, B69 4HT",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.500432,-1.997909,1.39,49,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,2994,"Oldbury Road Industrial Estate, Oldbury Road, Smethwick, B66 1JE",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.501996,-1.988348,0.57,18,,2016-06-30,,"Part SMBC and part private
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2996,"Thompson Road, Oldbury, B68 8QE",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.489905,-2.007894,1.16,41,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,2997,"Cape Hill/ Durban Street/ Raglan Road, Smethwick, B66 4SH",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.487874,-1.953876,2.97,104,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3002,"Rear of Council House, High Street, Smethwick, B66 3NT",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.491168,-1.966671,0.37,13,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3009,"Tatbank Road, Oldbury, B69 4NB",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.494984,-2.003049,1.15,40,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3010,"Corngreaves Road (City Estate, Hillcrest Ind Estate), Palmers Garage",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.468977,-2.07818,2.8,98,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3011,"Langley Maltings, Western Road, Langly, B69 4LY",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.492584,-2.007129,2.72,95,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3012,"Giles Road, Oldbury, B68 8JQ",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.494598,-2.003167,0.25,9,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3013,"JAS Industrial Park, Titford Lane, Oldbury, B65 0PY",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.486999,-2.025065,0.93,33,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3014,"Oldbury Road, Oldbury, B66 1NJ",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.502248,-1.99374,2.89,102,,2016-06-30,,"Few small areas in SMBC ownership
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3015,"104-110 Oldbury Road, Smethwick, B66 1JE",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.501996,-1.988348,0.68,24,,2016-06-30,,"Part SMBC and part private
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3016,"230 Oldbury Road, B66 1NR",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.501979,-1.999721,1.48,52,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3019,Station Road (South),http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.471049,-2.055911,0.95,33,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3020,"Broadcott Industrial Estate, and Broadwyn Trading, Estate, Waterfall, Lane/Station Road, Old Hill.",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,not owned by a public authority,,other,,52.472181,-2.058077,1.4,49,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3021,"80, 82, 85 & 90a Waterfall, Lane & 99 to 125 (odds), Station Road, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.471651,-2.056707,0.35,12,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3023,"Macarthur Road Industrial, Estate, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.467542,-2.086421,1.32,46,,2016-06-30,,"Small area is private
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3025,"Silverthorne Lane/ Forge, Lane, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.470773,-2.093287,2.82,99,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3026,"Station Street / Graingers, Lane, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.469612,-2.083187,1.3,46,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3027,"The Bridge Trading Centre, Cokeland Place /, Corngreaves Road, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.470118,-2.080008,0.57,19,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3029,"Cradley Road, Lower High, Street, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.470168,-2.085867,0.99,33,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3031,"Station Street / Cradley, Road, Cradley Heath (opp, Majestic Cinema)",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.469612,-2.083187,0.29,12,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3032,"Oldfield Trading Estate, Oldfields, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.470623,-2.077904,1.64,51,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3034,"Providence Street (Land, bounded by Newtown, Lane, Mousesweet Brook, & Foxoak Street), Cradley Heath.",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.474881,-2.082033,4.81,168,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3040,"Cradley Heath Factory Centre, Woods Lane, Cradley Heath, B64 7AQ",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.468322,-2.089705,8.11,351,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3041,"Cokeland Place / Graingers, Lane, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.470019,-2.080773,0.38,13,,2016-06-30,,"Part SMBC and part private
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3043,"Palmers Timber site, Station, Road, Old Hill",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.469682,-2.05669,0.95,35,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3044,"Jewson Limited, 89-105, High Rowley, Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.476276,-2.046539,0.35,12,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3048,"Land at Newton Rd, Great Barr",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.542631,-1.954144,0.3,16,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3049,"Land between Addington Way and River, Tame, Temple Way (Rattlechain)",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.517571,-2.033644,0.9,39,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3128,"Mill Lane/ Langley Green Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.489734,-2.011002,1.23,43,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3138,"Batman's Hill Pupil Referral Unit, Adams Close, Princes End",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.544608,-2.066946,0.63,26,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3139,"Former school site, Doulton Road, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.488983,-2.057304,1.06,20,,2016-06-30,,"18 under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3140,"Land at Doulton Way, between Factory Road, Bloomfield Road, & railway line, Tipton.",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.532477,-2.072132,2.62,99,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3141,"Corner of Batmans Hill, Road and Hobart Road, Princes End, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.546476,-2.06922,0.23,8,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3142,"Spinners End Industrial, Estate",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.471163,-2.076241,0.71,25,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3153,"Former Fisheries Site, Union Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.51182,-2.025757,2.13,17,,2016-06-30,,"5 units completed
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3185,"The Mill, Beaconview Road, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.54609,-1.975596,0.23,11,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3219,"Land & premises, Barnfield Road, Brook, Street & Bloomfield Road.",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.534544,-2.072975,0.76,27,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3220,Brown Lion Street/ Bloomfield Road,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.538617,-2.072274,0.45,25,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3221,"Site between Bloomfield, Road, Fountain Lane &, Bradleys Lane, Tipton, West Midlands",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.539966,-2.072026,1.5,53,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3223,"Summerton Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.508187,-2.030145,1.41,49,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3224,"10-60 Dudley Road East, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.511933,-2.039784,2,70,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3225,"Fox Oak Street/ St Annes Road, Kawasaki Garage",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.472668,-2.084841,0.4,14,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3226,"Bank Street, West of Kimber Drop, forgings Site, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.473766,-2.08318,1.16,41,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3227,"Hall Green Road, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,reserved matters approval,,52.547404,-1.98838,5.2,219,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3260,"Yard adjacent Waterside Court, Titford Road, Oldbury, B69 4QW",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.487332,-2.021442,0.04,6,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3283,"Site Of Former Londonderry Public House, Basons Lane, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.492179,-1.990898,0.5,14,,2016-06-30,,"7 units completed, 7 under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3310,"Site Of 180-190, Dudley Road, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.490665,-2.056776,0.15,8,,2016-06-30,,"8 units under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3398,"Firth Cleveland, Locarno Road, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.531073,-2.059673,2.42,90,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3416,"Harvills Hawthorn PFI, Harvills Hawthorn, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.535024,-2.020419,6.25,232,,2016-06-30,,"93 units completed, 38 under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3422,"Throne Road/Newbury Lane, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.493288,-2.038103,4.15,118,,2016-06-30,,"45 completed, 8 under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3462,Unett Atreet/ Raglan Road,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.488844,-1.952815,4.6,161,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3467,"Lower High Street, (Station hotel & Dunns Site).",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.469905,-2.08912,0.28,10,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3500,"Johal Supersave, 90 Oxford Street, Wednesbury, WS10 0PY",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.552708,-2.006151,0.01,5,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3506,"Norbert Dentressangle, Doulton Road, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.489437,-2.065389,5.22,188,,2016-06-30,,"13 completed, 74 under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,3507,"Edwin Richards Quarry, Portway Road, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.493141,-2.047839,51.22,281,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3518,"Site of lock up garages, Land between 8 and 10 Melrose Avenue, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.543916,-1.990003,0.18,9,,2016-06-30,,"4 completed, 5 under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,3534,"Site of Former Cradley Heath Nursery School, Graingers Lane, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.470673,-2.083351,0.17,11,,2017-12-01,,"6 complete, 5 under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,4774,"Former Doctors Surgery, 56 Lower High Street, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.551026,-2.018583,0.05,14,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,5038,"Former Perrott Arms, 2 Birmingham Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.502697,-2.011727,0.21,22,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,5070,"312-314 High Street, West Bromwich, B70 8EN",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.519904,-1.996699,0.05,14,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,5099,"59 High Street, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.475675,-2.044625,0.09,6,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,5129,"Portway Road, Wednesbury, WS10 7DZ",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.55142,-2.027049,10.7,375,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,5138,"Nicholls Road, Tipton, DY4 9LG",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.529987,-2.031561,3.96,139,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,5139,"Brymill Industrial Estate, Brown Lion Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.538987,-2.070609,1.98,69,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,5158,Open space on Mounts Road Wednesbury,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.548878,-2.015249,1.35,22,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,5265,"Phase 9, The Parkway, site between Stafford St, Victoria St & Potters Lane, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.550153,-2.024939,0.94,33,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,5301,"Potters Lane / Great Western Street, Wednesbury, WS10 7LH",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.549721,-2.025927,0.17,6,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,5381,"Victoria Street / Albert Street, Wednesbury, WS10 7EH",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.550539,-2.024025,0.19,7,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,5432,"Between 12-20, Joinings Bank, Langley, Oldbury, B68 8QJ",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.489114,-2.00324,0.1,7,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,5450,"Barnfield Trading Estate, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.535103,-2.071192,2.24,78,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,5556,"Vector Industrial Park, Church Lane, West Bromwich, B71 1DQ",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.53232,-2.000708,5.2,182,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,5623,"Brook Street Business Centre, Brook Street Community Centre, 196-200 Bloomfield Road, DY4 9",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.533879,-2.072591,1.5,53,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,5641,"Site between Great Western St & Potters Lane, Wednesbury, WS10 7LP",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.550044,-2.027003,1.14,49,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,5642,"Land between Potters Lane & Stafford St Wednesbury, WS10 7LP",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.550512,-2.025809,0.85,30,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,5643,"Site between Dudley St & Victoria St, Wednesbury, WS10 7LL",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.551052,-2.024762,1.18,41,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,5646,"Site on Stafford St, Wednesbury, WS10 7JX",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.549092,-2.022564,1.45,51,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,5648,"Land at Potters Lane, Wednesbury, WS10 7NR",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.548002,-2.466917,0.74,26,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,5908,"Waterloo Hotel, Waterloo Road, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.486545,-1.960578,0.02,6,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,5913,"Land Adjacent 8, Addison Street, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.551512,-2.01671,0.12,7,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,5914,"The Maltings, 2 Anderson Road, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.473512,-1.965993,0.44,5,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,5938,"Nags Head, 34 Market Place, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.529824,-2.036602,0.07,6,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,5954,"416 High Street, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.522745,-2.002152,0.34,47,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,5987,"St Pauls Office, 253 High Street, Smethwick, B66 3NJ",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.492319,-1.96804,0.1,12,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,5993,"Red House, Hill Lane, Great Barr, Birmingham, B43 6LZ",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.548595,-1.940895,0.43,14,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,6061,"Site Of Former Bridge Pub, Station Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.491523,-2.009205,0.1,8,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6076,"Former Cape Hill Brewery Pump House, Cape Hill, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,53.526111,-1.952099,0.14,5,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,6079,"The Field House, Johns Lane, Tipton, DY4 7PT",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.523537,-2.043406,0.52,19,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,6109,"D S Devey, Tividale Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.517706,-2.057371,0.1,7,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,6134,"3 Bull Street West, Bromwich Ringway, West Bromwich, B70 6EU",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.516839,-1.989685,0.03,5,,2016-06-30,,"5 units under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6178,"1-5, 8-17, 21, 72, 73 Market Square, High Street, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.471572,-2.083131,0.17,19,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,6196,"Former Beer Garden Of Old Blue Ball, 19 Hall End, Wednesbury, WS10 9ED",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.556995,-2.022111,0.11,6,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,6206,"West Cross Centre, Oldbury Road/Mallin Street, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.502059,-1.98988,1.06,37,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6211,"Former West Midlands Fire Service, Cradley Heath Fire Station, Mace Street, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.47489,-2.068445,0.09,9,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,6214,"Land Between The New Lodge And The Old Lodge, Thimblemill Road, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.482846,-1.980578,0.7,13,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,6237,"Site Of 239 To 243, Titford Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.488996,-2.018395,0.1,14,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,6261,"87 Whitehall Road And Land Adjacent To, West Bromwich, B70 0HG",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.522095,-2.026839,0.21,10,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,6273,"Former Car Park & Bowling Green, Land Rear Of 54 Sandwell Road, West Bromwich, B70 8TG",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.523321,-1.997421,0.13,8,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6276,"80-82 High Street, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.49713,-1.973722,0.05,7,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2016-06-30,local-authority-eng:SAW,6279,"Car Park, Junction Piddock Road/Crocketts Lane, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.493874,-1.966154,0.24,11,,2016-06-30,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6291,"The Old Post Office, 325 High Street, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.520983,-1.997348,0.08,6,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6313,"81 Birmingham Road, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.512478,-1.982436,0.21,12,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6316,"9 & Land Adj Station Street, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.469827,-2.084188,0.12,5,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6340,"Car Park, Victoria Street, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.519095,-1.995977,0.11,49,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6351,"60 Sandon Road, Birmingham",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.47531,-1.965638,0.05,6,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6367,"Offices Above 15, 16, 17 & 20, West Cross Shopping Centre, Oldbury Road, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.501969,-1.990617,0.07,10,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6371,"50 Churchfields Road (side Garden Land), Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.559603,-2.01456,0.02,11,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6373,"Former Public Car Park, Crocketts Lane, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.494701,-1.965402,0.15,8,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6386,"The Timbertree, 65A Valley Road, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.466321,-2.070948,0.16,20,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6389,"1-3 Murdock, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.496141,-1.946901,0.08,5,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6403,"24-30 Claypit Lane, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.524938,-2.011291,0.19,12,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6405,"107 All Saints Way, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.533317,-1.98576,0.35,7,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6426,"Hackwood House & Harry Price House, Hartlebury Road &, Wallace House, Badsey Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.492129,-2.036158,1.29,7,,2017-12-01,,"7 units under construction
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6429,"Thynne Court, Thynne Street, West Bromwich, B70 6PH",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.514078,-1.985353,0.05,10,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6441,"Eastern Gateway South (WBPr16), West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.513764,-1.989067,1.6,56,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6442,"George Street WBPr18, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.514618,-1.990157,0.74,26,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
-2017-12-01,local-authority-eng:SAW,6463,"9-11 Causeway Green Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.503083,-1.984385,0.1,6,,2017-12-01,,"
-
-",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,28,"Alma Street, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.553922,-2.005119,0.52,19,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,265,"Old Cross Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.529593,-2.069724,0.48,14,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,354,"Park Lane West ( South Staffs Depot ), Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.522709,-2.064953,2.95,103,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,440,"Orchard Street, Burnt Tree, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.51435,-2.06214,0.28,30,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,463,"Dudley Road East (Brades Hall), Brades Hall, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.51527,-2.031948,1.85,58,,2016-06-30,,43 units completed 15 under construction,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,585,"Birmingham Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,not owned by a public authority,,full planning permission,,52.502859,-2.011005,0.68,41,,2016-06-30,,3 complete 2 under construction.,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,764,"Hawes Lane, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.48505,-2.047815,0.56,20,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,768,"Reservoir Road, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.485413,-2.038199,0.76,30,,2016-06-30,,Part SMBC and part private,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,856,"Cradley Road / Bannister Road, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,reserved matters approval,,52.476672,-2.07946,0.52,12,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,1170,"Beever Road, Great Bridge",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.536503,-2.037006,1.01,35,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,1183,"land at Horseley Heath, Alexandra Road, and Lower Church Lane, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.529361,-2.047745,2.3,60,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,1186,"Peel Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,not owned by a public authority,,full planning permission,,52.523631,-2.055374,1.04,58,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,1189,"former Accles and Pollock Sports Ground, Brades Rise, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.506765,-2.033548,6.36,199,,2017-12-01,,"11 not started, 2 under construction",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,1193,"Messenger Road, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.494195,-1.959084,2.94,103,,2017-12-01,,"Site nearly complete, 3 units remain",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,1203,"Mill Street, Great Bridge",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.529374,-2.035776,0.92,36,,2016-06-30,,"12 units completed, 24 under construction",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,1203a,"Mill Street, Great Bridge",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.529374,-2.035776,0.87,30,,2016-06-30,,Allocated part of site,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,1376,"Elbow Street, Old Hill",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.476159,-2.065929,0.72,25,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,1380,"Whitehall Road, Great Bridge",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.525717,-2.029818,0.41,16,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,1401,"Bell Street/Dudley Road, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.52693,-2.073567,0.62,22,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,1436,"St Annes Road, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.473989,-2.084873,1.13,40,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,1437,"Lower High Street, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.470246,-2.089812,0.4,26,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,1438,"Social Club, Friar Park Farm, Kent Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.559792,-1.98972,1.96,69,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,1440,"John Street North, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.525586,-2.003022,1.47,52,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,1443,"Working Mens Club, Cardigan Close, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.535079,-1.998571,0.14,5,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,1446,"(Site of Former Primrose Centre), Holly Lane Clinic, St. Pauls Road, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,not owned by a public authority,,other,,52.500629,-1.981646,0.18,16,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,1448,"Station Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.525916,-2.051279,1.35,47,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,1449,"Wellington Road, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.525169,-2.05371,0.86,31,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,1451,"28-64 High Street, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.513368,-1.986046,1.04,53,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,1456,"Sandwell College, Smethwick Campus, Crocketts Lane, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,not owned by a public authority,,full planning permission,,52.493029,-1.966213,2.41,178,,2016-06-30,,85 under construction,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,1459,"Bank Street (West), Hateley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.532544,-1.994001,0.85,43,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,1461,"Waterfall Lane (West), Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.471885,-2.056074,0.46,16,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,1463,"Lower City Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.509444,-2.034006,2.33,82,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,1698,"Units 1-7 Wellesley Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.497187,-2.00137,0.26,9,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+,local-authority-eng:SAW,1919,"Former Starlight Auto Sales, Wolverhampton Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.484744,-2.017053,0.23,14,,,,Allocated,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,1987,"Site Of Former Black Country Man, 29 Lower Church Lane, Horseley Heath, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.527832,-2.049586,0.14,9,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,1994,"Land And Premises At Winkle Street And John Street, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.52439,-2.0023,1.01,35,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,1997,"Tudor Works, 36A Windmill Lane, Smethwick, B66 3EU",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.490068,-1.957762,0.25,24,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2013,"Land Between No.32 And George Betts School, West End Avenue, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.501835,-1.993916,0.29,11,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2016,"Oak Garage, 63 Gospel Oak Road, Gospel Oak",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.54424,-2.046022,0.55,33,,2016-06-30,,10 units completed,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2035,"Land Off, Alexandra Road/Spring Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.529707,-2.057268,0.2,9,,2016-06-30,,8 units already completed,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2043,"The Lagoon, 159 High Street, Princes End, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.542713,-2.062667,0.13,9,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2085,"Block A And Block B Brunswick Park Trading Estate, Brunswick Park Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.55928,-2.004751,0.39,54,,2016-06-30,,12 units completed,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2172,"Land at 12 Grange Road and The Wharf PH, Grange Road, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.471437,-2.053306,1,40,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2192,"Land at Mill Lane, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.490282,-2.00869,2.4,88,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2193,"Land adjacent to 2 Clifford Road, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.511283,-2.007427,0.07,12,,2016-06-30,,All units under construction,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2227,"The Boat Gauging House & Adjoining Land, Factory Road, tipton, DY4 9AU",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.172169,-2.072934,0.57,35,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2232,"United Steels Limited, Upper Church Lane, Princes end",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.538229,-2.059314,1.58,73,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2253,"Haden Cross, Halesowen Road, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.467622,-2.059233,0.5,21,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2259,"Sentinel Plastics Limited, 39 Wrights Lane, Cradley Heath, B64 6QY",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.475766,-2.060187,0.27,13,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2284,"2-4 Cape Hill, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.486735,-1.961918,0.04,6,,2017-12-01,,DC/15/58733,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2367,"Alexandra Road / Upper Church Lane / Locarno Road, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.53155,-2.057639,3.4,142,,2016-06-30,,128units completed,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2368,"Central Avenue, The existing Summerhill Primary School, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.533392,-2.060148,1.09,40,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2369,"Land at Tibbington Terrace, Former Princes End Primary School, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,full planning permission,,52.538206,-2.068131,0.75,29,,2016-06-30,,"23 units completed, 3 under construction",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2370,"Bradleys Lane / High Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.541846,-2.070407,5.6,230,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2371,"North Smethwick Canalside, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.497578,-1.966063,8.77,400,,2016-06-30,,Part SMBC and part private,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2372,"Rabone Lane, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.497019,-1.960436,5.98,209,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2373,"Cranford Street (SME5) residential allocation, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.493562,-1.949172,7.08,142,,2016-06-30,,80 under construction,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2375,"Lyng Industrial Estate, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.514861,-1.995521,10.22,357,,2016-06-30,,Few small plots in SMBC ownership,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2377,"Carters Green / Gun Lane, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.522718,-2.005085,1.09,50,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2379,"Claypit Lane / Wattle Road, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.521872,-2.014061,6.5,175,,2016-06-30,,137 units completed,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2380,"Oxford Road, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,full planning permission,,52.519149,-2.00367,3.1,187,,2016-06-30,,"93 units complete, 8 under construction",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2381,"Bus Depot Oak Road, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.518259,-2.005527,1.47,68,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2384,"Oldbury Road, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.520001,-2.022564,16.82,588,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2385,"Brandon Way / Albion Road (WB C4), West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.51904,-2.016138,6.2,248,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2387,"Brandon Way / Brandon Close, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,not owned by a public authority,,other,,52.512766,-2.009239,1.05,43,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2389,"Church Lane / Gladstone Street, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.531295,-1.997804,2.75,111,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2390,"Sandwell District & General Hospital, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.526583,-1.988312,3.08,125,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2396,"116/117 Graingers Lane, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.470313,-2.084086,0.04,6,,2017-12-01,,under construction,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2402,"Cradley Print Limited, 18 Chester Road, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.469726,-2.086955,1.06,45,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2423,"Former Dept of Social Security, Church Hill Street, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.494442,-1.972457,0.5,60,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2445,"Land adjacent 16 & 23 eagle Close &, Land between 39 & Day Centre Harves Road, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,not owned by a public authority,,full planning permission,,52.485747,-2.056092,1.16,62,,2016-06-30,,"6 completed, 16 under construction",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2450,"Cottage Spring, 97 Alexandra Road, Tipton, West Midlands, DY4 8TD",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.529995,-2.058345,0.12,10,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2463,"Newcomen Drive, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.519752,-2.063475,7.6,300,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2498,"Site of 50 Former Valentin Restaurant, Newbury Lane, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.497597,-2.029284,0.2,7,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2516,"Brindley II, Land between Lewisham Rd/ Mafeking Rd and, Birmingham Canal, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.499816,-1.965044,5.15,168,,2016-06-30,,All under construction,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2583,"Extension to Caravan Site, Brierley Lane, Bilston, WV14 8TU",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.549828,-2.071909,1.38,26,,2017-12-01,,16 plots completed,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2588,"Abberley Street, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.488752,-1.947469,1.66,108,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2590,"South of Cranford Street and Heath Street, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.49153,-1.946921,3.21,113,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2625,"Haden Cross Drive, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.466859,-2.057702,1.56,41,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2712,"50-52 Sandwell Road, West Bromwich, B70 8TG",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.523069,-1.998188,0.21,11,,2016-06-30,,11 units under construction,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2715,"Bolton Court (former Site Of Maisonettes), Ocker Hill Road, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,full planning permission,,52.542039,-2.042786,1.98,58,,2016-06-30,,All under construction,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2820,"Eastern Gateway Development Site, High Street, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.516434,-1.988639,1.18,45,,2016-06-30,,96 units completed,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2886,"Site Of 18A Church Vale, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.52901,-1.986307,0.05,6,,2016-06-30,,All under construction,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2893,"Former Sunlight Laundry, Standhope Road, Smethwick, B67 6HN",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.483726,-1.971198,0.73,40,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2906,"Darlaston Road/Old Park Road, Kings Hill, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.559007,-2.026198,5.2,200,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2908,"Site Of 30-144 & Open Space, Mounts Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,not owned by a public authority,,other,,52.549911,-2.017005,1.07,45,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2910,"Leabrook Road/Willingsworth Road, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.546095,-2.035908,0.37,13,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2911,"Mounts Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.549273,-2.01637,1.1,39,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2915,"Land between Tinsley St and Whitehall Road, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.528423,-2.030675,0.28,10,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2916,"Whitehall Road Industrial Estate, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.527821,-2.029274,2.51,88,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2917,"Land Between Whitehall Road and Walsall Canal, Great Bridge",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.527821,-2.029274,0.64,23,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2919,"Land to east of Black Lake, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,53.492693,-2.008191,2.45,86,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2922,"Old Park Trading Estate site, on Old Park Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.558136,-2.024973,2.6,91,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2925,"Site off Mounts Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.548958,-2.018258,0.49,17,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2926,"Site on the corner of Bridge Street & Mounts Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.547682,-2.017387,3.15,110,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2927,"Site on the corner of Woden Road South & Bridge St, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.546675,-2.016649,1.61,56,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2929,"Site on corner of New Street, Hill Top, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.535717,-2.012237,1.11,39,,2016-06-30,,Part SMBC and part private,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2930,"Pembroke Way, Hateley Heath, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.536401,-2.003613,2.3,81,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2931,"Garage on Whitehall Road, Great Bridge",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.528279,-2.031545,0.14,5,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2933,"Leabrook Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.549053,-2.037532,2.17,76,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2934,"Site on New Road, Great Bridge",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.532664,-2.036825,0.4,14,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2936,"CBF Ltd, Wade Building Services, Groveland Road",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.517296,-2.049486,1.29,45,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2937,"Fisher St / Coneygre Road, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.518955,-2.057652,1.7,60,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2938,"Castle Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.525707,-2.072872,1.49,52,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2939,"Lower City Road / Dudley Rd East, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.511251,-2.033713,0.56,20,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2940,"Rattlechain Site Land to the north of, Temple Way, Tividale",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.518838,-2.037845,9.21,322,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2942,"Castle Street / High Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.526949,-2.07196,0.66,23,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2943,"Coneygre Road/ Burnt Tree, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.520098,-2.056593,1.11,39,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2944,"Birmingham Board Co Ltd, Dudley Road East, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.507127,-2.024001,0.99,35,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2945,"land off dudley Rd, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.506202,-2.022011,0.96,33,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2946,"Site surrounding former Post office and, Telephone exchange, Horseley heath, tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.528131,-2.042836,0.63,22,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2947,"Site on Railway Street, Horseley Heath, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.528131,-2.042836,0.35,12,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2948,"industrial Site on Salem St, Great Bridge, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.527244,-2.034006,0.17,11,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2949,"British Gas Plc, Land off Dudley Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.506651,-2.023514,1.04,36,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2950,"Land Adj to Cleton business Park, Tipton Rd, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.517521,-2.048543,0.56,19,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2951,"Vaughan Trading Estate, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.520227,-2.048679,1.5,70,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2952,"Lower Church Lane, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.529863,-2.052021,0.76,13,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2953,"Sedgley Rd West, High Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.529464,-2.074028,1.12,39,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2955,Unit 1 Groveland Road,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.514625,-2.051207,0.36,13,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2956,"Upper Chapel St/ Brittania St/, 70-74 dudley Rd West",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.514411,-2.048731,0.63,22,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2957,"Dudley Rd / 28 Dudley Rd, West",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.514287,-2.043824,1.78,62,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2958,"Tipton Rd, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.514835,-2.042749,1.76,62,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2963,Groveland Rd,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.516001,-2.049794,1.18,41,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+,local-authority-eng:SAW,2965,"Land between Great Bridge Street & William Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.52811,-2.025236,1.92,67,,,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2966,"Alexandra Industrial Est, Locarno Rd / Alexandra Rd, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.530164,-2.061161,2.2,77,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2967,"Site between Charles Street & Walsall Canal, Great Bridge",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.528271,-2.028169,2.18,76,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2969,"Dudley Rd West, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.51486,-2.049807,0.46,16,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2971,"Hurst Lane / Birmingham Canal / Sedgley Road, West, tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.530578,-2.075696,2.19,77,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+,local-authority-eng:SAW,2972,"Used Car Sales site on corner of Lower Church Lane, and Horseley Heath, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.525406,-2.0478,0.56,20,,,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2973,"Burnt Tree Ind Est, Groveland rd",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.515156,-2.050869,0.82,29,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2974,88/90 dudley Rd West,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.514635,-2.049527,0.37,13,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2980,"Clay Lane, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.489068,-2.01433,0.28,12,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2982,"Land at Portway Road & Hawes Lane, Tippity Green, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.487027,-2.049452,1.13,40,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2983,"Land at Tippity Green, Portway Road, Allsops Hill, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.488519,-2.048879,0.38,13,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2984,"Land at Tippity Green, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.489402,-2.044256,4.34,150,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2985,"STW/SMBC Land, Friar Park Road, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.556187,-1.990738,27.87,975,,2016-06-30,,Part SMBC and part private,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2986,"Friar Street, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.554785,-2.002833,1.01,38,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2987,"Wolverhampton Road and Anvil Drive, Oldbury, B69 2JW",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.497193,-2.026146,0.31,11,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2990,"Fitzgerald Lighting LTD, Rood End Road, Oldbury, B69 4HT",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.500432,-1.997909,1.39,49,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,2994,"Oldbury Road Industrial Estate, Oldbury Road, Smethwick, B66 1JE",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.501996,-1.988348,0.57,18,,2016-06-30,,Part SMBC and part private,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2996,"Thompson Road, Oldbury, B68 8QE",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.489905,-2.007894,1.16,41,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,2997,"Cape Hill/ Durban Street/ Raglan Road, Smethwick, B66 4SH",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.487874,-1.953876,2.97,104,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3002,"Rear of Council House, High Street, Smethwick, B66 3NT",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.491168,-1.966671,0.37,13,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3009,"Tatbank Road, Oldbury, B69 4NB",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.494984,-2.003049,1.15,40,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3010,"Corngreaves Road (City Estate, Hillcrest Ind Estate), Palmers Garage",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.468977,-2.07818,2.8,98,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3011,"Langley Maltings, Western Road, Langly, B69 4LY",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.492584,-2.007129,2.72,95,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3012,"Giles Road, Oldbury, B68 8JQ",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.494598,-2.003167,0.25,9,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3013,"JAS Industrial Park, Titford Lane, Oldbury, B65 0PY",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.486999,-2.025065,0.93,33,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3014,"Oldbury Road, Oldbury, B66 1NJ",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.502248,-1.99374,2.89,102,,2016-06-30,,Few small areas in SMBC ownership,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3015,"104-110 Oldbury Road, Smethwick, B66 1JE",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.501996,-1.988348,0.68,24,,2016-06-30,,Part SMBC and part private,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3016,"230 Oldbury Road, B66 1NR",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.501979,-1.999721,1.48,52,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3019,Station Road (South),http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.471049,-2.055911,0.95,33,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3020,"Broadcott Industrial Estate, and Broadwyn Trading, Estate, Waterfall, Lane/Station Road, Old Hill.",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,not owned by a public authority,,other,,52.472181,-2.058077,1.4,49,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3021,"80, 82, 85 & 90a Waterfall, Lane & 99 to 125 (odds), Station Road, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.471651,-2.056707,0.35,12,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3023,"Macarthur Road Industrial, Estate, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.467542,-2.086421,1.32,46,,2016-06-30,,Small area is private,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3025,"Silverthorne Lane/ Forge, Lane, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.470773,-2.093287,2.82,99,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3026,"Station Street / Graingers, Lane, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.469612,-2.083187,1.3,46,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3027,"The Bridge Trading Centre, Cokeland Place /, Corngreaves Road, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.470118,-2.080008,0.57,19,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3029,"Cradley Road, Lower High, Street, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.470168,-2.085867,0.99,33,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3031,"Station Street / Cradley, Road, Cradley Heath (opp, Majestic Cinema)",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.469612,-2.083187,0.29,12,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3032,"Oldfield Trading Estate, Oldfields, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.470623,-2.077904,1.64,51,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3034,"Providence Street (Land, bounded by Newtown, Lane, Mousesweet Brook, & Foxoak Street), Cradley Heath.",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.474881,-2.082033,4.81,168,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3040,"Cradley Heath Factory Centre, Woods Lane, Cradley Heath, B64 7AQ",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.468322,-2.089705,8.11,351,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3041,"Cokeland Place / Graingers, Lane, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.470019,-2.080773,0.38,13,,2016-06-30,,Part SMBC and part private,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3043,"Palmers Timber site, Station, Road, Old Hill",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.469682,-2.05669,0.95,35,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3044,"Jewson Limited, 89-105, High Rowley, Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.476276,-2.046539,0.35,12,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3048,"Land at Newton Rd, Great Barr",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,owned by a public authority,,other,,52.542631,-1.954144,0.3,16,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3049,"Land between Addington Way and River, Tame, Temple Way (Rattlechain)",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.517571,-2.033644,0.9,39,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3128,"Mill Lane/ Langley Green Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.489734,-2.011002,1.23,43,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3138,"Batman's Hill Pupil Referral Unit, Adams Close, Princes End",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.544608,-2.066946,0.63,26,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3139,"Former school site, Doulton Road, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.488983,-2.057304,1.06,20,,2016-06-30,,18 under construction,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3140,"Land at Doulton Way, between Factory Road, Bloomfield Road, & railway line, Tipton.",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.532477,-2.072132,2.62,99,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3141,"Corner of Batmans Hill, Road and Hobart Road, Princes End, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.546476,-2.06922,0.23,8,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3142,"Spinners End Industrial, Estate",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.471163,-2.076241,0.71,25,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3153,"Former Fisheries Site, Union Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.51182,-2.025757,2.13,17,,2016-06-30,,5 units completed,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3185,"The Mill, Beaconview Road, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.54609,-1.975596,0.23,11,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3219,"Land & premises, Barnfield Road, Brook, Street & Bloomfield Road.",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.534544,-2.072975,0.76,27,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3220,Brown Lion Street/ Bloomfield Road,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.538617,-2.072274,0.45,25,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3221,"Site between Bloomfield, Road, Fountain Lane &, Bradleys Lane, Tipton, West Midlands",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.539966,-2.072026,1.5,53,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3223,"Summerton Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.508187,-2.030145,1.41,49,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3224,"10-60 Dudley Road East, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.511933,-2.039784,2,70,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3225,"Fox Oak Street/ St Annes Road, Kawasaki Garage",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.472668,-2.084841,0.4,14,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3226,"Bank Street, West of Kimber Drop, forgings Site, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.473766,-2.08318,1.16,41,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3227,"Hall Green Road, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,reserved matters approval,,52.547404,-1.98838,5.2,219,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3260,"Yard adjacent Waterside Court, Titford Road, Oldbury, B69 4QW",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.487332,-2.021442,0.04,6,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3283,"Site Of Former Londonderry Public House, Basons Lane, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.492179,-1.990898,0.5,14,,2016-06-30,,"7 units completed, 7 under construction",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3310,"Site Of 180-190, Dudley Road, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.490665,-2.056776,0.15,8,,2016-06-30,,8 units under construction,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3398,"Firth Cleveland, Locarno Road, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.531073,-2.059673,2.42,90,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3416,"Harvills Hawthorn PFI, Harvills Hawthorn, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.535024,-2.020419,6.25,232,,2016-06-30,,"93 units completed, 38 under construction",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3422,"Throne Road/Newbury Lane, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.493288,-2.038103,4.15,118,,2016-06-30,,"45 completed, 8 under construction",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3462,Unett Atreet/ Raglan Road,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.488844,-1.952815,4.6,161,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3467,"Lower High Street, (Station hotel & Dunns Site).",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.469905,-2.08912,0.28,10,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3500,"Johal Supersave, 90 Oxford Street, Wednesbury, WS10 0PY",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.552708,-2.006151,0.01,5,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3506,"Norbert Dentressangle, Doulton Road, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.489437,-2.065389,5.22,188,,2016-06-30,,"13 completed, 74 under construction",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,3507,"Edwin Richards Quarry, Portway Road, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.493141,-2.047839,51.22,281,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3518,"Site of lock up garages, Land between 8 and 10 Melrose Avenue, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.543916,-1.990003,0.18,9,,2016-06-30,,"4 completed, 5 under construction",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,3534,"Site of Former Cradley Heath Nursery School, Graingers Lane, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.470673,-2.083351,0.17,11,,2017-12-01,,"6 complete, 5 under construction",ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,4774,"Former Doctors Surgery, 56 Lower High Street, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.551026,-2.018583,0.05,14,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,5038,"Former Perrott Arms, 2 Birmingham Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.502697,-2.011727,0.21,22,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,5070,"312-314 High Street, West Bromwich, B70 8EN",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.519904,-1.996699,0.05,14,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,5099,"59 High Street, Rowley Regis",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.475675,-2.044625,0.09,6,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,5129,"Portway Road, Wednesbury, WS10 7DZ",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.55142,-2.027049,10.7,375,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,5138,"Nicholls Road, Tipton, DY4 9LG",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.529987,-2.031561,3.96,139,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,5139,"Brymill Industrial Estate, Brown Lion Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.538987,-2.070609,1.98,69,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,5158,Open space on Mounts Road Wednesbury,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.548878,-2.015249,1.35,22,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,5265,"Phase 9, The Parkway, site between Stafford St, Victoria St & Potters Lane, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.550153,-2.024939,0.94,33,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,5301,"Potters Lane / Great Western Street, Wednesbury, WS10 7LH",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.549721,-2.025927,0.17,6,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,5381,"Victoria Street / Albert Street, Wednesbury, WS10 7EH",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.550539,-2.024025,0.19,7,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,5432,"Between 12-20, Joinings Bank, Langley, Oldbury, B68 8QJ",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.489114,-2.00324,0.1,7,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,5450,"Barnfield Trading Estate, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.535103,-2.071192,2.24,78,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,5556,"Vector Industrial Park, Church Lane, West Bromwich, B71 1DQ",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.53232,-2.000708,5.2,182,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,5623,"Brook Street Business Centre, Brook Street Community Centre, 196-200 Bloomfield Road, DY4 9",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.533879,-2.072591,1.5,53,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,5641,"Site between Great Western St & Potters Lane, Wednesbury, WS10 7LP",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.550044,-2.027003,1.14,49,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,5642,"Land between Potters Lane & Stafford St Wednesbury, WS10 7LP",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.550512,-2.025809,0.85,30,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,5643,"Site between Dudley St & Victoria St, Wednesbury, WS10 7LL",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.551052,-2.024762,1.18,41,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,5646,"Site on Stafford St, Wednesbury, WS10 7JX",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.549092,-2.022564,1.45,51,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,5648,"Land at Potters Lane, Wednesbury, WS10 7NR",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.548002,-2.466917,0.74,26,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,5908,"Waterloo Hotel, Waterloo Road, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.486545,-1.960578,0.02,6,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,5913,"Land Adjacent 8, Addison Street, Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.551512,-2.01671,0.12,7,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,5914,"The Maltings, 2 Anderson Road, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.473512,-1.965993,0.44,5,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,5938,"Nags Head, 34 Market Place, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.529824,-2.036602,0.07,6,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,5954,"416 High Street, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.522745,-2.002152,0.34,47,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,5987,"St Pauls Office, 253 High Street, Smethwick, B66 3NJ",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.492319,-1.96804,0.1,12,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,5993,"Red House, Hill Lane, Great Barr, Birmingham, B43 6LZ",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.548595,-1.940895,0.43,14,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,6061,"Site Of Former Bridge Pub, Station Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.491523,-2.009205,0.1,8,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6076,"Former Cape Hill Brewery Pump House, Cape Hill, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,53.526111,-1.952099,0.14,5,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,6079,"The Field House, Johns Lane, Tipton, DY4 7PT",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.523537,-2.043406,0.52,19,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,6109,"D S Devey, Tividale Street, Tipton",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.517706,-2.057371,0.1,7,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,6134,"3 Bull Street West, Bromwich Ringway, West Bromwich, B70 6EU",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.516839,-1.989685,0.03,5,,2016-06-30,,5 units under construction,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6178,"1-5, 8-17, 21, 72, 73 Market Square, High Street, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.471572,-2.083131,0.17,19,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,6196,"Former Beer Garden Of Old Blue Ball, 19 Hall End, Wednesbury, WS10 9ED",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.556995,-2.022111,0.11,6,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,6206,"West Cross Centre, Oldbury Road/Mallin Street, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.502059,-1.98988,1.06,37,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6211,"Former West Midlands Fire Service, Cradley Heath Fire Station, Mace Street, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.47489,-2.068445,0.09,9,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,6214,"Land Between The New Lodge And The Old Lodge, Thimblemill Road, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.482846,-1.980578,0.7,13,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,6237,"Site Of 239 To 243, Titford Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.488996,-2.018395,0.1,14,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,6261,"87 Whitehall Road And Land Adjacent To, West Bromwich, B70 0HG",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.522095,-2.026839,0.21,10,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,6273,"Former Car Park & Bowling Green, Land Rear Of 54 Sandwell Road, West Bromwich, B70 8TG",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.523321,-1.997421,0.13,8,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6276,"80-82 High Street, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.49713,-1.973722,0.05,7,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2016-06-30,local-authority-eng:SAW,6279,"Car Park, Junction Piddock Road/Crocketts Lane, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.493874,-1.966154,0.24,11,,2016-06-30,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6291,"The Old Post Office, 325 High Street, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.520983,-1.997348,0.08,6,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6313,"81 Birmingham Road, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.512478,-1.982436,0.21,12,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6316,"9 & Land Adj Station Street, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.469827,-2.084188,0.12,5,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6340,"Car Park, Victoria Street, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.519095,-1.995977,0.11,49,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6351,"60 Sandon Road, Birmingham",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.47531,-1.965638,0.05,6,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6367,"Offices Above 15, 16, 17 & 20, West Cross Shopping Centre, Oldbury Road, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.501969,-1.990617,0.07,10,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6371,"50 Churchfields Road (side Garden Land), Wednesbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.559603,-2.01456,0.02,11,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6373,"Former Public Car Park, Crocketts Lane, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.494701,-1.965402,0.15,8,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6386,"The Timbertree, 65A Valley Road, Cradley Heath",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.466321,-2.070948,0.16,20,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6389,"1-3 Murdock, Smethwick",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.496141,-1.946901,0.08,5,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6403,"24-30 Claypit Lane, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,outline planning permission,,52.524938,-2.011291,0.19,12,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6405,"107 All Saints Way, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.533317,-1.98576,0.35,7,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6426,"Hackwood House & Harry Price House, Hartlebury Road &, Wallace House, Badsey Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.492129,-2.036158,1.29,7,,2017-12-01,,7 units under construction,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6429,"Thynne Court, Thynne Street, West Bromwich, B70 6PH",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.514078,-1.985353,0.05,10,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6441,"Eastern Gateway South (WBPr16), West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.513764,-1.989067,1.6,56,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6442,"George Street WBPr18, West Bromwich",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,other,,52.514618,-1.990157,0.74,26,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be
+2017-12-01,local-authority-eng:SAW,6463,"9-11 Causeway Green Road, Oldbury",http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,,,,full planning permission,,52.503083,-1.984385,0.1,6,,2017-12-01,,,ecfd6677b9cd844ac035e4bd72b63d9242c8865eeaa93dc6ab305c87884af9be

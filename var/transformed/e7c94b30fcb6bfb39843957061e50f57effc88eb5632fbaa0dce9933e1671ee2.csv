@@ -1,43 +1,23 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
 2017-12-31,local-authority-eng:DNC,111,"Land at Stevens Road, Balby",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,pending decision,,,53.512336,-1.150374,2.47,,,2017-12-31,,"11/00246/EXTM - Erection of 112 houses and 84 apartments (being extension of time on planning application 06/00014/FULM, granted on 09/04/2008). Application approved by Planning Committee subject to S106
-Erection of 196 dwellings (112 houses and 84 apartments)
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
-2017-12-31,local-authority-eng:DNC,253,"Former Bloodstock Sales Site, Carr House Road",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,owned by a public authority,not permissioned,,,53.517875,-1.111185,1.74,46,58,2017-12-31,,"
-
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
-2017-12-31,local-authority-eng:DNC,261,"Plot 5A, off Carolina Way / Lakeside Boulevard",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,owned by a public authority,not permissioned,,,53.504858,-1.103768,2,53,66,2017-12-31,,"
-
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
-2017-12-31,local-authority-eng:DNC,262,"Plot 6, Lakeside Boulevard",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,owned by a public authority,not permissioned,,,53.508572,-1.10271,3.11,87,109,2017-12-31,,"Has previously been granted planning permission (Ref:06/02537/FULA)  for the erection of 308 apartments in 4 complexes, each varying in height between 2 and 4 storeys with limited 5 storey elements, with associated public open space, landscaped areas and car parking, together with a building for Class A3 use
-
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
-2017-12-31,local-authority-eng:DNC,375,"Barnburgh House, Edlington Lane, New Edlington",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,owned by a public authority,not permissioned,,,53.486656,-1.186665,0.24,7,9,2017-12-31,,"
-
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
-2017-12-31,local-authority-eng:DNC,379,"Garden Street, Mexborough",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,,owned by a public authority,not permissioned,,,53.494328,-1.292033,0.51,15,19,2017-12-31,,"
-
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
-2017-12-31,local-authority-eng:DNC,414,"Windhill, Whinhill Avenue, Mexborough",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,,owned by a public authority,not permissioned,,,53.497991,-1.271756,3.33,112,140,2017-12-31,,"Former housing area that has been cleared of existing housing stock under housing renewal programme.
-
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
-2017-12-31,local-authority-eng:DNC,415,"Woodland View, Edwin Road, Woodlands",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,,owned by a public authority,not permissioned,,,53.563109,-1.196765,0.61,14,18,2017-12-31,,"
-
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+Erection of 196 dwellings (112 houses and 84 apartments)",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+2017-12-31,local-authority-eng:DNC,253,"Former Bloodstock Sales Site, Carr House Road",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,owned by a public authority,not permissioned,,,53.517875,-1.111185,1.74,46,58,2017-12-31,,,e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+2017-12-31,local-authority-eng:DNC,261,"Plot 5A, off Carolina Way / Lakeside Boulevard",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,owned by a public authority,not permissioned,,,53.504858,-1.103768,2,53,66,2017-12-31,,,e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+2017-12-31,local-authority-eng:DNC,262,"Plot 6, Lakeside Boulevard",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,owned by a public authority,not permissioned,,,53.508572,-1.10271,3.11,87,109,2017-12-31,,"Has previously been granted planning permission (Ref:06/02537/FULA)  for the erection of 308 apartments in 4 complexes, each varying in height between 2 and 4 storeys with limited 5 storey elements, with associated public open space, landscaped areas and car parking, together with a building for Class A3 use",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+2017-12-31,local-authority-eng:DNC,375,"Barnburgh House, Edlington Lane, New Edlington",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,owned by a public authority,not permissioned,,,53.486656,-1.186665,0.24,7,9,2017-12-31,,,e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+2017-12-31,local-authority-eng:DNC,379,"Garden Street, Mexborough",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,,owned by a public authority,not permissioned,,,53.494328,-1.292033,0.51,15,19,2017-12-31,,,e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+2017-12-31,local-authority-eng:DNC,414,"Windhill, Whinhill Avenue, Mexborough",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,,owned by a public authority,not permissioned,,,53.497991,-1.271756,3.33,112,140,2017-12-31,,Former housing area that has been cleared of existing housing stock under housing renewal programme.,e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+2017-12-31,local-authority-eng:DNC,415,"Woodland View, Edwin Road, Woodlands",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,,owned by a public authority,not permissioned,,,53.563109,-1.196765,0.61,14,18,2017-12-31,,,e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,440,"Civic And Cultural Quarter, Waterdale",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,owned by a public authority,permissioned,outline planning permission,,53.519709,-1.130694,11.26,,,2017-12-31,,"""08/02535/OUTA - This is a large mixed use Outline permission, a significant proportion has now come forward with Reserved Matters and indeed built. There is a 1ha site (Scarborough House) identified for residential uses that has not yet had Reserved Matters.  Although this site has been temporary greened over, it previosuly contained Council Offices and car parking so is considered to be Brownfield. The capacity in this register reflects this part of the scheme only. Other residential elements are under construction (see 12/02500/REMM) and the original capacity of 450 units is no longer expected to materialise with a revised total of 130 units now expected""
-""Mixed Use Civic & Cultural Quarter comprising new performance venue, public library, civic offices, A1/A2/A3/A4 retail, B1 offices, D2 leisure, C1 hotels and C3 residential and open space""
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+""Mixed Use Civic & Cultural Quarter comprising new performance venue, public library, civic offices, A1/A2/A3/A4 retail, B1 offices, D2 leisure, C1 hotels and C3 residential and open space""",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,569,"Askern Saw Mills, High Street, Askern",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,permissioned,outline planning permission,,53.611356,-1.1507,15.08,,,2017-12-31,,"08/01077/OUTA - Reserved Matters now submitted (16/01651/REMM) but not yet determined.
-""Mixed use redevelopment of saw mill and land to the south for up to 220 dwellings, up to 310 sq. m A1 use, up to 310 sq. m A3 use, up to 560 sq. m A4 use, up to 1400 sq. m B1c use, up to 8550 sq. m Class B2 use and public open space and retention of 3.81 ha of open storage in B8 use and existing building on approx. 15.17 ha of land""
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+""Mixed use redevelopment of saw mill and land to the south for up to 220 dwellings, up to 310 sq. m A1 use, up to 310 sq. m A3 use, up to 560 sq. m A4 use, up to 1400 sq. m B1c use, up to 8550 sq. m Class B2 use and public open space and retention of 3.81 ha of open storage in B8 use and existing building on approx. 15.17 ha of land""",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,602,"28 Cow House Lane, Armthorpe",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,permissioned,full planning permission,,53.535556,-1.0458,0.26,,,2017-12-31,,"15/00828/FUL
-Erection of 8 houses following demolition of existing bungalow and commercial premises
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+Erection of 8 houses following demolition of existing bungalow and commercial premises",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,629,"Land off Bankwood Lane, Rossington",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,,not owned by a public authority,not permissioned,,,53.480742,-1.084883,0.53,43,54,2017-12-31,,"Previous planning permission (Ref: 11/01655/EXTM) but now lapsed. Subsequent temporary change of use from former factory and factory outlet to HGV parking for a period of 18 months (Retrospective - 16/02386/COUM)
-Residential development of 43 dwellings
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+Residential development of 43 dwellings",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,633,"Land At 41 Sandford Road, Balby",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,,not owned by a public authority,not permissioned,,,53.505828,-1.14785,1.11,36,45,2017-12-31,,"Previous planning permission (Ref: 11/02159/EXTM) but now lapsed. This was for a high density 3 x blocks apartment scheme totalling 125 units.
-Residential development of 36 dwellings
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+Residential development of 36 dwellings",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,646,"Site At Former Yorkshire Main Colliery, Broomhouse Lane, Balby",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,permissioned,outline planning permission,,53.489164,-1.173685,17.6,,,2017-12-31,,"14/02665/OUTM
 Residential development for up to 375 dwellings and public house (Class A4)
 http://www.doncaster.gov.uk/services/planning/planning-applications-online-public-access",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
@@ -48,14 +28,11 @@ http://www.doncaster.gov.uk/services/planning/planning-applications-online-publi
 ""Mixed use development comprising up to 1200 residential units, local superstore (Use Class A1), hotel, (Use Class C1), restaurant (Use Class A3/A4), fast food outlet (Use Class A3/A5), petrol filling station with ancillary retail (Sui Generis), community building (Use Class D1) and land for new primary school""
 http://www.doncaster.gov.uk/services/planning/planning-applications-online-public-access",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,687,"The Embankment, Leach Lane Industrial Estate, Leach Lane, Mexborough",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,,not owned by a public authority,permissioned,full planning permission,,53.491724,-1.284917,0.55,,,2017-12-31,,"14/02813/FULM - Evidence provided from landowner/developer that site not currently viable as part of evidence submitted to Public Inquiry May 2017 hence excluded from 5YHLS. More recent evidence that the scheme will now go ahead however: http://wearedoncaster.co.uk/news/multimillion-pound-doncaster-waterfront-scheme-set-to-move-ahead/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=Mexborough&amp;utm_content=November%20(2)
-Erection of 17 houses & 7 apartments
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+Erection of 17 houses & 7 apartments",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,691,"Former Earth Centre Car Park, Kilners Bridge, Denaby Main",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,permissioned,full planning permission,,53.491412,-1.238725,6.63,,,2017-12-31,,"14/02981/FULM
-Residential development of 175 houses
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+Residential development of 175 houses",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,790,"Red Lion Hotel, 41 Bank Street, Mexborough",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,,not owned by a public authority,permissioned,full planning permission,,53.492545,-1.283863,0.06,,,2017-12-31,,"11/02702/FULM - Planning permission lapsed, but post 1st April 2017 base date hence excluded from 5YHLS but still identfied as being permissioned in the BF Register.
-""Conversion of existing public house to form 4 apartments and erection of apartment block containing 12 apartments""
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+""Conversion of existing public house to form 4 apartments and erection of apartment block containing 12 apartments""",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,791,"Bentley House, Jossey Lane, Scawthorpe",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,permissioned,outline planning permission,,53.54712,-1.156484,2.28,,,2017-12-31,,"12/01046/OUTM
 Residential development following demolition of existing buildings and means of access
 http://www.doncaster.gov.uk/services/planning/planning-applications-online-public-access",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
@@ -65,12 +42,8 @@ http://www.doncaster.gov.uk/services/planning/planning-applications-online-publi
 2017-12-31,local-authority-eng:DNC,805,"The Old Vicarage, Stonegate, Thorne",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,permissioned,full planning permission,,53.611178,-0.958528,0.11,,,2017-12-31,,"14/02119/FULM
 Conversion former elderly persons residence to form 11 self contained apartments
 http://www.doncaster.gov.uk/services/planning/planning-applications-online-public-access",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
-2017-12-31,local-authority-eng:DNC,833,"Sandy Lane, Doncaster",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,,not owned by a public authority,not permissioned,,,53.514079,-1.111959,1.3,39,49,2017-12-31,,"
-
-http://www.doncaster.gov.uk/services/planning/planning-applications-online-public-access",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
-2017-12-31,local-authority-eng:DNC,835,"Warmsworth Reservoir, Warmsworth",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,,not owned by a public authority,not permissioned,,,53.493491,-1.184635,0.6,18,29,2017-12-31,,"
-
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+2017-12-31,local-authority-eng:DNC,833,"Sandy Lane, Doncaster",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,,not owned by a public authority,not permissioned,,,53.514079,-1.111959,1.3,39,49,2017-12-31,,http://www.doncaster.gov.uk/services/planning/planning-applications-online-public-access,e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+2017-12-31,local-authority-eng:DNC,835,"Warmsworth Reservoir, Warmsworth",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,,not owned by a public authority,not permissioned,,,53.493491,-1.184635,0.6,18,29,2017-12-31,,,e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,838,Kirk Street/Ramsden Road/Eden Grove,http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,permissioned,full planning permission,,53.519765,-1.150979,21.3,,,2017-12-31,,"There are several planning approvals for this site (06/03071/OUTM; 11/01077/REMM;14/00616/FULM). The original Outline permission included proposals for a wider mixed use development, but viability issues has subsequently resulted in further approvals for just additional residential uses. The site has had planning permission implemented (development platform created), but that scheme is no longer being delivered and no houses have been built. Likely that a fresh application will be required therefore.
 Residential development for 930 dwellings
 http://www.doncaster.gov.uk/services/planning/planning-applications-online-public-access",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
@@ -90,17 +63,14 @@ http://www.doncaster.gov.uk/services/planning/planning-applications-online-publi
 Residential development of 14 dwellings following demolition of redundant reservoir
 http://www.doncaster.gov.uk/services/planning/planning-applications-online-public-access",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,890,"Land Rear Of 67-79 South End, Station Road, Dunscroft",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,permissioned,full planning permission,,53.585791,-1.023263,0.16,,,2017-12-31,,"14/01809/FUL
-Residential development for 7 dwellings
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+Residential development for 7 dwellings",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,893,"Land Of The Former Cinema, Edlington Lane, Edlington",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,permissioned,full planning permission,,53.486159,-1.187714,0.11,,,2017-12-31,,"14/02581/FULM
 Erection 16 apartments
 http://www.doncaster.gov.uk/services/planning/planning-applications-online-public-access",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,894,"Former Nurses Home, Cemetery Road, Mexborough",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,permissioned,outline planning permission,,53.498693,-1.285402,0.3,,,2017-12-31,,"14/02583/OUT
-Residential development for up to 9 units
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+Residential development for up to 9 units",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,897,"Princegate House, Princegate, Doncaster",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,permissioned,full planning permission,,53.521321,-1.132441,0.07,,,2017-12-31,,"14/02938/FUL
-8 Residential apartments constructed on a newly created 6th floor to existing building
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+8 Residential apartments constructed on a newly created 6th floor to existing building",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,899,"Site Of Former Rossington Colliery, West End Lane, New Rossington",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,permissioned,reserved matters approval,,53.480621,-1.094966,2.84,,,2017-12-31,,"15/00008/REMM
 Erection of 96 dwellings
 http://www.doncaster.gov.uk/services/planning/planning-applications-online-public-access",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
@@ -108,8 +78,7 @@ http://www.doncaster.gov.uk/services/planning/planning-applications-online-publi
 Change of Use of vacant day nursery (Class D1) to 10 self contained flats (C3)
 http://www.doncaster.gov.uk/services/planning/planning-applications-online-public-access",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,902,"Snooker Club, 21-27 St Sepulchre Gate, Doncaster",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,permissioned,full planning permission,,53.522938,-1.135998,0.05,,,2017-12-31,,"15/00474/FUL
-Change of Use of 2nd floor from snooker club (Class D2) to 6 apartments (Class C3)
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+Change of Use of 2nd floor from snooker club (Class D2) to 6 apartments (Class C3)",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,906,"Denison House, 15 South Parade, Doncaster",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,permissioned,full planning permission,,53.521219,-1.126968,0.16,,,2017-12-31,,"15/01088/FULM
 Change of Use from offices to create 11 apartments
 http://www.doncaster.gov.uk/services/planning/planning-applications-online-public-access",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
@@ -213,8 +182,7 @@ http://www.doncaster.gov.uk/services/planning/planning-applications-online-publi
 Change of Use from a 10 bed HIMO to 6 self contained apartments
 http://www.doncaster.gov.uk/services/planning/planning-applications-online-public-access",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,984,"Former McCormick Tractors International, Wheatley Hall Road, Wheatley",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,permissioned,outline planning permission,,53.544251,-1.107947,41.41,,,2017-12-31,,"16/02060/OUTM
-""Demolition of existing structures and development to provide a mixed use scheme comprising of class B1, B2 and or B8, trade counter, sui generis, residential (C3), care home, community hub (class A1, A4, A5 & D1 uses) leisure (D2) and open space""
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+""Demolition of existing structures and development to provide a mixed use scheme comprising of class B1, B2 and or B8, trade counter, sui generis, residential (C3), care home, community hub (class A1, A4, A5 & D1 uses) leisure (D2) and open space""",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
 2017-12-31,local-authority-eng:DNC,985,"3-5 Church Street, Thorne",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,permissioned,full planning permission,,53.611231,-0.960537,0.03,,,2017-12-31,,"16/02244/FUL
 Conversion of part of existing building to form 5 self contained flats including 2 storey extension to side
 http://www.doncaster.gov.uk/services/planning/planning-applications-online-public-access",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
@@ -233,6 +201,4 @@ http://www.doncaster.gov.uk/services/planning/planning-applications-online-publi
 2017-12-31,local-authority-eng:DNC,993,"Crystals, 20 Market Place, Doncaster",http://doncaster.opus3.co.uk/ldf/maps/BrownfieldLand,yes,not owned by a public authority,permissioned,full planning permission,,53.525,-1.131521,0.05,,,2017-12-31,,"17/00142/FUL
 Change of Use of upper floors of public house to 9 apartments
 http://www.doncaster.gov.uk/services/planning/planning-applications-online-public-access",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
-,local-authority-eng:DNC,,,,,,,,,,,,493,625,,,"
-
-",e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2
+,local-authority-eng:DNC,,,,,,,,,,,,493,625,,,,e7c94b30fcb6bfb39843957061e50f57effc88eb5632fbaa0dce9933e1671ee2

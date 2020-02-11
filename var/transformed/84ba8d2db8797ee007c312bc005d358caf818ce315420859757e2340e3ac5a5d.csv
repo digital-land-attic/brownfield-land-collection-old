@@ -1,13 +1,5 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
-2017-12-11,local-authority-eng:DAV,DA/2016/0800,"7-13 Warwick Street, Daventry",http://selfservice.daventrydc.gov.uk/swiftlg/apas/run/wphappcriteria.display,yes,not owned by a public authority,permissioned,full planning permission,,52.256209,-1.168172,0.06,10,10,2017-12-11,,"
-Conversion and extension to form 10 apartments
-",84ba8d2db8797ee007c312bc005d358caf818ce315420859757e2340e3ac5a5d
-2017-12-11,local-authority-eng:DAV,DA/2015/1114,"Abercorn Hotel, 101 Warwick Street, Daventry",http://selfservice.daventrydc.gov.uk/swiftlg/apas/run/wphappcriteria.display,yes,not owned by a public authority,permissioned,full planning permission,,52.255637,-1.168563,0.17,9,9,2017-12-11,,"
-Erection of apartments and conversion of hotel to apartments
-",84ba8d2db8797ee007c312bc005d358caf818ce315420859757e2340e3ac5a5d
-2017-12-11,local-authority-eng:DAV,DA/2013/0066,"Old Station Yard, Station Road, Brixworth",http://selfservice.daventrydc.gov.uk/swiftlg/apas/run/wphappcriteria.display,yes,not owned by a public authority,permissioned,full planning permission,,52.334546,-0.918645,2.77,9,9,2017-12-11,,"
-Erection of industrial and houisng units
-",84ba8d2db8797ee007c312bc005d358caf818ce315420859757e2340e3ac5a5d
-2017-12-11,local-authority-eng:DAV,DA/2016/0518,"Farol Ltd, Boddington Road, Byfield",http://selfservice.daventrydc.gov.uk/swiftlg/apas/run/wphappcriteria.display,yes,not owned by a public authority,permissioned,outline planning permission,,52.177548,-1.248187,0.3,8,8,2017-12-11,,"
-Residential Development
-",84ba8d2db8797ee007c312bc005d358caf818ce315420859757e2340e3ac5a5d
+2017-12-11,local-authority-eng:DAV,DA/2016/0800,"7-13 Warwick Street, Daventry",http://selfservice.daventrydc.gov.uk/swiftlg/apas/run/wphappcriteria.display,yes,not owned by a public authority,permissioned,full planning permission,,52.256209,-1.168172,0.06,10,10,2017-12-11,,Conversion and extension to form 10 apartments,84ba8d2db8797ee007c312bc005d358caf818ce315420859757e2340e3ac5a5d
+2017-12-11,local-authority-eng:DAV,DA/2015/1114,"Abercorn Hotel, 101 Warwick Street, Daventry",http://selfservice.daventrydc.gov.uk/swiftlg/apas/run/wphappcriteria.display,yes,not owned by a public authority,permissioned,full planning permission,,52.255637,-1.168563,0.17,9,9,2017-12-11,,Erection of apartments and conversion of hotel to apartments,84ba8d2db8797ee007c312bc005d358caf818ce315420859757e2340e3ac5a5d
+2017-12-11,local-authority-eng:DAV,DA/2013/0066,"Old Station Yard, Station Road, Brixworth",http://selfservice.daventrydc.gov.uk/swiftlg/apas/run/wphappcriteria.display,yes,not owned by a public authority,permissioned,full planning permission,,52.334546,-0.918645,2.77,9,9,2017-12-11,,Erection of industrial and houisng units,84ba8d2db8797ee007c312bc005d358caf818ce315420859757e2340e3ac5a5d
+2017-12-11,local-authority-eng:DAV,DA/2016/0518,"Farol Ltd, Boddington Road, Byfield",http://selfservice.daventrydc.gov.uk/swiftlg/apas/run/wphappcriteria.display,yes,not owned by a public authority,permissioned,outline planning permission,,52.177548,-1.248187,0.3,8,8,2017-12-11,,Residential Development,84ba8d2db8797ee007c312bc005d358caf818ce315420859757e2340e3ac5a5d

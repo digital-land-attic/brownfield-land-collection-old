@@ -1,55 +1,25 @@
-OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR02,,,,,,,,permissioned,other,,,,,,"http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf
-25
-",,2017-11-28,
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR06,,,,,,,,permissioned,other,,,,,,"http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf|http://www.molevalley.gov.uk/index.cfm?articleid=29385
-25
-",,2017-11-28,
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR04,,,,,,,,,other,,,,,,"http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf|http://www.molevalley.gov.uk/index.cfm?articleid=29385
-120
-",,2017-11-28,
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR01,,,,,,,,permissioned,other,,,,,,"http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf
-5
-",,2017-11-28,
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR05,,,,,,,,,other,,,,,,"http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf|http://www.molevalley.gov.uk/index.cfm?articleid=29385
-95
-",,2017-11-28,
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR12,,,,,,,,permissioned,full planning permission,,2016-10-10,,,,"
-8
-",,2017-11-28,
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR10,,,,,,,,permissioned,full planning permission,,2016-11-03,,,,"
-8
-",,2017-11-28,
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR17,,,,,,,,permissioned,full planning permission,,2016-12-23,,,,"
-12
-",,2017-11-28,
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR08,,,,,,,,,full planning permission,,2015-01-26,,,,"
-7
-",,2017-11-28,
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR18,,,,,,,,permissioned,full planning permission,,2017-06-08,,,,"
-8
-",,2017-11-28,
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR20,,,,,,,,permissioned,full planning permission,,2018-06-14,,,,"
-5
-",,2018-12-18,
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR21,,,,,,,,permissioned,full planning permission,,2018-07-05,,,,"
-9
-",,2018-12-18,
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR22,,,,,,,,permissioned,full planning permission,,2018-09-07,,,,"
-8
-",,2018-12-18,
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR23,,,,,,,,,,,0.10,,,,"
-permissioned
+OrganisationURI,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/id/district-council/mole-valley,BLR02,,,,,,,,permissioned,other,,,,,,"http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf
+25",,2017-11-28,
+http://opendatacommunities.org/id/district-council/mole-valley,BLR06,,,,,,,,permissioned,other,,,,,,"http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf|http://www.molevalley.gov.uk/index.cfm?articleid=29385
+25",,2017-11-28,
+http://opendatacommunities.org/id/district-council/mole-valley,BLR04,,,,,,,,,other,,,,,,"http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf|http://www.molevalley.gov.uk/index.cfm?articleid=29385
+120",,2017-11-28,
+http://opendatacommunities.org/id/district-council/mole-valley,BLR01,,,,,,,,permissioned,other,,,,,,"http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf
+5",,2017-11-28,
+http://opendatacommunities.org/id/district-council/mole-valley,BLR05,,,,,,,,,other,,,,,,"http://www.molevalley.gov.uk/media/pdf/7/9/Brownfield_LAA_June_2017REVFC.pdf|http://www.molevalley.gov.uk/index.cfm?articleid=29385
+95",,2017-11-28,
+http://opendatacommunities.org/id/district-council/mole-valley,BLR12,,,,,,,,permissioned,full planning permission,,2016-10-10,,,,8,,2017-11-28,
+http://opendatacommunities.org/id/district-council/mole-valley,BLR10,,,,,,,,permissioned,full planning permission,,2016-11-03,,,,8,,2017-11-28,
+http://opendatacommunities.org/id/district-council/mole-valley,BLR17,,,,,,,,permissioned,full planning permission,,2016-12-23,,,,12,,2017-11-28,
+http://opendatacommunities.org/id/district-council/mole-valley,BLR08,,,,,,,,,full planning permission,,2015-01-26,,,,7,,2017-11-28,
+http://opendatacommunities.org/id/district-council/mole-valley,BLR18,,,,,,,,permissioned,full planning permission,,2017-06-08,,,,8,,2017-11-28,
+http://opendatacommunities.org/id/district-council/mole-valley,BLR20,,,,,,,,permissioned,full planning permission,,2018-06-14,,,,5,,2018-12-18,
+http://opendatacommunities.org/id/district-council/mole-valley,BLR21,,,,,,,,permissioned,full planning permission,,2018-07-05,,,,9,,2018-12-18,
+http://opendatacommunities.org/id/district-council/mole-valley,BLR22,,,,,,,,permissioned,full planning permission,,2018-09-07,,,,8,,2018-12-18,
+http://opendatacommunities.org/id/district-council/mole-valley,BLR23,,,,,,,,,,,0.10,,,,"permissioned
 Erect four storey building (including basement) comprising 9 No. residential units with associated landscaping and basement parking.",,,
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR24,,,,,,,,permissioned,full planning permission,,2018-09-07,,,,"
-7
-",,2018-12-18,
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR26,,,,,,,,permissioned,full planning permission,,2018-08-17,,,,"
-218
-",,2018-12-18,
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR27,,,,,,,,permissioned,full planning permission,,2018-06-14,,,,"
-10
-",,2018-12-18,
-http://opendatacommunities.org/id/district-council/mole-valley,Mole Valley District Council,BLR28,,,,,,,,permissioned,full planning permission,,2018-04-20,,,,"
-10
-",,2018-12-18,
+http://opendatacommunities.org/id/district-council/mole-valley,BLR24,,,,,,,,permissioned,full planning permission,,2018-09-07,,,,7,,2018-12-18,
+http://opendatacommunities.org/id/district-council/mole-valley,BLR26,,,,,,,,permissioned,full planning permission,,2018-08-17,,,,218,,2018-12-18,
+http://opendatacommunities.org/id/district-council/mole-valley,BLR27,,,,,,,,permissioned,full planning permission,,2018-06-14,,,,10,,2018-12-18,
+http://opendatacommunities.org/id/district-council/mole-valley,BLR28,,,,,,,,permissioned,full planning permission,,2018-04-20,,,,10,,2018-12-18,

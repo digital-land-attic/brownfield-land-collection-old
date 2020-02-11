@@ -1,49 +1,17 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
-2016-12-10,local-authority-eng:RED,RBLR1,Matchborough District Centre,,yes,not owned by a public authority,not permissioned,other,,52.295719,-1.896464,1,,,2016-12-10,,"
-Mixed use
-",6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
-2016-12-10,local-authority-eng:RED,RBLR2,Loxley Close,,yes,owned by a public authority,not permissioned,other,,52.314367,-1.899281,0.31,,,2016-12-10,,"
-Residential Development
-",6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
-2016-12-10,local-authority-eng:RED,RBLR3,"Park House, Town Centre",,yes,not owned by a public authority,not permissioned,other,,52.302978,-1.942497,0.1,,,2016-12-10,,"
-Residential Development
-",6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
-2016-12-10,local-authority-eng:RED,RBLR6,"Ashleigh Works, Bromsgrove Road",,yes,not owned by a public authority,permissioned,full planning permission,,52.306019,-1.947113,0.06,,,2016-12-10,,"
-Conversion of units into residential
-",6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
-2016-12-10,local-authority-eng:RED,RBLR7,Former Church Hill Medical Centre,,yes,not owned by a public authority,pending decision,full planning permission,,52.316297,-1.906729,0.25,,,2016-12-10,,"
-Residential Apartments
-",6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
-2016-12-10,local-authority-eng:RED,RBLR8,Redditch Trades and Labour Club,,yes,not owned by a public authority,pending decision,full planning permission,,52.306029,-1.947773,0.25,,,2016-12-10,,"
-Residential Apartments
-",6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
-2016-12-10,local-authority-eng:RED,RBLR9,"Clive Road, Prospect Hill",,yes,not owned by a public authority,not permissioned,other,,52.311006,-1.940609,0.31,,,2016-12-10,,"
-Residential Development
-",6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
-2016-12-10,local-authority-eng:RED,RBLR10,"Land at St.Gregory's Church, Winyates",,yes,not owned by a public authority,not permissioned,other,,52.298787,-1.899639,0.44,,,2016-12-10,,"
-Residential Development
-",6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
-2016-12-10,local-authority-eng:RED,RBLR11,"Jolly Farmer PH, Woodrow Drive",,yes,not owned by a public authority,not permissioned,other,,52.28317,-1.921311,0.43,,,2016-12-10,,"
-Residential Development
-",6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
-2016-12-10,local-authority-eng:RED,RBLR12,Former Holyoaks Field First School,,yes,not owned by a public authority,not permissioned,other,,52.308159,-1.947653,0.77,,,2016-12-10,,"
-Residential Development
-",6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
-2016-12-10,local-authority-eng:RED,RBLR13,"Millsborough House, Ph2",,yes,not owned by a public authority,permissioned,full planning permission,,52.30391,-1.936219,0.5,,,2016-12-10,,"
-Residential Apartments
-",6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
-2016-12-10,local-authority-eng:RED,RBLR14,Winyates District centre,,yes,not owned by a public authority,not permissioned,other,,52.303368,-1.895127,1,,,2016-12-10,,"
-Mixed use
-",6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
-2016-12-10,local-authority-eng:RED,RBLR15,"Victoria Works, Edward Street",,yes,not owned by a public authority,not permissioned,other,,52.306612,-1.946511,1.2,,,2016-12-10,,"
-Residential Development
-",6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
-2016-12-10,local-authority-eng:RED,RBLR16,Prospect Hill,,yes,not owned by a public authority,not permissioned,other,,52.309998,-1.938997,1.32,,,2016-12-10,,"
-Residential Development
-",6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
-2016-12-10,local-authority-eng:RED,RBLR17,Millfields,,yes,owned by a public authority,not permissioned,other,,52.315339,-1.940075,1.36,,,2016-12-10,,"
-Residential Development
-",6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
-2016-12-10,local-authority-eng:RED,RBLR18,Widney House,,yes,not owned by a public authority,not permissioned,other,,52.306499,-1.955047,2.24,,,2016-12-10,,"
-Residential Development
-",6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
+2016-12-10,local-authority-eng:RED,RBLR1,Matchborough District Centre,,yes,not owned by a public authority,not permissioned,other,,52.295719,-1.896464,1,,,2016-12-10,,Mixed use,6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
+2016-12-10,local-authority-eng:RED,RBLR2,Loxley Close,,yes,owned by a public authority,not permissioned,other,,52.314367,-1.899281,0.31,,,2016-12-10,,Residential Development,6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
+2016-12-10,local-authority-eng:RED,RBLR3,"Park House, Town Centre",,yes,not owned by a public authority,not permissioned,other,,52.302978,-1.942497,0.1,,,2016-12-10,,Residential Development,6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
+2016-12-10,local-authority-eng:RED,RBLR6,"Ashleigh Works, Bromsgrove Road",,yes,not owned by a public authority,permissioned,full planning permission,,52.306019,-1.947113,0.06,,,2016-12-10,,Conversion of units into residential,6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
+2016-12-10,local-authority-eng:RED,RBLR7,Former Church Hill Medical Centre,,yes,not owned by a public authority,pending decision,full planning permission,,52.316297,-1.906729,0.25,,,2016-12-10,,Residential Apartments,6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
+2016-12-10,local-authority-eng:RED,RBLR8,Redditch Trades and Labour Club,,yes,not owned by a public authority,pending decision,full planning permission,,52.306029,-1.947773,0.25,,,2016-12-10,,Residential Apartments,6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
+2016-12-10,local-authority-eng:RED,RBLR9,"Clive Road, Prospect Hill",,yes,not owned by a public authority,not permissioned,other,,52.311006,-1.940609,0.31,,,2016-12-10,,Residential Development,6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
+2016-12-10,local-authority-eng:RED,RBLR10,"Land at St.Gregory's Church, Winyates",,yes,not owned by a public authority,not permissioned,other,,52.298787,-1.899639,0.44,,,2016-12-10,,Residential Development,6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
+2016-12-10,local-authority-eng:RED,RBLR11,"Jolly Farmer PH, Woodrow Drive",,yes,not owned by a public authority,not permissioned,other,,52.28317,-1.921311,0.43,,,2016-12-10,,Residential Development,6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
+2016-12-10,local-authority-eng:RED,RBLR12,Former Holyoaks Field First School,,yes,not owned by a public authority,not permissioned,other,,52.308159,-1.947653,0.77,,,2016-12-10,,Residential Development,6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
+2016-12-10,local-authority-eng:RED,RBLR13,"Millsborough House, Ph2",,yes,not owned by a public authority,permissioned,full planning permission,,52.30391,-1.936219,0.5,,,2016-12-10,,Residential Apartments,6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
+2016-12-10,local-authority-eng:RED,RBLR14,Winyates District centre,,yes,not owned by a public authority,not permissioned,other,,52.303368,-1.895127,1,,,2016-12-10,,Mixed use,6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
+2016-12-10,local-authority-eng:RED,RBLR15,"Victoria Works, Edward Street",,yes,not owned by a public authority,not permissioned,other,,52.306612,-1.946511,1.2,,,2016-12-10,,Residential Development,6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
+2016-12-10,local-authority-eng:RED,RBLR16,Prospect Hill,,yes,not owned by a public authority,not permissioned,other,,52.309998,-1.938997,1.32,,,2016-12-10,,Residential Development,6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
+2016-12-10,local-authority-eng:RED,RBLR17,Millfields,,yes,owned by a public authority,not permissioned,other,,52.315339,-1.940075,1.36,,,2016-12-10,,Residential Development,6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
+2016-12-10,local-authority-eng:RED,RBLR18,Widney House,,yes,not owned by a public authority,not permissioned,other,,52.306499,-1.955047,2.24,,,2016-12-10,,Residential Development,6c30c1b1e4a2b292520dd8516a63c2fc0bd0925073b19d424289234b59c39c4f
