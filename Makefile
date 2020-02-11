@@ -3,9 +3,12 @@
 .DELETE_ON_ERROR:
 .SUFFIXES: .json
 
+# work in UTF-8
+LANGUAGE := en_GB.UTF-8
+LANG := en_GB.UTF-8
+
 # for consistent collation
-LANGUAGE := en_GB:en
-LANG := C
+LC_COLLATE := C.UTF-8
 
 DATASET_NAME=brownfield-land
 
