@@ -235,12 +235,15 @@ if __name__ == "__main__":
     save_csv("link", ["link", "url"], idx)
 
     log = {}
+    last_date = "0"
     for link in idx:
         for date, entry in idx[link]["log"].items():
             entry = {key.lower(): value for key, value in entry.items()}
             entry["link"] = link
             entry["date"] = date
             log["%s-%s" % (date, link)] = entry
+            if entry["date"] > last_date:
+                last_date = entry["date"]
 
     save_csv(
         "log",
@@ -263,6 +266,16 @@ if __name__ == "__main__":
                 "link": entry["link"],
                 "resource": entry["resource"],
             }
+            date = entry["date"]
+            if "start-date" not in resources[entry["resource"]] or resources[entry["resource"]]["start-date"] > date:
+                resources[entry["resource"]]["start-date"] = date
+            if "end-date" not in resources[entry["resource"]] or resources[entry["resource"]]["end-date"] < date:
+                resources[entry["resource"]]["end-date"] = date
+
+    for resource in resources:
+        if resources[resource].get("end-date", None) == last_date:
+            resources[resource]["end-date"] = ""
+
     save_csv("link-resource", ["link", "resource"], link_resource)
 
     rows = {}
@@ -282,5 +295,11 @@ if __name__ == "__main__":
             rows[entry["resource"] + organisation] = {
                 "resource": entry["resource"],
                 "organisation": organisation,
+                "start-date": resources[entry["resource"]]["start-date"],
+                "end-date": resources[entry["resource"]]["end-date"],
             }
-    save_csv("resource-organisation", ["resource", "organisation"], rows)
+    save_csv(
+        "resource-organisation",
+        ["resource", "organisation", "start-date", "end-date"],
+        rows,
+    )
