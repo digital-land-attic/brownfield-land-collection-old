@@ -41,10 +41,10 @@
             "description": "The organisation's name",
             "type": "string",
             "constraints": {
-                "required": false,
-                "deprecated": true
+                "required": false
             },
             "digital-land": {
+                "deprecated": true,
                 "typos": [
                     "OrganistionLabel",
                     "OragisationLabel",

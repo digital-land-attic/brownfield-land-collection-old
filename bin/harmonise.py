@@ -30,7 +30,11 @@ resource = os.path.basename(os.path.splitext(input_path)[0])
 
 schema = json.load(open(schema_path))
 fields = {field["name"]: field for field in schema["fields"]}
-fieldnames = [field["name"] for field in schema["fields"]]
+fieldnames = [
+    field["name"]
+    for field in schema["fields"]
+    if not field["digital-land"].get("deprecated", False)
+]
 required_fields = [
     field["name"]
     for field in schema["fields"]
