@@ -5,7 +5,7 @@
 
 # work in UTF-8
 LANGUAGE := en_GB.UTF-8
-LANG := en_GB.UTF-8
+LANG := C.UTF-8
 
 # for consistent collation
 LC_COLLATE := C.UTF-8
