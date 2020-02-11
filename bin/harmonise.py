@@ -333,6 +333,7 @@ def normalise(fieldname, value):
 
     for strip in extra.get("strip", []):
         value = re.sub(strip, "", value)
+    value = value.strip()
 
     if fieldname == "OrganisationURI":
         return normalise_organisation_uri(fieldname, value)
