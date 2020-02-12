@@ -6,7 +6,7 @@ from urllib.parse import urljoin
 import requests
 
 
-var save_dir = 'var/data-gov-uk'
+save_dir = "var/data-gov-uk"
 
 
 def save(path, data):
