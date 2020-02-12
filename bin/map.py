@@ -65,7 +65,7 @@ if __name__ == "__main__":
                     cat = field["digital-land"]["concatenate"]
                     o.setdefault(fieldname, "")
                     o[fieldname] = cat["sep"].join(
-                        [o[fieldname]] + [row[h] for h in cat["fields"] if h in row]
+                        [o[fieldname]] + [row[h] for h in cat["fields"] if row.get(h, None)]
                     )
 
             writer.writerow(o)
