@@ -428,11 +428,9 @@
                 "required": false
             },
             "digital-land": {
-                "typos": [
-                    "LastUpdate"
-                ],
                 "field": "entry-date",
                 "typos": [
+                  "LastUpdate",
                   "DATE LAST UPDATED",
                   "Date last updated on the register",
                   "Last Updated Date"
