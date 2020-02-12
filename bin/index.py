@@ -267,9 +267,15 @@ if __name__ == "__main__":
                 "resource": entry["resource"],
             }
             date = entry["date"]
-            if "start-date" not in resources[entry["resource"]] or resources[entry["resource"]]["start-date"] > date:
+            if (
+                "start-date" not in resources[entry["resource"]]
+                or resources[entry["resource"]]["start-date"] > date
+            ):
                 resources[entry["resource"]]["start-date"] = date
-            if "end-date" not in resources[entry["resource"]] or resources[entry["resource"]]["end-date"] < date:
+            if (
+                "end-date" not in resources[entry["resource"]]
+                or resources[entry["resource"]]["end-date"] < date
+            ):
                 resources[entry["resource"]]["end-date"] = date
 
     for resource in resources:
