@@ -1,489 +1,489 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
-,local-authority-eng:WLV,P53,"55-77 Lichfield Street, Wolverhampton City Centre",,,,,,,52.586859,-2.123999,0.122,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,P54,"Springvale Sports and Social Club, Millfields Road",,,,,,,52.562807,-2.088084,2.857,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39360,"Telecom House, Church Street, Wolverhampton City Centre",,,,permissioned,,,52.581017,-2.130786,0.55,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39340,Land at Sweetbriar Road / Pump Street,,,,permissioned,,,52.571364,-2.101454,0.16,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39330,"Fmr Ettingshall Primary School, Herbert Street",,,,permissioned,,,52.570372,-2.094148,1.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39320,"Fmr Bilston Leisure Centre, Prouds Lane, Bilston",,,,permissioned,,,52.568865,-2.076632,0.89,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39310,"The Manse, Leacroft Avenue",,,,pending decision,,,52.612032,-2.113466,0.34,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39280,Garage Site Behind 23 To 33 Beach Avenue Wolverhampton West Midlands,,,,pending decision,,,52.552978,-2.103639,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39260,Land Formerly 37-39 Brooklands Parade Wolverhampton West Midlands WV1 2ND,,,,permissioned,,,52.586508,-2.095379,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39230,Medical Massage 37 Thornley Street Wolverhampton West Midlands WV1 1JP,,,,permissioned,,,52.58843,-2.125789,0.006,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39220,651 Stafford Road Wolverhampton West Midlands WV10 6QG,,,,permissioned,,,52.627345,-2.12729,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39200,National Childrens Home 83 Compton Road Wolverhampton West Midlands WV3 9QH,,,,permissioned,,,52.586203,-2.154195,0.2,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39170,73 Bellamy Lane Wolverhampton WV11 1LH,,,,permissioned,,,52.608181,-2.085163,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39140,Primeco Limited 66-70 Lichfield Street City Centre Wolverhampton West Midlands WV1 1DB,,,,permissioned,,,52.586588,-2.1245,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39110,138 Penn Road Wolverhampton WV3 0DZ,,,,permissioned,,,52.573943,-2.138098,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39100,Land Between 79A Harrowby Road And Harrowby Road Allotment Site Fordhouses WV10 6EP,,,,permissioned,,,52.624945,-2.135526,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39070,Little Orchard Perton Road Wolverhampton West Midlands WV6 8DP,,,,permissioned,,,52.587415,-2.192103,0.37,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39050,10 Lever Street Wolverhampton West Midlands WV2 1AL,,,,permissioned,,,52.579416,-2.123078,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39030,38 Rupert Street Wolverhampton West Midlands WV3 9NS,,,,permissioned,,,52.587479,-2.14741,0.057,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39020,Flat 1 110 Hurst Road Lanesfield Wolverhampton West Midlands WV14 9EU,,,,permissioned,,,52.546271,-2.104227,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39010,Bramerton Childrens Residential Home 17 Bramerton Close Wolverhampton West Midlands WV11 1RT,,,,permissioned,,,52.602489,-2.098499,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,39000,The Former British Legion Club Penn Road Wolverhampton West Midlands WV4 5LZ,,,,permissioned,,,52.555051,-2.169056,0.4,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38990,The Otter And Vixen Old Fallings Lane Wolverhampton West Midlands WV10 8BN,,,,pending decision,,,52.609882,-2.104955,0.246,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38970,"Land adj 12 Lloyd Hill, Lower Penn",,,,permissioned,,,52.555542,-2.171389,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38960,Northwood Park Lodge Northwood Park Road Wolverhampton West Midlands WV10 8EU,,,,permissioned,,,52.623608,-2.1162,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38950,133 Park Street South Wolverhampton West Midlands WV2 3JF,,,,permissioned,,,52.569627,-2.130693,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38940,368-370 Dudley Road Wolverhampton WV2 3AY,,,,permissioned,,,52.570487,-2.124956,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38930,Upper Floors 27 And 28 Market Street Wolverhampton West Midlands WV1 3AG,,,,permissioned,,,52.58513,-2.126001,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38920,23 Chetwynd Road Wolverhampton West Midlands WV2 4NZ,,,,permissioned,,,52.569433,-2.135605,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38910,Woodend Post Office 80 Lower Prestwood Road Wolverhampton West Midlands WV11 1JP,,,,permissioned,,,52.610293,-2.085344,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38900,"Hotel rear of The Old White Rose PH, 20 Lichfield St, Bilston WV14 0EB",,,,permissioned,,,52.566089,-2.073898,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38890,1-3 St Johns Street Wolverhampton WV1 3NS,,,,permissioned,,,52.584264,-2.129246,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38880,"Land North And South Of Lane Street, Bradley WV14 8UP",,,,pending decision,,,52.584264,-2.129246,0.392,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38870,19 Raynor Road Wolverhampton West Midlands WV10 9QY,,,,permissioned,,,52.605224,-2.106405,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38860,13-15 Connaught Road Stowlawn Wolverhampton West Midlands WV14 6NU,,,,permissioned,,,52.573808,-2.064999,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38490,"58-60 Lichfield Street, City Centre",,,,permissioned,,,52.586605,-2.125828,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38830,Land North West Of Bilston Urban Village Medical Centre Bankfield Road Wolverhampton West Midlands,,,,permissioned,,,52.563103,-2.076976,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38820,187 Leicester Street Wolverhampton West Midlands WV6 0PP,,,,permissioned,,,52.59335,-2.139635,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38810,436 Lichfield Road Wolverhampton West Midlands WV11 3HF,,,,permissioned,,,52.607667,-2.058448,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38500,"Mount Court, Mount Road",,,,,,,52.588939,-2.183519,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38800,5 Waterloo Road Wolverhampton WV1 4DJ,,,,permissioned,,,52.585977,-2.132454,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38790,Former Wood Hayes Pub Land North Of 434 Wood End Road Wolverhampton WV11 1YG,,,,permissioned,,,52.616783,-2.086819,0.122,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38780,76 Finchfield Road West Wolverhampton West Midlands WV3 8BA,,,,permissioned,,,52.579744,-2.164222,0.26,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38770,Land Behind 77 To 91 D'Urberville Road Wolverhampton West Midlands,,,,permissioned,,,52.571459,-2.105836,0.228,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38760,5 Grove Lane Wolverhampton West Midlands WV6 8NH,,,,permissioned,,,52.588555,-2.181761,0.08,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38752,"Samson And Lion (land), Newbolt Road Wolverhampton West Midlands WV14 7NP",,,,permissioned,,,52.568142,-2.068266,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38740,466 Dudley Road Wolverhampton West Midlands WV2 3AF,,,,permissioned,,,52.575016,-2.1264,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38730,New Cross Car Park Wolverhampton Road Heath Town Wolverhampton West Midlands,,,,pending decision,,,52.597189,-2.093468,0.45,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38720,Building Behind 50 Lichfield Street Wheelers Fold Wolverhampton West Midlands,,,,permissioned,,,52.586344,-2.126019,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38710,"The Angel Car Park, High Street, Wednesfield",,,,permissioned,,,52.600128,-2.082608,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38690,88A Great Brickkiln Street Wolverhampton WV3 0PU,,,,permissioned,,,52.581463,-2.141428,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38680,Martin And Co 11 Waterloo Road Wolverhampton West Midlands WV1 4DJ,,,,permissioned,,,52.586256,-2.132469,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38670,29 Vicarage Road All Saints Wolverhampton WV2 1BZ,,,,permissioned,,,52.579786,-2.121396,0.006,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38660,Coniston House Chapel Ash Wolverhampton WV3 0UD,,,,permissioned,,,52.584572,-2.135504,0.159,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38650,25 Waterloo Road Wolverhampton WV1 4DJ,,,,permissioned,,,52.586813,-2.132648,0.027,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38640,Whiteheads Building 26A Snow Hill Wolverhampton,,,,permissioned,,,52.582002,-2.125668,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38630,5 Stockwell Road,,,,permissioned,,,52.601047,-2.166281,0.44,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38620,Land rear of 45 Rookery Road,,,,pending decision,,,52.553124,-2.100247,0.47,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38590,"31 Lichfield Street, Bilston",,,,,,,52.566332,-2.073943,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38570,125 Parkfield Road,,,,,,,52.566987,-2.109647,0.08,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38560,Land adj 31 Coalway Road,,,,,,,52.568825,-2.147539,0.25,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38550,109 Warstones Road,,,,,,,52.564898,-2.166616,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38540,3 Waterloo Road,,,,,,,52.585987,-2.132291,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38610,Land corner of Stafford St and Bone Mill Lane WV1 1NT,,,,permissioned,,,52.595584,-2.127242,0.61,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38580,"Corpus Christi RC Church, Griffiths Drive",,,,,,,52.614149,-2.056567,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38510,6-7 Victoria Passage,,,,,,,52.584533,-2.130221,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38520,"43 Lichfield Road, Wednesfield",,,,,,,52.602386,-2.079866,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D80,"Oxley Moor House and Oxley Day Centre, Probert Road",,,,,,,52.618116,-2.132152,0.865,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D78,"Stowheath Day/Childrens Centres, Stowheath Lane",,,,,,,52.57527,-2.095428,1.134,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D76,"Fmr Warstones Resource Centre, Warstones Drive",,,,,,,52.568497,-2.170805,0.42,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D75,"Fmr Merry Hill House, Langley Road",,,,,,,52.570696,-2.173218,0.36,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D74,"Fmr Nelson Mandela House, Whitburn Close",,,,,,,52.623071,-2.146555,0.6,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D73,"Fmr Woden Resource Centre, Vicarage Road",,,,,,,52.604661,-2.092066,0.45,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D72,School Road,,,,,,,52.590835,-2.183631,0.23,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D71,Pointon Close,,,,,,,52.550384,-2.098279,0.17,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D70,Townson Road,,,,,,,52.612188,-2.059931,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D69,Batmans Hill Road,,,,,,,52.548158,-2.068707,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D68,17 Ryan Avenue,,,,,,,52.610868,-2.056016,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D67,Cavendish Road,,,,,,,52.58181,-2.08979,0.12,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D66,Arnhem Close,,,,,,,52.613704,-2.09244,0.11,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D65,Central Avenue,,,,,,,52.573227,-2.074692,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D64,Waddensbrook Lane,,,,,,,52.597908,-2.066969,0.26,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D63,Bradley Road,,,,,,,52.573623,-2.117439,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D62,Hylstone Crescent,,,,,,,52.605823,-2.076151,0.17,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D61,Foster Road,,,,,,,52.60749,-2.115537,0.13,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D60,Wilkinson Avenue,,,,,,,52.552427,-2.069362,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D59,Park View Road,,,,,,,52.578739,-2.085046,0.11,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D58,Fairway Green Site B,,,,,,,52.575183,-2.079816,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D57,Fairway Green Site A,,,,,,,52.575255,-2.080392,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D56,Whiston Avenue,,,,,,,52.611065,-2.057774,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D55,Moat Green Avenue,,,,,,,52.608683,-2.073542,0.16,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D54,84-94 Pond Lane,,,,,,,52.572554,-2.116655,0.09,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D53,Bradley Lane,,,,,,,,,0.09,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D52,Abingdon Road Site B,,,,,,,52.585342,-2.091804,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D51,Abingdon Road Site A,,,,,,,52.58537,-2.090387,0.09,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D50,Westcroft Avenue,,,,,,,52.617934,-2.097781,0.31,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D49,Land at Marchant Road,,,,,,,52.573571,-2.083399,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D47,Parker Road,,,,,,,52.617319,-2.063498,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D45,40 Wolverhampton Road,,,,,,,52.597721,-2.090812,0.13,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D44,18-20 Peach Road,,,,,,,52.605943,-2.054489,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D43,52-72 Peach Road,,,,,,,52.606706,-2.05542,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D41,Fmr Daisy Bank Community Centre,,,,,,,52.554096,-2.075161,0.48,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D39,"Fmr Bilston Tennis Club, Villiers Avenue",,,,,,,52.569753,-2.079585,0.27,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D36,"Harrowby Court, Chetton Green",,,,,,,52.625117,-2.134492,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D37,"Patshull Court, Chetton Green",,,,,,,52.625566,-2.134316,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D38,"Wobaston Court, Chetton Green",,,,,,,52.625278,-2.135172,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D35,Merridale Court,,,,,,,52.581229,-2.149411,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D34,Chetton Green (caretakers office),,,,,,,52.625537,-2.136015,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38751,"Samson And Lion (buildings), Newbolt Road WV14 7NP",,,,permissioned,,,52.568142,-2.068266,0.104,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38601,"Former Danesmore Park Primary School, Russell Close (school buildings)",,,,permissioned,,,52.618229,-2.059615,0.77,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D5,Northicote Secondary School,,,,,,,52.626431,-2.115779,4.94,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D20,"Beckminster House, Beckminster Road",,,,,,,52.572509,-2.149307,0.86,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,D33,"Former Wolverhampton Environment Centre, Westacre Crescent",,,,,,,52.582014,-2.179092,0.5,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,30430,Ackleton Gardens Rear of Nos 47-49 Church Road Bradmore Wolverhampton,,,,,,,52.573643,-2.154815,0.2,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,P24,"Land at the rear of 58A Hollybush Lane, Penn",,,,,,,52.558749,-2.166637,0.061,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,29880,"Land between 53 & 55 Leason Lane, The Scotlands",,,,,,,52.612023,-2.103512,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,29920,Former garage site adjoining 42 and 44 Primrose Lane,,,,,,,52.612374,-2.102228,0.078,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,P29,"32A Laburnum Road, Stowheath.",,,,,,,52.57673,-2.091034,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,31230,62 & 64 Villiers Avenue,,,,,,,52.57263,-2.079398,0.053,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,31460,"Land adjoining 1 Norfolk Road, Pennfields",,,,,,,52.577251,-2.145192,0.047,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,31730,"62/63 Worcester Street, Wolverhampton",,,,permissioned,,,52.582149,-2.131261,0.016,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,P30,"Land at 127 Waterloo Road, Wolverhampton",,,,,,,52.593898,-2.131607,0.24,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33040,61 Wrottesley Road Wolverhampton West Midlands WV6 8SG,,,,permissioned,,,52.6009,-2.180292,0.105,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,P28,"25 Shaw Road, Blakenhall",,,,,,,52.56875,-2.126869,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,P32,"Blunts Shoeshop, 5-15 Broad Street, Wolverhampton",,,,,,,52.587441,-2.125462,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,30790,102 Napier Road,,,,,,,52.571477,-2.123763,0.059,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,P31,Land adjacent to 50 Jeremy Road Goldthorn Park.,,,,,,,52.562424,-2.132796,0.022,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32730,Culwell Industrial Estate,,,,,,,52.59464,-2.109495,4.206,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,31850,"Cornerstone Veterinary Centre, Northwood Park Road, Bushbury",,,,,,,52.624636,-2.113012,0.092,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32860,Garage Site Rear Of 104 And 106 Mount Road Lanesfield Wolverhampton West Midlands,,,,,,,52.55256,-2.108475,0.054,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,27430,Goldthorn Hill Pumping Station and Allotments,,,,,,,52.568185,-2.133698,0.48,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37610,85 Northwood Park Road Wolverhampton West Midlands WV10 8EX,,,,pending decision,,,52.626752,-2.11804,0.029,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32700,"Former Dale House, Showell Circus",,,,,,,52.611223,-2.112814,0.36,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33530,20 Lawley Road Wolverhampton West Midlands WV14 0NB,,,,permissioned,,,52.569979,-2.090474,0.114,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32710,"New Cross Hospital, Wolverhampton Road",,,,,,,52.598383,-2.095035,23.59,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33320,Land Adjacent To 1 Howard Road Britannia Road Wolverhampton West Midlands,,,,permissioned,,,52.554354,-2.063657,0.061,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33500,50-52 Willenhall Road Bilston Wolverhampton West Midlands WV14 6NW,,,,,,,52.57156,-2.064818,0.128,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32950,Store Adjacent 35 Claremont Road Wolverhampton West Midlands WV3 0EA,,,,,,,52.574855,-2.142277,0.019,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,29850,"Land between 66 & 68 Redcotts Close, The Scotlands",,,,,,,52.61153,-2.101769,0.043,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,31930,99 Wellington Road Bilston,,,,permissioned,,,52.570457,-2.08863,0.401,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32230,21 Lichfield Street Bilston Wolverhampton West Midlands WV14 0AG,,,,,,,52.566188,-2.073603,0.033,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34470,"1 Princess Street, City Centre WV1 1HQ",,,,permissioned,,,52.585652,-2.12587,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34390,"Old Vine PH, Lower Vauxhall",,,,permissioned,,,52.588426,-2.144845,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34770,"Former Sons Of Rest, Hackett Close WV14 9SD",,,,pending decision,,,52.546513,-2.104434,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33760,48 Bolton Road Wolverhampton West Midlands WV11 1UA,,,,permissioned,,,52.597818,-2.081658,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34190,1-3 Hunter Street,,,,permissioned,,,52.594665,-2.144747,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35620,"Land adjacent to and rear of 6 Bridgnorth Road, Wolverhampton, West Midlands",,,,permissioned,,,52.586653,-2.173458,0.28,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35170,"106 Rosemary Crescent West, Wolverhampton, West Midlands, WV4 5AN",,,,permissioned,,,52.56216,-2.135598,0.065,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35640,"60 Avondale Road, Wolverhampton, West Midlands, WV6 0AJ",,,,permissioned,,,52.592199,-2.147426,0.021,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35440,"Land adjacent to 26 Rooker Crescent, Wolverhampton, West Midlands, WV2 2DU",,,,permissioned,,,52.569783,-2.110037,0.049,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34510,"Oriel Lodge, 796 Stafford Road WV10 6NT",,,,permissioned,,,52.630953,-2.124611,0.17,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33690,176 Newhampton Road East Wolverhampton West Midlands WV1 4PQ,,,,,,,52.592773,-2.140815,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33900,Garage Site To The Rear Of 15 To 21 Bradley Lane Wolverhampton West Midlands,,,,,,,52.555652,-2.057936,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35120,"57 Wellington Road, Wolverhampton, West Midlands, WV14 6AQ",,,,permissioned,,,52.568593,-2.081147,0.032,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33490,Slade Hill Riches Street Wolverhampton West Midlands WV6 0EJ,,,,,,,52.591061,-2.150935,0.345,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35530,"187 Tettenhall Road, Wolverhampton, West Midlands, WV6 0BZ",,,,permissioned,,,52.591787,-2.15299,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35450,"122B Castlecroft Road, Castlecroft, Wolverhampton, West Midlands, WV3 8LU",,,,permissioned,,,52.568326,-3.457231,0.005,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34260,1 Wolseley Road,,,,,,,52.57238,-2.089166,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,31220,"Land adj 22 Marchant Road, Stowlawn",,,,permissioned,,,52.572817,-2.082541,0.107,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37650,First Floor 1-13 Mount Pleasant Bilston WV14 7LJ,,,,permissioned,,,52.56715,-2.074505,0.036,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35220,"64 Green Lanes, Wolverhampton, WV14 6DA",,,,pending decision,,,52.571503,-2.084073,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34680,"15-18 Queen Street, City Centre WV1 3JW",,,,permissioned,,,52.585589,-2.125574,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34700,203 Trysull Road WV3 7JP,,,,permissioned,,,52.571351,-2.168086,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33660,149 Merridale Street West Wolverhampton West Midlands WV3 0RW,,,,,,,52.578881,-2.143411,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34200,4-6 Broad Street,,,,permissioned,,,52.587145,-2.125402,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34690,85 Prestwood Road West WV11 1HT,,,,permissioned,,,52.607825,-2.092132,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34730,"Plot Adjoining 40 Bilston Road, Portobello WV13 2JL",,,,permissioned,,,52.576464,-2.057418,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34740,94 Compton Road WV3 9PS,,,,permissioned,,,52.586016,-2.145472,0.008,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34720,132 Cannock Road WV10 8PW,,,,permissioned,,,52.612818,-2.098729,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35300,"The Meat Shop, 28 Victoria Street, Wolverhampton, West Midlands, WV1 3PW",,,,permissioned,,,52.583724,-2.130026,0.13,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35100,"169 Caledonia Road, Wolverhampton, West Midlands, WV2 1JA",,,,,,,52.575756,-2.115232,0.11,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33870,Garage Site Rear Of 44 To 62 Cheviot Road Wolverhampton West Midlands,,,,,,,52.570261,-2.108578,0.21,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,27370,Royal Hospital Development Area (City Centre),,,,pending decision,,,52.58128,-2.120087,6.25,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35190,"49 & 50 Bridge Street, Portobello, Wolverhampton, West Midlands, WV13 3EQ",,,,permissioned,,,52.581368,-2.065925,0.061,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34590,"Garage Site Adjacent 42 To 44 Elizabeth Avenue, Bradley WV14 8DY",,,,pending decision,,,52.557206,-2.061154,0.08,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35110,"85 Northwood Park Road, Wolverhampton, West Midlands, WV10 8EX",,,,permissioned,,,52.626263,-2.113104,0.038,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33550,251 Parkfield Road Parkfield Wolverhampton West Midlands WV4 6EG,,,,permissioned,,,52.567114,-2.118071,0.24,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35430,"26 Clarendon Street, Wolverhampton, West Midlands, WV3 9PP",,,,permissioned,,,52.586288,-2.143952,0.078,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34360,"Garage Site adj 142 Prosser St, Heath Town",,,,,,,52.599443,-2.116623,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34860,323 Tettenhall Road WV6 0JZ,,,,permissioned,,,52.596615,-2.159443,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35350,"Garage site to rear of 2 To 6, Wolmer Road, Wolverhampton, West Midlands",,,,pending decision,,,53.460138,-2.062705,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35990,Land Behind 28 To 40 Bradley Road Wolverhampton West Midlands,,,,permissioned,,,52.573597,-2.116288,0.169,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35040,"8 Newhampton Road East, Wolverhampton, West Midlands, WV1 4AJ",,,,permissioned,,,52.590156,-2.13437,0.027,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33700,223 Broad Lanes Bilston WV14 0RY,,,,,,,52.557532,-2.085109,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33650,Land adj 123 Gorsebrook Road Wolverhampton West Midlands WV6 0PE,,,,,,,52.601058,-2.136102,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33710,25 Grove Lane Wolverhampton West Midlands WV6 8NJ,,,,pending decision,,,52.587457,-2.182657,0.25,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34940,25 Tettenhall Road WV3 9NB,,,,permissioned,,,52.586011,-2.142003,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34520,7 Foley Avenue WV6 8LT,,,,permissioned,,,52.591679,-2.178645,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35130,"Land at the rear of 81 Lichfield Street, Wolverhampton, West Midlands, WV1 1EQ",,,,permissioned,,,52.586733,-2.123482,0.016,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35320,"241 Steelhouse Lane, Wolverhampton, West Midlands, WV2 2AB",,,,permissioned,,,52.579664,-2.117588,0.067,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35240,"48 Arnhem Road, Wolverhampton, West Midlands, WV13 3TX",,,,permissioned,,,52.578828,-2.073816,0.028,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35270,"70 Dudley Road, Wolverhampton, West Midlands, WV2 3BY",,,,permissioned,,,52.5765,-2.126109,0.006,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32420,25 Spring Road Lanesfield Wolverhampton West Midlands WV4 6LQ,,,,permissioned,,,52.556423,-2.101346,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33270,11 Pineways Drive Wolverhampton West Midlands WV6 0LL,,,,pending decision,,,52.593577,-2.158797,0.083,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36440,"Fmr Rookery Lodge, Woodcross Lane",,,,,,,52.55227,-2.100982,1.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35520,"Land to the rear of 71 Mill Lane, Tettenhall Wood, Wolverhampton, West Midlands, WV6 8HE",,,,,,,52.589614,-2.188319,0.054,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34710,Land Adjacent To 327 Prestwood Road WV11 1RH,,,,permissioned,,,52.603279,-2.099564,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35250,"Land adjacent to 6 Lawrence Avenue, Heath Town, Wolverhampton, West Midlands, WV10 0QJ",,,,permissioned,,,52.597326,-2.101278,0.035,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35260,"Shop South Corner of Bushbury Road, Lawrence Avenue, Heath Town, Wolverhampton, West Midlands",,,,permissioned,,,52.597398,-2.101972,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35380,"Garage Site to the rear of 30 to 36 Bargery Road, Wolverhampton, West Midlands",,,,pending decision,,,52.61681,-2.05623,0.045,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35150,"10 Finchfield Lane, Wolverhampton, West Midlands, WV3 8EF",,,,permissioned,,,52.572181,-2.171955,0.068,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35210,"134 Bridgnorth Road, Wolverhampton, West Midlands, WV6 8BB",,,,permissioned,,,52.585028,-2.183783,0.13,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35280,"41-45 Spring Road, Wolverhampton, West Midlands, WV4 6LQ",,,,permissioned,,,52.556908,-2.101524,0.056,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35290,"88 Richmond Road, Wolverhampton, West Midlands, WV3 9JD",,,,permissioned,,,52.583826,-2.156843,0.28,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34890,Garage Site To The Rear Of 18 To 24 Chapel Street Bradley,,,,,,,52.561716,-2.066368,0.21,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,30660,1-21 Finchfield Road West,,,,permissioned,,,52.580543,-2.171309,0.258,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35850,Supermarket 5 Warstones Drive Wolverhampton West Midlands WV4 4PP,,,,,,,52.567857,-2.165506,0.054,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33600,"Former Chubb Site, Wednesfield Road, Heath Town (north)",,,,permissioned,,,52.592427,-2.111187,2.27,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35480,"Land adjacent to 39 Stratton Street, Wolverhampton, West Midlands",,,,permissioned,,,52.597996,-2.116265,0.028,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34210,124 Wolverhampton Street,,,,,,,52.566759,-2.122865,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36190,1 Cherrington Gardens Wolverhampton West Midlands WV6 8AJ,,,,permissioned,,,52.585802,-2.182945,0.062,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,27480,"Portobello Flats, New Street & South Street",,,,permissioned,,,52.581861,-2.068435,1.5,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35750,107 Windsor Avenue Wolverhampton West Midlands WV4 4BJ,,,,permissioned,,,52.565803,-2.155289,0.084,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35330,"Staffordshire Volunteer, Collingwood Road (New Build)",,,,permissioned,,,52.62243,-2.116137,0.057,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36090,142 Newhampton Road West Wolverhampton West Midlands WV6 0RR,,,,permissioned,,,52.595007,-2.151702,0.026,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34570,23 Chapel Ash WV3 0TZ,,,,permissioned,,,52.585089,-2.139211,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35780,Former Substation 169 Wellington Road Wolverhampton West Midlands WV14 6RN,,,,permissioned,,,52.572457,-2.094477,0.062,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36060,Land Adjacent To 38 King Street Bradley Wolverhampton West Midlands WV14 8PQ,,,,permissioned,,,52.556419,-2.06897,0.048,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37010,"29 Lichfield Street, City Centre",,,,permissioned,,,52.586947,-2.125254,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36010,18 Chapel Ash Wolverhampton West Midlands WV3 0TN,,,,permissioned,,,52.584876,-2.136952,0.015,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36020,229 Trysull Road Wolverhampton West Midlands WV3 7JP,,,,,,,52.571106,-2.169708,0.075,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37140,"Land at Railway Drive, Bilston",,,,pending decision,,,52.564418,-2.072066,0.276,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35760,The Firs 49 Compton Road West Wolverhampton West Midlands WV3 9DU,,,,permissioned,,,52.586242,-2.165088,0.046,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,30870,Land Between 5 to 9 Martin Street,,,,permissioned,,,52.566214,-2.109704,0.052,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,31200,Land at 131-133 Ashley Street,,,,permissioned,,,52.568717,-2.070022,0.021,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36050,32 Upper Villiers Street Wolverhampton West Midlands WV2 4NU,,,,permissioned,,,52.570227,-2.132731,0.028,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36180,Land Opposite 14 Sycamore Drive Wolverhampton West Midlands,,,,permissioned,,,52.582482,-2.166771,0.152,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36160,Asia Takeaway And Restaurant Great Hampton Street Wolverhampton West Midlands WV1 4AY,,,,permissioned,,,52.593878,-2.133393,0.159,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36170,"Auxiliary Fire Service, Old Comrades Club 5C Market Street Wolverhampton West Midlands WV1 3AE",,,,permissioned,,,52.584592,-2.125129,0.033,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36100,Former Joan O Callaghan Community Centre 81 & 83 Guy Avenue Wolverhampton West Midlands WV10 9SB,,,,permissioned,,,52.604276,-2.119958,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35940,7A Hincks Street Wolverhampton West Midlands WV2 2JZ,,,,permissioned,,,52.572658,-2.102003,0.005,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,27040,Land at Rookery Street,,,,pending decision,,,52.598354,-2.086325,0.224,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34820,93 Bushbury Road WV10 0LZ,,,,permissioned,,,52.598709,-2.102861,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33220,Land At Rear Of 2-10 Dickinson Avenue Wolverhampton West Midlands WV10 9DJ,,,,,,,52.607844,-2.111551,0.115,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33210,239-241 Prestwood Road Wolverhampton West Midlands,,,,,,,52.601706,-2.099915,0.024,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34050,"Polypipe Factory, Chestom Road, Wolverhampton WV14 0RD",,,,,,,52.56587,-2.092073,1.42,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34400,"Former G & P Batteries Site, Grove Street, Heath Town",,,,permissioned,,,52.591985,-2.103332,0.79,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34350,"Garage Site between 10-16 Watson Road, Lanesfield",,,,,,,52.549434,-2.105031,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35360,"Staffordshire Volunteer, Collingwood Road (Conversion)",,,,permissioned,,,52.62243,-2.116137,0.29,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34830,"20-24 Broad Street, City Centre WV1 1HP",,,,,,,52.587271,-2.124886,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32320,Former Britannia Inn Car Park Hall Green Street Wolverhampton West Midlands WV14 8TH,,,,permissioned,,,52.552372,-2.071648,0.105,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32590,The Holly Bush Public House 494 Penn Road Wolverhampton West Midlands WV4 4HU,,,,,,,52.55786,-2.165645,0.083,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,26060,Land adj 56 Newhampton Road West,,,,permissioned,,,52.593207,-2.146101,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35070,"71 Leicester Street, Wolverhampton, West Midlands, WV6 0PR",,,,permissioned,,,52.594755,-2.137027,0.013,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34560,21 Kinfare Drive WV6 8JW,,,,permissioned,,,52.594367,-2.17901,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34410,Moseley Hall Farm,,,,,,,52.634066,-2.103417,0.44,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33360,Garage Site Rear Of 8 To 14 Collingwood Road Wolverhampton West Midlands,,,,permissioned,,,52.621128,-2.114494,0.146,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35050,"55 Beechwood Avenue, Wolverhampton, West Midlands, WV11 1DU",,,,permissioned,,,52.613441,-2.094979,0.089,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33970,Land At Junction With Parry Road Woodside Wolverhampton,,,,,,,52.612602,-2.057658,0.16,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34920,"Mount Bungalow, Deans Road WV1 2BH",,,,permissioned,,,52.58434,-2.084305,0.15,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35090,"446 Wolverhampton Road East, Wolverhampton, West Midlands, WV4 6AR",,,,permissioned,,,52.560425,-2.118732,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35860,8-10 Compton Road Wolverhampton West Midlands WV3 9PH,,,,permissioned,,,52.58576,-2.141737,0.033,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35610,"17 Hughes Road, Wolverhampton, West Midlands, WV14 6QU",,,,permissioned,,,52.572782,-2.080889,0.029,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35730,270 Bilston Road Wolverhampton West Midlands WV2 2HU,,,,permissioned,,,52.576313,-2.106601,0.118,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37180,"Niphon Works, Lower Villiers Street",,,,permissioned,,,52.574277,-2.128656,0.15,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,28940,"Land rear of 18-32 Turner Avenue, Woodcross",,,,permissioned,,,52.549323,-2.1086,0.26,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36850,"Former Sunbeam Factory, Paul Street",,,,permissioned,,,52.579577,-2.132065,0.65,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34240,34 Trysull Road,,,,permissioned,,,52.576157,-2.157037,0.11,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,25470,"Land adj 61 Wergs Road, Tettenhall",,,,permissioned,,,52.605506,-2.183928,0.41,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37000,6 Allen Road,,,,permissioned,,,52.592825,-2.149775,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37040,"Fmr Long Acres PH, Dilloways Lane",,,,permissioned,,,52.576368,-2.067792,0.45,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,27350,"St Marks Road, adjoining Sainsbury's",,,,,,,52.583652,-2.137612,0.74,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37750,Land Adjacent To Sunnyside Taylor Road Wolverhampton West Midlands,,,,pending decision,,,52.564267,-2.105908,0.369,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36070,57 Albert Road Wolverhampton West Midlands WV6 0AG,,,,,,,52.591488,-2.14763,0.148,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33560,Site Of Sutherland House Old Heath Road Wolverhampton West Midlands,,,,permissioned,,,52.591436,-2.103287,0.333,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33430,6 Park Crescent Wolverhampton West Midlands WV1 4PY,,,,permissioned,,,52.587385,-2.135484,0.032,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37070,24 Uplands Avenue,,,,permissioned,,,52.581915,-2.082499,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35500,"Land at the rear of 216 Compton Road, Wolverhampton, West Midlands, WV3 9JX",,,,,,,52.586925,-2.158906,0.14,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35710,Former St Judes House 51 St Judes Road West Wolverhampton West Midlands WV6 0DB,,,,,,,52.591632,-2.154642,0.116,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37740,Land Adjacent To 51 Brierley Lane Wolverhampton West Midlands,,,,permissioned,,,52.550458,-2.070185,0.234,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35930,61 Probert Road Wolverhampton West Midlands WV10 6UE,,,,permissioned,,,52.617113,-2.136432,0.064,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37060,4 Merridale Lane,,,,permissioned,,,52.585222,-2.148037,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35740,Land Adjacent To 24 Culwick Street Wolverhampton West Midlands WV1 2SX,,,,permissioned,,,52.574377,-2.098938,0.021,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,26290,"112 Bunkers Hill Lane, Bilston",,,,permissioned,,,52.574344,-2.070415,0.154,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37100,56 Oak Street,,,,permissioned,,,52.581424,-2.14404,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35920,Land Adjacent To 2 Marsh Lane Wolverhampton West Midlands,,,,permissioned,,,52.6214,-2.130286,0.061,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34640,Garage Site Rear Of 6 To 52 Junction Road,,,,permissioned,,,52.571781,-2.097161,0.17,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35790,The British Oak Public House 155 Willenhall Road Wolverhampton West Midlands WV1 2HU,,,,permissioned,,,52.583547,-2.099165,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,31120,Land at 4 to 10 Marchant Road,,,,permissioned,,,52.572008,-2.082023,0.2,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34340,Garage Site Rear of 2-22 Hawkley Road,,,,permissioned,,,52.584629,-2.095507,0.24,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35900,53-54 Gordon Street Wolverhampton West Midlands WV2 1DB,,,,permissioned,,,52.579616,-2.120776,0.017,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35830,Land Rear Of Bird In Hand Public House Thorneycroft Lane Wolverhampton West Midlands WV10 0NF,,,,,,,52.601982,-2.102116,0.12,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33842,"Former Bilston College Site, 40 and adj land, Mount Pleasant (new build)",,,,permissioned,,,52.568526,-2.072471,0.2,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35880,Land Adjacent To 57 Ashley Street Wolverhampton West Midlands,,,,permissioned,,,52.567396,-2.06853,0.016,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35720,Land Adjacent To Kings Arms Public House 434 Dudley Road Wolverhampton West Midlands WV2 3AQ,,,,permissioned,,,52.573758,-2.126573,0.018,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36110,136 Hawksford Crescent Wolverhampton West Midlands WV10 9SN,,,,permissioned,,,52.610119,-2.120136,0.025,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37170,43 Taylor Street,,,,permissioned,,,52.601944,-2.082109,0.08,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32850,192 Merridale Street West Wolverhampton West Midlands WV3 0RP,,,,permissioned,,,52.578401,-2.146169,0.022,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37020,159 Parkfield Road,,,,permissioned,,,52.567021,-2.11158,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35870,Thorneycroft Service Station Thorneycroft Lane Wolverhampton West Midlands WV10 0NF,,,,pending decision,,,52.602388,-2.100876,0.069,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35890,Chestnut Cottage Birchfield Avenue Wolverhampton West Midlands WV6 8TE,,,,permissioned,,,52.602685,-2.18278,0.234,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37090,24A Chapel Ash,,,,permissioned,,,52.584974,-2.137277,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32190,Land Between 20 & 22 Church Hill Penn Wolverhampton West Midlands WV4 5PN,,,,permissioned,,,52.558259,-2.15659,0.168,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36120,Land Adjacent To 6 Wrekin Drive Merry Hill Wolverhampton West Midlands WV3 7HZ,,,,permissioned,,,52.577098,-2.159505,0.062,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35820,Land Between 26 And 35 Neville Avenue Wolverhampton West Midlands,,,,permissioned,,,52.566496,-2.124443,0.032,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35910,Cleobury House Mill Lane Tettenhall Wood Wolverhampton West Midlands WV6 8HE,,,,pending decision,,,52.588344,-2.190159,0.525,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,31820,"Garage Site Adjacent To 41 Bulger Road Nelson Avenue, Stowlawn",,,,permissioned,,,52.571132,-2.087024,0.034,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36000,Roseville Ettingshall Road Ettingshall Wolverhampton West Midlands WV2 2JP,,,,pending decision,,,52.574022,-2.104205,0.045,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35840,374 Penn Road Wolverhampton West Midlands WV4 4DB,,,,,,,52.561645,-2.152324,0.074,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37390,22 Dudding Road Wolverhampton West Midlands WV4 5DS,,,,permissioned,,,52.564826,-2.122668,0.061,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37450,36 Foley Avenue Wolverhampton West Midlands WV6 8LX,,,,permissioned,,,52.592705,-2.17825,0.037,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37840,Land Rear Of Daves Supersave 6-8 Wootton Avenue Wolverhampton WV11 3AA,,,,permissioned,,,52.610055,-2.078329,0.013,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,30680,"The Lych Gate, Chamberlains Lane",,,,permissioned,,,52.555368,-2.160532,0.177,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37950,Herian House Fold Street Wolverhampton West Midlands WV1 4LP,,,,permissioned,,,52.584017,-2.132728,0.195,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38390,Land South West of 6 Aldersley Road Wolverhampton West Midlands,,,,permissioned,,,52.600634,-2.158897,0.012,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33350,Garage Site Rear Of 55 To 63 Renton Road Wolverhampton West Midlands,,,,permissioned,,,52.618079,-2.141354,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37640,Brook House 25 Broad Lane South Wolverhampton West Midlands WV11 3RY,,,,permissioned,,,52.599053,-2.061213,0.187,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38260,Land Between 5 And 17 Welbury Gardens Wolverhampton West Midlands,,,,,,,52.60051,-2.150613,0.144,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33200,84 Bhylls Lane Wolverhampton West Midlands WV3 8DZ,,,,permissioned,,,52.575046,-2.179802,0.08,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38460,"Connaught Hotel, Tettenhall Road",,,,permissioned,,,52.587958,-2.145109,0.33,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37680,Garage Site Adjacent To 2 Bagridge Road Wolverhampton West Midlands,,,,,,,52.577523,-2.182955,0.085,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37460,37 Cartwright Street Wolverhampton WV2 3BT,,,,permissioned,,,52.576914,-2.125314,0.013,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37370,172 And 173 Stafford Street Wolverhampton WV1 1NA,,,,permissioned,,,52.588483,-2.126173,0.019,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37350,129 Green Lanes Bilston Wolverhampton WV14 6BZ,,,,pending decision,,,52.572798,-2.084209,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35200,"8 and 11 Mount Pleasant, Wolverhampton, West Midlands, WV14 7LJ",,,,permissioned,,,52.567195,-2.074357,0.004,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37400,229-231 Penn Road Wolverhampton West Midlands WV4 5TY,,,,,,,52.566941,-2.144641,0.389,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37760,Land At Lane Street Adjacent To Daisy Bank Community Centre Bradley Wolverhampton,,,,pending decision,,,52.554329,-2.075604,0.044,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37320,110 Woodthorne Road South Wolverhampton West Midlands WV6 8SW,,,,permissioned,,,52.597939,-2.188134,0.059,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37570,575 Parkfield Road Wolverhampton West Midlands WV4 6EL,,,,permissioned,,,52.566648,-2.107698,0.015,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33180,42 Newbridge Street Wolverhampton West Midlands WV6 0EG,,,,permissioned,,,52.594968,-2.154329,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37380,19 Showell Road Wolverhampton West Midlands WV10 9LU,,,,permissioned,,,52.605497,-2.121497,0.006,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37310,"Former Braybrook PRU, Bellamy Lane",,,,,,,52.607263,-2.085914,0.48,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,31110,Land rear of 13/14 Church Green & 31-36 Parkview Road,,,,,,,52.57858,-2.081977,0.148,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35030,"Wightwick Court, Vale Head Drive, Wolverhampton",,,,permissioned,,,52.587094,-2.190213,0.58,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37540,5-9 Chapel Ash Wolverhampton West Midlands WV3 0TZ,,,,permissioned,,,52.584892,-2.138428,0.048,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38140,King Charles Public House Cromwell Road Wolverhampton West Midlands WV10 8UT,,,,,,,52.630315,-2.114843,0.373,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37550,554 Wolverhampton Road East Wolverhampton WV4 6AA,,,,permissioned,,,52.565862,-2.120428,0.066,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38160,Land At Lawnside Green Wolverhampton West Midlands,,,,,,,52.576388,-2.078756,0.17,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38030,Land Between 30 And 40 Wordsworth Avenue Wolverhampton West Midlands,,,,permissioned,,,52.557735,-2.111585,0.094,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37520,48 Dixon Street Wolverhampton West Midlands WV2 2BJ,,,,permissioned,,,52.572696,-2.109764,0.043,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38290,61 Second Avenue Wolverhampton West Midlands WV10 9PD,,,,permissioned,,,52.608894,-2.113266,0.026,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37280,"Fmr Police Station, Birmingham Road, WV2 3LN",,,,permissioned,,,52.577859,-2.12511,0.19,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37690,Garage Site Adjacent To 63 Meldon Drive Bilston,,,,,,,52.549918,-2.053962,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33910,Garage Site To The Rear Of 16 To 26 Bank Street Slater Street Wolverhampton,,,,permissioned,,,52.557479,-2.069827,0.11,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34910,"Fmr Borough Arms PH, Bunkers Hill Lane WV14 6JX",,,,permissioned,,,52.573688,-2.070517,0.22,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38300,Former Garage Adjacent To 36 Redcotts Close Wolverhampton West Midlands,,,,,,,52.612339,-2.102125,0.052,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37490,46-48 Chapel Ash Wolverhampton West Midlands WV3 0TT,,,,permissioned,,,52.585207,-2.138222,0.046,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37660,Former Evcap Centre 51A John Street/George Street Ettingshall Wolverhampton WV2 2LY,,,,permissioned,,,52.570494,-2.098914,0.104,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37800,Land Between 212 And 214 Lea Road Wolverhampton West Midlands,,,,permissioned,,,52.577602,-2.137785,0.028,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37301,"Fmr Pennfields Special School, Birches Barn Road WV3 7BJ (school buildings)",,,,permissioned,,,52.573011,-2.149855,0.67,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37820,Land Opposite 2 Coningsby Drive Wolverhampton,,,,permissioned,,,52.568739,-2.101182,0.099,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35180,"Land adjacent to 35 Willis Pearson Avenue, Wolverhampton, West Midlands, WV14 8DA",,,,permissioned,,,52.553368,-2.059202,0.089,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38150,Land Behind 58 And 60 Dixon Street Wolverhampton West Midlands,,,,permissioned,,,52.572246,-2.109689,0.066,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,31150,Former 21 & 23 Hughes Road,,,,permissioned,,,52.572944,-2.081096,0.051,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37620,Beckminster Club 22 Coalway Road Wolverhampton West Midlands WV3 7LX,,,,permissioned,,,52.569157,-2.148263,0.113,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37900,Observer Buildings 2 Lower Street Wolverhampton West Midlands WV6 9AF,,,,pending decision,,,52.598484,-2.159878,0.194,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35160,"46 Mount Road, Tettenhall, Wolverhampton, West Midlands, WV6 8HW",,,,,,,52.589007,-2.18569,0.29,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38050,Land Between 25 And 31 Wordsworth Avenue Wolverhampton West Midlands,,,,permissioned,,,52.557852,-2.111099,0.018,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38110,Land South East Of 5 Sunset Place Wolverhampton West Midlands,,,,,,,52.556051,-2.105327,0.08,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37480,45 Bath Road Wolverhampton West Midlands WV1 4EW,,,,,,,52.586376,-2.13799,0.021,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37340,12 Birches Barn Road Wolverhampton West Midlands WV3 7BN,,,,permissioned,,,52.575892,-2.153687,0.029,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38120,Second Floor Chancel Court 2 Wellington Road Bilston Wolverhampton,,,,permissioned,,,52.567203,-2.075995,0.137,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37500,46 Queen Street City Centre Wolverhampton West Midlands WV1 3BJ,,,,permissioned,,,52.585663,-2.123833,0.08,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37700,Hafod Mount Road Tettenhall Wood Wolverhampton West Midlands WV6 8HR,,,,permissioned,,,52.588391,-2.183178,0.18,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37660,Former Evcap Centre 51A John Street/George Street Ettingshall Wolverhampton WV2 2LY,,,,permissioned,,,52.570494,-2.098914,0.104,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37440,337 Bushbury Lane Wolverhampton West Midlands WV10 9UL,,,,permissioned,,,52.616361,-2.117657,0.064,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38000,1 Claverley Drive Wolverhampton West Midlands WV4 4QL,,,,permissioned,,,52.567316,-2.166654,0.112,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38350,Land Between 3 And 9 Hughes Road Wolverhampton West Midlands,,,,,,,52.572684,-2.080033,0.056,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38380,178-179 Dudley Road Wolverhampton West Midlands WV2 3DR,,,,permissioned,,,52.571315,-2.124663,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37890,Oak And Ivy 30 Oxford Street Bilston Wolverhampton West Midlands WV14 7DE,,,,permissioned,,,52.565399,-2.071153,0.027,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37910,The Former Haven Club 15 Claremont Street Wolverhampton West Midlands WV14 6BA,,,,permissioned,,,52.569553,-2.08255,0.103,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38480,"Fmr Steelcraft Engineering, 6 Commercial Road",,,,pending decision,,,52.580781,-2.115142,0.18,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37930,Land Rear Of 10 Broad Street Bilston WV14 0BP,,,,permissioned,,,52.565142,-2.079237,0.21,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37210,"33 High Street, Tettenhall",,,,,,,52.5969,-2.168007,0.3,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33450,Land Adjacent 163 Caledonia Road Wolverhampton West Midlands,,,,permissioned,,,52.575648,-2.115571,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37880,Land To The Side Of 96 Coronation Road Heath Town Wolverhampton West Midlands WV10 0QH,,,,permissioned,,,52.596287,-2.097673,0.052,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37870,Land To The Rear Of 42-48 Goldthorn Hill Wolverhampton West Midlands WV2 3HU,,,,permissioned,,,52.567223,-2.125596,0.042,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38370,Henleaze Stockwell End Wolverhampton West Midlands WV6 9PH,,,,permissioned,,,52.603879,-2.165568,0.129,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38200,Garage Site Behind 3 To 23 Lower Vauxhall Wolverhampton West Midlands,,,,permissioned,,,52.589225,-2.145822,0.049,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37510,46 Riches Street Wolverhampton WV6 0DR,,,,permissioned,,,52.59171,-2.150273,0.019,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37920,The Old Police Station 15 Mount Pleasant Wolverhampton West Midlands WV14 7LS,,,,permissioned,,,52.567258,-2.073664,0.111,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38310,Sub-station Site At Rear Of Merridale Court Merridale Road Wolverhampton West Midlands WV3 9LE,,,,permissioned,,,52.580652,-2.150383,0.22,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37810,Land Between 39 And 41 Daley Road Wolverhampton West Midlands,,,,pending decision,,,52.551181,-2.063092,0.178,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37960,Chas Hunter Ltd Upper Villiers Street Wolverhampton West Midlands WV2 4NR,,,,permissioned,,,52.571613,-2.131171,0.332,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,28920,"Fmr Bushbury Arms PH, Showell Circus, Low Hill",,,,,,,52.611095,-2.115399,0.7,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37530,49 Queen Street City Centre Wolverhampton West Midlands WV1 3BJ,,,,permissioned,,,52.585609,-2.124113,0.027,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38170,63 Gorsebrook Road Wolverhampton West Midlands WV6 0PD,,,,permissioned,,,52.599384,-2.137514,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38130,85 Fraser Street Wolverhampton West Midlands WV14 7PD,,,,permissioned,,,52.567423,-2.069047,0.011,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34250,Garage site adj 86 Wentworth Road,,,,permissioned,,,52.626283,-2.110593,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38330,65 Gorsebrook Road Wolverhampton West Midlands WV6 0PD,,,,permissioned,,,52.599411,-2.137455,0.014,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37940,127 Bushbury Road Wolverhampton West Midlands WV10 0LZ,,,,permissioned,,,52.599509,-2.10301,0.773,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37710,Harrison House Marston Road Wolverhampton West Midlands WV2 4NJ,,,,permissioned,,,52.573733,-2.132299,0.148,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37970,108 Moseley Road Bilston Wolverhampton West Midlands WV14 6JF,,,,permissioned,,,52.576206,-2.068013,0.109,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33380,Land Adjacent To 4 Rose Street Wolverhampton West Midlands,,,,permissioned,,,52.551988,-2.066604,0.068,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35340,"Garage site to the rear of 1 To 13 Carlton Avenue, Bilston, Wolverhampton, West Midlands",,,,permissioned,,,52.573755,-2.062417,0.087,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37590,6 Windmill Lane Wolverhampton West Midlands WV3 8HJ,,,,permissioned,,,52.581697,-2.192005,0.238,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,30160,70 Upper Villiers Street Wolverhampton,,,,permissioned,,,52.568058,-2.134878,0.12,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37330,115 Waterloo Road Wolverhampton West Midlands WV1 4RB,,,,,,,52.593162,-2.131147,0.025,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38240,Welsby 56 Green Lanes Wolverhampton West Midlands WV14 6BY,,,,permissioned,,,52.570739,-2.083614,0.021,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34460,"Land Rear Of The Neachells Public House, Neachells Lane",,,,permissioned,,,52.584694,-2.07945,0.26,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37420,3 Newhampton Road East Wolverhampton West Midlands WV1 4AJ,,,,permissioned,,,52.58985,-2.134045,0.046,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38180,Former Christ Church Of England Infant School Leicester Street Wolverhampton West Midlands WV6 0PS,,,,permissioned,,,52.594541,-2.13586,0.349,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37560,57 Mount Road Penn Wolverhampton West Midlands WV4 5SS,,,,permissioned,,,52.562204,-2.144006,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38280,The Island House 160 Stafford Road Wolverhampton West Midlands WV10 6JT,,,,permissioned,,,52.605174,-2.129588,0.15,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32600,39 Malins Road Wolverhampton West Midlands WV4 6AW,,,,permissioned,,,52.564982,-2.119437,0.025,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37630,Bird In Hand Public House Thorneycroft Lane Wolverhampton WV10 0NF,,,,permissioned,,,52.601982,-2.102116,0.106,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37410,26 Granville Street Wolverhampton West Midlands WV2 1DG,,,,,,,52.578898,-2.119402,0.008,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32080,WMBC Training Centre Fifth Avenue Low Hill Wolverhampton West Midlands,,,,permissioned,,,52.61005,-2.107584,0.722,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36671,Wolverhampton Street / Shale Street (Part 1 of 2),,,,,,,52.565849,-2.08421,0.249,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36040,Land Rear Of 59 To 71 Newbridge Crescent Wolverhampton West Midlands,,,,permissioned,,,52.59522,-2.160796,0.155,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38010,Former Bulls Head 153 Millfields Road Wolverhampton West Midlands WV4 6JE,,,,permissioned,,,52.566464,-2.101177,0.086,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38360,22 Lichfield Street City Centre Wolverhampton WV1 1DG,,,,,,,52.586361,-2.126861,0.015,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33880,Garage Site To The Rear Of 1 To 5 Baylis Avenue Wolverhampton West Midlands,,,,permissioned,,,52.614018,-2.066521,0.11,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37190,"Former St Judes Infant School, Riches Street",,,,permissioned,,,52.59348,-2.150929,0.4,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38250,"Fmr Crown and Cushion, Bank Street, Bradley",,,,permissioned,,,52.556131,-2.069663,0.2,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32670,"Fmr Wulfruna Court, Dale St / Russell Street",,,,permissioned,,,52.580812,-2.137131,0.7,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38470,Land Corner of Riches St / Sweetman St,,,,permissioned,,,52.594101,-2.150532,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36480,"RDP Electronics Ltd, Grove Street",,,,,,,52.591174,-2.105028,0.35,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,31980,Land Between Elysium And Orchard House 10 Old Lane Wightwick Wolverhampton West Midlands,,,,pending decision,,,52.586935,-2.193887,0.151,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38210,Land Between 182 And Showell Park Medical Centre Fifth Avenue Wolverhampton West Midlands,,,,,,,52.60808,-2.118477,0.18,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,37780,Land Behind 54 To 57 Rose Street Wolverhampton West Midlands,,,,permissioned,,,52.55153,-2.067399,0.064,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36420,"Fmr ADAS offices, Wergs Road",,,,,,,52.603313,-2.184082,3.57,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36770,"Shopping Core / Southside, Wolverhampton City Centre",,,,,,,52.582684,-2.1275,1.5,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36780,"Westside, Wolverhampton City Centre",,,,,,,52.582876,-2.132769,6,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38440,"1 Red Lion Street, Wolverhampton City Centre",,,,permissioned,,,52.585718,-2.131493,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36990,"Beazer House, Hare Street",,,,permissioned,,,52.563253,-2.065662,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35460,"27 Newbolds Road, Wolverhampton, West Midlands, WV10 0SA",,,,permissioned,,,52.604634,-2.102978,0.031,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32130,Cable St / Steelhouse Lane,,,,,,,52.577377,-2.112403,8,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,30910,Former site of 84 Brooklands Parade,,,,permissioned,,,52.586689,-2.093962,0.025,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36080,Land Adjacent To 34 Thorneycroft Lane Wolverhampton West Midlands,,,,permissioned,,,52.602541,-2.100537,0.024,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33330,31 Copthorne Road Wolverhampton West Midlands WV3 0AB,,,,permissioned,,,52.571643,-2.144081,0.057,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,27600,"New Cross Farm, Wednesfield Road",,,,,,,52.597117,-2.093645,0.17,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34180,"Monkey House PH, Kent Road",,,,permissioned,,,52.574095,-2.113309,0.44,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34870,470 Dudley Road WV2 3AF,,,,permissioned,,,52.575232,-2.126652,0.17,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32060,"Car Sales, 242-244 Dudley Road Blakenhall Wolverhampton West Midlands WV2 3JU",,,,permissioned,,,52.568834,-2.123594,0.173,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34600,1 Park Road West WV1 4PS,,,,permissioned,,,52.586799,-2.137371,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34880,Land To The Rear Of 38 To 60 Humphries Crescent WV14 8BB,,,,permissioned,,,52.547811,-2.061318,0.2,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34440,"198, 200-206 Coleman St, Whitmore Reans",,,,,,,52.596304,-2.150053,0.28,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36431,"Fmr Jennie Lee Centre, Wednesfield (previously developed)",,,,permissioned,,,52.60327,-2.075792,6.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35400,"Land adjacent to 36 Derry Street and 203 Birmingham Road, Wolverhampton, West Midlands, WV2 1EY",,,,pending decision,,,52.575415,-2.123568,0.087,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33470,75-76 Dudley Road Wolverhampton West Midlands,,,,pending decision,,,52.575664,-2.126018,0.077,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,30490,"Goodyear site, Stafford Road",,,,permissioned,,,52.613634,-2.128446,23.24,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32650,"Crane foundry, Canalside Quarter",,,,,,,52.58605,-2.114373,0.77,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32660,"Horseley Fields / Edward Vaughan Stamping Works, Canalside Quarter",,,,,,,52.585151,-2.114784,2.16,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,P7,"The Orchard, Bilston Town Centre",,,,,,,52.565613,-2.074089,0.84,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36740,"Heath Town Estate Masterplan (excl East of Qualcast Rd, Fmr Duke of York PH)",,,,pending decision,,,52.591244,-2.107715,6,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36610,East of Qualcast Road,,,,pending decision,,,52.587376,-2.109919,2.4,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36470,"Fmr Duke of York PH, Wednesfield Road",,,,pending decision,,,52.590791,-2.111433,0.47,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36830,"Mill Street Depot, Canalside Quarter",,,,,,,52.586452,-2.117075,1.19,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36820,"Culwell Street Depot, Canalside Quarter",,,,,,,52.58973,-2.120036,1.23,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36800,"Stafford Street / Cannock Road, Canalside Quarter",,,,,,,52.590812,-2.12553,2.95,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36840,"Express & Star Buildings, Castle St / Tower St",,,,,,,52.594305,-2.129275,0.53,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,32690,"Former Eye Infirmary, Chapel Ash",,,,,,,52.585345,-2.143196,1.18,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36790,"Interchange, Wolverhampton City Centre",,,,,,,52.587895,-2.121374,0.5,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36910,"Tower / Fort Works, Pelham Street",,,,pending decision,,,52.580537,-2.141882,1.58,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,28840,"Land at Grimstone St / Culwell St, Canalside Quarter",,,,,,,52.590899,-2.120305,0.79,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36660,Reliance Trading Estate,,,,,,,52.565574,-2.090966,1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36710,"Bus Depot, Park Lane",,,,,,,52.601135,-2.114619,2.8,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36720,"Bluebird Industrial Estate and site to rear, Park Lane",,,,,,,52.599965,-2.115443,3.6,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36730,"Assa Abloy building and former petrol station, Cannock Road",,,,,,,52.600681,-2.109318,3.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36650,"Ceandess, Dixon Street",,,,,,,52.572888,-2.106415,1.15,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36620,West of Qualcast Road,,,,,,,52.586727,-2.112132,3.4,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36700,Showell Road / Bushbury Lane,,,,,,,52.60954,-2.123398,2.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36880,"Land North of Graiseley Hill, Blakenhall Character Area",,,,,,,52.577382,-2.133918,0.77,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36690,South of Oxford Street,,,,,,,52.559265,-2.060183,1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36630,Old Heath Road,,,,,,,52.586398,-2.108072,4.2,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,28870,"Dixon St Wharf / Rough Hills Works, D'Urberville Road",,,,,,,52.572725,-2.107758,2.35,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36860,"Ablow Street, Blakenhall Character Area",,,,,,,52.578858,-2.13227,0.96,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36900,"Moorfield Road, Blakenhall Character Area",,,,,,,52.571196,-2.133988,1.87,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36870,"Dudley Road / Bell Place, Blakenhall Character Area",,,,,,,52.577857,-2.12663,0.68,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36640,"Delta Trading Estate, Bilston Road",,,,,,,52.577335,-2.109333,2,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36680,Greenway Road,,,,,,,52.558487,-2.068915,4,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,28861,"Ward Street Master Plan, Ettingshall (1) Former Bilston Gas Works",,,,permissioned,,,52.567082,-2.093728,4.19,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,28862,"Ward Street Master Plan, Ettingshall (2) Maxxiom, former Elm Energy & John Roberts Open Space",,,,permissioned,,,52.567458,-2.095116,10.35,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,30542,"Bushbury Hall Farm, Bushbury Lane",,,,permissioned,,,52.620366,-2.112321,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34320,Garage Site adj to 49 Glentworth Gardens,,,,,,,52.59918,-2.135269,0.13,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36892,"Former St Luke's Junior School, Goldthorn Road (built area)",,,,,,,52.571698,-2.135553,1.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34540,Land Adjacent 66 Hollybush Lane WV4 4HU,,,,permissioned,,,52.558193,-2.165779,0.08,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33841,"Former Bilston College Site, 40 and adj land, Mount Pleasant (conversion)",,,,permissioned,,,52.568301,-2.072795,0.15,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,31750,"Land at Cambridge Street, Wolverhampton (private)",,,,,,,52.592535,-2.120029,0.3,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36672,Wolverhampton Street /Shale Street (Part 2 of 2)-Formcast Shale Street Bilston,,,,pending decision,,,52.566019,-2.08396,0.251,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,P51,"Fmr St Judes Social Services Area Office, St Judes Road",,,,,,,52.592668,-2.152638,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,34660,"49-53 High Street, Wednesfield WV11 1ST",,,,permissioned,,,52.600452,-2.081442,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,35470,"38 King Street, Bradley, Wolverhampton, West Midlands, WV14 8PQ",,,,permissioned,,,53.455523,-2.070424,0.096,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,30541,"Bushbury Hall Farm, Bushbury Lane",,,,permissioned,,,52.620366,-2.112321,0.32,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38070,First Floor And Second Floor 28-36 Church Street Bilston Wolverhampton WV14 0AX,,,,permissioned,,,52.566008,-2.07409,0.063,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38020,Garage Site Between 62 And 64 Olinthus Avenue Wolverhampton West Midlands,,,,,,,52.608003,-2.067915,0.114,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33890,Garage Site To The Rear Of 11 To 14 Tonadine Close Wolverhampton West Midlands,,,,permissioned,,,52.617449,-2.055419,0.13,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,31580,219 Prestwood Road Heath Town Wolverhampton West Midlands WV11 1RF,,,,,,,52.601426,-2.100461,0.021,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33960,Land At Junction With Canal Bridge And Birmingham Canal Highfields Road Wolverhampton,,,,,,,52.554487,-2.081902,0.22,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,33780,591 Willenhall Road Wolverhampton West Midlands WV13 3LP,,,,permissioned,,,52.584355,-2.076689,0.11,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,28880,"Former Farndale Junior School, Gatis St, Whitmore Reans",,,,permissioned,,,52.596948,-2.145493,0.56,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36751,"Fmr Tettenhall Wood Special School (land), School Road",,,,permissioned,,,52.591071,-2.182333,1.25,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,36751,"Fmr Tettenhall Wood Special School (lbuildings), School Road",,,,permissioned,,,52.591071,-2.182333,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,38530,"Corner House, Dunstall Road",,,,,,,52.598395,-2.138382,0.14,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,29010,"The Tapworks / Broome Road, Showell Road, Low Hill",,,,pending decision,,,52.609821,-2.12179,2.37,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,27412,Bilston Urban Village-Phase 2,,,,,,,52.558847,-2.081276,13.25,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
-,local-authority-eng:WLV,27411,Bilston Urban Village-Phase 1,,,,permissioned,,,52.559445,-2.075731,2.4,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,P53,"55-77 Lichfield Street, Wolverhampton City Centre",,,,,,,52.586859,-2.123999,0.122,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,P54,"Springvale Sports and Social Club, Millfields Road",,,,,,,52.562807,-2.088084,2.857,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39360,"Telecom House, Church Street, Wolverhampton City Centre",,,,permissioned,,,52.581017,-2.130786,0.55,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39340,Land at Sweetbriar Road / Pump Street,,,,permissioned,,,52.571364,-2.101454,0.16,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39330,"Fmr Ettingshall Primary School, Herbert Street",,,,permissioned,,,52.570372,-2.094148,1.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39320,"Fmr Bilston Leisure Centre, Prouds Lane, Bilston",,,,permissioned,,,52.568865,-2.076632,0.89,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39310,"The Manse, Leacroft Avenue",,,,pending decision,,,52.612032,-2.113466,0.34,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39280,Garage Site Behind 23 To 33 Beach Avenue Wolverhampton West Midlands,,,,pending decision,,,52.552978,-2.103639,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39260,Land Formerly 37-39 Brooklands Parade Wolverhampton West Midlands WV1 2ND,,,,permissioned,,,52.586508,-2.095379,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39230,Medical Massage 37 Thornley Street Wolverhampton West Midlands WV1 1JP,,,,permissioned,,,52.58843,-2.125789,0.006,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39220,651 Stafford Road Wolverhampton West Midlands WV10 6QG,,,,permissioned,,,52.627345,-2.12729,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39200,National Childrens Home 83 Compton Road Wolverhampton West Midlands WV3 9QH,,,,permissioned,,,52.586203,-2.154195,0.2,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39170,73 Bellamy Lane Wolverhampton WV11 1LH,,,,permissioned,,,52.608181,-2.085163,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39140,Primeco Limited 66-70 Lichfield Street City Centre Wolverhampton West Midlands WV1 1DB,,,,permissioned,,,52.586588,-2.1245,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39110,138 Penn Road Wolverhampton WV3 0DZ,,,,permissioned,,,52.573943,-2.138098,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39100,Land Between 79A Harrowby Road And Harrowby Road Allotment Site Fordhouses WV10 6EP,,,,permissioned,,,52.624945,-2.135526,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39070,Little Orchard Perton Road Wolverhampton West Midlands WV6 8DP,,,,permissioned,,,52.587415,-2.192103,0.37,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39050,10 Lever Street Wolverhampton West Midlands WV2 1AL,,,,permissioned,,,52.579416,-2.123078,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39030,38 Rupert Street Wolverhampton West Midlands WV3 9NS,,,,permissioned,,,52.587479,-2.14741,0.057,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39020,Flat 1 110 Hurst Road Lanesfield Wolverhampton West Midlands WV14 9EU,,,,permissioned,,,52.546271,-2.104227,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39010,Bramerton Childrens Residential Home 17 Bramerton Close Wolverhampton West Midlands WV11 1RT,,,,permissioned,,,52.602489,-2.098499,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,39000,The Former British Legion Club Penn Road Wolverhampton West Midlands WV4 5LZ,,,,permissioned,,,52.555051,-2.169056,0.4,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38990,The Otter And Vixen Old Fallings Lane Wolverhampton West Midlands WV10 8BN,,,,pending decision,,,52.609882,-2.104955,0.246,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38970,"Land adj 12 Lloyd Hill, Lower Penn",,,,permissioned,,,52.555542,-2.171389,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38960,Northwood Park Lodge Northwood Park Road Wolverhampton West Midlands WV10 8EU,,,,permissioned,,,52.623608,-2.1162,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38950,133 Park Street South Wolverhampton West Midlands WV2 3JF,,,,permissioned,,,52.569627,-2.130693,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38940,368-370 Dudley Road Wolverhampton WV2 3AY,,,,permissioned,,,52.570487,-2.124956,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38930,Upper Floors 27 And 28 Market Street Wolverhampton West Midlands WV1 3AG,,,,permissioned,,,52.58513,-2.126001,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38920,23 Chetwynd Road Wolverhampton West Midlands WV2 4NZ,,,,permissioned,,,52.569433,-2.135605,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38910,Woodend Post Office 80 Lower Prestwood Road Wolverhampton West Midlands WV11 1JP,,,,permissioned,,,52.610293,-2.085344,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38900,"Hotel rear of The Old White Rose PH, 20 Lichfield St, Bilston WV14 0EB",,,,permissioned,,,52.566089,-2.073898,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38890,1-3 St Johns Street Wolverhampton WV1 3NS,,,,permissioned,,,52.584264,-2.129246,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38880,"Land North And South Of Lane Street, Bradley WV14 8UP",,,,pending decision,,,52.584264,-2.129246,0.392,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38870,19 Raynor Road Wolverhampton West Midlands WV10 9QY,,,,permissioned,,,52.605224,-2.106405,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38860,13-15 Connaught Road Stowlawn Wolverhampton West Midlands WV14 6NU,,,,permissioned,,,52.573808,-2.064999,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38490,"58-60 Lichfield Street, City Centre",,,,permissioned,,,52.586605,-2.125828,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38830,Land North West Of Bilston Urban Village Medical Centre Bankfield Road Wolverhampton West Midlands,,,,permissioned,,,52.563103,-2.076976,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38820,187 Leicester Street Wolverhampton West Midlands WV6 0PP,,,,permissioned,,,52.59335,-2.139635,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38810,436 Lichfield Road Wolverhampton West Midlands WV11 3HF,,,,permissioned,,,52.607667,-2.058448,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38500,"Mount Court, Mount Road",,,,,,,52.588939,-2.183519,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38800,5 Waterloo Road Wolverhampton WV1 4DJ,,,,permissioned,,,52.585977,-2.132454,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38790,Former Wood Hayes Pub Land North Of 434 Wood End Road Wolverhampton WV11 1YG,,,,permissioned,,,52.616783,-2.086819,0.122,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38780,76 Finchfield Road West Wolverhampton West Midlands WV3 8BA,,,,permissioned,,,52.579744,-2.164222,0.26,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38770,Land Behind 77 To 91 D'Urberville Road Wolverhampton West Midlands,,,,permissioned,,,52.571459,-2.105836,0.228,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38760,5 Grove Lane Wolverhampton West Midlands WV6 8NH,,,,permissioned,,,52.588555,-2.181761,0.08,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38752,"Samson And Lion (land), Newbolt Road Wolverhampton West Midlands WV14 7NP",,,,permissioned,,,52.568142,-2.068266,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38740,466 Dudley Road Wolverhampton West Midlands WV2 3AF,,,,permissioned,,,52.575016,-2.1264,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38730,New Cross Car Park Wolverhampton Road Heath Town Wolverhampton West Midlands,,,,pending decision,,,52.597189,-2.093468,0.45,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38720,Building Behind 50 Lichfield Street Wheelers Fold Wolverhampton West Midlands,,,,permissioned,,,52.586344,-2.126019,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38710,"The Angel Car Park, High Street, Wednesfield",,,,permissioned,,,52.600128,-2.082608,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38690,88A Great Brickkiln Street Wolverhampton WV3 0PU,,,,permissioned,,,52.581463,-2.141428,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38680,Martin And Co 11 Waterloo Road Wolverhampton West Midlands WV1 4DJ,,,,permissioned,,,52.586256,-2.132469,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38670,29 Vicarage Road All Saints Wolverhampton WV2 1BZ,,,,permissioned,,,52.579786,-2.121396,0.006,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38660,Coniston House Chapel Ash Wolverhampton WV3 0UD,,,,permissioned,,,52.584572,-2.135504,0.159,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38650,25 Waterloo Road Wolverhampton WV1 4DJ,,,,permissioned,,,52.586813,-2.132648,0.027,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38640,Whiteheads Building 26A Snow Hill Wolverhampton,,,,permissioned,,,52.582002,-2.125668,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38630,5 Stockwell Road,,,,permissioned,,,52.601047,-2.166281,0.44,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38620,Land rear of 45 Rookery Road,,,,pending decision,,,52.553124,-2.100247,0.47,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38590,"31 Lichfield Street, Bilston",,,,,,,52.566332,-2.073943,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38570,125 Parkfield Road,,,,,,,52.566987,-2.109647,0.08,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38560,Land adj 31 Coalway Road,,,,,,,52.568825,-2.147539,0.25,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38550,109 Warstones Road,,,,,,,52.564898,-2.166616,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38540,3 Waterloo Road,,,,,,,52.585987,-2.132291,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38610,Land corner of Stafford St and Bone Mill Lane WV1 1NT,,,,permissioned,,,52.595584,-2.127242,0.61,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38580,"Corpus Christi RC Church, Griffiths Drive",,,,,,,52.614149,-2.056567,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38510,6-7 Victoria Passage,,,,,,,52.584533,-2.130221,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38520,"43 Lichfield Road, Wednesfield",,,,,,,52.602386,-2.079866,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D80,"Oxley Moor House and Oxley Day Centre, Probert Road",,,,,,,52.618116,-2.132152,0.865,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D78,"Stowheath Day/Childrens Centres, Stowheath Lane",,,,,,,52.57527,-2.095428,1.134,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D76,"Fmr Warstones Resource Centre, Warstones Drive",,,,,,,52.568497,-2.170805,0.42,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D75,"Fmr Merry Hill House, Langley Road",,,,,,,52.570696,-2.173218,0.36,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D74,"Fmr Nelson Mandela House, Whitburn Close",,,,,,,52.623071,-2.146555,0.6,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D73,"Fmr Woden Resource Centre, Vicarage Road",,,,,,,52.604661,-2.092066,0.45,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D72,School Road,,,,,,,52.590835,-2.183631,0.23,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D71,Pointon Close,,,,,,,52.550384,-2.098279,0.17,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D70,Townson Road,,,,,,,52.612188,-2.059931,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D69,Batmans Hill Road,,,,,,,52.548158,-2.068707,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D68,17 Ryan Avenue,,,,,,,52.610868,-2.056016,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D67,Cavendish Road,,,,,,,52.58181,-2.08979,0.12,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D66,Arnhem Close,,,,,,,52.613704,-2.09244,0.11,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D65,Central Avenue,,,,,,,52.573227,-2.074692,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D64,Waddensbrook Lane,,,,,,,52.597908,-2.066969,0.26,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D63,Bradley Road,,,,,,,52.573623,-2.117439,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D62,Hylstone Crescent,,,,,,,52.605823,-2.076151,0.17,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D61,Foster Road,,,,,,,52.60749,-2.115537,0.13,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D60,Wilkinson Avenue,,,,,,,52.552427,-2.069362,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D59,Park View Road,,,,,,,52.578739,-2.085046,0.11,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D58,Fairway Green Site B,,,,,,,52.575183,-2.079816,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D57,Fairway Green Site A,,,,,,,52.575255,-2.080392,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D56,Whiston Avenue,,,,,,,52.611065,-2.057774,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D55,Moat Green Avenue,,,,,,,52.608683,-2.073542,0.16,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D54,84-94 Pond Lane,,,,,,,52.572554,-2.116655,0.09,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D53,Bradley Lane,,,,,,,,,0.09,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D52,Abingdon Road Site B,,,,,,,52.585342,-2.091804,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D51,Abingdon Road Site A,,,,,,,52.58537,-2.090387,0.09,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D50,Westcroft Avenue,,,,,,,52.617934,-2.097781,0.31,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D49,Land at Marchant Road,,,,,,,52.573571,-2.083399,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D47,Parker Road,,,,,,,52.617319,-2.063498,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D45,40 Wolverhampton Road,,,,,,,52.597721,-2.090812,0.13,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D44,18-20 Peach Road,,,,,,,52.605943,-2.054489,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D43,52-72 Peach Road,,,,,,,52.606706,-2.05542,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D41,Fmr Daisy Bank Community Centre,,,,,,,52.554096,-2.075161,0.48,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D39,"Fmr Bilston Tennis Club, Villiers Avenue",,,,,,,52.569753,-2.079585,0.27,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D36,"Harrowby Court, Chetton Green",,,,,,,52.625117,-2.134492,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D37,"Patshull Court, Chetton Green",,,,,,,52.625566,-2.134316,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D38,"Wobaston Court, Chetton Green",,,,,,,52.625278,-2.135172,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D35,Merridale Court,,,,,,,52.581229,-2.149411,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D34,Chetton Green (caretakers office),,,,,,,52.625537,-2.136015,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38751,"Samson And Lion (buildings), Newbolt Road WV14 7NP",,,,permissioned,,,52.568142,-2.068266,0.104,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38601,"Former Danesmore Park Primary School, Russell Close (school buildings)",,,,permissioned,,,52.618229,-2.059615,0.77,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D5,Northicote Secondary School,,,,,,,52.626431,-2.115779,4.94,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D20,"Beckminster House, Beckminster Road",,,,,,,52.572509,-2.149307,0.86,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,D33,"Former Wolverhampton Environment Centre, Westacre Crescent",,,,,,,52.582014,-2.179092,0.5,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,30430,Ackleton Gardens Rear of Nos 47-49 Church Road Bradmore Wolverhampton,,,,,,,52.573643,-2.154815,0.2,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,P24,"Land at the rear of 58A Hollybush Lane, Penn",,,,,,,52.558749,-2.166637,0.061,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,29880,"Land between 53 & 55 Leason Lane, The Scotlands",,,,,,,52.612023,-2.103512,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,29920,Former garage site adjoining 42 and 44 Primrose Lane,,,,,,,52.612374,-2.102228,0.078,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,P29,"32A Laburnum Road, Stowheath.",,,,,,,52.57673,-2.091034,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,31230,62 & 64 Villiers Avenue,,,,,,,52.57263,-2.079398,0.053,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,31460,"Land adjoining 1 Norfolk Road, Pennfields",,,,,,,52.577251,-2.145192,0.047,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,31730,"62/63 Worcester Street, Wolverhampton",,,,permissioned,,,52.582149,-2.131261,0.016,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,P30,"Land at 127 Waterloo Road, Wolverhampton",,,,,,,52.593898,-2.131607,0.24,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33040,61 Wrottesley Road Wolverhampton West Midlands WV6 8SG,,,,permissioned,,,52.6009,-2.180292,0.105,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,P28,"25 Shaw Road, Blakenhall",,,,,,,52.56875,-2.126869,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,P32,"Blunts Shoeshop, 5-15 Broad Street, Wolverhampton",,,,,,,52.587441,-2.125462,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,30790,102 Napier Road,,,,,,,52.571477,-2.123763,0.059,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,P31,Land adjacent to 50 Jeremy Road Goldthorn Park.,,,,,,,52.562424,-2.132796,0.022,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32730,Culwell Industrial Estate,,,,,,,52.59464,-2.109495,4.206,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,31850,"Cornerstone Veterinary Centre, Northwood Park Road, Bushbury",,,,,,,52.624636,-2.113012,0.092,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32860,Garage Site Rear Of 104 And 106 Mount Road Lanesfield Wolverhampton West Midlands,,,,,,,52.55256,-2.108475,0.054,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,27430,Goldthorn Hill Pumping Station and Allotments,,,,,,,52.568185,-2.133698,0.48,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37610,85 Northwood Park Road Wolverhampton West Midlands WV10 8EX,,,,pending decision,,,52.626752,-2.11804,0.029,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32700,"Former Dale House, Showell Circus",,,,,,,52.611223,-2.112814,0.36,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33530,20 Lawley Road Wolverhampton West Midlands WV14 0NB,,,,permissioned,,,52.569979,-2.090474,0.114,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32710,"New Cross Hospital, Wolverhampton Road",,,,,,,52.598383,-2.095035,23.59,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33320,Land Adjacent To 1 Howard Road Britannia Road Wolverhampton West Midlands,,,,permissioned,,,52.554354,-2.063657,0.061,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33500,50-52 Willenhall Road Bilston Wolverhampton West Midlands WV14 6NW,,,,,,,52.57156,-2.064818,0.128,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32950,Store Adjacent 35 Claremont Road Wolverhampton West Midlands WV3 0EA,,,,,,,52.574855,-2.142277,0.019,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,29850,"Land between 66 & 68 Redcotts Close, The Scotlands",,,,,,,52.61153,-2.101769,0.043,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,31930,99 Wellington Road Bilston,,,,permissioned,,,52.570457,-2.08863,0.401,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32230,21 Lichfield Street Bilston Wolverhampton West Midlands WV14 0AG,,,,,,,52.566188,-2.073603,0.033,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34470,"1 Princess Street, City Centre WV1 1HQ",,,,permissioned,,,52.585652,-2.12587,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34390,"Old Vine PH, Lower Vauxhall",,,,permissioned,,,52.588426,-2.144845,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34770,"Former Sons Of Rest, Hackett Close WV14 9SD",,,,pending decision,,,52.546513,-2.104434,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33760,48 Bolton Road Wolverhampton West Midlands WV11 1UA,,,,permissioned,,,52.597818,-2.081658,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34190,1-3 Hunter Street,,,,permissioned,,,52.594665,-2.144747,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35620,"Land adjacent to and rear of 6 Bridgnorth Road, Wolverhampton, West Midlands",,,,permissioned,,,52.586653,-2.173458,0.28,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35170,"106 Rosemary Crescent West, Wolverhampton, West Midlands, WV4 5AN",,,,permissioned,,,52.56216,-2.135598,0.065,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35640,"60 Avondale Road, Wolverhampton, West Midlands, WV6 0AJ",,,,permissioned,,,52.592199,-2.147426,0.021,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35440,"Land adjacent to 26 Rooker Crescent, Wolverhampton, West Midlands, WV2 2DU",,,,permissioned,,,52.569783,-2.110037,0.049,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34510,"Oriel Lodge, 796 Stafford Road WV10 6NT",,,,permissioned,,,52.630953,-2.124611,0.17,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33690,176 Newhampton Road East Wolverhampton West Midlands WV1 4PQ,,,,,,,52.592773,-2.140815,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33900,Garage Site To The Rear Of 15 To 21 Bradley Lane Wolverhampton West Midlands,,,,,,,52.555652,-2.057936,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35120,"57 Wellington Road, Wolverhampton, West Midlands, WV14 6AQ",,,,permissioned,,,52.568593,-2.081147,0.032,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33490,Slade Hill Riches Street Wolverhampton West Midlands WV6 0EJ,,,,,,,52.591061,-2.150935,0.345,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35530,"187 Tettenhall Road, Wolverhampton, West Midlands, WV6 0BZ",,,,permissioned,,,52.591787,-2.15299,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35450,"122B Castlecroft Road, Castlecroft, Wolverhampton, West Midlands, WV3 8LU",,,,permissioned,,,52.568326,-3.457231,0.005,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34260,1 Wolseley Road,,,,,,,52.57238,-2.089166,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,31220,"Land adj 22 Marchant Road, Stowlawn",,,,permissioned,,,52.572817,-2.082541,0.107,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37650,First Floor 1-13 Mount Pleasant Bilston WV14 7LJ,,,,permissioned,,,52.56715,-2.074505,0.036,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35220,"64 Green Lanes, Wolverhampton, WV14 6DA",,,,pending decision,,,52.571503,-2.084073,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34680,"15-18 Queen Street, City Centre WV1 3JW",,,,permissioned,,,52.585589,-2.125574,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34700,203 Trysull Road WV3 7JP,,,,permissioned,,,52.571351,-2.168086,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33660,149 Merridale Street West Wolverhampton West Midlands WV3 0RW,,,,,,,52.578881,-2.143411,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34200,4-6 Broad Street,,,,permissioned,,,52.587145,-2.125402,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34690,85 Prestwood Road West WV11 1HT,,,,permissioned,,,52.607825,-2.092132,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34730,"Plot Adjoining 40 Bilston Road, Portobello WV13 2JL",,,,permissioned,,,52.576464,-2.057418,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34740,94 Compton Road WV3 9PS,,,,permissioned,,,52.586016,-2.145472,0.008,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34720,132 Cannock Road WV10 8PW,,,,permissioned,,,52.612818,-2.098729,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35300,"The Meat Shop, 28 Victoria Street, Wolverhampton, West Midlands, WV1 3PW",,,,permissioned,,,52.583724,-2.130026,0.13,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35100,"169 Caledonia Road, Wolverhampton, West Midlands, WV2 1JA",,,,,,,52.575756,-2.115232,0.11,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33870,Garage Site Rear Of 44 To 62 Cheviot Road Wolverhampton West Midlands,,,,,,,52.570261,-2.108578,0.21,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,27370,Royal Hospital Development Area (City Centre),,,,pending decision,,,52.58128,-2.120087,6.25,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35190,"49 & 50 Bridge Street, Portobello, Wolverhampton, West Midlands, WV13 3EQ",,,,permissioned,,,52.581368,-2.065925,0.061,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34590,"Garage Site Adjacent 42 To 44 Elizabeth Avenue, Bradley WV14 8DY",,,,pending decision,,,52.557206,-2.061154,0.08,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35110,"85 Northwood Park Road, Wolverhampton, West Midlands, WV10 8EX",,,,permissioned,,,52.626263,-2.113104,0.038,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33550,251 Parkfield Road Parkfield Wolverhampton West Midlands WV4 6EG,,,,permissioned,,,52.567114,-2.118071,0.24,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35430,"26 Clarendon Street, Wolverhampton, West Midlands, WV3 9PP",,,,permissioned,,,52.586288,-2.143952,0.078,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34360,"Garage Site adj 142 Prosser St, Heath Town",,,,,,,52.599443,-2.116623,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34860,323 Tettenhall Road WV6 0JZ,,,,permissioned,,,52.596615,-2.159443,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35350,"Garage site to rear of 2 To 6, Wolmer Road, Wolverhampton, West Midlands",,,,pending decision,,,53.460138,-2.062705,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35990,Land Behind 28 To 40 Bradley Road Wolverhampton West Midlands,,,,permissioned,,,52.573597,-2.116288,0.169,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35040,"8 Newhampton Road East, Wolverhampton, West Midlands, WV1 4AJ",,,,permissioned,,,52.590156,-2.13437,0.027,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33700,223 Broad Lanes Bilston WV14 0RY,,,,,,,52.557532,-2.085109,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33650,Land adj 123 Gorsebrook Road Wolverhampton West Midlands WV6 0PE,,,,,,,52.601058,-2.136102,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33710,25 Grove Lane Wolverhampton West Midlands WV6 8NJ,,,,pending decision,,,52.587457,-2.182657,0.25,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34940,25 Tettenhall Road WV3 9NB,,,,permissioned,,,52.586011,-2.142003,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34520,7 Foley Avenue WV6 8LT,,,,permissioned,,,52.591679,-2.178645,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35130,"Land at the rear of 81 Lichfield Street, Wolverhampton, West Midlands, WV1 1EQ",,,,permissioned,,,52.586733,-2.123482,0.016,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35320,"241 Steelhouse Lane, Wolverhampton, West Midlands, WV2 2AB",,,,permissioned,,,52.579664,-2.117588,0.067,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35240,"48 Arnhem Road, Wolverhampton, West Midlands, WV13 3TX",,,,permissioned,,,52.578828,-2.073816,0.028,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35270,"70 Dudley Road, Wolverhampton, West Midlands, WV2 3BY",,,,permissioned,,,52.5765,-2.126109,0.006,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32420,25 Spring Road Lanesfield Wolverhampton West Midlands WV4 6LQ,,,,permissioned,,,52.556423,-2.101346,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33270,11 Pineways Drive Wolverhampton West Midlands WV6 0LL,,,,pending decision,,,52.593577,-2.158797,0.083,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36440,"Fmr Rookery Lodge, Woodcross Lane",,,,,,,52.55227,-2.100982,1.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35520,"Land to the rear of 71 Mill Lane, Tettenhall Wood, Wolverhampton, West Midlands, WV6 8HE",,,,,,,52.589614,-2.188319,0.054,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34710,Land Adjacent To 327 Prestwood Road WV11 1RH,,,,permissioned,,,52.603279,-2.099564,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35250,"Land adjacent to 6 Lawrence Avenue, Heath Town, Wolverhampton, West Midlands, WV10 0QJ",,,,permissioned,,,52.597326,-2.101278,0.035,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35260,"Shop South Corner of Bushbury Road, Lawrence Avenue, Heath Town, Wolverhampton, West Midlands",,,,permissioned,,,52.597398,-2.101972,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35380,"Garage Site to the rear of 30 to 36 Bargery Road, Wolverhampton, West Midlands",,,,pending decision,,,52.61681,-2.05623,0.045,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35150,"10 Finchfield Lane, Wolverhampton, West Midlands, WV3 8EF",,,,permissioned,,,52.572181,-2.171955,0.068,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35210,"134 Bridgnorth Road, Wolverhampton, West Midlands, WV6 8BB",,,,permissioned,,,52.585028,-2.183783,0.13,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35280,"41-45 Spring Road, Wolverhampton, West Midlands, WV4 6LQ",,,,permissioned,,,52.556908,-2.101524,0.056,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35290,"88 Richmond Road, Wolverhampton, West Midlands, WV3 9JD",,,,permissioned,,,52.583826,-2.156843,0.28,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34890,Garage Site To The Rear Of 18 To 24 Chapel Street Bradley,,,,,,,52.561716,-2.066368,0.21,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,30660,1-21 Finchfield Road West,,,,permissioned,,,52.580543,-2.171309,0.258,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35850,Supermarket 5 Warstones Drive Wolverhampton West Midlands WV4 4PP,,,,,,,52.567857,-2.165506,0.054,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33600,"Former Chubb Site, Wednesfield Road, Heath Town (north)",,,,permissioned,,,52.592427,-2.111187,2.27,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35480,"Land adjacent to 39 Stratton Street, Wolverhampton, West Midlands",,,,permissioned,,,52.597996,-2.116265,0.028,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34210,124 Wolverhampton Street,,,,,,,52.566759,-2.122865,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36190,1 Cherrington Gardens Wolverhampton West Midlands WV6 8AJ,,,,permissioned,,,52.585802,-2.182945,0.062,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,27480,"Portobello Flats, New Street & South Street",,,,permissioned,,,52.581861,-2.068435,1.5,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35750,107 Windsor Avenue Wolverhampton West Midlands WV4 4BJ,,,,permissioned,,,52.565803,-2.155289,0.084,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35330,"Staffordshire Volunteer, Collingwood Road (New Build)",,,,permissioned,,,52.62243,-2.116137,0.057,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36090,142 Newhampton Road West Wolverhampton West Midlands WV6 0RR,,,,permissioned,,,52.595007,-2.151702,0.026,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34570,23 Chapel Ash WV3 0TZ,,,,permissioned,,,52.585089,-2.139211,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35780,Former Substation 169 Wellington Road Wolverhampton West Midlands WV14 6RN,,,,permissioned,,,52.572457,-2.094477,0.062,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36060,Land Adjacent To 38 King Street Bradley Wolverhampton West Midlands WV14 8PQ,,,,permissioned,,,52.556419,-2.06897,0.048,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37010,"29 Lichfield Street, City Centre",,,,permissioned,,,52.586947,-2.125254,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36010,18 Chapel Ash Wolverhampton West Midlands WV3 0TN,,,,permissioned,,,52.584876,-2.136952,0.015,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36020,229 Trysull Road Wolverhampton West Midlands WV3 7JP,,,,,,,52.571106,-2.169708,0.075,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37140,"Land at Railway Drive, Bilston",,,,pending decision,,,52.564418,-2.072066,0.276,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35760,The Firs 49 Compton Road West Wolverhampton West Midlands WV3 9DU,,,,permissioned,,,52.586242,-2.165088,0.046,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,30870,Land Between 5 to 9 Martin Street,,,,permissioned,,,52.566214,-2.109704,0.052,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,31200,Land at 131-133 Ashley Street,,,,permissioned,,,52.568717,-2.070022,0.021,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36050,32 Upper Villiers Street Wolverhampton West Midlands WV2 4NU,,,,permissioned,,,52.570227,-2.132731,0.028,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36180,Land Opposite 14 Sycamore Drive Wolverhampton West Midlands,,,,permissioned,,,52.582482,-2.166771,0.152,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36160,Asia Takeaway And Restaurant Great Hampton Street Wolverhampton West Midlands WV1 4AY,,,,permissioned,,,52.593878,-2.133393,0.159,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36170,"Auxiliary Fire Service, Old Comrades Club 5C Market Street Wolverhampton West Midlands WV1 3AE",,,,permissioned,,,52.584592,-2.125129,0.033,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36100,Former Joan O Callaghan Community Centre 81 & 83 Guy Avenue Wolverhampton West Midlands WV10 9SB,,,,permissioned,,,52.604276,-2.119958,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35940,7A Hincks Street Wolverhampton West Midlands WV2 2JZ,,,,permissioned,,,52.572658,-2.102003,0.005,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,27040,Land at Rookery Street,,,,pending decision,,,52.598354,-2.086325,0.224,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34820,93 Bushbury Road WV10 0LZ,,,,permissioned,,,52.598709,-2.102861,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33220,Land At Rear Of 2-10 Dickinson Avenue Wolverhampton West Midlands WV10 9DJ,,,,,,,52.607844,-2.111551,0.115,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33210,239-241 Prestwood Road Wolverhampton West Midlands,,,,,,,52.601706,-2.099915,0.024,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34050,"Polypipe Factory, Chestom Road, Wolverhampton WV14 0RD",,,,,,,52.56587,-2.092073,1.42,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34400,"Former G & P Batteries Site, Grove Street, Heath Town",,,,permissioned,,,52.591985,-2.103332,0.79,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34350,"Garage Site between 10-16 Watson Road, Lanesfield",,,,,,,52.549434,-2.105031,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35360,"Staffordshire Volunteer, Collingwood Road (Conversion)",,,,permissioned,,,52.62243,-2.116137,0.29,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34830,"20-24 Broad Street, City Centre WV1 1HP",,,,,,,52.587271,-2.124886,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32320,Former Britannia Inn Car Park Hall Green Street Wolverhampton West Midlands WV14 8TH,,,,permissioned,,,52.552372,-2.071648,0.105,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32590,The Holly Bush Public House 494 Penn Road Wolverhampton West Midlands WV4 4HU,,,,,,,52.55786,-2.165645,0.083,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,26060,Land adj 56 Newhampton Road West,,,,permissioned,,,52.593207,-2.146101,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35070,"71 Leicester Street, Wolverhampton, West Midlands, WV6 0PR",,,,permissioned,,,52.594755,-2.137027,0.013,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34560,21 Kinfare Drive WV6 8JW,,,,permissioned,,,52.594367,-2.17901,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34410,Moseley Hall Farm,,,,,,,52.634066,-2.103417,0.44,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33360,Garage Site Rear Of 8 To 14 Collingwood Road Wolverhampton West Midlands,,,,permissioned,,,52.621128,-2.114494,0.146,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35050,"55 Beechwood Avenue, Wolverhampton, West Midlands, WV11 1DU",,,,permissioned,,,52.613441,-2.094979,0.089,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33970,Land At Junction With Parry Road Woodside Wolverhampton,,,,,,,52.612602,-2.057658,0.16,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34920,"Mount Bungalow, Deans Road WV1 2BH",,,,permissioned,,,52.58434,-2.084305,0.15,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35090,"446 Wolverhampton Road East, Wolverhampton, West Midlands, WV4 6AR",,,,permissioned,,,52.560425,-2.118732,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35860,8-10 Compton Road Wolverhampton West Midlands WV3 9PH,,,,permissioned,,,52.58576,-2.141737,0.033,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35610,"17 Hughes Road, Wolverhampton, West Midlands, WV14 6QU",,,,permissioned,,,52.572782,-2.080889,0.029,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35730,270 Bilston Road Wolverhampton West Midlands WV2 2HU,,,,permissioned,,,52.576313,-2.106601,0.118,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37180,"Niphon Works, Lower Villiers Street",,,,permissioned,,,52.574277,-2.128656,0.15,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,28940,"Land rear of 18-32 Turner Avenue, Woodcross",,,,permissioned,,,52.549323,-2.1086,0.26,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36850,"Former Sunbeam Factory, Paul Street",,,,permissioned,,,52.579577,-2.132065,0.65,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34240,34 Trysull Road,,,,permissioned,,,52.576157,-2.157037,0.11,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,25470,"Land adj 61 Wergs Road, Tettenhall",,,,permissioned,,,52.605506,-2.183928,0.41,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37000,6 Allen Road,,,,permissioned,,,52.592825,-2.149775,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37040,"Fmr Long Acres PH, Dilloways Lane",,,,permissioned,,,52.576368,-2.067792,0.45,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,27350,"St Marks Road, adjoining Sainsbury's",,,,,,,52.583652,-2.137612,0.74,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37750,Land Adjacent To Sunnyside Taylor Road Wolverhampton West Midlands,,,,pending decision,,,52.564267,-2.105908,0.369,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36070,57 Albert Road Wolverhampton West Midlands WV6 0AG,,,,,,,52.591488,-2.14763,0.148,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33560,Site Of Sutherland House Old Heath Road Wolverhampton West Midlands,,,,permissioned,,,52.591436,-2.103287,0.333,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33430,6 Park Crescent Wolverhampton West Midlands WV1 4PY,,,,permissioned,,,52.587385,-2.135484,0.032,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37070,24 Uplands Avenue,,,,permissioned,,,52.581915,-2.082499,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35500,"Land at the rear of 216 Compton Road, Wolverhampton, West Midlands, WV3 9JX",,,,,,,52.586925,-2.158906,0.14,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35710,Former St Judes House 51 St Judes Road West Wolverhampton West Midlands WV6 0DB,,,,,,,52.591632,-2.154642,0.116,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37740,Land Adjacent To 51 Brierley Lane Wolverhampton West Midlands,,,,permissioned,,,52.550458,-2.070185,0.234,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35930,61 Probert Road Wolverhampton West Midlands WV10 6UE,,,,permissioned,,,52.617113,-2.136432,0.064,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37060,4 Merridale Lane,,,,permissioned,,,52.585222,-2.148037,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35740,Land Adjacent To 24 Culwick Street Wolverhampton West Midlands WV1 2SX,,,,permissioned,,,52.574377,-2.098938,0.021,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,26290,"112 Bunkers Hill Lane, Bilston",,,,permissioned,,,52.574344,-2.070415,0.154,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37100,56 Oak Street,,,,permissioned,,,52.581424,-2.14404,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35920,Land Adjacent To 2 Marsh Lane Wolverhampton West Midlands,,,,permissioned,,,52.6214,-2.130286,0.061,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34640,Garage Site Rear Of 6 To 52 Junction Road,,,,permissioned,,,52.571781,-2.097161,0.17,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35790,The British Oak Public House 155 Willenhall Road Wolverhampton West Midlands WV1 2HU,,,,permissioned,,,52.583547,-2.099165,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,31120,Land at 4 to 10 Marchant Road,,,,permissioned,,,52.572008,-2.082023,0.2,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34340,Garage Site Rear of 2-22 Hawkley Road,,,,permissioned,,,52.584629,-2.095507,0.24,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35900,53-54 Gordon Street Wolverhampton West Midlands WV2 1DB,,,,permissioned,,,52.579616,-2.120776,0.017,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35830,Land Rear Of Bird In Hand Public House Thorneycroft Lane Wolverhampton West Midlands WV10 0NF,,,,,,,52.601982,-2.102116,0.12,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33842,"Former Bilston College Site, 40 and adj land, Mount Pleasant (new build)",,,,permissioned,,,52.568526,-2.072471,0.2,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35880,Land Adjacent To 57 Ashley Street Wolverhampton West Midlands,,,,permissioned,,,52.567396,-2.06853,0.016,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35720,Land Adjacent To Kings Arms Public House 434 Dudley Road Wolverhampton West Midlands WV2 3AQ,,,,permissioned,,,52.573758,-2.126573,0.018,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36110,136 Hawksford Crescent Wolverhampton West Midlands WV10 9SN,,,,permissioned,,,52.610119,-2.120136,0.025,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37170,43 Taylor Street,,,,permissioned,,,52.601944,-2.082109,0.08,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32850,192 Merridale Street West Wolverhampton West Midlands WV3 0RP,,,,permissioned,,,52.578401,-2.146169,0.022,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37020,159 Parkfield Road,,,,permissioned,,,52.567021,-2.11158,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35870,Thorneycroft Service Station Thorneycroft Lane Wolverhampton West Midlands WV10 0NF,,,,pending decision,,,52.602388,-2.100876,0.069,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35890,Chestnut Cottage Birchfield Avenue Wolverhampton West Midlands WV6 8TE,,,,permissioned,,,52.602685,-2.18278,0.234,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37090,24A Chapel Ash,,,,permissioned,,,52.584974,-2.137277,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32190,Land Between 20 & 22 Church Hill Penn Wolverhampton West Midlands WV4 5PN,,,,permissioned,,,52.558259,-2.15659,0.168,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36120,Land Adjacent To 6 Wrekin Drive Merry Hill Wolverhampton West Midlands WV3 7HZ,,,,permissioned,,,52.577098,-2.159505,0.062,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35820,Land Between 26 And 35 Neville Avenue Wolverhampton West Midlands,,,,permissioned,,,52.566496,-2.124443,0.032,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35910,Cleobury House Mill Lane Tettenhall Wood Wolverhampton West Midlands WV6 8HE,,,,pending decision,,,52.588344,-2.190159,0.525,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,31820,"Garage Site Adjacent To 41 Bulger Road Nelson Avenue, Stowlawn",,,,permissioned,,,52.571132,-2.087024,0.034,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36000,Roseville Ettingshall Road Ettingshall Wolverhampton West Midlands WV2 2JP,,,,pending decision,,,52.574022,-2.104205,0.045,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35840,374 Penn Road Wolverhampton West Midlands WV4 4DB,,,,,,,52.561645,-2.152324,0.074,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37390,22 Dudding Road Wolverhampton West Midlands WV4 5DS,,,,permissioned,,,52.564826,-2.122668,0.061,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37450,36 Foley Avenue Wolverhampton West Midlands WV6 8LX,,,,permissioned,,,52.592705,-2.17825,0.037,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37840,Land Rear Of Daves Supersave 6-8 Wootton Avenue Wolverhampton WV11 3AA,,,,permissioned,,,52.610055,-2.078329,0.013,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,30680,"The Lych Gate, Chamberlains Lane",,,,permissioned,,,52.555368,-2.160532,0.177,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37950,Herian House Fold Street Wolverhampton West Midlands WV1 4LP,,,,permissioned,,,52.584017,-2.132728,0.195,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38390,Land South West of 6 Aldersley Road Wolverhampton West Midlands,,,,permissioned,,,52.600634,-2.158897,0.012,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33350,Garage Site Rear Of 55 To 63 Renton Road Wolverhampton West Midlands,,,,permissioned,,,52.618079,-2.141354,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37640,Brook House 25 Broad Lane South Wolverhampton West Midlands WV11 3RY,,,,permissioned,,,52.599053,-2.061213,0.187,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38260,Land Between 5 And 17 Welbury Gardens Wolverhampton West Midlands,,,,,,,52.60051,-2.150613,0.144,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33200,84 Bhylls Lane Wolverhampton West Midlands WV3 8DZ,,,,permissioned,,,52.575046,-2.179802,0.08,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38460,"Connaught Hotel, Tettenhall Road",,,,permissioned,,,52.587958,-2.145109,0.33,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37680,Garage Site Adjacent To 2 Bagridge Road Wolverhampton West Midlands,,,,,,,52.577523,-2.182955,0.085,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37460,37 Cartwright Street Wolverhampton WV2 3BT,,,,permissioned,,,52.576914,-2.125314,0.013,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37370,172 And 173 Stafford Street Wolverhampton WV1 1NA,,,,permissioned,,,52.588483,-2.126173,0.019,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37350,129 Green Lanes Bilston Wolverhampton WV14 6BZ,,,,pending decision,,,52.572798,-2.084209,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35200,"8 and 11 Mount Pleasant, Wolverhampton, West Midlands, WV14 7LJ",,,,permissioned,,,52.567195,-2.074357,0.004,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37400,229-231 Penn Road Wolverhampton West Midlands WV4 5TY,,,,,,,52.566941,-2.144641,0.389,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37760,Land At Lane Street Adjacent To Daisy Bank Community Centre Bradley Wolverhampton,,,,pending decision,,,52.554329,-2.075604,0.044,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37320,110 Woodthorne Road South Wolverhampton West Midlands WV6 8SW,,,,permissioned,,,52.597939,-2.188134,0.059,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37570,575 Parkfield Road Wolverhampton West Midlands WV4 6EL,,,,permissioned,,,52.566648,-2.107698,0.015,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33180,42 Newbridge Street Wolverhampton West Midlands WV6 0EG,,,,permissioned,,,52.594968,-2.154329,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37380,19 Showell Road Wolverhampton West Midlands WV10 9LU,,,,permissioned,,,52.605497,-2.121497,0.006,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37310,"Former Braybrook PRU, Bellamy Lane",,,,,,,52.607263,-2.085914,0.48,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,31110,Land rear of 13/14 Church Green & 31-36 Parkview Road,,,,,,,52.57858,-2.081977,0.148,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35030,"Wightwick Court, Vale Head Drive, Wolverhampton",,,,permissioned,,,52.587094,-2.190213,0.58,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37540,5-9 Chapel Ash Wolverhampton West Midlands WV3 0TZ,,,,permissioned,,,52.584892,-2.138428,0.048,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38140,King Charles Public House Cromwell Road Wolverhampton West Midlands WV10 8UT,,,,,,,52.630315,-2.114843,0.373,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37550,554 Wolverhampton Road East Wolverhampton WV4 6AA,,,,permissioned,,,52.565862,-2.120428,0.066,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38160,Land At Lawnside Green Wolverhampton West Midlands,,,,,,,52.576388,-2.078756,0.17,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38030,Land Between 30 And 40 Wordsworth Avenue Wolverhampton West Midlands,,,,permissioned,,,52.557735,-2.111585,0.094,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37520,48 Dixon Street Wolverhampton West Midlands WV2 2BJ,,,,permissioned,,,52.572696,-2.109764,0.043,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38290,61 Second Avenue Wolverhampton West Midlands WV10 9PD,,,,permissioned,,,52.608894,-2.113266,0.026,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37280,"Fmr Police Station, Birmingham Road, WV2 3LN",,,,permissioned,,,52.577859,-2.12511,0.19,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37690,Garage Site Adjacent To 63 Meldon Drive Bilston,,,,,,,52.549918,-2.053962,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33910,Garage Site To The Rear Of 16 To 26 Bank Street Slater Street Wolverhampton,,,,permissioned,,,52.557479,-2.069827,0.11,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34910,"Fmr Borough Arms PH, Bunkers Hill Lane WV14 6JX",,,,permissioned,,,52.573688,-2.070517,0.22,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38300,Former Garage Adjacent To 36 Redcotts Close Wolverhampton West Midlands,,,,,,,52.612339,-2.102125,0.052,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37490,46-48 Chapel Ash Wolverhampton West Midlands WV3 0TT,,,,permissioned,,,52.585207,-2.138222,0.046,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37660,Former Evcap Centre 51A John Street/George Street Ettingshall Wolverhampton WV2 2LY,,,,permissioned,,,52.570494,-2.098914,0.104,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37800,Land Between 212 And 214 Lea Road Wolverhampton West Midlands,,,,permissioned,,,52.577602,-2.137785,0.028,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37301,"Fmr Pennfields Special School, Birches Barn Road WV3 7BJ (school buildings)",,,,permissioned,,,52.573011,-2.149855,0.67,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37820,Land Opposite 2 Coningsby Drive Wolverhampton,,,,permissioned,,,52.568739,-2.101182,0.099,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35180,"Land adjacent to 35 Willis Pearson Avenue, Wolverhampton, West Midlands, WV14 8DA",,,,permissioned,,,52.553368,-2.059202,0.089,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38150,Land Behind 58 And 60 Dixon Street Wolverhampton West Midlands,,,,permissioned,,,52.572246,-2.109689,0.066,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,31150,Former 21 & 23 Hughes Road,,,,permissioned,,,52.572944,-2.081096,0.051,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37620,Beckminster Club 22 Coalway Road Wolverhampton West Midlands WV3 7LX,,,,permissioned,,,52.569157,-2.148263,0.113,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37900,Observer Buildings 2 Lower Street Wolverhampton West Midlands WV6 9AF,,,,pending decision,,,52.598484,-2.159878,0.194,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35160,"46 Mount Road, Tettenhall, Wolverhampton, West Midlands, WV6 8HW",,,,,,,52.589007,-2.18569,0.29,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38050,Land Between 25 And 31 Wordsworth Avenue Wolverhampton West Midlands,,,,permissioned,,,52.557852,-2.111099,0.018,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38110,Land South East Of 5 Sunset Place Wolverhampton West Midlands,,,,,,,52.556051,-2.105327,0.08,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37480,45 Bath Road Wolverhampton West Midlands WV1 4EW,,,,,,,52.586376,-2.13799,0.021,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37340,12 Birches Barn Road Wolverhampton West Midlands WV3 7BN,,,,permissioned,,,52.575892,-2.153687,0.029,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38120,Second Floor Chancel Court 2 Wellington Road Bilston Wolverhampton,,,,permissioned,,,52.567203,-2.075995,0.137,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37500,46 Queen Street City Centre Wolverhampton West Midlands WV1 3BJ,,,,permissioned,,,52.585663,-2.123833,0.08,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37700,Hafod Mount Road Tettenhall Wood Wolverhampton West Midlands WV6 8HR,,,,permissioned,,,52.588391,-2.183178,0.18,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37660,Former Evcap Centre 51A John Street/George Street Ettingshall Wolverhampton WV2 2LY,,,,permissioned,,,52.570494,-2.098914,0.104,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37440,337 Bushbury Lane Wolverhampton West Midlands WV10 9UL,,,,permissioned,,,52.616361,-2.117657,0.064,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38000,1 Claverley Drive Wolverhampton West Midlands WV4 4QL,,,,permissioned,,,52.567316,-2.166654,0.112,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38350,Land Between 3 And 9 Hughes Road Wolverhampton West Midlands,,,,,,,52.572684,-2.080033,0.056,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38380,178-179 Dudley Road Wolverhampton West Midlands WV2 3DR,,,,permissioned,,,52.571315,-2.124663,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37890,Oak And Ivy 30 Oxford Street Bilston Wolverhampton West Midlands WV14 7DE,,,,permissioned,,,52.565399,-2.071153,0.027,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37910,The Former Haven Club 15 Claremont Street Wolverhampton West Midlands WV14 6BA,,,,permissioned,,,52.569553,-2.08255,0.103,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38480,"Fmr Steelcraft Engineering, 6 Commercial Road",,,,pending decision,,,52.580781,-2.115142,0.18,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37930,Land Rear Of 10 Broad Street Bilston WV14 0BP,,,,permissioned,,,52.565142,-2.079237,0.21,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37210,"33 High Street, Tettenhall",,,,,,,52.5969,-2.168007,0.3,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33450,Land Adjacent 163 Caledonia Road Wolverhampton West Midlands,,,,permissioned,,,52.575648,-2.115571,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37880,Land To The Side Of 96 Coronation Road Heath Town Wolverhampton West Midlands WV10 0QH,,,,permissioned,,,52.596287,-2.097673,0.052,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37870,Land To The Rear Of 42-48 Goldthorn Hill Wolverhampton West Midlands WV2 3HU,,,,permissioned,,,52.567223,-2.125596,0.042,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38370,Henleaze Stockwell End Wolverhampton West Midlands WV6 9PH,,,,permissioned,,,52.603879,-2.165568,0.129,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38200,Garage Site Behind 3 To 23 Lower Vauxhall Wolverhampton West Midlands,,,,permissioned,,,52.589225,-2.145822,0.049,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37510,46 Riches Street Wolverhampton WV6 0DR,,,,permissioned,,,52.59171,-2.150273,0.019,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37920,The Old Police Station 15 Mount Pleasant Wolverhampton West Midlands WV14 7LS,,,,permissioned,,,52.567258,-2.073664,0.111,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38310,Sub-station Site At Rear Of Merridale Court Merridale Road Wolverhampton West Midlands WV3 9LE,,,,permissioned,,,52.580652,-2.150383,0.22,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37810,Land Between 39 And 41 Daley Road Wolverhampton West Midlands,,,,pending decision,,,52.551181,-2.063092,0.178,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37960,Chas Hunter Ltd Upper Villiers Street Wolverhampton West Midlands WV2 4NR,,,,permissioned,,,52.571613,-2.131171,0.332,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,28920,"Fmr Bushbury Arms PH, Showell Circus, Low Hill",,,,,,,52.611095,-2.115399,0.7,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37530,49 Queen Street City Centre Wolverhampton West Midlands WV1 3BJ,,,,permissioned,,,52.585609,-2.124113,0.027,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38170,63 Gorsebrook Road Wolverhampton West Midlands WV6 0PD,,,,permissioned,,,52.599384,-2.137514,0.01,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38130,85 Fraser Street Wolverhampton West Midlands WV14 7PD,,,,permissioned,,,52.567423,-2.069047,0.011,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34250,Garage site adj 86 Wentworth Road,,,,permissioned,,,52.626283,-2.110593,0.03,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38330,65 Gorsebrook Road Wolverhampton West Midlands WV6 0PD,,,,permissioned,,,52.599411,-2.137455,0.014,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37940,127 Bushbury Road Wolverhampton West Midlands WV10 0LZ,,,,permissioned,,,52.599509,-2.10301,0.773,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37710,Harrison House Marston Road Wolverhampton West Midlands WV2 4NJ,,,,permissioned,,,52.573733,-2.132299,0.148,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37970,108 Moseley Road Bilston Wolverhampton West Midlands WV14 6JF,,,,permissioned,,,52.576206,-2.068013,0.109,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33380,Land Adjacent To 4 Rose Street Wolverhampton West Midlands,,,,permissioned,,,52.551988,-2.066604,0.068,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35340,"Garage site to the rear of 1 To 13 Carlton Avenue, Bilston, Wolverhampton, West Midlands",,,,permissioned,,,52.573755,-2.062417,0.087,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37590,6 Windmill Lane Wolverhampton West Midlands WV3 8HJ,,,,permissioned,,,52.581697,-2.192005,0.238,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,30160,70 Upper Villiers Street Wolverhampton,,,,permissioned,,,52.568058,-2.134878,0.12,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37330,115 Waterloo Road Wolverhampton West Midlands WV1 4RB,,,,,,,52.593162,-2.131147,0.025,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38240,Welsby 56 Green Lanes Wolverhampton West Midlands WV14 6BY,,,,permissioned,,,52.570739,-2.083614,0.021,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34460,"Land Rear Of The Neachells Public House, Neachells Lane",,,,permissioned,,,52.584694,-2.07945,0.26,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37420,3 Newhampton Road East Wolverhampton West Midlands WV1 4AJ,,,,permissioned,,,52.58985,-2.134045,0.046,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38180,Former Christ Church Of England Infant School Leicester Street Wolverhampton West Midlands WV6 0PS,,,,permissioned,,,52.594541,-2.13586,0.349,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37560,57 Mount Road Penn Wolverhampton West Midlands WV4 5SS,,,,permissioned,,,52.562204,-2.144006,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38280,The Island House 160 Stafford Road Wolverhampton West Midlands WV10 6JT,,,,permissioned,,,52.605174,-2.129588,0.15,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32600,39 Malins Road Wolverhampton West Midlands WV4 6AW,,,,permissioned,,,52.564982,-2.119437,0.025,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37630,Bird In Hand Public House Thorneycroft Lane Wolverhampton WV10 0NF,,,,permissioned,,,52.601982,-2.102116,0.106,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37410,26 Granville Street Wolverhampton West Midlands WV2 1DG,,,,,,,52.578898,-2.119402,0.008,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32080,WMBC Training Centre Fifth Avenue Low Hill Wolverhampton West Midlands,,,,permissioned,,,52.61005,-2.107584,0.722,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36671,Wolverhampton Street / Shale Street (Part 1 of 2),,,,,,,52.565849,-2.08421,0.249,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36040,Land Rear Of 59 To 71 Newbridge Crescent Wolverhampton West Midlands,,,,permissioned,,,52.59522,-2.160796,0.155,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38010,Former Bulls Head 153 Millfields Road Wolverhampton West Midlands WV4 6JE,,,,permissioned,,,52.566464,-2.101177,0.086,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38360,22 Lichfield Street City Centre Wolverhampton WV1 1DG,,,,,,,52.586361,-2.126861,0.015,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33880,Garage Site To The Rear Of 1 To 5 Baylis Avenue Wolverhampton West Midlands,,,,permissioned,,,52.614018,-2.066521,0.11,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37190,"Former St Judes Infant School, Riches Street",,,,permissioned,,,52.59348,-2.150929,0.4,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38250,"Fmr Crown and Cushion, Bank Street, Bradley",,,,permissioned,,,52.556131,-2.069663,0.2,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32670,"Fmr Wulfruna Court, Dale St / Russell Street",,,,permissioned,,,52.580812,-2.137131,0.7,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38470,Land Corner of Riches St / Sweetman St,,,,permissioned,,,52.594101,-2.150532,0.04,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36480,"RDP Electronics Ltd, Grove Street",,,,,,,52.591174,-2.105028,0.35,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,31980,Land Between Elysium And Orchard House 10 Old Lane Wightwick Wolverhampton West Midlands,,,,pending decision,,,52.586935,-2.193887,0.151,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38210,Land Between 182 And Showell Park Medical Centre Fifth Avenue Wolverhampton West Midlands,,,,,,,52.60808,-2.118477,0.18,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,37780,Land Behind 54 To 57 Rose Street Wolverhampton West Midlands,,,,permissioned,,,52.55153,-2.067399,0.064,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36420,"Fmr ADAS offices, Wergs Road",,,,,,,52.603313,-2.184082,3.57,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36770,"Shopping Core / Southside, Wolverhampton City Centre",,,,,,,52.582684,-2.1275,1.5,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36780,"Westside, Wolverhampton City Centre",,,,,,,52.582876,-2.132769,6,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38440,"1 Red Lion Street, Wolverhampton City Centre",,,,permissioned,,,52.585718,-2.131493,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36990,"Beazer House, Hare Street",,,,permissioned,,,52.563253,-2.065662,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35460,"27 Newbolds Road, Wolverhampton, West Midlands, WV10 0SA",,,,permissioned,,,52.604634,-2.102978,0.031,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32130,Cable St / Steelhouse Lane,,,,,,,52.577377,-2.112403,8,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,30910,Former site of 84 Brooklands Parade,,,,permissioned,,,52.586689,-2.093962,0.025,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36080,Land Adjacent To 34 Thorneycroft Lane Wolverhampton West Midlands,,,,permissioned,,,52.602541,-2.100537,0.024,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33330,31 Copthorne Road Wolverhampton West Midlands WV3 0AB,,,,permissioned,,,52.571643,-2.144081,0.057,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,27600,"New Cross Farm, Wednesfield Road",,,,,,,52.597117,-2.093645,0.17,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34180,"Monkey House PH, Kent Road",,,,permissioned,,,52.574095,-2.113309,0.44,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34870,470 Dudley Road WV2 3AF,,,,permissioned,,,52.575232,-2.126652,0.17,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32060,"Car Sales, 242-244 Dudley Road Blakenhall Wolverhampton West Midlands WV2 3JU",,,,permissioned,,,52.568834,-2.123594,0.173,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34600,1 Park Road West WV1 4PS,,,,permissioned,,,52.586799,-2.137371,0.02,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34880,Land To The Rear Of 38 To 60 Humphries Crescent WV14 8BB,,,,permissioned,,,52.547811,-2.061318,0.2,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34440,"198, 200-206 Coleman St, Whitmore Reans",,,,,,,52.596304,-2.150053,0.28,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36431,"Fmr Jennie Lee Centre, Wednesfield (previously developed)",,,,permissioned,,,52.60327,-2.075792,6.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35400,"Land adjacent to 36 Derry Street and 203 Birmingham Road, Wolverhampton, West Midlands, WV2 1EY",,,,pending decision,,,52.575415,-2.123568,0.087,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33470,75-76 Dudley Road Wolverhampton West Midlands,,,,pending decision,,,52.575664,-2.126018,0.077,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,30490,"Goodyear site, Stafford Road",,,,permissioned,,,52.613634,-2.128446,23.24,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32650,"Crane foundry, Canalside Quarter",,,,,,,52.58605,-2.114373,0.77,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32660,"Horseley Fields / Edward Vaughan Stamping Works, Canalside Quarter",,,,,,,52.585151,-2.114784,2.16,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,P7,"The Orchard, Bilston Town Centre",,,,,,,52.565613,-2.074089,0.84,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36740,"Heath Town Estate Masterplan (excl East of Qualcast Rd, Fmr Duke of York PH)",,,,pending decision,,,52.591244,-2.107715,6,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36610,East of Qualcast Road,,,,pending decision,,,52.587376,-2.109919,2.4,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36470,"Fmr Duke of York PH, Wednesfield Road",,,,pending decision,,,52.590791,-2.111433,0.47,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36830,"Mill Street Depot, Canalside Quarter",,,,,,,52.586452,-2.117075,1.19,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36820,"Culwell Street Depot, Canalside Quarter",,,,,,,52.58973,-2.120036,1.23,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36800,"Stafford Street / Cannock Road, Canalside Quarter",,,,,,,52.590812,-2.12553,2.95,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36840,"Express & Star Buildings, Castle St / Tower St",,,,,,,52.594305,-2.129275,0.53,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,32690,"Former Eye Infirmary, Chapel Ash",,,,,,,52.585345,-2.143196,1.18,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36790,"Interchange, Wolverhampton City Centre",,,,,,,52.587895,-2.121374,0.5,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36910,"Tower / Fort Works, Pelham Street",,,,pending decision,,,52.580537,-2.141882,1.58,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,28840,"Land at Grimstone St / Culwell St, Canalside Quarter",,,,,,,52.590899,-2.120305,0.79,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36660,Reliance Trading Estate,,,,,,,52.565574,-2.090966,1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36710,"Bus Depot, Park Lane",,,,,,,52.601135,-2.114619,2.8,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36720,"Bluebird Industrial Estate and site to rear, Park Lane",,,,,,,52.599965,-2.115443,3.6,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36730,"Assa Abloy building and former petrol station, Cannock Road",,,,,,,52.600681,-2.109318,3.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36650,"Ceandess, Dixon Street",,,,,,,52.572888,-2.106415,1.15,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36620,West of Qualcast Road,,,,,,,52.586727,-2.112132,3.4,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36700,Showell Road / Bushbury Lane,,,,,,,52.60954,-2.123398,2.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36880,"Land North of Graiseley Hill, Blakenhall Character Area",,,,,,,52.577382,-2.133918,0.77,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36690,South of Oxford Street,,,,,,,52.559265,-2.060183,1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36630,Old Heath Road,,,,,,,52.586398,-2.108072,4.2,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,28870,"Dixon St Wharf / Rough Hills Works, D'Urberville Road",,,,,,,52.572725,-2.107758,2.35,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36860,"Ablow Street, Blakenhall Character Area",,,,,,,52.578858,-2.13227,0.96,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36900,"Moorfield Road, Blakenhall Character Area",,,,,,,52.571196,-2.133988,1.87,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36870,"Dudley Road / Bell Place, Blakenhall Character Area",,,,,,,52.577857,-2.12663,0.68,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36640,"Delta Trading Estate, Bilston Road",,,,,,,52.577335,-2.109333,2,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36680,Greenway Road,,,,,,,52.558487,-2.068915,4,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,28861,"Ward Street Master Plan, Ettingshall (1) Former Bilston Gas Works",,,,permissioned,,,52.567082,-2.093728,4.19,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,28862,"Ward Street Master Plan, Ettingshall (2) Maxxiom, former Elm Energy & John Roberts Open Space",,,,permissioned,,,52.567458,-2.095116,10.35,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,30542,"Bushbury Hall Farm, Bushbury Lane",,,,permissioned,,,52.620366,-2.112321,0.1,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34320,Garage Site adj to 49 Glentworth Gardens,,,,,,,52.59918,-2.135269,0.13,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36892,"Former St Luke's Junior School, Goldthorn Road (built area)",,,,,,,52.571698,-2.135553,1.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34540,Land Adjacent 66 Hollybush Lane WV4 4HU,,,,permissioned,,,52.558193,-2.165779,0.08,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33841,"Former Bilston College Site, 40 and adj land, Mount Pleasant (conversion)",,,,permissioned,,,52.568301,-2.072795,0.15,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,31750,"Land at Cambridge Street, Wolverhampton (private)",,,,,,,52.592535,-2.120029,0.3,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36672,Wolverhampton Street /Shale Street (Part 2 of 2)-Formcast Shale Street Bilston,,,,pending decision,,,52.566019,-2.08396,0.251,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,P51,"Fmr St Judes Social Services Area Office, St Judes Road",,,,,,,52.592668,-2.152638,0.06,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,34660,"49-53 High Street, Wednesfield WV11 1ST",,,,permissioned,,,52.600452,-2.081442,0.07,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,35470,"38 King Street, Bradley, Wolverhampton, West Midlands, WV14 8PQ",,,,permissioned,,,53.455523,-2.070424,0.096,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,30541,"Bushbury Hall Farm, Bushbury Lane",,,,permissioned,,,52.620366,-2.112321,0.32,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38070,First Floor And Second Floor 28-36 Church Street Bilston Wolverhampton WV14 0AX,,,,permissioned,,,52.566008,-2.07409,0.063,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38020,Garage Site Between 62 And 64 Olinthus Avenue Wolverhampton West Midlands,,,,,,,52.608003,-2.067915,0.114,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33890,Garage Site To The Rear Of 11 To 14 Tonadine Close Wolverhampton West Midlands,,,,permissioned,,,52.617449,-2.055419,0.13,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,31580,219 Prestwood Road Heath Town Wolverhampton West Midlands WV11 1RF,,,,,,,52.601426,-2.100461,0.021,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33960,Land At Junction With Canal Bridge And Birmingham Canal Highfields Road Wolverhampton,,,,,,,52.554487,-2.081902,0.22,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,33780,591 Willenhall Road Wolverhampton West Midlands WV13 3LP,,,,permissioned,,,52.584355,-2.076689,0.11,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,28880,"Former Farndale Junior School, Gatis St, Whitmore Reans",,,,permissioned,,,52.596948,-2.145493,0.56,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36751,"Fmr Tettenhall Wood Special School (land), School Road",,,,permissioned,,,52.591071,-2.182333,1.25,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,36751,"Fmr Tettenhall Wood Special School (lbuildings), School Road",,,,permissioned,,,52.591071,-2.182333,0.05,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,38530,"Corner House, Dunstall Road",,,,,,,52.598395,-2.138382,0.14,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,29010,"The Tapworks / Broome Road, Showell Road, Low Hill",,,,pending decision,,,52.609821,-2.12179,2.37,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,27412,Bilston Urban Village-Phase 2,,,,,,,52.558847,-2.081276,13.25,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d
+2018-05-22,local-authority-eng:WLV,27411,Bilston Urban Village-Phase 1,,,,permissioned,,,52.559445,-2.075731,2.4,,,,,,3938ddedb2fedca20fa409e23118564ff80bfd283b05852eb5d968affc13697d

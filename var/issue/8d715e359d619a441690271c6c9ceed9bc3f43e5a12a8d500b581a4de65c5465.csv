@@ -1,28 +1,36 @@
 row-number,field,issue-type,value
 1,SiteplanURL,uri,Naseby Square
+1,LastUpdatedDate,default,2017-11-07
 2,SiteplanURL,uri,Clarence Street
+2,LastUpdatedDate,default,2017-11-07
 2,NetDwellingsRangeFrom,missing,
 2,NetDwellingsRangeTo,missing,
 3,SiteplanURL,uri,Former Harboro' Rubber site
+3,LastUpdatedDate,default,2017-11-07
 3,NetDwellingsRangeFrom,missing,
 3,NetDwellingsRangeTo,missing,
 4,SiteplanURL,uri,Rockingham Road
+4,LastUpdatedDate,default,2017-11-07
 4,SiteReference,missing,
 4,GeoX,missing,
 4,GeoY,missing,
 4,NetDwellingsRangeFrom,missing,
 4,NetDwellingsRangeTo,missing,
 5,SiteplanURL,uri,"Merrie Monk, Dunton Bassett"
+5,LastUpdatedDate,default,2017-11-07
 6,SiteplanURL,uri,"Old Station Yard, n'r Great Easton"
+6,LastUpdatedDate,default,2017-11-07
 6,SiteReference,missing,
 6,GeoX,missing,
 6,GeoY,missing,
 6,NetDwellingsRangeFrom,missing,
 6,NetDwellingsRangeTo,missing,
 7,SiteplanURL,uri,"Stretton Road, Great Glen"
+7,LastUpdatedDate,default,2017-11-07
 7,GeoX,missing,
 7,GeoY,missing,
 8,SiteplanURL,uri,"Fishers Farm, Foxton"
+8,LastUpdatedDate,default,2017-11-07
 8,SiteReference,missing,
 8,GeoX,missing,
 8,GeoY,missing,
@@ -30,6 +38,7 @@ row-number,field,issue-type,value
 8,NetDwellingsRangeTo,missing,
 9,SiteplanURL,uri,"Garden Centre, Broughton Astley"
 9,Hectares,decimal,0.40.
+9,LastUpdatedDate,default,2017-11-07
 9,SiteReference,missing,
 9,GeoX,missing,
 9,GeoY,missing,
@@ -38,6 +47,7 @@ row-number,field,issue-type,value
 9,NetDwellingsRangeTo,missing,
 10,SiteplanURL,uri,"Melton Road, Shangton"
 10,Hectares,decimal,2.90.
+10,LastUpdatedDate,default,2017-11-07
 10,SiteReference,missing,
 10,GeoX,missing,
 10,GeoY,missing,
@@ -45,21 +55,25 @@ row-number,field,issue-type,value
 10,NetDwellingsRangeFrom,missing,
 10,NetDwellingsRangeTo,missing,
 11,SiteplanURL,uri,"Clover Court, Hearth Street"
+11,LastUpdatedDate,default,2017-11-07
 11,SiteReference,missing,
 11,GeoX,missing,
 11,GeoY,missing,
 11,NetDwellingsRangeFrom,missing,
 11,NetDwellingsRangeTo,missing,
 12,SiteplanURL,uri,"Knights Close, Billesdon"
+12,LastUpdatedDate,default,2017-11-07
 12,SiteReference,missing,
 12,GeoX,missing,
 12,GeoY,missing,
 12,NetDwellingsRangeFrom,missing,
 12,NetDwellingsRangeTo,missing,
 13,SiteplanURL,uri,"Former railway station, Kibworth Beauchamp"
+13,LastUpdatedDate,default,2017-11-07
 13,SiteReference,missing,
 13,GeoX,missing,
 13,GeoY,missing,
 13,NetDwellingsRangeFrom,missing,
 13,NetDwellingsRangeTo,missing,
 14,SiteplanURL,uri,"Car/lorry park, Gaulby Road, Billesdon"
+14,LastUpdatedDate,default,2017-11-07

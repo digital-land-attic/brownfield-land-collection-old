@@ -161,3 +161,4 @@ row-number,field,issue-type,value
 212,NetDwellingsRangeTo,default,71
 235,LastUpdatedDate,date,TO ADD: Date that the Brownfield Register gets approved for publication
 235,NetDwellingsRangeTo,default,33
+235,LastUpdatedDate,default,2017-12-31

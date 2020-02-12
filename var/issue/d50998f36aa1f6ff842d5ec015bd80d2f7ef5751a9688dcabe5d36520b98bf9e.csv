@@ -32,4 +32,8 @@ row-number,field,issue-type,value
 31,NetDwellingsRangeTo,default,10
 32,NetDwellingsRangeTo,default,5
 33,NetDwellingsRangeTo,default,3
+34,LastUpdatedDate,default,2019-10-14
+35,LastUpdatedDate,default,2019-10-14
+36,LastUpdatedDate,default,2019-10-14
 36,"GeoX,GeoY",out of range,"51.756771,-5520414854"
+37,LastUpdatedDate,default,2019-10-14

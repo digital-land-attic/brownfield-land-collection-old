@@ -3,5 +3,14 @@ row-number,field,issue-type,value
 4,NetDwellingsRangeTo,missing,
 9,NetDwellingsRangeFrom,missing,
 9,NetDwellingsRangeTo,missing,
+10,LastUpdatedDate,default,2017-12-17
 11,NetDwellingsRangeFrom,missing,
 11,NetDwellingsRangeTo,missing,
+12,LastUpdatedDate,default,2017-12-17
+15,LastUpdatedDate,default,2017-12-17
+16,LastUpdatedDate,default,2019-12-19
+17,LastUpdatedDate,default,2019-12-19
+18,LastUpdatedDate,default,2019-12-19
+19,LastUpdatedDate,default,2019-12-19
+20,LastUpdatedDate,default,2019-12-19
+21,LastUpdatedDate,default,2019-12-19

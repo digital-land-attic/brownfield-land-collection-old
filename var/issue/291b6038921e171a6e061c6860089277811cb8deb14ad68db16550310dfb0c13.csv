@@ -1,140 +1,207 @@
 row-number,field,issue-type,value
 1,SiteplanURL,uri,"Link to the site boundary of the Gas Holder Site, Homesdale Road, Bickley supporting the Site Allocation in the Local Plan"
 1,NetDwellingsRangeTo,default,60
+1,LastUpdatedDate,default,2019-10-20
 2,SiteplanURL,uri,Link to the site boundary of the Land adjacent to Bickley Station supporting the Site Allocation in the Local Plan
 2,NetDwellingsRangeTo,default,30
+2,LastUpdatedDate,default,2019-10-20
 3,SiteplanURL,uri,Link to Appendix 5 of Bromley Town Centre's Area Action Plan. A map of Opportunity Site B is included on p.155
 3,NetDwellingsRangeTo,default,24
+3,LastUpdatedDate,default,2019-10-20
 4,SiteplanURL,uri,Link to the map of Bromley's Old Town Hall and Associated Carparking associated with Full planning permission 16/01175/FULL1
 4,NetDwellingsRangeTo,default,53
+4,LastUpdatedDate,default,2019-10-20
 5,SiteplanURL,uri,Link to Appendix 5 of Bromley Town Centre's Area Action Plan. A map of Opportunity Site P is included on p.173
 5,NetDwellingsRangeTo,default,20
+5,LastUpdatedDate,default,2019-10-20
 6,SiteplanURL,uri,Link to the site boundary of the Bromley Civic Centre site supporting the Site Allocation in the Local Plan
 6,NetDwellingsRangeTo,default,70
+6,LastUpdatedDate,default,2019-10-20
 7,SiteplanURL,uri,Link to the site boundary of West of Bromley High Street and Land at Bromley South site associated with the Site Allocation in the Local Plan
 7,NetDwellingsRangeTo,default,1230
+7,LastUpdatedDate,default,2019-10-20
 8,SiteplanURL,uri,Link to the site boundary of  the Land adjacent to Bromley North associated with the Site Allocation in the Local Plan
 8,NetDwellingsRangeTo,default,525
+8,LastUpdatedDate,default,2019-10-20
 9,SiteplanURL,uri,Link to the site boundary of the Hill Muti Storey Car Park and Adjacent Sites associated with the Site Allocation in the Local Plan
 9,NetDwellingsRangeTo,default,150
+9,LastUpdatedDate,default,2019-10-20
 10,SiteplanURL,uri,Link to the site boundary of Banbury House Bushell Way associated with the Site Allocation in the Local Plan
 10,NetDwellingsRangeTo,default,25
+10,LastUpdatedDate,default,2019-10-20
 11,SiteplanURL,uri,Link to the site boundary of Bromley Valley Gym and Adjacent Lands Chipperfield Road St Paul's Cray associated with the Site Allocation in the Local Plan
 11,NetDwellingsRangeTo,default,200
+11,LastUpdatedDate,default,2019-10-20
 12,SiteplanURL,uri,Link to the site boundary of Small Halls York Rise Orpington associated with the Site Allocation in the Local Plan
 12,NetDwellingsRangeTo,default,35
+12,LastUpdatedDate,default,2019-10-20
 13,SiteplanURL,uri,Link to the site boundary of Homefield Rise Orpington associated with the Site Allocation in the Local Plan
 13,NetDwellingsRangeTo,default,87
+13,LastUpdatedDate,default,2019-10-20
 14,SiteplanURL,uri,Link to the map of  6 Woodlands Road associated with Outline planning permission 1404512/OUT
 14,NetDwellingsRangeTo,default,3
+14,LastUpdatedDate,default,2019-10-20
 15,SiteplanURL,uri,Link to the map of 42 Orchard Road associated with Full planning permission 17/01241/FULL1
 15,NetDwellingsRangeTo,default,8
+15,LastUpdatedDate,default,2019-10-20
 16,SiteplanURL,uri,Link to the map of the Site of former 41 Sunningdale Avenue Sunningdale Close associated with planning permission 17/02081/FULL1
 16,NetDwellingsRangeTo,default,8
+16,LastUpdatedDate,default,2019-10-20
 17,SiteplanURL,uri,Link to the map of 7 Sandford Road associated with Full planning permission16/04621/FULL1
 17,NetDwellingsRangeTo,default,5
+17,LastUpdatedDate,default,2019-10-20
 17,Hectares,missing,
 18,SiteplanURL,uri,Link to the map of 9 London Road Bromley associated with Full planning permission 16/00859/FULL3
 18,NetDwellingsRangeTo,default,6
+18,LastUpdatedDate,default,2019-10-20
 19,SiteplanURL,uri,Link to the map of Upfield Hillbrow Road associated with Full planning permission 16/04910/FULL1
 19,NetDwellingsRangeTo,default,6
+19,LastUpdatedDate,default,2019-10-20
 20,SiteplanURL,uri,Link to the map of Hasells Nursery Jackson Road BR28NS associated with Full planning permission 16/05353/FULL1
 20,NetDwellingsRangeTo,default,9
+20,LastUpdatedDate,default,2019-10-20
 21,OrganisationURI,opendatacommunities-uri,BLR
 21,SiteplanURL,uri,Link to the map of Ontario Centre Helegan Close associated with Outline Planning Permission 16/05900/OUT
 21,NetDwellingsRangeTo,default,14
+21,LastUpdatedDate,default,2019-10-20
 21,OrganisationURI,default,http://opendatacommunities.org/id/london-borough-council/bromley
 22,SiteplanURL,uri,Link to the map of 63-35 Chislehurst Road associated with Full planning application 16/01032/FULL1
 22,NetDwellingsRangeTo,default,5
+22,LastUpdatedDate,default,2019-10-20
 23,SiteplanURL,uri,Link to the map of 3 Beckenham Road associated with Full planning permission 16/04145/FULL1
 23,NetDwellingsRangeTo,default,8
+23,LastUpdatedDate,default,2019-10-20
 24,SiteplanURL,uri,Link to the map of Beechers Court High Street Beckenham associated with Full planning permission 17/01348/FULL1
 24,NetDwellingsRangeTo,default,8
+24,LastUpdatedDate,default,2019-10-20
 25,SiteplanURL,uri,Link to the map of 28 Park Hill Road Shortlands associated with Outline planning application 16/00218/OUT
 25,NetDwellingsRangeTo,default,9
+25,LastUpdatedDate,default,2019-10-20
 26,SiteplanURL,uri,Link to the map of Beck House 36A Copers Cope Road Beckenham associated with planning application 16/02136/FULL1
 26,NetDwellingsRangeTo,default,14
+26,LastUpdatedDate,default,2019-10-20
 27,SiteplanURL,uri,Link to the Map of  Conifer House 44 Southend Road Beckenham associated with Planning Permission 16/02179/FULL1
 27,NetDwellingsRangeTo,default,18
+27,LastUpdatedDate,default,2019-10-20
 28,SiteplanURL,uri,Link to Map of 122 Anerley Road Penge London associated with Full planning permission 17/02975/FULL1
 28,NetDwellingsRangeTo,default,7
+28,LastUpdatedDate,default,2019-10-20
 29,SiteplanURL,uri,Link to the map of 69-71 Church Road associated with Full planning permission 16/01297/FULL1
 29,NetDwellingsRangeTo,default,7
+29,LastUpdatedDate,default,2019-10-20
 30,SiteplanURL,uri,Link to the map of Crystal palace Park associated with Outline planning permission 07/03897/OUT
 30,NetDwellingsRangeTo,default,180
+30,LastUpdatedDate,default,2019-10-20
 31,SiteplanURL,uri,Link to the map of Warren Farm Berrys Road associated with Outline Planning Permission 17/01895/FULL1
+31,LastUpdatedDate,default,2019-10-20
 31,NetDwellingsRangeFrom,missing,
 31,NetDwellingsRangeTo,missing,
 32,SiteplanURL,uri,Link to the map of 39 Oregon Square Orpington  associated with Outline planning permission 16/00634/OUT
 32,NetDwellingsRangeTo,default,8
+32,LastUpdatedDate,default,2019-10-20
 33,SiteplanURL,uri,Link to the map associated with Full Planning Permission 16/04956/FULL1 for Lubbock House 1 Northolme Rise Orpington
 33,NetDwellingsRangeTo,default,-21
+33,LastUpdatedDate,default,2019-10-20
 34,SiteplanURL,uri,Link to the map for Eden Parade Eden Road Beckenham  associated with Full planning permission 17/01579/FULL1
 34,NetDwellingsRangeTo,default,5
+34,LastUpdatedDate,default,2019-10-20
 35,SiteplanURL,uri,Link to the map of  Jacanda Lodge North Drive Beckenham associated with Full Planning Permission 16/01330/FULL1
 35,NetDwellingsRangeTo,default,7
+35,LastUpdatedDate,default,2019-10-20
 36,SiteplanURL,uri,Link to the  Map of 155 159 High Street Orpington associated with Full planning permission 15/01690/FULL3
 36,NetDwellingsRangeTo,default,9
+36,LastUpdatedDate,default,2019-10-20
 37,SiteplanURL,uri,Link to the map of 50-52 The Walnuts Orpington associated with Full planning permission 16/03878/FULL1
 37,NetDwellingsRangeTo,default,9
+37,LastUpdatedDate,default,2019-10-20
 38,SiteplanURL,uri,Link to the map of for 2 Crampton Road Penge associated with Full planning permission 16/00377/FULL1
 38,NetDwellingsRangeTo,default,6
+38,LastUpdatedDate,default,2019-10-20
 39,GeoX,decimal,"51.397435,"
 39,SiteplanURL,uri,link to map of 44 Westmoreland Road Bromley associated with Full Planning permission 17/02524/FULL1
 39,NetDwellingsRangeTo,default,6
+39,LastUpdatedDate,default,2019-10-20
 39,GeoX,missing,
 40,SiteplanURL,uri,Link to the map of 136 Main Road Biggin Hill associated with the full planning permission 17/02291/FULL1
 40,NetDwellingsRangeTo,default,7
+40,LastUpdatedDate,default,2019-10-20
 41,SiteplanURL,uri,Link to the map of 173-175 High Street Orpington associated with full planning permission 17/02330/FULL1
 41,NetDwellingsRangeTo,default,8
+41,LastUpdatedDate,default,2019-10-20
 42,SiteplanURL,uri,Link to the map of 36 Great Elms Road associated with full planning permission 17/01322/FULL1
 42,NetDwellingsRangeTo,default,5
+42,LastUpdatedDate,default,2019-10-20
 43,SiteplanURL,uri,Link to the map of 56a Foxgrove Road associated with outline planning permission 17/00624/OUT
 43,NetDwellingsRangeTo,default,18
+43,LastUpdatedDate,default,2019-10-20
 44,SiteplanURL,uri,"Link to the map of Alan Hills Motors, Alma Place, associated with full planning permission 17/02876/FULL1"
 44,NetDwellingsRangeTo,default,6
+44,LastUpdatedDate,default,2019-10-20
 45,SiteplanURL,uri,Link to the map of 286-290 High Street Orpington associated with full planning permission 17/04642/FULL1
 45,NetDwellingsRangeTo,default,5
+45,LastUpdatedDate,default,2019-10-20
 46,SiteplanURL,uri,"Link to map of Heatherwood, 33 Station Road, Orpington associated with full planning permission 17/04378/FULL1"
 46,NetDwellingsRangeTo,default,5
+46,LastUpdatedDate,default,2019-10-20
 47,SiteplanURL,uri,Link to the map of Warren Farm Berrys Green Road associated with full planning permission 17/01895/FULL1
 47,NetDwellingsRangeTo,default,7
+47,LastUpdatedDate,default,2019-10-20
 48,SiteplanURL,uri,Link to the map of 115 High Street Beckenham associated with full planning permission 17/05068/FULL1
 48,NetDwellingsRangeTo,default,12
+48,LastUpdatedDate,default,2019-10-20
 49,SiteplanURL,uri,Link to the map of 19 Anerley Road associated with full planning permission 17/04076/FULL1
 49,NetDwellingsRangeTo,default,9
+49,LastUpdatedDate,default,2019-10-20
 50,SiteplanURL,uri,Link to the map of 112 Beckenham Road associated with full planning permission 17/05279/FULL1
 50,NetDwellingsRangeTo,default,6
+50,LastUpdatedDate,default,2019-10-20
 51,SiteplanURL,uri,"Link to the map of Hollywood House, 1 Station Road associated with full planning permission 17/05864/FULL1"
 51,NetDwellingsRangeTo,default,7
+51,LastUpdatedDate,default,2019-10-20
 52,SiteplanURL,uri,"Link to the map of 16 St John's Road, Penge, associated with full planning permission 17/05514/FULL1"
 52,NetDwellingsRangeTo,default,6
+52,LastUpdatedDate,default,2019-10-20
 53,SiteplanURL,uri,Link to the map of Land at Junction with South Eden Park Road and Bucknall Way associated with outline planning permission 17/00757/OUT
 53,NetDwellingsRangeTo,default,67
+53,LastUpdatedDate,default,2019-10-20
 54,NetDwellingsRangeTo,default,105
+54,LastUpdatedDate,default,2019-10-20
 55,SiteplanURL,uri,Link to the map of 100 High Street Orpington associated with full planning permission 18/01242/FULL1
 55,NetDwellingsRangeTo,default,7
+55,LastUpdatedDate,default,2019-10-20
 56,SiteplanURL,uri,Link to the map of 8 Page Heath Lane Bickley associated with full planning permission 18/01783/FULL1
 56,NetDwellingsRangeTo,default,6
+56,LastUpdatedDate,default,2019-10-20
 57,SiteplanURL,uri,Link to the map of 255 Elmers End Road associated with full planning permission 18/00717/FULL1
 57,NetDwellingsRangeTo,default,7
+57,LastUpdatedDate,default,2019-10-20
 58,SiteplanURL,uri,Link to the map of Barne Hawe Church Hill Orpington associated with full planning permission 18/00967/FULL1
 58,NetDwellingsRangeTo,default,6
+58,LastUpdatedDate,default,2019-10-20
 59,SiteplanURL,uri,Link to the map of 46 Crystal Palace Park Road associated with full planning permission 18/01228/FULL1
 59,NetDwellingsRangeTo,default,6
+59,LastUpdatedDate,default,2019-10-20
 60,SiteplanURL,uri,Link to the map of 156-158 Main Road Biggin Hill associated with full planning permission 18/01234/FULL1
 60,NetDwellingsRangeTo,default,7
+60,LastUpdatedDate,default,2019-10-20
 61,SiteplanURL,uri,Link to the map of Maybrey Business Park associated with full planning permission 16/05987/FULL1
 61,NetDwellingsRangeTo,default,159
+61,LastUpdatedDate,default,2019-10-20
 62,SiteplanURL,uri,Link to the map of 15 Bromley Common associated with full planning permission 18/01946/FULL1
 62,NetDwellingsRangeTo,default,9
+62,LastUpdatedDate,default,2019-10-20
 63,SiteplanURL,uri,Link to the map of 129 High Street Penge associated with full planning permission 18/02481/FULL1
 63,NetDwellingsRangeTo,default,6
+63,LastUpdatedDate,default,2019-10-20
 64,SiteplanURL,uri,"Link to the map of County House, 241 Beckenham Rad associated with full planning permission 18/01890/FULL1"
 64,NetDwellingsRangeTo,default,7
+64,LastUpdatedDate,default,2019-10-20
 65,SiteplanURL,uri,Link to the map of 67 Bromley Road Beckenham associated with full planning permission 18/02102/FULL1
 65,NetDwellingsRangeTo,default,7
+65,LastUpdatedDate,default,2019-10-20
 66,SiteplanURL,uri,"Link to the map of land adjacent to Bromley College, London Road, associated with full planning permission 17/05084/FULL1"
 66,NetDwellingsRangeTo,default,24
+66,LastUpdatedDate,default,2019-10-20
 67,SiteplanURL,uri,"Link to the map of Tahmoa Lodge, 70 Lubbock Road associated with full planning permission 18/02745/FULL1"
 67,NetDwellingsRangeTo,default,5
+67,LastUpdatedDate,default,2019-10-20

@@ -129,6 +129,7 @@ row-number,field,issue-type,value
 77,NetDwellingsRangeTo,missing,
 78,NetDwellingsRangeFrom,missing,
 78,NetDwellingsRangeTo,missing,
+79,LastUpdatedDate,default,2018-05-22
 79,OrganisationURI,default,http://opendatacommunities.org/id/metropolitan-district-council/doncaster
 79,SiteReference,missing,
 79,SiteNameAddress,missing,

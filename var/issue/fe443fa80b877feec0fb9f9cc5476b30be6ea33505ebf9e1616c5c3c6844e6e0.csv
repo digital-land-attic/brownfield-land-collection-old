@@ -2,6 +2,7 @@ row-number,field,issue-type,value
 1,NetDwellingsRangeFrom,missing,
 1,NetDwellingsRangeTo,missing,
 2,LastUpdatedDate,date,2018-21-21
+2,LastUpdatedDate,default,2017-12-21
 2,NetDwellingsRangeFrom,missing,
 2,NetDwellingsRangeTo,missing,
 3,NetDwellingsRangeFrom,missing,

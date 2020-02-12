@@ -1,7 +1,7 @@
 OrganisationURI,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/38,"Tors Hotel, Countisbury Hill, Lynmouth",,,,0.51,,,,,,,,,,,,,
-http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/2,"Bottom Meadow Car Park and Part Adjoining Playgrounds, Castle Hill, Lynton",,,,0.41,,,,,,,,,,,,,
-http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/15,"Rear of Valley of the Rocks Hotel, Lee Road, Lynton",,,,0.33,,,,,,,,,,,,,
-http://opendatacommunities.org/id/national-park-authority/exmoor,6/14/16/102,"Pinkery Outdoor Education Centre, Exmoor",,,,0.49,,,,,,,,,,,,,
-http://opendatacommunities.org/id/national-park-authority/exmoor,6/27/18/115,"Dunster Steep, Porlock",,,,0.28,,,,,,,,,,,,,
-http://opendatacommunities.org/id/national-park-authority/exmoor,6/13/18/104,"Stockleigh Lodge, Exford",,,,0.35,,,,,,,,,,,,,
+http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/38,"Tors Hotel, Countisbury Hill, Lynmouth",,,,0.51,,,,,,,,,,,,2019-12-14,
+http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/2,"Bottom Meadow Car Park and Part Adjoining Playgrounds, Castle Hill, Lynton",,,,0.41,,,,,,,,,,,,2019-12-14,
+http://opendatacommunities.org/id/national-park-authority/exmoor,SHA/LYN/15,"Rear of Valley of the Rocks Hotel, Lee Road, Lynton",,,,0.33,,,,,,,,,,,,2019-12-14,
+http://opendatacommunities.org/id/national-park-authority/exmoor,6/14/16/102,"Pinkery Outdoor Education Centre, Exmoor",,,,0.49,,,,,,,,,,,,2019-12-14,
+http://opendatacommunities.org/id/national-park-authority/exmoor,6/27/18/115,"Dunster Steep, Porlock",,,,0.28,,,,,,,,,,,,2019-12-14,
+http://opendatacommunities.org/id/national-park-authority/exmoor,6/13/18/104,"Stockleigh Lodge, Exford",,,,0.35,,,,,,,,,,,,2019-12-14,

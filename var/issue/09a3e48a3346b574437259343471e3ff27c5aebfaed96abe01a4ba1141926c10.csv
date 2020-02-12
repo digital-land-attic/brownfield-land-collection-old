@@ -94,5 +94,6 @@ row-number,field,issue-type,value
 46,NetDwellingsRangeTo,missing,
 47,NetDwellingsRangeFrom,missing,
 47,NetDwellingsRangeTo,missing,
+48,LastUpdatedDate,default,2018-12-18
 48,NetDwellingsRangeFrom,missing,
 48,NetDwellingsRangeTo,missing,

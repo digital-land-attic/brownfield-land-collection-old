@@ -7,6 +7,7 @@ row-number,field,issue-type,value
 6,NetDwellingsRangeTo,default,200
 7,NetDwellingsRangeTo,default,10
 8,NetDwellingsRangeTo,default,100
+9,LastUpdatedDate,default,2017-10-30
 9,NetDwellingsRangeFrom,missing,
 9,NetDwellingsRangeTo,missing,
 10,NetDwellingsRangeFrom,missing,

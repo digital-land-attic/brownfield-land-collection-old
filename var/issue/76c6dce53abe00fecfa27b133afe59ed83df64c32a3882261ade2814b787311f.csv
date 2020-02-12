@@ -124,6 +124,7 @@ row-number,field,issue-type,value
 58,NetDwellingsRangeTo,missing,
 59,NetDwellingsRangeFrom,missing,
 59,NetDwellingsRangeTo,missing,
+60,LastUpdatedDate,default,2019-10-20
 60,NetDwellingsRangeFrom,missing,
 60,NetDwellingsRangeTo,missing,
 61,NetDwellingsRangeFrom,missing,
@@ -188,6 +189,7 @@ row-number,field,issue-type,value
 88,NetDwellingsRangeTo,missing,
 89,FirstAddedDate,date,43100
 89,LastUpdatedDate,date,43100
+89,LastUpdatedDate,default,2019-10-20
 89,NetDwellingsRangeFrom,missing,
 89,NetDwellingsRangeTo,missing,
 90,NetDwellingsRangeFrom,missing,
@@ -198,6 +200,7 @@ row-number,field,issue-type,value
 92,NetDwellingsRangeTo,missing,
 93,FirstAddedDate,date,43100
 93,LastUpdatedDate,date,43100
+93,LastUpdatedDate,default,2019-10-20
 93,NetDwellingsRangeFrom,missing,
 93,NetDwellingsRangeTo,missing,
 94,NetDwellingsRangeFrom,missing,

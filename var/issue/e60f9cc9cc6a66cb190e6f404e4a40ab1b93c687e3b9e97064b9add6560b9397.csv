@@ -1,18 +1,62 @@
 row-number,field,issue-type,value
+1,LastUpdatedDate,default,2017-12-21
+2,LastUpdatedDate,default,2017-12-21
+3,LastUpdatedDate,default,2017-12-21
+4,LastUpdatedDate,default,2017-12-21
+5,LastUpdatedDate,default,2017-12-21
+6,LastUpdatedDate,default,2017-12-21
+7,LastUpdatedDate,default,2017-12-21
+8,LastUpdatedDate,default,2017-12-21
+9,LastUpdatedDate,default,2019-12-20
+10,LastUpdatedDate,default,2019-12-20
+11,LastUpdatedDate,default,2019-12-20
+12,LastUpdatedDate,default,2019-12-20
+13,LastUpdatedDate,default,2019-12-20
+14,LastUpdatedDate,default,2019-12-20
+15,LastUpdatedDate,default,2019-12-20
+16,LastUpdatedDate,default,2017-12-21
+17,LastUpdatedDate,default,2017-12-21
+18,LastUpdatedDate,default,2019-12-20
+19,LastUpdatedDate,default,2017-12-21
+20,LastUpdatedDate,default,2019-12-20
+21,LastUpdatedDate,default,2019-12-20
+22,LastUpdatedDate,default,2019-12-20
+23,LastUpdatedDate,default,2019-12-20
+24,LastUpdatedDate,default,2019-12-20
 25,Hectares,minimum,0
+25,LastUpdatedDate,default,2019-12-20
 25,Hectares,missing,
+26,LastUpdatedDate,default,2019-12-20
+27,LastUpdatedDate,default,2019-12-20
+28,LastUpdatedDate,default,2019-12-20
+29,LastUpdatedDate,default,2019-12-20
+30,LastUpdatedDate,default,2019-12-20
+31,LastUpdatedDate,default,2019-12-20
+32,LastUpdatedDate,default,2019-12-20
+33,LastUpdatedDate,default,2019-12-20
+34,LastUpdatedDate,default,2019-12-20
+35,LastUpdatedDate,default,2019-12-20
+36,LastUpdatedDate,default,2019-12-20
+37,LastUpdatedDate,default,2019-12-20
+38,LastUpdatedDate,default,2019-12-20
 39,Hectares,minimum,0
+39,LastUpdatedDate,default,2019-12-20
 39,Hectares,missing,
 39,"GeoX,GeoY",WGS84 outside England,"0,0"
+40,LastUpdatedDate,default,2017-12-21
 41,Hectares,minimum,0
+41,LastUpdatedDate,default,2019-12-20
 41,Hectares,missing,
 41,"GeoX,GeoY",WGS84 outside England,"0,0"
 42,Hectares,minimum,0
+42,LastUpdatedDate,default,2019-12-20
 42,Hectares,missing,
 42,"GeoX,GeoY",WGS84 outside England,"0,0"
 43,Hectares,minimum,0
+43,LastUpdatedDate,default,2019-12-20
 43,Hectares,missing,
 43,"GeoX,GeoY",WGS84 outside England,"0,0"
 44,Hectares,minimum,0
+44,LastUpdatedDate,default,2019-12-20
 44,Hectares,missing,
 44,"GeoX,GeoY",WGS84 outside England,"0,0"

@@ -1,5 +1,10 @@
 row-number,field,issue-type,value
 9,NetDwellingsRangeFrom,missing,
 9,NetDwellingsRangeTo,missing,
+15,LastUpdatedDate,default,2019-12-16
+27,LastUpdatedDate,default,2019-12-16
 29,NetDwellingsRangeFrom,missing,
 29,NetDwellingsRangeTo,missing,
+31,LastUpdatedDate,default,2019-12-16
+32,LastUpdatedDate,default,2019-12-16
+33,LastUpdatedDate,default,2019-12-16

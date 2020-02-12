@@ -33,6 +33,7 @@ row-number,field,issue-type,value
 32,NetDwellingsRangeTo,default,82
 33,NetDwellingsRangeTo,default,9
 34,NetDwellingsRangeTo,default,14
+34,LastUpdatedDate,default,2018-05-22
 35,NetDwellingsRangeTo,default,9
 36,NetDwellingsRangeTo,default,35
 37,NetDwellingsRangeTo,default,24
@@ -124,11 +125,13 @@ row-number,field,issue-type,value
 122,NetDwellingsRangeTo,default,62
 123,NetDwellingsRangeTo,default,41
 124,NetDwellingsRangeTo,default,67
+124,LastUpdatedDate,default,2018-05-22
 125,NetDwellingsRangeTo,default,77
 126,NetDwellingsRangeTo,default,76
 127,NetDwellingsRangeTo,default,16
 128,NetDwellingsRangeTo,default,77
 129,NetDwellingsRangeTo,default,20
+129,LastUpdatedDate,default,2018-05-22
 130,NetDwellingsRangeTo,default,29
 131,NetDwellingsRangeTo,default,13
 132,NetDwellingsRangeTo,default,12

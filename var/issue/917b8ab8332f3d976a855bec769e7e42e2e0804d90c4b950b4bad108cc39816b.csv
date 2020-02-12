@@ -1,9 +1,28 @@
 row-number,field,issue-type,value
+1,LastUpdatedDate,default,2017-12-15
+2,LastUpdatedDate,default,2017-12-15
+3,LastUpdatedDate,default,2017-12-15
+4,LastUpdatedDate,default,2017-12-15
+5,LastUpdatedDate,default,2017-12-15
+6,LastUpdatedDate,default,2017-12-15
+7,LastUpdatedDate,default,2017-12-15
 8,NetDwellingsRangeFrom,integer,700 (200 net)
 8,NetDwellingsRangeTo,integer,700 (200 net)
+8,LastUpdatedDate,default,2017-12-15
 8,NetDwellingsRangeFrom,missing,
 8,NetDwellingsRangeTo,missing,
+9,LastUpdatedDate,default,2017-12-15
+10,LastUpdatedDate,default,2017-12-15
+11,LastUpdatedDate,default,2017-12-15
+12,LastUpdatedDate,default,2017-12-15
+13,LastUpdatedDate,default,2017-12-15
+14,LastUpdatedDate,default,2017-12-15
 15,NetDwellingsRangeFrom,integer,>1
 15,NetDwellingsRangeTo,integer,>1
+15,LastUpdatedDate,default,2017-12-15
 15,NetDwellingsRangeFrom,missing,
 15,NetDwellingsRangeTo,missing,
+16,LastUpdatedDate,default,2017-12-15
+17,LastUpdatedDate,default,2017-12-15
+18,LastUpdatedDate,default,2017-12-15
+19,LastUpdatedDate,default,2017-12-15

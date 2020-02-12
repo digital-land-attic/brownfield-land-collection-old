@@ -2,6 +2,8 @@ row-number,field,issue-type,value
 1,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
 1,OwnershipStatus,enum,not PA_owned
 1,PermissionType,enum,MAR
+1,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+1,LastUpdatedDate,default,2019-10-20
 1,NetDwellingsRangeFrom,missing,
 1,NetDwellingsRangeTo,missing,
 2,SiteplanURL,uri,\\snclive.gov.uk\AppData\DEF_FlatFiles\planning\S-2012-1285-MAF
@@ -12,11 +14,15 @@ row-number,field,issue-type,value
 3,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
 3,OwnershipStatus,enum,not PA_owned
 3,PermissionType,enum,MAF
+3,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+3,LastUpdatedDate,default,2019-10-20
 3,NetDwellingsRangeFrom,missing,
 3,NetDwellingsRangeTo,missing,
 4,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
 4,OwnershipStatus,enum,not PA_owned
 4,PermissionType,enum,MAF
+4,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+4,LastUpdatedDate,default,2019-10-20
 4,NetDwellingsRangeFrom,missing,
 4,NetDwellingsRangeTo,missing,
 5,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
@@ -32,11 +38,15 @@ row-number,field,issue-type,value
 7,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
 7,OwnershipStatus,enum,not PA_owned
 7,PermissionType,enum,MAF
+7,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+7,LastUpdatedDate,default,2019-10-20
 7,NetDwellingsRangeFrom,missing,
 7,NetDwellingsRangeTo,missing,
 8,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
 8,OwnershipStatus,enum,not PA_owned
 8,PermissionType,enum,MAF
+8,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+8,LastUpdatedDate,default,2019-10-20
 8,NetDwellingsRangeFrom,missing,
 8,NetDwellingsRangeTo,missing,
 9,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
@@ -47,11 +57,15 @@ row-number,field,issue-type,value
 10,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
 10,OwnershipStatus,enum,not PA_owned
 10,PermissionType,enum,MAF
+10,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+10,LastUpdatedDate,default,2019-10-20
 10,NetDwellingsRangeFrom,missing,
 10,NetDwellingsRangeTo,missing,
 11,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
 11,OwnershipStatus,enum,not PA_owned
 11,PermissionType,enum,MAF
+11,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+11,LastUpdatedDate,default,2019-10-20
 11,NetDwellingsRangeFrom,missing,
 11,NetDwellingsRangeTo,missing,
 12,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
@@ -62,11 +76,15 @@ row-number,field,issue-type,value
 13,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
 13,OwnershipStatus,enum,not PA_owned
 13,PermissionType,enum,MAF
+13,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+13,LastUpdatedDate,default,2019-10-20
 13,NetDwellingsRangeFrom,missing,
 13,NetDwellingsRangeTo,missing,
 14,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
 14,OwnershipStatus,enum,not PA_owned
 14,PermissionType,enum,MAF
+14,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+14,LastUpdatedDate,default,2019-10-20
 14,NetDwellingsRangeFrom,missing,
 14,NetDwellingsRangeTo,missing,
 15,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/

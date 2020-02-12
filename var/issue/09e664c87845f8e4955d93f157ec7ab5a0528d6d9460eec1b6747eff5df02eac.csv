@@ -1,4 +1,10 @@
 row-number,field,issue-type,value
+11,LastUpdatedDate,default,2019-10-30
+12,LastUpdatedDate,default,2019-10-30
+13,LastUpdatedDate,default,2019-10-30
+14,LastUpdatedDate,default,2019-10-30
+15,LastUpdatedDate,default,2019-10-30
+16,LastUpdatedDate,default,2018-10-30
 17,NetDwellingsRangeFrom,missing,
 17,NetDwellingsRangeTo,missing,
 18,NetDwellingsRangeFrom,missing,
@@ -25,3 +31,8 @@ row-number,field,issue-type,value
 35,NetDwellingsRangeTo,missing,
 36,NetDwellingsRangeFrom,missing,
 36,NetDwellingsRangeTo,missing,
+37,LastUpdatedDate,default,2019-10-30
+38,LastUpdatedDate,default,2019-10-30
+39,LastUpdatedDate,default,2019-10-30
+40,LastUpdatedDate,default,2019-10-30
+41,LastUpdatedDate,default,2019-10-30

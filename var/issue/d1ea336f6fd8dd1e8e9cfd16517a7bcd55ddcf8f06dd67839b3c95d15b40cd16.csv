@@ -1,1514 +1,2107 @@
 row-number,field,issue-type,value
 1,PlanningStatus,enum,Other Commitment
+1,LastUpdatedDate,default,2017-01-01
 1,NetDwellingsRangeFrom,missing,
 1,NetDwellingsRangeTo,missing,
+2,LastUpdatedDate,default,2017-01-01
 2,NetDwellingsRangeFrom,missing,
 2,NetDwellingsRangeTo,missing,
+3,LastUpdatedDate,default,2017-01-01
 3,NetDwellingsRangeFrom,missing,
 3,NetDwellingsRangeTo,missing,
+4,LastUpdatedDate,default,2017-01-01
 4,NetDwellingsRangeFrom,missing,
 4,NetDwellingsRangeTo,missing,
+5,LastUpdatedDate,default,2017-01-01
 5,NetDwellingsRangeFrom,missing,
 5,NetDwellingsRangeTo,missing,
+6,LastUpdatedDate,default,2017-01-01
 6,NetDwellingsRangeFrom,missing,
 6,NetDwellingsRangeTo,missing,
+7,LastUpdatedDate,default,2017-01-01
 7,NetDwellingsRangeFrom,missing,
 7,NetDwellingsRangeTo,missing,
+8,LastUpdatedDate,default,2017-01-01
 8,NetDwellingsRangeFrom,missing,
 8,NetDwellingsRangeTo,missing,
+9,LastUpdatedDate,default,2005-01-01
 9,NetDwellingsRangeFrom,missing,
 9,NetDwellingsRangeTo,missing,
 10,PlanningStatus,enum,Completed During 2017/18
+10,LastUpdatedDate,default,2017-01-01
 10,NetDwellingsRangeFrom,missing,
 10,NetDwellingsRangeTo,missing,
+11,LastUpdatedDate,default,2017-01-01
 11,NetDwellingsRangeFrom,missing,
 11,NetDwellingsRangeTo,missing,
 12,PlanningStatus,enum,Completed During 2017/18
+12,LastUpdatedDate,default,2017-01-01
 12,NetDwellingsRangeFrom,missing,
 12,NetDwellingsRangeTo,missing,
+13,LastUpdatedDate,default,2017-01-01
 13,NetDwellingsRangeFrom,missing,
 13,NetDwellingsRangeTo,missing,
+14,LastUpdatedDate,default,2017-01-01
 14,NetDwellingsRangeFrom,missing,
 14,NetDwellingsRangeTo,missing,
+15,LastUpdatedDate,default,2017-01-01
 15,NetDwellingsRangeFrom,missing,
 15,NetDwellingsRangeTo,missing,
 16,PlanningStatus,enum,Completed During 2018/19
+16,LastUpdatedDate,default,2017-01-01
 16,NetDwellingsRangeFrom,missing,
 16,NetDwellingsRangeTo,missing,
+17,LastUpdatedDate,default,2017-01-01
 17,NetDwellingsRangeFrom,missing,
 17,NetDwellingsRangeTo,missing,
+18,LastUpdatedDate,default,2017-01-01
 18,NetDwellingsRangeFrom,missing,
 18,NetDwellingsRangeTo,missing,
 19,PlanningStatus,enum,Completed During 2018/19
+19,LastUpdatedDate,default,2017-01-01
 19,NetDwellingsRangeFrom,missing,
 19,NetDwellingsRangeTo,missing,
+20,LastUpdatedDate,default,2017-01-01
 20,NetDwellingsRangeFrom,missing,
 20,NetDwellingsRangeTo,missing,
+21,LastUpdatedDate,default,2017-01-01
 21,NetDwellingsRangeFrom,missing,
 21,NetDwellingsRangeTo,missing,
+22,LastUpdatedDate,default,2017-01-01
 22,NetDwellingsRangeFrom,missing,
 22,NetDwellingsRangeTo,missing,
+23,LastUpdatedDate,default,2017-01-01
 23,NetDwellingsRangeFrom,missing,
 23,NetDwellingsRangeTo,missing,
 24,PlanningStatus,enum,Completed During 2018/19
+24,LastUpdatedDate,default,2017-01-01
 24,NetDwellingsRangeFrom,missing,
 24,NetDwellingsRangeTo,missing,
+25,LastUpdatedDate,default,2017-01-01
 25,NetDwellingsRangeFrom,missing,
 25,NetDwellingsRangeTo,missing,
+26,LastUpdatedDate,default,2017-01-01
 26,NetDwellingsRangeFrom,missing,
 26,NetDwellingsRangeTo,missing,
+27,LastUpdatedDate,default,2017-01-01
 27,NetDwellingsRangeFrom,missing,
 27,NetDwellingsRangeTo,missing,
+28,LastUpdatedDate,default,2017-01-01
 28,NetDwellingsRangeFrom,missing,
 28,NetDwellingsRangeTo,missing,
+29,LastUpdatedDate,default,2017-01-01
 29,NetDwellingsRangeFrom,missing,
 29,NetDwellingsRangeTo,missing,
 30,PlanningStatus,enum,Completed During 2018/19
+30,LastUpdatedDate,default,2017-01-01
 30,NetDwellingsRangeFrom,missing,
 30,NetDwellingsRangeTo,missing,
+31,LastUpdatedDate,default,2017-01-01
 31,NetDwellingsRangeFrom,missing,
 31,NetDwellingsRangeTo,missing,
+32,LastUpdatedDate,default,2017-01-01
 32,NetDwellingsRangeFrom,missing,
 32,NetDwellingsRangeTo,missing,
+33,LastUpdatedDate,default,2017-01-01
 33,NetDwellingsRangeFrom,missing,
 33,NetDwellingsRangeTo,missing,
+34,LastUpdatedDate,default,2017-01-01
 34,NetDwellingsRangeFrom,missing,
 34,NetDwellingsRangeTo,missing,
+35,LastUpdatedDate,default,2017-01-01
 35,NetDwellingsRangeFrom,missing,
 35,NetDwellingsRangeTo,missing,
+36,LastUpdatedDate,default,2017-01-01
 36,NetDwellingsRangeFrom,missing,
 36,NetDwellingsRangeTo,missing,
+37,LastUpdatedDate,default,2017-01-01
 37,NetDwellingsRangeFrom,missing,
 37,NetDwellingsRangeTo,missing,
+38,LastUpdatedDate,default,2017-01-01
 38,NetDwellingsRangeFrom,missing,
 38,NetDwellingsRangeTo,missing,
 39,PlanningStatus,enum,Completed During 2016/17
+39,LastUpdatedDate,default,2017-01-01
 39,NetDwellingsRangeFrom,missing,
 39,NetDwellingsRangeTo,missing,
+40,LastUpdatedDate,default,2017-01-01
 40,NetDwellingsRangeFrom,missing,
 40,NetDwellingsRangeTo,missing,
 41,PlanningStatus,enum,Completed During 2017/18
+41,LastUpdatedDate,default,2017-01-01
 41,NetDwellingsRangeFrom,missing,
 41,NetDwellingsRangeTo,missing,
+42,LastUpdatedDate,default,2017-01-01
 42,NetDwellingsRangeFrom,missing,
 42,NetDwellingsRangeTo,missing,
+43,LastUpdatedDate,default,2017-01-01
 43,NetDwellingsRangeFrom,missing,
 43,NetDwellingsRangeTo,missing,
+44,LastUpdatedDate,default,2017-01-01
 44,NetDwellingsRangeFrom,missing,
 44,NetDwellingsRangeTo,missing,
+45,LastUpdatedDate,default,2017-01-01
 45,NetDwellingsRangeFrom,missing,
 45,NetDwellingsRangeTo,missing,
+46,LastUpdatedDate,default,2017-01-01
 46,NetDwellingsRangeFrom,missing,
 46,NetDwellingsRangeTo,missing,
+47,LastUpdatedDate,default,2017-01-01
 47,NetDwellingsRangeFrom,missing,
 47,NetDwellingsRangeTo,missing,
+48,LastUpdatedDate,default,2017-01-01
 48,NetDwellingsRangeFrom,missing,
 48,NetDwellingsRangeTo,missing,
+49,LastUpdatedDate,default,2017-01-01
 49,NetDwellingsRangeFrom,missing,
 49,NetDwellingsRangeTo,missing,
+50,LastUpdatedDate,default,2017-01-01
 50,NetDwellingsRangeFrom,missing,
 50,NetDwellingsRangeTo,missing,
 51,PlanningStatus,enum,Completed During 2017/18
+51,LastUpdatedDate,default,2017-01-01
 51,NetDwellingsRangeFrom,missing,
 51,NetDwellingsRangeTo,missing,
 52,PlanningStatus,enum,Completed During 2018/19
+52,LastUpdatedDate,default,2017-01-01
 52,NetDwellingsRangeFrom,missing,
 52,NetDwellingsRangeTo,missing,
+53,LastUpdatedDate,default,2017-01-01
 53,NetDwellingsRangeFrom,missing,
 53,NetDwellingsRangeTo,missing,
 54,PlanningStatus,enum,Completed During 2017/18
+54,LastUpdatedDate,default,2017-01-01
 54,NetDwellingsRangeFrom,missing,
 54,NetDwellingsRangeTo,missing,
 55,PlanningStatus,enum,Completed During 2017/18
+55,LastUpdatedDate,default,2017-01-01
 55,NetDwellingsRangeFrom,missing,
 55,NetDwellingsRangeTo,missing,
+56,LastUpdatedDate,default,2017-01-01
 56,NetDwellingsRangeFrom,missing,
 56,NetDwellingsRangeTo,missing,
 57,PlanningStatus,enum,Completed During 2016/17
+57,LastUpdatedDate,default,2017-01-01
 57,NetDwellingsRangeFrom,missing,
 57,NetDwellingsRangeTo,missing,
 58,PlanningStatus,enum,Completed During 2016/17
+58,LastUpdatedDate,default,2017-01-01
 58,NetDwellingsRangeFrom,missing,
 58,NetDwellingsRangeTo,missing,
 59,PlanningStatus,enum,Completed During 2016/17
+59,LastUpdatedDate,default,2017-01-01
 59,NetDwellingsRangeFrom,missing,
 59,NetDwellingsRangeTo,missing,
 60,PlanningStatus,enum,Completed During 2016/17
+60,LastUpdatedDate,default,2017-01-01
 60,NetDwellingsRangeFrom,missing,
 60,NetDwellingsRangeTo,missing,
 61,PlanningStatus,enum,Completed During 2016/17
+61,LastUpdatedDate,default,2017-01-01
 61,NetDwellingsRangeFrom,missing,
 61,NetDwellingsRangeTo,missing,
+62,LastUpdatedDate,default,2017-01-01
 62,NetDwellingsRangeFrom,missing,
 62,NetDwellingsRangeTo,missing,
 63,PlanningStatus,enum,Completed During 2016/17
+63,LastUpdatedDate,default,2017-01-01
 63,NetDwellingsRangeFrom,missing,
 63,NetDwellingsRangeTo,missing,
 64,PlanningStatus,enum,Completed During 2016/17
+64,LastUpdatedDate,default,2017-01-01
 64,NetDwellingsRangeFrom,missing,
 64,NetDwellingsRangeTo,missing,
 65,PlanningStatus,enum,Completed During 2016/17
+65,LastUpdatedDate,default,2017-01-01
 65,NetDwellingsRangeFrom,missing,
 65,NetDwellingsRangeTo,missing,
 66,PlanningStatus,enum,Other Commitment
+66,LastUpdatedDate,default,2017-01-01
 66,NetDwellingsRangeFrom,missing,
 66,NetDwellingsRangeTo,missing,
 67,PlanningStatus,enum,Other Commitment
+67,LastUpdatedDate,default,2017-01-01
 67,NetDwellingsRangeFrom,missing,
 67,NetDwellingsRangeTo,missing,
 68,PlanningStatus,enum,Other Commitment
+68,LastUpdatedDate,default,2017-01-01
 68,NetDwellingsRangeFrom,missing,
 68,NetDwellingsRangeTo,missing,
 69,PlanningStatus,enum,Other Commitment
+69,LastUpdatedDate,default,2017-01-01
 69,NetDwellingsRangeFrom,missing,
 69,NetDwellingsRangeTo,missing,
 70,PlanningStatus,enum,Other Commitment
+70,LastUpdatedDate,default,2017-01-01
 70,NetDwellingsRangeFrom,missing,
 70,NetDwellingsRangeTo,missing,
 71,PlanningStatus,enum,Other Commitment
+71,LastUpdatedDate,default,2017-01-01
 71,NetDwellingsRangeFrom,missing,
 71,NetDwellingsRangeTo,missing,
 72,PlanningStatus,enum,Other Commitment
+72,LastUpdatedDate,default,2017-01-01
 72,NetDwellingsRangeFrom,missing,
 72,NetDwellingsRangeTo,missing,
 73,PlanningStatus,enum,Other Commitment
+73,LastUpdatedDate,default,2017-01-01
 73,NetDwellingsRangeFrom,missing,
 73,NetDwellingsRangeTo,missing,
 74,PlanningStatus,enum,Other Commitment
+74,LastUpdatedDate,default,2017-01-01
 74,NetDwellingsRangeFrom,missing,
 74,NetDwellingsRangeTo,missing,
 75,PlanningStatus,enum,Other Commitment
+75,LastUpdatedDate,default,2017-01-01
 75,NetDwellingsRangeFrom,missing,
 75,NetDwellingsRangeTo,missing,
+76,LastUpdatedDate,default,2017-01-01
 76,NetDwellingsRangeFrom,missing,
 76,NetDwellingsRangeTo,missing,
+77,LastUpdatedDate,default,2017-01-01
 77,NetDwellingsRangeFrom,missing,
 77,NetDwellingsRangeTo,missing,
+78,LastUpdatedDate,default,2017-01-01
 78,NetDwellingsRangeFrom,missing,
 78,NetDwellingsRangeTo,missing,
 79,PlanningStatus,enum,Other Commitment
+79,LastUpdatedDate,default,2017-01-01
 79,NetDwellingsRangeFrom,missing,
 79,NetDwellingsRangeTo,missing,
+80,LastUpdatedDate,default,2017-01-01
 80,NetDwellingsRangeFrom,missing,
 80,NetDwellingsRangeTo,missing,
+81,LastUpdatedDate,default,2017-01-01
 81,NetDwellingsRangeFrom,missing,
 81,NetDwellingsRangeTo,missing,
+82,LastUpdatedDate,default,2017-01-01
 82,NetDwellingsRangeFrom,missing,
 82,NetDwellingsRangeTo,missing,
+83,LastUpdatedDate,default,2017-01-01
 83,NetDwellingsRangeFrom,missing,
 83,NetDwellingsRangeTo,missing,
 84,PlanningStatus,enum,Other Commitment
+84,LastUpdatedDate,default,2017-01-01
 84,NetDwellingsRangeFrom,missing,
 84,NetDwellingsRangeTo,missing,
+85,LastUpdatedDate,default,2017-01-01
 85,NetDwellingsRangeFrom,missing,
 85,NetDwellingsRangeTo,missing,
 86,PlanningStatus,enum,Other Commitment
+86,LastUpdatedDate,default,2017-01-01
 86,NetDwellingsRangeFrom,missing,
 86,NetDwellingsRangeTo,missing,
 87,PlanningStatus,enum,Completed During 2018/19
+87,LastUpdatedDate,default,2017-01-01
 87,NetDwellingsRangeFrom,missing,
 87,NetDwellingsRangeTo,missing,
+88,LastUpdatedDate,default,2017-01-01
 88,NetDwellingsRangeFrom,missing,
 88,NetDwellingsRangeTo,missing,
 89,PlanningStatus,enum,Completed During 2018/19
+89,LastUpdatedDate,default,2017-01-01
 89,NetDwellingsRangeFrom,missing,
 89,NetDwellingsRangeTo,missing,
 90,PlanningStatus,enum,Completed During 2018/19
+90,LastUpdatedDate,default,2017-01-01
 90,NetDwellingsRangeFrom,missing,
 90,NetDwellingsRangeTo,missing,
 91,PlanningStatus,enum,Other Commitment
+91,LastUpdatedDate,default,2017-01-01
 91,NetDwellingsRangeFrom,missing,
 91,NetDwellingsRangeTo,missing,
 92,PlanningStatus,enum,Other Commitment
+92,LastUpdatedDate,default,2017-01-01
 92,NetDwellingsRangeFrom,missing,
 92,NetDwellingsRangeTo,missing,
 93,PlanningStatus,enum,Completed During 2017/18
+93,LastUpdatedDate,default,2017-01-01
 93,NetDwellingsRangeFrom,missing,
 93,NetDwellingsRangeTo,missing,
+94,LastUpdatedDate,default,2017-01-01
 94,NetDwellingsRangeFrom,missing,
 94,NetDwellingsRangeTo,missing,
+95,LastUpdatedDate,default,2017-01-01
 95,NetDwellingsRangeFrom,missing,
 95,NetDwellingsRangeTo,missing,
 96,PlanningStatus,enum,Other Commitment
+96,LastUpdatedDate,default,2010-01-01
 96,NetDwellingsRangeFrom,missing,
 96,NetDwellingsRangeTo,missing,
 97,PlanningStatus,enum,Other Commitment
+97,LastUpdatedDate,default,2010-01-01
 97,NetDwellingsRangeFrom,missing,
 97,NetDwellingsRangeTo,missing,
 98,PlanningStatus,enum,Other Commitment
+98,LastUpdatedDate,default,2016-01-01
 98,NetDwellingsRangeFrom,missing,
 98,NetDwellingsRangeTo,missing,
 99,PlanningStatus,enum,Other Commitment
+99,LastUpdatedDate,default,2005-01-01
 99,NetDwellingsRangeFrom,missing,
 99,NetDwellingsRangeTo,missing,
 100,PlanningStatus,enum,Other Commitment
+100,LastUpdatedDate,default,2004-01-01
 100,NetDwellingsRangeFrom,missing,
 100,NetDwellingsRangeTo,missing,
 101,PlanningStatus,enum,Other Commitment
+101,LastUpdatedDate,default,2005-01-01
 101,NetDwellingsRangeFrom,missing,
 101,NetDwellingsRangeTo,missing,
+102,LastUpdatedDate,default,2005-01-01
 102,NetDwellingsRangeFrom,missing,
 102,NetDwellingsRangeTo,missing,
 103,PlanningStatus,enum,Other Commitment
+103,LastUpdatedDate,default,2006-01-01
 103,NetDwellingsRangeFrom,missing,
 103,NetDwellingsRangeTo,missing,
 104,PlanningStatus,enum,Other Commitment
+104,LastUpdatedDate,default,2007-01-01
 104,NetDwellingsRangeFrom,missing,
 104,NetDwellingsRangeTo,missing,
+105,LastUpdatedDate,default,2007-01-01
 105,NetDwellingsRangeFrom,missing,
 105,NetDwellingsRangeTo,missing,
 106,PlanningStatus,enum,Completed During 2017/18
+106,LastUpdatedDate,default,2009-01-01
 106,NetDwellingsRangeFrom,missing,
 106,NetDwellingsRangeTo,missing,
 107,PlanningStatus,enum,Other Commitment
+107,LastUpdatedDate,default,2005-01-01
 107,NetDwellingsRangeFrom,missing,
 107,NetDwellingsRangeTo,missing,
+108,LastUpdatedDate,default,2005-01-01
 108,NetDwellingsRangeFrom,missing,
 108,NetDwellingsRangeTo,missing,
 109,PlanningStatus,enum,Other Commitment
+109,LastUpdatedDate,default,2006-01-01
 109,NetDwellingsRangeFrom,missing,
 109,NetDwellingsRangeTo,missing,
 110,PlanningStatus,enum,Other Commitment
+110,LastUpdatedDate,default,2005-01-01
 110,NetDwellingsRangeFrom,missing,
 110,NetDwellingsRangeTo,missing,
 111,PlanningStatus,enum,Other Commitment
+111,LastUpdatedDate,default,2007-01-01
 111,NetDwellingsRangeFrom,missing,
 111,NetDwellingsRangeTo,missing,
 112,PlanningStatus,enum,Completed During 2016/17
+112,LastUpdatedDate,default,2016-01-01
 112,NetDwellingsRangeFrom,missing,
 112,NetDwellingsRangeTo,missing,
 113,PlanningStatus,enum,Other Commitment
+113,LastUpdatedDate,default,2002-01-01
 113,NetDwellingsRangeFrom,missing,
 113,NetDwellingsRangeTo,missing,
 114,PlanningStatus,enum,Other Commitment
+114,LastUpdatedDate,default,2008-01-01
 114,NetDwellingsRangeFrom,missing,
 114,NetDwellingsRangeTo,missing,
+115,LastUpdatedDate,default,2009-01-01
 115,NetDwellingsRangeFrom,missing,
 115,NetDwellingsRangeTo,missing,
 116,PlanningStatus,enum,Adopted Local Plan
+116,LastUpdatedDate,default,2008-01-01
 116,NetDwellingsRangeFrom,missing,
 116,NetDwellingsRangeTo,missing,
 117,PlanningStatus,enum,Other Commitment
+117,LastUpdatedDate,default,2009-01-01
 117,NetDwellingsRangeFrom,missing,
 117,NetDwellingsRangeTo,missing,
 118,PlanningStatus,enum,Other Commitment
+118,LastUpdatedDate,default,2009-01-01
 118,NetDwellingsRangeFrom,missing,
 118,NetDwellingsRangeTo,missing,
 119,PlanningStatus,enum,Other Commitment
+119,LastUpdatedDate,default,2009-01-01
 119,NetDwellingsRangeFrom,missing,
 119,NetDwellingsRangeTo,missing,
 120,PlanningStatus,enum,Other Commitment
+120,LastUpdatedDate,default,2005-01-01
 120,NetDwellingsRangeFrom,missing,
 120,NetDwellingsRangeTo,missing,
 121,PlanningStatus,enum,Completed During 2018/19
+121,LastUpdatedDate,default,2007-01-01
 121,NetDwellingsRangeFrom,missing,
 121,NetDwellingsRangeTo,missing,
 122,PlanningStatus,enum,Other Commitment
+122,LastUpdatedDate,default,2008-01-01
 122,NetDwellingsRangeFrom,missing,
 122,NetDwellingsRangeTo,missing,
 123,PlanningStatus,enum,Other Commitment
+123,LastUpdatedDate,default,2011-01-01
 123,NetDwellingsRangeFrom,missing,
 123,NetDwellingsRangeTo,missing,
 124,PlanningStatus,enum,Completed During 2017/18
+124,LastUpdatedDate,default,2011-01-01
 124,NetDwellingsRangeFrom,missing,
 124,NetDwellingsRangeTo,missing,
+125,LastUpdatedDate,default,2011-01-01
 125,NetDwellingsRangeFrom,missing,
 125,NetDwellingsRangeTo,missing,
+126,LastUpdatedDate,default,2010-01-01
 126,NetDwellingsRangeFrom,missing,
 126,NetDwellingsRangeTo,missing,
 127,PlanningStatus,enum,Completed During 2017/18
+127,LastUpdatedDate,default,2010-01-01
 127,NetDwellingsRangeFrom,missing,
 127,NetDwellingsRangeTo,missing,
 128,PlanningStatus,enum,Completed During 2018/19
+128,LastUpdatedDate,default,2012-01-01
 128,NetDwellingsRangeFrom,missing,
 128,NetDwellingsRangeTo,missing,
 129,PlanningStatus,enum,Other Commitment
+129,LastUpdatedDate,default,2012-01-01
 129,NetDwellingsRangeFrom,missing,
 129,NetDwellingsRangeTo,missing,
+130,LastUpdatedDate,default,2012-01-01
 130,NetDwellingsRangeFrom,missing,
 130,NetDwellingsRangeTo,missing,
 131,PlanningStatus,enum,Other Commitment
+131,LastUpdatedDate,default,2012-01-01
 131,NetDwellingsRangeFrom,missing,
 131,NetDwellingsRangeTo,missing,
 132,PlanningStatus,enum,Other Commitment
+132,LastUpdatedDate,default,2011-01-01
 132,NetDwellingsRangeFrom,missing,
 132,NetDwellingsRangeTo,missing,
 133,PlanningStatus,enum,Other Commitment
+133,LastUpdatedDate,default,2010-01-01
 133,NetDwellingsRangeFrom,missing,
 133,NetDwellingsRangeTo,missing,
 134,PlanningStatus,enum,Other Commitment
+134,LastUpdatedDate,default,2012-01-01
 134,NetDwellingsRangeFrom,missing,
 134,NetDwellingsRangeTo,missing,
 135,PlanningStatus,enum,Other Commitment
+135,LastUpdatedDate,default,2009-01-01
 135,NetDwellingsRangeFrom,missing,
 135,NetDwellingsRangeTo,missing,
 136,PlanningStatus,enum,Other Commitment
+136,LastUpdatedDate,default,2012-01-01
 136,NetDwellingsRangeFrom,missing,
 136,NetDwellingsRangeTo,missing,
 137,PlanningStatus,enum,Other Commitment
+137,LastUpdatedDate,default,2012-01-01
 137,NetDwellingsRangeFrom,missing,
 137,NetDwellingsRangeTo,missing,
 138,PlanningStatus,enum,Other Commitment
+138,LastUpdatedDate,default,2010-01-01
 138,NetDwellingsRangeFrom,missing,
 138,NetDwellingsRangeTo,missing,
 139,PlanningStatus,enum,Completed During 2017/18
+139,LastUpdatedDate,default,2006-01-01
 139,NetDwellingsRangeFrom,missing,
 139,NetDwellingsRangeTo,missing,
+140,LastUpdatedDate,default,2015-01-01
 140,NetDwellingsRangeFrom,missing,
 140,NetDwellingsRangeTo,missing,
 141,PlanningStatus,enum,Other Commitment
+141,LastUpdatedDate,default,2012-01-01
 141,NetDwellingsRangeFrom,missing,
 141,NetDwellingsRangeTo,missing,
 142,PlanningStatus,enum,Other Commitment
+142,LastUpdatedDate,default,2011-01-01
 142,NetDwellingsRangeFrom,missing,
 142,NetDwellingsRangeTo,missing,
 143,PlanningStatus,enum,Other Commitment
+143,LastUpdatedDate,default,2011-01-01
 143,NetDwellingsRangeFrom,missing,
 143,NetDwellingsRangeTo,missing,
 144,PlanningStatus,enum,Other Commitment
+144,LastUpdatedDate,default,2010-01-01
 144,NetDwellingsRangeFrom,missing,
 144,NetDwellingsRangeTo,missing,
+145,LastUpdatedDate,default,2010-01-01
 145,NetDwellingsRangeFrom,missing,
 145,NetDwellingsRangeTo,missing,
 146,PlanningStatus,enum,Other Commitment
+146,LastUpdatedDate,default,2011-01-01
 146,NetDwellingsRangeFrom,missing,
 146,NetDwellingsRangeTo,missing,
 147,PlanningStatus,enum,Other Commitment
+147,LastUpdatedDate,default,2011-01-01
 147,NetDwellingsRangeFrom,missing,
 147,NetDwellingsRangeTo,missing,
 148,PlanningStatus,enum,Other Commitment
+148,LastUpdatedDate,default,2011-01-01
 148,NetDwellingsRangeFrom,missing,
 148,NetDwellingsRangeTo,missing,
 149,PlanningStatus,enum,Other Commitment
+149,LastUpdatedDate,default,2011-01-01
 149,NetDwellingsRangeFrom,missing,
 149,NetDwellingsRangeTo,missing,
+150,LastUpdatedDate,default,2012-01-01
 150,NetDwellingsRangeFrom,missing,
 150,NetDwellingsRangeTo,missing,
 151,PlanningStatus,enum,Other Commitment
+151,LastUpdatedDate,default,2012-01-01
 151,NetDwellingsRangeFrom,missing,
 151,NetDwellingsRangeTo,missing,
 152,PlanningStatus,enum,Other Commitment
+152,LastUpdatedDate,default,2010-01-01
 152,NetDwellingsRangeFrom,missing,
 152,NetDwellingsRangeTo,missing,
+153,LastUpdatedDate,default,2002-01-01
 153,NetDwellingsRangeFrom,missing,
 153,NetDwellingsRangeTo,missing,
 154,PlanningStatus,enum,Other Commitment
+154,LastUpdatedDate,default,2012-01-01
 154,NetDwellingsRangeFrom,missing,
 154,NetDwellingsRangeTo,missing,
 155,PlanningStatus,enum,Other Commitment
+155,LastUpdatedDate,default,2011-01-01
 155,NetDwellingsRangeFrom,missing,
 155,NetDwellingsRangeTo,missing,
 156,PlanningStatus,enum,Other Commitment
+156,LastUpdatedDate,default,2012-01-01
 156,NetDwellingsRangeFrom,missing,
 156,NetDwellingsRangeTo,missing,
+157,LastUpdatedDate,default,2012-01-01
 157,NetDwellingsRangeFrom,missing,
 157,NetDwellingsRangeTo,missing,
 158,PlanningStatus,enum,Other Commitment
+158,LastUpdatedDate,default,2010-01-01
 158,NetDwellingsRangeFrom,missing,
 158,NetDwellingsRangeTo,missing,
+159,LastUpdatedDate,default,2011-01-01
 159,NetDwellingsRangeFrom,missing,
 159,NetDwellingsRangeTo,missing,
 160,PlanningStatus,enum,Other Commitment
+160,LastUpdatedDate,default,2012-01-01
 160,NetDwellingsRangeFrom,missing,
 160,NetDwellingsRangeTo,missing,
 161,PlanningStatus,enum,Other Commitment
+161,LastUpdatedDate,default,2013-01-01
 161,NetDwellingsRangeFrom,missing,
 161,NetDwellingsRangeTo,missing,
 162,PlanningStatus,enum,Other Commitment
+162,LastUpdatedDate,default,2012-01-01
 162,NetDwellingsRangeFrom,missing,
 162,NetDwellingsRangeTo,missing,
+163,LastUpdatedDate,default,2010-01-01
 163,NetDwellingsRangeFrom,missing,
 163,NetDwellingsRangeTo,missing,
 164,PlanningStatus,enum,Other Commitment
+164,LastUpdatedDate,default,2010-01-01
 164,NetDwellingsRangeFrom,missing,
 164,NetDwellingsRangeTo,missing,
+165,LastUpdatedDate,default,2010-01-01
 165,NetDwellingsRangeFrom,missing,
 165,NetDwellingsRangeTo,missing,
 166,PlanningStatus,enum,Other Commitment
+166,LastUpdatedDate,default,2011-01-01
 166,NetDwellingsRangeFrom,missing,
 166,NetDwellingsRangeTo,missing,
 167,PlanningStatus,enum,Other Commitment
+167,LastUpdatedDate,default,2011-01-01
 167,NetDwellingsRangeFrom,missing,
 167,NetDwellingsRangeTo,missing,
 168,PlanningStatus,enum,Completed During 2017/18
+168,LastUpdatedDate,default,2012-01-01
 168,NetDwellingsRangeFrom,missing,
 168,NetDwellingsRangeTo,missing,
 169,PlanningStatus,enum,Other Commitment
+169,LastUpdatedDate,default,2012-01-01
 169,NetDwellingsRangeFrom,missing,
 169,NetDwellingsRangeTo,missing,
 170,PlanningStatus,enum,Other Commitment
+170,LastUpdatedDate,default,2012-01-01
 170,NetDwellingsRangeFrom,missing,
 170,NetDwellingsRangeTo,missing,
 171,PlanningStatus,enum,Other Commitment
+171,LastUpdatedDate,default,2012-01-01
 171,NetDwellingsRangeFrom,missing,
 171,NetDwellingsRangeTo,missing,
 172,PlanningStatus,enum,Other Commitment
+172,LastUpdatedDate,default,2008-01-01
 172,NetDwellingsRangeFrom,missing,
 172,NetDwellingsRangeTo,missing,
+173,LastUpdatedDate,default,2009-01-01
 173,NetDwellingsRangeFrom,missing,
 173,NetDwellingsRangeTo,missing,
 174,PlanningStatus,enum,Other Commitment
+174,LastUpdatedDate,default,2013-01-01
 174,NetDwellingsRangeFrom,missing,
 174,NetDwellingsRangeTo,missing,
 175,PlanningStatus,enum,Other Commitment
+175,LastUpdatedDate,default,2012-01-01
 175,NetDwellingsRangeFrom,missing,
 175,NetDwellingsRangeTo,missing,
 176,PlanningStatus,enum,Other Commitment
+176,LastUpdatedDate,default,2011-01-01
 176,NetDwellingsRangeFrom,missing,
 176,NetDwellingsRangeTo,missing,
 177,PlanningStatus,enum,Other Commitment
+177,LastUpdatedDate,default,2012-01-01
 177,NetDwellingsRangeFrom,missing,
 177,NetDwellingsRangeTo,missing,
 178,PlanningStatus,enum,Other Commitment
+178,LastUpdatedDate,default,2012-01-01
 178,NetDwellingsRangeFrom,missing,
 178,NetDwellingsRangeTo,missing,
+179,LastUpdatedDate,default,2012-01-01
 179,NetDwellingsRangeFrom,missing,
 179,NetDwellingsRangeTo,missing,
 180,PlanningStatus,enum,Other Commitment
+180,LastUpdatedDate,default,2012-01-01
 180,NetDwellingsRangeFrom,missing,
 180,NetDwellingsRangeTo,missing,
 181,PlanningStatus,enum,Completed During 2017/18
+181,LastUpdatedDate,default,2012-01-01
 181,NetDwellingsRangeFrom,missing,
 181,NetDwellingsRangeTo,missing,
 182,PlanningStatus,enum,Other Commitment
+182,LastUpdatedDate,default,2012-01-01
 182,NetDwellingsRangeFrom,missing,
 182,NetDwellingsRangeTo,missing,
 183,PlanningStatus,enum,Other Commitment
+183,LastUpdatedDate,default,2012-01-01
 183,NetDwellingsRangeFrom,missing,
 183,NetDwellingsRangeTo,missing,
 184,PlanningStatus,enum,Other Commitment
+184,LastUpdatedDate,default,2011-01-01
 184,NetDwellingsRangeFrom,missing,
 184,NetDwellingsRangeTo,missing,
 185,PlanningStatus,enum,Other Commitment
+185,LastUpdatedDate,default,2013-01-01
 185,NetDwellingsRangeFrom,missing,
 185,NetDwellingsRangeTo,missing,
 186,PlanningStatus,enum,Completed During 2017/18
+186,LastUpdatedDate,default,2006-01-01
 186,NetDwellingsRangeFrom,missing,
 186,NetDwellingsRangeTo,missing,
 187,PlanningStatus,enum,Other Commitment
+187,LastUpdatedDate,default,2012-01-01
 187,NetDwellingsRangeFrom,missing,
 187,NetDwellingsRangeTo,missing,
 188,PlanningStatus,enum,Other Commitment
+188,LastUpdatedDate,default,2010-01-01
 188,NetDwellingsRangeFrom,missing,
 188,NetDwellingsRangeTo,missing,
 189,PlanningStatus,enum,Other Commitment
+189,LastUpdatedDate,default,2013-01-01
 189,NetDwellingsRangeFrom,missing,
 189,NetDwellingsRangeTo,missing,
+190,LastUpdatedDate,default,2002-01-01
 190,NetDwellingsRangeFrom,missing,
 190,NetDwellingsRangeTo,missing,
 191,PlanningStatus,enum,Other Commitment
+191,LastUpdatedDate,default,2013-01-01
 191,NetDwellingsRangeFrom,missing,
 191,NetDwellingsRangeTo,missing,
 192,PlanningStatus,enum,Completed During 2017/18
+192,LastUpdatedDate,default,2012-01-01
 192,NetDwellingsRangeFrom,missing,
 192,NetDwellingsRangeTo,missing,
 193,PlanningStatus,enum,Completed During 2018/19
+193,LastUpdatedDate,default,2013-01-01
 193,NetDwellingsRangeFrom,missing,
 193,NetDwellingsRangeTo,missing,
 194,PlanningStatus,enum,Other Commitment
+194,LastUpdatedDate,default,2011-01-01
 194,NetDwellingsRangeFrom,missing,
 194,NetDwellingsRangeTo,missing,
 195,PlanningStatus,enum,Other Commitment
+195,LastUpdatedDate,default,2013-01-01
 195,NetDwellingsRangeFrom,missing,
 195,NetDwellingsRangeTo,missing,
 196,PlanningStatus,enum,Other Commitment
+196,LastUpdatedDate,default,2013-01-01
 196,NetDwellingsRangeFrom,missing,
 196,NetDwellingsRangeTo,missing,
 197,PlanningStatus,enum,Other Commitment
+197,LastUpdatedDate,default,2014-01-01
 197,NetDwellingsRangeFrom,missing,
 197,NetDwellingsRangeTo,missing,
 198,PlanningStatus,enum,Completed During 2018/19
+198,LastUpdatedDate,default,2013-01-01
 198,NetDwellingsRangeFrom,missing,
 198,NetDwellingsRangeTo,missing,
 199,PlanningStatus,enum,Completed During 2016/17
+199,LastUpdatedDate,default,2016-01-01
 199,NetDwellingsRangeFrom,missing,
 199,NetDwellingsRangeTo,missing,
 200,PlanningStatus,enum,Other Commitment
+200,LastUpdatedDate,default,2014-01-01
 200,NetDwellingsRangeFrom,missing,
 200,NetDwellingsRangeTo,missing,
 201,PlanningStatus,enum,Completed During 2018/19
+201,LastUpdatedDate,default,2013-01-01
 201,NetDwellingsRangeFrom,missing,
 201,NetDwellingsRangeTo,missing,
 202,PlanningStatus,enum,Other Commitment
+202,LastUpdatedDate,default,2006-01-01
 202,NetDwellingsRangeFrom,missing,
 202,NetDwellingsRangeTo,missing,
 203,PlanningStatus,enum,Completed During 2017/18
+203,LastUpdatedDate,default,2006-01-01
 203,NetDwellingsRangeFrom,missing,
 203,NetDwellingsRangeTo,missing,
 204,PlanningStatus,enum,Completed During 2018/19
+204,LastUpdatedDate,default,2013-01-01
 204,NetDwellingsRangeFrom,missing,
 204,NetDwellingsRangeTo,missing,
 205,PlanningStatus,enum,Other Commitment
+205,LastUpdatedDate,default,2013-01-01
 205,NetDwellingsRangeFrom,missing,
 205,NetDwellingsRangeTo,missing,
 206,PlanningStatus,enum,Other Commitment
+206,LastUpdatedDate,default,2013-01-01
 206,NetDwellingsRangeFrom,missing,
 206,NetDwellingsRangeTo,missing,
 207,PlanningStatus,enum,Completed During 2017/18
+207,LastUpdatedDate,default,2013-01-01
 207,NetDwellingsRangeFrom,missing,
 207,NetDwellingsRangeTo,missing,
+208,LastUpdatedDate,default,2013-01-01
 208,NetDwellingsRangeFrom,missing,
 208,NetDwellingsRangeTo,missing,
 209,PlanningStatus,enum,Other Commitment
+209,LastUpdatedDate,default,2002-01-01
 209,NetDwellingsRangeFrom,missing,
 209,NetDwellingsRangeTo,missing,
+210,LastUpdatedDate,default,2011-01-01
 210,NetDwellingsRangeFrom,missing,
 210,NetDwellingsRangeTo,missing,
 211,PlanningStatus,enum,Other Commitment
+211,LastUpdatedDate,default,2009-01-01
 211,NetDwellingsRangeFrom,missing,
 211,NetDwellingsRangeTo,missing,
 212,PlanningStatus,enum,Other Commitment
+212,LastUpdatedDate,default,2009-01-01
 212,NetDwellingsRangeFrom,missing,
 212,NetDwellingsRangeTo,missing,
+213,LastUpdatedDate,default,2010-01-01
 213,NetDwellingsRangeFrom,missing,
 213,NetDwellingsRangeTo,missing,
 214,PlanningStatus,enum,Adopted Local Plan
+214,LastUpdatedDate,default,2011-01-01
 214,NetDwellingsRangeFrom,missing,
 214,NetDwellingsRangeTo,missing,
+215,LastUpdatedDate,default,2010-01-01
 215,NetDwellingsRangeFrom,missing,
 215,NetDwellingsRangeTo,missing,
 216,PlanningStatus,enum,Other Commitment
+216,LastUpdatedDate,default,2012-01-01
 216,NetDwellingsRangeFrom,missing,
 216,NetDwellingsRangeTo,missing,
 217,PlanningStatus,enum,Other Commitment
+217,LastUpdatedDate,default,2011-01-01
 217,NetDwellingsRangeFrom,missing,
 217,NetDwellingsRangeTo,missing,
 218,PlanningStatus,enum,Completed During 2017/18
+218,LastUpdatedDate,default,2008-01-01
 218,NetDwellingsRangeFrom,missing,
 218,NetDwellingsRangeTo,missing,
 219,PlanningStatus,enum,Completed During 2018/19
+219,LastUpdatedDate,default,2008-01-01
 219,NetDwellingsRangeFrom,missing,
 219,NetDwellingsRangeTo,missing,
 220,PlanningStatus,enum,Other Commitment
+220,LastUpdatedDate,default,2000-01-01
 220,NetDwellingsRangeFrom,missing,
 220,NetDwellingsRangeTo,missing,
 221,PlanningStatus,enum,Other Commitment
+221,LastUpdatedDate,default,2012-01-01
 221,NetDwellingsRangeFrom,missing,
 221,NetDwellingsRangeTo,missing,
 222,PlanningStatus,enum,Other Commitment
+222,LastUpdatedDate,default,2011-01-01
 222,NetDwellingsRangeFrom,missing,
 222,NetDwellingsRangeTo,missing,
 223,PlanningStatus,enum,Completed During 2017/18
+223,LastUpdatedDate,default,2009-01-01
 223,NetDwellingsRangeFrom,missing,
 223,NetDwellingsRangeTo,missing,
 224,PlanningStatus,enum,Other Commitment
+224,LastUpdatedDate,default,2012-01-01
 224,NetDwellingsRangeFrom,missing,
 224,NetDwellingsRangeTo,missing,
 225,PlanningStatus,enum,Other Commitment
+225,LastUpdatedDate,default,2010-01-01
 225,NetDwellingsRangeFrom,missing,
 225,NetDwellingsRangeTo,missing,
+226,LastUpdatedDate,default,2011-01-01
 226,NetDwellingsRangeFrom,missing,
 226,NetDwellingsRangeTo,missing,
 227,PlanningStatus,enum,Other Commitment
+227,LastUpdatedDate,default,2012-01-01
 227,NetDwellingsRangeFrom,missing,
 227,NetDwellingsRangeTo,missing,
+228,LastUpdatedDate,default,2013-01-01
 228,NetDwellingsRangeFrom,missing,
 228,NetDwellingsRangeTo,missing,
 229,PlanningStatus,enum,Completed During 2018/19
+229,LastUpdatedDate,default,2012-01-01
 229,NetDwellingsRangeFrom,missing,
 229,NetDwellingsRangeTo,missing,
+230,LastUpdatedDate,default,2013-01-01
 230,NetDwellingsRangeFrom,missing,
 230,NetDwellingsRangeTo,missing,
+231,LastUpdatedDate,default,2014-01-01
 231,NetDwellingsRangeFrom,missing,
 231,NetDwellingsRangeTo,missing,
 232,PlanningStatus,enum,Completed During 2018/19
+232,LastUpdatedDate,default,2003-01-01
 232,NetDwellingsRangeFrom,missing,
 232,NetDwellingsRangeTo,missing,
 233,PlanningStatus,enum,Completed During 2017/18
+233,LastUpdatedDate,default,2014-01-01
 233,NetDwellingsRangeFrom,missing,
 233,NetDwellingsRangeTo,missing,
 234,PlanningStatus,enum,Completed During 2017/18
+234,LastUpdatedDate,default,2010-01-01
 234,NetDwellingsRangeFrom,missing,
 234,NetDwellingsRangeTo,missing,
+235,LastUpdatedDate,default,1999-01-01
 235,NetDwellingsRangeFrom,missing,
 235,NetDwellingsRangeTo,missing,
 236,PlanningStatus,enum,Completed During 2018/19
+236,LastUpdatedDate,default,2014-01-01
 236,NetDwellingsRangeFrom,missing,
 236,NetDwellingsRangeTo,missing,
 237,PlanningStatus,enum,Adopted Local Plan
+237,LastUpdatedDate,default,2002-01-01
 237,NetDwellingsRangeFrom,missing,
 237,NetDwellingsRangeTo,missing,
+238,LastUpdatedDate,default,2015-01-01
 238,NetDwellingsRangeFrom,missing,
 238,NetDwellingsRangeTo,missing,
 239,PlanningStatus,enum,Completed During 2016/17
+239,LastUpdatedDate,default,2016-01-01
 239,NetDwellingsRangeFrom,missing,
 239,NetDwellingsRangeTo,missing,
 240,PlanningStatus,enum,Other Commitment
+240,LastUpdatedDate,default,2009-01-01
 240,NetDwellingsRangeFrom,missing,
 240,NetDwellingsRangeTo,missing,
 241,PlanningStatus,enum,Completed During 2018/19
+241,LastUpdatedDate,default,2009-01-01
 241,NetDwellingsRangeFrom,missing,
 241,NetDwellingsRangeTo,missing,
 242,PlanningStatus,enum,Completed During 2016/17
+242,LastUpdatedDate,default,2016-01-01
 242,NetDwellingsRangeFrom,missing,
 242,NetDwellingsRangeTo,missing,
 243,PlanningStatus,enum,Completed During 2016/17
+243,LastUpdatedDate,default,2016-01-01
 243,NetDwellingsRangeFrom,missing,
 243,NetDwellingsRangeTo,missing,
 244,PlanningStatus,enum,Completed During 2017/18
+244,LastUpdatedDate,default,2015-01-01
 244,NetDwellingsRangeFrom,missing,
 244,NetDwellingsRangeTo,missing,
 245,PlanningStatus,enum,Other Commitment
+245,LastUpdatedDate,default,2013-01-01
 245,NetDwellingsRangeFrom,missing,
 245,NetDwellingsRangeTo,missing,
+246,LastUpdatedDate,default,2014-01-01
 246,NetDwellingsRangeFrom,missing,
 246,NetDwellingsRangeTo,missing,
+247,LastUpdatedDate,default,2013-01-01
 247,NetDwellingsRangeFrom,missing,
 247,NetDwellingsRangeTo,missing,
+248,LastUpdatedDate,default,2001-01-01
 248,NetDwellingsRangeFrom,missing,
 248,NetDwellingsRangeTo,missing,
 249,PlanningStatus,enum,Other Commitment
+249,LastUpdatedDate,default,2014-01-01
 249,NetDwellingsRangeFrom,missing,
 249,NetDwellingsRangeTo,missing,
 250,PlanningStatus,enum,Completed During 2018/19
+250,LastUpdatedDate,default,2013-01-01
 250,NetDwellingsRangeFrom,missing,
 250,NetDwellingsRangeTo,missing,
+251,LastUpdatedDate,default,2011-01-01
 251,NetDwellingsRangeFrom,missing,
 251,NetDwellingsRangeTo,missing,
 252,PlanningStatus,enum,Completed During 2018/19
+252,LastUpdatedDate,default,2013-01-01
 252,NetDwellingsRangeFrom,missing,
 252,NetDwellingsRangeTo,missing,
+253,LastUpdatedDate,default,2006-01-01
 253,NetDwellingsRangeFrom,missing,
 253,NetDwellingsRangeTo,missing,
 254,PlanningStatus,enum,Other Commitment
+254,LastUpdatedDate,default,2010-01-01
 254,NetDwellingsRangeFrom,missing,
 254,NetDwellingsRangeTo,missing,
 255,PlanningStatus,enum,Completed During 2017/18
+255,LastUpdatedDate,default,2013-01-01
 255,NetDwellingsRangeFrom,missing,
 255,NetDwellingsRangeTo,missing,
 256,PlanningStatus,enum,Other Commitment
+256,LastUpdatedDate,default,2013-01-01
 256,NetDwellingsRangeFrom,missing,
 256,NetDwellingsRangeTo,missing,
+257,LastUpdatedDate,default,2010-01-01
 257,NetDwellingsRangeFrom,missing,
 257,NetDwellingsRangeTo,missing,
 258,PlanningStatus,enum,Other Commitment
+258,LastUpdatedDate,default,2013-01-01
 258,NetDwellingsRangeFrom,missing,
 258,NetDwellingsRangeTo,missing,
+259,LastUpdatedDate,default,2013-01-01
 259,NetDwellingsRangeFrom,missing,
 259,NetDwellingsRangeTo,missing,
 260,PlanningStatus,enum,Completed During 2018/19
+260,LastUpdatedDate,default,2013-01-01
 260,NetDwellingsRangeFrom,missing,
 260,NetDwellingsRangeTo,missing,
+261,LastUpdatedDate,default,2014-01-01
 261,NetDwellingsRangeFrom,missing,
 261,NetDwellingsRangeTo,missing,
+262,LastUpdatedDate,default,2009-01-01
 262,NetDwellingsRangeFrom,missing,
 262,NetDwellingsRangeTo,missing,
 263,PlanningStatus,enum,Completed During 2018/19
+263,LastUpdatedDate,default,2014-01-01
 263,NetDwellingsRangeFrom,missing,
 263,NetDwellingsRangeTo,missing,
 264,PlanningStatus,enum,Other Commitment
+264,LastUpdatedDate,default,2013-01-01
 264,NetDwellingsRangeFrom,missing,
 264,NetDwellingsRangeTo,missing,
+265,LastUpdatedDate,default,2013-01-01
 265,NetDwellingsRangeFrom,missing,
 265,NetDwellingsRangeTo,missing,
 266,PlanningStatus,enum,Completed During 2018/19
+266,LastUpdatedDate,default,2014-01-01
 266,NetDwellingsRangeFrom,missing,
 266,NetDwellingsRangeTo,missing,
 267,PlanningStatus,enum,Completed During 2018/19
+267,LastUpdatedDate,default,2008-01-01
 267,NetDwellingsRangeFrom,missing,
 267,NetDwellingsRangeTo,missing,
 268,PlanningStatus,enum,Other Commitment
+268,LastUpdatedDate,default,2013-01-01
 268,NetDwellingsRangeFrom,missing,
 268,NetDwellingsRangeTo,missing,
 269,PlanningStatus,enum,Completed During 2018/19
+269,LastUpdatedDate,default,2013-01-01
 269,NetDwellingsRangeFrom,missing,
 269,NetDwellingsRangeTo,missing,
 270,PlanningStatus,enum,Other Commitment
+270,LastUpdatedDate,default,2013-01-01
 270,NetDwellingsRangeFrom,missing,
 270,NetDwellingsRangeTo,missing,
 271,PlanningStatus,enum,Other Commitment
+271,LastUpdatedDate,default,2007-01-01
 271,NetDwellingsRangeFrom,missing,
 271,NetDwellingsRangeTo,missing,
 272,PlanningStatus,enum,Other Commitment
+272,LastUpdatedDate,default,2013-01-01
 272,NetDwellingsRangeFrom,missing,
 272,NetDwellingsRangeTo,missing,
 273,PlanningStatus,enum,Other Commitment
+273,LastUpdatedDate,default,2013-01-01
 273,NetDwellingsRangeFrom,missing,
 273,NetDwellingsRangeTo,missing,
+274,LastUpdatedDate,default,2015-01-01
 274,NetDwellingsRangeFrom,missing,
 274,NetDwellingsRangeTo,missing,
 275,PlanningStatus,enum,Completed During 2018/19
+275,LastUpdatedDate,default,2015-01-01
 275,NetDwellingsRangeFrom,missing,
 275,NetDwellingsRangeTo,missing,
 276,PlanningStatus,enum,Completed During 2017/18
+276,LastUpdatedDate,default,2015-01-01
 276,NetDwellingsRangeFrom,missing,
 276,NetDwellingsRangeTo,missing,
+277,LastUpdatedDate,default,2006-01-01
 277,NetDwellingsRangeFrom,missing,
 277,NetDwellingsRangeTo,missing,
 278,PlanningStatus,enum,Completed During 2017/18
+278,LastUpdatedDate,default,2016-01-01
 278,NetDwellingsRangeFrom,missing,
 278,NetDwellingsRangeTo,missing,
+279,LastUpdatedDate,default,2016-01-01
 279,NetDwellingsRangeFrom,missing,
 279,NetDwellingsRangeTo,missing,
 280,PlanningStatus,enum,Completed During 2017/18
+280,LastUpdatedDate,default,2009-01-01
 280,NetDwellingsRangeFrom,missing,
 280,NetDwellingsRangeTo,missing,
 281,PlanningStatus,enum,Completed During 2017/18
+281,LastUpdatedDate,default,2015-01-01
 281,NetDwellingsRangeFrom,missing,
 281,NetDwellingsRangeTo,missing,
 282,PlanningStatus,enum,Completed During 2016/17
+282,LastUpdatedDate,default,2016-01-01
 282,NetDwellingsRangeFrom,missing,
 282,NetDwellingsRangeTo,missing,
+283,LastUpdatedDate,default,2016-01-01
 283,NetDwellingsRangeFrom,missing,
 283,NetDwellingsRangeTo,missing,
 284,PlanningStatus,enum,Completed During 2016/17
+284,LastUpdatedDate,default,2016-01-01
 284,NetDwellingsRangeFrom,missing,
 284,NetDwellingsRangeTo,missing,
 285,PlanningStatus,enum,Completed During 2018/19
+285,LastUpdatedDate,default,2015-01-01
 285,NetDwellingsRangeFrom,missing,
 285,NetDwellingsRangeTo,missing,
+286,LastUpdatedDate,default,2015-01-01
 286,NetDwellingsRangeFrom,missing,
 286,NetDwellingsRangeTo,missing,
 287,PlanningStatus,enum,Other Commitment
+287,LastUpdatedDate,default,2015-01-01
 287,NetDwellingsRangeFrom,missing,
 287,NetDwellingsRangeTo,missing,
 288,PlanningStatus,enum,Other Commitment
+288,LastUpdatedDate,default,2012-01-01
 288,NetDwellingsRangeFrom,missing,
 288,NetDwellingsRangeTo,missing,
 289,PlanningStatus,enum,Completed During 2016/17
+289,LastUpdatedDate,default,2016-01-01
 289,NetDwellingsRangeFrom,missing,
 289,NetDwellingsRangeTo,missing,
 290,PlanningStatus,enum,Other Commitment
+290,LastUpdatedDate,default,2015-01-01
 290,NetDwellingsRangeFrom,missing,
 290,NetDwellingsRangeTo,missing,
 291,PlanningStatus,enum,Other Commitment
+291,LastUpdatedDate,default,2015-01-01
 291,NetDwellingsRangeFrom,missing,
 291,NetDwellingsRangeTo,missing,
 292,PlanningStatus,enum,Completed During 2018/19
+292,LastUpdatedDate,default,2015-01-01
 292,NetDwellingsRangeFrom,missing,
 292,NetDwellingsRangeTo,missing,
+293,LastUpdatedDate,default,2009-01-01
 293,NetDwellingsRangeFrom,missing,
 293,NetDwellingsRangeTo,missing,
 294,PlanningStatus,enum,Completed During 2018/19
+294,LastUpdatedDate,default,2015-01-01
 294,NetDwellingsRangeFrom,missing,
 294,NetDwellingsRangeTo,missing,
 295,PlanningStatus,enum,Completed During 2016/17
+295,LastUpdatedDate,default,2016-01-01
 295,NetDwellingsRangeFrom,missing,
 295,NetDwellingsRangeTo,missing,
 296,PlanningStatus,enum,Completed During 2016/17
+296,LastUpdatedDate,default,2016-01-01
 296,NetDwellingsRangeFrom,missing,
 296,NetDwellingsRangeTo,missing,
 297,PlanningStatus,enum,Completed During 2018/19
+297,LastUpdatedDate,default,2012-01-01
 297,NetDwellingsRangeFrom,missing,
 297,NetDwellingsRangeTo,missing,
 298,PlanningStatus,enum,Other Commitment
+298,LastUpdatedDate,default,2015-01-01
 298,NetDwellingsRangeFrom,missing,
 298,NetDwellingsRangeTo,missing,
 299,PlanningStatus,enum,Completed During 2016/17
+299,LastUpdatedDate,default,2016-01-01
 299,NetDwellingsRangeFrom,missing,
 299,NetDwellingsRangeTo,missing,
 300,PlanningStatus,enum,Other Commitment
+300,LastUpdatedDate,default,2015-01-01
 300,NetDwellingsRangeFrom,missing,
 300,NetDwellingsRangeTo,missing,
 301,PlanningStatus,enum,Completed During 2016/17
+301,LastUpdatedDate,default,2016-01-01
 301,NetDwellingsRangeFrom,missing,
 301,NetDwellingsRangeTo,missing,
+302,LastUpdatedDate,default,2016-01-01
 302,NetDwellingsRangeFrom,missing,
 302,NetDwellingsRangeTo,missing,
 303,PlanningStatus,enum,Completed During 2018/19
+303,LastUpdatedDate,default,2015-01-01
 303,NetDwellingsRangeFrom,missing,
 303,NetDwellingsRangeTo,missing,
+304,LastUpdatedDate,default,2016-01-01
 304,NetDwellingsRangeFrom,missing,
 304,NetDwellingsRangeTo,missing,
+305,LastUpdatedDate,default,2015-01-01
 305,NetDwellingsRangeFrom,missing,
 305,NetDwellingsRangeTo,missing,
 306,PlanningStatus,enum,Completed During 2016/17
+306,LastUpdatedDate,default,2016-01-01
 306,NetDwellingsRangeFrom,missing,
 306,NetDwellingsRangeTo,missing,
+307,LastUpdatedDate,default,2010-01-01
 307,NetDwellingsRangeFrom,missing,
 307,NetDwellingsRangeTo,missing,
+308,LastUpdatedDate,default,2011-01-01
 308,NetDwellingsRangeFrom,missing,
 308,NetDwellingsRangeTo,missing,
 309,PlanningStatus,enum,Completed During 2016/17
+309,LastUpdatedDate,default,2016-01-01
 309,NetDwellingsRangeFrom,missing,
 309,NetDwellingsRangeTo,missing,
 310,PlanningStatus,enum,Completed During 2018/19
+310,LastUpdatedDate,default,2015-01-01
 310,NetDwellingsRangeFrom,missing,
 310,NetDwellingsRangeTo,missing,
 311,PlanningStatus,enum,Completed During 2017/18
+311,LastUpdatedDate,default,2015-01-01
 311,NetDwellingsRangeFrom,missing,
 311,NetDwellingsRangeTo,missing,
+312,LastUpdatedDate,default,2015-01-01
 312,NetDwellingsRangeFrom,missing,
 312,NetDwellingsRangeTo,missing,
 313,PlanningStatus,enum,Completed During 2017/18
+313,LastUpdatedDate,default,2015-01-01
 313,NetDwellingsRangeFrom,missing,
 313,NetDwellingsRangeTo,missing,
+314,LastUpdatedDate,default,2012-01-01
 314,NetDwellingsRangeFrom,missing,
 314,NetDwellingsRangeTo,missing,
+315,LastUpdatedDate,default,2016-01-01
 315,NetDwellingsRangeFrom,missing,
 315,NetDwellingsRangeTo,missing,
 316,PlanningStatus,enum,Completed During 2018/19
+316,LastUpdatedDate,default,2006-01-01
 316,NetDwellingsRangeFrom,missing,
 316,NetDwellingsRangeTo,missing,
+317,LastUpdatedDate,default,2015-01-01
 317,NetDwellingsRangeFrom,missing,
 317,NetDwellingsRangeTo,missing,
 318,PlanningStatus,enum,Other Commitment
+318,LastUpdatedDate,default,2015-01-01
 318,NetDwellingsRangeFrom,missing,
 318,NetDwellingsRangeTo,missing,
 319,PlanningStatus,enum,Completed During 2016/17
+319,LastUpdatedDate,default,2016-01-01
 319,NetDwellingsRangeFrom,missing,
 319,NetDwellingsRangeTo,missing,
+320,LastUpdatedDate,default,2016-01-01
 320,NetDwellingsRangeFrom,missing,
 320,NetDwellingsRangeTo,missing,
 321,PlanningStatus,enum,Completed During 2016/17
+321,LastUpdatedDate,default,2016-01-01
 321,NetDwellingsRangeFrom,missing,
 321,NetDwellingsRangeTo,missing,
 322,PlanningStatus,enum,Completed During 2016/17
+322,LastUpdatedDate,default,2016-01-01
 322,NetDwellingsRangeFrom,missing,
 322,NetDwellingsRangeTo,missing,
 323,PlanningStatus,enum,Completed During 2018/19
+323,LastUpdatedDate,default,2015-01-01
 323,NetDwellingsRangeFrom,missing,
 323,NetDwellingsRangeTo,missing,
+324,LastUpdatedDate,default,2016-01-01
 324,NetDwellingsRangeFrom,missing,
 324,NetDwellingsRangeTo,missing,
 325,PlanningStatus,enum,Other Commitment
+325,LastUpdatedDate,default,2015-01-01
 325,NetDwellingsRangeFrom,missing,
 325,NetDwellingsRangeTo,missing,
+326,LastUpdatedDate,default,2015-01-01
 326,NetDwellingsRangeFrom,missing,
 326,NetDwellingsRangeTo,missing,
 327,PlanningStatus,enum,Completed During 2018/19
+327,LastUpdatedDate,default,2016-01-01
 327,NetDwellingsRangeFrom,missing,
 327,NetDwellingsRangeTo,missing,
 328,PlanningStatus,enum,Completed During 2016/17
+328,LastUpdatedDate,default,2016-01-01
 328,NetDwellingsRangeFrom,missing,
 328,NetDwellingsRangeTo,missing,
+329,LastUpdatedDate,default,2016-01-01
 329,NetDwellingsRangeFrom,missing,
 329,NetDwellingsRangeTo,missing,
 330,PlanningStatus,enum,Completed During 2018/19
+330,LastUpdatedDate,default,2015-01-01
 330,NetDwellingsRangeFrom,missing,
 330,NetDwellingsRangeTo,missing,
 331,PlanningStatus,enum,Other Commitment
+331,LastUpdatedDate,default,2015-01-01
 331,NetDwellingsRangeFrom,missing,
 331,NetDwellingsRangeTo,missing,
+332,LastUpdatedDate,default,2016-01-01
 332,NetDwellingsRangeFrom,missing,
 332,NetDwellingsRangeTo,missing,
 333,PlanningStatus,enum,Completed During 2018/19
+333,LastUpdatedDate,default,2016-01-01
 333,NetDwellingsRangeFrom,missing,
 333,NetDwellingsRangeTo,missing,
 334,PlanningStatus,enum,Completed During 2016/17
+334,LastUpdatedDate,default,2016-01-01
 334,NetDwellingsRangeFrom,missing,
 334,NetDwellingsRangeTo,missing,
+335,LastUpdatedDate,default,2009-01-01
 335,NetDwellingsRangeFrom,missing,
 335,NetDwellingsRangeTo,missing,
+336,LastUpdatedDate,default,2015-01-01
 336,NetDwellingsRangeFrom,missing,
 336,NetDwellingsRangeTo,missing,
+337,LastUpdatedDate,default,2015-01-01
 337,NetDwellingsRangeFrom,missing,
 337,NetDwellingsRangeTo,missing,
 338,PlanningStatus,enum,Completed During 2017/18
+338,LastUpdatedDate,default,2016-01-01
 338,NetDwellingsRangeFrom,missing,
 338,NetDwellingsRangeTo,missing,
+339,LastUpdatedDate,default,2016-01-01
 339,NetDwellingsRangeFrom,missing,
 339,NetDwellingsRangeTo,missing,
+340,LastUpdatedDate,default,2015-01-01
 340,NetDwellingsRangeFrom,missing,
 340,NetDwellingsRangeTo,missing,
 341,PlanningStatus,enum,Other Commitment
+341,LastUpdatedDate,default,2015-01-01
 341,NetDwellingsRangeFrom,missing,
 341,NetDwellingsRangeTo,missing,
 342,PlanningStatus,enum,Completed During 2017/18
+342,LastUpdatedDate,default,2016-01-01
 342,NetDwellingsRangeFrom,missing,
 342,NetDwellingsRangeTo,missing,
+343,LastUpdatedDate,default,2015-01-01
 343,NetDwellingsRangeFrom,missing,
 343,NetDwellingsRangeTo,missing,
 344,PlanningStatus,enum,Completed During 2017/18
+344,LastUpdatedDate,default,2016-01-01
 344,NetDwellingsRangeFrom,missing,
 344,NetDwellingsRangeTo,missing,
 345,PlanningStatus,enum,Completed During 2016/17
+345,LastUpdatedDate,default,2016-01-01
 345,NetDwellingsRangeFrom,missing,
 345,NetDwellingsRangeTo,missing,
 346,PlanningStatus,enum,Completed During 2018/19
+346,LastUpdatedDate,default,2015-01-01
 346,NetDwellingsRangeFrom,missing,
 346,NetDwellingsRangeTo,missing,
+347,LastUpdatedDate,default,2016-01-01
 347,NetDwellingsRangeFrom,missing,
 347,NetDwellingsRangeTo,missing,
+348,LastUpdatedDate,default,2016-01-01
 348,NetDwellingsRangeFrom,missing,
 348,NetDwellingsRangeTo,missing,
+349,LastUpdatedDate,default,2010-01-01
 349,NetDwellingsRangeFrom,missing,
 349,NetDwellingsRangeTo,missing,
+350,LastUpdatedDate,default,2016-01-01
 350,NetDwellingsRangeFrom,missing,
 350,NetDwellingsRangeTo,missing,
+351,LastUpdatedDate,default,2016-01-01
 351,NetDwellingsRangeFrom,missing,
 351,NetDwellingsRangeTo,missing,
 352,PlanningStatus,enum,Completed During 2017/18
+352,LastUpdatedDate,default,2015-01-01
 352,NetDwellingsRangeFrom,missing,
 352,NetDwellingsRangeTo,missing,
+353,LastUpdatedDate,default,2016-01-01
 353,NetDwellingsRangeFrom,missing,
 353,NetDwellingsRangeTo,missing,
+354,LastUpdatedDate,default,2009-01-01
 354,NetDwellingsRangeFrom,missing,
 354,NetDwellingsRangeTo,missing,
 355,PlanningStatus,enum,Completed During 2018/19
+355,LastUpdatedDate,default,2012-01-01
 355,NetDwellingsRangeFrom,missing,
 355,NetDwellingsRangeTo,missing,
 356,PlanningStatus,enum,Completed During 2018/19
+356,LastUpdatedDate,default,2015-01-01
 356,NetDwellingsRangeFrom,missing,
 356,NetDwellingsRangeTo,missing,
 357,PlanningStatus,enum,Completed During 2017/18
+357,LastUpdatedDate,default,2005-01-01
 357,NetDwellingsRangeFrom,missing,
 357,NetDwellingsRangeTo,missing,
 358,PlanningStatus,enum,Completed During 2016/17
+358,LastUpdatedDate,default,2016-01-01
 358,NetDwellingsRangeFrom,missing,
 358,NetDwellingsRangeTo,missing,
+359,LastUpdatedDate,default,2016-01-01
 359,NetDwellingsRangeFrom,missing,
 359,NetDwellingsRangeTo,missing,
 360,PlanningStatus,enum,Other Commitment
+360,LastUpdatedDate,default,2011-01-01
 360,NetDwellingsRangeFrom,missing,
 360,NetDwellingsRangeTo,missing,
 361,PlanningStatus,enum,Completed During 2018/19
+361,LastUpdatedDate,default,2015-01-01
 361,NetDwellingsRangeFrom,missing,
 361,NetDwellingsRangeTo,missing,
 362,PlanningStatus,enum,Completed During 2017/18
+362,LastUpdatedDate,default,2016-01-01
 362,NetDwellingsRangeFrom,missing,
 362,NetDwellingsRangeTo,missing,
+363,LastUpdatedDate,default,2015-01-01
 363,NetDwellingsRangeFrom,missing,
 363,NetDwellingsRangeTo,missing,
+364,LastUpdatedDate,default,2016-01-01
 364,NetDwellingsRangeFrom,missing,
 364,NetDwellingsRangeTo,missing,
+365,LastUpdatedDate,default,2008-01-01
 365,NetDwellingsRangeFrom,missing,
 365,NetDwellingsRangeTo,missing,
 366,PlanningStatus,enum,Other Commitment
+366,LastUpdatedDate,default,2015-01-01
 366,NetDwellingsRangeFrom,missing,
 366,NetDwellingsRangeTo,missing,
 367,PlanningStatus,enum,Completed During 2016/17
+367,LastUpdatedDate,default,2016-01-01
 367,NetDwellingsRangeFrom,missing,
 367,NetDwellingsRangeTo,missing,
 368,PlanningStatus,enum,Completed During 2017/18
+368,LastUpdatedDate,default,2008-01-01
 368,NetDwellingsRangeFrom,missing,
 368,NetDwellingsRangeTo,missing,
 369,PlanningStatus,enum,Adopted Local Plan
+369,LastUpdatedDate,default,2014-01-01
 369,NetDwellingsRangeFrom,missing,
 369,NetDwellingsRangeTo,missing,
 370,PlanningStatus,enum,Completed During 2018/19
+370,LastUpdatedDate,default,2013-01-01
 370,NetDwellingsRangeFrom,missing,
 370,NetDwellingsRangeTo,missing,
+371,LastUpdatedDate,default,2016-01-01
 371,NetDwellingsRangeFrom,missing,
 371,NetDwellingsRangeTo,missing,
+372,LastUpdatedDate,default,2016-01-01
 372,NetDwellingsRangeFrom,missing,
 372,NetDwellingsRangeTo,missing,
 373,PlanningStatus,enum,Completed During 2016/17
+373,LastUpdatedDate,default,2016-01-01
 373,NetDwellingsRangeFrom,missing,
 373,NetDwellingsRangeTo,missing,
 374,PlanningStatus,enum,Completed During 2017/18
+374,LastUpdatedDate,default,2010-01-01
 374,NetDwellingsRangeFrom,missing,
 374,NetDwellingsRangeTo,missing,
 375,PlanningStatus,enum,Completed During 2017/18
+375,LastUpdatedDate,default,2014-01-01
 375,NetDwellingsRangeFrom,missing,
 375,NetDwellingsRangeTo,missing,
+376,LastUpdatedDate,default,2016-01-01
 376,NetDwellingsRangeFrom,missing,
 376,NetDwellingsRangeTo,missing,
 377,PlanningStatus,enum,Completed During 2017/18
+377,LastUpdatedDate,default,2008-01-01
 377,NetDwellingsRangeFrom,missing,
 377,NetDwellingsRangeTo,missing,
+378,LastUpdatedDate,default,2016-01-01
 378,NetDwellingsRangeFrom,missing,
 378,NetDwellingsRangeTo,missing,
 379,PlanningStatus,enum,Adopted Local Plan
+379,LastUpdatedDate,default,2013-01-01
 379,NetDwellingsRangeFrom,missing,
 379,NetDwellingsRangeTo,missing,
+380,LastUpdatedDate,default,2008-01-01
 380,NetDwellingsRangeFrom,missing,
 380,NetDwellingsRangeTo,missing,
 381,PlanningStatus,enum,Completed During 2016/17
+381,LastUpdatedDate,default,2016-01-01
 381,NetDwellingsRangeFrom,missing,
 381,NetDwellingsRangeTo,missing,
+382,LastUpdatedDate,default,2015-01-01
 382,NetDwellingsRangeFrom,missing,
 382,NetDwellingsRangeTo,missing,
 383,PlanningStatus,enum,Completed During 2016/17
+383,LastUpdatedDate,default,2016-01-01
 383,NetDwellingsRangeFrom,missing,
 383,NetDwellingsRangeTo,missing,
 384,PlanningStatus,enum,Adopted Local Plan
+384,LastUpdatedDate,default,2014-01-01
 384,NetDwellingsRangeFrom,missing,
 384,NetDwellingsRangeTo,missing,
 385,PlanningStatus,enum,Adopted Local Plan
+385,LastUpdatedDate,default,2014-01-01
 385,NetDwellingsRangeFrom,missing,
 385,NetDwellingsRangeTo,missing,
 386,PlanningStatus,enum,Completed During 2017/18
+386,LastUpdatedDate,default,2016-01-01
 386,NetDwellingsRangeFrom,missing,
 386,NetDwellingsRangeTo,missing,
 387,PlanningStatus,enum,Completed During 2018/19
+387,LastUpdatedDate,default,2014-01-01
 387,NetDwellingsRangeFrom,missing,
 387,NetDwellingsRangeTo,missing,
 388,PlanningStatus,enum,Completed During 2017/18
+388,LastUpdatedDate,default,2012-01-01
 388,NetDwellingsRangeFrom,missing,
 388,NetDwellingsRangeTo,missing,
 389,PlanningStatus,enum,Completed During 2017/18
+389,LastUpdatedDate,default,2006-01-01
 389,NetDwellingsRangeFrom,missing,
 389,NetDwellingsRangeTo,missing,
 390,PlanningStatus,enum,Completed During 2018/19
+390,LastUpdatedDate,default,2013-01-01
 390,NetDwellingsRangeFrom,missing,
 390,NetDwellingsRangeTo,missing,
+391,LastUpdatedDate,default,2009-01-01
 391,NetDwellingsRangeFrom,missing,
 391,NetDwellingsRangeTo,missing,
 392,PlanningStatus,enum,Other Commitment
+392,LastUpdatedDate,default,2002-01-01
 392,NetDwellingsRangeFrom,missing,
 392,NetDwellingsRangeTo,missing,
 393,PlanningStatus,enum,Completed During 2018/19
+393,LastUpdatedDate,default,2010-01-01
 393,NetDwellingsRangeFrom,missing,
 393,NetDwellingsRangeTo,missing,
+394,LastUpdatedDate,default,2011-01-01
 394,NetDwellingsRangeFrom,missing,
 394,NetDwellingsRangeTo,missing,
 395,PlanningStatus,enum,Completed During 2017/18
+395,LastUpdatedDate,default,2008-01-01
 395,NetDwellingsRangeFrom,missing,
 395,NetDwellingsRangeTo,missing,
+396,LastUpdatedDate,default,2011-01-01
 396,NetDwellingsRangeFrom,missing,
 396,NetDwellingsRangeTo,missing,
 397,PlanningStatus,enum,Completed During 2017/18
+397,LastUpdatedDate,default,2011-01-01
 397,NetDwellingsRangeFrom,missing,
 397,NetDwellingsRangeTo,missing,
 398,PlanningStatus,enum,Other Commitment
+398,LastUpdatedDate,default,2011-01-01
 398,NetDwellingsRangeFrom,missing,
 398,NetDwellingsRangeTo,missing,
 399,PlanningStatus,enum,Completed During 2017/18
+399,LastUpdatedDate,default,2013-01-01
 399,NetDwellingsRangeFrom,missing,
 399,NetDwellingsRangeTo,missing,
+400,LastUpdatedDate,default,2012-01-01
 400,NetDwellingsRangeFrom,missing,
 400,NetDwellingsRangeTo,missing,
 401,PlanningStatus,enum,Other Commitment
+401,LastUpdatedDate,default,2009-01-01
 401,NetDwellingsRangeFrom,missing,
 401,NetDwellingsRangeTo,missing,
 402,PlanningStatus,enum,Adopted Local Plan
+402,LastUpdatedDate,default,2008-01-01
 402,NetDwellingsRangeFrom,missing,
 402,NetDwellingsRangeTo,missing,
 403,PlanningStatus,enum,Adopted Local Plan
+403,LastUpdatedDate,default,2008-01-01
 403,NetDwellingsRangeFrom,missing,
 403,NetDwellingsRangeTo,missing,
+404,LastUpdatedDate,default,2014-01-01
 404,NetDwellingsRangeFrom,missing,
 404,NetDwellingsRangeTo,missing,
 405,PlanningStatus,enum,Adopted Local Plan
+405,LastUpdatedDate,default,2014-01-01
 405,NetDwellingsRangeFrom,missing,
 405,NetDwellingsRangeTo,missing,
 406,PlanningStatus,enum,Adopted Local Plan
+406,LastUpdatedDate,default,2014-01-01
 406,NetDwellingsRangeFrom,missing,
 406,NetDwellingsRangeTo,missing,
 407,PlanningStatus,enum,Adopted Local Plan
+407,LastUpdatedDate,default,2014-01-01
 407,NetDwellingsRangeFrom,missing,
 407,NetDwellingsRangeTo,missing,
 408,PlanningStatus,enum,Adopted Local Plan
+408,LastUpdatedDate,default,2014-01-01
 408,NetDwellingsRangeFrom,missing,
 408,NetDwellingsRangeTo,missing,
 409,PlanningStatus,enum,Adopted Local Plan
+409,LastUpdatedDate,default,2008-01-01
 409,NetDwellingsRangeFrom,missing,
 409,NetDwellingsRangeTo,missing,
+410,LastUpdatedDate,default,2014-01-01
 410,NetDwellingsRangeFrom,missing,
 410,NetDwellingsRangeTo,missing,
 411,PlanningStatus,enum,Adopted Local Plan
+411,LastUpdatedDate,default,2003-01-01
 411,NetDwellingsRangeFrom,missing,
 411,NetDwellingsRangeTo,missing,
 412,PlanningStatus,enum,Adopted Local Plan
+412,LastUpdatedDate,default,2014-01-01
 412,NetDwellingsRangeFrom,missing,
 412,NetDwellingsRangeTo,missing,
 413,PlanningStatus,enum,Adopted Local Plan
+413,LastUpdatedDate,default,2014-01-01
 413,NetDwellingsRangeFrom,missing,
 413,NetDwellingsRangeTo,missing,
 414,PlanningStatus,enum,Adopted Local Plan
+414,LastUpdatedDate,default,2014-01-01
 414,NetDwellingsRangeFrom,missing,
 414,NetDwellingsRangeTo,missing,
 415,PlanningStatus,enum,Adopted Local Plan
+415,LastUpdatedDate,default,2003-01-01
 415,NetDwellingsRangeFrom,missing,
 415,NetDwellingsRangeTo,missing,
 416,PlanningStatus,enum,Adopted Local Plan
+416,LastUpdatedDate,default,2014-01-01
 416,NetDwellingsRangeFrom,missing,
 416,NetDwellingsRangeTo,missing,
 417,PlanningStatus,enum,Adopted Local Plan
+417,LastUpdatedDate,default,2014-01-01
 417,NetDwellingsRangeFrom,missing,
 417,NetDwellingsRangeTo,missing,
 418,PlanningStatus,enum,Adopted Local Plan
+418,LastUpdatedDate,default,2014-01-01
 418,NetDwellingsRangeFrom,missing,
 418,NetDwellingsRangeTo,missing,
 419,PlanningStatus,enum,Adopted Local Plan
+419,LastUpdatedDate,default,2014-01-01
 419,NetDwellingsRangeFrom,missing,
 419,NetDwellingsRangeTo,missing,
+420,LastUpdatedDate,default,2003-01-01
 420,NetDwellingsRangeFrom,missing,
 420,NetDwellingsRangeTo,missing,
 421,PlanningStatus,enum,Completed During 2018/19
+421,LastUpdatedDate,default,2004-01-01
 421,NetDwellingsRangeFrom,missing,
 421,NetDwellingsRangeTo,missing,
+422,LastUpdatedDate,default,2006-01-01
 422,NetDwellingsRangeFrom,missing,
 422,NetDwellingsRangeTo,missing,
 423,PlanningStatus,enum,Completed During 2016/17
+423,LastUpdatedDate,default,2016-01-01
 423,NetDwellingsRangeFrom,missing,
 423,NetDwellingsRangeTo,missing,
 424,PlanningStatus,enum,Adopted Local Plan
+424,LastUpdatedDate,default,2014-01-01
 424,NetDwellingsRangeFrom,missing,
 424,NetDwellingsRangeTo,missing,
+425,LastUpdatedDate,default,2010-01-01
 425,NetDwellingsRangeFrom,missing,
 425,NetDwellingsRangeTo,missing,
 426,PlanningStatus,enum,Adopted Local Plan
+426,LastUpdatedDate,default,2007-01-01
 426,NetDwellingsRangeFrom,missing,
 426,NetDwellingsRangeTo,missing,
 427,PlanningStatus,enum,Adopted Local Plan
+427,LastUpdatedDate,default,2016-01-01
 427,NetDwellingsRangeFrom,missing,
 427,NetDwellingsRangeTo,missing,
 428,PlanningStatus,enum,Other Commitment
+428,LastUpdatedDate,default,2016-01-01
 428,NetDwellingsRangeFrom,missing,
 428,NetDwellingsRangeTo,missing,
+429,LastUpdatedDate,default,2011-01-01
 429,NetDwellingsRangeFrom,missing,
 429,NetDwellingsRangeTo,missing,
+430,LastUpdatedDate,default,2012-01-01
 430,NetDwellingsRangeFrom,missing,
 430,NetDwellingsRangeTo,missing,
+431,LastUpdatedDate,default,2006-01-01
 431,NetDwellingsRangeFrom,missing,
 431,NetDwellingsRangeTo,missing,
+432,LastUpdatedDate,default,2016-01-01
 432,NetDwellingsRangeFrom,missing,
 432,NetDwellingsRangeTo,missing,
 433,PlanningStatus,enum,Completed During 2016/17
+433,LastUpdatedDate,default,2016-01-01
 433,NetDwellingsRangeFrom,missing,
 433,NetDwellingsRangeTo,missing,
 434,PlanningStatus,enum,Completed During 2017/18
+434,LastUpdatedDate,default,2010-01-01
 434,NetDwellingsRangeFrom,missing,
 434,NetDwellingsRangeTo,missing,
 435,PlanningStatus,enum,Other Commitment
+435,LastUpdatedDate,default,2007-01-01
 435,NetDwellingsRangeFrom,missing,
 435,NetDwellingsRangeTo,missing,
 436,PlanningStatus,enum,Completed During 2016/17
+436,LastUpdatedDate,default,2016-01-01
 436,NetDwellingsRangeFrom,missing,
 436,NetDwellingsRangeTo,missing,
+437,LastUpdatedDate,default,2010-01-01
 437,NetDwellingsRangeFrom,missing,
 437,NetDwellingsRangeTo,missing,
 438,PlanningStatus,enum,Completed During 2017/18
+438,LastUpdatedDate,default,2003-01-01
 438,NetDwellingsRangeFrom,missing,
 438,NetDwellingsRangeTo,missing,
+439,LastUpdatedDate,default,2014-01-01
 439,NetDwellingsRangeFrom,missing,
 439,NetDwellingsRangeTo,missing,
+440,LastUpdatedDate,default,2014-01-01
 440,NetDwellingsRangeFrom,missing,
 440,NetDwellingsRangeTo,missing,
 441,PlanningStatus,enum,Completed During 2016/7
+441,LastUpdatedDate,default,2017-01-01
 441,NetDwellingsRangeFrom,missing,
 441,NetDwellingsRangeTo,missing,
+442,LastUpdatedDate,default,2004-01-01
 442,NetDwellingsRangeFrom,missing,
 442,NetDwellingsRangeTo,missing,
+443,LastUpdatedDate,default,2002-01-01
 443,NetDwellingsRangeFrom,missing,
 443,NetDwellingsRangeTo,missing,
 444,PlanningStatus,enum,Completed During 2018/19
+444,LastUpdatedDate,default,2002-01-01
 444,NetDwellingsRangeFrom,missing,
 444,NetDwellingsRangeTo,missing,
 445,PlanningStatus,enum,Other Commitment
+445,LastUpdatedDate,default,2015-01-01
 445,NetDwellingsRangeFrom,missing,
 445,NetDwellingsRangeTo,missing,
+446,LastUpdatedDate,default,2018-01-01
 446,NetDwellingsRangeFrom,missing,
 446,NetDwellingsRangeTo,missing,
+447,LastUpdatedDate,default,2018-01-01
 447,NetDwellingsRangeFrom,missing,
 447,NetDwellingsRangeTo,missing,
+448,LastUpdatedDate,default,2018-01-01
 448,NetDwellingsRangeFrom,missing,
 448,NetDwellingsRangeTo,missing,
+449,LastUpdatedDate,default,2018-01-01
 449,NetDwellingsRangeFrom,missing,
 449,NetDwellingsRangeTo,missing,
 450,PlanningStatus,enum,Completed During 2017/18
+450,LastUpdatedDate,default,2018-01-01
 450,NetDwellingsRangeFrom,missing,
 450,NetDwellingsRangeTo,missing,
 451,PlanningStatus,enum,Completed During 2018/19
+451,LastUpdatedDate,default,2018-01-01
 451,NetDwellingsRangeFrom,missing,
 451,NetDwellingsRangeTo,missing,
+452,LastUpdatedDate,default,2018-01-01
 452,NetDwellingsRangeFrom,missing,
 452,NetDwellingsRangeTo,missing,
 453,PlanningStatus,enum,Completed During 2018/19
+453,LastUpdatedDate,default,2018-01-01
 453,NetDwellingsRangeFrom,missing,
 453,NetDwellingsRangeTo,missing,
 454,PlanningStatus,enum,Completed During 2018/19
+454,LastUpdatedDate,default,2018-01-01
 454,NetDwellingsRangeFrom,missing,
 454,NetDwellingsRangeTo,missing,
+455,LastUpdatedDate,default,2018-01-01
 455,NetDwellingsRangeFrom,missing,
 455,NetDwellingsRangeTo,missing,
+456,LastUpdatedDate,default,2018-01-01
 456,NetDwellingsRangeFrom,missing,
 456,NetDwellingsRangeTo,missing,
+457,LastUpdatedDate,default,2018-01-01
 457,NetDwellingsRangeFrom,missing,
 457,NetDwellingsRangeTo,missing,
+458,LastUpdatedDate,default,2018-01-01
 458,NetDwellingsRangeFrom,missing,
 458,NetDwellingsRangeTo,missing,
 459,PlanningStatus,enum,Completed During 2018/19
+459,LastUpdatedDate,default,2018-01-01
 459,NetDwellingsRangeFrom,missing,
 459,NetDwellingsRangeTo,missing,
 460,PlanningStatus,enum,Completed During 2018/19
+460,LastUpdatedDate,default,2018-01-01
 460,NetDwellingsRangeFrom,missing,
 460,NetDwellingsRangeTo,missing,
+461,LastUpdatedDate,default,2018-01-01
 461,NetDwellingsRangeFrom,missing,
 461,NetDwellingsRangeTo,missing,
+462,LastUpdatedDate,default,2018-01-01
 462,NetDwellingsRangeFrom,missing,
 462,NetDwellingsRangeTo,missing,
 463,PlanningStatus,enum,Completed During 2018/19
+463,LastUpdatedDate,default,2018-01-01
 463,NetDwellingsRangeFrom,missing,
 463,NetDwellingsRangeTo,missing,
 464,PlanningStatus,enum,Completed During 2018/19
+464,LastUpdatedDate,default,2018-01-01
 464,NetDwellingsRangeFrom,missing,
 464,NetDwellingsRangeTo,missing,
+465,LastUpdatedDate,default,2018-01-01
 465,NetDwellingsRangeFrom,missing,
 465,NetDwellingsRangeTo,missing,
 466,PlanningStatus,enum,Completed During 2018/19
+466,LastUpdatedDate,default,2018-01-01
 466,NetDwellingsRangeFrom,missing,
 466,NetDwellingsRangeTo,missing,
+467,LastUpdatedDate,default,2018-01-01
 467,NetDwellingsRangeFrom,missing,
 467,NetDwellingsRangeTo,missing,
 468,PlanningStatus,enum,Completed During 2018/19
+468,LastUpdatedDate,default,2018-01-01
 468,NetDwellingsRangeFrom,missing,
 468,NetDwellingsRangeTo,missing,
+469,LastUpdatedDate,default,2018-01-01
 469,NetDwellingsRangeFrom,missing,
 469,NetDwellingsRangeTo,missing,
 470,PlanningStatus,enum,Completed During 2018/19
+470,LastUpdatedDate,default,2018-01-01
 470,NetDwellingsRangeFrom,missing,
 470,NetDwellingsRangeTo,missing,
+471,LastUpdatedDate,default,2018-01-01
 471,NetDwellingsRangeFrom,missing,
 471,NetDwellingsRangeTo,missing,
+472,LastUpdatedDate,default,2018-01-01
 472,NetDwellingsRangeFrom,missing,
 472,NetDwellingsRangeTo,missing,
+473,LastUpdatedDate,default,2018-01-01
 473,NetDwellingsRangeFrom,missing,
 473,NetDwellingsRangeTo,missing,
+474,LastUpdatedDate,default,2018-01-01
 474,NetDwellingsRangeFrom,missing,
 474,NetDwellingsRangeTo,missing,
+475,LastUpdatedDate,default,2018-01-01
 475,NetDwellingsRangeFrom,missing,
 475,NetDwellingsRangeTo,missing,
+476,LastUpdatedDate,default,2018-01-01
 476,NetDwellingsRangeFrom,missing,
 476,NetDwellingsRangeTo,missing,
+477,LastUpdatedDate,default,2018-01-01
 477,NetDwellingsRangeFrom,missing,
 477,NetDwellingsRangeTo,missing,
+478,LastUpdatedDate,default,2018-01-01
 478,NetDwellingsRangeFrom,missing,
 478,NetDwellingsRangeTo,missing,
+479,LastUpdatedDate,default,2018-01-01
 479,NetDwellingsRangeFrom,missing,
 479,NetDwellingsRangeTo,missing,
+480,LastUpdatedDate,default,2018-01-01
 480,NetDwellingsRangeFrom,missing,
 480,NetDwellingsRangeTo,missing,
 481,PlanningStatus,enum,Completed During 2018/19
+481,LastUpdatedDate,default,2018-01-01
 481,NetDwellingsRangeFrom,missing,
 481,NetDwellingsRangeTo,missing,
 482,PlanningStatus,enum,Completed During 2017/18
+482,LastUpdatedDate,default,2018-01-01
 482,NetDwellingsRangeFrom,missing,
 482,NetDwellingsRangeTo,missing,
+483,LastUpdatedDate,default,2018-01-01
 483,NetDwellingsRangeFrom,missing,
 483,NetDwellingsRangeTo,missing,
+484,LastUpdatedDate,default,2018-01-01
 484,NetDwellingsRangeFrom,missing,
 484,NetDwellingsRangeTo,missing,
+485,LastUpdatedDate,default,2018-01-01
 485,NetDwellingsRangeFrom,missing,
 485,NetDwellingsRangeTo,missing,
 486,PlanningStatus,enum,Completed During 2018/19
+486,LastUpdatedDate,default,2018-01-01
 486,NetDwellingsRangeFrom,missing,
 486,NetDwellingsRangeTo,missing,
 487,PlanningStatus,enum,Completed During 2018/19
+487,LastUpdatedDate,default,2018-01-01
 487,NetDwellingsRangeFrom,missing,
 487,NetDwellingsRangeTo,missing,
+488,LastUpdatedDate,default,2018-01-01
 488,NetDwellingsRangeFrom,missing,
 488,NetDwellingsRangeTo,missing,
+489,LastUpdatedDate,default,2018-01-01
 489,NetDwellingsRangeFrom,missing,
 489,NetDwellingsRangeTo,missing,
+490,LastUpdatedDate,default,2018-01-01
 490,NetDwellingsRangeFrom,missing,
 490,NetDwellingsRangeTo,missing,
+491,LastUpdatedDate,default,2018-01-01
 491,NetDwellingsRangeFrom,missing,
 491,NetDwellingsRangeTo,missing,
+492,LastUpdatedDate,default,2018-01-01
 492,NetDwellingsRangeFrom,missing,
 492,NetDwellingsRangeTo,missing,
+493,LastUpdatedDate,default,2018-01-01
 493,NetDwellingsRangeFrom,missing,
 493,NetDwellingsRangeTo,missing,
 494,PlanningStatus,enum,Completed During 2018/19
+494,LastUpdatedDate,default,2018-01-01
 494,NetDwellingsRangeFrom,missing,
 494,NetDwellingsRangeTo,missing,
 495,Hectares,minimum,0
+495,LastUpdatedDate,default,2018-01-01
 495,Hectares,missing,
 495,NetDwellingsRangeFrom,missing,
 495,NetDwellingsRangeTo,missing,
 496,PlanningStatus,enum,Completed During 2017/18
+496,LastUpdatedDate,default,2018-01-01
 496,NetDwellingsRangeFrom,missing,
 496,NetDwellingsRangeTo,missing,
+497,LastUpdatedDate,default,2018-01-01
 497,NetDwellingsRangeFrom,missing,
 497,NetDwellingsRangeTo,missing,
 498,PlanningStatus,enum,Other Commitment
+498,LastUpdatedDate,default,2012-01-01
 498,NetDwellingsRangeFrom,missing,
 498,NetDwellingsRangeTo,missing,
 499,PlanningStatus,enum,Completed During 2017/18
+499,LastUpdatedDate,default,2018-01-01
 499,NetDwellingsRangeFrom,missing,
 499,NetDwellingsRangeTo,missing,
 500,PlanningStatus,enum,Other Commitment
+500,LastUpdatedDate,default,2019-01-01
 500,NetDwellingsRangeFrom,missing,
 500,NetDwellingsRangeTo,missing,
 501,PlanningStatus,enum,Other Commitment
+501,LastUpdatedDate,default,2019-01-01
 501,NetDwellingsRangeFrom,missing,
 501,NetDwellingsRangeTo,missing,
+502,LastUpdatedDate,default,2008-01-01
 502,NetDwellingsRangeFrom,missing,
 502,NetDwellingsRangeTo,missing,
+503,LastUpdatedDate,default,2008-01-01
 503,NetDwellingsRangeFrom,missing,
 503,NetDwellingsRangeTo,missing,
 504,PlanningStatus,enum,Other Commitment
+504,LastUpdatedDate,default,2019-01-01
 504,NetDwellingsRangeFrom,missing,
 504,NetDwellingsRangeTo,missing,
 505,PlanningStatus,enum,Completed During 2018/19
+505,LastUpdatedDate,default,2019-01-01
 505,NetDwellingsRangeFrom,missing,
 505,NetDwellingsRangeTo,missing,
 506,PlanningStatus,enum,Completed During 2018/19
+506,LastUpdatedDate,default,2019-01-01
 506,NetDwellingsRangeFrom,missing,
 506,NetDwellingsRangeTo,missing,
+507,LastUpdatedDate,default,2019-01-01
 507,NetDwellingsRangeFrom,missing,
 507,NetDwellingsRangeTo,missing,
+508,LastUpdatedDate,default,2019-01-01
 508,NetDwellingsRangeFrom,missing,
 508,NetDwellingsRangeTo,missing,
+509,LastUpdatedDate,default,2019-01-01
 509,NetDwellingsRangeFrom,missing,
 509,NetDwellingsRangeTo,missing,
+510,LastUpdatedDate,default,2019-01-01
 510,NetDwellingsRangeFrom,missing,
 510,NetDwellingsRangeTo,missing,
+511,LastUpdatedDate,default,2019-01-01
 511,NetDwellingsRangeFrom,missing,
 511,NetDwellingsRangeTo,missing,
+512,LastUpdatedDate,default,2014-01-01
 512,NetDwellingsRangeFrom,missing,
 512,NetDwellingsRangeTo,missing,
+513,LastUpdatedDate,default,2014-01-01
 513,NetDwellingsRangeFrom,missing,
 513,NetDwellingsRangeTo,missing,
+514,LastUpdatedDate,default,2014-01-01
 514,NetDwellingsRangeFrom,missing,
 514,NetDwellingsRangeTo,missing,
+515,LastUpdatedDate,default,2014-01-01
 515,NetDwellingsRangeFrom,missing,
 515,NetDwellingsRangeTo,missing,
+516,LastUpdatedDate,default,2014-01-01
 516,NetDwellingsRangeFrom,missing,
 516,NetDwellingsRangeTo,missing,
+517,LastUpdatedDate,default,2014-01-01
 517,NetDwellingsRangeFrom,missing,
 517,NetDwellingsRangeTo,missing,
+518,LastUpdatedDate,default,2014-01-01
 518,NetDwellingsRangeFrom,missing,
 518,NetDwellingsRangeTo,missing,
+519,LastUpdatedDate,default,2014-01-01
 519,NetDwellingsRangeFrom,missing,
 519,NetDwellingsRangeTo,missing,
+520,LastUpdatedDate,default,2014-01-01
 520,NetDwellingsRangeFrom,missing,
 520,NetDwellingsRangeTo,missing,
+521,LastUpdatedDate,default,2019-01-01
 521,NetDwellingsRangeFrom,missing,
 521,NetDwellingsRangeTo,missing,
+522,LastUpdatedDate,default,2019-01-01
 522,NetDwellingsRangeFrom,missing,
 522,NetDwellingsRangeTo,missing,
+523,LastUpdatedDate,default,2019-01-01
 523,NetDwellingsRangeFrom,missing,
 523,NetDwellingsRangeTo,missing,
+524,LastUpdatedDate,default,2019-01-01
 524,NetDwellingsRangeFrom,missing,
 524,NetDwellingsRangeTo,missing,
+525,LastUpdatedDate,default,2019-01-01
 525,NetDwellingsRangeFrom,missing,
 525,NetDwellingsRangeTo,missing,
+526,LastUpdatedDate,default,2019-01-01
 526,NetDwellingsRangeFrom,missing,
 526,NetDwellingsRangeTo,missing,
+527,LastUpdatedDate,default,2019-01-01
 527,NetDwellingsRangeFrom,missing,
 527,NetDwellingsRangeTo,missing,
+528,LastUpdatedDate,default,2019-01-01
 528,NetDwellingsRangeFrom,missing,
 528,NetDwellingsRangeTo,missing,
+529,LastUpdatedDate,default,2019-01-01
 529,NetDwellingsRangeFrom,missing,
 529,NetDwellingsRangeTo,missing,
+530,LastUpdatedDate,default,2019-01-01
 530,NetDwellingsRangeFrom,missing,
 530,NetDwellingsRangeTo,missing,
+531,LastUpdatedDate,default,2019-01-01
 531,NetDwellingsRangeFrom,missing,
 531,NetDwellingsRangeTo,missing,
+532,LastUpdatedDate,default,2019-01-01
 532,NetDwellingsRangeFrom,missing,
 532,NetDwellingsRangeTo,missing,
+533,LastUpdatedDate,default,2019-01-01
 533,NetDwellingsRangeFrom,missing,
 533,NetDwellingsRangeTo,missing,
+534,LastUpdatedDate,default,2019-01-01
 534,NetDwellingsRangeFrom,missing,
 534,NetDwellingsRangeTo,missing,
 535,PlanningStatus,enum,Completed During 2018/19
+535,LastUpdatedDate,default,2019-01-01
 535,NetDwellingsRangeFrom,missing,
 535,NetDwellingsRangeTo,missing,
 536,PlanningStatus,enum,Completed During 2018/19
+536,LastUpdatedDate,default,2019-01-01
 536,NetDwellingsRangeFrom,missing,
 536,NetDwellingsRangeTo,missing,
 537,PlanningStatus,enum,Completed During 2018/19
+537,LastUpdatedDate,default,2019-01-01
 537,NetDwellingsRangeFrom,missing,
 537,NetDwellingsRangeTo,missing,
 538,PlanningStatus,enum,Completed During 2018/19
+538,LastUpdatedDate,default,2019-01-01
 538,NetDwellingsRangeFrom,missing,
 538,NetDwellingsRangeTo,missing,
 539,PlanningStatus,enum,Completed During 2018/19
+539,LastUpdatedDate,default,2019-01-01
 539,NetDwellingsRangeFrom,missing,
 539,NetDwellingsRangeTo,missing,
 540,PlanningStatus,enum,Completed During 2018/19
+540,LastUpdatedDate,default,2019-01-01
 540,NetDwellingsRangeFrom,missing,
 540,NetDwellingsRangeTo,missing,
 541,PlanningStatus,enum,Completed During 2018/19
+541,LastUpdatedDate,default,2019-01-01
 541,NetDwellingsRangeFrom,missing,
 541,NetDwellingsRangeTo,missing,
 542,PlanningStatus,enum,Completed During 2018/19
+542,LastUpdatedDate,default,2019-01-01
 542,NetDwellingsRangeFrom,missing,
 542,NetDwellingsRangeTo,missing,
 543,PlanningStatus,enum,Completed During 2018/19
+543,LastUpdatedDate,default,2019-01-01
 543,NetDwellingsRangeFrom,missing,
 543,NetDwellingsRangeTo,missing,
 544,PlanningStatus,enum,Completed During 2018/19
+544,LastUpdatedDate,default,2019-01-01
 544,NetDwellingsRangeFrom,missing,
 544,NetDwellingsRangeTo,missing,
+545,LastUpdatedDate,default,2019-01-01
 545,NetDwellingsRangeFrom,missing,
 545,NetDwellingsRangeTo,missing,
+546,LastUpdatedDate,default,2019-01-01
 546,NetDwellingsRangeFrom,missing,
 546,NetDwellingsRangeTo,missing,
+547,LastUpdatedDate,default,2019-01-01
 547,NetDwellingsRangeFrom,missing,
 547,NetDwellingsRangeTo,missing,
+548,LastUpdatedDate,default,2019-01-01
 548,NetDwellingsRangeFrom,missing,
 548,NetDwellingsRangeTo,missing,
+549,LastUpdatedDate,default,2019-01-01
 549,NetDwellingsRangeFrom,missing,
 549,NetDwellingsRangeTo,missing,
+550,LastUpdatedDate,default,2019-01-01
 550,NetDwellingsRangeFrom,missing,
 550,NetDwellingsRangeTo,missing,
+551,LastUpdatedDate,default,2019-01-01
 551,NetDwellingsRangeFrom,missing,
 551,NetDwellingsRangeTo,missing,
+552,LastUpdatedDate,default,2019-01-01
 552,NetDwellingsRangeFrom,missing,
 552,NetDwellingsRangeTo,missing,
+553,LastUpdatedDate,default,2019-01-01
 553,NetDwellingsRangeFrom,missing,
 553,NetDwellingsRangeTo,missing,
+554,LastUpdatedDate,default,2019-01-01
 554,NetDwellingsRangeFrom,missing,
 554,NetDwellingsRangeTo,missing,
+555,LastUpdatedDate,default,2019-01-01
 555,NetDwellingsRangeFrom,missing,
 555,NetDwellingsRangeTo,missing,
+556,LastUpdatedDate,default,2019-01-01
 556,NetDwellingsRangeFrom,missing,
 556,NetDwellingsRangeTo,missing,
+557,LastUpdatedDate,default,2019-01-01
 557,NetDwellingsRangeFrom,missing,
 557,NetDwellingsRangeTo,missing,
+558,LastUpdatedDate,default,2019-01-01
 558,NetDwellingsRangeFrom,missing,
 558,NetDwellingsRangeTo,missing,
+559,LastUpdatedDate,default,2019-01-01
 559,NetDwellingsRangeFrom,missing,
 559,NetDwellingsRangeTo,missing,
+560,LastUpdatedDate,default,2019-01-01
 560,NetDwellingsRangeFrom,missing,
 560,NetDwellingsRangeTo,missing,
+561,LastUpdatedDate,default,2019-01-01
 561,NetDwellingsRangeFrom,missing,
 561,NetDwellingsRangeTo,missing,
+562,LastUpdatedDate,default,2019-01-01
 562,NetDwellingsRangeFrom,missing,
 562,NetDwellingsRangeTo,missing,
+563,LastUpdatedDate,default,2019-01-01
 563,NetDwellingsRangeFrom,missing,
 563,NetDwellingsRangeTo,missing,
+564,LastUpdatedDate,default,2019-01-01
 564,NetDwellingsRangeFrom,missing,
 564,NetDwellingsRangeTo,missing,
+565,LastUpdatedDate,default,2019-01-01
 565,NetDwellingsRangeFrom,missing,
 565,NetDwellingsRangeTo,missing,
+566,LastUpdatedDate,default,2019-01-01
 566,NetDwellingsRangeFrom,missing,
 566,NetDwellingsRangeTo,missing,
+567,LastUpdatedDate,default,2019-01-01
 567,NetDwellingsRangeFrom,missing,
 567,NetDwellingsRangeTo,missing,
+568,LastUpdatedDate,default,2019-01-01
 568,NetDwellingsRangeFrom,missing,
 568,NetDwellingsRangeTo,missing,
+569,LastUpdatedDate,default,2019-01-01
 569,NetDwellingsRangeFrom,missing,
 569,NetDwellingsRangeTo,missing,
+570,LastUpdatedDate,default,2019-01-01
 570,NetDwellingsRangeFrom,missing,
 570,NetDwellingsRangeTo,missing,
+571,LastUpdatedDate,default,2019-01-01
 571,NetDwellingsRangeFrom,missing,
 571,NetDwellingsRangeTo,missing,
+572,LastUpdatedDate,default,2019-01-01
 572,NetDwellingsRangeFrom,missing,
 572,NetDwellingsRangeTo,missing,
+573,LastUpdatedDate,default,2019-01-01
 573,NetDwellingsRangeFrom,missing,
 573,NetDwellingsRangeTo,missing,
+574,LastUpdatedDate,default,2019-01-01
 574,NetDwellingsRangeFrom,missing,
 574,NetDwellingsRangeTo,missing,
+575,LastUpdatedDate,default,2019-01-01
 575,NetDwellingsRangeFrom,missing,
 575,NetDwellingsRangeTo,missing,
+576,LastUpdatedDate,default,2019-01-01
 576,NetDwellingsRangeFrom,missing,
 576,NetDwellingsRangeTo,missing,
+577,LastUpdatedDate,default,2019-01-01
 577,NetDwellingsRangeFrom,missing,
 577,NetDwellingsRangeTo,missing,
+578,LastUpdatedDate,default,2019-01-01
 578,NetDwellingsRangeFrom,missing,
 578,NetDwellingsRangeTo,missing,
+579,LastUpdatedDate,default,2019-01-01
 579,NetDwellingsRangeFrom,missing,
 579,NetDwellingsRangeTo,missing,
+580,LastUpdatedDate,default,2019-01-01
 580,NetDwellingsRangeFrom,missing,
 580,NetDwellingsRangeTo,missing,
+581,LastUpdatedDate,default,2019-01-01
 581,NetDwellingsRangeFrom,missing,
 581,NetDwellingsRangeTo,missing,
+582,LastUpdatedDate,default,2019-01-01
 582,NetDwellingsRangeFrom,missing,
 582,NetDwellingsRangeTo,missing,
+583,LastUpdatedDate,default,2019-01-01
 583,NetDwellingsRangeFrom,missing,
 583,NetDwellingsRangeTo,missing,
+584,LastUpdatedDate,default,2019-01-01
 584,NetDwellingsRangeFrom,missing,
 584,NetDwellingsRangeTo,missing,
+585,LastUpdatedDate,default,2019-01-01
 585,NetDwellingsRangeFrom,missing,
 585,NetDwellingsRangeTo,missing,
+586,LastUpdatedDate,default,2019-01-01
 586,NetDwellingsRangeFrom,missing,
 586,NetDwellingsRangeTo,missing,
+587,LastUpdatedDate,default,2019-01-01
 587,NetDwellingsRangeFrom,missing,
 587,NetDwellingsRangeTo,missing,
+588,LastUpdatedDate,default,2019-01-01
 588,NetDwellingsRangeFrom,missing,
 588,NetDwellingsRangeTo,missing,
+589,LastUpdatedDate,default,2019-01-01
 589,NetDwellingsRangeFrom,missing,
 589,NetDwellingsRangeTo,missing,
+590,LastUpdatedDate,default,2019-01-01
 590,NetDwellingsRangeFrom,missing,
 590,NetDwellingsRangeTo,missing,
+591,LastUpdatedDate,default,2019-01-01
 591,NetDwellingsRangeFrom,missing,
 591,NetDwellingsRangeTo,missing,
+592,LastUpdatedDate,default,2019-01-01
 592,NetDwellingsRangeFrom,missing,
 592,NetDwellingsRangeTo,missing,
+593,LastUpdatedDate,default,2019-01-01
 593,NetDwellingsRangeFrom,missing,
 593,NetDwellingsRangeTo,missing,

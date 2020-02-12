@@ -7,6 +7,7 @@ row-number,field,issue-type,value
 4,NetDwellingsRangeFrom,integer,1.5
 4,NetDwellingsRangeFrom,missing,
 4,NetDwellingsRangeTo,missing,
+5,LastUpdatedDate,default,2019-12-16
 5,SiteReference,missing,
 5,GeoX,missing,
 5,GeoY,missing,
@@ -19,6 +20,7 @@ row-number,field,issue-type,value
 6,NetDwellingsRangeFrom,missing,
 6,NetDwellingsRangeTo,missing,
 7,PermissionType,enum,planning permission granted
+7,LastUpdatedDate,default,2019-12-16
 7,SiteReference,missing,
 7,SiteNameAddress,missing,
 7,GeoX,missing,
@@ -38,6 +40,7 @@ row-number,field,issue-type,value
 10,Hectares,decimal,3.8 Not owned by a public authority
 10,NetDwellingsRangeTo,default,95
 10,Hectares,missing,
+11,LastUpdatedDate,default,2019-12-16
 11,SiteReference,missing,
 11,SiteNameAddress,missing,
 11,GeoX,missing,
@@ -48,6 +51,7 @@ row-number,field,issue-type,value
 12,Hectares,decimal,0.37 Not owned by a public authority
 12,NetDwellingsRangeTo,default,12
 12,Hectares,missing,
+13,LastUpdatedDate,default,2019-12-16
 13,SiteReference,missing,
 13,GeoX,missing,
 13,GeoY,missing,
@@ -59,6 +63,7 @@ row-number,field,issue-type,value
 14,Hectares,missing,
 14,NetDwellingsRangeFrom,missing,
 14,NetDwellingsRangeTo,missing,
+15,LastUpdatedDate,default,2019-12-16
 15,SiteReference,missing,
 15,SiteNameAddress,missing,
 15,GeoX,missing,
@@ -89,6 +94,7 @@ row-number,field,issue-type,value
 22,Hectares,missing,
 22,NetDwellingsRangeFrom,missing,
 22,NetDwellingsRangeTo,missing,
+23,LastUpdatedDate,default,2019-12-16
 23,SiteReference,missing,
 23,GeoX,missing,
 23,GeoY,missing,
@@ -105,6 +111,7 @@ row-number,field,issue-type,value
 25,Hectares,missing,
 25,NetDwellingsRangeFrom,missing,
 25,NetDwellingsRangeTo,missing,
+26,LastUpdatedDate,default,2019-12-16
 26,SiteReference,missing,
 26,SiteNameAddress,missing,
 26,GeoX,missing,
@@ -117,6 +124,7 @@ row-number,field,issue-type,value
 27,Hectares,missing,
 27,NetDwellingsRangeFrom,missing,
 27,NetDwellingsRangeTo,missing,
+28,LastUpdatedDate,default,2019-12-16
 28,SiteReference,missing,
 28,GeoX,missing,
 28,GeoY,missing,
@@ -138,6 +146,7 @@ row-number,field,issue-type,value
 31,Hectares,missing,
 31,NetDwellingsRangeFrom,missing,
 31,NetDwellingsRangeTo,missing,
+32,LastUpdatedDate,default,2019-12-16
 32,SiteReference,missing,
 32,SiteNameAddress,missing,
 32,GeoX,missing,
@@ -145,6 +154,7 @@ row-number,field,issue-type,value
 32,Hectares,missing,
 32,NetDwellingsRangeFrom,missing,
 32,NetDwellingsRangeTo,missing,
+33,LastUpdatedDate,default,2019-12-16
 33,SiteReference,missing,
 33,SiteNameAddress,missing,
 33,GeoX,missing,
@@ -157,6 +167,7 @@ row-number,field,issue-type,value
 34,Hectares,missing,
 34,NetDwellingsRangeFrom,missing,
 34,NetDwellingsRangeTo,missing,
+35,LastUpdatedDate,default,2019-12-16
 35,SiteReference,missing,
 35,GeoX,missing,
 35,GeoY,missing,
@@ -174,6 +185,7 @@ row-number,field,issue-type,value
 37,NetDwellingsRangeFrom,missing,
 37,NetDwellingsRangeTo,missing,
 38,PermissionType,enum,planning permission granted
+38,LastUpdatedDate,default,2019-12-16
 38,SiteReference,missing,
 38,SiteNameAddress,missing,
 38,GeoX,missing,
@@ -193,6 +205,7 @@ row-number,field,issue-type,value
 40,NetDwellingsRangeFrom,missing,
 40,NetDwellingsRangeTo,missing,
 41,PermissionType,enum,planning permission granted
+41,LastUpdatedDate,default,2019-12-16
 41,SiteReference,missing,
 41,SiteNameAddress,missing,
 41,GeoX,missing,
@@ -207,6 +220,7 @@ row-number,field,issue-type,value
 42,NetDwellingsRangeFrom,missing,
 42,NetDwellingsRangeTo,missing,
 43,PermissionType,enum,planning permission granted
+43,LastUpdatedDate,default,2019-12-16
 43,SiteReference,missing,
 43,SiteNameAddress,missing,
 43,GeoX,missing,
@@ -231,6 +245,7 @@ row-number,field,issue-type,value
 46,NetDwellingsRangeFrom,missing,
 46,NetDwellingsRangeTo,missing,
 47,PermissionType,enum,planning permission granted
+47,LastUpdatedDate,default,2019-12-16
 47,SiteReference,missing,
 47,SiteNameAddress,missing,
 47,GeoX,missing,
@@ -258,6 +273,7 @@ row-number,field,issue-type,value
 54,NetDwellingsRangeFrom,integer,107.5 Local Plan Allocation HS1.2 Not all of site will come forward in 5 yrs. Housing Zone site.
 54,NetDwellingsRangeFrom,missing,
 54,NetDwellingsRangeTo,missing,
+55,LastUpdatedDate,default,2019-12-16
 55,SiteReference,missing,
 55,GeoX,missing,
 55,GeoY,missing,
