@@ -40,6 +40,11 @@ required_fields = [
     for field in schema["fields"]
     if field["constraints"].get("required", False)
 ]
+default_fields = {
+    field["name"]: field["digital-land"]["default"]
+    for field in schema["fields"]
+    if field.get("digital-land", {}).get("default", None)
+}
 
 organisation_uri = {}
 default_values = {}
@@ -371,13 +376,19 @@ def check(o):
             log_issue(field, "missing", "")
 
 
+def set_default(o, field, value):
+    if value and not o[field]:
+        log_issue(field, "default", value)
+        o[field] = value
+    return o
+
+
 def default(o):
+    for field in default_fields:
+        o = set_default(o, field, o[default_fields[field]])
+
     for field in default_values:
-        if not o[field]:
-            value = default_values[field]
-            if value:
-                log_issue(field, "default", value)
-                o[field] = value
+        o = set_default(o, field, default_values[field])
 
     return o
 

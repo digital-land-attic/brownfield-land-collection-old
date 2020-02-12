@@ -336,10 +336,11 @@
             "description": "The minimum number of dwellings that the local authority estimates the site should support, as defined in http://www.legislation.gov.uk/uksi/2017/403/regulation/2/made",
             "type": "integer",
             "constraints": {
-                "required": false
+                "required": true
             },
             "digital-land": {
                 "field": "minimum-net-dwellings",
+                "default": "NetDwellingsRangeTo",
                 "typos": [
                   "MINHOMES",
                   "Min dwellings",
@@ -354,10 +355,11 @@
             "description": "The maximum number of dwellings that the local authority estimates the site should support, as defined in regulation 2 of the 2017 Regulations (http://www.legislation.gov.uk/uksi/2017/403/regulation/2/made)",
             "type": "integer",
             "constraints": {
-                "required": false
+                "required": true
             },
             "digital-land": {
                 "field": "maximum-net-dwellings",
+                "default": "NetDwellingsRangeFrom",
                 "typos": [
                   "Max dwellings",
                   "MAXIMUM NET DWELLINGS"
@@ -394,7 +396,7 @@
                     "DevelopmentDescription",
                     "SiteInformation"
                   ],
-                  "sep": "\n"
+                  "sep": " "
                 },
                 "field": "notes"
             }
