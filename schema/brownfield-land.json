@@ -407,7 +407,7 @@
             "description": "The date that the site was first added to this register, in the format YYYY-MM-DD",
             "type": "date",
             "constraints": {
-                "required": true
+                "required": false
             },
             "digital-land": {
                 "field": "start-date",
