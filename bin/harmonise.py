@@ -182,11 +182,12 @@ def load_organisations():
             ]
 
 
-# deduce default OrganisationURI from path
-def load_default_organisation(path):
+# deduce default OrganisationURI and LastUpdatedDate from path
+def load_resource_defaults(path):
     organisation = ""
     for row in csv.DictReader(open("index/resource-organisation.csv", newline="")):
         if row["resource"] in path:
+            default_values["LastUpdatedDate"] = row["start-date"]
             if not organisation:
                 organisation = row["organisation"]
             elif organisation != row["organisation"]:
@@ -398,6 +399,7 @@ if __name__ == "__main__":
 
     load_organisations()
     load_field_value()
+    load_resource_defaults(input_path)
 
     with open(output_path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
@@ -408,10 +410,6 @@ if __name__ == "__main__":
             o = {}
             for field in fieldnames:
                 o[field] = normalise(field, row[field])
-
-            # load resource organisations if needed
-            if not o["OrganisationURI"] and "OrganisationURI" not in default_values:
-                load_default_organisation(input_path)
 
             # default missing values
             o = default(o)
