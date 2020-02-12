@@ -121,8 +121,11 @@ INDEXES=\
 # dataset of mapped files
 MAPPED_DATASET=$(TMP_DIR)mapped.csv
 
-# generated national dataset
-NATIONAL_DATASET=$(INDEX_DIR)dataset.csv
+# national dataset entries
+NATIONAL_DATASET_ENTRIES=$(INDEX_DIR)entries.csv
+
+# national dataset latest entries (records)
+NATIONAL_DATASET_RECORDS=$(INDEX_DIR)dataset.csv
 
 all: collect second-pass
 
@@ -148,7 +151,10 @@ map: $(MAPPED_FILES)
 harmonise: $(COLLECTION_INDEX) $(HARMONISED_FILES)
 	@:
 
-dataset: $(NATIONAL_DATASET) $(TRANSFORMED_FILES)
+entries: $(NATIONAL_DATASET_ENTRIES) $(TRANSFORMED_FILES)
+	@:
+
+dataset: $(NATIONAL_DATASET_RECORDS)
 	@:
 
 index: $(INDEXES)
@@ -157,9 +163,13 @@ index: $(INDEXES)
 #
 #  collection indexes
 #
-$(NATIONAL_DATASET): bin/dataset.py $(TRANSFORMED_FILES) $(SCHEMA)
+$(NATIONAL_DATASET_RECORDS): bin/dataset.py $(NATIONAL_DATASET_ENTRIES) $(SCHEMA)
 	@mkdir -p $(INDEX_DIR)
-	python3 bin/dataset.py $(TRANSFORMED_DIR) $@
+	python3 bin/dataset.py $(NATIONAL_DATASET_ENTRIES) $@
+
+$(NATIONAL_DATASET_ENTRIES): bin/entries.py $(TRANSFORMED_FILES) $(SCHEMA) index/resource-organisation.csv
+	@mkdir -p $(INDEX_DIR)
+	python3 bin/entries.py $(TRANSFORMED_DIR) $@
 
 $(COLLECTION_INDEX): bin/index.py $(LOG_FILES) $(VALIDATION_FILES)
 	@mkdir -p $(INDEX_DIR)

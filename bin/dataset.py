@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 #
-#  assemble files into a single dataset
+#  turn sorted entries into latest records
 #
 
 import os
@@ -11,18 +11,17 @@ import glob
 import csv
 import json
 
+keys = {}
 
 if __name__ == "__main__":
 
-    schema = json.load(open("schema/brownfield-land.json"))
-    fieldnames = schema["digital-land"]["fields"]
+    reader = csv.DictReader(open(sys.argv[1], newline=""))
 
-    writer = csv.DictWriter(open(sys.argv[2], "w", newline=""), fieldnames=fieldnames)
+    writer = csv.DictWriter(open(sys.argv[2], "w", newline=""), fieldnames=reader.fieldnames)
     writer.writeheader()
 
-    for path in sorted(glob.glob(sys.argv[1] + "*.csv")):
-        resource = os.path.basename(os.path.splitext(path)[0])
-
-        for row in csv.DictReader(open(path, newline="")):
-            row["resource"] = resource
+    for row in reader:
+        key = ("%s:%s" % (row["organisation"], row["site"]))
+        if key not in keys:
             writer.writerow(row)
+            keys[key] = True
