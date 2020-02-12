@@ -407,7 +407,7 @@
             "description": "The date that the site was first added to this register, in the format YYYY-MM-DD",
             "type": "date",
             "constraints": {
-                "required": false
+                "required": true
             },
             "digital-land": {
                 "field": "start-date",
@@ -425,9 +425,10 @@
             "description": "The date this entry in the register was updated in the format YYYY-MM-DD",
             "type": "date",
             "constraints": {
-                "required": false
+                "required": true
             },
             "digital-land": {
+                "default": "FirstAddedDate",
                 "field": "entry-date",
                 "typos": [
                   "LastUpdate",
