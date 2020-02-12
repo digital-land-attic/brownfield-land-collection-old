@@ -80,6 +80,7 @@ row-number,field,issue-type,value
 76,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
 77,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
 78,NetDwellingsRangeTo,integer,`5
+78,NetDwellingsRangeTo,default,5
 78,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
 79,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
 80,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford

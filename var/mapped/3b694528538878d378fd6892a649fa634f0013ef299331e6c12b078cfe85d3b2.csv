@@ -1,61 +1,21 @@
 OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/ABB/01H,"Land to the north of Laurel Terrace, Laurel Terrace, Abbeytown",317284,550804,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.28,Not owned by a public authority,,Not Permissioned,,,,5,10,,"
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/BRM/01H,"Land at former Broughton Moor RNAD, Moor Road, Broughton Moor",306461,532113,http://mapping.allerdale.gov.uk/myallerdale.aspx,4.3,Owned by a public authority,,Permissioned,Outline Planning Permission,06.05.2015,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=123998,24,30,Yes,"24 selfbuild plots and demolition of 3 buildings
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/FLI/01H,"Former Flimby Garage, Church Road, Flimby",302381,533419,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.17,Not owned by a public authority,,Not Permissioned,,,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=108925,5,6,,"
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/GRC/02H,"Land at William Street, Great Clifton",303964,529858,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.52,Not owned by a public authority,,Permissioned,Full Planning Permission,19.09.2012,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=96500,15,18,Yes,"18 dwellings
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/KBR/01H,"Land adjacent to Rodway, West Lane, Kirkbride",322802,556235,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.6,Not owned by a public authority,,Permissioned,Full Planning Permission,12.11.2010,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=77252,5,19,Yes,"19 dwellings
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/MAR/01H,"Land at Ropery Street, Maryport",303302,535961,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.8,Not owned by a public authority,,Permissioned,Outline Planning Permission,16.06.2014,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=114404,12,20,Yes,"Use of land for residential development
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/MAR/02H,"Land at The Netherdales, Ellenborough Road, Maryport",304410,536130,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.3,Not owned by a public authority,,Permissioned,Outline Planning Permission,14.05.2015,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=124486,5,9,Yes,"9 dwellings
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/MAR/03H,"Land to the east of Marine Road, Maryport",300309,303645,http://mapping.allerdale.gov.uk/myallerdale.aspx,1.53,owned by a public authority,,not permissioned,,,,30,50,,"
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/PRO/01H,"Prospect Garage, Main Road (A596), Prospect",312057,541023,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.6,Not owned by a public authority,,Not Permissioned,,,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=152298,12,20,,"
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/SIL/01H,"Former Fisons Factory, Skiddaw Street, Silloth",311145,553175,http://mapping.allerdale.gov.uk/myallerdale.aspx,8.7,Not owned by a public authority,,Permissioned,Outline Planning Permission,23.05.2011,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=74376,170,254,Yes,"Residential development (first phase - 22 dwellings)
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WIG/02H,"Former Brookside Works, Brookside, Wigton",325675,548343,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.1,Not owned by a public authority,,Permissioned,Full Planning Permission,27.05.2015,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=116991,5,10,Yes,"9 flats and 1 dwelling
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/01H,"Former Workington Fire Station, Guard Street, Workington",300672,528392,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.5,Owned by a public authority,,Not Permissioned,,,,12,50,,"
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/02H,"Land off Curwen Road, Curwen Road, Workington",299095,529007,http://mapping.allerdale.gov.uk/myallerdale.aspx,1.8,Not owned by a public authority,,Permissioned,Reserved Matters Approval,13.04.2016,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=134609,80,120,Yes,"94 residential units
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/03H,"Land at Stanley Street, Workington",299380,528881,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.8,Not owned by a public authority,,Not Permissioned,,,,40,90,,"
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/04H,"Former Senhouse Terrace, Senhouse Street, Workington",299786,528787,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.1,Not owned by a public authority,,Permissioned,Full Planning Permission,19.01.2016,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=125499,5,14,Yes,"14 flats
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/06H,"Land off Mossbay Road, Workington",299216,527272,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.32,Owned by a public authority,,Not Permissioned,,,,5,10,,"
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/07H,"Former Southfield School, Moorclose Road, Workington",299676,526616,http://mapping.allerdale.gov.uk/myallerdale.aspx,2.7,Owned by a public authority,,Not Permissioned,,,,50,70,,"
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/08H,"Land at Duke Street, Workington",299943,528960,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.1,Not owned by a public authority,,Permissioned,Full Planning Permission,03.12.2013,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=106364,12,15,Yes,"Demolition of former hall and erection of 14 flats
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/09H,"Mermaid Tavern, Derwent Street, Workington",299997,529010,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.06,Not owned by a public authority,,Permissioned,Full Planning Permission,13.04.2010,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=74263,5,5,,"5 bedsits
-
-",2017-12-20,,
-http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/010H,"Land south of Isabella Road, Workington",298714,529086,http://mapping.allerdale.gov.uk/myallerdale.aspx,3,Not owned by a public authority,,Not Permissioned,,,,80,120,,"
-
-",2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/ABB/01H,"Land to the north of Laurel Terrace, Laurel Terrace, Abbeytown",317284,550804,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.28,Not owned by a public authority,,Not Permissioned,,,,5,10,,,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/BRM/01H,"Land at former Broughton Moor RNAD, Moor Road, Broughton Moor",306461,532113,http://mapping.allerdale.gov.uk/myallerdale.aspx,4.3,Owned by a public authority,,Permissioned,Outline Planning Permission,06.05.2015,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=123998,24,30,Yes,24 selfbuild plots and demolition of 3 buildings,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/FLI/01H,"Former Flimby Garage, Church Road, Flimby",302381,533419,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.17,Not owned by a public authority,,Not Permissioned,,,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=108925,5,6,,,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/GRC/02H,"Land at William Street, Great Clifton",303964,529858,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.52,Not owned by a public authority,,Permissioned,Full Planning Permission,19.09.2012,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=96500,15,18,Yes,18 dwellings,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/KBR/01H,"Land adjacent to Rodway, West Lane, Kirkbride",322802,556235,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.6,Not owned by a public authority,,Permissioned,Full Planning Permission,12.11.2010,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=77252,5,19,Yes,19 dwellings,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/MAR/01H,"Land at Ropery Street, Maryport",303302,535961,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.8,Not owned by a public authority,,Permissioned,Outline Planning Permission,16.06.2014,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=114404,12,20,Yes,Use of land for residential development,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/MAR/02H,"Land at The Netherdales, Ellenborough Road, Maryport",304410,536130,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.3,Not owned by a public authority,,Permissioned,Outline Planning Permission,14.05.2015,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=124486,5,9,Yes,9 dwellings,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/MAR/03H,"Land to the east of Marine Road, Maryport",300309,303645,http://mapping.allerdale.gov.uk/myallerdale.aspx,1.53,owned by a public authority,,not permissioned,,,,30,50,,,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/PRO/01H,"Prospect Garage, Main Road (A596), Prospect",312057,541023,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.6,Not owned by a public authority,,Not Permissioned,,,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=152298,12,20,,,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/SIL/01H,"Former Fisons Factory, Skiddaw Street, Silloth",311145,553175,http://mapping.allerdale.gov.uk/myallerdale.aspx,8.7,Not owned by a public authority,,Permissioned,Outline Planning Permission,23.05.2011,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=74376,170,254,Yes,Residential development (first phase - 22 dwellings),2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WIG/02H,"Former Brookside Works, Brookside, Wigton",325675,548343,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.1,Not owned by a public authority,,Permissioned,Full Planning Permission,27.05.2015,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=116991,5,10,Yes,9 flats and 1 dwelling,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/01H,"Former Workington Fire Station, Guard Street, Workington",300672,528392,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.5,Owned by a public authority,,Not Permissioned,,,,12,50,,,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/02H,"Land off Curwen Road, Curwen Road, Workington",299095,529007,http://mapping.allerdale.gov.uk/myallerdale.aspx,1.8,Not owned by a public authority,,Permissioned,Reserved Matters Approval,13.04.2016,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=134609,80,120,Yes,94 residential units,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/03H,"Land at Stanley Street, Workington",299380,528881,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.8,Not owned by a public authority,,Not Permissioned,,,,40,90,,,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/04H,"Former Senhouse Terrace, Senhouse Street, Workington",299786,528787,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.1,Not owned by a public authority,,Permissioned,Full Planning Permission,19.01.2016,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=125499,5,14,Yes,14 flats,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/06H,"Land off Mossbay Road, Workington",299216,527272,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.32,Owned by a public authority,,Not Permissioned,,,,5,10,,,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/07H,"Former Southfield School, Moorclose Road, Workington",299676,526616,http://mapping.allerdale.gov.uk/myallerdale.aspx,2.7,Owned by a public authority,,Not Permissioned,,,,50,70,,,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/08H,"Land at Duke Street, Workington",299943,528960,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.1,Not owned by a public authority,,Permissioned,Full Planning Permission,03.12.2013,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=106364,12,15,Yes,Demolition of former hall and erection of 14 flats,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/09H,"Mermaid Tavern, Derwent Street, Workington",299997,529010,http://mapping.allerdale.gov.uk/myallerdale.aspx,0.06,Not owned by a public authority,,Permissioned,Full Planning Permission,13.04.2010,http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=74263,5,5,,5 bedsits,2017-12-20,,
+http://opendatacommunities.org/id/district-council/allerdale,Allerdale Borough Council,BR/WOR/010H,"Land south of Isabella Road, Workington",298714,529086,http://mapping.allerdale.gov.uk/myallerdale.aspx,3,Not owned by a public authority,,Not Permissioned,,,,80,120,,,2017-12-20,,

@@ -2,6 +2,10 @@ row-number,field,issue-type,value
 2,GeoX,missing,
 3,GeoX,missing,
 12,GeoX,missing,
+16,NetDwellingsRangeFrom,missing,
+16,NetDwellingsRangeTo,missing,
+17,NetDwellingsRangeFrom,missing,
+17,NetDwellingsRangeTo,missing,
 20,GeoX,missing,
 34,GeoX,decimal,52.200.96
 34,GeoX,missing,

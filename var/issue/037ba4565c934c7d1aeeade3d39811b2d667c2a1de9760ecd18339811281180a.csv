@@ -1,4 +1,15 @@
 row-number,field,issue-type,value
+1,NetDwellingsRangeTo,default,32
+2,NetDwellingsRangeTo,default,6
+10,NetDwellingsRangeTo,default,5
+11,NetDwellingsRangeTo,default,44
+13,NetDwellingsRangeTo,default,7
+19,NetDwellingsRangeTo,default,23
+22,NetDwellingsRangeTo,default,7
+23,NetDwellingsRangeTo,default,6
+31,NetDwellingsRangeTo,default,8
+32,NetDwellingsRangeTo,default,8
+33,NetDwellingsRangeTo,default,9
 34,Hectares,missing,
 35,Hectares,missing,
 36,Hectares,missing,

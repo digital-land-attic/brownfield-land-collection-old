@@ -1,16 +1,16 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
 2018-11-13,local-authority-eng:PRE,BR01,Preston.,,,not owned by a public authority,permissioned,reserved matters approval,,53.78008,-2.701826,5.33,,,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
-2018-11-13,local-authority-eng:PRE,BR04,Former Cottam Brickworks,,,not owned by a public authority,permissioned,reserved matters approval,,53.77879,-2.748499,8.42,93,,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
-2018-11-13,local-authority-eng:PRE,BR06,Avenham Street Car Park,,,not owned by a public authority,permissioned,outline planning permission,,53.75721,-2.696637,0.6,15,,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
+2018-11-13,local-authority-eng:PRE,BR04,Former Cottam Brickworks,,,not owned by a public authority,permissioned,reserved matters approval,,53.77879,-2.748499,8.42,93,93,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
+2018-11-13,local-authority-eng:PRE,BR06,Avenham Street Car Park,,,not owned by a public authority,permissioned,outline planning permission,,53.75721,-2.696637,0.6,15,15,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
 2018-11-13,local-authority-eng:PRE,BR08,Mount Street / Garden Street,,,not owned by a public authority,not permissioned,,,53.7557,-2.703164,0.06,,,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
 ,local-authority-eng:PRE,,"Former St Joseph's Orphanage, Theatre",,,,,,,,,,,,,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
 2018-11-13,local-authority-eng:PRE,BR09,Street,,,,permissioned,full planning permission,,53.75672,-2.704228,,,,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
 ,local-authority-eng:PRE,,,,,,,,,,,,,,,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
-2018-11-13,local-authority-eng:PRE,BR10,"Lancashire House, Winckley Square.",,yes,,permissioned,,,53.7555,-2.702766,,29,,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
+2018-11-13,local-authority-eng:PRE,BR10,"Lancashire House, Winckley Square.",,yes,,permissioned,,,53.7555,-2.702766,,29,29,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
 2018-11-13,local-authority-eng:PRE,BR15,"Alstom site, Channel Way",,,,not permissioned,,,53.75974,-2.721206,,,,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
-2018-11-13,local-authority-eng:PRE,BR16,"Goss Graphics, Fylde Road.",,,,not permissioned,,,53.7658,-2.713846,,95,,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
+2018-11-13,local-authority-eng:PRE,BR16,"Goss Graphics, Fylde Road.",,,,not permissioned,,,53.7658,-2.713846,,95,95,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
 ,local-authority-eng:PRE,,,,,,,,,,,,,,,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
-2018-11-13,local-authority-eng:PRE,BR17,Land at Ashton Basin,,,,permissioned,outline planning permission,,53.76606,-2.721496,,12,,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
+2018-11-13,local-authority-eng:PRE,BR17,Land at Ashton Basin,,,,permissioned,outline planning permission,,53.76606,-2.721496,,12,12,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
 ,local-authority-eng:PRE,,"Former Byron Hotel, 25-35 Grimshaw",,,,,,,,,,,,,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
 2018-11-13,local-authority-eng:PRE,BR18,Street.,,,,permissioned,full planning permission,,53.75929,-2.692242,,,,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
 ,local-authority-eng:PRE,,,,,,,,,,,,,,,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
@@ -47,7 +47,7 @@ entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,pl
 2018-11-19,local-authority-eng:PRE,BR52,"East Cliff House, 5 East Cliff",,,,permissioned,full planning permission,,53.75398,-2.703378,,,,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
 ,local-authority-eng:PRE,,,,,,,,,,,,,,,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
 2018-11-19,local-authority-eng:PRE,BR53,63 Guildhall Street,,,not owned by a public authority,permissioned,,,53.75664,-2.699722,0.02,,,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
-2018-11-19,local-authority-eng:PRE,BR60,33 Manchester Road,,,not owned by a public authority,not permissioned,,,53.75868,-2.692809,0.04,0,,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
+2018-11-19,local-authority-eng:PRE,BR60,33 Manchester Road,,,not owned by a public authority,not permissioned,,,53.75868,-2.692809,0.04,0,0,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
 2018-11-19,local-authority-eng:PRE,BR62,Former Royal Cross site,,,owned by a public authority,permissioned,full planning permission,,53.76499,-2.651301,1,,,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
 2018-11-19,local-authority-eng:PRE,BR63,"Land at D'Urton Lane, Broughton.",,yes,not owned by a public authority,permissioned,full planning permission,,53.80441,-2.709582,3.49,,,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4
 2018-11-19,local-authority-eng:PRE,BR66,"Lodge Bank, Moor Lane",,,not owned by a public authority,permissioned,full planning permission,,53.76546,-2.704359,0.01,,,2016-09-06,,,c0f874ac423d633e2fb43f9c547cdd2642338e96ec4e10d746987ac4a04d0df4

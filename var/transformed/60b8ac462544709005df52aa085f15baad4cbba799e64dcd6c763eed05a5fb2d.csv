@@ -1,91 +1,47 @@
 entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
 ,local-authority-eng:FOR,BF002,"LandOffTheGrove, BeckRow",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF002&StartZoom=500,yes,,not permissioned,,,52.373531,0.465348,0.83,,,2017-09-01,,"""SHLAA REF BR/05""
-""SHLAA allocation Mixed use""
-""Brownfield -dwellings and grounds outside settlement boundary""
-LINK TO SHLAA",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+""SHLAA allocation Mixed use"". ""Brownfield -dwellings and grounds outside settlement boundary"". LINK TO SHLAA",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
 ,local-authority-eng:FOR,BF006,"WarrenClose, Brandon",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF006&StartZoom=500,yes,not owned by a public authority,not permissioned,,,52.446108,0.626043,0.39,,,2017-09-01,,"""SHLAA REF B/29""
-""SALP REF SA2(A) - residential""
-""Brownfield, previous library and preschool""
-LINK TO SHLAA",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+""SALP REF SA2(A) - residential"". ""Brownfield, previous library and preschool"". LINK TO SHLAA",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
 ,local-authority-eng:FOR,BF007,"LandOffGasHouseLane, Brandon",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF007&StartZoom=500,yes,not owned by a public authority,pending decision,,,52.447832,0.630605,0.35,,,2017-09-01,,"""SHLAA REF B/31""
 ""SALP REF SA2(b) - residential""
-""DC/16/1450/OUT - 10 dwellings; pending""
-""Brownfield, previous gasworks""
-LINK TO SHLAA",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
-,local-authority-eng:FOR,BF012,"Landrearof65, 69, 73StationRoad, Lakenheath",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF0012&StartZoom=500,yes,,not permissioned,,,52.424065,0.520855,0.81,,,2017-09-01,,"""SHLAA REF L/03""
-""Brownfield- gardens within settlement boundary, but not town""
-LINK TO SHLAA",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+""DC/16/1450/OUT - 10 dwellings; pending"". ""Brownfield, previous gasworks"". LINK TO SHLAA",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+,local-authority-eng:FOR,BF012,"Landrearof65, 69, 73StationRoad, Lakenheath",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF0012&StartZoom=500,yes,,not permissioned,,,52.424065,0.520855,0.81,,,2017-09-01,,"""SHLAA REF L/03"". ""Brownfield- gardens within settlement boundary, but not town"". LINK TO SHLAA",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
 ,local-authority-eng:FOR,BF014,"MatthewsNurserySite, DumplingBridgeLane, Lakenheath",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF014&StartZoom=500,yes,mixed ownership,permissioned,reserved matters approval,,52.418076,0.51666,1.86,,,2017-09-01,,"""F/2010/0337/OUT - 13 dwellings approved 28/02/12""
 ""SHLAA REF L/29""
-""SALP REF ""SA7(a) - mixed""
-""Mixed - glasshouses and open land within settlement boundary""
-LINK TO PLANNING APPLICATION",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+""SALP REF ""SA7(a) - mixed"". ""Mixed - glasshouses and open land within settlement boundary"". LINK TO PLANNING APPLICATION",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
 ,local-authority-eng:FOR,BF015,"DistrictCouncilOffices, CollegeHeathRoad, Mildenhall",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF015&StartZoom=500,yes,owned by a public authority,not permissioned,,,52.345744,0.519068,2.01,,,2017-09-01,,"""SHLAA REF M/46""
-""SALP REF SA5(b) - residential""
-""Brownfield- Council offices""
-LINK TO SITE ALLOCATIONS LOCAL PLAN",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
-,local-authority-eng:FOR,BF016,"LandAtWamilCourt, Mildenhall",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF016&StartZoom=500,yes,owned by a public authority,not permissioned,,,52.342092,0.50434,0.62,,,2017-09-01,,"""SHLAA REF M/47""
-""Brownfield - care home""
-LINK TO SHLAA",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+""SALP REF SA5(b) - residential"". ""Brownfield- Council offices"". LINK TO SITE ALLOCATIONS LOCAL PLAN",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+,local-authority-eng:FOR,BF016,"LandAtWamilCourt, Mildenhall",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF016&StartZoom=500,yes,owned by a public authority,not permissioned,,,52.342092,0.50434,0.62,,,2017-09-01,,"""SHLAA REF M/47"". ""Brownfield - care home"". LINK TO SHLAA",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
 ,local-authority-eng:FOR,BF019,"FormerSwimmingPoolSite, Newmarket",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF019&StartZoom=500,yes,not owned by a public authority,not permissioned,,,52.241325,0.397764,0.26,,,2017-09-01,,"""SHLAA REF N/29""
 ""SALP REF ""SA6(b) - mixed""
-""Planning application for 7 units relates to part of site at Public House""
-""Brownfield - old swimming pool site and disused public house within settlement boundary""
-LINK TO PLANNING APPLICATION",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+""Planning application for 7 units relates to part of site at Public House"". ""Brownfield - old swimming pool site and disused public house within settlement boundary"". LINK TO PLANNING APPLICATION",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
 ,local-authority-eng:FOR,BF020,"StFelixMiddleSchoolSite, Newmarket",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF020&StartZoom=500,yes,owned by a public authority,not permissioned,,,52.256971,0.40085,1.39,,,2017-09-01,,"""SHLAA REF N/32""
-""SHLAA allocation Mixed use""
-""Mixed - playingfields, outbuildings assoc with school, in settlement boundary""
-LINK TO SHLAA",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+""SHLAA allocation Mixed use"". ""Mixed - playingfields, outbuildings assoc with school, in settlement boundary"". LINK TO SHLAA",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
 ,local-authority-eng:FOR,BF021,"LandOffTurnpikeRoad, RedLodge",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF021&StartZoom=500,yes,mixed ownership,pending decision,,,52.30318,0.482736,2.56,,,2017-09-01,,"""Planning application is for 55 dwellings""
 ""SHLAA REF RL/03""
 ""SALP REF SA9(a) - residential""
-""SHLAA allocation Mixed use""
-""Mixed - residential, haulage depot, mobile home park, garage""
-LINK TO SITE ALLOCATIONS LOCAL PLAN",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+""SHLAA allocation Mixed use"". ""Mixed - residential, haulage depot, mobile home park, garage"". LINK TO SITE ALLOCATIONS LOCAL PLAN",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
 ,local-authority-eng:FOR,BF027,"LandOffPottHallRoad, WestRow",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF027&StartZoom=500,yes,mixed ownership,not permissioned,,,52.34965,0.467807,0.55,,,2017-09-01,,"""SHLAA REF WR/25""
-""SHLAA allocation Mixed use""
-""Mixed - agricultural and residential within settlement boundary""
-LINK TO SHLAA",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
-,local-authority-eng:SED,BF031,"BuryStEdmundsGardenCentre, BuryStEdmunds",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF033&StartZoom=500,yes,not owned by a public authority,not permissioned,,,52.235426,0.729252,1.37,,,2017-09-01,,"""VISION 2031 REF BV10A""
-""Brownfield - garden centre""
-LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+""SHLAA allocation Mixed use"". ""Mixed - agricultural and residential within settlement boundary"". LINK TO SHLAA",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+,local-authority-eng:SED,BF031,"BuryStEdmundsGardenCentre, BuryStEdmunds",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF033&StartZoom=500,yes,not owned by a public authority,not permissioned,,,52.235426,0.729252,1.37,,,2017-09-01,,"""VISION 2031 REF BV10A"". ""Brownfield - garden centre"". LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
 ,local-authority-eng:SED,BF032,"GaragesAndBusDepot, CottonLane, BuryStEdmunds",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF034&StartZoom=500,yes,not owned by a public authority,not permissioned,,,52.24697,0.719236,0.65,,,2017-09-01,,"""SE/12/1468/FUL Partial COU showroom""
-""VISION 2031 BV10h""
-""Brownfield - bus depot and car repairs/ dealership""
-LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
-,local-authority-eng:SED,BF033,"HospitalSite, HospitalRoad, BuryStEdmunds",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF035&StartZoom=500,yes,not owned by a public authority,not permissioned,,,52.24187,0.702883,1.59,,,2017-09-01,,"""VISION 2031 BV10c""
-""Brownfield - hospital""
-LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+""VISION 2031 BV10h"". ""Brownfield - bus depot and car repairs/ dealership"". LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+,local-authority-eng:SED,BF033,"HospitalSite, HospitalRoad, BuryStEdmunds",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF035&StartZoom=500,yes,not owned by a public authority,not permissioned,,,52.24187,0.702883,1.59,,,2017-09-01,,"""VISION 2031 BV10c"". ""Brownfield - hospital"". LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
 ,local-authority-eng:SED,BF035,"LandAtRamMeadow, BuryStEdmunds",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF036&StartZoom=500,yes,owned by a public authority,not permissioned,,,52.248864,0.720978,0.98,,,2017-09-01,,"""VISION 2031 BV11""
-""SHLAA allocation Mixed use""
-""Mixed - carpark, meadow and football ground""
-LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+""SHLAA allocation Mixed use"". ""Mixed - carpark, meadow and football ground"". LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
 ,local-authority-eng:SED,BF037,"SchoolYard, BuryStEdmunds",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF037&StartZoom=500,yes,mixed ownership,not permissioned,other,,52.246705,0.709667,0.28,,,2017-09-01,,"""Planning permission SE/04/2197/P approved and lapsed."" 
-""VISION 2031 BV10f""
-""Brownfield  - auctioneers and car park""
-LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+""VISION 2031 BV10f"". ""Brownfield  - auctioneers and car park"". LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
 ,local-authority-eng:SED,BF039,"StationHill, BuryStEdmunds",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF039&StartZoom=500,yes,not owned by a public authority,pending decision,,,52.252589,0.712297,1.41,,,2017-09-01,,"""Partial - DC/15/1520/FUL 14 apartments and 28 dwellings; pending""
-""VISION 2031 BV8""
-""Brownfield - underused railway sidings and vacant land""
-LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+""VISION 2031 BV8"". ""Brownfield - underused railway sidings and vacant land"". LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
 ,local-authority-eng:SED,BF040,"TayfenRoad, BuryStEdmunds",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF040&StartZoom=500,yes,mixed ownership,pending decision,,,52.251035,0.709067,2.2,,,2017-09-01,,"""DC/15/0689/OUT 215 dwellings and 60 bed care home; pending""
-""VISION 2031 BV9""
-""Brownfield - commercial/ vacant uses and decommissioned gas holder""
-LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+""VISION 2031 BV9"". ""Brownfield - commercial/ vacant uses and decommissioned gas holder"". LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
 ,local-authority-eng:SED,BF041,"WeymedSite, BuryStEdmunds",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF041&StartZoom=500,yes,not owned by a public authority,permissioned,full planning permission,,52.241827,0.719229,0.37,,,2017-09-01,,"""SE/12/0451/FULCA - 15 dwellings approved 19/03/13 - lapsed""
 ""DC/17/1645/CLE submitted to determine lawful commencement of development - granted""
-""VISION 2031 BV10e""
-""Brownfield - vacant County council offices""
-LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
-,local-authority-eng:SED,BF042,"AttertonAndEllisSite, Haverhill ",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF042&StartZoom=500,yes,not owned by a public authority,not permissioned,,,52.077381,0.446935,0.4,,,2017-09-01,,"""SE/06/1504 conversion of mill to 3 dwellings, erection 31 flats and 5 houses approved 30/04/10 - planning application lapsed""
-""Brownfield - engineering works""
-LINK TO PLANNING APPLICATION",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+""VISION 2031 BV10e"". ""Brownfield - vacant County council offices"". LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+,local-authority-eng:SED,BF042,"AttertonAndEllisSite, Haverhill ",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF042&StartZoom=500,yes,not owned by a public authority,not permissioned,,,52.077381,0.446935,0.4,,,2017-09-01,,"""SE/06/1504 conversion of mill to 3 dwellings, erection 31 flats and 5 houses approved 30/04/10 - planning application lapsed"". ""Brownfield - engineering works"". LINK TO PLANNING APPLICATION",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
 ,local-authority-eng:SED,BF044,"FormerGasworks, WithersfieldRoad, Haverhill",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF044&StartZoom=500,yes,not owned by a public authority,not permissioned,,,52.087256,0.433812,0.25,,,2017-09-01,,"""site remediation application approved""
-""VISION 2031 HV6a""
-""Brownfield - gasworks""
-LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+""VISION 2031 HV6a"". ""Brownfield - gasworks"". LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
 ,local-authority-eng:SED,BF045,"FormerWestfieldPrimarySchool, ManorRoad, Haverhill",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF045&StartZoom=500,yes,owned by a public authority,not permissioned,,,52.080966,0.449218,0.44,,,2017-09-01,,"""demolition of former school - SE/13/0289/CR3""
 ""VISION 2031 HV6c""
-""SHLAA allocation Mixed use""
-""Brownfield - previous school""
-LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d
+""SHLAA allocation Mixed use"". ""Brownfield - previous school"". LINK TO VISION 2031",60b8ac462544709005df52aa085f15baad4cbba799e64dcd6c763eed05a5fb2d

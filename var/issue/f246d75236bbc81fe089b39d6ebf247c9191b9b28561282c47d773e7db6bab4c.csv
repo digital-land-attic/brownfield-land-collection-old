@@ -2,3 +2,5 @@ row-number,field,issue-type,value
 30,SiteReference,missing,
 31,SiteReference,missing,
 32,SiteReference,missing,
+32,NetDwellingsRangeFrom,missing,
+32,NetDwellingsRangeTo,missing,

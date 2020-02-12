@@ -1,2 +1,4 @@
 row-number,field,issue-type,value
 7,PermissionDate,date,00:00:00
+28,NetDwellingsRangeFrom,missing,
+28,NetDwellingsRangeTo,missing,

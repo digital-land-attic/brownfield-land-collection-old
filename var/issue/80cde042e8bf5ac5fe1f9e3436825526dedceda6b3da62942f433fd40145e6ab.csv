@@ -1,11 +1,21 @@
 row-number,field,issue-type,value
 1,NetDwellingsRangeTo,integer,To be determined by planning application
+1,NetDwellingsRangeTo,default,10
 2,NetDwellingsRangeTo,integer,To be determined by planning application
+2,NetDwellingsRangeTo,default,37
 4,NetDwellingsRangeTo,integer,To be determined by planning application
+4,NetDwellingsRangeTo,default,75
 5,NetDwellingsRangeTo,integer,To be determined by planning application
+5,NetDwellingsRangeTo,default,80
 6,NetDwellingsRangeTo,integer,To be determined by planning application
+6,NetDwellingsRangeTo,default,379
 7,NetDwellingsRangeTo,integer,To be determined by planning application
+7,NetDwellingsRangeTo,default,267
 9,NetDwellingsRangeTo,integer,To be determined by planning application
+9,NetDwellingsRangeTo,default,10
 10,NetDwellingsRangeTo,integer,To be determined by planning application
+10,NetDwellingsRangeTo,default,380
 11,NetDwellingsRangeTo,integer,To be determined by planning application
+11,NetDwellingsRangeTo,default,60
 12,NetDwellingsRangeTo,integer,To be determined by planning application
+12,NetDwellingsRangeTo,default,240

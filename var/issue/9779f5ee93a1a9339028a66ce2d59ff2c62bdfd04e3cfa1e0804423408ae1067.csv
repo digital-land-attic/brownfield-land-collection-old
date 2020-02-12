@@ -1,2 +1,5 @@
 row-number,field,issue-type,value
 2,NetDwellingsRangeTo,integer,500 plus
+2,NetDwellingsRangeTo,default,500
+55,NetDwellingsRangeTo,default,6
+56,NetDwellingsRangeTo,default,38

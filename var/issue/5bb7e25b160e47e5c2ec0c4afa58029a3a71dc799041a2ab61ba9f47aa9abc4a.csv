@@ -17,10 +17,13 @@ row-number,field,issue-type,value
 16,"GeoX,GeoY",out of range,"3228046.33,3011766.4"
 17,"GeoX,GeoY",out of range,"3238090.47,3009649.69"
 18,"GeoX,GeoY",out of range,"3228929.28,3019586.8"
+19,NetDwellingsRangeFrom,default,15
 19,"GeoX,GeoY",out of range,"3227542.48,3012093.79"
 20,"GeoX,GeoY",out of range,"3228274.42,3021325.79"
 21,"GeoX,GeoY",out of range,"3235631.89,3002661.09"
 22,"GeoX,GeoY",out of range,"3225695.71,3012888.61"
+23,NetDwellingsRangeFrom,missing,
+23,NetDwellingsRangeTo,missing,
 23,"GeoX,GeoY",out of range,"3230865.29,3013302.29"
 24,"GeoX,GeoY",out of range,"3232467.84,2999124.47"
 25,"GeoX,GeoY",out of range,"3230179.82,3012965.78"
@@ -29,14 +32,24 @@ row-number,field,issue-type,value
 28,"GeoX,GeoY",out of range,"3231806.43,3018170.12"
 29,"GeoX,GeoY",out of range,"3228784.07,3012547.3"
 30,"GeoX,GeoY",out of range,"3227271.61,3014641.06"
+31,NetDwellingsRangeFrom,missing,
+31,NetDwellingsRangeTo,missing,
 31,"GeoX,GeoY",out of range,"3225825.89,3012163.86"
+32,NetDwellingsRangeFrom,missing,
+32,NetDwellingsRangeTo,missing,
 32,"GeoX,GeoY",out of range,"3229405.66,3015807.43"
+33,NetDwellingsRangeFrom,missing,
+33,NetDwellingsRangeTo,missing,
 33,"GeoX,GeoY",out of range,"3228858.94,3010263.8"
 34,"GeoX,GeoY",out of range,"3229068.4,3004199"
 35,"GeoX,GeoY",out of range,"3227941.59,3012107.25"
 36,"GeoX,GeoY",out of range,"3228410.13,3010856.9"
+37,NetDwellingsRangeFrom,missing,
+37,NetDwellingsRangeTo,missing,
 37,"GeoX,GeoY",out of range,"3227471.39,3012194.84"
 38,"GeoX,GeoY",out of range,"3227432.95,3012178.61"
+39,NetDwellingsRangeFrom,missing,
+39,NetDwellingsRangeTo,missing,
 39,"GeoX,GeoY",out of range,"3227495.83,3011843.39"
 40,"GeoX,GeoY",out of range,"3227318.81,3011773.69"
 41,"GeoX,GeoY",out of range,"3235368.4,3004688.19"
@@ -47,10 +60,12 @@ row-number,field,issue-type,value
 46,"GeoX,GeoY",out of range,"3237069.5,3003460.42"
 47,"GeoX,GeoY",out of range,"3230122.75,3020982.82"
 48,"GeoX,GeoY",out of range,"3227330.89,3021196.25"
+49,NetDwellingsRangeFrom,default,8
 49,"GeoX,GeoY",out of range,"3232502.23,3010098.68"
 50,"GeoX,GeoY",out of range,"3228325.86,3012381.63"
 51,"GeoX,GeoY",out of range,"3237306.72,3003166.87"
 52,"GeoX,GeoY",out of range,"3229982.62,3015820.89"
+53,NetDwellingsRangeFrom,default,61
 53,"GeoX,GeoY",out of range,"3227468.08,3012082.27"
 54,"GeoX,GeoY",out of range,"3227728.25,3011080.56"
 55,"GeoX,GeoY",out of range,"3237148.42,3004095.28"
@@ -59,10 +74,17 @@ row-number,field,issue-type,value
 58,"GeoX,GeoY",out of range,"3230837.73,3013316.4"
 59,"GeoX,GeoY",out of range,"3229347.85,3004227.76"
 60,"GeoX,GeoY",out of range,"3231983.17,3014554.49"
+61,NetDwellingsRangeFrom,default,109
 61,"GeoX,GeoY",out of range,"3231156.54,3019561.16"
+62,NetDwellingsRangeFrom,default,28
 62,"GeoX,GeoY",out of range,"3229257.04,3020291.17"
+63,NetDwellingsRangeFrom,default,9
 63,"GeoX,GeoY",out of range,"3233591.98,3011852.24"
+64,NetDwellingsRangeFrom,default,10
 64,"GeoX,GeoY",out of range,"3226665.79,3007859.81"
+65,NetDwellingsRangeFrom,default,6
 65,"GeoX,GeoY",out of range,"3227988.89,3010976.01"
+66,NetDwellingsRangeFrom,default,9
 66,"GeoX,GeoY",out of range,"3229912.36,3019753.48"
+67,NetDwellingsRangeFrom,default,8
 67,"GeoX,GeoY",out of range,"3233661.4,3011829.56"

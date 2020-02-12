@@ -1,328 +1,1514 @@
 row-number,field,issue-type,value
 1,PlanningStatus,enum,Other Commitment
+1,NetDwellingsRangeFrom,missing,
+1,NetDwellingsRangeTo,missing,
+2,NetDwellingsRangeFrom,missing,
+2,NetDwellingsRangeTo,missing,
+3,NetDwellingsRangeFrom,missing,
+3,NetDwellingsRangeTo,missing,
+4,NetDwellingsRangeFrom,missing,
+4,NetDwellingsRangeTo,missing,
+5,NetDwellingsRangeFrom,missing,
+5,NetDwellingsRangeTo,missing,
+6,NetDwellingsRangeFrom,missing,
+6,NetDwellingsRangeTo,missing,
+7,NetDwellingsRangeFrom,missing,
+7,NetDwellingsRangeTo,missing,
+8,NetDwellingsRangeFrom,missing,
+8,NetDwellingsRangeTo,missing,
+9,NetDwellingsRangeFrom,missing,
+9,NetDwellingsRangeTo,missing,
 10,PlanningStatus,enum,Completed During 2017/18
+10,NetDwellingsRangeFrom,missing,
+10,NetDwellingsRangeTo,missing,
+11,NetDwellingsRangeFrom,missing,
+11,NetDwellingsRangeTo,missing,
 12,PlanningStatus,enum,Completed During 2017/18
+12,NetDwellingsRangeFrom,missing,
+12,NetDwellingsRangeTo,missing,
+13,NetDwellingsRangeFrom,missing,
+13,NetDwellingsRangeTo,missing,
+14,NetDwellingsRangeFrom,missing,
+14,NetDwellingsRangeTo,missing,
+15,NetDwellingsRangeFrom,missing,
+15,NetDwellingsRangeTo,missing,
 16,PlanningStatus,enum,Completed During 2018/19
+16,NetDwellingsRangeFrom,missing,
+16,NetDwellingsRangeTo,missing,
+17,NetDwellingsRangeFrom,missing,
+17,NetDwellingsRangeTo,missing,
+18,NetDwellingsRangeFrom,missing,
+18,NetDwellingsRangeTo,missing,
 19,PlanningStatus,enum,Completed During 2018/19
+19,NetDwellingsRangeFrom,missing,
+19,NetDwellingsRangeTo,missing,
+20,NetDwellingsRangeFrom,missing,
+20,NetDwellingsRangeTo,missing,
+21,NetDwellingsRangeFrom,missing,
+21,NetDwellingsRangeTo,missing,
+22,NetDwellingsRangeFrom,missing,
+22,NetDwellingsRangeTo,missing,
+23,NetDwellingsRangeFrom,missing,
+23,NetDwellingsRangeTo,missing,
 24,PlanningStatus,enum,Completed During 2018/19
+24,NetDwellingsRangeFrom,missing,
+24,NetDwellingsRangeTo,missing,
+25,NetDwellingsRangeFrom,missing,
+25,NetDwellingsRangeTo,missing,
+26,NetDwellingsRangeFrom,missing,
+26,NetDwellingsRangeTo,missing,
+27,NetDwellingsRangeFrom,missing,
+27,NetDwellingsRangeTo,missing,
+28,NetDwellingsRangeFrom,missing,
+28,NetDwellingsRangeTo,missing,
+29,NetDwellingsRangeFrom,missing,
+29,NetDwellingsRangeTo,missing,
 30,PlanningStatus,enum,Completed During 2018/19
+30,NetDwellingsRangeFrom,missing,
+30,NetDwellingsRangeTo,missing,
+31,NetDwellingsRangeFrom,missing,
+31,NetDwellingsRangeTo,missing,
+32,NetDwellingsRangeFrom,missing,
+32,NetDwellingsRangeTo,missing,
+33,NetDwellingsRangeFrom,missing,
+33,NetDwellingsRangeTo,missing,
+34,NetDwellingsRangeFrom,missing,
+34,NetDwellingsRangeTo,missing,
+35,NetDwellingsRangeFrom,missing,
+35,NetDwellingsRangeTo,missing,
+36,NetDwellingsRangeFrom,missing,
+36,NetDwellingsRangeTo,missing,
+37,NetDwellingsRangeFrom,missing,
+37,NetDwellingsRangeTo,missing,
+38,NetDwellingsRangeFrom,missing,
+38,NetDwellingsRangeTo,missing,
 39,PlanningStatus,enum,Completed During 2016/17
+39,NetDwellingsRangeFrom,missing,
+39,NetDwellingsRangeTo,missing,
+40,NetDwellingsRangeFrom,missing,
+40,NetDwellingsRangeTo,missing,
 41,PlanningStatus,enum,Completed During 2017/18
+41,NetDwellingsRangeFrom,missing,
+41,NetDwellingsRangeTo,missing,
+42,NetDwellingsRangeFrom,missing,
+42,NetDwellingsRangeTo,missing,
+43,NetDwellingsRangeFrom,missing,
+43,NetDwellingsRangeTo,missing,
+44,NetDwellingsRangeFrom,missing,
+44,NetDwellingsRangeTo,missing,
+45,NetDwellingsRangeFrom,missing,
+45,NetDwellingsRangeTo,missing,
+46,NetDwellingsRangeFrom,missing,
+46,NetDwellingsRangeTo,missing,
+47,NetDwellingsRangeFrom,missing,
+47,NetDwellingsRangeTo,missing,
+48,NetDwellingsRangeFrom,missing,
+48,NetDwellingsRangeTo,missing,
+49,NetDwellingsRangeFrom,missing,
+49,NetDwellingsRangeTo,missing,
+50,NetDwellingsRangeFrom,missing,
+50,NetDwellingsRangeTo,missing,
 51,PlanningStatus,enum,Completed During 2017/18
+51,NetDwellingsRangeFrom,missing,
+51,NetDwellingsRangeTo,missing,
 52,PlanningStatus,enum,Completed During 2018/19
+52,NetDwellingsRangeFrom,missing,
+52,NetDwellingsRangeTo,missing,
+53,NetDwellingsRangeFrom,missing,
+53,NetDwellingsRangeTo,missing,
 54,PlanningStatus,enum,Completed During 2017/18
+54,NetDwellingsRangeFrom,missing,
+54,NetDwellingsRangeTo,missing,
 55,PlanningStatus,enum,Completed During 2017/18
+55,NetDwellingsRangeFrom,missing,
+55,NetDwellingsRangeTo,missing,
+56,NetDwellingsRangeFrom,missing,
+56,NetDwellingsRangeTo,missing,
 57,PlanningStatus,enum,Completed During 2016/17
+57,NetDwellingsRangeFrom,missing,
+57,NetDwellingsRangeTo,missing,
 58,PlanningStatus,enum,Completed During 2016/17
+58,NetDwellingsRangeFrom,missing,
+58,NetDwellingsRangeTo,missing,
 59,PlanningStatus,enum,Completed During 2016/17
+59,NetDwellingsRangeFrom,missing,
+59,NetDwellingsRangeTo,missing,
 60,PlanningStatus,enum,Completed During 2016/17
+60,NetDwellingsRangeFrom,missing,
+60,NetDwellingsRangeTo,missing,
 61,PlanningStatus,enum,Completed During 2016/17
+61,NetDwellingsRangeFrom,missing,
+61,NetDwellingsRangeTo,missing,
+62,NetDwellingsRangeFrom,missing,
+62,NetDwellingsRangeTo,missing,
 63,PlanningStatus,enum,Completed During 2016/17
+63,NetDwellingsRangeFrom,missing,
+63,NetDwellingsRangeTo,missing,
 64,PlanningStatus,enum,Completed During 2016/17
+64,NetDwellingsRangeFrom,missing,
+64,NetDwellingsRangeTo,missing,
 65,PlanningStatus,enum,Completed During 2016/17
+65,NetDwellingsRangeFrom,missing,
+65,NetDwellingsRangeTo,missing,
 66,PlanningStatus,enum,Other Commitment
+66,NetDwellingsRangeFrom,missing,
+66,NetDwellingsRangeTo,missing,
 67,PlanningStatus,enum,Other Commitment
+67,NetDwellingsRangeFrom,missing,
+67,NetDwellingsRangeTo,missing,
 68,PlanningStatus,enum,Other Commitment
+68,NetDwellingsRangeFrom,missing,
+68,NetDwellingsRangeTo,missing,
 69,PlanningStatus,enum,Other Commitment
+69,NetDwellingsRangeFrom,missing,
+69,NetDwellingsRangeTo,missing,
 70,PlanningStatus,enum,Other Commitment
+70,NetDwellingsRangeFrom,missing,
+70,NetDwellingsRangeTo,missing,
 71,PlanningStatus,enum,Other Commitment
+71,NetDwellingsRangeFrom,missing,
+71,NetDwellingsRangeTo,missing,
 72,PlanningStatus,enum,Other Commitment
+72,NetDwellingsRangeFrom,missing,
+72,NetDwellingsRangeTo,missing,
 73,PlanningStatus,enum,Other Commitment
+73,NetDwellingsRangeFrom,missing,
+73,NetDwellingsRangeTo,missing,
 74,PlanningStatus,enum,Other Commitment
+74,NetDwellingsRangeFrom,missing,
+74,NetDwellingsRangeTo,missing,
 75,PlanningStatus,enum,Other Commitment
+75,NetDwellingsRangeFrom,missing,
+75,NetDwellingsRangeTo,missing,
+76,NetDwellingsRangeFrom,missing,
+76,NetDwellingsRangeTo,missing,
+77,NetDwellingsRangeFrom,missing,
+77,NetDwellingsRangeTo,missing,
+78,NetDwellingsRangeFrom,missing,
+78,NetDwellingsRangeTo,missing,
 79,PlanningStatus,enum,Other Commitment
+79,NetDwellingsRangeFrom,missing,
+79,NetDwellingsRangeTo,missing,
+80,NetDwellingsRangeFrom,missing,
+80,NetDwellingsRangeTo,missing,
+81,NetDwellingsRangeFrom,missing,
+81,NetDwellingsRangeTo,missing,
+82,NetDwellingsRangeFrom,missing,
+82,NetDwellingsRangeTo,missing,
+83,NetDwellingsRangeFrom,missing,
+83,NetDwellingsRangeTo,missing,
 84,PlanningStatus,enum,Other Commitment
+84,NetDwellingsRangeFrom,missing,
+84,NetDwellingsRangeTo,missing,
+85,NetDwellingsRangeFrom,missing,
+85,NetDwellingsRangeTo,missing,
 86,PlanningStatus,enum,Other Commitment
+86,NetDwellingsRangeFrom,missing,
+86,NetDwellingsRangeTo,missing,
 87,PlanningStatus,enum,Completed During 2018/19
+87,NetDwellingsRangeFrom,missing,
+87,NetDwellingsRangeTo,missing,
+88,NetDwellingsRangeFrom,missing,
+88,NetDwellingsRangeTo,missing,
 89,PlanningStatus,enum,Completed During 2018/19
+89,NetDwellingsRangeFrom,missing,
+89,NetDwellingsRangeTo,missing,
 90,PlanningStatus,enum,Completed During 2018/19
+90,NetDwellingsRangeFrom,missing,
+90,NetDwellingsRangeTo,missing,
 91,PlanningStatus,enum,Other Commitment
+91,NetDwellingsRangeFrom,missing,
+91,NetDwellingsRangeTo,missing,
 92,PlanningStatus,enum,Other Commitment
+92,NetDwellingsRangeFrom,missing,
+92,NetDwellingsRangeTo,missing,
 93,PlanningStatus,enum,Completed During 2017/18
+93,NetDwellingsRangeFrom,missing,
+93,NetDwellingsRangeTo,missing,
+94,NetDwellingsRangeFrom,missing,
+94,NetDwellingsRangeTo,missing,
+95,NetDwellingsRangeFrom,missing,
+95,NetDwellingsRangeTo,missing,
 96,PlanningStatus,enum,Other Commitment
+96,NetDwellingsRangeFrom,missing,
+96,NetDwellingsRangeTo,missing,
 97,PlanningStatus,enum,Other Commitment
+97,NetDwellingsRangeFrom,missing,
+97,NetDwellingsRangeTo,missing,
 98,PlanningStatus,enum,Other Commitment
+98,NetDwellingsRangeFrom,missing,
+98,NetDwellingsRangeTo,missing,
 99,PlanningStatus,enum,Other Commitment
+99,NetDwellingsRangeFrom,missing,
+99,NetDwellingsRangeTo,missing,
 100,PlanningStatus,enum,Other Commitment
+100,NetDwellingsRangeFrom,missing,
+100,NetDwellingsRangeTo,missing,
 101,PlanningStatus,enum,Other Commitment
+101,NetDwellingsRangeFrom,missing,
+101,NetDwellingsRangeTo,missing,
+102,NetDwellingsRangeFrom,missing,
+102,NetDwellingsRangeTo,missing,
 103,PlanningStatus,enum,Other Commitment
+103,NetDwellingsRangeFrom,missing,
+103,NetDwellingsRangeTo,missing,
 104,PlanningStatus,enum,Other Commitment
+104,NetDwellingsRangeFrom,missing,
+104,NetDwellingsRangeTo,missing,
+105,NetDwellingsRangeFrom,missing,
+105,NetDwellingsRangeTo,missing,
 106,PlanningStatus,enum,Completed During 2017/18
+106,NetDwellingsRangeFrom,missing,
+106,NetDwellingsRangeTo,missing,
 107,PlanningStatus,enum,Other Commitment
+107,NetDwellingsRangeFrom,missing,
+107,NetDwellingsRangeTo,missing,
+108,NetDwellingsRangeFrom,missing,
+108,NetDwellingsRangeTo,missing,
 109,PlanningStatus,enum,Other Commitment
+109,NetDwellingsRangeFrom,missing,
+109,NetDwellingsRangeTo,missing,
 110,PlanningStatus,enum,Other Commitment
+110,NetDwellingsRangeFrom,missing,
+110,NetDwellingsRangeTo,missing,
 111,PlanningStatus,enum,Other Commitment
+111,NetDwellingsRangeFrom,missing,
+111,NetDwellingsRangeTo,missing,
 112,PlanningStatus,enum,Completed During 2016/17
+112,NetDwellingsRangeFrom,missing,
+112,NetDwellingsRangeTo,missing,
 113,PlanningStatus,enum,Other Commitment
+113,NetDwellingsRangeFrom,missing,
+113,NetDwellingsRangeTo,missing,
 114,PlanningStatus,enum,Other Commitment
+114,NetDwellingsRangeFrom,missing,
+114,NetDwellingsRangeTo,missing,
+115,NetDwellingsRangeFrom,missing,
+115,NetDwellingsRangeTo,missing,
 116,PlanningStatus,enum,Adopted Local Plan
+116,NetDwellingsRangeFrom,missing,
+116,NetDwellingsRangeTo,missing,
 117,PlanningStatus,enum,Other Commitment
+117,NetDwellingsRangeFrom,missing,
+117,NetDwellingsRangeTo,missing,
 118,PlanningStatus,enum,Other Commitment
+118,NetDwellingsRangeFrom,missing,
+118,NetDwellingsRangeTo,missing,
 119,PlanningStatus,enum,Other Commitment
+119,NetDwellingsRangeFrom,missing,
+119,NetDwellingsRangeTo,missing,
 120,PlanningStatus,enum,Other Commitment
+120,NetDwellingsRangeFrom,missing,
+120,NetDwellingsRangeTo,missing,
 121,PlanningStatus,enum,Completed During 2018/19
+121,NetDwellingsRangeFrom,missing,
+121,NetDwellingsRangeTo,missing,
 122,PlanningStatus,enum,Other Commitment
+122,NetDwellingsRangeFrom,missing,
+122,NetDwellingsRangeTo,missing,
 123,PlanningStatus,enum,Other Commitment
+123,NetDwellingsRangeFrom,missing,
+123,NetDwellingsRangeTo,missing,
 124,PlanningStatus,enum,Completed During 2017/18
+124,NetDwellingsRangeFrom,missing,
+124,NetDwellingsRangeTo,missing,
+125,NetDwellingsRangeFrom,missing,
+125,NetDwellingsRangeTo,missing,
+126,NetDwellingsRangeFrom,missing,
+126,NetDwellingsRangeTo,missing,
 127,PlanningStatus,enum,Completed During 2017/18
+127,NetDwellingsRangeFrom,missing,
+127,NetDwellingsRangeTo,missing,
 128,PlanningStatus,enum,Completed During 2018/19
+128,NetDwellingsRangeFrom,missing,
+128,NetDwellingsRangeTo,missing,
 129,PlanningStatus,enum,Other Commitment
+129,NetDwellingsRangeFrom,missing,
+129,NetDwellingsRangeTo,missing,
+130,NetDwellingsRangeFrom,missing,
+130,NetDwellingsRangeTo,missing,
 131,PlanningStatus,enum,Other Commitment
+131,NetDwellingsRangeFrom,missing,
+131,NetDwellingsRangeTo,missing,
 132,PlanningStatus,enum,Other Commitment
+132,NetDwellingsRangeFrom,missing,
+132,NetDwellingsRangeTo,missing,
 133,PlanningStatus,enum,Other Commitment
+133,NetDwellingsRangeFrom,missing,
+133,NetDwellingsRangeTo,missing,
 134,PlanningStatus,enum,Other Commitment
+134,NetDwellingsRangeFrom,missing,
+134,NetDwellingsRangeTo,missing,
 135,PlanningStatus,enum,Other Commitment
+135,NetDwellingsRangeFrom,missing,
+135,NetDwellingsRangeTo,missing,
 136,PlanningStatus,enum,Other Commitment
+136,NetDwellingsRangeFrom,missing,
+136,NetDwellingsRangeTo,missing,
 137,PlanningStatus,enum,Other Commitment
+137,NetDwellingsRangeFrom,missing,
+137,NetDwellingsRangeTo,missing,
 138,PlanningStatus,enum,Other Commitment
+138,NetDwellingsRangeFrom,missing,
+138,NetDwellingsRangeTo,missing,
 139,PlanningStatus,enum,Completed During 2017/18
+139,NetDwellingsRangeFrom,missing,
+139,NetDwellingsRangeTo,missing,
+140,NetDwellingsRangeFrom,missing,
+140,NetDwellingsRangeTo,missing,
 141,PlanningStatus,enum,Other Commitment
+141,NetDwellingsRangeFrom,missing,
+141,NetDwellingsRangeTo,missing,
 142,PlanningStatus,enum,Other Commitment
+142,NetDwellingsRangeFrom,missing,
+142,NetDwellingsRangeTo,missing,
 143,PlanningStatus,enum,Other Commitment
+143,NetDwellingsRangeFrom,missing,
+143,NetDwellingsRangeTo,missing,
 144,PlanningStatus,enum,Other Commitment
+144,NetDwellingsRangeFrom,missing,
+144,NetDwellingsRangeTo,missing,
+145,NetDwellingsRangeFrom,missing,
+145,NetDwellingsRangeTo,missing,
 146,PlanningStatus,enum,Other Commitment
+146,NetDwellingsRangeFrom,missing,
+146,NetDwellingsRangeTo,missing,
 147,PlanningStatus,enum,Other Commitment
+147,NetDwellingsRangeFrom,missing,
+147,NetDwellingsRangeTo,missing,
 148,PlanningStatus,enum,Other Commitment
+148,NetDwellingsRangeFrom,missing,
+148,NetDwellingsRangeTo,missing,
 149,PlanningStatus,enum,Other Commitment
+149,NetDwellingsRangeFrom,missing,
+149,NetDwellingsRangeTo,missing,
+150,NetDwellingsRangeFrom,missing,
+150,NetDwellingsRangeTo,missing,
 151,PlanningStatus,enum,Other Commitment
+151,NetDwellingsRangeFrom,missing,
+151,NetDwellingsRangeTo,missing,
 152,PlanningStatus,enum,Other Commitment
+152,NetDwellingsRangeFrom,missing,
+152,NetDwellingsRangeTo,missing,
+153,NetDwellingsRangeFrom,missing,
+153,NetDwellingsRangeTo,missing,
 154,PlanningStatus,enum,Other Commitment
+154,NetDwellingsRangeFrom,missing,
+154,NetDwellingsRangeTo,missing,
 155,PlanningStatus,enum,Other Commitment
+155,NetDwellingsRangeFrom,missing,
+155,NetDwellingsRangeTo,missing,
 156,PlanningStatus,enum,Other Commitment
+156,NetDwellingsRangeFrom,missing,
+156,NetDwellingsRangeTo,missing,
+157,NetDwellingsRangeFrom,missing,
+157,NetDwellingsRangeTo,missing,
 158,PlanningStatus,enum,Other Commitment
+158,NetDwellingsRangeFrom,missing,
+158,NetDwellingsRangeTo,missing,
+159,NetDwellingsRangeFrom,missing,
+159,NetDwellingsRangeTo,missing,
 160,PlanningStatus,enum,Other Commitment
+160,NetDwellingsRangeFrom,missing,
+160,NetDwellingsRangeTo,missing,
 161,PlanningStatus,enum,Other Commitment
+161,NetDwellingsRangeFrom,missing,
+161,NetDwellingsRangeTo,missing,
 162,PlanningStatus,enum,Other Commitment
+162,NetDwellingsRangeFrom,missing,
+162,NetDwellingsRangeTo,missing,
+163,NetDwellingsRangeFrom,missing,
+163,NetDwellingsRangeTo,missing,
 164,PlanningStatus,enum,Other Commitment
+164,NetDwellingsRangeFrom,missing,
+164,NetDwellingsRangeTo,missing,
+165,NetDwellingsRangeFrom,missing,
+165,NetDwellingsRangeTo,missing,
 166,PlanningStatus,enum,Other Commitment
+166,NetDwellingsRangeFrom,missing,
+166,NetDwellingsRangeTo,missing,
 167,PlanningStatus,enum,Other Commitment
+167,NetDwellingsRangeFrom,missing,
+167,NetDwellingsRangeTo,missing,
 168,PlanningStatus,enum,Completed During 2017/18
+168,NetDwellingsRangeFrom,missing,
+168,NetDwellingsRangeTo,missing,
 169,PlanningStatus,enum,Other Commitment
+169,NetDwellingsRangeFrom,missing,
+169,NetDwellingsRangeTo,missing,
 170,PlanningStatus,enum,Other Commitment
+170,NetDwellingsRangeFrom,missing,
+170,NetDwellingsRangeTo,missing,
 171,PlanningStatus,enum,Other Commitment
+171,NetDwellingsRangeFrom,missing,
+171,NetDwellingsRangeTo,missing,
 172,PlanningStatus,enum,Other Commitment
+172,NetDwellingsRangeFrom,missing,
+172,NetDwellingsRangeTo,missing,
+173,NetDwellingsRangeFrom,missing,
+173,NetDwellingsRangeTo,missing,
 174,PlanningStatus,enum,Other Commitment
+174,NetDwellingsRangeFrom,missing,
+174,NetDwellingsRangeTo,missing,
 175,PlanningStatus,enum,Other Commitment
+175,NetDwellingsRangeFrom,missing,
+175,NetDwellingsRangeTo,missing,
 176,PlanningStatus,enum,Other Commitment
+176,NetDwellingsRangeFrom,missing,
+176,NetDwellingsRangeTo,missing,
 177,PlanningStatus,enum,Other Commitment
+177,NetDwellingsRangeFrom,missing,
+177,NetDwellingsRangeTo,missing,
 178,PlanningStatus,enum,Other Commitment
+178,NetDwellingsRangeFrom,missing,
+178,NetDwellingsRangeTo,missing,
+179,NetDwellingsRangeFrom,missing,
+179,NetDwellingsRangeTo,missing,
 180,PlanningStatus,enum,Other Commitment
+180,NetDwellingsRangeFrom,missing,
+180,NetDwellingsRangeTo,missing,
 181,PlanningStatus,enum,Completed During 2017/18
+181,NetDwellingsRangeFrom,missing,
+181,NetDwellingsRangeTo,missing,
 182,PlanningStatus,enum,Other Commitment
+182,NetDwellingsRangeFrom,missing,
+182,NetDwellingsRangeTo,missing,
 183,PlanningStatus,enum,Other Commitment
+183,NetDwellingsRangeFrom,missing,
+183,NetDwellingsRangeTo,missing,
 184,PlanningStatus,enum,Other Commitment
+184,NetDwellingsRangeFrom,missing,
+184,NetDwellingsRangeTo,missing,
 185,PlanningStatus,enum,Other Commitment
+185,NetDwellingsRangeFrom,missing,
+185,NetDwellingsRangeTo,missing,
 186,PlanningStatus,enum,Completed During 2017/18
+186,NetDwellingsRangeFrom,missing,
+186,NetDwellingsRangeTo,missing,
 187,PlanningStatus,enum,Other Commitment
+187,NetDwellingsRangeFrom,missing,
+187,NetDwellingsRangeTo,missing,
 188,PlanningStatus,enum,Other Commitment
+188,NetDwellingsRangeFrom,missing,
+188,NetDwellingsRangeTo,missing,
 189,PlanningStatus,enum,Other Commitment
+189,NetDwellingsRangeFrom,missing,
+189,NetDwellingsRangeTo,missing,
+190,NetDwellingsRangeFrom,missing,
+190,NetDwellingsRangeTo,missing,
 191,PlanningStatus,enum,Other Commitment
+191,NetDwellingsRangeFrom,missing,
+191,NetDwellingsRangeTo,missing,
 192,PlanningStatus,enum,Completed During 2017/18
+192,NetDwellingsRangeFrom,missing,
+192,NetDwellingsRangeTo,missing,
 193,PlanningStatus,enum,Completed During 2018/19
+193,NetDwellingsRangeFrom,missing,
+193,NetDwellingsRangeTo,missing,
 194,PlanningStatus,enum,Other Commitment
+194,NetDwellingsRangeFrom,missing,
+194,NetDwellingsRangeTo,missing,
 195,PlanningStatus,enum,Other Commitment
+195,NetDwellingsRangeFrom,missing,
+195,NetDwellingsRangeTo,missing,
 196,PlanningStatus,enum,Other Commitment
+196,NetDwellingsRangeFrom,missing,
+196,NetDwellingsRangeTo,missing,
 197,PlanningStatus,enum,Other Commitment
+197,NetDwellingsRangeFrom,missing,
+197,NetDwellingsRangeTo,missing,
 198,PlanningStatus,enum,Completed During 2018/19
+198,NetDwellingsRangeFrom,missing,
+198,NetDwellingsRangeTo,missing,
 199,PlanningStatus,enum,Completed During 2016/17
+199,NetDwellingsRangeFrom,missing,
+199,NetDwellingsRangeTo,missing,
 200,PlanningStatus,enum,Other Commitment
+200,NetDwellingsRangeFrom,missing,
+200,NetDwellingsRangeTo,missing,
 201,PlanningStatus,enum,Completed During 2018/19
+201,NetDwellingsRangeFrom,missing,
+201,NetDwellingsRangeTo,missing,
 202,PlanningStatus,enum,Other Commitment
+202,NetDwellingsRangeFrom,missing,
+202,NetDwellingsRangeTo,missing,
 203,PlanningStatus,enum,Completed During 2017/18
+203,NetDwellingsRangeFrom,missing,
+203,NetDwellingsRangeTo,missing,
 204,PlanningStatus,enum,Completed During 2018/19
+204,NetDwellingsRangeFrom,missing,
+204,NetDwellingsRangeTo,missing,
 205,PlanningStatus,enum,Other Commitment
+205,NetDwellingsRangeFrom,missing,
+205,NetDwellingsRangeTo,missing,
 206,PlanningStatus,enum,Other Commitment
+206,NetDwellingsRangeFrom,missing,
+206,NetDwellingsRangeTo,missing,
 207,PlanningStatus,enum,Completed During 2017/18
+207,NetDwellingsRangeFrom,missing,
+207,NetDwellingsRangeTo,missing,
+208,NetDwellingsRangeFrom,missing,
+208,NetDwellingsRangeTo,missing,
 209,PlanningStatus,enum,Other Commitment
+209,NetDwellingsRangeFrom,missing,
+209,NetDwellingsRangeTo,missing,
+210,NetDwellingsRangeFrom,missing,
+210,NetDwellingsRangeTo,missing,
 211,PlanningStatus,enum,Other Commitment
+211,NetDwellingsRangeFrom,missing,
+211,NetDwellingsRangeTo,missing,
 212,PlanningStatus,enum,Other Commitment
+212,NetDwellingsRangeFrom,missing,
+212,NetDwellingsRangeTo,missing,
+213,NetDwellingsRangeFrom,missing,
+213,NetDwellingsRangeTo,missing,
 214,PlanningStatus,enum,Adopted Local Plan
+214,NetDwellingsRangeFrom,missing,
+214,NetDwellingsRangeTo,missing,
+215,NetDwellingsRangeFrom,missing,
+215,NetDwellingsRangeTo,missing,
 216,PlanningStatus,enum,Other Commitment
+216,NetDwellingsRangeFrom,missing,
+216,NetDwellingsRangeTo,missing,
 217,PlanningStatus,enum,Other Commitment
+217,NetDwellingsRangeFrom,missing,
+217,NetDwellingsRangeTo,missing,
 218,PlanningStatus,enum,Completed During 2017/18
+218,NetDwellingsRangeFrom,missing,
+218,NetDwellingsRangeTo,missing,
 219,PlanningStatus,enum,Completed During 2018/19
+219,NetDwellingsRangeFrom,missing,
+219,NetDwellingsRangeTo,missing,
 220,PlanningStatus,enum,Other Commitment
+220,NetDwellingsRangeFrom,missing,
+220,NetDwellingsRangeTo,missing,
 221,PlanningStatus,enum,Other Commitment
+221,NetDwellingsRangeFrom,missing,
+221,NetDwellingsRangeTo,missing,
 222,PlanningStatus,enum,Other Commitment
+222,NetDwellingsRangeFrom,missing,
+222,NetDwellingsRangeTo,missing,
 223,PlanningStatus,enum,Completed During 2017/18
+223,NetDwellingsRangeFrom,missing,
+223,NetDwellingsRangeTo,missing,
 224,PlanningStatus,enum,Other Commitment
+224,NetDwellingsRangeFrom,missing,
+224,NetDwellingsRangeTo,missing,
 225,PlanningStatus,enum,Other Commitment
+225,NetDwellingsRangeFrom,missing,
+225,NetDwellingsRangeTo,missing,
+226,NetDwellingsRangeFrom,missing,
+226,NetDwellingsRangeTo,missing,
 227,PlanningStatus,enum,Other Commitment
+227,NetDwellingsRangeFrom,missing,
+227,NetDwellingsRangeTo,missing,
+228,NetDwellingsRangeFrom,missing,
+228,NetDwellingsRangeTo,missing,
 229,PlanningStatus,enum,Completed During 2018/19
+229,NetDwellingsRangeFrom,missing,
+229,NetDwellingsRangeTo,missing,
+230,NetDwellingsRangeFrom,missing,
+230,NetDwellingsRangeTo,missing,
+231,NetDwellingsRangeFrom,missing,
+231,NetDwellingsRangeTo,missing,
 232,PlanningStatus,enum,Completed During 2018/19
+232,NetDwellingsRangeFrom,missing,
+232,NetDwellingsRangeTo,missing,
 233,PlanningStatus,enum,Completed During 2017/18
+233,NetDwellingsRangeFrom,missing,
+233,NetDwellingsRangeTo,missing,
 234,PlanningStatus,enum,Completed During 2017/18
+234,NetDwellingsRangeFrom,missing,
+234,NetDwellingsRangeTo,missing,
+235,NetDwellingsRangeFrom,missing,
+235,NetDwellingsRangeTo,missing,
 236,PlanningStatus,enum,Completed During 2018/19
+236,NetDwellingsRangeFrom,missing,
+236,NetDwellingsRangeTo,missing,
 237,PlanningStatus,enum,Adopted Local Plan
+237,NetDwellingsRangeFrom,missing,
+237,NetDwellingsRangeTo,missing,
+238,NetDwellingsRangeFrom,missing,
+238,NetDwellingsRangeTo,missing,
 239,PlanningStatus,enum,Completed During 2016/17
+239,NetDwellingsRangeFrom,missing,
+239,NetDwellingsRangeTo,missing,
 240,PlanningStatus,enum,Other Commitment
+240,NetDwellingsRangeFrom,missing,
+240,NetDwellingsRangeTo,missing,
 241,PlanningStatus,enum,Completed During 2018/19
+241,NetDwellingsRangeFrom,missing,
+241,NetDwellingsRangeTo,missing,
 242,PlanningStatus,enum,Completed During 2016/17
+242,NetDwellingsRangeFrom,missing,
+242,NetDwellingsRangeTo,missing,
 243,PlanningStatus,enum,Completed During 2016/17
+243,NetDwellingsRangeFrom,missing,
+243,NetDwellingsRangeTo,missing,
 244,PlanningStatus,enum,Completed During 2017/18
+244,NetDwellingsRangeFrom,missing,
+244,NetDwellingsRangeTo,missing,
 245,PlanningStatus,enum,Other Commitment
+245,NetDwellingsRangeFrom,missing,
+245,NetDwellingsRangeTo,missing,
+246,NetDwellingsRangeFrom,missing,
+246,NetDwellingsRangeTo,missing,
+247,NetDwellingsRangeFrom,missing,
+247,NetDwellingsRangeTo,missing,
+248,NetDwellingsRangeFrom,missing,
+248,NetDwellingsRangeTo,missing,
 249,PlanningStatus,enum,Other Commitment
+249,NetDwellingsRangeFrom,missing,
+249,NetDwellingsRangeTo,missing,
 250,PlanningStatus,enum,Completed During 2018/19
+250,NetDwellingsRangeFrom,missing,
+250,NetDwellingsRangeTo,missing,
+251,NetDwellingsRangeFrom,missing,
+251,NetDwellingsRangeTo,missing,
 252,PlanningStatus,enum,Completed During 2018/19
+252,NetDwellingsRangeFrom,missing,
+252,NetDwellingsRangeTo,missing,
+253,NetDwellingsRangeFrom,missing,
+253,NetDwellingsRangeTo,missing,
 254,PlanningStatus,enum,Other Commitment
+254,NetDwellingsRangeFrom,missing,
+254,NetDwellingsRangeTo,missing,
 255,PlanningStatus,enum,Completed During 2017/18
+255,NetDwellingsRangeFrom,missing,
+255,NetDwellingsRangeTo,missing,
 256,PlanningStatus,enum,Other Commitment
+256,NetDwellingsRangeFrom,missing,
+256,NetDwellingsRangeTo,missing,
+257,NetDwellingsRangeFrom,missing,
+257,NetDwellingsRangeTo,missing,
 258,PlanningStatus,enum,Other Commitment
+258,NetDwellingsRangeFrom,missing,
+258,NetDwellingsRangeTo,missing,
+259,NetDwellingsRangeFrom,missing,
+259,NetDwellingsRangeTo,missing,
 260,PlanningStatus,enum,Completed During 2018/19
+260,NetDwellingsRangeFrom,missing,
+260,NetDwellingsRangeTo,missing,
+261,NetDwellingsRangeFrom,missing,
+261,NetDwellingsRangeTo,missing,
+262,NetDwellingsRangeFrom,missing,
+262,NetDwellingsRangeTo,missing,
 263,PlanningStatus,enum,Completed During 2018/19
+263,NetDwellingsRangeFrom,missing,
+263,NetDwellingsRangeTo,missing,
 264,PlanningStatus,enum,Other Commitment
+264,NetDwellingsRangeFrom,missing,
+264,NetDwellingsRangeTo,missing,
+265,NetDwellingsRangeFrom,missing,
+265,NetDwellingsRangeTo,missing,
 266,PlanningStatus,enum,Completed During 2018/19
+266,NetDwellingsRangeFrom,missing,
+266,NetDwellingsRangeTo,missing,
 267,PlanningStatus,enum,Completed During 2018/19
+267,NetDwellingsRangeFrom,missing,
+267,NetDwellingsRangeTo,missing,
 268,PlanningStatus,enum,Other Commitment
+268,NetDwellingsRangeFrom,missing,
+268,NetDwellingsRangeTo,missing,
 269,PlanningStatus,enum,Completed During 2018/19
+269,NetDwellingsRangeFrom,missing,
+269,NetDwellingsRangeTo,missing,
 270,PlanningStatus,enum,Other Commitment
+270,NetDwellingsRangeFrom,missing,
+270,NetDwellingsRangeTo,missing,
 271,PlanningStatus,enum,Other Commitment
+271,NetDwellingsRangeFrom,missing,
+271,NetDwellingsRangeTo,missing,
 272,PlanningStatus,enum,Other Commitment
+272,NetDwellingsRangeFrom,missing,
+272,NetDwellingsRangeTo,missing,
 273,PlanningStatus,enum,Other Commitment
+273,NetDwellingsRangeFrom,missing,
+273,NetDwellingsRangeTo,missing,
+274,NetDwellingsRangeFrom,missing,
+274,NetDwellingsRangeTo,missing,
 275,PlanningStatus,enum,Completed During 2018/19
+275,NetDwellingsRangeFrom,missing,
+275,NetDwellingsRangeTo,missing,
 276,PlanningStatus,enum,Completed During 2017/18
+276,NetDwellingsRangeFrom,missing,
+276,NetDwellingsRangeTo,missing,
+277,NetDwellingsRangeFrom,missing,
+277,NetDwellingsRangeTo,missing,
 278,PlanningStatus,enum,Completed During 2017/18
+278,NetDwellingsRangeFrom,missing,
+278,NetDwellingsRangeTo,missing,
+279,NetDwellingsRangeFrom,missing,
+279,NetDwellingsRangeTo,missing,
 280,PlanningStatus,enum,Completed During 2017/18
+280,NetDwellingsRangeFrom,missing,
+280,NetDwellingsRangeTo,missing,
 281,PlanningStatus,enum,Completed During 2017/18
+281,NetDwellingsRangeFrom,missing,
+281,NetDwellingsRangeTo,missing,
 282,PlanningStatus,enum,Completed During 2016/17
+282,NetDwellingsRangeFrom,missing,
+282,NetDwellingsRangeTo,missing,
+283,NetDwellingsRangeFrom,missing,
+283,NetDwellingsRangeTo,missing,
 284,PlanningStatus,enum,Completed During 2016/17
+284,NetDwellingsRangeFrom,missing,
+284,NetDwellingsRangeTo,missing,
 285,PlanningStatus,enum,Completed During 2018/19
+285,NetDwellingsRangeFrom,missing,
+285,NetDwellingsRangeTo,missing,
+286,NetDwellingsRangeFrom,missing,
+286,NetDwellingsRangeTo,missing,
 287,PlanningStatus,enum,Other Commitment
+287,NetDwellingsRangeFrom,missing,
+287,NetDwellingsRangeTo,missing,
 288,PlanningStatus,enum,Other Commitment
+288,NetDwellingsRangeFrom,missing,
+288,NetDwellingsRangeTo,missing,
 289,PlanningStatus,enum,Completed During 2016/17
+289,NetDwellingsRangeFrom,missing,
+289,NetDwellingsRangeTo,missing,
 290,PlanningStatus,enum,Other Commitment
+290,NetDwellingsRangeFrom,missing,
+290,NetDwellingsRangeTo,missing,
 291,PlanningStatus,enum,Other Commitment
+291,NetDwellingsRangeFrom,missing,
+291,NetDwellingsRangeTo,missing,
 292,PlanningStatus,enum,Completed During 2018/19
+292,NetDwellingsRangeFrom,missing,
+292,NetDwellingsRangeTo,missing,
+293,NetDwellingsRangeFrom,missing,
+293,NetDwellingsRangeTo,missing,
 294,PlanningStatus,enum,Completed During 2018/19
+294,NetDwellingsRangeFrom,missing,
+294,NetDwellingsRangeTo,missing,
 295,PlanningStatus,enum,Completed During 2016/17
+295,NetDwellingsRangeFrom,missing,
+295,NetDwellingsRangeTo,missing,
 296,PlanningStatus,enum,Completed During 2016/17
+296,NetDwellingsRangeFrom,missing,
+296,NetDwellingsRangeTo,missing,
 297,PlanningStatus,enum,Completed During 2018/19
+297,NetDwellingsRangeFrom,missing,
+297,NetDwellingsRangeTo,missing,
 298,PlanningStatus,enum,Other Commitment
+298,NetDwellingsRangeFrom,missing,
+298,NetDwellingsRangeTo,missing,
 299,PlanningStatus,enum,Completed During 2016/17
+299,NetDwellingsRangeFrom,missing,
+299,NetDwellingsRangeTo,missing,
 300,PlanningStatus,enum,Other Commitment
+300,NetDwellingsRangeFrom,missing,
+300,NetDwellingsRangeTo,missing,
 301,PlanningStatus,enum,Completed During 2016/17
+301,NetDwellingsRangeFrom,missing,
+301,NetDwellingsRangeTo,missing,
+302,NetDwellingsRangeFrom,missing,
+302,NetDwellingsRangeTo,missing,
 303,PlanningStatus,enum,Completed During 2018/19
+303,NetDwellingsRangeFrom,missing,
+303,NetDwellingsRangeTo,missing,
+304,NetDwellingsRangeFrom,missing,
+304,NetDwellingsRangeTo,missing,
+305,NetDwellingsRangeFrom,missing,
+305,NetDwellingsRangeTo,missing,
 306,PlanningStatus,enum,Completed During 2016/17
+306,NetDwellingsRangeFrom,missing,
+306,NetDwellingsRangeTo,missing,
+307,NetDwellingsRangeFrom,missing,
+307,NetDwellingsRangeTo,missing,
+308,NetDwellingsRangeFrom,missing,
+308,NetDwellingsRangeTo,missing,
 309,PlanningStatus,enum,Completed During 2016/17
+309,NetDwellingsRangeFrom,missing,
+309,NetDwellingsRangeTo,missing,
 310,PlanningStatus,enum,Completed During 2018/19
+310,NetDwellingsRangeFrom,missing,
+310,NetDwellingsRangeTo,missing,
 311,PlanningStatus,enum,Completed During 2017/18
+311,NetDwellingsRangeFrom,missing,
+311,NetDwellingsRangeTo,missing,
+312,NetDwellingsRangeFrom,missing,
+312,NetDwellingsRangeTo,missing,
 313,PlanningStatus,enum,Completed During 2017/18
+313,NetDwellingsRangeFrom,missing,
+313,NetDwellingsRangeTo,missing,
+314,NetDwellingsRangeFrom,missing,
+314,NetDwellingsRangeTo,missing,
+315,NetDwellingsRangeFrom,missing,
+315,NetDwellingsRangeTo,missing,
 316,PlanningStatus,enum,Completed During 2018/19
+316,NetDwellingsRangeFrom,missing,
+316,NetDwellingsRangeTo,missing,
+317,NetDwellingsRangeFrom,missing,
+317,NetDwellingsRangeTo,missing,
 318,PlanningStatus,enum,Other Commitment
+318,NetDwellingsRangeFrom,missing,
+318,NetDwellingsRangeTo,missing,
 319,PlanningStatus,enum,Completed During 2016/17
+319,NetDwellingsRangeFrom,missing,
+319,NetDwellingsRangeTo,missing,
+320,NetDwellingsRangeFrom,missing,
+320,NetDwellingsRangeTo,missing,
 321,PlanningStatus,enum,Completed During 2016/17
+321,NetDwellingsRangeFrom,missing,
+321,NetDwellingsRangeTo,missing,
 322,PlanningStatus,enum,Completed During 2016/17
+322,NetDwellingsRangeFrom,missing,
+322,NetDwellingsRangeTo,missing,
 323,PlanningStatus,enum,Completed During 2018/19
+323,NetDwellingsRangeFrom,missing,
+323,NetDwellingsRangeTo,missing,
+324,NetDwellingsRangeFrom,missing,
+324,NetDwellingsRangeTo,missing,
 325,PlanningStatus,enum,Other Commitment
+325,NetDwellingsRangeFrom,missing,
+325,NetDwellingsRangeTo,missing,
+326,NetDwellingsRangeFrom,missing,
+326,NetDwellingsRangeTo,missing,
 327,PlanningStatus,enum,Completed During 2018/19
+327,NetDwellingsRangeFrom,missing,
+327,NetDwellingsRangeTo,missing,
 328,PlanningStatus,enum,Completed During 2016/17
+328,NetDwellingsRangeFrom,missing,
+328,NetDwellingsRangeTo,missing,
+329,NetDwellingsRangeFrom,missing,
+329,NetDwellingsRangeTo,missing,
 330,PlanningStatus,enum,Completed During 2018/19
+330,NetDwellingsRangeFrom,missing,
+330,NetDwellingsRangeTo,missing,
 331,PlanningStatus,enum,Other Commitment
+331,NetDwellingsRangeFrom,missing,
+331,NetDwellingsRangeTo,missing,
+332,NetDwellingsRangeFrom,missing,
+332,NetDwellingsRangeTo,missing,
 333,PlanningStatus,enum,Completed During 2018/19
+333,NetDwellingsRangeFrom,missing,
+333,NetDwellingsRangeTo,missing,
 334,PlanningStatus,enum,Completed During 2016/17
+334,NetDwellingsRangeFrom,missing,
+334,NetDwellingsRangeTo,missing,
+335,NetDwellingsRangeFrom,missing,
+335,NetDwellingsRangeTo,missing,
+336,NetDwellingsRangeFrom,missing,
+336,NetDwellingsRangeTo,missing,
+337,NetDwellingsRangeFrom,missing,
+337,NetDwellingsRangeTo,missing,
 338,PlanningStatus,enum,Completed During 2017/18
+338,NetDwellingsRangeFrom,missing,
+338,NetDwellingsRangeTo,missing,
+339,NetDwellingsRangeFrom,missing,
+339,NetDwellingsRangeTo,missing,
+340,NetDwellingsRangeFrom,missing,
+340,NetDwellingsRangeTo,missing,
 341,PlanningStatus,enum,Other Commitment
+341,NetDwellingsRangeFrom,missing,
+341,NetDwellingsRangeTo,missing,
 342,PlanningStatus,enum,Completed During 2017/18
+342,NetDwellingsRangeFrom,missing,
+342,NetDwellingsRangeTo,missing,
+343,NetDwellingsRangeFrom,missing,
+343,NetDwellingsRangeTo,missing,
 344,PlanningStatus,enum,Completed During 2017/18
+344,NetDwellingsRangeFrom,missing,
+344,NetDwellingsRangeTo,missing,
 345,PlanningStatus,enum,Completed During 2016/17
+345,NetDwellingsRangeFrom,missing,
+345,NetDwellingsRangeTo,missing,
 346,PlanningStatus,enum,Completed During 2018/19
+346,NetDwellingsRangeFrom,missing,
+346,NetDwellingsRangeTo,missing,
+347,NetDwellingsRangeFrom,missing,
+347,NetDwellingsRangeTo,missing,
+348,NetDwellingsRangeFrom,missing,
+348,NetDwellingsRangeTo,missing,
+349,NetDwellingsRangeFrom,missing,
+349,NetDwellingsRangeTo,missing,
+350,NetDwellingsRangeFrom,missing,
+350,NetDwellingsRangeTo,missing,
+351,NetDwellingsRangeFrom,missing,
+351,NetDwellingsRangeTo,missing,
 352,PlanningStatus,enum,Completed During 2017/18
+352,NetDwellingsRangeFrom,missing,
+352,NetDwellingsRangeTo,missing,
+353,NetDwellingsRangeFrom,missing,
+353,NetDwellingsRangeTo,missing,
+354,NetDwellingsRangeFrom,missing,
+354,NetDwellingsRangeTo,missing,
 355,PlanningStatus,enum,Completed During 2018/19
+355,NetDwellingsRangeFrom,missing,
+355,NetDwellingsRangeTo,missing,
 356,PlanningStatus,enum,Completed During 2018/19
+356,NetDwellingsRangeFrom,missing,
+356,NetDwellingsRangeTo,missing,
 357,PlanningStatus,enum,Completed During 2017/18
+357,NetDwellingsRangeFrom,missing,
+357,NetDwellingsRangeTo,missing,
 358,PlanningStatus,enum,Completed During 2016/17
+358,NetDwellingsRangeFrom,missing,
+358,NetDwellingsRangeTo,missing,
+359,NetDwellingsRangeFrom,missing,
+359,NetDwellingsRangeTo,missing,
 360,PlanningStatus,enum,Other Commitment
+360,NetDwellingsRangeFrom,missing,
+360,NetDwellingsRangeTo,missing,
 361,PlanningStatus,enum,Completed During 2018/19
+361,NetDwellingsRangeFrom,missing,
+361,NetDwellingsRangeTo,missing,
 362,PlanningStatus,enum,Completed During 2017/18
+362,NetDwellingsRangeFrom,missing,
+362,NetDwellingsRangeTo,missing,
+363,NetDwellingsRangeFrom,missing,
+363,NetDwellingsRangeTo,missing,
+364,NetDwellingsRangeFrom,missing,
+364,NetDwellingsRangeTo,missing,
+365,NetDwellingsRangeFrom,missing,
+365,NetDwellingsRangeTo,missing,
 366,PlanningStatus,enum,Other Commitment
+366,NetDwellingsRangeFrom,missing,
+366,NetDwellingsRangeTo,missing,
 367,PlanningStatus,enum,Completed During 2016/17
+367,NetDwellingsRangeFrom,missing,
+367,NetDwellingsRangeTo,missing,
 368,PlanningStatus,enum,Completed During 2017/18
+368,NetDwellingsRangeFrom,missing,
+368,NetDwellingsRangeTo,missing,
 369,PlanningStatus,enum,Adopted Local Plan
+369,NetDwellingsRangeFrom,missing,
+369,NetDwellingsRangeTo,missing,
 370,PlanningStatus,enum,Completed During 2018/19
+370,NetDwellingsRangeFrom,missing,
+370,NetDwellingsRangeTo,missing,
+371,NetDwellingsRangeFrom,missing,
+371,NetDwellingsRangeTo,missing,
+372,NetDwellingsRangeFrom,missing,
+372,NetDwellingsRangeTo,missing,
 373,PlanningStatus,enum,Completed During 2016/17
+373,NetDwellingsRangeFrom,missing,
+373,NetDwellingsRangeTo,missing,
 374,PlanningStatus,enum,Completed During 2017/18
+374,NetDwellingsRangeFrom,missing,
+374,NetDwellingsRangeTo,missing,
 375,PlanningStatus,enum,Completed During 2017/18
+375,NetDwellingsRangeFrom,missing,
+375,NetDwellingsRangeTo,missing,
+376,NetDwellingsRangeFrom,missing,
+376,NetDwellingsRangeTo,missing,
 377,PlanningStatus,enum,Completed During 2017/18
+377,NetDwellingsRangeFrom,missing,
+377,NetDwellingsRangeTo,missing,
+378,NetDwellingsRangeFrom,missing,
+378,NetDwellingsRangeTo,missing,
 379,PlanningStatus,enum,Adopted Local Plan
+379,NetDwellingsRangeFrom,missing,
+379,NetDwellingsRangeTo,missing,
+380,NetDwellingsRangeFrom,missing,
+380,NetDwellingsRangeTo,missing,
 381,PlanningStatus,enum,Completed During 2016/17
+381,NetDwellingsRangeFrom,missing,
+381,NetDwellingsRangeTo,missing,
+382,NetDwellingsRangeFrom,missing,
+382,NetDwellingsRangeTo,missing,
 383,PlanningStatus,enum,Completed During 2016/17
+383,NetDwellingsRangeFrom,missing,
+383,NetDwellingsRangeTo,missing,
 384,PlanningStatus,enum,Adopted Local Plan
+384,NetDwellingsRangeFrom,missing,
+384,NetDwellingsRangeTo,missing,
 385,PlanningStatus,enum,Adopted Local Plan
+385,NetDwellingsRangeFrom,missing,
+385,NetDwellingsRangeTo,missing,
 386,PlanningStatus,enum,Completed During 2017/18
+386,NetDwellingsRangeFrom,missing,
+386,NetDwellingsRangeTo,missing,
 387,PlanningStatus,enum,Completed During 2018/19
+387,NetDwellingsRangeFrom,missing,
+387,NetDwellingsRangeTo,missing,
 388,PlanningStatus,enum,Completed During 2017/18
+388,NetDwellingsRangeFrom,missing,
+388,NetDwellingsRangeTo,missing,
 389,PlanningStatus,enum,Completed During 2017/18
+389,NetDwellingsRangeFrom,missing,
+389,NetDwellingsRangeTo,missing,
 390,PlanningStatus,enum,Completed During 2018/19
+390,NetDwellingsRangeFrom,missing,
+390,NetDwellingsRangeTo,missing,
+391,NetDwellingsRangeFrom,missing,
+391,NetDwellingsRangeTo,missing,
 392,PlanningStatus,enum,Other Commitment
+392,NetDwellingsRangeFrom,missing,
+392,NetDwellingsRangeTo,missing,
 393,PlanningStatus,enum,Completed During 2018/19
+393,NetDwellingsRangeFrom,missing,
+393,NetDwellingsRangeTo,missing,
+394,NetDwellingsRangeFrom,missing,
+394,NetDwellingsRangeTo,missing,
 395,PlanningStatus,enum,Completed During 2017/18
+395,NetDwellingsRangeFrom,missing,
+395,NetDwellingsRangeTo,missing,
+396,NetDwellingsRangeFrom,missing,
+396,NetDwellingsRangeTo,missing,
 397,PlanningStatus,enum,Completed During 2017/18
+397,NetDwellingsRangeFrom,missing,
+397,NetDwellingsRangeTo,missing,
 398,PlanningStatus,enum,Other Commitment
+398,NetDwellingsRangeFrom,missing,
+398,NetDwellingsRangeTo,missing,
 399,PlanningStatus,enum,Completed During 2017/18
+399,NetDwellingsRangeFrom,missing,
+399,NetDwellingsRangeTo,missing,
+400,NetDwellingsRangeFrom,missing,
+400,NetDwellingsRangeTo,missing,
 401,PlanningStatus,enum,Other Commitment
+401,NetDwellingsRangeFrom,missing,
+401,NetDwellingsRangeTo,missing,
 402,PlanningStatus,enum,Adopted Local Plan
+402,NetDwellingsRangeFrom,missing,
+402,NetDwellingsRangeTo,missing,
 403,PlanningStatus,enum,Adopted Local Plan
+403,NetDwellingsRangeFrom,missing,
+403,NetDwellingsRangeTo,missing,
+404,NetDwellingsRangeFrom,missing,
+404,NetDwellingsRangeTo,missing,
 405,PlanningStatus,enum,Adopted Local Plan
+405,NetDwellingsRangeFrom,missing,
+405,NetDwellingsRangeTo,missing,
 406,PlanningStatus,enum,Adopted Local Plan
+406,NetDwellingsRangeFrom,missing,
+406,NetDwellingsRangeTo,missing,
 407,PlanningStatus,enum,Adopted Local Plan
+407,NetDwellingsRangeFrom,missing,
+407,NetDwellingsRangeTo,missing,
 408,PlanningStatus,enum,Adopted Local Plan
+408,NetDwellingsRangeFrom,missing,
+408,NetDwellingsRangeTo,missing,
 409,PlanningStatus,enum,Adopted Local Plan
+409,NetDwellingsRangeFrom,missing,
+409,NetDwellingsRangeTo,missing,
+410,NetDwellingsRangeFrom,missing,
+410,NetDwellingsRangeTo,missing,
 411,PlanningStatus,enum,Adopted Local Plan
+411,NetDwellingsRangeFrom,missing,
+411,NetDwellingsRangeTo,missing,
 412,PlanningStatus,enum,Adopted Local Plan
+412,NetDwellingsRangeFrom,missing,
+412,NetDwellingsRangeTo,missing,
 413,PlanningStatus,enum,Adopted Local Plan
+413,NetDwellingsRangeFrom,missing,
+413,NetDwellingsRangeTo,missing,
 414,PlanningStatus,enum,Adopted Local Plan
+414,NetDwellingsRangeFrom,missing,
+414,NetDwellingsRangeTo,missing,
 415,PlanningStatus,enum,Adopted Local Plan
+415,NetDwellingsRangeFrom,missing,
+415,NetDwellingsRangeTo,missing,
 416,PlanningStatus,enum,Adopted Local Plan
+416,NetDwellingsRangeFrom,missing,
+416,NetDwellingsRangeTo,missing,
 417,PlanningStatus,enum,Adopted Local Plan
+417,NetDwellingsRangeFrom,missing,
+417,NetDwellingsRangeTo,missing,
 418,PlanningStatus,enum,Adopted Local Plan
+418,NetDwellingsRangeFrom,missing,
+418,NetDwellingsRangeTo,missing,
 419,PlanningStatus,enum,Adopted Local Plan
+419,NetDwellingsRangeFrom,missing,
+419,NetDwellingsRangeTo,missing,
+420,NetDwellingsRangeFrom,missing,
+420,NetDwellingsRangeTo,missing,
 421,PlanningStatus,enum,Completed During 2018/19
+421,NetDwellingsRangeFrom,missing,
+421,NetDwellingsRangeTo,missing,
+422,NetDwellingsRangeFrom,missing,
+422,NetDwellingsRangeTo,missing,
 423,PlanningStatus,enum,Completed During 2016/17
+423,NetDwellingsRangeFrom,missing,
+423,NetDwellingsRangeTo,missing,
 424,PlanningStatus,enum,Adopted Local Plan
+424,NetDwellingsRangeFrom,missing,
+424,NetDwellingsRangeTo,missing,
+425,NetDwellingsRangeFrom,missing,
+425,NetDwellingsRangeTo,missing,
 426,PlanningStatus,enum,Adopted Local Plan
+426,NetDwellingsRangeFrom,missing,
+426,NetDwellingsRangeTo,missing,
 427,PlanningStatus,enum,Adopted Local Plan
+427,NetDwellingsRangeFrom,missing,
+427,NetDwellingsRangeTo,missing,
 428,PlanningStatus,enum,Other Commitment
+428,NetDwellingsRangeFrom,missing,
+428,NetDwellingsRangeTo,missing,
+429,NetDwellingsRangeFrom,missing,
+429,NetDwellingsRangeTo,missing,
+430,NetDwellingsRangeFrom,missing,
+430,NetDwellingsRangeTo,missing,
+431,NetDwellingsRangeFrom,missing,
+431,NetDwellingsRangeTo,missing,
+432,NetDwellingsRangeFrom,missing,
+432,NetDwellingsRangeTo,missing,
 433,PlanningStatus,enum,Completed During 2016/17
+433,NetDwellingsRangeFrom,missing,
+433,NetDwellingsRangeTo,missing,
 434,PlanningStatus,enum,Completed During 2017/18
+434,NetDwellingsRangeFrom,missing,
+434,NetDwellingsRangeTo,missing,
 435,PlanningStatus,enum,Other Commitment
+435,NetDwellingsRangeFrom,missing,
+435,NetDwellingsRangeTo,missing,
 436,PlanningStatus,enum,Completed During 2016/17
+436,NetDwellingsRangeFrom,missing,
+436,NetDwellingsRangeTo,missing,
+437,NetDwellingsRangeFrom,missing,
+437,NetDwellingsRangeTo,missing,
 438,PlanningStatus,enum,Completed During 2017/18
+438,NetDwellingsRangeFrom,missing,
+438,NetDwellingsRangeTo,missing,
+439,NetDwellingsRangeFrom,missing,
+439,NetDwellingsRangeTo,missing,
+440,NetDwellingsRangeFrom,missing,
+440,NetDwellingsRangeTo,missing,
 441,PlanningStatus,enum,Completed During 2016/7
+441,NetDwellingsRangeFrom,missing,
+441,NetDwellingsRangeTo,missing,
+442,NetDwellingsRangeFrom,missing,
+442,NetDwellingsRangeTo,missing,
+443,NetDwellingsRangeFrom,missing,
+443,NetDwellingsRangeTo,missing,
 444,PlanningStatus,enum,Completed During 2018/19
+444,NetDwellingsRangeFrom,missing,
+444,NetDwellingsRangeTo,missing,
 445,PlanningStatus,enum,Other Commitment
+445,NetDwellingsRangeFrom,missing,
+445,NetDwellingsRangeTo,missing,
+446,NetDwellingsRangeFrom,missing,
+446,NetDwellingsRangeTo,missing,
+447,NetDwellingsRangeFrom,missing,
+447,NetDwellingsRangeTo,missing,
+448,NetDwellingsRangeFrom,missing,
+448,NetDwellingsRangeTo,missing,
+449,NetDwellingsRangeFrom,missing,
+449,NetDwellingsRangeTo,missing,
 450,PlanningStatus,enum,Completed During 2017/18
+450,NetDwellingsRangeFrom,missing,
+450,NetDwellingsRangeTo,missing,
 451,PlanningStatus,enum,Completed During 2018/19
+451,NetDwellingsRangeFrom,missing,
+451,NetDwellingsRangeTo,missing,
+452,NetDwellingsRangeFrom,missing,
+452,NetDwellingsRangeTo,missing,
 453,PlanningStatus,enum,Completed During 2018/19
+453,NetDwellingsRangeFrom,missing,
+453,NetDwellingsRangeTo,missing,
 454,PlanningStatus,enum,Completed During 2018/19
+454,NetDwellingsRangeFrom,missing,
+454,NetDwellingsRangeTo,missing,
+455,NetDwellingsRangeFrom,missing,
+455,NetDwellingsRangeTo,missing,
+456,NetDwellingsRangeFrom,missing,
+456,NetDwellingsRangeTo,missing,
+457,NetDwellingsRangeFrom,missing,
+457,NetDwellingsRangeTo,missing,
+458,NetDwellingsRangeFrom,missing,
+458,NetDwellingsRangeTo,missing,
 459,PlanningStatus,enum,Completed During 2018/19
+459,NetDwellingsRangeFrom,missing,
+459,NetDwellingsRangeTo,missing,
 460,PlanningStatus,enum,Completed During 2018/19
+460,NetDwellingsRangeFrom,missing,
+460,NetDwellingsRangeTo,missing,
+461,NetDwellingsRangeFrom,missing,
+461,NetDwellingsRangeTo,missing,
+462,NetDwellingsRangeFrom,missing,
+462,NetDwellingsRangeTo,missing,
 463,PlanningStatus,enum,Completed During 2018/19
+463,NetDwellingsRangeFrom,missing,
+463,NetDwellingsRangeTo,missing,
 464,PlanningStatus,enum,Completed During 2018/19
+464,NetDwellingsRangeFrom,missing,
+464,NetDwellingsRangeTo,missing,
+465,NetDwellingsRangeFrom,missing,
+465,NetDwellingsRangeTo,missing,
 466,PlanningStatus,enum,Completed During 2018/19
+466,NetDwellingsRangeFrom,missing,
+466,NetDwellingsRangeTo,missing,
+467,NetDwellingsRangeFrom,missing,
+467,NetDwellingsRangeTo,missing,
 468,PlanningStatus,enum,Completed During 2018/19
+468,NetDwellingsRangeFrom,missing,
+468,NetDwellingsRangeTo,missing,
+469,NetDwellingsRangeFrom,missing,
+469,NetDwellingsRangeTo,missing,
 470,PlanningStatus,enum,Completed During 2018/19
+470,NetDwellingsRangeFrom,missing,
+470,NetDwellingsRangeTo,missing,
+471,NetDwellingsRangeFrom,missing,
+471,NetDwellingsRangeTo,missing,
+472,NetDwellingsRangeFrom,missing,
+472,NetDwellingsRangeTo,missing,
+473,NetDwellingsRangeFrom,missing,
+473,NetDwellingsRangeTo,missing,
+474,NetDwellingsRangeFrom,missing,
+474,NetDwellingsRangeTo,missing,
+475,NetDwellingsRangeFrom,missing,
+475,NetDwellingsRangeTo,missing,
+476,NetDwellingsRangeFrom,missing,
+476,NetDwellingsRangeTo,missing,
+477,NetDwellingsRangeFrom,missing,
+477,NetDwellingsRangeTo,missing,
+478,NetDwellingsRangeFrom,missing,
+478,NetDwellingsRangeTo,missing,
+479,NetDwellingsRangeFrom,missing,
+479,NetDwellingsRangeTo,missing,
+480,NetDwellingsRangeFrom,missing,
+480,NetDwellingsRangeTo,missing,
 481,PlanningStatus,enum,Completed During 2018/19
+481,NetDwellingsRangeFrom,missing,
+481,NetDwellingsRangeTo,missing,
 482,PlanningStatus,enum,Completed During 2017/18
+482,NetDwellingsRangeFrom,missing,
+482,NetDwellingsRangeTo,missing,
+483,NetDwellingsRangeFrom,missing,
+483,NetDwellingsRangeTo,missing,
+484,NetDwellingsRangeFrom,missing,
+484,NetDwellingsRangeTo,missing,
+485,NetDwellingsRangeFrom,missing,
+485,NetDwellingsRangeTo,missing,
 486,PlanningStatus,enum,Completed During 2018/19
+486,NetDwellingsRangeFrom,missing,
+486,NetDwellingsRangeTo,missing,
 487,PlanningStatus,enum,Completed During 2018/19
+487,NetDwellingsRangeFrom,missing,
+487,NetDwellingsRangeTo,missing,
+488,NetDwellingsRangeFrom,missing,
+488,NetDwellingsRangeTo,missing,
+489,NetDwellingsRangeFrom,missing,
+489,NetDwellingsRangeTo,missing,
+490,NetDwellingsRangeFrom,missing,
+490,NetDwellingsRangeTo,missing,
+491,NetDwellingsRangeFrom,missing,
+491,NetDwellingsRangeTo,missing,
+492,NetDwellingsRangeFrom,missing,
+492,NetDwellingsRangeTo,missing,
+493,NetDwellingsRangeFrom,missing,
+493,NetDwellingsRangeTo,missing,
 494,PlanningStatus,enum,Completed During 2018/19
+494,NetDwellingsRangeFrom,missing,
+494,NetDwellingsRangeTo,missing,
 495,Hectares,minimum,0
 495,Hectares,missing,
+495,NetDwellingsRangeFrom,missing,
+495,NetDwellingsRangeTo,missing,
 496,PlanningStatus,enum,Completed During 2017/18
+496,NetDwellingsRangeFrom,missing,
+496,NetDwellingsRangeTo,missing,
+497,NetDwellingsRangeFrom,missing,
+497,NetDwellingsRangeTo,missing,
 498,PlanningStatus,enum,Other Commitment
+498,NetDwellingsRangeFrom,missing,
+498,NetDwellingsRangeTo,missing,
 499,PlanningStatus,enum,Completed During 2017/18
+499,NetDwellingsRangeFrom,missing,
+499,NetDwellingsRangeTo,missing,
 500,PlanningStatus,enum,Other Commitment
+500,NetDwellingsRangeFrom,missing,
+500,NetDwellingsRangeTo,missing,
 501,PlanningStatus,enum,Other Commitment
+501,NetDwellingsRangeFrom,missing,
+501,NetDwellingsRangeTo,missing,
+502,NetDwellingsRangeFrom,missing,
+502,NetDwellingsRangeTo,missing,
+503,NetDwellingsRangeFrom,missing,
+503,NetDwellingsRangeTo,missing,
 504,PlanningStatus,enum,Other Commitment
+504,NetDwellingsRangeFrom,missing,
+504,NetDwellingsRangeTo,missing,
 505,PlanningStatus,enum,Completed During 2018/19
+505,NetDwellingsRangeFrom,missing,
+505,NetDwellingsRangeTo,missing,
 506,PlanningStatus,enum,Completed During 2018/19
+506,NetDwellingsRangeFrom,missing,
+506,NetDwellingsRangeTo,missing,
+507,NetDwellingsRangeFrom,missing,
+507,NetDwellingsRangeTo,missing,
+508,NetDwellingsRangeFrom,missing,
+508,NetDwellingsRangeTo,missing,
+509,NetDwellingsRangeFrom,missing,
+509,NetDwellingsRangeTo,missing,
+510,NetDwellingsRangeFrom,missing,
+510,NetDwellingsRangeTo,missing,
+511,NetDwellingsRangeFrom,missing,
+511,NetDwellingsRangeTo,missing,
+512,NetDwellingsRangeFrom,missing,
+512,NetDwellingsRangeTo,missing,
+513,NetDwellingsRangeFrom,missing,
+513,NetDwellingsRangeTo,missing,
+514,NetDwellingsRangeFrom,missing,
+514,NetDwellingsRangeTo,missing,
+515,NetDwellingsRangeFrom,missing,
+515,NetDwellingsRangeTo,missing,
+516,NetDwellingsRangeFrom,missing,
+516,NetDwellingsRangeTo,missing,
+517,NetDwellingsRangeFrom,missing,
+517,NetDwellingsRangeTo,missing,
+518,NetDwellingsRangeFrom,missing,
+518,NetDwellingsRangeTo,missing,
+519,NetDwellingsRangeFrom,missing,
+519,NetDwellingsRangeTo,missing,
+520,NetDwellingsRangeFrom,missing,
+520,NetDwellingsRangeTo,missing,
+521,NetDwellingsRangeFrom,missing,
+521,NetDwellingsRangeTo,missing,
+522,NetDwellingsRangeFrom,missing,
+522,NetDwellingsRangeTo,missing,
+523,NetDwellingsRangeFrom,missing,
+523,NetDwellingsRangeTo,missing,
+524,NetDwellingsRangeFrom,missing,
+524,NetDwellingsRangeTo,missing,
+525,NetDwellingsRangeFrom,missing,
+525,NetDwellingsRangeTo,missing,
+526,NetDwellingsRangeFrom,missing,
+526,NetDwellingsRangeTo,missing,
+527,NetDwellingsRangeFrom,missing,
+527,NetDwellingsRangeTo,missing,
+528,NetDwellingsRangeFrom,missing,
+528,NetDwellingsRangeTo,missing,
+529,NetDwellingsRangeFrom,missing,
+529,NetDwellingsRangeTo,missing,
+530,NetDwellingsRangeFrom,missing,
+530,NetDwellingsRangeTo,missing,
+531,NetDwellingsRangeFrom,missing,
+531,NetDwellingsRangeTo,missing,
+532,NetDwellingsRangeFrom,missing,
+532,NetDwellingsRangeTo,missing,
+533,NetDwellingsRangeFrom,missing,
+533,NetDwellingsRangeTo,missing,
+534,NetDwellingsRangeFrom,missing,
+534,NetDwellingsRangeTo,missing,
 535,PlanningStatus,enum,Completed During 2018/19
+535,NetDwellingsRangeFrom,missing,
+535,NetDwellingsRangeTo,missing,
 536,PlanningStatus,enum,Completed During 2018/19
+536,NetDwellingsRangeFrom,missing,
+536,NetDwellingsRangeTo,missing,
 537,PlanningStatus,enum,Completed During 2018/19
+537,NetDwellingsRangeFrom,missing,
+537,NetDwellingsRangeTo,missing,
 538,PlanningStatus,enum,Completed During 2018/19
+538,NetDwellingsRangeFrom,missing,
+538,NetDwellingsRangeTo,missing,
 539,PlanningStatus,enum,Completed During 2018/19
+539,NetDwellingsRangeFrom,missing,
+539,NetDwellingsRangeTo,missing,
 540,PlanningStatus,enum,Completed During 2018/19
+540,NetDwellingsRangeFrom,missing,
+540,NetDwellingsRangeTo,missing,
 541,PlanningStatus,enum,Completed During 2018/19
+541,NetDwellingsRangeFrom,missing,
+541,NetDwellingsRangeTo,missing,
 542,PlanningStatus,enum,Completed During 2018/19
+542,NetDwellingsRangeFrom,missing,
+542,NetDwellingsRangeTo,missing,
 543,PlanningStatus,enum,Completed During 2018/19
+543,NetDwellingsRangeFrom,missing,
+543,NetDwellingsRangeTo,missing,
 544,PlanningStatus,enum,Completed During 2018/19
+544,NetDwellingsRangeFrom,missing,
+544,NetDwellingsRangeTo,missing,
+545,NetDwellingsRangeFrom,missing,
+545,NetDwellingsRangeTo,missing,
+546,NetDwellingsRangeFrom,missing,
+546,NetDwellingsRangeTo,missing,
+547,NetDwellingsRangeFrom,missing,
+547,NetDwellingsRangeTo,missing,
+548,NetDwellingsRangeFrom,missing,
+548,NetDwellingsRangeTo,missing,
+549,NetDwellingsRangeFrom,missing,
+549,NetDwellingsRangeTo,missing,
+550,NetDwellingsRangeFrom,missing,
+550,NetDwellingsRangeTo,missing,
+551,NetDwellingsRangeFrom,missing,
+551,NetDwellingsRangeTo,missing,
+552,NetDwellingsRangeFrom,missing,
+552,NetDwellingsRangeTo,missing,
+553,NetDwellingsRangeFrom,missing,
+553,NetDwellingsRangeTo,missing,
+554,NetDwellingsRangeFrom,missing,
+554,NetDwellingsRangeTo,missing,
+555,NetDwellingsRangeFrom,missing,
+555,NetDwellingsRangeTo,missing,
+556,NetDwellingsRangeFrom,missing,
+556,NetDwellingsRangeTo,missing,
+557,NetDwellingsRangeFrom,missing,
+557,NetDwellingsRangeTo,missing,
+558,NetDwellingsRangeFrom,missing,
+558,NetDwellingsRangeTo,missing,
+559,NetDwellingsRangeFrom,missing,
+559,NetDwellingsRangeTo,missing,
+560,NetDwellingsRangeFrom,missing,
+560,NetDwellingsRangeTo,missing,
+561,NetDwellingsRangeFrom,missing,
+561,NetDwellingsRangeTo,missing,
+562,NetDwellingsRangeFrom,missing,
+562,NetDwellingsRangeTo,missing,
+563,NetDwellingsRangeFrom,missing,
+563,NetDwellingsRangeTo,missing,
+564,NetDwellingsRangeFrom,missing,
+564,NetDwellingsRangeTo,missing,
+565,NetDwellingsRangeFrom,missing,
+565,NetDwellingsRangeTo,missing,
+566,NetDwellingsRangeFrom,missing,
+566,NetDwellingsRangeTo,missing,
+567,NetDwellingsRangeFrom,missing,
+567,NetDwellingsRangeTo,missing,
+568,NetDwellingsRangeFrom,missing,
+568,NetDwellingsRangeTo,missing,
+569,NetDwellingsRangeFrom,missing,
+569,NetDwellingsRangeTo,missing,
+570,NetDwellingsRangeFrom,missing,
+570,NetDwellingsRangeTo,missing,
+571,NetDwellingsRangeFrom,missing,
+571,NetDwellingsRangeTo,missing,
+572,NetDwellingsRangeFrom,missing,
+572,NetDwellingsRangeTo,missing,
+573,NetDwellingsRangeFrom,missing,
+573,NetDwellingsRangeTo,missing,
+574,NetDwellingsRangeFrom,missing,
+574,NetDwellingsRangeTo,missing,
+575,NetDwellingsRangeFrom,missing,
+575,NetDwellingsRangeTo,missing,
+576,NetDwellingsRangeFrom,missing,
+576,NetDwellingsRangeTo,missing,
+577,NetDwellingsRangeFrom,missing,
+577,NetDwellingsRangeTo,missing,
+578,NetDwellingsRangeFrom,missing,
+578,NetDwellingsRangeTo,missing,
+579,NetDwellingsRangeFrom,missing,
+579,NetDwellingsRangeTo,missing,
+580,NetDwellingsRangeFrom,missing,
+580,NetDwellingsRangeTo,missing,
+581,NetDwellingsRangeFrom,missing,
+581,NetDwellingsRangeTo,missing,
+582,NetDwellingsRangeFrom,missing,
+582,NetDwellingsRangeTo,missing,
+583,NetDwellingsRangeFrom,missing,
+583,NetDwellingsRangeTo,missing,
+584,NetDwellingsRangeFrom,missing,
+584,NetDwellingsRangeTo,missing,
+585,NetDwellingsRangeFrom,missing,
+585,NetDwellingsRangeTo,missing,
+586,NetDwellingsRangeFrom,missing,
+586,NetDwellingsRangeTo,missing,
+587,NetDwellingsRangeFrom,missing,
+587,NetDwellingsRangeTo,missing,
+588,NetDwellingsRangeFrom,missing,
+588,NetDwellingsRangeTo,missing,
+589,NetDwellingsRangeFrom,missing,
+589,NetDwellingsRangeTo,missing,
+590,NetDwellingsRangeFrom,missing,
+590,NetDwellingsRangeTo,missing,
+591,NetDwellingsRangeFrom,missing,
+591,NetDwellingsRangeTo,missing,
+592,NetDwellingsRangeFrom,missing,
+592,NetDwellingsRangeTo,missing,
+593,NetDwellingsRangeFrom,missing,
+593,NetDwellingsRangeTo,missing,

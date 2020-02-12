@@ -1,6 +1,26 @@
 row-number,field,issue-type,value
+1,NetDwellingsRangeTo,default,160
+2,NetDwellingsRangeTo,default,41
+3,NetDwellingsRangeTo,default,10
 3,"GeoX,GeoY",out of range,"95581,486046"
+4,NetDwellingsRangeTo,default,10
+5,NetDwellingsRangeTo,default,1
+6,NetDwellingsRangeTo,default,3
+7,NetDwellingsRangeTo,default,16
+8,NetDwellingsRangeTo,default,6
+9,NetDwellingsRangeTo,default,20
+10,NetDwellingsRangeTo,default,208
+11,NetDwellingsRangeTo,default,36
+12,NetDwellingsRangeTo,default,6
+13,NetDwellingsRangeTo,default,11
+14,NetDwellingsRangeTo,default,8
+15,NetDwellingsRangeTo,default,10
+16,NetDwellingsRangeTo,default,10
 16,"GeoX,GeoY",out of range,"97169,4.7966E+5"
+17,NetDwellingsRangeTo,default,37
+18,NetDwellingsRangeTo,default,85
 18,"GeoX,GeoY",out of range,"97079,480841"
+19,NetDwellingsRangeTo,default,7
 19,"GeoX,GeoY",out of range,"92506,4.8526E+5"
+20,NetDwellingsRangeTo,default,5
 20,"GeoX,GeoY",out of range,"93023,484672"

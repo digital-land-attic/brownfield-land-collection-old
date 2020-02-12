@@ -1,7 +1,13 @@
 row-number,field,issue-type,value
 9,NetDwellingsRangeFrom,integer,700 (200 net)
 9,NetDwellingsRangeTo,integer,700 (200 net)
+9,NetDwellingsRangeFrom,missing,
+9,NetDwellingsRangeTo,missing,
 16,NetDwellingsRangeFrom,integer,>1
 16,NetDwellingsRangeTo,integer,>1
+16,NetDwellingsRangeFrom,missing,
+16,NetDwellingsRangeTo,missing,
 23,NetDwellingsRangeFrom,integer,>1
 23,NetDwellingsRangeTo,integer,>1
+23,NetDwellingsRangeFrom,missing,
+23,NetDwellingsRangeTo,missing,

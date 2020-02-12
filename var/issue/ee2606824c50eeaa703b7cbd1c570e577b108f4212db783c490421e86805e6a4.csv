@@ -1,3 +1,5 @@
 row-number,field,issue-type,value
 12,NetDwellingsRangeFrom,integer,"3,500"
 12,NetDwellingsRangeTo,integer,"3,500"
+12,NetDwellingsRangeFrom,missing,
+12,NetDwellingsRangeTo,missing,

@@ -1,1 +1,14 @@
 row-number,field,issue-type,value
+5,NetDwellingsRangeFrom,missing,
+5,NetDwellingsRangeTo,missing,
+9,NetDwellingsRangeFrom,missing,
+9,NetDwellingsRangeTo,missing,
+13,NetDwellingsRangeFrom,missing,
+13,NetDwellingsRangeTo,missing,
+17,NetDwellingsRangeTo,default,7
+51,NetDwellingsRangeFrom,missing,
+51,NetDwellingsRangeTo,missing,
+55,NetDwellingsRangeFrom,missing,
+55,NetDwellingsRangeTo,missing,
+57,NetDwellingsRangeFrom,missing,
+57,NetDwellingsRangeTo,missing,

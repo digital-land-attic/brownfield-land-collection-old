@@ -1,51 +1,101 @@
 row-number,field,issue-type,value
+1,NetDwellingsRangeTo,default,6
 1,"GeoX,GeoY",out of range,"4156459.22,-550921.07"
+2,NetDwellingsRangeTo,default,49
 2,"GeoX,GeoY",out of range,"4028419.06,-759.28"
+3,NetDwellingsRangeTo,default,7
 3,"GeoX,GeoY",out of range,"4040150.13,3628.54"
+4,NetDwellingsRangeTo,default,145
 4,"GeoX,GeoY",out of range,"4039869.23,4029.53"
+5,NetDwellingsRangeTo,default,66
 5,"GeoX,GeoY",out of range,"4039558.02,3261.04"
+6,NetDwellingsRangeTo,default,22
 6,"GeoX,GeoY",out of range,"4039763.52,3903.16"
+7,NetDwellingsRangeTo,default,80
 7,"GeoX,GeoY",out of range,"4039670.96,3324.13"
+8,NetDwellingsRangeTo,default,6
 8,"GeoX,GeoY",out of range,"4040105.68,3616.09"
+9,NetDwellingsRangeTo,default,25
 9,"GeoX,GeoY",out of range,"4039796.44,3769.95"
+10,NetDwellingsRangeTo,default,10
 10,"GeoX,GeoY",out of range,"4039906.7,3553"
+11,NetDwellingsRangeTo,default,10
 11,"GeoX,GeoY",out of range,"4039855.69,3334.68"
+12,NetDwellingsRangeTo,default,26
 12,"GeoX,GeoY",out of range,"4040220.54,3472.01"
+13,NetDwellingsRangeTo,default,8
 13,"GeoX,GeoY",out of range,"3969710.78,5924.81"
+14,NetDwellingsRangeTo,default,100
 14,"GeoX,GeoY",out of range,"4040581.89,3741.53"
+15,NetDwellingsRangeTo,default,10
 15,"GeoX,GeoY",out of range,"4039925.07,3917.53"
+16,NetDwellingsRangeTo,default,26
 16,"GeoX,GeoY",out of range,"4040412.16,1458.35"
+17,NetDwellingsRangeTo,default,12
 17,"GeoX,GeoY",out of range,"4030922.32,4248.85"
+18,NetDwellingsRangeTo,default,8
 18,"GeoX,GeoY",out of range,"4031215.23,4221.62"
+19,NetDwellingsRangeTo,default,14
 19,"GeoX,GeoY",out of range,"4031288.71,4019.97"
+20,NetDwellingsRangeTo,default,10
 20,"GeoX,GeoY",out of range,"4041676.28,7081.87"
+21,NetDwellingsRangeTo,default,12
 21,"GeoX,GeoY",out of range,"4041391.08,6699.65"
+22,NetDwellingsRangeTo,default,19
 22,"GeoX,GeoY",out of range,"4041409.05,6210.8"
+23,NetDwellingsRangeTo,default,8
 23,"GeoX,GeoY",out of range,"4041812.76,7239.17"
+24,NetDwellingsRangeTo,default,30
 24,"GeoX,GeoY",out of range,"4041457.4,7295.6"
+25,NetDwellingsRangeTo,default,10
 25,"GeoX,GeoY",out of range,"4041654.22,7370.77"
+26,NetDwellingsRangeTo,default,6
 26,"GeoX,GeoY",out of range,"4041890.63,7104.4"
+27,NetDwellingsRangeTo,default,9
 27,"GeoX,GeoY",out of range,"4041403.82,7405.52"
+28,NetDwellingsRangeTo,default,19
 28,"GeoX,GeoY",out of range,"4041862.91,7381.49"
+29,NetDwellingsRangeTo,default,9
 29,"GeoX,GeoY",out of range,"4041498.91,7202.11"
+30,NetDwellingsRangeTo,default,10
 30,"GeoX,GeoY",out of range,"4041436.83,7236.29"
+31,NetDwellingsRangeTo,default,31
 31,"GeoX,GeoY",out of range,"4024915.82,6600.13"
+32,NetDwellingsRangeTo,default,8
 32,"GeoX,GeoY",out of range,"4039867.55,784.76"
+33,NetDwellingsRangeTo,default,31
 33,"GeoX,GeoY",out of range,"4039982.1,350.53"
+34,NetDwellingsRangeTo,default,5
 34,"GeoX,GeoY",out of range,"4039849.98,3358.89"
+35,NetDwellingsRangeTo,default,5
 35,"GeoX,GeoY",out of range,"4040149,3048.31"
+36,NetDwellingsRangeTo,default,6
 36,"GeoX,GeoY",out of range,"4039878.31,-752.11"
+37,NetDwellingsRangeTo,default,39
 37,"GeoX,GeoY",out of range,"4040202.22,3936.86"
+38,NetDwellingsRangeTo,default,6
 38,"GeoX,GeoY",out of range,"4040234.2,619.1509"
+39,NetDwellingsRangeTo,default,13
 39,"GeoX,GeoY",out of range,"4039824.11,3344.78"
+40,NetDwellingsRangeTo,default,6
 40,"GeoX,GeoY",out of range,"4028496.37,-997.09"
+41,NetDwellingsRangeTo,default,9
 41,"GeoX,GeoY",out of range,"4040161.451,513.6383"
+42,NetDwellingsRangeTo,default,9
 42,"GeoX,GeoY",out of range,"4040313.93,873.4937"
+43,NetDwellingsRangeTo,default,31
 43,"GeoX,GeoY",out of range,"4041541.644,7360.691"
+44,NetDwellingsRangeTo,default,6
 44,"GeoX,GeoY",out of range,"4039912.666,3503.7717"
+45,NetDwellingsRangeTo,default,7
 45,"GeoX,GeoY",out of range,"4041104.739,7525.0125"
+46,NetDwellingsRangeTo,default,22
 46,"GeoX,GeoY",out of range,"4038941.058,509.2546"
+47,NetDwellingsRangeTo,default,80
 47,"GeoX,GeoY",out of range,"4040102.37,4095.4216"
+48,NetDwellingsRangeTo,default,39
 48,"GeoX,GeoY",out of range,"4040202.21,3936.8642"
+49,NetDwellingsRangeTo,default,14
 49,"GeoX,GeoY",out of range,"4039894.8,3314.3084"
+50,NetDwellingsRangeTo,default,10
 50,"GeoX,GeoY",out of range,"4041816.53,7234.0407"

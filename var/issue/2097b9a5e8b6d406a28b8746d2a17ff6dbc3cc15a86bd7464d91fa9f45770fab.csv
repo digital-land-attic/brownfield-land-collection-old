@@ -4,6 +4,7 @@ row-number,field,issue-type,value
 3,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 4,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 5,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+5,NetDwellingsRangeTo,default,6
 6,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 7,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 8,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
@@ -13,13 +14,17 @@ row-number,field,issue-type,value
 12,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 13,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 14,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+14,NetDwellingsRangeTo,default,9
 15,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+15,NetDwellingsRangeTo,default,5
 16,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+16,NetDwellingsRangeTo,default,40
 17,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 18,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 19,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 20,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 21,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+21,NetDwellingsRangeTo,default,5
 22,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 23,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 24,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
@@ -28,14 +33,20 @@ row-number,field,issue-type,value
 27,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 27,NetDwellingsRangeFrom,integer,"3,514"
 27,NetDwellingsRangeTo,integer,"3,514"
+27,NetDwellingsRangeFrom,missing,
+27,NetDwellingsRangeTo,missing,
 28,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 28,NetDwellingsRangeTo,integer,"1,131"
+28,NetDwellingsRangeTo,default,1131
 29,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 30,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 31,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 32,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+32,NetDwellingsRangeTo,default,18
 33,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+33,NetDwellingsRangeTo,default,85
 34,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+34,NetDwellingsRangeTo,default,9
 35,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 36,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 37,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
@@ -49,8 +60,11 @@ row-number,field,issue-type,value
 45,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 46,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 47,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+47,NetDwellingsRangeTo,default,8
 48,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+48,NetDwellingsRangeTo,default,6
 49,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+49,NetDwellingsRangeTo,default,74
 50,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 51,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 52,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
@@ -58,6 +72,7 @@ row-number,field,issue-type,value
 54,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 55,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 56,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+56,NetDwellingsRangeTo,default,5
 57,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 58,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 59,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
@@ -66,10 +81,14 @@ row-number,field,issue-type,value
 62,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 62,NetDwellingsRangeFrom,integer,"1,011"
 62,NetDwellingsRangeTo,integer,"1,011"
+62,NetDwellingsRangeFrom,missing,
+62,NetDwellingsRangeTo,missing,
 63,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+63,NetDwellingsRangeTo,default,237
 64,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 65,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 66,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+66,NetDwellingsRangeTo,default,30
 67,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 68,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 69,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
@@ -77,10 +96,15 @@ row-number,field,issue-type,value
 71,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 72,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 72,NetDwellingsRangeFrom,integer,"1,115"
+72,NetDwellingsRangeFrom,missing,
+72,NetDwellingsRangeTo,missing,
 73,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 74,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+74,NetDwellingsRangeTo,default,499
 75,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+75,NetDwellingsRangeTo,default,30
 76,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+76,NetDwellingsRangeTo,default,6
 77,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 78,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 79,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
@@ -100,41 +124,60 @@ row-number,field,issue-type,value
 93,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 93,NetDwellingsRangeFrom,integer,"2,365"
 93,NetDwellingsRangeTo,integer,"2,365"
+93,NetDwellingsRangeFrom,missing,
+93,NetDwellingsRangeTo,missing,
 94,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+94,NetDwellingsRangeTo,default,148
 95,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 96,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+96,NetDwellingsRangeTo,default,5
 97,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 98,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+98,NetDwellingsRangeTo,default,799
 99,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+99,NetDwellingsRangeTo,default,233
 100,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 101,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 102,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+102,NetDwellingsRangeTo,default,8
 103,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+103,NetDwellingsRangeTo,default,6
 104,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+104,NetDwellingsRangeTo,default,394
 105,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 106,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 107,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 108,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 109,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+109,NetDwellingsRangeTo,default,60
 110,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+110,NetDwellingsRangeTo,default,8
 111,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+111,NetDwellingsRangeTo,default,5
 112,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 113,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 114,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 115,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 116,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+116,NetDwellingsRangeTo,default,15
 117,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 118,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+118,NetDwellingsRangeTo,default,5
 119,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+119,NetDwellingsRangeTo,default,98
 120,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 121,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 122,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 123,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 124,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 125,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+125,NetDwellingsRangeTo,default,173
 126,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+126,NetDwellingsRangeTo,default,20
 127,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+127,NetDwellingsRangeTo,default,7
 128,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
+128,NetDwellingsRangeTo,default,5
 129,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 130,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register
 131,SiteplanURL,uri,For maps that show the location and boundaries of the site visit the Council's webpage on the Brownfield Land Register: https://lewisham.gov.uk/myservices/planning/policy/brownfield-land-register

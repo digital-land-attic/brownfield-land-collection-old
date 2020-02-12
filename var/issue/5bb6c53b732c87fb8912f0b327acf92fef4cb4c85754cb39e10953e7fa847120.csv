@@ -1,28 +1,51 @@
 row-number,field,issue-type,value
 1,SiteplanURL,uri,Site boundary map
+1,NetDwellingsRangeTo,default,24
 2,SiteplanURL,uri,Site boundary map
+2,NetDwellingsRangeTo,default,45
 3,SiteplanURL,uri,Site boundary map
+3,NetDwellingsRangeTo,default,20
 4,SiteplanURL,uri,Site boundary map
+4,NetDwellingsRangeTo,default,200
 4,SiteReference,missing,
 5,SiteplanURL,uri,Site boundary map
+5,NetDwellingsRangeTo,default,67
 6,SiteplanURL,uri,Site boundary map
+6,NetDwellingsRangeTo,default,16
 7,SiteplanURL,uri,Site boundary map
+7,NetDwellingsRangeTo,default,6
 8,SiteplanURL,uri,Site boundary map
+8,NetDwellingsRangeTo,default,36
 9,SiteplanURL,uri,Site boundary map
+9,NetDwellingsRangeTo,default,65
 10,SiteplanURL,uri,Site boundary map
+10,NetDwellingsRangeTo,default,95
 11,SiteplanURL,uri,Site boundary map
+11,NetDwellingsRangeTo,default,60
 12,SiteplanURL,uri,Site boundary map
+12,NetDwellingsRangeTo,default,526
 13,SiteplanURL,uri,Site boundary map
+13,NetDwellingsRangeTo,default,202
 14,SiteplanURL,uri,Site boundary map
+14,NetDwellingsRangeTo,default,12
 15,SiteplanURL,uri,Site boundary map
+15,NetDwellingsRangeTo,default,149
 16,SiteplanURL,uri,Site boundary map
+16,NetDwellingsRangeTo,default,18
 17,SiteplanURL,uri,Site boundary map
+17,NetDwellingsRangeTo,default,22
 17,SiteReference,missing,
 18,SiteplanURL,uri,Site boundary map
+18,NetDwellingsRangeTo,default,35
 19,SiteplanURL,uri,Site boundary map
+19,NetDwellingsRangeTo,default,50
 20,SiteplanURL,uri,Site boundary map
+20,NetDwellingsRangeTo,default,275
 21,SiteplanURL,uri,Site boundary map
+21,NetDwellingsRangeTo,default,34
 22,SiteplanURL,uri,Site boundary map
+22,NetDwellingsRangeTo,default,2000
 22,GeoX,missing,
 22,GeoY,missing,
 23,SiteplanURL,uri,Site boundary map
+23,NetDwellingsRangeTo,default,37

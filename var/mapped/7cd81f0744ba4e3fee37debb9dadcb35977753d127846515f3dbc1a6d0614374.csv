@@ -1,79 +1,27 @@
 OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_24,Whitechapel Station & surrounding land/buildings,534628.69,181843.03,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/9134df58dd764bcdbe18ebd645b7584a/data,0.97,unknown ownership,,not permissioned,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_08,Aspen Way,537825.44,180670.72,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/fb1a62b3b5434eef97f67a0cdf34a818/data,4.61,unknown ownership,,pending decision,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_10,Limeharbour,537950,179649.84,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/d7a5436c3368412a9ae851225b2593c9/data,5.25,unknown ownership,,pending decision,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_11,Marsh Wall East,538015.31,179805.58,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/f3530a792653414fb0839b2db2c99c67/data,3.61,unknown ownership,,pending decision,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_12,Marsh Wall West,537416.75,179883.53,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/1884400783184544b57cf4b0ecf9f5ce/data,6.83,unknown ownership,,pending decision,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_14,Millharbour,537549.5,179701.94,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/f09fce102d724a85a4990d0ad487ba87/data,5.05,unknown ownership,,pending decision,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_09,Crossharbour Town Centre,538030.94,179146.75,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/d0c760ece8434c3e80e996f1c68aba0b/data,6.16,unknown ownership,,pending decision,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_16,Westferry Printworks,537388.75,179204.88,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/47401c2194ab4f9cb69329f052634e06/data,6.4,unknown ownership,,pending decision,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_13,Millharbour South,537640.44,179295.19,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/189ea61c9b5d44fca003722c64cf2c66/data,4.02,unknown ownership,,pending decision,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_06,Ailsa Street,538312.06,181772.84,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/9e9d5c85280e4eaeae7c0cae8f96a41f/data,5.76,unknown ownership,,pending decision,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_07,Leven Road Gas Works,538692.63,181574.88,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/30c690c4bf9c4d189b538a3f998df975/data,8.56,unknown ownership,,pending decision,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_02,Marian Place Gas Works and The Oval,534647.5,183378.42,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/337cf80182f244be8f28857022df048b/data,4.41,unknown ownership,,pending decision,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_03,Whitechapel South,534743.19,181632.56,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/9912b472d62640b8bb04ed7eaccb06d3/data,12.72,unknown ownership,,pending decision,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_04,Bow Common Gas Works,537120.94,182067.42,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/ce1e5fa2dbe14277886293c998ff7702/data,3.94,unknown ownership,,pending decision,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_05,Chrisp Street Town Centre,537854.63,181156.16,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/6ddccb99b65049259b058a6eef5c0423/data,3.92,unknown ownership,,pending decision,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_01,Bishopsgate Goods Yard,533667.75,182211.92,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/b4203577e33540a18584fecb304bc58a/data,4.46,unknown ownership,,pending decision,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_15,Reuters LTD,538680.56,180633.33,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/e0366a585acb4f78a73bfef1e4597eb5/data,2.71,unknown ownership,,pending decision,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_25,"Boatmans House, 2 Selsdon Way, London, E14 9LA",537830.69,179263.14,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/c50b8796d06946c39ebd396120237c55/data,0.11,unknown ownership,,not permissioned,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_26,82 West India Dock Road incorporating land to east,537114.25,180797.23,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/817e61684e884d4cbf2eaf6cc51467a4/data,1.58,unknown ownership,,not permissioned,,,,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_23,Stroudley Walk Market Stroudley Walk,537653.44,182766.66,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/5f08ce3723d948c7bf4254476b63abcb/data,0.86,unknown ownership,,permissioned,outline planning permission,2015-03-31,https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=DCAPR_94593,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_21,Site At land adjacent railway viaduct Mantus Road,535221.75,182448.55,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/86147242200b4bf4a49927dd948dd15d/data,0.28,unknown ownership,,permissioned,full planning permission,2016-04-01,https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=DCAPR_103280,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_22,Glaucus Street/Violet Road,537644,181948.16,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/046fca33f5824f7a9debd61eff37c369/data,0.18,unknown ownership,,permissioned,full planning permission,2013-08-15,https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=DCAPR_104104,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_20,Land at Fleet Street Hill,534065.5,182218.48,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/5f26298e7e36417cbd93cef77546c431/data,0.4,unknown ownership,,permissioned,full planning permission,2014-03-19,https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=DCAPR_106905,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_19,"Hercules Wharf, Castle Wharf and Union Wharf Orchard Place",539381.56,180781.22,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/b801bc1602994b2b824e4eef60261421/data,2.57,unknown ownership,,permissioned,full planning permission,2016-09-22,https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=DCAPR_112505,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_17,42-44 Thomas Road,537067.94,181431.7,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/236bc694f9334952933377e046ecdd3b/data,0.31,unknown ownership,,permissioned,full planning permission,2017-07-28,https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=DCAPR_117624,,,,"
-
-",2017-11-27,2017-11-27,
-http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_18,Old petrol station Leamouth Road,538958.75,181077.75,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/5d4713cb387f49529d34e0880a91efb6/data,0.32,unknown ownership,,permissioned,full planning permission,2017-10-17,https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=DCAPR_123483,,,,"
-
-",2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_24,Whitechapel Station & surrounding land/buildings,534628.69,181843.03,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/9134df58dd764bcdbe18ebd645b7584a/data,0.97,unknown ownership,,not permissioned,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_08,Aspen Way,537825.44,180670.72,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/fb1a62b3b5434eef97f67a0cdf34a818/data,4.61,unknown ownership,,pending decision,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_10,Limeharbour,537950,179649.84,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/d7a5436c3368412a9ae851225b2593c9/data,5.25,unknown ownership,,pending decision,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_11,Marsh Wall East,538015.31,179805.58,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/f3530a792653414fb0839b2db2c99c67/data,3.61,unknown ownership,,pending decision,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_12,Marsh Wall West,537416.75,179883.53,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/1884400783184544b57cf4b0ecf9f5ce/data,6.83,unknown ownership,,pending decision,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_14,Millharbour,537549.5,179701.94,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/f09fce102d724a85a4990d0ad487ba87/data,5.05,unknown ownership,,pending decision,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_09,Crossharbour Town Centre,538030.94,179146.75,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/d0c760ece8434c3e80e996f1c68aba0b/data,6.16,unknown ownership,,pending decision,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_16,Westferry Printworks,537388.75,179204.88,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/47401c2194ab4f9cb69329f052634e06/data,6.4,unknown ownership,,pending decision,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_13,Millharbour South,537640.44,179295.19,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/189ea61c9b5d44fca003722c64cf2c66/data,4.02,unknown ownership,,pending decision,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_06,Ailsa Street,538312.06,181772.84,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/9e9d5c85280e4eaeae7c0cae8f96a41f/data,5.76,unknown ownership,,pending decision,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_07,Leven Road Gas Works,538692.63,181574.88,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/30c690c4bf9c4d189b538a3f998df975/data,8.56,unknown ownership,,pending decision,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_02,Marian Place Gas Works and The Oval,534647.5,183378.42,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/337cf80182f244be8f28857022df048b/data,4.41,unknown ownership,,pending decision,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_03,Whitechapel South,534743.19,181632.56,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/9912b472d62640b8bb04ed7eaccb06d3/data,12.72,unknown ownership,,pending decision,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_04,Bow Common Gas Works,537120.94,182067.42,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/ce1e5fa2dbe14277886293c998ff7702/data,3.94,unknown ownership,,pending decision,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_05,Chrisp Street Town Centre,537854.63,181156.16,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/6ddccb99b65049259b058a6eef5c0423/data,3.92,unknown ownership,,pending decision,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_01,Bishopsgate Goods Yard,533667.75,182211.92,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/b4203577e33540a18584fecb304bc58a/data,4.46,unknown ownership,,pending decision,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_15,Reuters LTD,538680.56,180633.33,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/e0366a585acb4f78a73bfef1e4597eb5/data,2.71,unknown ownership,,pending decision,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_25,"Boatmans House, 2 Selsdon Way, London, E14 9LA",537830.69,179263.14,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/c50b8796d06946c39ebd396120237c55/data,0.11,unknown ownership,,not permissioned,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_26,82 West India Dock Road incorporating land to east,537114.25,180797.23,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/817e61684e884d4cbf2eaf6cc51467a4/data,1.58,unknown ownership,,not permissioned,,,,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_23,Stroudley Walk Market Stroudley Walk,537653.44,182766.66,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/5f08ce3723d948c7bf4254476b63abcb/data,0.86,unknown ownership,,permissioned,outline planning permission,2015-03-31,https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=DCAPR_94593,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_21,Site At land adjacent railway viaduct Mantus Road,535221.75,182448.55,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/86147242200b4bf4a49927dd948dd15d/data,0.28,unknown ownership,,permissioned,full planning permission,2016-04-01,https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=DCAPR_103280,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_22,Glaucus Street/Violet Road,537644,181948.16,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/046fca33f5824f7a9debd61eff37c369/data,0.18,unknown ownership,,permissioned,full planning permission,2013-08-15,https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=DCAPR_104104,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_20,Land at Fleet Street Hill,534065.5,182218.48,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/5f26298e7e36417cbd93cef77546c431/data,0.4,unknown ownership,,permissioned,full planning permission,2014-03-19,https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=DCAPR_106905,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_19,"Hercules Wharf, Castle Wharf and Union Wharf Orchard Place",539381.56,180781.22,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/b801bc1602994b2b824e4eef60261421/data,2.57,unknown ownership,,permissioned,full planning permission,2016-09-22,https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=DCAPR_112505,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_17,42-44 Thomas Road,537067.94,181431.7,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/236bc694f9334952933377e046ecdd3b/data,0.31,unknown ownership,,permissioned,full planning permission,2017-07-28,https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=DCAPR_117624,,,,,2017-11-27,2017-11-27,
+http://opendatacommunities.org/id/london-borough-council/tower-hamlets,London Borough of Tower Hamlets,BR_LBTH_18,Old petrol station Leamouth Road,538958.75,181077.75,http://towerhamlets.maps.arcgis.com/sharing/rest/content/items/5d4713cb387f49529d34e0880a91efb6/data,0.32,unknown ownership,,permissioned,full planning permission,2017-10-17,https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=DCAPR_123483,,,,,2017-11-27,2017-11-27,
