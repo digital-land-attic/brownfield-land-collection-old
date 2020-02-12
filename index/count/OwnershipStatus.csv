@@ -1,10 +1,10 @@
 field,value,count
-OwnershipStatus,not owned by a public authority,23948
+OwnershipStatus,not owned by a public authority,23961
 OwnershipStatus,Not owned by a public authority,5311
 OwnershipStatus,unknown ownership,5249
-OwnershipStatus,owned by a public authority,4214
+OwnershipStatus,owned by a public authority,4216
 OwnershipStatus,Unknown ownership,3401
-OwnershipStatus,"",2003
+OwnershipStatus,"",2071
 OwnershipStatus,unkown ownership,1872
 OwnershipStatus,mixed ownership,1426
 OwnershipStatus,Owned by a public authority,1083
@@ -53,8 +53,8 @@ OwnershipStatus,not owned by a public authority ,8
 OwnershipStatus,Unknown owner,8
 OwnershipStatus,Owned by a public authority.,8
 OwnershipStatus,Not Owned by a public authority,8
+OwnershipStatus,mixed,6
 OwnershipStatus,Public - Thurrock Council,6
-OwnershipStatus,mixed,4
 OwnershipStatus,OWNED BY A PUBLIC AUTHORITY,4
 OwnershipStatus,MultipleOwners,4
 OwnershipStatus,Mixed,4
