@@ -5,6 +5,8 @@
 
 Collect data published by each Local Planning Authority, validate the publications, and build a national [dataset](dataset).
 
+You can explore data with a geospatial position on our [map](https://digital-land.github.io/map/).
+
 # Collection
 
 The source list of registers collected is kept and maintained in [dataset/brownfield-land.csv](dataset/brownfield-land.csv).
@@ -26,9 +28,14 @@ The collected resources are then processed in a pipeline:
 
 # Dataset
 
-The collection is then collated into a national dataset:
+The resources are then collated into a national set of entries, ordered by the date the resource was published, and the entry-date:
+
+* [index/entries.csv](index/entries.csv)
+
+The entries are then reduced to a national dataset of site records, using the organisation and site reference to uniquely identify a site, and the order of the entries to help remove duplicate and older entries:
 
 * [index/dataset.csv](index/dataset.csv)
+
 
 which has the following fields, to be consistent with other datasets published by digital land:
 
