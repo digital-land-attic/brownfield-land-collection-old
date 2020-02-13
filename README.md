@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/brownfield-land/blob/master/LICENSE)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://black.readthedocs.io/en/stable/)
 
-Collect data published by each Local Planning Authority, validate the publications, and build a national [dataset](dataset).
+Collect data published by each Local Planning Authority, validate the publications, and build a national [dataset](https://digital-land.github.io/dataset/brownfield-land/).
 
 You can explore data with a geospatial position on our [map](https://digital-land.github.io/map/).
 
