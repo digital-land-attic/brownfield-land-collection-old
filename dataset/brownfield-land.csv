@@ -271,7 +271,8 @@ local-authority-eng:GLO,https://www.gloucester.gov.uk/planning-development/plann
 local-authority-eng:GLO,https://www.gloucester.gov.uk/planning-development/planning-policy/brownfield-land-register/,https://www.gloucester.gov.uk/media/4039/brownfield-land.csv,2019-12-13,
 local-authority-eng:GOS,,http://www.gosport.gov.uk/files/GBCBrownfieldLandRegister.csv,,2019-12-20
 local-authority-eng:GOS,https://www.gosport.gov.uk/sections/your-council/council-services/planning-section/planning/brownfield-register/,https://www.gosport.gov.uk/EasySiteWeb/GatewayLink.aspx?alId=50106,,
-local-authority-eng:GOS,https://www.gosport.gov.uk/sections/your-council/council-services/planning-section/planning/brownfield-register/,https://www.gosport.gov.uk/files/GBCBrownfieldLandRegister.csv,2019-12-20,
+local-authority-eng:GOS,https://www.gosport.gov.uk/sections/your-council/council-services/planning-section/planning/brownfield-register/,https://www.gosport.gov.uk/files/GBCBrownfieldLandRegister.csv,2019-12-20,2020-02-17
+local-authority-eng:GOS,https://www.gosport.gov.uk/article/1215/Brownfield-Land-Register,https://www.gosport.gov.uk/1777,2020-02-17,
 local-authority-eng:GRA,https://www.gravesham.gov.uk/home/planning-and-building/local-plan/brownfield-land-register,https://www.gravesham.gov.uk/__data/assets/excel_doc/0009/449568/Gravesham_BrownfieldLandRegister.xlsm,,
 local-authority-eng:GRE,,http://www.royalgreenwich.gov.uk/download/downloads/id/3572/brownfield_land_register_csv,,2019-12-14
 local-authority-eng:GRE,https://www.royalgreenwich.gov.uk/info/200191/planning_policy_and_strategy/1955/brownfield_land_register,https://www.royalgreenwich.gov.uk/downloads/file/3572/brownfield_land_register_csv,,
