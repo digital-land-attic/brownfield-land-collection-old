@@ -20,7 +20,7 @@ Achievable,1
 Achievable comment (Reg 4 (1)(d)),1
 AdditionReference,4
 Additional Notes,3
-AdditionalNotes,2
+AdditionalNotes,3
 Address,4
 Address 1,1
 Address 2,1
@@ -69,8 +69,8 @@ B2,2
 B8,2
 BF_ha,1
 BLR reference,1
-BNG_Easting,4
-BNG_Northing,4
+BNG_Easting,5
+BNG_Northing,5
 Brownfie_1,1
 Brownfield,1
 Brownfield Coverage,1
@@ -112,7 +112,7 @@ Coordinate referencing system,1
 CoordinateRef. System,1
 CoordinateRefSystem,1
 CoordinateReference System,1
-CoordinateReferenceSystem,652
+CoordinateReferenceSystem,653
 CoordinateReferenceSystem2,1
 CoordinateReferenceSystem3,1
 CoordinateReferenceSystem_ETRS89,1
@@ -146,7 +146,7 @@ DateUpdate,2
 Date_Permission,1
 Decision_Date,3
 Deliverabl,3
-Deliverable,770
+Deliverable,772
 Deliverable - mandatory if yes,1
 Description,2
 Description of Proposed Development,3
@@ -160,7 +160,7 @@ Development Status: extant/ commc'd./ part. compltd.,1
 Development description,1
 Development status (if site has full PP),1
 DevelopmentDesciption,1
-DevelopmentDescription,632
+DevelopmentDescription,633
 DevelopmentDescription - mandatory where relevant,1
 Developmentdescription,3
 Discription/Notes,1
@@ -170,11 +170,11 @@ EAST,1
 EASTING,21
 ETRS89,3
 EVENTS,1
-Easting,117
+Easting,118
 Eastings,6
 Eastings (Geo X),1
 EffectiveDate,2
-EndDate,81
+EndDate,82
 EndReason,1
 Enddate,1
 Error,1
@@ -195,7 +195,7 @@ FirstAdd,1
 FirstAdded,4
 "FirstAdded
 Date",2
-FirstAddedDate,728
+FirstAddedDate,730
 FirstAddedDate1,2
 FirstAddedDateBR,2
 FirstDateAdded,1
@@ -210,14 +210,14 @@ Geo Longitude,2
 Geo X,9
 Geo Y,9
 GeoPointLicensingURL,2
-GeoX,766
+GeoX,768
 GeoX (Longitude or east grid),3
 GeoX [East],2
 GeoX_2,1
 GeoX_3,1
 GeoX_ETRS89,1
 GeoX_WGS84,1
-GeoY,766
+GeoY,768
 GeoY (Latitude or north grid),3
 GeoY [North],2
 GeoY_2,1
@@ -244,10 +244,10 @@ Hazardous Substances Regs 2015,2
 Hazardous Substances [as identifiied in Appl. form],1
 Hazardous substances,3
 HazardousS,3
-HazardousSubstances,690
+HazardousSubstances,692
 HazardousSubtances,2
 HazourdousSubstances,2
-Hectares,778
+Hectares,780
 Hectares (gross),2
 Housing Delivery Estimate,8
 Housing Est (remaining),1
@@ -300,7 +300,7 @@ LastUpdateDate,4
 LastUpdated,2
 "LastUpdated
 Date",2
-LastUpdatedDate,711
+LastUpdatedDate,713
 LastUpdatedDate1,2
 Last_updated_Date,1
 Latest_MostRelevantResidentialApplication,1
@@ -343,7 +343,7 @@ MinHomes,5
 Dwellings",2
 MinNet Dwellings,3
 MinNetDwel,2
-MinNetDwellings,646
+MinNetDwellings,647
 MinNetDwellingsComment,4
 Min_Capacity,1
 Minimum Net Dwellings,2
@@ -387,10 +387,10 @@ NetDwell_1,1
 NetDwellin,3
 NetDwellingRangeTo,2
 NetDwellingsRangeForm,7
-NetDwellingsRangeFrom,697
+NetDwellingsRangeFrom,699
 NetDwellingsRangeFrom - mandatory where relevant,1
 NetDwellingsRangeFromComment,4
-NetDwellingsRangeTo,690
+NetDwellingsRangeTo,692
 NetDwellingsRangeTo - mandatory where relevant,1
 NetDwellingsRangeToComment,4
 NetDwellingsRangeto,7
@@ -414,17 +414,17 @@ NonHousing Development,5
 NonHousing development,3
 NonHousingDeveloment,2
 NonHousingDevelopemnt,1
-NonHousingDevelopment,633
+NonHousingDevelopment,634
 NonHousingDevelopment - mandatory where relevant,1
 Non_Resi_Dev,1
-Northing,116
+Northing,117
 Northings,7
 Northings (Geo Y),1
 Note,1
-Notes,764
+Notes,766
 Notes UPRN for sites,1
 Notes.1,1
-OBJECTID,10
+OBJECTID,11
 OPEN DATA WEBSITE,2
 ORGANISATI,2
 ORGANISATION LABEL,3
@@ -462,8 +462,8 @@ Organisation URI,25
 Organisation URL,12
 Organisation Uri,2
 Organisation label,1
-OrganisationLabel,652
-OrganisationURI,722
+OrganisationLabel,653
+OrganisationURI,724
 OrganisationURL,13
 OrganisationURl,3
 OrganisationUrI,1
@@ -492,7 +492,7 @@ Ownership Status,45
 Ownership status,4
 "Ownership: PA_owner, not PA_own., mixed_o'ship, unknown",1
 OwnershipS,3
-OwnershipStatus,732
+OwnershipStatus,734
 Ownership_Status,1
 Ownership_Status: PA_owned [Public Autho-rity]; not PA_owned; mix. ownership; unknown,1
 PA1Status,3
@@ -527,7 +527,7 @@ PROPOSED FOR PIP,3
 PROPOSEDFORPIP,7
 Parish,8
 Part 2,34
-Part2,618
+Part2,619
 Part2 - mandatory where relevant,1
 Part2allocation,2
 PermiDate,2
@@ -544,13 +544,13 @@ Permission Types as req. by Gov.,1
 Permission Types as required in BFLR,1
 Permission date,1
 Permission type,2
-PermissionDate,718
+PermissionDate,720
 PermissionDate -  - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.,1
 PermissionDate1,2
 PermissionDatePlanningHistory,1
 PermissionHistory,4
 PermissionTyne,2
-PermissionType,724
+PermissionType,726
 PermissionType - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.,1
 PeviouslyPartof,1
 Plan,1
@@ -583,12 +583,12 @@ PlanningAuthority1,15
 PlanningAuthority2,15
 PlanningAuthority3,15
 PlanningHi,3
-PlanningHistory,709
+PlanningHistory,711
 PlanningHistory (URL),1
 PlanningHistoryURL,1
 PlanningReference,7
 PlanningSt,4
-PlanningStatus,731
+PlanningStatus,733
 Planning_Status,2
 Planning_Status_Reference,2
 Planningapplicationreference,1
@@ -605,7 +605,7 @@ Previously Part Of,29
 Previously Part of,1
 Previously PartOf,2
 Previously part of,3
-PreviouslyPartOf,624
+PreviouslyPartOf,625
 PreviouslyPartof,5
 Primary Source of Identification at DATE,2
 Progress,1
@@ -618,7 +618,7 @@ Proposed for PIP,8
 Proposed for PiP,4
 ProposedFo,2
 ProposedFor PIP,2
-ProposedForPIP,588
+ProposedForPIP,589
 ProposedForPIP - mandatory if yes,1
 ProposedForPiP,7
 Proposed_U,1
@@ -713,7 +713,7 @@ SiteAreasqm,3
 SiteInfo,1
 SiteInfomation,2
 SiteInform,2
-SiteInformation,617
+SiteInformation,618
 SiteInformation - mandatory where relevant,1
 SiteInformation1,1
 SiteInformation2,1
@@ -721,13 +721,13 @@ SiteName,5
 SiteName Address,2
 SiteName/Address,1
 SiteNameAd,3
-SiteNameAddress,734
+SiteNameAddress,736
 SiteNameAddresss,1
 SitePlanURL,78
 SitePlanURL CoordinateReferenceSystem,1
 SiteProforma,3
 SiteRefere,3
-SiteReference,723
+SiteReference,725
 SiteReference (also SHLAA Reference),3
 SiteReferenceAlternate,1
 Site_Address,1
@@ -738,7 +738,7 @@ Siteplan,7
 Siteplan URL,10
 SiteplanUR,3
 SiteplanURI,1
-SiteplanURL,645
+SiteplanURL,647
 Siteref,1
 SortOrder,2
 Source,9

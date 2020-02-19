@@ -51,6 +51,7 @@ OrganisationURI,http://opendatacommunities.org/id/dev-corp/old-oak-and-park-roya
 OrganisationURI,Wigan Council,255
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/hillingdon,252
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/bromley,249
+OrganisationURI,http://opendatacommunities.org/id/unitary-authority/york,248
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/poole,245
 OrganisationURI,http://opendatacommunities.org/id/district-council/waverley,245
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/rochdale,238
@@ -70,7 +71,6 @@ OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/ealing,210
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/ua/E06000023,205
 OrganisationURI,http://opendatacommunities.org/id/district-council/harrogate,205
-OrganisationURI,http://opendatacommunities.org/id/unitary-authority/york,204
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/merton,204
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/slough,200
 OrganisationURI,http://opendatacommunities.org/id/district-council/northampton,199
@@ -167,6 +167,7 @@ OrganisationURI,http://opendatacommunities.org/id/unitary-authority/middlesbroug
 OrganisationURI,http://opendatacommunities.org/id/district-council/west-lindsey,84
 OrganisationURI,http://opendatacommunities.org/id/district-council/tendring,84
 OrganisationURI,http://opendatacommunities.org/id/district-council/south-cambridgeshire,84
+OrganisationURI,http://opendatacommunities.org/id/district-council/north-east-derbyshire,84
 OrganisationURI,http://opendatacommunities.org/id/district-council/south-oxfordshire,83
 OrganisationURI,http://opendatacommunities.org/id/district-council/sedgemoor,82
 OrganisationURI,http://opendatacommunities.org/id/borough-council/ashford,82
@@ -229,7 +230,6 @@ OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E
 OrganisationURI,http://opendatacommunities.org/id/district-council/waveney,58
 OrganisationURI,http://opendatacommunities.org/id/district-council/arun,58
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000084,57
-OrganisationURI,http://opendatacommunities.org/id/district-council/north-east-derbyshire,57
 OrganisationURI,http://opendatacommunities.org/id/district-council/gloucester,57
 OrganisationURI,http://opendatacommunities.org/id/district-council/east-lindsey,57
 OrganisationURI,http://opendatacommunities.org/id/district-council/east-dorset,57
