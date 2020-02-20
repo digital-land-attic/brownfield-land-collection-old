@@ -1,5 +1,5 @@
 field,value,count
-OrganisationLabel,"",9074
+OrganisationLabel,"",9125
 OrganisationLabel,London Borough of Camden,2811
 OrganisationLabel,Southwark Council,1038
 OrganisationLabel,Haringey Council,923
@@ -45,6 +45,7 @@ OrganisationLabel,E06000007,258
 OrganisationLabel,Old Oak & Park Royal Development Corporation,255
 OrganisationLabel,London Borough of Hillingdon,252
 OrganisationLabel,London Borough of Bromley,249
+OrganisationLabel,City of York Council,248
 OrganisationLabel,Borough of Poole,245
 OrganisationLabel,Luton Council,244
 OrganisationLabel,Guildford,238
@@ -59,7 +60,6 @@ OrganisationLabel,London Borough of Lambeth,210
 OrganisationLabel,Ealing Council,210
 OrganisationLabel,Harrogate Borough Council,205
 OrganisationLabel,London Borough of Merton,204
-OrganisationLabel,City of York Council,204
 OrganisationLabel,Slough Borough Council,200
 OrganisationLabel,Northampton Borough Council,199
 OrganisationLabel,Basingstoke & Deane Borough Council,194
