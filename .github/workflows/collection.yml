@@ -1,4 +1,4 @@
-name: Run brownfield land collection and validation
+name: Run brownfield land collection
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
     branches:
       - master
   schedule:
-    - cron:  '13 01 * * *'
+    - cron:  '0 0 * * *'
 
 env:
   GITHUB_ACTOR_EMAIL: ${{ secrets.GITHUB_ACTOR_EMAIL }}
