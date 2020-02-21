@@ -36,6 +36,7 @@ OrganisationURI,http://opendatacommunities.org/id/london-borough-council/kensing
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/south-gloucestershire,351
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/luton,350
 OrganisationURI,http://opendatacommunities.org/doc/unitary-authority/plymouth,349
+OrganisationURI,http://opendatacommunities.org/id/district-council/woking,348
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/stoke-on-trent,332
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/leicester,330
 OrganisationURI,http://opendatacommunities.org/doc/london-borough-council/kingston,320
@@ -43,7 +44,6 @@ OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/st-helens,304
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/wakefield,299
 OrganisationURI,http://opendatacommunities.org/id/district-council/norwich,296
-OrganisationURI,http://opendatacommunities.org/id/district-council/woking,290
 OrganisationURI,http://opendatacommunities.org/id/district-council/charnwood,290
 OrganisationURI,"",275
 OrganisationURI,http://opendatacommunities.org/doc/metropolitan-district-council/coventry,270

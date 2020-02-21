@@ -1,10 +1,10 @@
 field,value,count
-PermissionType,"",22597
-PermissionType,full planning permission,17162
+PermissionType,"",22633
+PermissionType,full planning permission,17179
 PermissionType,full planning permis,2753
-PermissionType,outline planning permission,2432
+PermissionType,outline planning permission,2433
 PermissionType,Full planning permission,1826
-PermissionType,other,1564
+PermissionType,other,1565
 PermissionType,Full Planning Permission,1297
 PermissionType,reserved matters approval,812
 PermissionType,planning permission granted under an order,416
@@ -59,6 +59,7 @@ PermissionType,Outline permission,6
 PermissionType,under an order,5
 PermissionType,planning permission granted,5
 PermissionType,OUTLINE PLANNING PERMISSION,5
+PermissionType,prior approval,4
 PermissionType,outline permission,4
 PermissionType,Reserve Matters,4
 PermissionType,reserved matters permission,3
@@ -76,7 +77,6 @@ PermissionType,Full plannng permission,3
 PermissionType,Application Refused/Rejected,3
 PermissionType,06/00588/REM,3
 PermissionType,reserved matters approval permission approval,2
-PermissionType,prior approval,2
 PermissionType,planning permission granted under an order/Full permission,2
 PermissionType,outline submitted,2
 PermissionType,outline planning permission 15/07/15,2
@@ -98,6 +98,7 @@ PermissionType,Hybrid Full/Outline planning permission with All Matters Reserved
 PermissionType,Hybrid Full/Outline,2
 PermissionType,Full planning permission & listed building consent,2
 PermissionType,Full Planning Permission Subject to Legal Agreement,2
+PermissionType,"full planning permission, prior approval",2
 PermissionType,technical details co,1
 PermissionType,permission lapsed,1
 PermissionType,pending decision,1
@@ -125,4 +126,3 @@ PermissionType,LDO,1
 PermissionType,Hybrid planning permission,1
 PermissionType,Full Permission,1
 PermissionType,51.295518,1
-PermissionType,"full planning permission, prior approval",1
