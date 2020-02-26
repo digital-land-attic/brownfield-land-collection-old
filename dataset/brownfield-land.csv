@@ -537,6 +537,7 @@ local-authority-eng:RYE,https://www.ryedale.gov.uk/planning/planning-policy/brow
 local-authority-eng:SAL,,https://www.stalbans.gov.uk/Images/SP_CSV_st-albans_brownfieldregister_2017-12-31_rev1_tcm15-62593.csv,2017-12-31,2019-10-20
 local-authority-eng:SAL,https://www.stalbans.gov.uk/planning/Planningpolicy/brownfield.aspx,https://www.stalbans.gov.uk/Images/SP_CSV_st-albans_brownfieldregister_2018-12-31_rev1_tcm15-66446.csv,2018-12-31,2020-02-03
 local-authority-eng:SAL,https://www.stalbans.gov.uk/brownfield-register,https://www.stalbans.gov.uk/sites/default/files/documents/publications/planning-building-control/planning-policy/examination-library/SP_CSV_st-albans_brownfieldregister_2018-12-31_rev1_tcm15-66446.csv,2020-02-03,
+local-authority-eng:SAL,https://www.stalbans.gov.uk/brownfield-register,https://www.stalbans.gov.uk/sites/default/files/attachments/Brownfield%20Register%20CSV%20File%20-%20Dec%202019.csv,2020-02-03,
 local-authority-eng:SAW,http://www.sandwell.gov.uk/info/200317/planning_policy/3809/sandwell_brownfield_register,http://www.sandwell.gov.uk/download/downloads/id/24171/sandwell_brownfield_register_csv.csv,,
 local-authority-eng:SBU,https://southbucks.gov.uk/planning/brownfieldregister,http://www.southbucks.gov.uk/media/11736/SB-Brownfield-Register-Part-1/CSV/SB_Brownfield_Register_-_Part_1.csv,,2019-10-20
 local-authority-eng:SBU,https://southbucks.gov.uk/planning/brownfieldregister,https://southbucks.gov.uk/media/12652/South-Bucks-Brownfield-Land-Register-Part-1/CSV/SB_Brownfield_Register_-_Part_1.csv,,
