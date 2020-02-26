@@ -1,8 +1,8 @@
 field,value,count
-PlanningStatus,permissioned,22903
+PlanningStatus,permissioned,22910
 PlanningStatus,not permissioned,13216
-PlanningStatus,Permissioned,8630
-PlanningStatus,Not permissioned,2269
+PlanningStatus,Permissioned,8631
+PlanningStatus,Not permissioned,2286
 PlanningStatus,Not Permissioned,2105
 PlanningStatus,"",1810
 PlanningStatus,pending decision,1445

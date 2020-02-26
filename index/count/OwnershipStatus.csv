@@ -1,8 +1,8 @@
 field,value,count
-OwnershipStatus,not owned by a public authority,24156
+OwnershipStatus,not owned by a public authority,24170
 OwnershipStatus,Not owned by a public authority,5311
 OwnershipStatus,unknown ownership,5251
-OwnershipStatus,owned by a public authority,4275
+OwnershipStatus,owned by a public authority,4285
 OwnershipStatus,Unknown ownership,3401
 OwnershipStatus,"",2076
 OwnershipStatus,unkown ownership,2016
@@ -63,6 +63,7 @@ OwnershipStatus,Onwed by a public authorty,3
 OwnershipStatus,Kent County Council,3
 OwnershipStatus,public authority,2
 OwnershipStatus,owned by a public authorty,2
+OwnershipStatus,owned by a public authority (part),2
 OwnershipStatus,Unknown owership,2
 OwnershipStatus,Unknown owenrship,2
 OwnershipStatus,Swindon Borough Council,2
@@ -76,7 +77,6 @@ OwnershipStatus,0.21,2
 OwnershipStatus,0.11,2
 OwnershipStatus,0.05,2
 OwnershipStatus,ownership unknown,1
-OwnershipStatus,owned by a public authority (part),1
 OwnershipStatus,owmed by a public authority,1
 OwnershipStatus,Unknown ownerhip,1
 OwnershipStatus,Unknown Owership,1
