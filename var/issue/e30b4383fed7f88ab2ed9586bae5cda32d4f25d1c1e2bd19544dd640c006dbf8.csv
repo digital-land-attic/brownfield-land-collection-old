@@ -2,14 +2,12 @@ row-number,field,issue-type,value
 1,LastUpdatedDate,default,2018-12-19
 1,NetDwellingsRangeFrom,missing,
 1,NetDwellingsRangeTo,missing,
-1,"GeoX,GeoY",out of range,"245826,86676"
 2,LastUpdatedDate,default,2018-12-19
 2,NetDwellingsRangeFrom,missing,
 2,NetDwellingsRangeTo,missing,
 3,LastUpdatedDate,default,2018-12-19
 3,NetDwellingsRangeFrom,missing,
 3,NetDwellingsRangeTo,missing,
-3,"GeoX,GeoY",out of range,"257471,98132"
 4,LastUpdatedDate,default,2018-12-19
 4,NetDwellingsRangeFrom,missing,
 4,NetDwellingsRangeTo,missing,

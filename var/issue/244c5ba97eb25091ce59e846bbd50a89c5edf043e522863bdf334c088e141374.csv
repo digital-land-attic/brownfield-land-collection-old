@@ -17,10 +17,8 @@ row-number,field,issue-type,value
 10,NetDwellingsRangeTo,missing,
 13,NetDwellingsRangeFrom,missing,
 13,NetDwellingsRangeTo,missing,
-13,"GeoX,GeoY",out of range,"236977,96987"
 14,NetDwellingsRangeFrom,missing,
 14,NetDwellingsRangeTo,missing,
-14,"GeoX,GeoY",out of range,"239274,95843"
 16,NetDwellingsRangeFrom,missing,
 16,NetDwellingsRangeTo,missing,
 20,NetDwellingsRangeFrom,missing,

@@ -21,14 +21,12 @@ row-number,field,issue-type,value
 10,NetDwellingsRangeTo,missing,
 11,NetDwellingsRangeFrom,missing,
 11,NetDwellingsRangeTo,missing,
-11,"GeoX,GeoY",out of range,"50431,25035"
 12,NetDwellingsRangeFrom,missing,
 12,NetDwellingsRangeTo,missing,
 13,NetDwellingsRangeFrom,missing,
 13,NetDwellingsRangeTo,missing,
 14,NetDwellingsRangeFrom,missing,
 14,NetDwellingsRangeTo,missing,
-14,"GeoX,GeoY",out of range,"50456,2.504E+4"
 15,NetDwellingsRangeFrom,missing,
 15,NetDwellingsRangeTo,missing,
 16,NetDwellingsRangeFrom,missing,
@@ -53,7 +51,6 @@ row-number,field,issue-type,value
 25,NetDwellingsRangeTo,missing,
 26,NetDwellingsRangeFrom,missing,
 26,NetDwellingsRangeTo,missing,
-26,"GeoX,GeoY",out of range,"50709,25127"
 27,NetDwellingsRangeFrom,missing,
 27,NetDwellingsRangeTo,missing,
 28,NetDwellingsRangeFrom,missing,

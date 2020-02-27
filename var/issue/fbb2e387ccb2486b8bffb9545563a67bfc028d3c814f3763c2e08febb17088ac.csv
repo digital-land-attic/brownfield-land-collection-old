@@ -1,92 +1,54 @@
 row-number,field,issue-type,value
 1,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=01%2f03478%2fCOU
 1,LastUpdatedDate,default,2017-11-01
-1,"GeoX,GeoY",out of range,"73277,294282"
 2,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=05%2f04278%2fFUL
 2,LastUpdatedDate,default,2017-11-01
-2,"GeoX,GeoY",out of range,"71739,284837"
 3,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=08%2f01449%2fMAJ
 3,LastUpdatedDate,default,2017-11-01
-3,"GeoX,GeoY",out of range,"72171,292935"
 4,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=12%2f01811%2fFUL
-4,"GeoX,GeoY",out of range,"76779,296243"
 5,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=13%2f01497%2fMAJ
 5,LastUpdatedDate,default,2017-11-01
-5,"GeoX,GeoY",out of range,"70226,285183"
 6,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=13%2f02517%2fFUL
-6,"GeoX,GeoY",out of range,"74777,295684"
 7,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=13%2f03658%2fFUL
 7,LastUpdatedDate,default,2017-11-01
-7,"GeoX,GeoY",out of range,"76614,295546"
 8,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=17%2f02715%2fMAJ
 8,LastUpdatedDate,default,2017-11-01
-8,"GeoX,GeoY",out of range,"7.12E+4,285743"
 9,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=14%2f01918%2fMAJ
 9,LastUpdatedDate,default,2017-11-01
-9,"GeoX,GeoY",out of range,"73004,293729"
 10,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=14%2f02580%2fMAJ
 10,LastUpdatedDate,default,2017-11-01
-10,"GeoX,GeoY",out of range,"74738,2.8274E+5"
 11,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=14%2f03008%2fCOU
 11,LastUpdatedDate,default,2017-11-01
-11,"GeoX,GeoY",out of range,"72875,2.9404E+5"
 12,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=14%2f03632%2fFUL
 12,LastUpdatedDate,default,2017-11-01
-12,"GeoX,GeoY",out of range,"71281,285777"
 13,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=15%2f00726%2fMAJ
-13,"GeoX,GeoY",out of range,"76953,296412"
 14,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=15%2f00776%2fMAJ
-14,"GeoX,GeoY",out of range,"77091,281544"
 15,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=16/00300/MAJ
 15,LastUpdatedDate,default,2017-11-01
-15,"GeoX,GeoY",out of range,"75651,295898"
 16,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=15%2f02700%2fMAJ
 16,LastUpdatedDate,default,2017-11-01
-16,"GeoX,GeoY",out of range,"78672,296158"
 17,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=15%2f02732%2fMAJ
 17,LastUpdatedDate,default,2017-11-01
-17,"GeoX,GeoY",out of range,"70615,285867"
 18,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=15%2f02943%2fNPA
-18,"GeoX,GeoY",out of range,"6.969E+4,284988"
 19,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=17/02565/MAJ
 19,LastUpdatedDate,default,2017-11-01
-19,"GeoX,GeoY",out of range,"7.862E+4,297753"
 20,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=16%2f00464%2fFUL
 20,LastUpdatedDate,default,2017-11-01
-20,"GeoX,GeoY",out of range,"76836,295691"
 21,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=16%2f00477%2fMAJ
-21,"GeoX,GeoY",out of range,"72848,287367"
 22,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=16/00528/MAJ
-22,"GeoX,GeoY",out of range,"77147,2.9616E+5"
 23,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=16%2f02013%2fFUL
-23,"GeoX,GeoY",out of range,"77303,280716"
 24,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=16%2f02132%2fFUL
-24,"GeoX,GeoY",out of range,"71127,286306"
 25,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=16%2f02723%2fFUL
-25,"GeoX,GeoY",out of range,"7.682E+4,295994"
 26,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=16%2f02794%2fFUL
-26,"GeoX,GeoY",out of range,"74017,294685"
 27,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=16%2f02929%2fMAJ
-27,"GeoX,GeoY",out of range,"71298,286638"
 28,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/planning-application-details/?Type=Application&Refval=17%2f00452%2fMAJ
-28,"GeoX,GeoY",out of range,"77724,2.811E+5"
 29,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/teignbridge-local-plan-interactive-map/?uprn=010032958126&x=286574&y=74478
 29,LastUpdatedDate,default,2017-11-01
-29,"GeoX,GeoY",out of range,"7.445E+4,2.8649E+5"
 30,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/teignbridge-local-plan-interactive-map/?uprn=010032978058&x=285429&y=71237
 30,LastUpdatedDate,default,2017-11-01
-30,"GeoX,GeoY",out of range,"71232,285456"
 31,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/teignbridge-local-plan-interactive-map/?uprn=100040315214&x=285188&y=70592
 31,LastUpdatedDate,default,2017-11-01
-31,"GeoX,GeoY",out of range,"7.062E+4,285165"
 32,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/teignbridge-local-plan-interactive-map/?uprn=010032979642&x=285615&y=71448
 32,LastUpdatedDate,default,2017-11-01
-32,"GeoX,GeoY",out of range,"71393,285809"
 33,SiteplanURL,uri,www.teignbridge.gov.uk/planning/forms/teignbridge-local-plan-interactive-map/?uprn=010032978529&x=294050&y=72662
 33,LastUpdatedDate,default,2017-11-01
-33,"GeoX,GeoY",out of range,"72794,294002"
-34,"GeoX,GeoY",out of range,"83878,290641"
-35,"GeoX,GeoY",out of range,"7.446E+4,294885"
-36,"GeoX,GeoY",out of range,"78618,297746"
-37,"GeoX,GeoY",out of range,"6.969E+4,284988"
-38,"GeoX,GeoY",out of range,"7.343E+4,286367"

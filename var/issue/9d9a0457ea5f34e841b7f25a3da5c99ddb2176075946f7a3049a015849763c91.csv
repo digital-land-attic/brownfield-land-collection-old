@@ -137,7 +137,6 @@ row-number,field,issue-type,value
 45,LastUpdatedDate,default,2018-05-22
 45,NetDwellingsRangeFrom,missing,
 45,NetDwellingsRangeTo,missing,
-45,"GeoX,GeoY",out of range,"344065,5.481E+4"
 46,LastUpdatedDate,default,2018-05-22
 46,NetDwellingsRangeFrom,missing,
 46,NetDwellingsRangeTo,missing,

@@ -11,7 +11,7 @@ row-number,field,issue-type,value
 4,LastUpdatedDate,default,2019-12-14
 4,NetDwellingsRangeFrom,missing,
 4,NetDwellingsRangeTo,missing,
-4,"GeoX,GeoY",out of range,"38995,279775"
+4,"GeoX,GeoY",OSGB outside England,"38995,279775"
 5,LastUpdatedDate,default,2019-12-14
 5,NetDwellingsRangeFrom,missing,
 5,NetDwellingsRangeTo,missing,

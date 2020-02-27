@@ -7,7 +7,7 @@ row-number,field,issue-type,value
 3,NetDwellingsRangeTo,missing,
 4,NetDwellingsRangeFrom,missing,
 4,NetDwellingsRangeTo,missing,
-4,"GeoX,GeoY",out of range,"39921,356586"
+4,"GeoX,GeoY",OSGB outside England,"39921,356586"
 5,NetDwellingsRangeFrom,missing,
 5,NetDwellingsRangeTo,missing,
 6,NetDwellingsRangeFrom,missing,

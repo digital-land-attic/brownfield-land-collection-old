@@ -189,7 +189,6 @@ row-number,field,issue-type,value
 94,LastUpdatedDate,default,2017-11-28
 95,SiteplanURL,uri,Available within individual site Pdf
 95,LastUpdatedDate,default,2017-11-28
-95,"GeoX,GeoY",out of range,"3.9019E+5,41554"
 96,SiteplanURL,uri,Available within individual site Pdf
 96,LastUpdatedDate,default,2017-11-28
 97,SiteplanURL,uri,Available within individual site Pdf

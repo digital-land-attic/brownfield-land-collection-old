@@ -112,7 +112,7 @@ def degrees_like(lon, lat):
 
 
 def easting_northing_like(lon, lat):
-    return lat > 100000.0 and lat < 1000000.0 and lon > 100000.0 and lon < 1000000.0
+    return lat > 1000.0 and lat < 1000000.0 and lon > 1000.0 and lon < 1000000.0
 
 
 def within_england(lon, lat):
