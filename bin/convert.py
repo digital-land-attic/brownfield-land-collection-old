@@ -51,7 +51,8 @@ def from_excel(path):
     except:
         return None
 
-    string = excel.to_csv(index=None, header=True, encoding="utf-8")
+    string = excel.to_csv(index=False, header=True, encoding="utf-8", quoting=csv.QUOTE_ALL)
+
     data = []
     for row in csv.reader(StringIO(string)):
         data.append(row)
