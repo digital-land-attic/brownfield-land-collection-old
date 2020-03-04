@@ -1,12 +1,12 @@
 field,value,count
-OwnershipStatus,not owned by a public authority,24170
+OwnershipStatus,not owned by a public authority,24232
+OwnershipStatus,unknown ownership,5480
 OwnershipStatus,Not owned by a public authority,5311
-OwnershipStatus,unknown ownership,5251
-OwnershipStatus,owned by a public authority,4285
+OwnershipStatus,owned by a public authority,4294
 OwnershipStatus,Unknown ownership,3401
+OwnershipStatus,unkown ownership,2088
 OwnershipStatus,"",2076
-OwnershipStatus,unkown ownership,2016
-OwnershipStatus,mixed ownership,1436
+OwnershipStatus,mixed ownership,1440
 OwnershipStatus,Owned by a public authority,1083
 OwnershipStatus,Unknown,870
 OwnershipStatus,Unknown Ownership,861

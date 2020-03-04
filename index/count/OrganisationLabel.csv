@@ -1,9 +1,10 @@
 field,value,count
-OrganisationLabel,"",9218
-OrganisationLabel,London Borough of Camden,2908
+OrganisationLabel,"",9268
+OrganisationLabel,London Borough of Camden,3005
 OrganisationLabel,Southwark Council,1038
 OrganisationLabel,Haringey Council,923
 OrganisationLabel,City of Bradford Metropolitan District Council,859
+OrganisationLabel,Manchester City Council,790
 OrganisationLabel,Croydon Council,759
 OrganisationLabel,Brighton & Hove City Council,712
 OrganisationLabel,Leeds City Council,708
@@ -13,7 +14,6 @@ OrganisationLabel,Bristol City Council,651
 OrganisationLabel,Sheffield City Council,631
 OrganisationLabel,Barnet London Borough Council,606
 OrganisationLabel,London Borough of Islington,570
-OrganisationLabel,Manchester City Council,561
 OrganisationLabel,London Borough of Redbridge,558
 OrganisationLabel,London Borough of Lewisham,497
 OrganisationLabel,Royal Borough Of Greenwich,487

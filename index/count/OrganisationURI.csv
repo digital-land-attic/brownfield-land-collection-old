@@ -1,11 +1,12 @@
 field,value,count
-OrganisationURI,http://opendatacommunities.org/id/london-borough-council/camden,2908
+OrganisationURI,http://opendatacommunities.org/id/london-borough-council/camden,3005
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/birmingham,1362
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/wolverhampton,1078
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/southwark,1038
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/haringey,932
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/brighton-and-hove,884
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/bradford,859
+OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/manchester,790
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/croydon,759
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/leeds,708
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/wandsworth,691
@@ -17,7 +18,6 @@ OrganisationURI,http://opendatacommunities.org/id/london-borough-council/barnet,
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/nottingham,594
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/northumberland,594
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/islington,570
-OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/manchester,561
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/redbridge,558
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lewisham,497
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/greenwich,487
@@ -46,6 +46,7 @@ OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/
 OrganisationURI,http://opendatacommunities.org/id/district-council/norwich,296
 OrganisationURI,http://opendatacommunities.org/id/district-council/charnwood,290
 OrganisationURI,"",275
+OrganisationURI,http://opendatacommunities.org/id/district-council/lewes,271
 OrganisationURI,http://opendatacommunities.org/doc/metropolitan-district-council/coventry,270
 OrganisationURI,http://opendatacommunities.org/id/dev-corp/old-oak-and-park-royal,255
 OrganisationURI,Wigan Council,255
@@ -61,7 +62,6 @@ OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cornwall,235
 OrganisationURI,http://opendatacommunities.org/id/district-council/surrey-heath,234
 OrganisationURI,https://digital-land.github.io/organisation/local-authority-eng/ESK/,232
 OrganisationURI,http://opendatacommunities.org.id/unitary-authority/herefordshire,228
-OrganisationURI,http://opendatacommunities.org/id/district-council/lewes,221
 OrganisationURI,http://opendatacommunities.org/id/district-council/wycombe,219
 OrganisationURI,http://opendatacommunities.org/id/district-council/cannock-chase,219
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/north-tyneside,215
