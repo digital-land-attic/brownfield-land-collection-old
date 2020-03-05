@@ -1,0 +1,101 @@
+row-number,field,issue-type,value
+1,NetDwellingsRangeTo,integer,No defined maximum
+1,NetDwellingsRangeTo,default,15
+2,NetDwellingsRangeTo,integer,No defined maximum
+2,NetDwellingsRangeTo,default,15
+3,NetDwellingsRangeTo,integer,No defined maximum
+3,NetDwellingsRangeTo,default,750
+4,NetDwellingsRangeTo,integer,No defined maximum
+4,NetDwellingsRangeTo,default,120
+5,NetDwellingsRangeTo,integer,No defined maximum
+5,NetDwellingsRangeTo,default,21
+6,NetDwellingsRangeTo,integer,No defined maximum
+6,GeoX,missing,
+6,GeoY,missing,
+6,Hectares,missing,
+6,NetDwellingsRangeFrom,missing,
+6,NetDwellingsRangeTo,missing,
+7,LastUpdatedDate,default,2020-03-05
+7,GeoX,missing,
+7,GeoY,missing,
+7,Hectares,missing,
+7,NetDwellingsRangeFrom,missing,
+7,NetDwellingsRangeTo,missing,
+8,NetDwellingsRangeTo,integer,No defined maximum
+8,NetDwellingsRangeTo,default,99
+9,LastUpdatedDate,default,2020-03-05
+9,GeoX,missing,
+9,GeoY,missing,
+9,Hectares,missing,
+9,NetDwellingsRangeFrom,missing,
+9,NetDwellingsRangeTo,missing,
+10,NetDwellingsRangeTo,integer,No defined maximum
+10,NetDwellingsRangeTo,default,14
+11,NetDwellingsRangeTo,integer,No defined maximum
+11,NetDwellingsRangeTo,default,125
+12,NetDwellingsRangeTo,integer,No defined maximum
+12,NetDwellingsRangeTo,default,30
+13,NetDwellingsRangeTo,integer,No defined maximum
+13,NetDwellingsRangeTo,default,40
+14,NetDwellingsRangeTo,integer,No defined maximum
+14,NetDwellingsRangeTo,default,72
+15,NetDwellingsRangeTo,integer,No defined maximum
+15,NetDwellingsRangeTo,default,62
+16,LastUpdatedDate,default,2020-03-05
+16,GeoX,missing,
+16,GeoY,missing,
+16,Hectares,missing,
+16,NetDwellingsRangeFrom,missing,
+16,NetDwellingsRangeTo,missing,
+17,NetDwellingsRangeTo,integer,No defined maximum
+17,NetDwellingsRangeTo,default,90
+18,NetDwellingsRangeTo,integer,No defined maximum
+18,NetDwellingsRangeTo,default,600
+19,LastUpdatedDate,default,2020-03-05
+19,GeoX,missing,
+19,GeoY,missing,
+19,Hectares,missing,
+19,NetDwellingsRangeFrom,missing,
+19,NetDwellingsRangeTo,missing,
+20,NetDwellingsRangeTo,integer,No defined maximum
+20,NetDwellingsRangeTo,default,84
+21,NetDwellingsRangeTo,integer,No defined maximum
+21,NetDwellingsRangeTo,default,43
+22,NetDwellingsRangeTo,integer,No defined maximum
+22,NetDwellingsRangeTo,default,94
+23,NetDwellingsRangeTo,integer,No defined maximum
+23,NetDwellingsRangeTo,default,13
+24,NetDwellingsRangeTo,integer,No defined maximum
+24,NetDwellingsRangeTo,default,47
+25,NetDwellingsRangeTo,integer,No defined maximum
+25,NetDwellingsRangeTo,default,42
+26,NetDwellingsRangeTo,integer,No defined maximum
+26,NetDwellingsRangeTo,default,35
+27,LastUpdatedDate,default,2020-03-05
+27,GeoX,missing,
+27,GeoY,missing,
+27,Hectares,missing,
+27,NetDwellingsRangeFrom,missing,
+27,NetDwellingsRangeTo,missing,
+28,NetDwellingsRangeTo,integer,No defined maximum
+28,NetDwellingsRangeTo,default,6
+29,NetDwellingsRangeTo,integer,No defined maximum
+29,NetDwellingsRangeTo,default,7
+30,NetDwellingsRangeTo,integer,No defined maximum
+30,NetDwellingsRangeTo,default,11
+31,NetDwellingsRangeFrom,missing,
+31,NetDwellingsRangeTo,missing,
+32,NetDwellingsRangeFrom,missing,
+32,NetDwellingsRangeTo,missing,
+33,NetDwellingsRangeFrom,missing,
+33,NetDwellingsRangeTo,missing,
+34,NetDwellingsRangeFrom,missing,
+34,NetDwellingsRangeTo,missing,
+35,NetDwellingsRangeFrom,missing,
+35,NetDwellingsRangeTo,missing,
+36,NetDwellingsRangeFrom,missing,
+36,NetDwellingsRangeTo,missing,
+37,NetDwellingsRangeFrom,missing,
+37,NetDwellingsRangeTo,missing,
+38,NetDwellingsRangeFrom,missing,
+38,NetDwellingsRangeTo,missing,
