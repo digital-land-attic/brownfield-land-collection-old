@@ -329,6 +329,7 @@ link,url
 678e11cb7355f8328f3613421008b4bcd164ca49770ec6d94a2fe9565753b569,http://www.lewes-eastbourne.gov.uk/_resources/assets/inline/full/0/263293.csv
 687aab26f2ffbf2738a0b3abf3f164d0795ce933decb3298f696b35761681e36,http://www.exmoor-nationalpark.gov.uk/__data/assets/file/0009/1069317/exmoor_brownfieldregister2017-12-19_rev1.csv
 6917fb50e4ff7fa6ae817bb78baf532cef9f053f0ee4e1a4589d4b60a7565aa5,https://www.dudley.gov.uk/media/6155/dudley_brownfieldregister_2017-12-21_rev1.csv
+69a3311fc0618f57b83ce5ad87adb0299319025afd742c5c607b07d6ffd58930,https://data.lichfielddc.gov.uk/Download/land-and-property/brownfield-land-registers/brownfield-land-register-2019/CSV?version=05/03/2020
 69bb33e20f2b9a4f3b5eac2caf432769761ba8b468f2130b8f0b746a366289b5,https://www.gedling.gov.uk/media/gedlingboroughcouncil/documents/planningpolicy/brownfieldregister/gedling_brownfieldregister_2018-08-31_rev1.csv
 69cb19a12c57d575d309f692e20a390b36d0542129d113df99cdc861a712a71f,https://data.barrowbc.gov.uk/dataset/3f587e30-a91e-4d0e-9525-a660706df8c0/resource/f1224cb5-812c-40ce-aece-54e2b55cecfa/download/barrow-in-furnessbrownfieldregister2018-03-22rev1.csv
 6a0476093fd0e738b17f74c9bea82c06c5012239c372e56436baf2af8b8d5771,http://www.efdclocalplan.org/wp-content/uploads/2018/03/Brownfield-Register.xlsx
@@ -373,6 +374,7 @@ link,url
 7a0cd914e9242ffb452d9baf90762aefddc652b495a7674dfbcfd86a49da7eb3,https://datamillnorth.org/download/wakefield-brownfield-land-register/bf1f3ae0-04e6-4c94-bf2e-0b0766396912/wakefield_brownfieldregister_2017-12-31_rev1.csv
 7a82f65fd5b490982363f1f6e68f894d3fe550f7d32928e360933bfd6d4b84ac,http://geoserver.nottinghamcity.gov.uk/opendata/csv/spatial/ncc_Brownfield_Register_Part2.csv?t=637119626117639536
 7b058c17d448d6d1cc4d9fb4ba587592353a84b706963354b081cdd32492b8a7,http://www.melton.gov.uk/download/downloads/id/4414/melton_brownfieldlandregister_2018-22-02_rev1.csv
+7b49f79c2d2521ad0b75f70100bd7c55a970e509940df4fbbc3ae7a988c9fd4c,https://data.lichfielddc.gov.uk/Download/land-and-property/brownfield-land-registers/brownfield-land-register-2018/CSV?version=05/03/2020
 7b6a413b1c1018215fe400dae82e6366b80fb8f89c02402c7c7abe20cf746da4,http://data.wycombe.gov.uk/download/planning/brownfield-land-register/brownfield-land-register-2017/CSV?version=21/08/2019
 7c3325de5bcc2f6c8b46aa03be1ba0b23186d4d65e3bd46c667112691f049bba,http://www.dudley.gov.uk/EasysiteWeb/getresource.axd?AssetID=290865&type=full&servicetype=Attachment
 7cb487ccf2ee09fc0038ae377d0592f53745f4f18e63c9ae9799b7eda8389e0c,https://www.fenland.gov.uk/media/16169/brownfield-land/csv/brownfield-land.csv
@@ -487,6 +489,7 @@ link,url
 9c8f995cd6749d8cdb58a4b0324e4f69fc585c3aea04c6bb3dea1510b15e3b70,https://northtyneside.objective.co.uk/file/5587332
 9ccdb35438fb3f66c223a6872dcf268afe30503fb9940893e16298274caaff18,https://files.datapress.com/calderdale/dataset/brownfield-land-register/2017-12-21T10:30:42.92/brownfield-register.csv
 9cffea7d3b26315bdd1e552ea26a4ed5362dc37ef8679061543f3294ec9dc6e7,https://www.nwleics.gov.uk/files/documents/brownfield_land_register_2019_csv/northwestleicestershire_brownfieldregister_2019-12-31_rev1.csv
+9d643bfe0a625b9e4ee90b633941c14702f9a07379af20f582eb78848b61396d,https://data.lichfielddc.gov.uk/Download/land-and-property/brownfield-land-registers/brownfield-land-register-2017/CSV?version=05/03/2020
 9df43be1d09904a78e462dafc12d2aa8cfa54eb70528670e0024f4efb72d5fa5,http://www.blaby.gov.uk/EasySiteWeb/GatewayLink.aspx?alId=14453
 9e1b22e993f2219cd48baa60b5f08a77782cd5f347aa220bdaf3f189cca73196,https://www.cherwell.gov.uk/download/downloads/id/8379/cherwell-brownfieldregister-2018-12-03-rev1.csv
 9f4653d1f69f90fe105b92183f5abcba74dca44a772f5e5618a3f503afb317dd,https://www.rugby.gov.uk/download/downloads/id/1475/brownfield_land_register_csv.csv
@@ -702,7 +705,6 @@ e6cd117fcbbba42e528eda2d414b7886ca5b98a4935b355444505857ee9cd707,http://e-sd.org
 e72342d239920e900c3d53bf04674f14693edff36753f6c9e8404e655fc130cf,https://data.barrowbc.gov.uk/dataset/3f587e30-a91e-4d0e-9525-a660706df8c0/resource/e6c654ca-95c8-4896-a33c-43cd88bbad63/download/barrow-in-furnessbrownfieldregister2018-06-28rev1.csv
 e74f26b4f5d9193ace0f891a320ef1a8d97949a52228a0702798c031d731f416,https://www.richmond.gov.uk/media/15291/brownfield_land_register.csv
 e77e16ff2ae040dfb22455be51e81af1e87cb19e10fa18ec241c146da2df3b2e,https://www.towerhamlets.gov.uk/Documents/Planning-and-building-control/Strategic-Planning/tower_hamlets_brownfieldregister_2017_11_27_rev1.csv
-e79227d4d622014d60f18b55282c71e234406194e0678b6929f6c22c4c501a6a,https://www.lichfielddc.gov.uk/Inspire-data-sets/Lichfield-District-Council-Brownfield-Land/Lichfield-District-Council-Brownfield-Land-Register-2018.csv
 e7dcb6f7fab20a9741a93ddcad892a462728e88ef90888f5098deaa4d02d3719,https://www.spelthorne.gov.uk/media/20374/Brownfield-Land-Register-2018/csv/Brownfield-Land-Register-2018.csv
 e8a09091da6ec2d3added43809b196176b082f34bf5fd94a517653b41d97fd98,http://www.northdevon.gov.uk/media/378118/brownfield-land-register-december-2017.csv
 e9d4a04b8c4b43cd498dbd35e3ce69309f018414e202021e98755ac180570d79,https://www.richmond.gov.uk/media/18419/brownfield_land.csv

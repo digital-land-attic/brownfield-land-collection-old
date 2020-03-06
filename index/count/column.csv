@@ -112,7 +112,7 @@ Coordinate referencing system,1
 CoordinateRef. System,1
 CoordinateRefSystem,1
 CoordinateReference System,1
-CoordinateReferenceSystem,658
+CoordinateReferenceSystem,661
 CoordinateReferenceSystem2,1
 CoordinateReferenceSystem3,1
 CoordinateReferenceSystem_ETRS89,1
@@ -146,7 +146,7 @@ DateUpdate,2
 Date_Permission,1
 Decision_Date,3
 Deliverabl,3
-Deliverable,781
+Deliverable,784
 Deliverable - mandatory if yes,1
 Description,2
 Description of Proposed Development,3
@@ -160,7 +160,7 @@ Development Status: extant/ commc'd./ part. compltd.,1
 Development description,1
 Development status (if site has full PP),1
 DevelopmentDesciption,1
-DevelopmentDescription,638
+DevelopmentDescription,641
 DevelopmentDescription - mandatory where relevant,1
 Developmentdescription,3
 Discription/Notes,1
@@ -195,7 +195,7 @@ FirstAdd,1
 FirstAdded,4
 "FirstAdded
 Date",2
-FirstAddedDate,739
+FirstAddedDate,742
 FirstAddedDate1,2
 FirstAddedDateBR,2
 FirstDateAdded,1
@@ -210,14 +210,14 @@ Geo Longitude,2
 Geo X,9
 Geo Y,9
 GeoPointLicensingURL,2
-GeoX,777
+GeoX,780
 GeoX (Longitude or east grid),3
 GeoX [East],2
 GeoX_2,1
 GeoX_3,1
 GeoX_ETRS89,1
 GeoX_WGS84,1
-GeoY,777
+GeoY,780
 GeoY (Latitude or north grid),3
 GeoY [North],2
 GeoY_2,1
@@ -244,10 +244,10 @@ Hazardous Substances Regs 2015,2
 Hazardous Substances [as identifiied in Appl. form],1
 Hazardous substances,3
 HazardousS,3
-HazardousSubstances,701
+HazardousSubstances,704
 HazardousSubtances,2
 HazourdousSubstances,2
-Hectares,789
+Hectares,792
 Hectares (gross),2
 Housing Delivery Estimate,8
 Housing Est (remaining),1
@@ -300,7 +300,7 @@ LastUpdateDate,4
 LastUpdated,2
 "LastUpdated
 Date",2
-LastUpdatedDate,722
+LastUpdatedDate,725
 LastUpdatedDate1,2
 Last_updated_Date,1
 Latest_MostRelevantResidentialApplication,1
@@ -343,7 +343,7 @@ MinHomes,5
 Dwellings",2
 MinNet Dwellings,3
 MinNetDwel,2
-MinNetDwellings,652
+MinNetDwellings,655
 MinNetDwellingsComment,4
 Min_Capacity,1
 Minimum Net Dwellings,2
@@ -387,10 +387,10 @@ NetDwell_1,1
 NetDwellin,3
 NetDwellingRangeTo,2
 NetDwellingsRangeForm,7
-NetDwellingsRangeFrom,708
+NetDwellingsRangeFrom,711
 NetDwellingsRangeFrom - mandatory where relevant,1
 NetDwellingsRangeFromComment,4
-NetDwellingsRangeTo,701
+NetDwellingsRangeTo,704
 NetDwellingsRangeTo - mandatory where relevant,1
 NetDwellingsRangeToComment,4
 NetDwellingsRangeto,7
@@ -415,14 +415,14 @@ NonHousing Development,5
 NonHousing development,3
 NonHousingDeveloment,2
 NonHousingDevelopemnt,1
-NonHousingDevelopment,639
+NonHousingDevelopment,642
 NonHousingDevelopment - mandatory where relevant,1
 Non_Resi_Dev,1
 Northing,119
 Northings,7
 Northings (Geo Y),1
 Note,1
-Notes,775
+Notes,778
 Notes UPRN for sites,1
 Notes.1,1
 OBJECTID,11
@@ -463,8 +463,8 @@ Organisation URI,25
 Organisation URL,12
 Organisation Uri,2
 Organisation label,1
-OrganisationLabel,658
-OrganisationURI,732
+OrganisationLabel,661
+OrganisationURI,735
 OrganisationURL,14
 OrganisationURl,3
 OrganisationUrI,1
@@ -493,7 +493,7 @@ Ownership Status,45
 Ownership status,4
 "Ownership: PA_owner, not PA_own., mixed_o'ship, unknown",1
 OwnershipS,3
-OwnershipStatus,743
+OwnershipStatus,746
 Ownership_Status,1
 Ownership_Status: PA_owned [Public Autho-rity]; not PA_owned; mix. ownership; unknown,1
 PA1Status,3
@@ -528,7 +528,7 @@ PROPOSED FOR PIP,3
 PROPOSEDFORPIP,7
 Parish,8
 Part 2,35
-Part2,624
+Part2,627
 Part2 - mandatory where relevant,1
 Part2allocation,2
 PermiDate,2
@@ -545,13 +545,13 @@ Permission Types as req. by Gov.,1
 Permission Types as required in BFLR,1
 Permission date,1
 Permission type,2
-PermissionDate,729
+PermissionDate,732
 PermissionDate -  - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.,1
 PermissionDate1,2
 PermissionDatePlanningHistory,1
 PermissionHistory,4
 PermissionTyne,2
-PermissionType,735
+PermissionType,738
 PermissionType - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.,1
 PeviouslyPartof,1
 Plan,1
@@ -584,12 +584,12 @@ PlanningAuthority1,15
 PlanningAuthority2,15
 PlanningAuthority3,15
 PlanningHi,3
-PlanningHistory,720
+PlanningHistory,723
 PlanningHistory (URL),1
 PlanningHistoryURL,1
 PlanningReference,7
 PlanningSt,4
-PlanningStatus,742
+PlanningStatus,745
 Planning_Status,2
 Planning_Status_Reference,2
 Planningapplicationreference,1
@@ -606,7 +606,7 @@ Previously Part Of,29
 Previously Part of,1
 Previously PartOf,2
 Previously part of,3
-PreviouslyPartOf,630
+PreviouslyPartOf,633
 PreviouslyPartof,5
 Primary Source of Identification at DATE,2
 Progress,1
@@ -619,7 +619,7 @@ Proposed for PIP,8
 Proposed for PiP,4
 ProposedFo,2
 ProposedFor PIP,2
-ProposedForPIP,593
+ProposedForPIP,596
 ProposedForPIP - mandatory if yes,1
 ProposedForPiP,7
 Proposed_U,1
@@ -627,8 +627,8 @@ ProposedforPIP,32
 Publisher Label,5
 Publisher URI,5
 Publisher URL,1
-PublisherLabel,1
-PublisherURI,1
+PublisherLabel,4
+PublisherURI,4
 REFVAL,1
 Reference,5
 Reference System,1
@@ -714,7 +714,7 @@ SiteAreasqm,3
 SiteInfo,1
 SiteInfomation,2
 SiteInform,2
-SiteInformation,623
+SiteInformation,626
 SiteInformation - mandatory where relevant,1
 SiteInformation1,1
 SiteInformation2,1
@@ -722,13 +722,13 @@ SiteName,5
 SiteName Address,2
 SiteName/Address,1
 SiteNameAd,3
-SiteNameAddress,745
+SiteNameAddress,748
 SiteNameAddresss,1
 SitePlanURL,78
 SitePlanURL CoordinateReferenceSystem,1
 SiteProforma,3
 SiteRefere,3
-SiteReference,734
+SiteReference,737
 SiteReference (also SHLAA Reference),3
 SiteReferenceAlternate,1
 Site_Address,1
@@ -739,7 +739,7 @@ Siteplan,7
 Siteplan URL,10
 SiteplanUR,3
 SiteplanURI,1
-SiteplanURL,656
+SiteplanURL,659
 Siteref,1
 SortOrder,2
 Source,9
