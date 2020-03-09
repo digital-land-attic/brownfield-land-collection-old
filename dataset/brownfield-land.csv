@@ -395,7 +395,8 @@ local-authority-eng:MAL,https://www.maldon.gov.uk/info/20048/planning_policy/811
 local-authority-eng:MAN,,http://www.manchester.gov.uk/download/downloads/id/25609/2017_manchester_brownfield_register.csv,,2019-11-24
 local-authority-eng:MAN,https://secure.manchester.gov.uk/info/200074/planning/7293/brownfield_land_register,http://inspire.misoportal.com/csv/files/manchester_city_council/manchester_brownfield_register_31st_march_2018.csv,2018-03-31,
 local-authority-eng:MAN,https://secure.manchester.gov.uk/info/200074/planning/7293/brownfield_land_register,http://www.manchester.gov.uk/download/downloads/id/26553/2018_manchester_brownfield_land_register.csv,,2019-12-24
-local-authority-eng:MAN,https://secure.manchester.gov.uk/info/200074/planning/7293/brownfield_land_register,http://www.manchester.gov.uk/download/downloads/id/27296/2019_manchester_brownfield_land_register.xlsx,2020-02-28,
+local-authority-eng:MAN,https://secure.manchester.gov.uk/info/200074/planning/7293/brownfield_land_register,http://www.manchester.gov.uk/download/downloads/id/27296/2019_manchester_brownfield_land_register.xlsx,2020-02-28,2020-03-09
+local-authority-eng:MAN,https://secure.manchester.gov.uk/info/200074/planning/7293/brownfield_land_register,http://www.manchester.gov.uk/download/downloads/id/27392/2019_manchester_brownfield_register.csv,2020-03-09,
 local-authority-eng:MAS,https://www.mansfield.gov.uk/brownfieldregister,http://www.mansfield.gov.uk/Brownfield_Register/Mansfield_brownfieldregister_2017-12-13_rev1.csv,2017-12-13,2018-05-22
 local-authority-eng:MAS,https://www.mansfield.gov.uk/brownfieldregister,http://www.mansfield.gov.uk/downloads/file/413/csv-link_brownfieldregister_2017-12-13_rev1.csv,2019-12-24,
 local-authority-eng:MAV,,https://www.malvernhills.gov.uk/documents/283188/8873213/MalvernHillsBrownfieldLandRegister2017_csv.csv/cf458998-a008-58a4-4dfd-33e1f451e5f4,,2019-11-23
