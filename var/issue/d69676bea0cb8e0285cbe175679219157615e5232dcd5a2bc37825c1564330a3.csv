@@ -1,6 +1,6 @@
 row-number,field,issue-type,value
 18,NetDwellingsRangeFrom,integer,19- Taken from Planning Permission- Was 30
-18,NetDwellingsRangeFrom,default,30
+18,NetDwellingsRangeFrom,default,19
 20,PermissionDate,date,"2017-05-02
 2017-06-06"
 26,PermissionDate,date,"2015-04-29

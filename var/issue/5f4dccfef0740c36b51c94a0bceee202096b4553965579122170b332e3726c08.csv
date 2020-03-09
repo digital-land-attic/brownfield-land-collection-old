@@ -1,185 +1,185 @@
 row-number,field,issue-type,value
-1,NetDwellingsRangeFrom,missing,
-1,NetDwellingsRangeTo,missing,
+1,NetDwellingsRangeFrom,default,9
+1,NetDwellingsRangeTo,default,9
 1,"GeoX,GeoY",WGS84 outside England,"37.031007,50.1995"
-2,NetDwellingsRangeFrom,missing,
-2,NetDwellingsRangeTo,missing,
+2,NetDwellingsRangeFrom,default,10
+2,NetDwellingsRangeTo,default,10
 2,"GeoX,GeoY",WGS84 outside England,"15.123475,49.9963"
-3,NetDwellingsRangeFrom,missing,
-3,NetDwellingsRangeTo,missing,
+3,NetDwellingsRangeFrom,default,40
+3,NetDwellingsRangeTo,default,40
 3,"GeoX,GeoY",WGS84 outside England,"32.123294,50.0036"
-4,NetDwellingsRangeFrom,missing,
-4,NetDwellingsRangeTo,missing,
+4,NetDwellingsRangeFrom,default,117
+4,NetDwellingsRangeTo,default,117
 4,"GeoX,GeoY",WGS84 outside England,"24.106534,50.0281"
-5,NetDwellingsRangeFrom,missing,
-5,NetDwellingsRangeTo,missing,
+5,NetDwellingsRangeFrom,default,126
+5,NetDwellingsRangeTo,default,126
 5,"GeoX,GeoY",WGS84 outside England,"41.443723,50.0372"
-6,NetDwellingsRangeFrom,missing,
-6,NetDwellingsRangeTo,missing,
+6,NetDwellingsRangeFrom,default,69
+6,NetDwellingsRangeTo,default,69
 6,"GeoX,GeoY",WGS84 outside England,"27.939019,50.0299"
-7,NetDwellingsRangeFrom,missing,
-7,NetDwellingsRangeTo,missing,
+7,NetDwellingsRangeFrom,default,15
+7,NetDwellingsRangeTo,default,15
 7,"GeoX,GeoY",WGS84 outside England,"13.920494,50.4378"
-8,NetDwellingsRangeFrom,missing,
-8,NetDwellingsRangeTo,missing,
+8,NetDwellingsRangeFrom,default,14
+8,NetDwellingsRangeTo,default,14
 8,"GeoX,GeoY",WGS84 outside England,"39.69217,50.3078"
-9,NetDwellingsRangeFrom,missing,
-9,NetDwellingsRangeTo,missing,
+9,NetDwellingsRangeFrom,default,22
+9,NetDwellingsRangeTo,default,22
 9,"GeoX,GeoY",WGS84 outside England,"21.754513,50.4044"
-10,NetDwellingsRangeFrom,missing,
-10,NetDwellingsRangeTo,missing,
+10,NetDwellingsRangeFrom,default,51
+10,NetDwellingsRangeTo,default,51
 10,"GeoX,GeoY",WGS84 outside England,"47.120369,50.1156"
-11,NetDwellingsRangeFrom,missing,
-11,NetDwellingsRangeTo,missing,
+11,NetDwellingsRangeFrom,default,124
+11,NetDwellingsRangeTo,default,124
 11,"GeoX,GeoY",WGS84 outside England,"2.651342,49.8371"
-12,NetDwellingsRangeFrom,missing,
-12,NetDwellingsRangeTo,missing,
+12,NetDwellingsRangeFrom,default,11
+12,NetDwellingsRangeTo,default,11
 12,"GeoX,GeoY",WGS84 outside England,"44.982209,49.8151"
-13,NetDwellingsRangeFrom,missing,
-13,NetDwellingsRangeTo,missing,
+13,NetDwellingsRangeFrom,default,43
+13,NetDwellingsRangeTo,default,43
 13,"GeoX,GeoY",WGS84 outside England,"44.137746,49.8164"
-14,NetDwellingsRangeFrom,missing,
-14,NetDwellingsRangeTo,missing,
+14,NetDwellingsRangeFrom,default,10
+14,NetDwellingsRangeTo,default,10
 14,"GeoX,GeoY",WGS84 outside England,"4.600531,50.2264"
-15,NetDwellingsRangeFrom,missing,
-15,NetDwellingsRangeTo,missing,
+15,NetDwellingsRangeFrom,default,32
+15,NetDwellingsRangeTo,default,32
 15,"GeoX,GeoY",WGS84 outside England,"39.120721,50.043"
-16,NetDwellingsRangeFrom,missing,
-16,NetDwellingsRangeTo,missing,
+16,NetDwellingsRangeFrom,default,42
+16,NetDwellingsRangeTo,default,42
 16,"GeoX,GeoY",WGS84 outside England,"47.238936,50.3427"
-17,NetDwellingsRangeFrom,missing,
-17,NetDwellingsRangeTo,missing,
+17,NetDwellingsRangeFrom,default,63
+17,NetDwellingsRangeTo,default,63
 17,"GeoX,GeoY",WGS84 outside England,"39.419258,50.4541"
-18,NetDwellingsRangeFrom,missing,
-18,NetDwellingsRangeTo,missing,
+18,NetDwellingsRangeFrom,default,93
+18,NetDwellingsRangeTo,default,93
 18,"GeoX,GeoY",WGS84 outside England,"30.745942,50.0302"
-19,NetDwellingsRangeFrom,missing,
-19,NetDwellingsRangeTo,missing,
+19,NetDwellingsRangeFrom,default,66
+19,NetDwellingsRangeTo,default,66
 19,"GeoX,GeoY",WGS84 outside England,"45.586811,49.8167"
-20,NetDwellingsRangeFrom,missing,
-20,NetDwellingsRangeTo,missing,
+20,NetDwellingsRangeFrom,default,14
+20,NetDwellingsRangeTo,default,14
 20,"GeoX,GeoY",WGS84 outside England,"43.926955,49.8163"
-21,NetDwellingsRangeFrom,missing,
-21,NetDwellingsRangeTo,missing,
+21,NetDwellingsRangeFrom,default,70
+21,NetDwellingsRangeTo,default,70
 21,"GeoX,GeoY",WGS84 outside England,"33.599781,50.1848"
-22,NetDwellingsRangeFrom,missing,
-22,NetDwellingsRangeTo,missing,
+22,NetDwellingsRangeFrom,default,24
+22,NetDwellingsRangeTo,default,24
 22,"GeoX,GeoY",WGS84 outside England,"36.459634,50.3765"
-23,NetDwellingsRangeFrom,missing,
-23,NetDwellingsRangeTo,missing,
+23,NetDwellingsRangeFrom,default,300
+23,NetDwellingsRangeTo,default,300
 23,"GeoX,GeoY",WGS84 outside England,"14.44358,50.3991"
-24,NetDwellingsRangeFrom,missing,
-24,NetDwellingsRangeTo,missing,
+24,NetDwellingsRangeFrom,default,40
+24,NetDwellingsRangeTo,default,40
 24,"GeoX,GeoY",WGS84 outside England,"41.722293,50.3086"
-25,NetDwellingsRangeFrom,missing,
-25,NetDwellingsRangeTo,missing,
+25,NetDwellingsRangeFrom,default,240
+25,NetDwellingsRangeTo,default,240
 25,"GeoX,GeoY",WGS84 outside England,"57.414164,50.3887"
-26,NetDwellingsRangeFrom,missing,
-26,NetDwellingsRangeTo,missing,
-27,NetDwellingsRangeFrom,missing,
-27,NetDwellingsRangeTo,missing,
+26,NetDwellingsRangeFrom,default,750
+26,NetDwellingsRangeTo,default,750
+27,NetDwellingsRangeFrom,default,45
+27,NetDwellingsRangeTo,default,45
 27,"GeoX,GeoY",WGS84 outside England,"53.44032,50.3863"
-28,NetDwellingsRangeFrom,missing,
-28,NetDwellingsRangeTo,missing,
+28,NetDwellingsRangeFrom,default,70
+28,NetDwellingsRangeTo,default,70
 28,"GeoX,GeoY",WGS84 outside England,"33.367572,50.4105"
-29,NetDwellingsRangeFrom,missing,
-29,NetDwellingsRangeTo,missing,
+29,NetDwellingsRangeFrom,default,18
+29,NetDwellingsRangeTo,default,18
 29,"GeoX,GeoY",WGS84 outside England,"43.89806,50.4174"
-30,NetDwellingsRangeFrom,missing,
-30,NetDwellingsRangeTo,missing,
+30,NetDwellingsRangeFrom,default,48
+30,NetDwellingsRangeTo,default,48
 30,"GeoX,GeoY",WGS84 outside England,"19.325952,50.403"
-31,NetDwellingsRangeFrom,missing,
-31,NetDwellingsRangeTo,missing,
+31,NetDwellingsRangeFrom,default,220
+31,NetDwellingsRangeTo,default,220
 31,"GeoX,GeoY",WGS84 outside England,"46.692237,50.4189"
-32,NetDwellingsRangeFrom,missing,
-32,NetDwellingsRangeTo,missing,
+32,NetDwellingsRangeFrom,default,40
+32,NetDwellingsRangeTo,default,40
 32,"GeoX,GeoY",WGS84 outside England,"29.203205,50.4477"
-33,NetDwellingsRangeFrom,missing,
-33,NetDwellingsRangeTo,missing,
-34,NetDwellingsRangeFrom,missing,
-34,NetDwellingsRangeTo,missing,
+33,NetDwellingsRangeFrom,default,20
+33,NetDwellingsRangeTo,default,20
+34,NetDwellingsRangeFrom,default,19
+34,NetDwellingsRangeTo,default,19
 34,"GeoX,GeoY",WGS84 outside England,"6.907129,50.1887"
-35,NetDwellingsRangeFrom,missing,
-35,NetDwellingsRangeTo,missing,
+35,NetDwellingsRangeFrom,default,28
+35,NetDwellingsRangeTo,default,28
 35,"GeoX,GeoY",WGS84 outside England,"36.497346,50.0062"
-36,NetDwellingsRangeFrom,missing,
-36,NetDwellingsRangeTo,missing,
+36,NetDwellingsRangeFrom,default,10
+36,NetDwellingsRangeTo,default,10
 36,"GeoX,GeoY",WGS84 outside England,"45.96325,50.0398"
-37,NetDwellingsRangeFrom,missing,
-37,NetDwellingsRangeTo,missing,
+37,NetDwellingsRangeFrom,default,10
+37,NetDwellingsRangeTo,default,10
 37,"GeoX,GeoY",WGS84 outside England,"35.126667,50.4513"
-38,NetDwellingsRangeFrom,missing,
-38,NetDwellingsRangeTo,missing,
+38,NetDwellingsRangeFrom,default,16
+38,NetDwellingsRangeTo,default,16
 38,"GeoX,GeoY",WGS84 outside England,"34.859662,50.4127"
-39,NetDwellingsRangeFrom,missing,
-39,NetDwellingsRangeTo,missing,
+39,NetDwellingsRangeFrom,default,16
+39,NetDwellingsRangeTo,default,16
 39,"GeoX,GeoY",WGS84 outside England,"32.663942,50.1465"
-40,NetDwellingsRangeFrom,missing,
-40,NetDwellingsRangeTo,missing,
+40,NetDwellingsRangeFrom,default,5
+40,NetDwellingsRangeTo,default,5
 40,"GeoX,GeoY",WGS84 outside England,"50.195102,50.1998"
-41,NetDwellingsRangeFrom,missing,
-41,NetDwellingsRangeTo,missing,
+41,NetDwellingsRangeFrom,default,8
+41,NetDwellingsRangeTo,default,8
 41,"GeoX,GeoY",WGS84 outside England,"37.51656,50.2006"
-42,NetDwellingsRangeFrom,missing,
-42,NetDwellingsRangeTo,missing,
+42,NetDwellingsRangeFrom,default,9
+42,NetDwellingsRangeTo,default,9
 42,"GeoX,GeoY",WGS84 outside England,"19.95742,50.1859"
-43,NetDwellingsRangeFrom,missing,
-43,NetDwellingsRangeTo,missing,
+43,NetDwellingsRangeFrom,default,8
+43,NetDwellingsRangeTo,default,8
 43,"GeoX,GeoY",WGS84 outside England,"5.958694,49.7938"
-44,NetDwellingsRangeFrom,missing,
-44,NetDwellingsRangeTo,missing,
+44,NetDwellingsRangeFrom,default,9
+44,NetDwellingsRangeTo,default,9
 44,"GeoX,GeoY",WGS84 outside England,"51.089572,50.0378"
-45,NetDwellingsRangeFrom,missing,
-45,NetDwellingsRangeTo,missing,
+45,NetDwellingsRangeFrom,default,9
+45,NetDwellingsRangeTo,default,9
 45,"GeoX,GeoY",WGS84 outside England,"38.523019,50.0327"
-46,NetDwellingsRangeFrom,missing,
-46,NetDwellingsRangeTo,missing,
+46,NetDwellingsRangeFrom,default,8
+46,NetDwellingsRangeTo,default,8
 46,"GeoX,GeoY",WGS84 outside England,"58.642167,49.9902"
-47,NetDwellingsRangeFrom,missing,
-47,NetDwellingsRangeTo,missing,
+47,NetDwellingsRangeFrom,default,8
+47,NetDwellingsRangeTo,default,8
 47,"GeoX,GeoY",WGS84 outside England,"32.450003,50.0045"
-48,NetDwellingsRangeFrom,missing,
-48,NetDwellingsRangeTo,missing,
+48,NetDwellingsRangeFrom,default,9
+48,NetDwellingsRangeTo,default,9
 48,"GeoX,GeoY",WGS84 outside England,"24.306177,50.0005"
-49,NetDwellingsRangeFrom,missing,
-49,NetDwellingsRangeTo,missing,
+49,NetDwellingsRangeFrom,default,6
+49,NetDwellingsRangeTo,default,6
 49,"GeoX,GeoY",WGS84 outside England,"10.044132,50.0528"
-50,NetDwellingsRangeFrom,missing,
-50,NetDwellingsRangeTo,missing,
+50,NetDwellingsRangeFrom,default,6
+50,NetDwellingsRangeTo,default,6
 50,"GeoX,GeoY",WGS84 outside England,"9.786604,50.0522"
-51,NetDwellingsRangeFrom,missing,
-51,NetDwellingsRangeTo,missing,
+51,NetDwellingsRangeFrom,default,6
+51,NetDwellingsRangeTo,default,6
 51,"GeoX,GeoY",WGS84 outside England,"52.720424,50.1873"
-52,NetDwellingsRangeFrom,missing,
-52,NetDwellingsRangeTo,missing,
+52,NetDwellingsRangeFrom,default,7
+52,NetDwellingsRangeTo,default,7
 52,"GeoX,GeoY",WGS84 outside England,"53.218575,49.987"
-53,NetDwellingsRangeFrom,missing,
-53,NetDwellingsRangeTo,missing,
+53,NetDwellingsRangeFrom,default,8
+53,NetDwellingsRangeTo,default,8
 53,"GeoX,GeoY",WGS84 outside England,"32.675548,49.9769"
-54,NetDwellingsRangeFrom,missing,
-54,NetDwellingsRangeTo,missing,
+54,NetDwellingsRangeFrom,default,8
+54,NetDwellingsRangeTo,default,8
 54,"GeoX,GeoY",WGS84 outside England,"51.603533,49.7805"
-55,NetDwellingsRangeFrom,missing,
-55,NetDwellingsRangeTo,missing,
+55,NetDwellingsRangeFrom,default,5
+55,NetDwellingsRangeTo,default,5
 55,"GeoX,GeoY",WGS84 outside England,"33.345398,50.4502"
-56,NetDwellingsRangeFrom,missing,
-56,NetDwellingsRangeTo,missing,
+56,NetDwellingsRangeFrom,default,5
+56,NetDwellingsRangeTo,default,5
 56,"GeoX,GeoY",WGS84 outside England,"8.009807,50.434"
-57,NetDwellingsRangeFrom,missing,
-57,NetDwellingsRangeTo,missing,
+57,NetDwellingsRangeFrom,default,6
+57,NetDwellingsRangeTo,default,6
 57,"GeoX,GeoY",WGS84 outside England,"10.69711,50.397"
-58,NetDwellingsRangeFrom,missing,
-58,NetDwellingsRangeTo,missing,
+58,NetDwellingsRangeFrom,default,6
+58,NetDwellingsRangeTo,default,6
 58,"GeoX,GeoY",WGS84 outside England,"46.562783,50.419"
-59,NetDwellingsRangeFrom,missing,
-59,NetDwellingsRangeTo,missing,
+59,NetDwellingsRangeFrom,default,6
+59,NetDwellingsRangeTo,default,6
 59,"GeoX,GeoY",WGS84 outside England,"29.228363,50.4478"
-60,NetDwellingsRangeFrom,missing,
-60,NetDwellingsRangeTo,missing,
+60,NetDwellingsRangeFrom,default,8
+60,NetDwellingsRangeTo,default,8
 60,"GeoX,GeoY",WGS84 outside England,"59.752882,50.3907"
-61,NetDwellingsRangeFrom,missing,
-61,NetDwellingsRangeTo,missing,
+61,NetDwellingsRangeFrom,default,9
+61,NetDwellingsRangeTo,default,9
 61,"GeoX,GeoY",WGS84 outside England,"5.326521,50.2515"
-62,NetDwellingsRangeFrom,missing,
-62,NetDwellingsRangeTo,missing,
+62,NetDwellingsRangeFrom,default,9
+62,NetDwellingsRangeTo,default,9
 62,"GeoX,GeoY",WGS84 outside England,"49.129833,50.4208"

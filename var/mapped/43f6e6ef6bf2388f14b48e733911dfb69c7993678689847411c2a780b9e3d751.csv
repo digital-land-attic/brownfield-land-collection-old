@@ -1,193 +1,193 @@
-OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR001,St. Just 1 Powell Road Buckhurst Hill IG9 5RF,541743.0,194345.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.84,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR002,"Lower Car Park,Queens Road Buckhurst Hill IG9 5BZ",541837.0,193716.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.43,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR003,2-7 Lower Queens Road Buckhurst Hill IG9 6DL,541844.0,193772.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.3,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR004,Grove Lane Chigwell IG7 6JF,545933.0,193364.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.62,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR005,Woodview Lambourne Road Chigwell IG7 6HX,545733.0,192970.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.32,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR006,245 High Road Chigwell IG7 5BL,543318.0,192560.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.66,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR007,801-803 Chigwell Road Woodford Bridge IG8 8AU,542951.0,192182.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.67,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR008,Grange Court 72 High Road Chigwell IG7 6PT,544109.0,193672.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.42,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR009,The Maypole 171 Lambourne Road Chigwell IG7 6EF,546412.0,193341.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.21,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR010,The Limes Estate Chigwell IG7 5LP,544653.0,191979.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,22.59,Mixed Ownership,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR011,105 Manor Road Chigwell IG7 5PN,544237.0,192223.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.07,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR012,146 Hainault Road Chigwell IG7 5DL,544243.0,192362.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.17,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR013,The Stag Pub Brentwood Road Ongar CM5 9DH,555368.0,202130.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.28,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR014,28-91 Parklands Coopersale CM16 7RE,547691.0,202894.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.16,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR015,Epping Station Epping CM16 4HW,546183.0,201552.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.6,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR016,Land at St John Road Epping CM16 5DU,546084.0,202008.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.49,Mixed Ownership,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR017,25 Hemnall Street Epping CM16 4LU,545899.0,201803.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.43,Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR018,Cottis Lane Epping CM16 4BL,545973.0,202294.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.56,Owned by a public authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR019,Car Park Bakers Lane Epping  CM16 5,545871.0,202284.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.42,Owned by a public authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR020,Civic Offices 323 High Street Epping CM16 4BX,546189.0,202409.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.66,Owned by a public authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR021,17 Bower Vale Epping CM16 7AS,546192.0,201443.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.4,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR022,287-291 High Street Epping CM16 4DA,546119.0,202349.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.05,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR023,Epping Library St Johns Road Epping CM16 5DN,545896.0,202144.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.13,Owned by a public authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR024,Land at Gypsy Mead Ongar Road Fyfield CM5 0RB,556559.0,206790.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.81,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR025,Loughton Station Car Park Station Road Loughton IG10 4NZ,542234.0,195588.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.62,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR026,Debden Station Car Park Chigwell Lane Loughton IG10 3TG,544273.0,196165.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.66,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR027,Land at Vere Road Loughton IG10 3S,544299.0,196480.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.18,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR028,Loughton Library Traps Hill Loughton IG10 1HD,542538.0,196484.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.26,Owned by a public authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR029,"Car Park, High Road, Loughton",542348.0,196520.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.18,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR030,Former Epping Forest College Borders Lane Loughton IG10 3SA,543687.0,196451.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.02,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR031,46-48 Station Road Loughton IG10 4NX,542257.0,195850.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.14,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR032,Former Electricity Substation Roding Road Loughton IG10 3ED,542451.0,195666.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.19,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR033,63 Wellfields Loughton IG10 1PA,543488.0,196987.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.26,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR034,70 Wellfields Loughton IG10 1NY,543559.0,196948.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.23,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR035,13 Alderton Hill Loughton IG10 3JD,542523.0,195783.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.28,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR036,60 Traps Hill Loughton IG10 1TD,543057.0,196451.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.14,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR037,St Thomas Moore Church 106 Willingale Road Loughton IG10 2DA,544547.0,197565.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.5,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR038,268-278 High Road Loughton IG10 4BG,542403.0,196619.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.11,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR039,9-11 High Beech Road Loughton IG10 4BN,542082.0,196146.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.06,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR040,"Avenue Home London Road, Latton Common, CM17 9NJ",547348.0,208144.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.38,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR041,Norton Heath Riding Centre Fingrith Hall Lane High Ongar CM4 0JP,560393.0,203827.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.95,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR042,Fencing Centre Pecks Hill Nazeing EN9 2NY,592272.0,206930.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.86,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR043,Kingsmead School Epping Road Roydon CM19 5HU,540954.0,209415.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.36,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR044,Theydon Bois London Underground Car Park Station Approach Theydon Bois CM16 7HR,546162.0,201543.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.3,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR045,Wain Coppice Row Theydon Bois CM16 7ER,545119.0,199152.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.15,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR046,Fire Station Sewardstone Road Waltham Abbey EN9 1PA,538471.0,200224.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.24,Owned by a public authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR047,Waltham Abbey Community Centre Saxon Way Waltham Abbey EN9 1QD,538463.0,200816.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.51,Owned by a public authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR048,"Waltham Abbey Swimming Pool, Roundhills, Waltham Abbey, EN9 1UP",538875.0,199965.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.6,Owned by a public authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR049,Pine Tree Nursery Avey Lane Waltham Abbey EN9 3QH,538884.0,199054.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.65,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-,,BR050,Chase Farm Business Centre Vicarage Lane West North Weald CM16 6AL,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.81,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
+OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,MinNetDwellings,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR001,St. Just 1 Powell Road Buckhurst Hill IG9 5RF,541743.0,194345.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.84,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR002,"Lower Car Park,Queens Road Buckhurst Hill IG9 5BZ",541837.0,193716.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.43,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR003,2-7 Lower Queens Road Buckhurst Hill IG9 6DL,541844.0,193772.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.3,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR004,Grove Lane Chigwell IG7 6JF,545933.0,193364.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.62,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR005,Woodview Lambourne Road Chigwell IG7 6HX,545733.0,192970.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.32,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR006,245 High Road Chigwell IG7 5BL,543318.0,192560.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.66,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR007,801-803 Chigwell Road Woodford Bridge IG8 8AU,542951.0,192182.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.67,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR008,Grange Court 72 High Road Chigwell IG7 6PT,544109.0,193672.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.42,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR009,The Maypole 171 Lambourne Road Chigwell IG7 6EF,546412.0,193341.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.21,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR010,The Limes Estate Chigwell IG7 5LP,544653.0,191979.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,22.59,Mixed Ownership,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR011,105 Manor Road Chigwell IG7 5PN,544237.0,192223.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.07,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR012,146 Hainault Road Chigwell IG7 5DL,544243.0,192362.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.17,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR013,The Stag Pub Brentwood Road Ongar CM5 9DH,555368.0,202130.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.28,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR014,28-91 Parklands Coopersale CM16 7RE,547691.0,202894.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.16,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR015,Epping Station Epping CM16 4HW,546183.0,201552.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.6,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR016,Land at St John Road Epping CM16 5DU,546084.0,202008.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.49,Mixed Ownership,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR017,25 Hemnall Street Epping CM16 4LU,545899.0,201803.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.43,Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR018,Cottis Lane Epping CM16 4BL,545973.0,202294.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.56,Owned by a public authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR019,Car Park Bakers Lane Epping  CM16 5,545871.0,202284.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.42,Owned by a public authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR020,Civic Offices 323 High Street Epping CM16 4BX,546189.0,202409.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.66,Owned by a public authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR021,17 Bower Vale Epping CM16 7AS,546192.0,201443.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.4,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR022,287-291 High Street Epping CM16 4DA,546119.0,202349.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.05,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR023,Epping Library St Johns Road Epping CM16 5DN,545896.0,202144.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.13,Owned by a public authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR024,Land at Gypsy Mead Ongar Road Fyfield CM5 0RB,556559.0,206790.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.81,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR025,Loughton Station Car Park Station Road Loughton IG10 4NZ,542234.0,195588.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.62,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR026,Debden Station Car Park Chigwell Lane Loughton IG10 3TG,544273.0,196165.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.66,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR027,Land at Vere Road Loughton IG10 3S,544299.0,196480.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.18,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR028,Loughton Library Traps Hill Loughton IG10 1HD,542538.0,196484.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.26,Owned by a public authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR029,"Car Park, High Road, Loughton",542348.0,196520.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.18,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR030,Former Epping Forest College Borders Lane Loughton IG10 3SA,543687.0,196451.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.02,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR031,46-48 Station Road Loughton IG10 4NX,542257.0,195850.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.14,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR032,Former Electricity Substation Roding Road Loughton IG10 3ED,542451.0,195666.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.19,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR033,63 Wellfields Loughton IG10 1PA,543488.0,196987.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.26,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR034,70 Wellfields Loughton IG10 1NY,543559.0,196948.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.23,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR035,13 Alderton Hill Loughton IG10 3JD,542523.0,195783.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.28,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR036,60 Traps Hill Loughton IG10 1TD,543057.0,196451.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.14,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR037,St Thomas Moore Church 106 Willingale Road Loughton IG10 2DA,544547.0,197565.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.5,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR038,268-278 High Road Loughton IG10 4BG,542403.0,196619.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.11,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR039,9-11 High Beech Road Loughton IG10 4BN,542082.0,196146.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.06,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR040,"Avenue Home London Road, Latton Common, CM17 9NJ",547348.0,208144.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.38,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR041,Norton Heath Riding Centre Fingrith Hall Lane High Ongar CM4 0JP,560393.0,203827.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.95,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR042,Fencing Centre Pecks Hill Nazeing EN9 2NY,592272.0,206930.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.86,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR043,Kingsmead School Epping Road Roydon CM19 5HU,540954.0,209415.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.36,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR044,Theydon Bois London Underground Car Park Station Approach Theydon Bois CM16 7HR,546162.0,201543.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.3,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR045,Wain Coppice Row Theydon Bois CM16 7ER,545119.0,199152.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.15,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR046,Fire Station Sewardstone Road Waltham Abbey EN9 1PA,538471.0,200224.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.24,Owned by a public authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR047,Waltham Abbey Community Centre Saxon Way Waltham Abbey EN9 1QD,538463.0,200816.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.51,Owned by a public authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR048,"Waltham Abbey Swimming Pool, Roundhills, Waltham Abbey, EN9 1UP",538875.0,199965.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.6,Owned by a public authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR049,Pine Tree Nursery Avey Lane Waltham Abbey EN9 3QH,538884.0,199054.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.65,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+,,BR050,Chase Farm Business Centre Vicarage Lane West North Weald CM16 6AL,,,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.81,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR051,"Land and Garages Chequers Road Site B 
 Loughton 
 Essex 
-IG10 3QF",543501.0,195817.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.11,Owned by a public authority,,Permissioned,,,,,,,,,,
+IG10 3QF",543501.0,195817.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.11,Owned by a public authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR052,"Bridge House
 Roding Road 
 Loughton 
 Essex 
-IG10 3ED",542496.0,195577.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.07,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR053,Hillview   St Leonards Road   Nazeing   Waltham Abbey   Essex  EN9 2HQ,539055.0,205629.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.06,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+IG10 3ED",542496.0,195577.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.07,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR053,Hillview   St Leonards Road   Nazeing   Waltham Abbey   Essex  EN9 2HQ,539055.0,205629.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.06,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR054,"Central House 
 High Street 
 Ongar 
 Essex 
-CM5 9AA",555211.0,203252.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.3,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR055,Garages adj 92/94 Beechfield Walk  Waltham Abbey  Essex  EN9 3AD,538906.0,199793.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.11,Owned by a public authority,,Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR056,Land and Garages   Ladyfields   Loughton   Essex   IG10 3RP,544147.0,196082.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.15,Owned by a public authority,,Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR057,Former Total Service Station  Nazeing Road  Nazeing  Essex  EN9 2JL,539086.0,206001.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.077,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR058,Burleigh Nursery  Hoe Lane  Nazeing  Essex  EN9 2RJ,540307.0,206254.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.45,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+CM5 9AA",555211.0,203252.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.3,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR055,Garages adj 92/94 Beechfield Walk  Waltham Abbey  Essex  EN9 3AD,538906.0,199793.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.11,Owned by a public authority,,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR056,Land and Garages   Ladyfields   Loughton   Essex   IG10 3RP,544147.0,196082.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.15,Owned by a public authority,,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR057,Former Total Service Station  Nazeing Road  Nazeing  Essex  EN9 2JL,539086.0,206001.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.077,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR058,Burleigh Nursery  Hoe Lane  Nazeing  Essex  EN9 2RJ,540307.0,206254.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.45,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR059,"Rylston 
 Sewardstone Road 
 Waltham Abbey 
 Essex 
-E4 7RF",538074.0,197422.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.28,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+E4 7RF",538074.0,197422.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.28,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR060,"94 Lawton Road 
 Loughton 
 Essex 
-IG10 2AA",543624.0,196990.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.02,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+IG10 2AA",543624.0,196990.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.02,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR061,"Mackays Stores Ltd 
 213 - 215 High Road 
 Loughton 
 Essex 
-IG10 1BB",542267.0,196240.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.06,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR062,Land r/o 33-37 Hillyfields  Loughton  Essex  IG10 2PT,543556.0,197361.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.214,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR063,Sixteen String Jack   Coppice Row   Theydon Bois   Epping  Essex   CM16 7DS,544493.0,199260.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.15,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR064,Cobmead Cobmead  Honey Lane  Waltham Abbey  Essex  EN9 3BA,539837.0,200016.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.46,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR065,The Paddock  Grove Lane  Chigwell  Essex  IG7 6JF,545781.0,193345.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.62,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+IG10 1BB",542267.0,196240.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.06,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR062,Land r/o 33-37 Hillyfields  Loughton  Essex  IG10 2PT,543556.0,197361.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.214,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR063,Sixteen String Jack   Coppice Row   Theydon Bois   Epping  Essex   CM16 7DS,544493.0,199260.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.15,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR064,Cobmead Cobmead  Honey Lane  Waltham Abbey  Essex  EN9 3BA,539837.0,200016.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.46,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR065,The Paddock  Grove Lane  Chigwell  Essex  IG7 6JF,545781.0,193345.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.62,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR066,"89 High Road
 Loughton
 Essex
-IG10 4JD",541847.0,195627.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.098,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+IG10 4JD",541847.0,195627.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.098,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR067,"188 - 194 High Road
 Loughton
 Essex
-IG10 1DN",542221.0,196234.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0912,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+IG10 1DN",542221.0,196234.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0912,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR068,"Land to the rear of 268-278 High Road
 Loughton 
 Essex 
-IG10 4BG",542414.0,196593.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.13,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+IG10 4BG",542414.0,196593.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.13,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR069,"Garages behind 17 Queens Road 
 North Weald 
 Essex
-CM16 6JE",549845.0,204423.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.31,Owned by a public authority,,Permissioned,,,,,,,,,,
+CM16 6JE",549845.0,204423.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.31,Owned by a public authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR070,"188-194 High Road 
 Loughton 
 Essex
-IG10 1DN",542221.0,196234.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0912,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+IG10 1DN",542221.0,196234.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0912,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR071,"Stoneshot Farm 
 Hoe Lane 
 Nazeing 
 Essex 
-EN9 2RW",540701.0,206905.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.3,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+EN9 2RW",540701.0,206905.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.3,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR072,"North Weald Golf Club 
 Rayley Lane 
 North Weald 
 Essex
-CM16 6AR",549405.0,205799.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.195,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR073,Barnfield   Epping Road   Roydon   Essex  CM19 5DW,541981.0,207938.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,4.0,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+CM16 6AR",549405.0,205799.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.195,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR073,Barnfield   Epping Road   Roydon   Essex  CM19 5DW,541981.0,207938.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,4.0,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR074,"Chimes Garden Centre 
 Old Nazeing Road 
 Nazeing 
 Waltham Abbey 
 Essex
-EN10 6RJ",537536.0,206135.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.5,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+EN10 6RJ",537536.0,206135.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,1.5,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR075,"Pyrles Lane Nursery 
 Pyrles Lane 
 Loughton 
 Essex 
-IG10 2NL",543699.0,197347.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.098,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR076,Sterling House  Langston Road  Loughton  Essex  IG10 3TS,544523.0,196073.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.97,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+IG10 2NL",543699.0,197347.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.098,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR076,Sterling House  Langston Road  Loughton  Essex  IG10 3TS,544523.0,196073.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.97,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR077,"Royal Oak
 Forest Road
 Loughton
 Essex
-IG10 1EG",541994.0,196473.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.14,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+IG10 1EG",541994.0,196473.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.14,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR078,"32 Palmerston Road
 Buckhurst Hill
 Essex
-IG9 5LW",541409.0,193987.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.083,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+IG9 5LW",541409.0,193987.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.083,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR079,"126 Manor Road
 Chigwell
 Essex
-IG7 5PR",544258.0,192318.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.15,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+IG7 5PR",544258.0,192318.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.15,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR080,"160 Manor Road
 Chigwell
 Essex
-IG7 5PX",544535.0,192422.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0994,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+IG7 5PX",544535.0,192422.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0994,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR081,"2 and 3 Sewardstone Road
 Waltham Abbey
 Essex
-EN9 1NA",5438474.0,200548.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0479,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+EN9 1NA",5438474.0,200548.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0479,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR082,"Adj Garage Block
 Pentlow Way
 Buckhurst Hill
 Essex
-IG9 6BZ",542261.0,194645.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.09,Owned by a public authority,,Permissioned,,,,,,,,,,
+IG9 6BZ",542261.0,194645.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.09,Owned by a public authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR083,"2 Connaught Avenue
 Loughton
 Essex
-IG10 4DP",541995.0,196019.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0737,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+IG10 4DP",541995.0,196019.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.0737,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR084,"Woodlands
 152 High Road
 Chigwell
 Essex
-IG7 5BQ",543454.0,192620.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.2635,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+IG7 5BQ",543454.0,192620.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.2635,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR085,"Pine Lodge Riding Centre
 Lippitts Hill
 Loughton
 Essex
-IG10 4AL",539798.0,196861.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.38,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+IG10 4AL",539798.0,196861.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.38,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR086,"The Retreat
 Market Place
 Abridge
 Essex
-RM4 1AU",546631.0,196797.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.04,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+RM4 1AU",546631.0,196797.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.04,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR087,"Herb Farm Granaries
 London Road
 Hastingwood
 Essex
-CM17 9LH",547027.0,206097.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.297,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
+CM17 9LH",547027.0,206097.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.297,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR088,"Land and Garages
 Woollard Street
 Waltham Abbey
 Essex
-EN9 1HE",538381.0,200387.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.12,Owned by a public authority,,Permissioned,,,,,,,,,,
+EN9 1HE",538381.0,200387.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.12,Owned by a public authority,,Permissioned,,,,,,,,,,,
 http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR089,"Land at Burleigh Lodge
 Hoe Lane
 Nazeing
 Essex
-EN9 2RJ",540259.0,206362.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.4127,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR090,111 Church Hill Loughton IG10 4BE,542969.0,197108.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.02,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
-http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR091,1 Spring Grove Loughton IG10 4QA,544620.0,195485.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.04,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,
+EN9 2RJ",540259.0,206362.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.4127,Not Owned by a Public Authority,,Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR090,111 Church Hill Loughton IG10 4BE,542969.0,197108.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.02,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,
+http://opendatacommunities.org/doc/district-council/epping-forest,Epping Forest District Council,BR091,1 Spring Grove Loughton IG10 4QA,544620.0,195485.0,http://efdc.maps.arcgis.com/apps/webappviewer/index.html?id=355f4a1a16db436a96e3b78f8d2e14cf,0.04,Not Owned by a Public Authority,,Not Permissioned,,,,,,,,,,,

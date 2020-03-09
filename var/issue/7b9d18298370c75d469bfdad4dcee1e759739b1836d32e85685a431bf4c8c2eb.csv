@@ -1,79 +1,79 @@
 row-number,field,issue-type,value
 1,SiteplanURL,uri,Site Plan BL01
-1,NetDwellingsRangeFrom,missing,
-1,NetDwellingsRangeTo,missing,
+1,NetDwellingsRangeFrom,default,30
+1,NetDwellingsRangeTo,default,30
 2,SiteplanURL,uri,Site Plan BL02
-2,NetDwellingsRangeFrom,missing,
-2,NetDwellingsRangeTo,missing,
+2,NetDwellingsRangeFrom,default,23
+2,NetDwellingsRangeTo,default,23
 3,SiteplanURL,uri,Site Plan BL03
-3,NetDwellingsRangeFrom,missing,
-3,NetDwellingsRangeTo,missing,
+3,NetDwellingsRangeFrom,default,60
+3,NetDwellingsRangeTo,default,60
 4,SiteplanURL,uri,Site Plan BL04
-4,NetDwellingsRangeFrom,missing,
-4,NetDwellingsRangeTo,missing,
+4,NetDwellingsRangeFrom,default,36
+4,NetDwellingsRangeTo,default,36
 5,SiteplanURL,uri,Site Plan BL05
-5,NetDwellingsRangeFrom,missing,
-5,NetDwellingsRangeTo,missing,
+5,NetDwellingsRangeFrom,default,100
+5,NetDwellingsRangeTo,default,100
 6,SiteplanURL,uri,Site Plan BL06
-6,NetDwellingsRangeFrom,missing,
-6,NetDwellingsRangeTo,missing,
+6,NetDwellingsRangeFrom,default,12
+6,NetDwellingsRangeTo,default,12
 7,SiteplanURL,uri,Site Plan BL07
-7,NetDwellingsRangeFrom,missing,
-7,NetDwellingsRangeTo,missing,
+7,NetDwellingsRangeFrom,default,36
+7,NetDwellingsRangeTo,default,36
 8,SiteplanURL,uri,Site Plan BL08
-8,NetDwellingsRangeFrom,missing,
-8,NetDwellingsRangeTo,missing,
+8,NetDwellingsRangeFrom,default,6
+8,NetDwellingsRangeTo,default,6
 9,SiteplanURL,uri,Site Plan BL09
-9,NetDwellingsRangeFrom,missing,
-9,NetDwellingsRangeTo,missing,
+9,NetDwellingsRangeFrom,default,205
+9,NetDwellingsRangeTo,default,205
 10,SiteplanURL,uri,Site Plan BL10
-10,NetDwellingsRangeFrom,missing,
-10,NetDwellingsRangeTo,missing,
+10,NetDwellingsRangeFrom,default,275
+10,NetDwellingsRangeTo,default,275
 11,SiteplanURL,uri,Site Plan BL11
-11,NetDwellingsRangeFrom,missing,
-11,NetDwellingsRangeTo,missing,
+11,NetDwellingsRangeFrom,default,5
+11,NetDwellingsRangeTo,default,5
 12,SiteplanURL,uri,Site Plan BL12
-12,NetDwellingsRangeFrom,missing,
-12,NetDwellingsRangeTo,missing,
+12,NetDwellingsRangeFrom,default,14
+12,NetDwellingsRangeTo,default,14
 13,SiteplanURL,uri,Site Plan BL13
-13,NetDwellingsRangeFrom,missing,
-13,NetDwellingsRangeTo,missing,
+13,NetDwellingsRangeFrom,default,10
+13,NetDwellingsRangeTo,default,10
 14,SiteplanURL,uri,Site Plan BL14
-14,NetDwellingsRangeFrom,missing,
-14,NetDwellingsRangeTo,missing,
+14,NetDwellingsRangeFrom,default,5
+14,NetDwellingsRangeTo,default,5
 15,SiteplanURL,uri,Site Plan BL15
-15,NetDwellingsRangeFrom,missing,
-15,NetDwellingsRangeTo,missing,
+15,NetDwellingsRangeFrom,default,6
+15,NetDwellingsRangeTo,default,6
 16,SiteplanURL,uri,Site Plan BL16
-16,NetDwellingsRangeFrom,missing,
-16,NetDwellingsRangeTo,missing,
+16,NetDwellingsRangeFrom,default,260
+16,NetDwellingsRangeTo,default,260
 17,SiteplanURL,uri,Site PLan BL17
-17,NetDwellingsRangeFrom,missing,
-17,NetDwellingsRangeTo,missing,
+17,NetDwellingsRangeFrom,default,13
+17,NetDwellingsRangeTo,default,13
 18,SiteplanURL,uri,Site Plan BL18
-18,NetDwellingsRangeFrom,missing,
-18,NetDwellingsRangeTo,missing,
+18,NetDwellingsRangeFrom,default,33
+18,NetDwellingsRangeTo,default,33
 19,SiteplanURL,uri,Site Plan BL19
-19,NetDwellingsRangeFrom,missing,
-19,NetDwellingsRangeTo,missing,
+19,NetDwellingsRangeFrom,default,7
+19,NetDwellingsRangeTo,default,7
 20,SiteplanURL,uri,Site Plan BL20
-20,NetDwellingsRangeFrom,missing,
-20,NetDwellingsRangeTo,missing,
+20,NetDwellingsRangeFrom,default,5
+20,NetDwellingsRangeTo,default,5
 21,SiteplanURL,uri,Site Plan BL21
-21,NetDwellingsRangeFrom,missing,
-21,NetDwellingsRangeTo,missing,
+21,NetDwellingsRangeFrom,default,9
+21,NetDwellingsRangeTo,default,9
 22,SiteplanURL,uri,Site Plan BL22
-22,NetDwellingsRangeFrom,missing,
-22,NetDwellingsRangeTo,missing,
+22,NetDwellingsRangeFrom,default,8
+22,NetDwellingsRangeTo,default,8
 23,SiteplanURL,uri,Site Plan BL23
-23,NetDwellingsRangeFrom,missing,
-23,NetDwellingsRangeTo,missing,
+23,NetDwellingsRangeFrom,default,5
+23,NetDwellingsRangeTo,default,5
 24,SiteplanURL,uri,Site Plan BL24
-24,NetDwellingsRangeFrom,missing,
-24,NetDwellingsRangeTo,missing,
+24,NetDwellingsRangeFrom,default,25
+24,NetDwellingsRangeTo,default,25
 25,SiteplanURL,uri,Site Plan BL25
-25,NetDwellingsRangeFrom,missing,
-25,NetDwellingsRangeTo,missing,
+25,NetDwellingsRangeFrom,default,5
+25,NetDwellingsRangeTo,default,5
+26,NetDwellingsRangeFrom,default,12
+26,NetDwellingsRangeTo,default,12
 26,Hectares,missing,
-26,NetDwellingsRangeFrom,missing,
-26,NetDwellingsRangeTo,missing,

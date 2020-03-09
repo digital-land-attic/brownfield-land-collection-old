@@ -1,28 +1,45 @@
 row-number,field,issue-type,value
+1,NetDwellingsRangeFrom,default,6
 1,LastUpdatedDate,default,2017-12-15
+2,NetDwellingsRangeFrom,default,5
 2,LastUpdatedDate,default,2017-12-15
+3,NetDwellingsRangeFrom,default,1
 3,LastUpdatedDate,default,2017-12-15
+4,NetDwellingsRangeFrom,default,4
 4,LastUpdatedDate,default,2017-12-15
+5,NetDwellingsRangeFrom,default,9
 5,LastUpdatedDate,default,2017-12-15
+6,NetDwellingsRangeFrom,default,100
 6,LastUpdatedDate,default,2017-12-15
+7,NetDwellingsRangeFrom,default,31
 7,LastUpdatedDate,default,2017-12-15
-8,NetDwellingsRangeFrom,integer,700 (200 net)
+8,MinNetDwellings,integer,700 (200 net)
 8,NetDwellingsRangeTo,integer,700 (200 net)
 8,LastUpdatedDate,default,2017-12-15
 8,NetDwellingsRangeFrom,missing,
 8,NetDwellingsRangeTo,missing,
+9,NetDwellingsRangeFrom,default,286
 9,LastUpdatedDate,default,2017-12-15
+10,NetDwellingsRangeFrom,default,249
 10,LastUpdatedDate,default,2017-12-15
+11,NetDwellingsRangeFrom,default,55
 11,LastUpdatedDate,default,2017-12-15
+12,NetDwellingsRangeFrom,default,25
 12,LastUpdatedDate,default,2017-12-15
+13,NetDwellingsRangeFrom,default,8
 13,LastUpdatedDate,default,2017-12-15
+14,NetDwellingsRangeFrom,default,40
 14,LastUpdatedDate,default,2017-12-15
-15,NetDwellingsRangeFrom,integer,>1
+15,MinNetDwellings,integer,>1
 15,NetDwellingsRangeTo,integer,>1
 15,LastUpdatedDate,default,2017-12-15
 15,NetDwellingsRangeFrom,missing,
 15,NetDwellingsRangeTo,missing,
+16,NetDwellingsRangeFrom,default,10
 16,LastUpdatedDate,default,2017-12-15
+17,NetDwellingsRangeFrom,default,15
 17,LastUpdatedDate,default,2017-12-15
+18,NetDwellingsRangeFrom,default,15
 18,LastUpdatedDate,default,2017-12-15
+19,NetDwellingsRangeFrom,default,26
 19,LastUpdatedDate,default,2017-12-15

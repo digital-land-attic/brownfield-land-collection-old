@@ -1,389 +1,518 @@
 row-number,field,issue-type,value
 1,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+1,NetDwellingsRangeFrom,default,42
 1,NetDwellingsRangeTo,default,42
 1,LastUpdatedDate,default,2017-01-01
 2,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+2,NetDwellingsRangeFrom,default,6
 2,NetDwellingsRangeTo,default,6
 2,LastUpdatedDate,default,2017-01-01
 3,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+3,NetDwellingsRangeFrom,default,158
 3,NetDwellingsRangeTo,default,158
 3,LastUpdatedDate,default,2017-01-01
 4,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+4,NetDwellingsRangeFrom,default,24
 4,NetDwellingsRangeTo,default,24
 4,LastUpdatedDate,default,2017-01-01
 5,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+5,NetDwellingsRangeFrom,default,76
 5,NetDwellingsRangeTo,default,76
 5,LastUpdatedDate,default,2017-01-01
 6,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+6,NetDwellingsRangeFrom,default,110
 6,NetDwellingsRangeTo,default,110
 6,LastUpdatedDate,default,2017-01-01
 7,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+7,NetDwellingsRangeFrom,default,27
 7,NetDwellingsRangeTo,default,27
 7,LastUpdatedDate,default,2017-01-01
 8,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+8,NetDwellingsRangeFrom,default,11
 8,NetDwellingsRangeTo,default,11
 8,LastUpdatedDate,default,2017-01-01
 9,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+9,NetDwellingsRangeFrom,default,8
 9,NetDwellingsRangeTo,default,8
 9,LastUpdatedDate,default,2017-01-01
 10,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+10,NetDwellingsRangeFrom,default,20
 10,NetDwellingsRangeTo,default,20
 10,LastUpdatedDate,default,2017-01-01
 11,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+11,NetDwellingsRangeFrom,default,147
 11,NetDwellingsRangeTo,default,147
 11,LastUpdatedDate,default,2017-01-01
 12,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+12,NetDwellingsRangeFrom,default,16
 12,NetDwellingsRangeTo,default,16
 12,LastUpdatedDate,default,2017-01-01
 13,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+13,NetDwellingsRangeFrom,default,10
 13,NetDwellingsRangeTo,default,10
 13,LastUpdatedDate,default,2017-01-01
 14,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+14,NetDwellingsRangeFrom,default,22
 14,NetDwellingsRangeTo,default,22
 14,LastUpdatedDate,default,2017-01-01
 15,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+15,NetDwellingsRangeFrom,default,5
 15,NetDwellingsRangeTo,default,5
 15,LastUpdatedDate,default,2017-01-01
 16,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+16,NetDwellingsRangeFrom,default,1
 16,NetDwellingsRangeTo,default,1
 16,LastUpdatedDate,default,2017-01-01
 17,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+17,NetDwellingsRangeFrom,default,7
 17,NetDwellingsRangeTo,default,7
 17,LastUpdatedDate,default,2017-01-01
 18,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+18,NetDwellingsRangeFrom,default,646
 18,NetDwellingsRangeTo,default,646
 18,LastUpdatedDate,default,2017-01-01
 19,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+19,NetDwellingsRangeFrom,default,21
 19,NetDwellingsRangeTo,default,21
 19,LastUpdatedDate,default,2017-01-01
 20,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+20,NetDwellingsRangeFrom,default,8
 20,NetDwellingsRangeTo,default,8
 20,LastUpdatedDate,default,2017-01-01
 21,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+21,NetDwellingsRangeFrom,default,5
 21,NetDwellingsRangeTo,default,5
 21,LastUpdatedDate,default,2017-01-01
 22,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+22,NetDwellingsRangeFrom,default,14
 22,NetDwellingsRangeTo,default,14
 22,LastUpdatedDate,default,2017-01-01
 23,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+23,NetDwellingsRangeFrom,default,4
 23,NetDwellingsRangeTo,default,4
 23,LastUpdatedDate,default,2017-01-01
 24,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+24,NetDwellingsRangeFrom,default,11
 24,NetDwellingsRangeTo,default,11
 24,LastUpdatedDate,default,2017-01-01
 25,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+25,NetDwellingsRangeFrom,default,1105
 25,NetDwellingsRangeTo,default,1105
 25,LastUpdatedDate,default,2017-01-01
 26,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+26,NetDwellingsRangeFrom,default,63
 26,NetDwellingsRangeTo,default,63
 26,LastUpdatedDate,default,2017-01-01
 27,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+27,NetDwellingsRangeFrom,default,15
 27,NetDwellingsRangeTo,default,15
 27,LastUpdatedDate,default,2017-01-01
 28,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+28,NetDwellingsRangeFrom,default,65
 28,NetDwellingsRangeTo,default,65
 28,LastUpdatedDate,default,2017-01-01
 29,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+29,NetDwellingsRangeFrom,default,512
 29,NetDwellingsRangeTo,default,512
 29,LastUpdatedDate,default,2017-01-01
 30,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+30,NetDwellingsRangeFrom,default,13
 30,NetDwellingsRangeTo,default,13
 30,LastUpdatedDate,default,2017-01-01
 31,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+31,NetDwellingsRangeFrom,default,36
 31,NetDwellingsRangeTo,default,36
 31,LastUpdatedDate,default,2017-01-01
 32,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+32,NetDwellingsRangeFrom,default,11
 32,NetDwellingsRangeTo,default,11
 32,LastUpdatedDate,default,2017-01-01
 33,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+33,NetDwellingsRangeFrom,default,35
 33,NetDwellingsRangeTo,default,35
 33,LastUpdatedDate,default,2017-01-01
 34,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+34,NetDwellingsRangeFrom,default,21
 34,NetDwellingsRangeTo,default,21
 34,LastUpdatedDate,default,2017-01-01
 35,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+35,NetDwellingsRangeFrom,default,15
 35,NetDwellingsRangeTo,default,15
 35,LastUpdatedDate,default,2017-01-01
 36,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+36,NetDwellingsRangeFrom,default,31
 36,NetDwellingsRangeTo,default,31
 36,LastUpdatedDate,default,2017-01-01
 37,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+37,NetDwellingsRangeFrom,default,18
 37,NetDwellingsRangeTo,default,18
 37,LastUpdatedDate,default,2017-01-01
 38,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+38,NetDwellingsRangeFrom,default,10
 38,NetDwellingsRangeTo,default,10
 38,LastUpdatedDate,default,2017-01-01
 39,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+39,NetDwellingsRangeFrom,default,50
 39,NetDwellingsRangeTo,default,50
 39,LastUpdatedDate,default,2017-01-01
 40,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+40,NetDwellingsRangeFrom,default,71
 40,NetDwellingsRangeTo,default,71
 40,LastUpdatedDate,default,2017-01-01
 41,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+41,NetDwellingsRangeFrom,default,38
 41,NetDwellingsRangeTo,default,38
 41,LastUpdatedDate,default,2017-01-01
 42,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+42,NetDwellingsRangeFrom,default,25
 42,NetDwellingsRangeTo,default,25
 42,LastUpdatedDate,default,2017-01-01
 43,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+43,NetDwellingsRangeFrom,default,57
 43,NetDwellingsRangeTo,default,57
 43,LastUpdatedDate,default,2017-01-01
 44,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+44,NetDwellingsRangeFrom,default,25
 44,NetDwellingsRangeTo,default,25
 44,LastUpdatedDate,default,2017-01-01
 45,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+45,NetDwellingsRangeFrom,default,9
 45,NetDwellingsRangeTo,default,9
 45,LastUpdatedDate,default,2017-01-01
 46,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+46,NetDwellingsRangeFrom,default,11
 46,NetDwellingsRangeTo,default,11
 46,LastUpdatedDate,default,2017-01-01
 47,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+47,NetDwellingsRangeFrom,default,5
 47,NetDwellingsRangeTo,default,5
 47,LastUpdatedDate,default,2017-01-01
 48,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+48,NetDwellingsRangeFrom,default,12
 48,NetDwellingsRangeTo,default,12
 48,LastUpdatedDate,default,2017-01-01
 49,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+49,NetDwellingsRangeFrom,default,11
 49,NetDwellingsRangeTo,default,11
 49,LastUpdatedDate,default,2017-01-01
 50,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+50,NetDwellingsRangeFrom,default,15
 50,NetDwellingsRangeTo,default,15
 50,LastUpdatedDate,default,2017-01-01
 51,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+51,NetDwellingsRangeFrom,default,7
 51,NetDwellingsRangeTo,default,7
 51,LastUpdatedDate,default,2017-01-01
 52,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+52,NetDwellingsRangeFrom,default,7
 52,NetDwellingsRangeTo,default,7
 52,LastUpdatedDate,default,2017-01-01
 53,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+53,NetDwellingsRangeFrom,default,5
 53,NetDwellingsRangeTo,default,5
 53,LastUpdatedDate,default,2017-01-01
 54,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+54,NetDwellingsRangeFrom,default,1
 54,NetDwellingsRangeTo,default,1
 54,LastUpdatedDate,default,2017-01-01
 55,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+55,NetDwellingsRangeFrom,default,51
 55,NetDwellingsRangeTo,default,51
 55,LastUpdatedDate,default,2017-01-01
 56,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+56,NetDwellingsRangeFrom,default,5
 56,NetDwellingsRangeTo,default,5
 56,LastUpdatedDate,default,2017-01-01
 57,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+57,NetDwellingsRangeFrom,default,37
 57,NetDwellingsRangeTo,default,37
 57,LastUpdatedDate,default,2017-01-01
 58,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+58,NetDwellingsRangeFrom,default,275
 58,NetDwellingsRangeTo,default,275
 58,LastUpdatedDate,default,2017-01-01
 59,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+59,NetDwellingsRangeFrom,default,1100
 59,NetDwellingsRangeTo,default,1100
 59,LastUpdatedDate,default,2017-01-01
 60,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+60,NetDwellingsRangeFrom,default,17
 60,NetDwellingsRangeTo,default,17
 60,LastUpdatedDate,default,2017-01-01
 61,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+61,NetDwellingsRangeFrom,default,8
 61,NetDwellingsRangeTo,default,8
 61,LastUpdatedDate,default,2017-01-01
 62,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+62,NetDwellingsRangeFrom,default,20
 62,NetDwellingsRangeTo,default,20
 62,LastUpdatedDate,default,2017-01-01
 63,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+63,NetDwellingsRangeFrom,default,22
 63,NetDwellingsRangeTo,default,22
 63,LastUpdatedDate,default,2017-01-01
 64,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+64,NetDwellingsRangeFrom,default,8
 64,NetDwellingsRangeTo,default,8
 64,LastUpdatedDate,default,2017-01-01
 65,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+65,NetDwellingsRangeFrom,default,12
 65,NetDwellingsRangeTo,default,12
 65,LastUpdatedDate,default,2017-01-01
 66,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+66,NetDwellingsRangeFrom,default,6
 66,NetDwellingsRangeTo,default,6
 66,LastUpdatedDate,default,2017-01-01
 67,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+67,NetDwellingsRangeFrom,default,21
 67,NetDwellingsRangeTo,default,21
 67,LastUpdatedDate,default,2017-01-01
 68,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+68,NetDwellingsRangeFrom,default,24
 68,NetDwellingsRangeTo,default,24
 68,LastUpdatedDate,default,2017-01-01
 69,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+69,NetDwellingsRangeFrom,default,11
 69,NetDwellingsRangeTo,default,11
 69,LastUpdatedDate,default,2017-01-01
 70,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+70,NetDwellingsRangeFrom,default,5
 70,NetDwellingsRangeTo,default,5
 70,LastUpdatedDate,default,2017-01-01
 71,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+71,NetDwellingsRangeFrom,default,8
 71,NetDwellingsRangeTo,default,8
 71,LastUpdatedDate,default,2017-01-01
 72,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+72,NetDwellingsRangeFrom,default,25
 72,NetDwellingsRangeTo,default,25
 72,LastUpdatedDate,default,2017-01-01
 73,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+73,NetDwellingsRangeFrom,default,46
 73,NetDwellingsRangeTo,default,46
 73,LastUpdatedDate,default,2017-01-01
 74,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+74,NetDwellingsRangeFrom,default,19
 74,NetDwellingsRangeTo,default,19
 74,LastUpdatedDate,default,2017-01-01
 75,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+75,NetDwellingsRangeFrom,default,137
 75,NetDwellingsRangeTo,default,137
 75,LastUpdatedDate,default,2017-01-01
 76,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+76,NetDwellingsRangeFrom,default,12
 76,NetDwellingsRangeTo,default,12
 76,LastUpdatedDate,default,2017-01-01
 77,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+77,NetDwellingsRangeFrom,default,35
 77,NetDwellingsRangeTo,default,35
 77,LastUpdatedDate,default,2017-01-01
 78,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+78,NetDwellingsRangeFrom,default,74
 78,NetDwellingsRangeTo,default,74
 78,LastUpdatedDate,default,2017-01-01
 79,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+79,NetDwellingsRangeFrom,default,15
 79,NetDwellingsRangeTo,default,15
 79,LastUpdatedDate,default,2017-01-01
 80,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+80,NetDwellingsRangeFrom,default,15
 80,NetDwellingsRangeTo,default,15
 80,LastUpdatedDate,default,2017-01-01
 81,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+81,NetDwellingsRangeFrom,default,39
 81,NetDwellingsRangeTo,default,39
 81,LastUpdatedDate,default,2017-01-01
 82,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+82,NetDwellingsRangeFrom,default,15
 82,NetDwellingsRangeTo,default,15
 82,LastUpdatedDate,default,2017-01-01
 83,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+83,NetDwellingsRangeFrom,default,24
 83,NetDwellingsRangeTo,default,24
 83,LastUpdatedDate,default,2017-01-01
 84,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+84,NetDwellingsRangeFrom,default,33
 84,NetDwellingsRangeTo,default,33
 84,LastUpdatedDate,default,2017-01-01
 85,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+85,NetDwellingsRangeFrom,default,14
 85,NetDwellingsRangeTo,default,14
 85,LastUpdatedDate,default,2017-01-01
 86,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+86,NetDwellingsRangeFrom,default,38
 86,NetDwellingsRangeTo,default,38
 86,LastUpdatedDate,default,2017-01-01
 87,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+87,NetDwellingsRangeFrom,default,42
 87,NetDwellingsRangeTo,default,42
 87,LastUpdatedDate,default,2017-01-01
 88,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+88,NetDwellingsRangeFrom,default,7
 88,NetDwellingsRangeTo,default,7
 88,LastUpdatedDate,default,2017-01-01
 89,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+89,NetDwellingsRangeFrom,default,1
 89,NetDwellingsRangeTo,default,1
 89,LastUpdatedDate,default,2017-01-01
 90,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+90,NetDwellingsRangeFrom,default,2
 90,NetDwellingsRangeTo,default,2
 90,LastUpdatedDate,default,2017-01-01
 91,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+91,NetDwellingsRangeFrom,default,9
 91,NetDwellingsRangeTo,default,9
 91,LastUpdatedDate,default,2017-01-01
 92,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+92,NetDwellingsRangeFrom,default,49
 92,NetDwellingsRangeTo,default,49
 92,LastUpdatedDate,default,2017-01-01
 93,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+93,NetDwellingsRangeFrom,default,144
 93,NetDwellingsRangeTo,default,144
 93,LastUpdatedDate,default,2017-01-01
 94,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+94,NetDwellingsRangeFrom,default,87
 94,NetDwellingsRangeTo,default,87
 94,LastUpdatedDate,default,2017-01-01
 95,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+95,NetDwellingsRangeFrom,default,60
 95,NetDwellingsRangeTo,default,60
 95,LastUpdatedDate,default,2017-01-01
 96,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+96,NetDwellingsRangeFrom,default,33
 96,NetDwellingsRangeTo,default,33
 96,LastUpdatedDate,default,2017-01-01
 97,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+97,NetDwellingsRangeFrom,default,46
 97,NetDwellingsRangeTo,default,46
 97,LastUpdatedDate,default,2017-01-01
 98,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+98,NetDwellingsRangeFrom,default,2
 98,NetDwellingsRangeTo,default,2
 98,LastUpdatedDate,default,2017-01-01
 98,Hectares,missing,
 99,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+99,NetDwellingsRangeFrom,default,30
 99,NetDwellingsRangeTo,default,30
 99,LastUpdatedDate,default,2017-01-01
 100,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+100,NetDwellingsRangeFrom,default,300
 100,NetDwellingsRangeTo,default,300
 100,LastUpdatedDate,default,2017-01-01
 101,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+101,NetDwellingsRangeFrom,default,110
 101,NetDwellingsRangeTo,default,110
 101,LastUpdatedDate,default,2017-01-01
 102,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+102,NetDwellingsRangeFrom,default,9
 102,NetDwellingsRangeTo,default,9
 102,LastUpdatedDate,default,2017-01-01
 103,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+103,NetDwellingsRangeFrom,default,9
 103,NetDwellingsRangeTo,default,9
 103,LastUpdatedDate,default,2017-01-01
 104,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+104,NetDwellingsRangeFrom,default,7
 104,NetDwellingsRangeTo,default,7
 104,LastUpdatedDate,default,2017-01-01
 105,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+105,NetDwellingsRangeFrom,default,38
 105,NetDwellingsRangeTo,default,38
 105,LastUpdatedDate,default,2017-01-01
 106,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+106,NetDwellingsRangeFrom,default,80
 106,NetDwellingsRangeTo,default,80
 106,LastUpdatedDate,default,2017-01-01
 107,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+107,NetDwellingsRangeFrom,default,21
 107,NetDwellingsRangeTo,default,21
 107,LastUpdatedDate,default,2017-01-01
 108,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+108,NetDwellingsRangeFrom,default,17
 108,NetDwellingsRangeTo,default,17
 108,LastUpdatedDate,default,2017-01-01
 109,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+109,NetDwellingsRangeFrom,default,11
 109,NetDwellingsRangeTo,default,11
 109,LastUpdatedDate,default,2017-01-01
 110,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+110,NetDwellingsRangeFrom,default,11
 110,NetDwellingsRangeTo,default,11
 110,LastUpdatedDate,default,2017-01-01
 111,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+111,NetDwellingsRangeFrom,default,14
 111,NetDwellingsRangeTo,default,14
 111,LastUpdatedDate,default,2017-01-01
 112,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+112,NetDwellingsRangeFrom,default,15
 112,NetDwellingsRangeTo,default,15
 112,LastUpdatedDate,default,2017-01-01
 113,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+113,NetDwellingsRangeFrom,default,23
 113,NetDwellingsRangeTo,default,23
 113,LastUpdatedDate,default,2017-01-01
 114,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+114,NetDwellingsRangeFrom,default,5
 114,NetDwellingsRangeTo,default,5
 114,LastUpdatedDate,default,2017-01-01
 115,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+115,NetDwellingsRangeFrom,default,6
 115,NetDwellingsRangeTo,default,6
 115,LastUpdatedDate,default,2017-01-01
 116,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+116,NetDwellingsRangeFrom,default,10
 116,NetDwellingsRangeTo,default,10
 116,LastUpdatedDate,default,2017-01-01
 117,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+117,NetDwellingsRangeFrom,default,9
 117,NetDwellingsRangeTo,default,9
 117,LastUpdatedDate,default,2017-01-01
 118,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+118,NetDwellingsRangeFrom,default,26
 118,NetDwellingsRangeTo,default,26
 118,LastUpdatedDate,default,2017-01-01
 119,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+119,NetDwellingsRangeFrom,default,50
 119,NetDwellingsRangeTo,default,50
 119,LastUpdatedDate,default,2017-01-01
 120,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+120,NetDwellingsRangeFrom,default,2
 120,NetDwellingsRangeTo,default,2
 120,LastUpdatedDate,default,2017-01-01
 121,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+121,NetDwellingsRangeFrom,default,7
 121,NetDwellingsRangeTo,default,7
 121,LastUpdatedDate,default,2017-01-01
 122,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+122,NetDwellingsRangeFrom,default,18
 122,NetDwellingsRangeTo,default,18
 122,LastUpdatedDate,default,2017-01-01
 123,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+123,NetDwellingsRangeFrom,default,16
 123,NetDwellingsRangeTo,default,16
 123,LastUpdatedDate,default,2017-01-01
 124,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+124,NetDwellingsRangeFrom,default,31
 124,NetDwellingsRangeTo,default,31
 124,LastUpdatedDate,default,2017-01-01
 125,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+125,NetDwellingsRangeFrom,default,93
 125,NetDwellingsRangeTo,default,93
 125,LastUpdatedDate,default,2017-01-01
 126,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+126,NetDwellingsRangeFrom,default,2
 126,NetDwellingsRangeTo,default,2
 126,LastUpdatedDate,default,2017-01-01
 127,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+127,NetDwellingsRangeFrom,default,2
 127,NetDwellingsRangeTo,default,2
 127,LastUpdatedDate,default,2017-01-01
 128,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+128,NetDwellingsRangeFrom,default,1
 128,NetDwellingsRangeTo,default,1
 128,LastUpdatedDate,default,2017-01-01
 129,SiteplanURL,uri,Polygon viewable on interactive map (see Legend on map). Search address to find
+129,NetDwellingsRangeFrom,default,18
 129,NetDwellingsRangeTo,default,18
 129,LastUpdatedDate,default,2017-01-01

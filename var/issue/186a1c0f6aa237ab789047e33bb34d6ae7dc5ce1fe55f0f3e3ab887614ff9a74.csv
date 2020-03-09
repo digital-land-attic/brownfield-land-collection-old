@@ -1,3 +1,3 @@
 row-number,field,issue-type,value
-61,NetDwellingsRangeFrom,missing,
-61,NetDwellingsRangeTo,missing,
+61,NetDwellingsRangeFrom,default,1
+61,NetDwellingsRangeTo,default,1

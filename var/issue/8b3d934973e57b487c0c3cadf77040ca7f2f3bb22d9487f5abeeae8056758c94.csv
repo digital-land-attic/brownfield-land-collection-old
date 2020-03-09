@@ -1,109 +1,136 @@
 row-number,field,issue-type,value
 1,SiteplanURL,uri,My West Suffolk
+1,NetDwellingsRangeFrom,default,23
 1,NetDwellingsRangeTo,default,23
 1,GeoX,missing,
 1,GeoY,missing,
 2,SiteplanURL,uri,My West Suffolk
+2,NetDwellingsRangeFrom,default,10
 2,NetDwellingsRangeTo,default,10
 2,GeoX,missing,
 2,GeoY,missing,
 3,SiteplanURL,uri,My West Suffolk
+3,NetDwellingsRangeFrom,default,24
 3,NetDwellingsRangeTo,default,24
 3,GeoX,missing,
 3,GeoY,missing,
 4,SiteplanURL,uri,My West Suffolk
+4,NetDwellingsRangeFrom,default,89
 4,NetDwellingsRangeTo,default,89
 4,GeoX,missing,
 4,GeoY,missing,
 5,SiteplanURL,uri,My West Suffolk
+5,NetDwellingsRangeFrom,default,18
 5,NetDwellingsRangeTo,default,18
 5,GeoX,missing,
 5,GeoY,missing,
 6,SiteplanURL,uri,My West Suffolk
+6,NetDwellingsRangeFrom,default,14
 6,NetDwellingsRangeTo,default,14
 6,GeoX,missing,
 6,GeoY,missing,
 7,SiteplanURL,uri,My West Suffolk
+7,NetDwellingsRangeFrom,default,50
 7,NetDwellingsRangeTo,default,50
 7,GeoX,missing,
 7,GeoY,missing,
 8,SiteplanURL,uri,My West Suffolk
+8,NetDwellingsRangeFrom,default,132
 8,NetDwellingsRangeTo,default,132
 8,GeoX,missing,
 8,GeoY,missing,
 9,SiteplanURL,uri,My West Suffolk
+9,NetDwellingsRangeFrom,default,30
 9,NetDwellingsRangeTo,default,30
 9,GeoX,missing,
 9,GeoY,missing,
 10,SiteplanURL,uri,My West Suffolk
+10,NetDwellingsRangeFrom,default,50
 10,NetDwellingsRangeTo,default,50
 10,GeoX,missing,
 10,GeoY,missing,
 11,SiteplanURL,uri,My West Suffolk
+11,NetDwellingsRangeFrom,default,45
 11,NetDwellingsRangeTo,default,45
 11,GeoX,missing,
 11,GeoY,missing,
 12,SiteplanURL,uri,My West Suffolk
+12,NetDwellingsRangeFrom,default,84
 12,NetDwellingsRangeTo,default,84
 12,GeoX,missing,
 12,GeoY,missing,
 13,SiteplanURL,uri,My West Suffolk
+13,NetDwellingsRangeFrom,default,32
 13,NetDwellingsRangeTo,default,32
 13,GeoX,missing,
 13,GeoY,missing,
 14,SiteplanURL,uri,My West Suffolk
+14,NetDwellingsRangeFrom,default,300
 14,NetDwellingsRangeTo,default,300
 14,GeoX,missing,
 14,GeoY,missing,
 15,SiteplanURL,uri,My West Suffolk
+15,NetDwellingsRangeFrom,default,100
 15,NetDwellingsRangeTo,default,100
 15,GeoX,missing,
 15,GeoY,missing,
 16,SiteplanURL,uri,My West Suffolk
+16,NetDwellingsRangeFrom,default,14
 16,NetDwellingsRangeTo,default,14
 16,GeoX,missing,
 16,GeoY,missing,
 17,SiteplanURL,uri,My West Suffolk
+17,NetDwellingsRangeFrom,default,39
 17,NetDwellingsRangeTo,default,39
 17,GeoX,missing,
 17,GeoY,missing,
 18,SiteplanURL,uri,My West Suffolk
+18,NetDwellingsRangeFrom,default,10
 18,NetDwellingsRangeTo,default,10
 18,GeoX,missing,
 18,GeoY,missing,
 19,SiteplanURL,uri,My West Suffolk
+19,NetDwellingsRangeFrom,default,14
 19,NetDwellingsRangeTo,default,14
 19,GeoX,missing,
 19,GeoY,missing,
 20,SiteplanURL,uri,My West Suffolk
+20,NetDwellingsRangeFrom,default,39
 20,NetDwellingsRangeTo,default,39
 20,GeoX,missing,
 20,GeoY,missing,
 21,SiteplanURL,uri,My West Suffolk
+21,NetDwellingsRangeFrom,default,8
 21,NetDwellingsRangeTo,default,8
 21,GeoX,missing,
 21,GeoY,missing,
 22,SiteplanURL,uri,My West Suffolk
+22,NetDwellingsRangeFrom,default,14
 22,NetDwellingsRangeTo,default,14
 22,GeoX,missing,
 22,GeoY,missing,
 23,SiteplanURL,uri,My West Suffolk
+23,NetDwellingsRangeFrom,default,17
 23,NetDwellingsRangeTo,default,17
 23,GeoX,missing,
 23,GeoY,missing,
 24,SiteplanURL,uri,My West Suffolk
+24,NetDwellingsRangeFrom,default,10
 24,NetDwellingsRangeTo,default,10
 24,GeoX,missing,
 24,GeoY,missing,
 25,SiteplanURL,uri,My West Suffolk
+25,NetDwellingsRangeFrom,default,13
 25,NetDwellingsRangeTo,default,13
 25,GeoX,missing,
 25,GeoY,missing,
 26,SiteplanURL,uri,My West Suffolk
+26,NetDwellingsRangeFrom,default,14
 26,NetDwellingsRangeTo,default,14
 26,GeoX,missing,
 26,GeoY,missing,
 27,SiteplanURL,uri,My West Suffolk
+27,NetDwellingsRangeFrom,default,17
 27,NetDwellingsRangeTo,default,17
 27,GeoX,missing,
 27,GeoY,missing,

@@ -1,5 +1,5 @@
 row-number,field,issue-type,value
-1,NetDwellingsRangeFrom,missing,
-1,NetDwellingsRangeTo,missing,
-4,NetDwellingsRangeFrom,missing,
-4,NetDwellingsRangeTo,missing,
+1,NetDwellingsRangeFrom,default,72
+1,NetDwellingsRangeTo,default,72
+4,NetDwellingsRangeFrom,default,5
+4,NetDwellingsRangeTo,default,5

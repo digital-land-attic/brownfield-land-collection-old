@@ -1,7 +1,7 @@
 row-number,field,issue-type,value
+1,NetDwellingsRangeFrom,default,7
+1,NetDwellingsRangeTo,default,7
 1,LastUpdatedDate,default,2018-05-22
-1,NetDwellingsRangeFrom,missing,
-1,NetDwellingsRangeTo,missing,
+2,NetDwellingsRangeFrom,default,26
+2,NetDwellingsRangeTo,default,26
 2,LastUpdatedDate,default,2018-05-22
-2,NetDwellingsRangeFrom,missing,
-2,NetDwellingsRangeTo,missing,

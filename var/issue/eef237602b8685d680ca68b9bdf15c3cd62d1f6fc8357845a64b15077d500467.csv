@@ -56,9 +56,9 @@ row-number,field,issue-type,value
 48,LastUpdatedDate,default,2017-11-30
 49,LastUpdatedDate,default,2017-11-30
 50,LastUpdatedDate,default,2017-11-30
+51,NetDwellingsRangeFrom,default,15
+51,NetDwellingsRangeTo,default,15
 51,LastUpdatedDate,default,2017-11-30
-51,NetDwellingsRangeFrom,missing,
-51,NetDwellingsRangeTo,missing,
 52,LastUpdatedDate,default,2017-11-30
 53,LastUpdatedDate,default,2017-11-30
 54,LastUpdatedDate,default,2017-11-30

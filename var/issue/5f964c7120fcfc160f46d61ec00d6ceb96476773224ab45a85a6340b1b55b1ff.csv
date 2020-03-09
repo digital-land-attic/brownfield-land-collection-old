@@ -44,8 +44,8 @@ row-number,field,issue-type,value
 43,NetDwellingsRangeTo,default,12
 44,NetDwellingsRangeTo,default,28
 45,NetDwellingsRangeTo,default,600
-46,NetDwellingsRangeFrom,missing,
-46,NetDwellingsRangeTo,missing,
+46,NetDwellingsRangeFrom,default,600
+46,NetDwellingsRangeTo,default,600
 47,NetDwellingsRangeTo,default,60
 48,NetDwellingsRangeTo,default,9
 49,NetDwellingsRangeTo,default,80

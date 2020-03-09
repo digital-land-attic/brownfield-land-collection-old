@@ -1,14 +1,14 @@
 row-number,field,issue-type,value
-1,NetDwellingsRangeFrom,missing,
-1,NetDwellingsRangeTo,missing,
+1,NetDwellingsRangeFrom,default,6
+1,NetDwellingsRangeTo,default,6
 1,"GeoX,GeoY",out of range,"3570251.08,3428656.12"
 2,"GeoX,GeoY",out of range,"3571052.46,3431349.32"
 3,"GeoX,GeoY",out of range,"3570597.09,3427450.73"
 4,"GeoX,GeoY",out of range,"3567831.53,3429026.32"
 5,"GeoX,GeoY",out of range,"3578026.6,3420733.9"
 6,"GeoX,GeoY",out of range,"3579288.43,3426440.57"
-7,NetDwellingsRangeFrom,missing,
-7,NetDwellingsRangeTo,missing,
+7,NetDwellingsRangeFrom,default,66
+7,NetDwellingsRangeTo,default,66
 7,"GeoX,GeoY",out of range,"3572607.23,3434026.61"
 8,"GeoX,GeoY",out of range,"3574019.66,3415637.39"
 9,"GeoX,GeoY",out of range,"3569905.84,3427847.07"
@@ -17,81 +17,81 @@ row-number,field,issue-type,value
 12,"GeoX,GeoY",out of range,"3572465.61,3429185.5"
 13,"GeoX,GeoY",out of range,"3573676.37,3434123.99"
 14,"GeoX,GeoY",out of range,"3567738.41,3425559.69"
-15,NetDwellingsRangeFrom,missing,
-15,NetDwellingsRangeTo,missing,
+15,NetDwellingsRangeFrom,default,64
+15,NetDwellingsRangeTo,default,64
 15,"GeoX,GeoY",out of range,"3579802.07,3425476.3"
 16,"GeoX,GeoY",out of range,"3572971.14,3429289.79"
-17,NetDwellingsRangeFrom,missing,
-17,NetDwellingsRangeTo,missing,
+17,NetDwellingsRangeFrom,default,10
+17,NetDwellingsRangeTo,default,10
 17,"GeoX,GeoY",out of range,"3571971.71,3428129.46"
 18,"GeoX,GeoY",out of range,"3570104.87,3427796.11"
 19,"GeoX,GeoY",out of range,"3579810.59,3425449.19"
 20,"GeoX,GeoY",out of range,"3571201.15,3435400.15"
 21,"GeoX,GeoY",out of range,"3569624.77,3428129.74"
 22,"GeoX,GeoY",out of range,"3571092.1,3431414.75"
-23,NetDwellingsRangeFrom,missing,
-23,NetDwellingsRangeTo,missing,
+23,NetDwellingsRangeFrom,default,9
+23,NetDwellingsRangeTo,default,9
 23,"GeoX,GeoY",out of range,"3570617.42,3437114.76"
 24,"GeoX,GeoY",out of range,"3577209.78,3418697.81"
 25,"GeoX,GeoY",out of range,"3568974,3431317.3"
 26,"GeoX,GeoY",out of range,"3567852.79,3428957.44"
 27,"GeoX,GeoY",out of range,"3572893.11,3429215.16"
-28,NetDwellingsRangeFrom,missing,
-28,NetDwellingsRangeTo,missing,
+28,NetDwellingsRangeFrom,default,4
+28,NetDwellingsRangeTo,default,4
 28,"GeoX,GeoY",out of range,"3574025.17,3415334.09"
-29,NetDwellingsRangeFrom,missing,
-29,NetDwellingsRangeTo,missing,
+29,NetDwellingsRangeFrom,default,5
+29,NetDwellingsRangeTo,default,5
 29,"GeoX,GeoY",out of range,"3572216.24,3428906.13"
 30,"GeoX,GeoY",out of range,"3571329.18,3420129.55"
 31,"GeoX,GeoY",out of range,"3571481.19,3425360.72"
-32,NetDwellingsRangeFrom,missing,
-32,NetDwellingsRangeTo,missing,
+32,NetDwellingsRangeFrom,default,4
+32,NetDwellingsRangeTo,default,4
 32,"GeoX,GeoY",out of range,"3577091.74,3420708.03"
 33,"GeoX,GeoY",out of range,"3573955.69,3433937.18"
-34,NetDwellingsRangeFrom,missing,
-34,NetDwellingsRangeTo,missing,
+34,NetDwellingsRangeFrom,default,8
+34,NetDwellingsRangeTo,default,8
 34,"GeoX,GeoY",out of range,"3570846.08,3428537.15"
 35,"GeoX,GeoY",out of range,"3569438.69,3430622.55"
 36,"GeoX,GeoY",out of range,"3567957.26,3428246.61"
 37,"GeoX,GeoY",out of range,"3570904.74,3431213.88"
-38,NetDwellingsRangeFrom,missing,
-38,NetDwellingsRangeTo,missing,
+38,NetDwellingsRangeFrom,default,28
+38,NetDwellingsRangeTo,default,28
 38,"GeoX,GeoY",out of range,"3570672.46,3426887.07"
-39,NetDwellingsRangeFrom,missing,
-39,NetDwellingsRangeTo,missing,
+39,NetDwellingsRangeFrom,default,14
+39,NetDwellingsRangeTo,default,14
 39,"GeoX,GeoY",out of range,"3571549.45,3431700.15"
 40,"GeoX,GeoY",out of range,"3570849.71,3426307.02"
-41,NetDwellingsRangeFrom,missing,
-41,NetDwellingsRangeTo,missing,
+41,NetDwellingsRangeFrom,default,3
+41,NetDwellingsRangeTo,default,3
 41,"GeoX,GeoY",out of range,"3570870.12,3420382.66"
-42,NetDwellingsRangeFrom,missing,
-42,NetDwellingsRangeTo,missing,
+42,NetDwellingsRangeFrom,default,1
+42,NetDwellingsRangeTo,default,1
 42,"GeoX,GeoY",out of range,"3573290.71,3434001.08"
-43,NetDwellingsRangeFrom,missing,
-43,NetDwellingsRangeTo,missing,
+43,NetDwellingsRangeFrom,default,8
+43,NetDwellingsRangeTo,default,8
 43,"GeoX,GeoY",out of range,"3570013.3,3428131.63"
 44,"GeoX,GeoY",out of range,"3571566.79,3427261.21"
-45,NetDwellingsRangeFrom,missing,
-45,NetDwellingsRangeTo,missing,
+45,NetDwellingsRangeFrom,default,8
+45,NetDwellingsRangeTo,default,8
 45,"GeoX,GeoY",out of range,"3570431.07,3426898.37"
-46,NetDwellingsRangeFrom,missing,
-46,NetDwellingsRangeTo,missing,
+46,NetDwellingsRangeFrom,default,5
+46,NetDwellingsRangeTo,default,5
 46,"GeoX,GeoY",out of range,"3569558.69,3428230.32"
 47,"GeoX,GeoY",out of range,"3569520.79,3428215.54"
-48,NetDwellingsRangeFrom,missing,
-48,NetDwellingsRangeTo,missing,
+48,NetDwellingsRangeFrom,default,52
+48,NetDwellingsRangeTo,default,52
 48,"GeoX,GeoY",out of range,"3569571.76,3427886.77"
 49,"GeoX,GeoY",out of range,"3569397.48,3427823.75"
 50,"GeoX,GeoY",out of range,"3577014.13,3420683.56"
 51,"GeoX,GeoY",out of range,"3569813.64,3427934.1"
-52,NetDwellingsRangeFrom,missing,
-52,NetDwellingsRangeTo,missing,
+52,NetDwellingsRangeFrom,default,36
+52,NetDwellingsRangeTo,default,36
 52,"GeoX,GeoY",out of range,"3570604.33,3427526.31"
 53,"GeoX,GeoY",out of range,"3569804.33,3428282.19"
 54,"GeoX,GeoY",out of range,"3568825.52,3428214.19"
 55,"GeoX,GeoY",out of range,"3579014.01,3420077.12"
-56,NetDwellingsRangeFrom,missing,
-56,NetDwellingsRangeTo,missing,
+56,NetDwellingsRangeFrom,default,8
+56,NetDwellingsRangeTo,default,8
 56,"GeoX,GeoY",out of range,"3577078.34,3417933.83"
 57,"GeoX,GeoY",out of range,"3573804.83,3429638.6"
 58,"GeoX,GeoY",out of range,"3574822.09,3426083.64"

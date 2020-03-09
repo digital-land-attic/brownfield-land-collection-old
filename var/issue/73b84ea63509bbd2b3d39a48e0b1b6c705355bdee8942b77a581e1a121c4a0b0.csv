@@ -1,5 +1,9 @@
 row-number,field,issue-type,value
+1,NetDwellingsRangeFrom,default,1
 1,NetDwellingsRangeTo,default,1
+2,NetDwellingsRangeFrom,default,5
 2,NetDwellingsRangeTo,default,5
+3,NetDwellingsRangeFrom,default,7
 3,NetDwellingsRangeTo,default,7
+4,NetDwellingsRangeFrom,default,5
 4,NetDwellingsRangeTo,default,5

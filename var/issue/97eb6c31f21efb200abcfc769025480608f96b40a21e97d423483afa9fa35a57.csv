@@ -146,6 +146,7 @@ row-number,field,issue-type,value
 14,PlanningStatus,enum,ETRS89
 14,PermissionType,enum,51.295518
 14,PermissionDate,date,-0.330961
+14,MinNetDwellings,integer,yes
 14,NetDwellingsRangeFrom,integer,http://www.molevalley.gov.uk/swiftlg/apas/run/WPHAPPDETAIL.DisplayUrl?theApnID=MO/2018/0738
 14,Deliverable,enum,https://maps.molevalley.gov.uk/
 14,LastUpdatedDate,default,2019-12-14

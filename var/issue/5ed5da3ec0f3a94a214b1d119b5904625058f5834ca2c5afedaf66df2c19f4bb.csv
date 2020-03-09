@@ -1,257 +1,385 @@
 row-number,field,issue-type,value
 1,SiteplanURL,uri,Available within individual site Pdf
+1,NetDwellingsRangeFrom,default,6
 1,LastUpdatedDate,default,2017-11-29
 2,SiteplanURL,uri,Available within individual site Pdf
+2,NetDwellingsRangeFrom,default,13
 2,LastUpdatedDate,default,2017-11-29
 3,SiteplanURL,uri,Available within individual site Pdf
+3,NetDwellingsRangeFrom,default,17
 3,LastUpdatedDate,default,2017-11-29
 4,SiteplanURL,uri,Available within individual site Pdf
+4,NetDwellingsRangeFrom,default,23
 4,LastUpdatedDate,default,2017-11-29
 5,SiteplanURL,uri,Available within individual site Pdf
+5,NetDwellingsRangeFrom,default,19
 5,LastUpdatedDate,default,2017-11-29
 6,SiteplanURL,uri,Available within individual site Pdf
+6,NetDwellingsRangeFrom,default,20
 6,LastUpdatedDate,default,2017-11-29
 7,SiteplanURL,uri,Available within individual site Pdf
+7,NetDwellingsRangeFrom,default,12
 7,LastUpdatedDate,default,2017-11-29
 8,SiteplanURL,uri,Available within individual site Pdf
+8,NetDwellingsRangeFrom,default,24
 8,LastUpdatedDate,default,2017-11-29
 9,SiteplanURL,uri,Available within individual site Pdf
+9,NetDwellingsRangeFrom,default,29
 9,LastUpdatedDate,default,2017-11-29
 10,SiteplanURL,uri,Available within individual site Pdf
+10,NetDwellingsRangeFrom,default,34
 10,LastUpdatedDate,default,2017-11-29
 11,SiteplanURL,uri,Available within individual site Pdf
+11,NetDwellingsRangeFrom,default,74
 11,LastUpdatedDate,default,2017-11-29
 12,SiteplanURL,uri,Available within individual site Pdf
+12,NetDwellingsRangeFrom,default,15
 12,LastUpdatedDate,default,2017-11-29
 13,SiteplanURL,uri,Available within individual site Pdf
+13,NetDwellingsRangeFrom,default,67
 13,LastUpdatedDate,default,2017-11-29
 14,SiteplanURL,uri,Available within individual site Pdf
+14,NetDwellingsRangeFrom,default,41
 14,LastUpdatedDate,default,2017-11-29
 15,SiteplanURL,uri,Available within individual site Pdf
+15,NetDwellingsRangeFrom,default,240
 15,LastUpdatedDate,default,2017-11-29
 16,SiteplanURL,uri,Available within individual site Pdf
+16,NetDwellingsRangeFrom,default,21
 16,LastUpdatedDate,default,2017-11-29
 17,SiteplanURL,uri,Available within individual site Pdf
+17,NetDwellingsRangeFrom,default,65
 17,LastUpdatedDate,default,2017-11-29
 18,SiteplanURL,uri,Available within individual site Pdf
+18,NetDwellingsRangeFrom,default,5
 18,LastUpdatedDate,default,2017-11-29
 19,SiteplanURL,uri,Available within individual site Pdf
+19,NetDwellingsRangeFrom,default,5
 19,LastUpdatedDate,default,2017-11-29
 20,SiteplanURL,uri,Available within individual site Pdf
+20,NetDwellingsRangeFrom,default,42
 20,LastUpdatedDate,default,2017-11-29
 21,SiteplanURL,uri,Available within individual site Pdf
+21,NetDwellingsRangeFrom,default,8
 21,LastUpdatedDate,default,2017-11-29
 22,SiteplanURL,uri,Available within individual site Pdf
+22,NetDwellingsRangeFrom,default,8
 22,LastUpdatedDate,default,2017-11-29
 23,SiteplanURL,uri,Available within individual site Pdf
+23,NetDwellingsRangeFrom,default,8
 23,LastUpdatedDate,default,2017-11-29
 24,SiteplanURL,uri,Available within individual site Pdf
+24,NetDwellingsRangeFrom,default,8
 24,LastUpdatedDate,default,2017-11-29
 25,SiteplanURL,uri,Available within individual site Pdf
+25,NetDwellingsRangeFrom,default,40
 25,LastUpdatedDate,default,2017-11-29
 26,SiteplanURL,uri,Available within individual site Pdf
+26,NetDwellingsRangeFrom,default,5
 26,LastUpdatedDate,default,2017-11-29
 27,SiteplanURL,uri,Available within individual site Pdf
+27,NetDwellingsRangeFrom,default,14
 27,LastUpdatedDate,default,2017-11-29
 28,SiteplanURL,uri,Available within individual site Pdf
+28,NetDwellingsRangeFrom,default,6
 28,LastUpdatedDate,default,2017-11-29
 29,SiteplanURL,uri,Available within individual site Pdf
+29,NetDwellingsRangeFrom,default,29
 29,LastUpdatedDate,default,2017-11-29
 30,SiteplanURL,uri,Available within individual site Pdf
+30,NetDwellingsRangeFrom,default,9
 30,LastUpdatedDate,default,2017-11-29
 31,SiteplanURL,uri,Available within individual site Pdf
+31,NetDwellingsRangeFrom,default,22
 31,LastUpdatedDate,default,2017-11-29
 32,SiteplanURL,uri,Available within individual site Pdf
+32,NetDwellingsRangeFrom,default,18
 32,LastUpdatedDate,default,2017-11-29
 33,SiteplanURL,uri,Available within individual site Pdf
+33,NetDwellingsRangeFrom,default,16
 33,LastUpdatedDate,default,2017-11-29
 34,SiteplanURL,uri,Available within individual site Pdf
+34,NetDwellingsRangeFrom,default,8
 34,LastUpdatedDate,default,2017-11-29
 35,SiteplanURL,uri,Available within individual site Pdf
+35,NetDwellingsRangeFrom,default,6
 35,LastUpdatedDate,default,2017-11-29
 36,SiteplanURL,uri,Available within individual site Pdf
+36,NetDwellingsRangeFrom,default,5
 36,LastUpdatedDate,default,2017-11-29
 37,SiteplanURL,uri,Available within individual site Pdf
+37,NetDwellingsRangeFrom,default,34
 37,LastUpdatedDate,default,2017-11-29
 38,SiteplanURL,uri,Available within individual site Pdf
+38,NetDwellingsRangeFrom,default,14
 38,LastUpdatedDate,default,2017-11-29
 39,SiteplanURL,uri,Available within individual site Pdf
+39,NetDwellingsRangeFrom,default,23
 39,LastUpdatedDate,default,2017-11-29
 40,SiteplanURL,uri,Available within individual site Pdf
+40,NetDwellingsRangeFrom,default,52
 40,LastUpdatedDate,default,2017-11-29
 41,SiteplanURL,uri,Available within individual site Pdf
+41,NetDwellingsRangeFrom,default,67
 41,LastUpdatedDate,default,2017-11-29
 42,SiteplanURL,uri,Available within individual site Pdf
+42,NetDwellingsRangeFrom,default,116
 42,LastUpdatedDate,default,2017-11-29
 43,SiteplanURL,uri,Available within individual site Pdf
+43,NetDwellingsRangeFrom,default,5
 43,LastUpdatedDate,default,2017-11-29
 44,SiteplanURL,uri,Available within individual site Pdf
+44,NetDwellingsRangeFrom,default,49
 44,LastUpdatedDate,default,2017-11-29
 45,SiteplanURL,uri,Available within individual site Pdf
+45,NetDwellingsRangeFrom,default,6
 45,LastUpdatedDate,default,2017-11-29
 46,SiteplanURL,uri,Available within individual site Pdf
+46,NetDwellingsRangeFrom,default,174
 46,LastUpdatedDate,default,2017-11-28
 47,SiteplanURL,uri,Available within individual site Pdf
+47,NetDwellingsRangeFrom,default,58
 47,LastUpdatedDate,default,2017-11-29
 48,SiteplanURL,uri,Available within individual site Pdf
+48,NetDwellingsRangeFrom,default,84
 48,LastUpdatedDate,default,2017-11-29
 49,SiteplanURL,uri,Available within individual site Pdf
+49,NetDwellingsRangeFrom,default,6
 49,LastUpdatedDate,default,2017-11-29
 50,SiteplanURL,uri,Available within individual site Pdf
+50,NetDwellingsRangeFrom,default,6
 50,LastUpdatedDate,default,2017-11-29
 51,SiteplanURL,uri,Available within individual site Pdf
+51,NetDwellingsRangeFrom,default,13
 51,LastUpdatedDate,default,2017-11-29
 52,SiteplanURL,uri,Available within individual site Pdf
+52,NetDwellingsRangeFrom,default,38
 52,LastUpdatedDate,default,2017-11-28
 53,SiteplanURL,uri,Available within individual site Pdf
+53,NetDwellingsRangeFrom,default,6
 53,LastUpdatedDate,default,2017-11-29
 54,SiteplanURL,uri,Available within individual site Pdf
+54,NetDwellingsRangeFrom,default,24
 54,LastUpdatedDate,default,2017-11-29
 55,SiteplanURL,uri,Available within individual site Pdf
+55,NetDwellingsRangeFrom,default,6
 55,LastUpdatedDate,default,2017-11-29
 56,SiteplanURL,uri,Available within individual site Pdf
+56,NetDwellingsRangeFrom,default,41
 56,LastUpdatedDate,default,2017-11-29
 57,SiteplanURL,uri,Available within individual site Pdf
+57,NetDwellingsRangeFrom,default,12
 57,LastUpdatedDate,default,2017-11-29
 58,SiteplanURL,uri,Available within individual site Pdf
+58,NetDwellingsRangeFrom,default,13
 58,LastUpdatedDate,default,2017-11-29
 59,SiteplanURL,uri,Available within individual site Pdf
+59,NetDwellingsRangeFrom,default,34
 59,LastUpdatedDate,default,2017-11-29
 60,SiteplanURL,uri,Available within individual site Pdf
+60,NetDwellingsRangeFrom,default,60
 60,LastUpdatedDate,default,2017-11-29
 61,SiteplanURL,uri,Available within individual site Pdf
+61,NetDwellingsRangeFrom,default,147
 61,LastUpdatedDate,default,2017-11-29
 62,SiteplanURL,uri,Available within individual site Pdf
+62,NetDwellingsRangeFrom,default,6
 62,LastUpdatedDate,default,2017-11-29
 63,SiteplanURL,uri,Available within individual site Pdf
+63,NetDwellingsRangeFrom,default,15
 63,LastUpdatedDate,default,2017-11-29
 64,SiteplanURL,uri,Available within individual site Pdf
+64,NetDwellingsRangeFrom,default,14
 64,LastUpdatedDate,default,2017-11-29
 65,SiteplanURL,uri,Available within individual site Pdf
+65,NetDwellingsRangeFrom,default,6
 65,LastUpdatedDate,default,2017-11-29
 66,SiteplanURL,uri,Available within individual site Pdf
+66,NetDwellingsRangeFrom,default,14
 66,LastUpdatedDate,default,2017-11-29
 67,SiteplanURL,uri,Available within individual site Pdf
+67,NetDwellingsRangeFrom,default,17
 67,LastUpdatedDate,default,2017-11-29
 68,SiteplanURL,uri,Available within individual site Pdf
+68,NetDwellingsRangeFrom,default,6
 68,LastUpdatedDate,default,2017-11-29
 69,SiteplanURL,uri,Available within individual site Pdf
+69,NetDwellingsRangeFrom,default,13
 69,LastUpdatedDate,default,2017-11-29
 70,SiteplanURL,uri,Available within individual site Pdf
+70,NetDwellingsRangeFrom,default,17
 70,LastUpdatedDate,default,2017-11-29
 71,SiteplanURL,uri,Available within individual site Pdf
+71,NetDwellingsRangeFrom,default,5
 71,LastUpdatedDate,default,2017-11-29
 72,SiteplanURL,uri,Available within individual site Pdf
+72,NetDwellingsRangeFrom,default,27
 72,LastUpdatedDate,default,2017-11-28
 73,SiteplanURL,uri,Available within individual site Pdf
+73,NetDwellingsRangeFrom,default,6
 73,LastUpdatedDate,default,2017-11-29
 74,SiteplanURL,uri,Available within individual site Pdf
+74,NetDwellingsRangeFrom,default,6
 74,LastUpdatedDate,default,2017-11-29
 75,SiteplanURL,uri,Available within individual site Pdf
+75,NetDwellingsRangeFrom,default,19
 75,LastUpdatedDate,default,2017-11-29
 76,SiteplanURL,uri,Available within individual site Pdf
+76,NetDwellingsRangeFrom,default,6
 76,LastUpdatedDate,default,2017-11-29
 77,SiteplanURL,uri,Available within individual site Pdf
+77,NetDwellingsRangeFrom,default,5
 77,LastUpdatedDate,default,2017-11-28
 78,SiteplanURL,uri,Available within individual site Pdf
+78,NetDwellingsRangeFrom,default,8
 78,LastUpdatedDate,default,2017-11-28
 79,SiteplanURL,uri,Available within individual site Pdf
+79,NetDwellingsRangeFrom,default,5
 79,LastUpdatedDate,default,2017-11-28
 80,SiteplanURL,uri,Available within individual site Pdf
+80,NetDwellingsRangeFrom,default,6
 80,LastUpdatedDate,default,2017-11-28
 81,SiteplanURL,uri,Available within individual site Pdf
+81,NetDwellingsRangeFrom,default,63
 81,LastUpdatedDate,default,2017-11-28
 82,SiteplanURL,uri,Available within individual site Pdf
+82,NetDwellingsRangeFrom,default,20
 82,LastUpdatedDate,default,2017-11-29
 83,SiteplanURL,uri,Available within individual site Pdf
+83,NetDwellingsRangeFrom,default,42
 83,LastUpdatedDate,default,2017-11-29
 84,SiteplanURL,uri,Available within individual site Pdf
+84,NetDwellingsRangeFrom,default,5
 84,LastUpdatedDate,default,2017-11-28
 85,SiteplanURL,uri,Available within individual site Pdf
+85,NetDwellingsRangeFrom,default,6
 85,LastUpdatedDate,default,2017-11-28
 86,SiteplanURL,uri,Available within individual site Pdf
+86,NetDwellingsRangeFrom,default,8
 86,LastUpdatedDate,default,2017-11-28
 87,SiteplanURL,uri,Available within individual site Pdf
+87,NetDwellingsRangeFrom,default,29
 87,LastUpdatedDate,default,2017-11-28
 88,SiteplanURL,uri,Available within individual site Pdf
+88,NetDwellingsRangeFrom,default,5
 88,LastUpdatedDate,default,2017-11-29
 89,SiteplanURL,uri,Available within individual site Pdf
+89,NetDwellingsRangeFrom,default,9
 89,LastUpdatedDate,default,2017-11-28
 90,SiteplanURL,uri,Available within individual site Pdf
+90,NetDwellingsRangeFrom,default,98
 90,LastUpdatedDate,default,2017-11-28
 91,SiteplanURL,uri,Available within individual site Pdf
+91,NetDwellingsRangeFrom,default,8
 91,LastUpdatedDate,default,2017-11-28
 92,SiteplanURL,uri,Available within individual site Pdf
+92,NetDwellingsRangeFrom,default,5
 92,LastUpdatedDate,default,2017-11-29
 93,SiteplanURL,uri,Available within individual site Pdf
+93,NetDwellingsRangeFrom,default,7
 93,LastUpdatedDate,default,2017-11-28
 94,SiteplanURL,uri,Available within individual site Pdf
+94,NetDwellingsRangeFrom,default,102
 94,LastUpdatedDate,default,2017-11-28
 95,SiteplanURL,uri,Available within individual site Pdf
+95,NetDwellingsRangeFrom,default,6
 95,LastUpdatedDate,default,2017-11-28
 96,SiteplanURL,uri,Available within individual site Pdf
+96,NetDwellingsRangeFrom,default,12
 96,LastUpdatedDate,default,2017-11-28
 97,SiteplanURL,uri,Available within individual site Pdf
+97,NetDwellingsRangeFrom,default,10
 97,LastUpdatedDate,default,2017-11-28
 98,SiteplanURL,uri,Available within individual site Pdf
+98,NetDwellingsRangeFrom,default,5
 98,LastUpdatedDate,default,2017-11-28
 99,SiteplanURL,uri,Available within individual site Pdf
+99,NetDwellingsRangeFrom,default,42
 99,LastUpdatedDate,default,2017-11-28
 100,SiteplanURL,uri,Available within individual site Pdf
+100,NetDwellingsRangeFrom,default,16
 100,LastUpdatedDate,default,2017-11-28
 101,SiteplanURL,uri,Available within individual site Pdf
+101,NetDwellingsRangeFrom,default,6
 101,LastUpdatedDate,default,2017-11-28
 102,SiteplanURL,uri,Available within individual site Pdf
+102,NetDwellingsRangeFrom,default,7
 102,LastUpdatedDate,default,2017-11-28
 103,SiteplanURL,uri,Available within individual site Pdf
+103,NetDwellingsRangeFrom,default,37
 103,LastUpdatedDate,default,2017-11-28
 104,SiteplanURL,uri,Available within individual site Pdf
+104,NetDwellingsRangeFrom,default,143
 104,LastUpdatedDate,default,2017-11-28
 105,SiteplanURL,uri,Available within individual site Pdf
+105,NetDwellingsRangeFrom,default,19
 105,LastUpdatedDate,default,2017-11-28
 106,SiteplanURL,uri,Available within individual site Pdf
+106,NetDwellingsRangeFrom,default,110
 106,LastUpdatedDate,default,2017-11-28
 107,SiteplanURL,uri,Available within individual site Pdf
+107,NetDwellingsRangeFrom,default,5
 107,LastUpdatedDate,default,2017-11-28
 108,SiteplanURL,uri,Available within individual site Pdf
+108,NetDwellingsRangeFrom,default,76
 108,LastUpdatedDate,default,2017-11-28
 109,SiteplanURL,uri,Available within individual site Pdf
+109,NetDwellingsRangeFrom,default,12
 109,LastUpdatedDate,default,2017-11-28
 110,SiteplanURL,uri,Available within individual site Pdf
+110,NetDwellingsRangeFrom,default,14
 110,LastUpdatedDate,default,2017-11-28
 111,SiteplanURL,uri,Available within individual site Pdf
+111,NetDwellingsRangeFrom,default,9
 111,LastUpdatedDate,default,2017-11-28
 112,SiteplanURL,uri,Available within individual site Pdf
+112,NetDwellingsRangeFrom,default,8
 112,LastUpdatedDate,default,2017-11-28
 113,SiteplanURL,uri,Available within individual site Pdf
+113,NetDwellingsRangeFrom,default,11
 113,LastUpdatedDate,default,2017-11-28
 114,SiteplanURL,uri,Available within individual site Pdf
+114,NetDwellingsRangeFrom,default,5
 114,LastUpdatedDate,default,2017-11-28
 115,SiteplanURL,uri,Available within individual site Pdf
+115,NetDwellingsRangeFrom,default,33
 115,LastUpdatedDate,default,2017-11-28
 116,SiteplanURL,uri,Available within individual site Pdf
+116,NetDwellingsRangeFrom,default,6
 116,LastUpdatedDate,default,2017-11-28
 117,SiteplanURL,uri,Available within individual site Pdf
+117,NetDwellingsRangeFrom,default,14
 117,LastUpdatedDate,default,2017-11-28
 118,SiteplanURL,uri,Available within individual site Pdf
+118,NetDwellingsRangeFrom,default,7
 118,LastUpdatedDate,default,2017-11-28
 119,SiteplanURL,uri,Available within individual site Pdf
+119,NetDwellingsRangeFrom,default,250
 119,LastUpdatedDate,default,2017-11-28
 120,SiteplanURL,uri,Available within individual site Pdf
+120,NetDwellingsRangeFrom,default,9
 120,LastUpdatedDate,default,2017-11-28
 121,SiteplanURL,uri,Available within individual site Pdf
+121,NetDwellingsRangeFrom,default,28
 121,LastUpdatedDate,default,2017-11-28
 122,SiteplanURL,uri,Available within individual site Pdf
+122,NetDwellingsRangeFrom,default,59
 122,LastUpdatedDate,default,2017-11-28
 123,SiteplanURL,uri,Available within individual site Pdf
+123,NetDwellingsRangeFrom,default,200
 123,LastUpdatedDate,default,2017-11-29
 124,SiteplanURL,uri,Available within individual site Pdf
+124,NetDwellingsRangeFrom,default,100
 124,LastUpdatedDate,default,2017-11-29
 125,SiteplanURL,uri,Available within individual site Pdf
+125,NetDwellingsRangeFrom,default,120
 125,LastUpdatedDate,default,2017-11-29
 126,SiteplanURL,uri,Available within individual site Pdf
+126,NetDwellingsRangeFrom,default,68
 126,LastUpdatedDate,default,2017-11-29
 127,SiteplanURL,uri,Available within individual site Pdf
+127,NetDwellingsRangeFrom,default,20
 127,LastUpdatedDate,default,2017-11-29
 128,SiteplanURL,uri,Available within individual site Pdf
+128,NetDwellingsRangeFrom,default,16
 128,LastUpdatedDate,default,2017-11-29

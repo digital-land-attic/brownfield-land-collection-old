@@ -1,10 +1,12 @@
 row-number,field,issue-type,value
-1,NetDwellingsRangeFrom,integer,162.25
+1,MinNetDwellings,integer,162.25
 1,NetDwellingsRangeFrom,missing,
 1,NetDwellingsRangeTo,missing,
+2,NetDwellingsRangeFrom,default,93
 2,NetDwellingsRangeTo,default,93
+3,NetDwellingsRangeFrom,default,15
 3,NetDwellingsRangeTo,default,15
-4,NetDwellingsRangeFrom,integer,1.5
+4,MinNetDwellings,integer,1.5
 4,NetDwellingsRangeFrom,missing,
 4,NetDwellingsRangeTo,missing,
 5,LastUpdatedDate,default,2019-12-16
@@ -15,7 +17,7 @@ row-number,field,issue-type,value
 5,NetDwellingsRangeFrom,missing,
 5,NetDwellingsRangeTo,missing,
 6,Hectares,decimal,0.39 Not owned by a public authority
-6,NetDwellingsRangeFrom,integer,9.75
+6,MinNetDwellings,integer,9.75
 6,Hectares,missing,
 6,NetDwellingsRangeFrom,missing,
 6,NetDwellingsRangeTo,missing,
@@ -30,14 +32,16 @@ row-number,field,issue-type,value
 7,NetDwellingsRangeTo,missing,
 8,Hectares,decimal,0.11 Not owned by a public authority
 8,PermissionType,enum,under an order
+8,NetDwellingsRangeFrom,default,29
 8,NetDwellingsRangeTo,default,29
 8,Hectares,missing,
 9,Hectares,decimal,6.26 Not owned by a public authority
-9,NetDwellingsRangeFrom,integer,156.5
+9,MinNetDwellings,integer,156.5
 9,Hectares,missing,
 9,NetDwellingsRangeFrom,missing,
 9,NetDwellingsRangeTo,missing,
 10,Hectares,decimal,3.8 Not owned by a public authority
+10,NetDwellingsRangeFrom,default,95
 10,NetDwellingsRangeTo,default,95
 10,Hectares,missing,
 11,LastUpdatedDate,default,2019-12-16
@@ -49,6 +53,7 @@ row-number,field,issue-type,value
 11,NetDwellingsRangeFrom,missing,
 11,NetDwellingsRangeTo,missing,
 12,Hectares,decimal,0.37 Not owned by a public authority
+12,NetDwellingsRangeFrom,default,12
 12,NetDwellingsRangeTo,default,12
 12,Hectares,missing,
 13,LastUpdatedDate,default,2019-12-16
@@ -59,7 +64,7 @@ row-number,field,issue-type,value
 13,NetDwellingsRangeFrom,missing,
 13,NetDwellingsRangeTo,missing,
 14,Hectares,decimal,0.09 Not owned by a public authority
-14,NetDwellingsRangeFrom,integer,2.25 06/2005/1124 for 25 apartments has now lapsed. CCP allocation SP4.6
+14,MinNetDwellings,integer,2.25 06/2005/1124 for 25 apartments has now lapsed. CCP allocation SP4.6
 14,Hectares,missing,
 14,NetDwellingsRangeFrom,missing,
 14,NetDwellingsRangeTo,missing,
@@ -71,26 +76,26 @@ row-number,field,issue-type,value
 15,Hectares,missing,
 15,NetDwellingsRangeFrom,missing,
 15,NetDwellingsRangeTo,missing,
-16,NetDwellingsRangeFrom,integer,45 lapsed.
+16,MinNetDwellings,integer,45 lapsed.
 16,NetDwellingsRangeFrom,missing,
 16,NetDwellingsRangeTo,missing,
-17,NetDwellingsRangeFrom,integer,2 06/2004/0757 change of use from offices to 6 apartments. Various permissions but none implemented.
+17,MinNetDwellings,integer,2 06/2004/0757 change of use from offices to 6 apartments. Various permissions but none implemented.
 17,NetDwellingsRangeFrom,missing,
 17,NetDwellingsRangeTo,missing,
-18,NetDwellingsRangeFrom,integer,1 06/2017/0074 change of use of part of ground floor anf first floor to 1 apartment
+18,MinNetDwellings,integer,1 06/2017/0074 change of use of part of ground floor anf first floor to 1 apartment
 18,NetDwellingsRangeFrom,missing,
 18,NetDwellingsRangeTo,missing,
-19,NetDwellingsRangeFrom,integer,1.5 06/2017/0251 for 19 apartments.
+19,MinNetDwellings,integer,1.5 06/2017/0251 for 19 apartments.
 19,NetDwellingsRangeFrom,missing,
 19,NetDwellingsRangeTo,missing,
-20,NetDwellingsRangeFrom,integer,8.25 06/2007/1092 for conversion to 45 apartments Not implemented
+20,MinNetDwellings,integer,8.25 06/2007/1092 for conversion to 45 apartments Not implemented
 20,NetDwellingsRangeFrom,missing,
 20,NetDwellingsRangeTo,missing,
-21,NetDwellingsRangeFrom,integer,32.5 PLP Site HS1.3. Still in employment use - redevelopment unlikely in short term.
+21,MinNetDwellings,integer,32.5 PLP Site HS1.3. Still in employment use - redevelopment unlikely in short term.
 21,NetDwellingsRangeFrom,missing,
 21,NetDwellingsRangeTo,missing,
 22,Hectares,decimal,0.29 Owned by a public authority
-22,NetDwellingsRangeFrom,integer,7.25 Site still vacant. No pp.
+22,MinNetDwellings,integer,7.25 Site still vacant. No pp.
 22,Hectares,missing,
 22,NetDwellingsRangeFrom,missing,
 22,NetDwellingsRangeTo,missing,
@@ -102,12 +107,12 @@ row-number,field,issue-type,value
 23,NetDwellingsRangeFrom,missing,
 23,NetDwellingsRangeTo,missing,
 24,Hectares,decimal,0.5 Not owned by a public authority
-24,NetDwellingsRangeFrom,integer,12.5 PLP Site HS1.12 No pp.
+24,MinNetDwellings,integer,12.5 PLP Site HS1.12 No pp.
 24,Hectares,missing,
 24,NetDwellingsRangeFrom,missing,
 24,NetDwellingsRangeTo,missing,
 25,Hectares,decimal,1.75 Not owned by a public authority
-25,NetDwellingsRangeFrom,integer,43.75 CCP Policy OP1 - Corporation Street. No pp. Still operational railway land?
+25,MinNetDwellings,integer,43.75 CCP Policy OP1 - Corporation Street. No pp. Still operational railway land?
 25,Hectares,missing,
 25,NetDwellingsRangeFrom,missing,
 25,NetDwellingsRangeTo,missing,
@@ -120,7 +125,7 @@ row-number,field,issue-type,value
 26,NetDwellingsRangeFrom,missing,
 26,NetDwellingsRangeTo,missing,
 27,Hectares,decimal,0.14 Unknown ownership
-27,NetDwellingsRangeFrom,integer,3.5 of appeal decision for adj property on Laurel St (06/2011/00297).
+27,MinNetDwellings,integer,3.5 of appeal decision for adj property on Laurel St (06/2011/00297).
 27,Hectares,missing,
 27,NetDwellingsRangeFrom,missing,
 27,NetDwellingsRangeTo,missing,
@@ -132,17 +137,17 @@ row-number,field,issue-type,value
 28,NetDwellingsRangeFrom,missing,
 28,NetDwellingsRangeTo,missing,
 29,Hectares,decimal,0.11 Unknown ownership
-29,NetDwellingsRangeFrom,integer,2.75 06/2002/0438 lapsed for student accommodation not implemented.
+29,MinNetDwellings,integer,2.75 06/2002/0438 lapsed for student accommodation not implemented.
 29,Hectares,missing,
 29,NetDwellingsRangeFrom,missing,
 29,NetDwellingsRangeTo,missing,
 30,Hectares,decimal,0.03 Not owned by a public authority
-30,NetDwellingsRangeFrom,integer,0.75 06/2011/0911 for Student accommodation has now lapsed. Time ext to 06/2008/0889
+30,MinNetDwellings,integer,0.75 06/2011/0911 for Student accommodation has now lapsed. Time ext to 06/2008/0889
 30,Hectares,missing,
 30,NetDwellingsRangeFrom,missing,
 30,NetDwellingsRangeTo,missing,
 31,Hectares,decimal,0.25 Not owned by a public authority
-31,NetDwellingsRangeFrom,integer,6.25
+31,MinNetDwellings,integer,6.25
 31,Hectares,missing,
 31,NetDwellingsRangeFrom,missing,
 31,NetDwellingsRangeTo,missing,
@@ -163,7 +168,7 @@ row-number,field,issue-type,value
 33,NetDwellingsRangeFrom,missing,
 33,NetDwellingsRangeTo,missing,
 34,Hectares,decimal,0.09 Not owned by a public authority
-34,NetDwellingsRangeFrom,integer,2.25 Mission building
+34,MinNetDwellings,integer,2.25 Mission building
 34,Hectares,missing,
 34,NetDwellingsRangeFrom,missing,
 34,NetDwellingsRangeTo,missing,
@@ -175,12 +180,12 @@ row-number,field,issue-type,value
 35,NetDwellingsRangeFrom,missing,
 35,NetDwellingsRangeTo,missing,
 36,Hectares,decimal,0.06 Not owned by a public authority
-36,NetDwellingsRangeFrom,integer,1.5 06/2008/0140 Student accom. PP lapsed
+36,MinNetDwellings,integer,1.5 06/2008/0140 Student accom. PP lapsed
 36,Hectares,missing,
 36,NetDwellingsRangeFrom,missing,
 36,NetDwellingsRangeTo,missing,
 37,Hectares,decimal,0.15 Not owned by a public authority
-37,NetDwellingsRangeFrom,integer,3.75 06/2016/1165 conversion of offices to 14 apartments
+37,MinNetDwellings,integer,3.75 06/2016/1165 conversion of offices to 14 apartments
 37,Hectares,missing,
 37,NetDwellingsRangeFrom,missing,
 37,NetDwellingsRangeTo,missing,
@@ -195,12 +200,12 @@ row-number,field,issue-type,value
 38,NetDwellingsRangeTo,missing,
 39,Hectares,decimal,0.7 Not owned by a public authority
 39,PermissionType,enum,under an order
-39,NetDwellingsRangeFrom,integer,"0 and offices (B1) at upper floors, to student accommodation"
+39,MinNetDwellings,integer,"0 and offices (B1) at upper floors, to student accommodation"
 39,Hectares,missing,
 39,NetDwellingsRangeFrom,missing,
 39,NetDwellingsRangeTo,missing,
 40,Hectares,decimal,0.29 Not owned by a public authority
-40,NetDwellingsRangeFrom,integer,7.25 Local Plan Allocation HS1.6. 06/2014/0972 erection of 11 townhouses
+40,MinNetDwellings,integer,7.25 Local Plan Allocation HS1.6. 06/2014/0972 erection of 11 townhouses
 40,Hectares,missing,
 40,NetDwellingsRangeFrom,missing,
 40,NetDwellingsRangeTo,missing,
@@ -215,7 +220,7 @@ row-number,field,issue-type,value
 41,NetDwellingsRangeTo,missing,
 42,Hectares,decimal,0.04 Not owned by a public authority
 42,PermissionType,enum,under an order
-42,NetDwellingsRangeFrom,integer,0 06/2013/0591 Prior notification submission for conversion from B1 offices to C3 residential.
+42,MinNetDwellings,integer,0 06/2013/0591 Prior notification submission for conversion from B1 offices to C3 residential.
 42,Hectares,missing,
 42,NetDwellingsRangeFrom,missing,
 42,NetDwellingsRangeTo,missing,
@@ -230,17 +235,17 @@ row-number,field,issue-type,value
 43,NetDwellingsRangeTo,missing,
 44,Hectares,decimal,0.03 Not owned by a public authority
 44,PermissionType,enum,under an order
-44,NetDwellingsRangeFrom,integer,0 residential.
+44,MinNetDwellings,integer,0 residential.
 44,Hectares,missing,
 44,NetDwellingsRangeFrom,missing,
 44,NetDwellingsRangeTo,missing,
 45,Hectares,decimal,0.02 Not owned by a public authority
-45,NetDwellingsRangeFrom,integer,0 06/2013/0752 Conversion of upper floors and attic to 9 flats.
+45,MinNetDwellings,integer,0 06/2013/0752 Conversion of upper floors and attic to 9 flats.
 45,Hectares,missing,
 45,NetDwellingsRangeFrom,missing,
 45,NetDwellingsRangeTo,missing,
 46,Hectares,decimal,0.08 Not owned by a public authority
-46,NetDwellingsRangeFrom,integer,2 06/2014/0084 Change of use from B1 offices to 8 apartments (C3).
+46,MinNetDwellings,integer,2 06/2014/0084 Change of use from B1 offices to 8 apartments (C3).
 46,Hectares,missing,
 46,NetDwellingsRangeFrom,missing,
 46,NetDwellingsRangeTo,missing,
@@ -254,23 +259,24 @@ row-number,field,issue-type,value
 47,NetDwellingsRangeFrom,missing,
 47,NetDwellingsRangeTo,missing,
 48,PermissionType,enum,under an order
-48,NetDwellingsRangeFrom,integer,0 (Class C3)
+48,MinNetDwellings,integer,0 (Class C3)
 48,NetDwellingsRangeFrom,missing,
 48,NetDwellingsRangeTo,missing,
+49,NetDwellingsRangeFrom,default,0
 49,NetDwellingsRangeTo,default,0
-50,NetDwellingsRangeFrom,integer,25 06/2014/0028 Erection of 14 dwellings following demolition of existing utility building.
+50,MinNetDwellings,integer,25 06/2014/0028 Erection of 14 dwellings following demolition of existing utility building.
 50,NetDwellingsRangeFrom,missing,
 50,NetDwellingsRangeTo,missing,
-51,NetDwellingsRangeFrom,integer,87.25 06/2015/0173 Erection of 7 dwellings following demolition of exisiting kennels etc.
+51,MinNetDwellings,integer,87.25 06/2015/0173 Erection of 7 dwellings following demolition of exisiting kennels etc.
 51,NetDwellingsRangeFrom,missing,
 51,NetDwellingsRangeTo,missing,
-52,NetDwellingsRangeFrom,integer,0.25 06/2015/0564 Conversion and extension of dwelling to create 7 bedsits.
+52,MinNetDwellings,integer,0.25 06/2015/0564 Conversion and extension of dwelling to create 7 bedsits.
 52,NetDwellingsRangeFrom,missing,
 52,NetDwellingsRangeTo,missing,
-53,NetDwellingsRangeFrom,integer,37.5 Local Plan Allocation HS1.1
+53,MinNetDwellings,integer,37.5 Local Plan Allocation HS1.1
 53,NetDwellingsRangeFrom,missing,
 53,NetDwellingsRangeTo,missing,
-54,NetDwellingsRangeFrom,integer,107.5 Local Plan Allocation HS1.2 Not all of site will come forward in 5 yrs. Housing Zone site.
+54,MinNetDwellings,integer,107.5 Local Plan Allocation HS1.2 Not all of site will come forward in 5 yrs. Housing Zone site.
 54,NetDwellingsRangeFrom,missing,
 54,NetDwellingsRangeTo,missing,
 55,LastUpdatedDate,default,2019-12-16
@@ -281,17 +287,17 @@ row-number,field,issue-type,value
 55,NetDwellingsRangeFrom,missing,
 55,NetDwellingsRangeTo,missing,
 56,Hectares,decimal,0.71 Not owned by a public authority
-56,NetDwellingsRangeFrom,integer,17.75 Local Plan Allocation HS1.7 & 06/2014/0494 Erection of three storey terrace of 4no. town houses
+56,MinNetDwellings,integer,17.75 Local Plan Allocation HS1.7 & 06/2014/0494 Erection of three storey terrace of 4no. town houses
 56,Hectares,missing,
 56,NetDwellingsRangeFrom,missing,
 56,NetDwellingsRangeTo,missing,
 57,Hectares,decimal,0.2 Unknown ownership
-57,NetDwellingsRangeFrom,integer,5 SP4.3
+57,MinNetDwellings,integer,5 SP4.3
 57,Hectares,missing,
 57,NetDwellingsRangeFrom,missing,
 57,NetDwellingsRangeTo,missing,
 58,Hectares,decimal,0.4 Unknown ownership
-58,NetDwellingsRangeFrom,integer,10 SP4.4
+58,MinNetDwellings,integer,10 SP4.4
 58,Hectares,missing,
 58,NetDwellingsRangeFrom,missing,
 58,NetDwellingsRangeTo,missing,

@@ -1,10 +1,12 @@
 row-number,field,issue-type,value
+26,MinNetDwellings,integer,12.25
 26,NetDwellingsRangeFrom,missing,
 26,NetDwellingsRangeTo,missing,
 33,NetDwellingsRangeFrom,missing,
 33,NetDwellingsRangeTo,missing,
 37,NetDwellingsRangeFrom,missing,
 37,NetDwellingsRangeTo,missing,
+42,MinNetDwellings,integer,158.1564722
 42,NetDwellingsRangeFrom,missing,
 42,NetDwellingsRangeTo,missing,
 46,NetDwellingsRangeFrom,missing,
@@ -61,6 +63,7 @@ row-number,field,issue-type,value
 85,NetDwellingsRangeTo,missing,
 86,NetDwellingsRangeFrom,missing,
 86,NetDwellingsRangeTo,missing,
+87,MinNetDwellings,integer,36.75
 87,NetDwellingsRangeFrom,missing,
 87,NetDwellingsRangeTo,missing,
 88,NetDwellingsRangeFrom,missing,
@@ -69,6 +72,7 @@ row-number,field,issue-type,value
 89,NetDwellingsRangeTo,missing,
 90,NetDwellingsRangeFrom,missing,
 90,NetDwellingsRangeTo,missing,
+91,MinNetDwellings,integer,157.5
 91,NetDwellingsRangeFrom,missing,
 91,NetDwellingsRangeTo,missing,
 92,NetDwellingsRangeFrom,missing,
@@ -89,6 +93,7 @@ row-number,field,issue-type,value
 99,NetDwellingsRangeTo,missing,
 100,NetDwellingsRangeFrom,missing,
 100,NetDwellingsRangeTo,missing,
+101,MinNetDwellings,integer,50.31576215
 101,NetDwellingsRangeFrom,missing,
 101,NetDwellingsRangeTo,missing,
 102,NetDwellingsRangeFrom,missing,
