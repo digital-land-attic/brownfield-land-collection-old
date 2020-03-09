@@ -331,6 +331,23 @@
             }
         },
         {
+            "name": "MinNetDwellings",
+            "title": "Minimum dwellings",
+            "description": "Minimum net dwellings, deprecated, replaced by NetDwellingsRangeFrom",
+            "type": "integer",
+            "constraints": {
+                "required": false
+            },
+            "digital-land": {
+                "deprecated": true,
+                "typos": [
+                  "MINHOMES",
+                  "Min dwellings",
+                  "MINIMUM NET DWELLINGS"
+                ]
+            }
+        },
+        {
             "name": "NetDwellingsRangeFrom",
             "title": "Net dwellings range from",
             "description": "The minimum number of dwellings that the local authority estimates the site should support, as defined in http://www.legislation.gov.uk/uksi/2017/403/regulation/2/made",
@@ -340,13 +357,8 @@
             },
             "digital-land": {
                 "field": "minimum-net-dwellings",
-                "default": "NetDwellingsRangeTo",
-                "typos": [
-                  "MINHOMES",
-                  "Min dwellings",
-                  "MinNetDwellings",
-                  "MINIMUM NET DWELLINGS"
-                ]
+                "default": ["MinNetDwellings", "NetDwellingsRangeTo"],
+                "typos": []
             }
         },
         {
@@ -359,7 +371,7 @@
             },
             "digital-land": {
                 "field": "maximum-net-dwellings",
-                "default": "NetDwellingsRangeFrom",
+                "default": ["NetDwellingsRangeFrom", "MinNetDwellings"],
                 "typos": [
                   "Max dwellings",
                   "MAXIMUM NET DWELLINGS"
@@ -428,7 +440,7 @@
                 "required": true
             },
             "digital-land": {
-                "default": "FirstAddedDate",
+                "default": ["FirstAddedDate"],
                 "field": "entry-date",
                 "typos": [
                   "LastUpdate",

@@ -33,6 +33,10 @@ fields = {field["name"]: field for field in schema["fields"]}
 fieldnames = [
     field["name"]
     for field in schema["fields"]
+]
+output_fieldnames = [
+    field["name"]
+    for field in schema["fields"]
     if not field["digital-land"].get("deprecated", False)
 ]
 required_fields = [
@@ -386,7 +390,8 @@ def set_default(o, field, value):
 
 def default(o):
     for field in default_fields:
-        o = set_default(o, field, o[default_fields[field]])
+        for f in default_fields[field]:
+            o = set_default(o, field, o.get(f, ""))
 
     for field in default_values:
         o = set_default(o, field, default_values[field])
@@ -402,7 +407,7 @@ if __name__ == "__main__":
     load_resource_defaults(input_path)
 
     with open(output_path, "w", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=output_fieldnames, extrasaction='ignore')
         writer.writeheader()
 
         for row in reader:
