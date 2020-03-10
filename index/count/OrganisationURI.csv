@@ -44,6 +44,7 @@ OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/st-helens,304
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/wakefield,299
 OrganisationURI,http://opendatacommunities.org/id/district-council/norwich,296
+OrganisationURI,http://opendatacommunities.org/id/district-council/stratford,292
 OrganisationURI,http://opendatacommunities.org/id/district-council/charnwood,290
 OrganisationURI,"",276
 OrganisationURI,http://opendatacommunities.org/id/district-council/lewes,271
@@ -77,7 +78,6 @@ OrganisationURI,http://opendatacommunities.org/id/unitary-authority/slough,200
 OrganisationURI,http://opendatacommunities.org/id/district-council/northampton,199
 OrganisationURI,http://opendatacommunities.org/id/district-council/basildon,197
 OrganisationURI,http://opendatacommunities.org/id/district-council/basingstoke,194
-OrganisationURI,http://opendatacommunities.org/id/district-council/stratford,193
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/rotherham,192
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/barking-and-dagenham,189
 OrganisationURI,http://opendatacommunities.org/id/district-council/eden,188
@@ -142,7 +142,9 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/wyre-forest,1
 OrganisationURI,http://opendatacommunities.org/id/district-council/preston,106
 OrganisationURI,http://opendatacommunities.org/id/district-council/derbyshire-dales,106
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/sutton,103
+OrganisationURI,http://opendatacommunities.org/id/district-council/worcester,103
 OrganisationURI,E06000041,103
+OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000219,102
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/newcastle,101
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/isle-of-wight,100
 OrganisationURI,http://opendatacommunities.org/id/district-council/worthing,100
@@ -220,7 +222,6 @@ OrganisationURI,http://opendatacommunities.org/doc/district-council/north-hertfo
 OrganisationURI,http://opendatacommunities.org/id/district-council/adur,64
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000089,63
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000061,63
-OrganisationURI,http://opendatacommunities.org/id/district-council/worcester,63
 OrganisationURI,http://opendatacommunities.org/doc/district-council/copeland,63
 OrganisationURI,http://opendatacommunities.org/id/district-council/south-holland,62
 OrganisationURI,http://opendatacommunities.org/id/district-council/broadland,62
@@ -248,7 +249,6 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/south-bucks,5
 OrganisationURI,http://opendatacommunities.org/id/district-council/carlisle,54
 OrganisationURI,http://opendatacommunities.org/id/district-council/chichester,53
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/npark/E26000007,52
-OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000219,52
 OrganisationURI,http://opendatacommunities.org/id/district-council/stafford,52
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/solihull,51
 OrganisationURI,http://opendatacommunities.org/id/district-council/weymouth-and-portland,50

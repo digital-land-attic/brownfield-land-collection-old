@@ -1,12 +1,12 @@
 field,value,count
-PermissionType,"",23281
-PermissionType,full planning permission,17893
+PermissionType,"",23303
+PermissionType,full planning permission,18019
 PermissionType,full planning permis,2753
-PermissionType,outline planning permission,2478
+PermissionType,outline planning permission,2493
 PermissionType,Full planning permission,1826
 PermissionType,other,1613
 PermissionType,Full Planning Permission,1308
-PermissionType,reserved matters approval,819
+PermissionType,reserved matters approval,821
 PermissionType,planning permission granted under an order,422
 PermissionType,Other,414
 PermissionType,Full,361
@@ -21,13 +21,14 @@ PermissionType,Reserved matters approval,90
 PermissionType,Full Planning Permis,78
 PermissionType,Outline,68
 PermissionType,Prior Approval,57
-PermissionType,permission in principle,50
+PermissionType,permission in principle,51
 PermissionType,Full planning,46
 PermissionType,Full planning permisison,42
 PermissionType,Planning permission granted under an order,39
 PermissionType,reserved matters app,36
 PermissionType,FULL PLANNING PERMISSION,35
 PermissionType,Reserved Matters,34
+PermissionType,Not Permissioned,34
 PermissionType,Full planning Permission,34
 PermissionType,full planning application,33
 PermissionType,Outline Planning,32
@@ -37,7 +38,6 @@ PermissionType,Expired,25
 PermissionType,Outline planning per,22
 PermissionType,determination for permitted development,20
 PermissionType,techincal details consent,18
-PermissionType,Not Permissioned,17
 PermissionType,prior notification,16
 PermissionType,permissioned,13
 PermissionType,MAF,13
@@ -57,6 +57,7 @@ PermissionType,Under Construction,7
 PermissionType,Permission in principle,7
 PermissionType,Reserve Matters,6
 PermissionType,Outline permission,6
+PermissionType,Ouline permission,6
 PermissionType,under an order,5
 PermissionType,planning permission granted,5
 PermissionType,OUTLINE PLANNING PERMISSION,5
