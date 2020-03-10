@@ -638,6 +638,7 @@ local-authority-eng:STN,https://moderngov.sutton.gov.uk/ieDecisionDetails.aspx?I
 local-authority-eng:STO,,https://www.stroud.gov.uk/media/557932/stroud_brownfieldregister_2017-12-18_rev1.csv,2017-12-18,
 local-authority-eng:STO,https://www.stroud.gov.uk/environment/planning-and-building-control/planning-strategy/brownfield-land-register,https://www.stroud.gov.uk/media/1120941/brownfield-landcsv.csv,,
 local-authority-eng:STR,https://www.stratford.gov.uk/planning-regeneration/brownfield-land-register.cfm,https://www.stratford.gov.uk/doc/206607/name/BrownfieldLandRegistercsv.csv,,
+local-authority-eng:STR,https://www.stratford.gov.uk/planning-building/brownfield-land-register.cfm,https://www.stratford.gov.uk/doc/209085/name/stratford%20brownfieldregister%202019%20.csv,2020-03-10,
 local-authority-eng:STT,https://www.stockton.gov.uk/economic-regeneration-and-transport/planning-policy/self-build-and-custom-housebuilding-and-brownfield-land-register/,https://www.stockton.gov.uk/media/876534/stockton_brownfieldregister_2017-12-31_1.csv,2017-12-31,
 local-authority-eng:STT,https://www.stockton.gov.uk/economic-regeneration-and-transport/planning-policy/self-build-and-custom-housebuilding-and-brownfield-land-register/,https://www.stockton.gov.uk/media/1585243/stockton_brownfieldregister_2018-12-15_rev2.csv,2018-12-15,
 local-authority-eng:STV,http://www.stevenage.gov.uk/149690/planning-policy/189023/,http://www.stevenage.gov.uk/content/15953/26379/191816/Brownfield-Land-Register-2017.xls,,
