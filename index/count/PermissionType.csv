@@ -1,8 +1,8 @@
 field,value,count
-PermissionType,"",23196
-PermissionType,full planning permission,17844
+PermissionType,"",23211
+PermissionType,full planning permission,17866
 PermissionType,full planning permis,2753
-PermissionType,outline planning permission,2468
+PermissionType,outline planning permission,2476
 PermissionType,Full planning permission,1826
 PermissionType,other,1604
 PermissionType,Full Planning Permission,1297
@@ -113,6 +113,7 @@ PermissionType,Residential Development,1
 PermissionType,Reserved matters,1
 PermissionType,Reserved Matters Application,1
 PermissionType,Renewal - full planning permission,1
+PermissionType,Prior notification,1
 PermissionType,Prior approval,1
 PermissionType,Pending,1
 PermissionType,Outline Planning Permission with all matters reserved,1

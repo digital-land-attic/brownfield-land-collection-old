@@ -18,6 +18,7 @@ AREA_Ha_,1
 Achieavble,1
 Achievable,1
 Achievable comment (Reg 4 (1)(d)),1
+AchievableComment (Reg 4 (1)(d)),1
 AdditionReference,4
 Additional Notes,3
 AdditionalNotes,3
@@ -64,6 +65,7 @@ Area of Land in Hectares,2
 AreaOfOutstandingNaturalBeautyDevelopmentPlanDocumentReference,1
 Authority,1
 Available comment (Reg 4 (1)(c)),1
+AvailableComment (Reg 4 (1)(c)),1
 B1,2
 B2,2
 B8,2
@@ -112,7 +114,7 @@ Coordinate referencing system,1
 CoordinateRef. System,1
 CoordinateRefSystem,1
 CoordinateReference System,1
-CoordinateReferenceSystem,666
+CoordinateReferenceSystem,667
 CoordinateReferenceSystem2,1
 CoordinateReferenceSystem3,1
 CoordinateReferenceSystem_ETRS89,1
@@ -146,7 +148,7 @@ DateUpdate,2
 Date_Permission,1
 Decision_Date,3
 Deliverabl,3
-Deliverable,791
+Deliverable,792
 Deliverable - mandatory if yes,1
 Description,2
 Description of Proposed Development,3
@@ -160,7 +162,7 @@ Development Status: extant/ commc'd./ part. compltd.,1
 Development description,1
 Development status (if site has full PP),1
 DevelopmentDesciption,1
-DevelopmentDescription,645
+DevelopmentDescription,646
 DevelopmentDescription - mandatory where relevant,1
 Developmentdescription,3
 Discription/Notes,1
@@ -175,7 +177,7 @@ Eastings,6
 Eastings (Geo X),1
 EffectiveDate,2
 End Date,1
-EndDate,88
+EndDate,89
 EndReason,1
 Enddate,1
 Error,1
@@ -196,7 +198,7 @@ FirstAdd,1
 FirstAdded,4
 "FirstAdded
 Date",3
-FirstAddedDate,747
+FirstAddedDate,748
 FirstAddedDate1,2
 FirstAddedDateBR,2
 FirstDateAdded,1
@@ -211,14 +213,14 @@ Geo Longitude,2
 Geo X,9
 Geo Y,9
 GeoPointLicensingURL,2
-GeoX,788
+GeoX,789
 GeoX (Longitude or east grid),3
 GeoX [East],2
 GeoX_2,1
 GeoX_3,1
 GeoX_ETRS89,1
 GeoX_WGS84,1
-GeoY,788
+GeoY,789
 GeoY (Latitude or north grid),3
 GeoY [North],2
 GeoY_2,1
@@ -245,10 +247,10 @@ Hazardous Substances Regs 2015,2
 Hazardous Substances [as identifiied in Appl. form],1
 Hazardous substances,3
 HazardousS,3
-HazardousSubstances,709
+HazardousSubstances,710
 HazardousSubtances,2
 HazourdousSubstances,2
-Hectares,800
+Hectares,801
 Hectares (gross),2
 Housing Delivery Estimate,8
 Housing Est (remaining),1
@@ -301,7 +303,7 @@ LastUpdateDate,4
 LastUpdated,2
 "LastUpdated
 Date",3
-LastUpdatedDate,730
+LastUpdatedDate,731
 LastUpdatedDate1,2
 Last_updated_Date,1
 Latest_MostRelevantResidentialApplication,1
@@ -344,7 +346,7 @@ MinHomes,5
 Dwellings",3
 MinNet Dwellings,3
 MinNetDwel,2
-MinNetDwellings,659
+MinNetDwellings,660
 MinNetDwellingsComment,4
 Min_Capacity,1
 Minimum Net Dwellings,2
@@ -388,10 +390,10 @@ NetDwell_1,1
 NetDwellin,3
 NetDwellingRangeTo,2
 NetDwellingsRangeForm,7
-NetDwellingsRangeFrom,716
+NetDwellingsRangeFrom,717
 NetDwellingsRangeFrom - mandatory where relevant,1
 NetDwellingsRangeFromComment,4
-NetDwellingsRangeTo,709
+NetDwellingsRangeTo,710
 NetDwellingsRangeTo - mandatory where relevant,1
 NetDwellingsRangeToComment,4
 NetDwellingsRangeto,7
@@ -416,14 +418,14 @@ NonHousing Development,5
 NonHousing development,3
 NonHousingDeveloment,2
 NonHousingDevelopemnt,1
-NonHousingDevelopment,646
+NonHousingDevelopment,647
 NonHousingDevelopment - mandatory where relevant,1
 Non_Resi_Dev,1
 Northing,120
 Northings,7
 Northings (Geo Y),1
 Note,1
-Notes,784
+Notes,785
 Notes UPRN for sites,1
 Notes.1,1
 OBJECTID,11
@@ -464,8 +466,8 @@ Organisation URI,25
 Organisation URL,13
 Organisation Uri,2
 Organisation label,1
-OrganisationLabel,667
-OrganisationURI,742
+OrganisationLabel,668
+OrganisationURI,743
 OrganisationURL,14
 OrganisationURl,3
 OrganisationUrI,1
@@ -494,7 +496,7 @@ Ownership Status,47
 Ownership status,4
 "Ownership: PA_owner, not PA_own., mixed_o'ship, unknown",1
 OwnershipS,3
-OwnershipStatus,752
+OwnershipStatus,753
 Ownership_Status,1
 Ownership_Status: PA_owned [Public Autho-rity]; not PA_owned; mix. ownership; unknown,1
 PA1Status,3
@@ -529,7 +531,7 @@ PROPOSED FOR PIP,3
 PROPOSEDFORPIP,7
 Parish,8
 Part 2,35
-Part2,633
+Part2,634
 Part2 - mandatory where relevant,1
 Part2allocation,2
 PermiDate,2
@@ -546,13 +548,13 @@ Permission Types as req. by Gov.,1
 Permission Types as required in BFLR,1
 Permission date,1
 Permission type,2
-PermissionDate,737
+PermissionDate,738
 PermissionDate -  - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.,1
 PermissionDate1,2
 PermissionDatePlanningHistory,1
 PermissionHistory,4
 PermissionTyne,2
-PermissionType,743
+PermissionType,744
 PermissionType - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.,1
 PeviouslyPartof,1
 Plan,1
@@ -585,12 +587,12 @@ PlanningAuthority1,15
 PlanningAuthority2,15
 PlanningAuthority3,15
 PlanningHi,3
-PlanningHistory,728
+PlanningHistory,729
 PlanningHistory (URL),1
 PlanningHistoryURL,1
 PlanningReference,7
 PlanningSt,4
-PlanningStatus,751
+PlanningStatus,752
 Planning_Status,2
 Planning_Status_Reference,2
 Planningapplicationreference,1
@@ -607,7 +609,7 @@ Previously Part Of,31
 Previously Part of,1
 Previously PartOf,2
 Previously part of,3
-PreviouslyPartOf,638
+PreviouslyPartOf,639
 PreviouslyPartof,5
 Primary Source of Identification at DATE,2
 Progress,1
@@ -620,7 +622,7 @@ Proposed for PIP,8
 Proposed for PiP,4
 ProposedFo,2
 ProposedFor PIP,2
-ProposedForPIP,600
+ProposedForPIP,601
 ProposedForPIP - mandatory if yes,1
 ProposedForPiP,7
 Proposed_U,1
@@ -715,7 +717,7 @@ SiteAreasqm,3
 SiteInfo,1
 SiteInfomation,2
 SiteInform,2
-SiteInformation,630
+SiteInformation,631
 SiteInformation - mandatory where relevant,1
 SiteInformation1,1
 SiteInformation2,1
@@ -723,13 +725,13 @@ SiteName,5
 SiteName Address,2
 SiteName/Address,1
 SiteNameAd,3
-SiteNameAddress,754
+SiteNameAddress,755
 SiteNameAddresss,1
 SitePlanURL,78
 SitePlanURL CoordinateReferenceSystem,1
 SiteProforma,3
 SiteRefere,3
-SiteReference,743
+SiteReference,744
 SiteReference (also SHLAA Reference),3
 SiteReferenceAlternate,1
 Site_Address,1
@@ -740,7 +742,7 @@ Siteplan,7
 Siteplan URL,11
 SiteplanUR,3
 SiteplanURI,1
-SiteplanURL,665
+SiteplanURL,666
 Siteref,1
 SortOrder,2
 Source,9
@@ -752,6 +754,7 @@ Status update,1
 StrategicHousingLandAvailabilityAssessmentReference,1
 Sui Generis,2
 Suitable comment (Reg 4 (1)(b)),1
+SuitableComment (Reg 4 (1)(b)),1
 Supersed'/ c' replace,1
 Superseded or replaced previous planning application,1
 Supportg. 5+ dwellings or more than 0.25ha i.size,1
