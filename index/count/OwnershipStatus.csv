@@ -8,7 +8,7 @@ OwnershipStatus,unkown ownership,2160
 OwnershipStatus,"",2079
 OwnershipStatus,mixed ownership,1450
 OwnershipStatus,Owned by a public authority,1083
-OwnershipStatus,Unknown,870
+OwnershipStatus,Unknown,978
 OwnershipStatus,Unknown Ownership,861
 OwnershipStatus,Not in public ownership,421
 OwnershipStatus,Mixed ownership,387
@@ -55,6 +55,9 @@ OwnershipStatus,Owned by a public authority.,8
 OwnershipStatus,Not Owned by a public authority,8
 OwnershipStatus,mixed,6
 OwnershipStatus,Public - Thurrock Council,6
+OwnershipStatus,Swindon Borough Council,4
+OwnershipStatus,Private Individual,4
+OwnershipStatus,Private Company,4
 OwnershipStatus,OWNED BY A PUBLIC AUTHORITY,4
 OwnershipStatus,MultipleOwners,4
 OwnershipStatus,Mixed,4
@@ -66,10 +69,8 @@ OwnershipStatus,owned by a public authorty,2
 OwnershipStatus,owned by a public authority (part),2
 OwnershipStatus,Unknown owership,2
 OwnershipStatus,Unknown owenrship,2
-OwnershipStatus,Swindon Borough Council,2
+OwnershipStatus,Swindon Borough Council and others,2
 OwnershipStatus,Public authority,2
-OwnershipStatus,Private Individual,2
-OwnershipStatus,Private Company,2
 OwnershipStatus,PA_owned,2
 OwnershipStatus,Not owned by a public authoritity.,2
 OwnershipStatus,Not owned by  apublic authority,2
@@ -80,7 +81,6 @@ OwnershipStatus,ownership unknown,1
 OwnershipStatus,owmed by a public authority,1
 OwnershipStatus,Unknown ownerhip,1
 OwnershipStatus,Unknown Owership,1
-OwnershipStatus,Swindon Borough Council and others,1
 OwnershipStatus,Qwned by a public authority,1
 OwnershipStatus,Part owned Kent Highway Services,1
 OwnershipStatus,Part Public part Not in Public Ownership,1

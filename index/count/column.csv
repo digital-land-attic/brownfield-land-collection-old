@@ -107,7 +107,7 @@ Coodinate_Reference_System,1
 Coordinate,3
 "Coordinate
 ReferenceSystem",2
-Coordinate Reference System,31
+Coordinate Reference System,32
 Coordinate referencing system,1
 CoordinateRef. System,1
 CoordinateRefSystem,1
@@ -146,7 +146,7 @@ DateUpdate,2
 Date_Permission,1
 Decision_Date,3
 Deliverabl,3
-Deliverable,786
+Deliverable,787
 Deliverable - mandatory if yes,1
 Description,2
 Description of Proposed Development,3
@@ -155,7 +155,7 @@ Developable area (ha),1
 Developed: extant/ commc'd./ part. compltd.,1
 Developmen,2
 Development,1
-Development Description,45
+Development Description,46
 Development Status: extant/ commc'd./ part. compltd.,1
 Development description,1
 Development status (if site has full PP),1
@@ -174,6 +174,7 @@ Easting,121
 Eastings,6
 Eastings (Geo X),1
 EffectiveDate,2
+End Date,1
 EndDate,86
 EndReason,1
 Enddate,1
@@ -210,14 +211,14 @@ Geo Longitude,2
 Geo X,9
 Geo Y,9
 GeoPointLicensingURL,2
-GeoX,782
+GeoX,783
 GeoX (Longitude or east grid),3
 GeoX [East],2
 GeoX_2,1
 GeoX_3,1
 GeoX_ETRS89,1
 GeoX_WGS84,1
-GeoY,782
+GeoY,783
 GeoY (Latitude or north grid),3
 GeoY [North],2
 GeoY_2,1
@@ -247,7 +248,7 @@ HazardousS,3
 HazardousSubstances,706
 HazardousSubtances,2
 HazourdousSubstances,2
-Hectares,794
+Hectares,795
 Hectares (gross),2
 Housing Delivery Estimate,8
 Housing Est (remaining),1
@@ -334,7 +335,7 @@ Max dwellings,1
 Maximum amount of Dwellings,3
 Min Dwellings,1
 Min Net Dwelling,2
-Min Net Dwellings,34
+Min Net Dwellings,35
 Min dwellings,1
 Min-Max range of Net Dwellings,2
 MinDetDwellings,3
@@ -404,7 +405,7 @@ NewDwellingsRangeFrom,1
 NewDwellingsRangeTo,1
 NewToSHLAA,2
 No. of dwellings granted (net),1
-Non Housing Development,29
+Non Housing Development,30
 Non housing Development,2
 Non housing development,1
 Non-Housing Development,2
@@ -458,9 +459,9 @@ Organisati,1
 Organisation,1
 "Organisation
 Label",1
-Organisation Label,36
+Organisation Label,37
 Organisation URI,25
-Organisation URL,12
+Organisation URL,13
 Organisation Uri,2
 Organisation label,1
 OrganisationLabel,663
@@ -489,7 +490,7 @@ Owners (if public sector or HA),3
 Ownership,3
 Ownership 2,1
 Ownership Information,3
-Ownership Status,45
+Ownership Status,46
 Ownership status,4
 "Ownership: PA_owner, not PA_own., mixed_o'ship, unknown",1
 OwnershipS,3
@@ -538,9 +539,9 @@ Permissi_1,1
 Permission,1
 "Permission
 Date",1
-Permission Date,45
+Permission Date,46
 Permission History,1
-Permission Type,41
+Permission Type,42
 Permission Types as req. by Gov.,1
 Permission Types as required in BFLR,1
 Permission date,1
@@ -562,14 +563,14 @@ Planning Application Link,1
 Planning Application Number,1
 Planning Application Number and link to documents,1
 Planning Application Reference,1
-Planning History,44
+Planning History,45
 Planning History URL,1
 Planning History link,2
 Planning Permission,1
 Planning Permission Status,2
 Planning Reference,1
 Planning Reference Number,1
-Planning Status,51
+Planning Status,52
 Planning application Reference,1
 Planning history,2
 Planning ref,3
@@ -602,7 +603,7 @@ PrevSHLAARef,1
 Previous Use,2
 PreviousReference,2
 Previously,2
-Previously Part Of,29
+Previously Part Of,30
 Previously Part of,1
 Previously PartOf,2
 Previously part of,3
@@ -612,7 +613,7 @@ Primary Source of Identification at DATE,2
 Progress,1
 PropUse,1
 Proposed For PIP,23
-Proposed For PiP,2
+Proposed For PiP,3
 Proposed ForPIP,2
 Proposed Use,2
 Proposed for PIP,8
@@ -689,14 +690,14 @@ Site Information / constrains,1
 Site Information3,1
 Site Name,5
 Site Name & Address,2
-Site Name Address,32
+Site Name Address,33
 "Site Name, Address",1
 "Site Name, Address, Postcode",1
 Site Plan,1
 Site Plan URL,23
 Site Ref,3
 Site Ref.,1
-Site Reference,48
+Site Reference,49
 Site UPRN,1
 Site URL,1
 Site Yes (within 5 years),2
@@ -736,7 +737,7 @@ Site_Name,1
 Site_Plan_URL,1
 Site_Ref,1
 Siteplan,7
-Siteplan URL,10
+Siteplan URL,11
 SiteplanUR,3
 SiteplanURI,1
 SiteplanURL,661

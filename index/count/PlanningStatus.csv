@@ -1,13 +1,13 @@
 field,value,count
 PlanningStatus,permissioned,23421
 PlanningStatus,not permissioned,13327
-PlanningStatus,Permissioned,8631
-PlanningStatus,Not permissioned,2286
+PlanningStatus,Permissioned,8692
+PlanningStatus,Not permissioned,2334
 PlanningStatus,Not Permissioned,2105
 PlanningStatus,"",2044
 PlanningStatus,pending decision,1465
 PlanningStatus,Full Planning Permission,430
-PlanningStatus,Pending decision,323
+PlanningStatus,Pending decision,327
 PlanningStatus,Other Commitment,230
 PlanningStatus,Under Construction,114
 PlanningStatus,permission,100
@@ -33,6 +33,7 @@ PlanningStatus,completing,7
 PlanningStatus,NOT PERMISSIONED,5
 PlanningStatus,under construction,4
 PlanningStatus,pending Decision,4
+PlanningStatus,Allocation,4
 PlanningStatus,Outline consent,3
 PlanningStatus,No permissioned,3
 PlanningStatus,Approved,3
@@ -48,7 +49,6 @@ PlanningStatus,Outline permission,2
 PlanningStatus,Not permissionsed,2
 PlanningStatus,Not Permissed,2
 PlanningStatus,Completed During 2016/7,2
-PlanningStatus,Allocation,2
 PlanningStatus,reserve mattes permi,1
 PlanningStatus,outline planning permission,1
 PlanningStatus,outline permission,1
