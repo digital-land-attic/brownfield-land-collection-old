@@ -9,10 +9,10 @@ OrganisationLabel,Croydon Council,759
 OrganisationLabel,Brighton & Hove City Council,712
 OrganisationLabel,Leeds City Council,708
 OrganisationLabel,London Borough of Wandsworth,691
+OrganisationLabel,Barnet London Borough Council,691
 OrganisationLabel,London Borough of Brent,658
 OrganisationLabel,Bristol City Council,651
 OrganisationLabel,Sheffield City Council,631
-OrganisationLabel,Barnet London Borough Council,606
 OrganisationLabel,London Borough of Islington,570
 OrganisationLabel,London Borough of Redbridge,558
 OrganisationLabel,London Borough of Lewisham,497
@@ -95,6 +95,7 @@ OrganisationLabel,North Tyneside Council,144
 OrganisationLabel,Nuneaton and Bedworth Borough Council,142
 OrganisationLabel,Oldham Council,141
 OrganisationLabel,Waverley Borough Council,131
+OrganisationLabel,Cheltenham Borough Council,131
 OrganisationLabel,Bury Council,129
 OrganisationLabel,South Ribble,128
 OrganisationLabel,Reigate & Banstead Borough Council,128
@@ -125,7 +126,6 @@ OrganisationLabel,East Riding of Yorkshire,99
 OrganisationLabel,Forest of Dean District Council,98
 OrganisationLabel,Borough Council of Kings Lynn and West Norfolk,98
 OrganisationLabel,Barnsley Metropolitan Borough Council,98
-OrganisationLabel,Cheltenham Borough Council,97
 OrganisationLabel,Brentwood Borough Council,96
 OrganisationLabel,West Berkshire District Council,95
 OrganisationLabel,Knowsley Metropolitan Borough Council,95
@@ -181,6 +181,7 @@ OrganisationLabel,Peterborough,72
 OrganisationLabel,Horsham District Council,71
 OrganisationLabel,Elmbridge Borough Council,71
 OrganisationLabel,Three Rivers District Council,68
+OrganisationLabel,North Warwickshire Borough Council,67
 OrganisationLabel,North East Lincolnshire Council,67
 OrganisationLabel,Newcastle-under-Lyme Borough Council,66
 OrganisationLabel,Stroud District Council,65
@@ -261,7 +262,6 @@ OrganisationLabel,New Forest National Park,33
 OrganisationLabel,Chichester District Council,33
 OrganisationLabel,Blackburn with Darwen Borough Council,33
 OrganisationLabel,Warwick District Council,31
-OrganisationLabel,North Warwickshire Borough Council,31
 OrganisationLabel,Mid Devon,31
 OrganisationLabel,West Oxfordshire,30
 OrganisationLabel,Swale Borough Council,29

@@ -1,11 +1,11 @@
 field,value,count
-OwnershipStatus,not owned by a public authority,24382
-OwnershipStatus,unknown ownership,5713
+OwnershipStatus,not owned by a public authority,24459
+OwnershipStatus,unknown ownership,5714
 OwnershipStatus,Not owned by a public authority,5311
-OwnershipStatus,owned by a public authority,4326
+OwnershipStatus,owned by a public authority,4333
 OwnershipStatus,Unknown ownership,3401
 OwnershipStatus,unkown ownership,2160
-OwnershipStatus,"",2079
+OwnershipStatus,"",2147
 OwnershipStatus,mixed ownership,1450
 OwnershipStatus,Owned by a public authority,1083
 OwnershipStatus,Unknown,978
@@ -50,10 +50,10 @@ OwnershipStatus,in public ownership,9
 OwnershipStatus,Owned by a  Public Authority,9
 OwnershipStatus,unknown owner,8
 OwnershipStatus,not owned by a public authority ,8
+OwnershipStatus,mixed,8
 OwnershipStatus,Unknown owner,8
 OwnershipStatus,Owned by a public authority.,8
 OwnershipStatus,Not Owned by a public authority,8
-OwnershipStatus,mixed,6
 OwnershipStatus,Public - Thurrock Council,6
 OwnershipStatus,Swindon Borough Council,4
 OwnershipStatus,Private Individual,4
