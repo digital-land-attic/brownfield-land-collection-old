@@ -169,6 +169,7 @@ link,url
 36440d2479b935805c1d13fcb46b78968ba968c959b9e7d465fa4c95b9d04c01,http://inspire.misoportal.com/csv/files/kirklees_council/BLR_2018.csv
 366917eed36250b071041a6b3a089337c504991aa789cd5f48e497b0134d94c0,http://www.mansfield.gov.uk/downloads/file/413/csv-link_brownfieldregister_2017-12-13_rev1.csv
 36c1c91ee6ec46da952246ce66916adf3200f7b14d42f5a0814948177b84dde4,http://www.wyreforestdc.gov.uk/media/3585747/WyreForestDCBrownfieldLandRegister2017-1-.xlsx
+36d14b675eb92a764f9229332ff895375afe9e2093f5e9dc83404afd7258d3bb,https://www.liverpoolcityregion-ca.gov.uk/wp-content/uploads/LCRCA-Brownfield-Land-Register-2019-Updated.xlsx
 36deb35dd1a5bb5205fbdb8429b987d14c15d6ef21bfae42df54d1811db9a2d6,https://www.n-kesteven.gov.uk/_resources/assets/attachment/full/0/78037.csv
 37d3e154b2cf573e8e231e600b13aca8cbb756931349a9d587929cdcca001508,https://www.dartford.gov.uk/__data/assets/file/0004/886720/Brownfield-Land-Register2019-2312.csv
 3869f68ed9e84913c8a8e7372b119e341614bfd9c073ce9b5cedab7e3e54bc1d,https://new.enfield.gov.uk/services/planning/planning-policy/local-plan/planning-policy-information-enfield-blr-part-1.xlsx
@@ -492,6 +493,7 @@ link,url
 9ccdb35438fb3f66c223a6872dcf268afe30503fb9940893e16298274caaff18,https://files.datapress.com/calderdale/dataset/brownfield-land-register/2017-12-21T10:30:42.92/brownfield-register.csv
 9cffea7d3b26315bdd1e552ea26a4ed5362dc37ef8679061543f3294ec9dc6e7,https://www.nwleics.gov.uk/files/documents/brownfield_land_register_2019_csv/northwestleicestershire_brownfieldregister_2019-12-31_rev1.csv
 9d643bfe0a625b9e4ee90b633941c14702f9a07379af20f582eb78848b61396d,https://data.lichfielddc.gov.uk/Download/land-and-property/brownfield-land-registers/brownfield-land-register-2017/CSV?version=05/03/2020
+9dc35842b73d07be7f2aacdbb92d2242312f44655ab1d2315b963bd5281f4d56,https://www.basildon.gov.uk/media/9927/Basildon-Council-Brownfield-Land-Register-Part-1-2019-Oct-2019/CSV/Basildon_Council_-_Brownfield_Land_Register_Part_1_2019.csv
 9df43be1d09904a78e462dafc12d2aa8cfa54eb70528670e0024f4efb72d5fa5,http://www.blaby.gov.uk/EasySiteWeb/GatewayLink.aspx?alId=14453
 9e1b22e993f2219cd48baa60b5f08a77782cd5f347aa220bdaf3f189cca73196,https://www.cherwell.gov.uk/download/downloads/id/8379/cherwell-brownfieldregister-2018-12-03-rev1.csv
 9f4653d1f69f90fe105b92183f5abcba74dca44a772f5e5618a3f503afb317dd,https://www.rugby.gov.uk/download/downloads/id/1475/brownfield_land_register_csv.csv
@@ -514,6 +516,7 @@ a544ca5235a2d541bd7282e4bad334e84c9ea929ae53a4f1f9e351acd0533371,https://www.pen
 a62bd82fa35adb10be1ab1cd7a7f80138e7ef5b541a06c9da052ebbfe236b98c,https://data.cambridgeshireinsight.org.uk/sites/default/files/South%20Cambridgeshire%20Brownfield%20Register%202017.csv
 a637e311e73fba2d9966ee485a377c104567c422c9f1ddf43a81fd7e7fc0bc85,https://www.harlow.gov.uk/sites/default/files/documents/Brownfield%20land%20register%20-%20part%201.csv
 a64a53f87e9aa5cebcbf7ef2577a6d068e21f34553b9eaeccf2ab92bb724ddb9,https://www.southribble.gov.uk/sites/default/files/southribble_brownfieldregister_2017-09-29_rev1.csv
+a666f4dbf11f3430324b27f2fc7dec7a37a676c74d64bdec814d1b36bcbc8c5a,https://www.liverpoolcityregion-ca.gov.uk/wp-content/uploads/LCRCA_Brownfield_Reg_230218.xlsx
 a6d2d37c1bf8197f493364dc5f7ff90b37612e049ef61dfb4794967ea13466f0,https://www.hastings.gov.uk/content/planning/planning_policy/pdfs/Brownfield_Land_Register_CSV_final_December_2019.csv
 a7bb1005d1953d8753fb545f1c2c33086d6f673a9adff4f5f460cc35af327937,https://www.surreyheath.gov.uk/sites/default/files/documents/residents/planning/planning-policy/Surrey%20Heath%20Brownfield%20Register.csv
 a7dfc601c79b6bf20030e1b61d6ca79c88fa938117b3ac0f7c42dfb9ecac3e38,http://www.bolton.gov.uk/sites/DocumentCentre/Documents/bolton_brownfieldregister_2017-12-19_rev1.csv.csv

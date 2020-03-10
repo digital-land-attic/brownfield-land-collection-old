@@ -81,6 +81,7 @@ resource,media-type,suffix,row-count,error-count
 1d6d736120c3687804cfa2af7df67a9ceb517f23684bbea138d499a6eddaf78f,text/csv,.csv,27,129
 1e1a6b4f7cf609ddfe4de43ac2897b881a54df21f2ee4aa6266d595a1449e2ea,text/csv,.csv,97,443
 1e5e9aac8e2eca160ed2511397c1ab2a59eee8c764e1bef9b10ee9d64de9ac22,text/csv,.csv,25,147
+1e676ab6544457f0c926c787f10159e952c78c3be221eb5cd94cc005791042c4,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,.xlsx,34,80
 1e6a760b7915b699482ed21438dbc1564b660b81afd8d6b06f9e50494d6f3cee,text/csv,.csv,33,148
 1ebc73d8061d28fa5ff47325ad0e37405cadea4c4ad8bf72d13a3ecf22e4a1fc,application/vnd.ms-excel,.xls,137,6
 1f05e8de9138ab8db4a367fd73ae5d83f29ec6eb6b1e581fc7439d0e25cf78fa,text/csv,.csv,9,43
@@ -666,6 +667,7 @@ c94e35967405344dd2fd4116f2705be22d222407eb82d5ef0b04b7aafa835f63,text/csv,.csv,5
 c9bfc4133f0e2192bc4b92f2717b6c04544d111bedb9e307985eac35426999e6,text/csv,.csv,125,40
 c9cc404f1e6297a2bd8d93a22d2c01eff0881a23b508b7ece061acc321fc2fdb,text/csv,.csv,34,66
 c9efead8107b7fdb58be9dd4117badd72df58f56a9137ea12110b570fd200003,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,.xlsx,249,832
+ca07622792737e34d0e8065a71ff36cb9113731547532e850841db5c7bc3f925,text/csv,.csv,76,193
 ca508d3a4ec91afdda8df80d3328983e50dd12f8415123898649c82a5fdd8c71,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,.xlsx,25,52
 cab8e3b767601dc0944e8f2b5232c270c72c368b84935816c27203cd0b0517e0,text/csv,.csv,2,6
 cad6d093dfa9167d539fd8f9d2539f726b39271c07979417f722bd3b438b91f9,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,.xlsx,38,132
@@ -706,6 +708,7 @@ d319ddf23371dfa619f399bc6ac231b78dd4cb58f51b3d047551336f50299e03,text/csv,.csv,7
 d4a7936681636d97326ba063c841e1d0321d6cde37d329a699c06a5c1757e2ce,text/csv,.csv,99,201
 d5049b03ac10ee85dc62fcb7126676754df97918c593f49b21b2aba2a9ffcb32,text/csv,.csv,81,166
 d50998f36aa1f6ff842d5ec015bd80d2f7ef5751a9688dcabe5d36520b98bf9e,text/csv,.csv,37,168
+d53b23ab2844c9a7584292196e6c6e6a39f8836ac80d547958e45d1f0aae386b,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,.xlsx,29,69
 d55e80499ef90bbddc4915f2371548b4e85fc31fba1118a4f019cbb745c7c57a,text/csv,.csv,38,156
 d592c9c125651be573b8528b3334920b98dedc1388c589abf5227249dae847e1,text/csv,.csv,114,343
 d5f77b7006fb5c10cdbd994bce322392e307d432a7eb2a894131496cb8daa014,application/pdf,.pdf,0,40

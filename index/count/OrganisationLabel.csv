@@ -1,5 +1,5 @@
 field,value,count
-OrganisationLabel,"",9268
+OrganisationLabel,"",9269
 OrganisationLabel,London Borough of Camden,3102
 OrganisationLabel,Southwark Council,1038
 OrganisationLabel,Manchester City Council,1019
@@ -63,6 +63,7 @@ OrganisationLabel,Harrogate Borough Council,205
 OrganisationLabel,London Borough of Merton,204
 OrganisationLabel,Slough Borough Council,200
 OrganisationLabel,Northampton Borough Council,199
+OrganisationLabel,Basildon Borough Council,197
 OrganisationLabel,Basingstoke & Deane Borough Council,194
 OrganisationLabel,Stratford-On-Avon District Council,193
 OrganisationLabel,Eden District Council,193
@@ -99,6 +100,7 @@ OrganisationLabel,Cheltenham Borough Council,131
 OrganisationLabel,Bury Council,129
 OrganisationLabel,South Ribble,128
 OrganisationLabel,Reigate & Banstead Borough Council,128
+OrganisationLabel,Halton Borough Council,126
 OrganisationLabel,Cherwell District Council,126
 OrganisationLabel,North Somerset Council,125
 OrganisationLabel,Lewes District Council,125
@@ -107,7 +109,6 @@ OrganisationLabel,Fareham Borough Council,124
 OrganisationLabel,Sunderland,123
 OrganisationLabel,Bedford Borough Council,123
 OrganisationLabel,Telford & Wrekin Council,122
-OrganisationLabel,Basildon Borough Council,121
 OrganisationLabel,Eastbourne Borough Council,118
 OrganisationLabel,Oxford City Council,117
 OrganisationLabel,New Forest District Council,117
@@ -190,7 +191,6 @@ OrganisationLabel,Rother District Council,65
 OrganisationLabel,North Hertfordshire District Council,65
 OrganisationLabel,Newark and Sherwood District Council,65
 OrganisationLabel,Gosport Borough Council,65
-OrganisationLabel,Halton Borough Council,64
 OrganisationLabel,Adur District Council,64
 OrganisationLabel,Worcester City Council,63
 OrganisationLabel,Copeland  Borough Council,63

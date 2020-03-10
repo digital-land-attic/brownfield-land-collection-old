@@ -45,7 +45,7 @@ OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/wakefield,299
 OrganisationURI,http://opendatacommunities.org/id/district-council/norwich,296
 OrganisationURI,http://opendatacommunities.org/id/district-council/charnwood,290
-OrganisationURI,"",275
+OrganisationURI,"",276
 OrganisationURI,http://opendatacommunities.org/id/district-council/lewes,271
 OrganisationURI,http://opendatacommunities.org/doc/metropolitan-district-council/coventry,270
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/swindon,267
@@ -75,6 +75,7 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/harrogate,205
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/merton,204
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/slough,200
 OrganisationURI,http://opendatacommunities.org/id/district-council/northampton,199
+OrganisationURI,http://opendatacommunities.org/id/district-council/basildon,197
 OrganisationURI,http://opendatacommunities.org/id/district-council/basingstoke,194
 OrganisationURI,http://opendatacommunities.org/id/district-council/stratford,193
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/rotherham,192
@@ -113,13 +114,13 @@ OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/
 OrganisationURI,http://opendatacommunities.org/id/district-council/south-ribble,128
 OrganisationURI,http://opendatacommunities.org/doc/district-council/reigate-banstead,128
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/sunderland,127
+OrganisationURI,http://opendatacommunities.org/id/unitary-authority/halton,126
 OrganisationURI,http://opendatacommunities.org/id/district-council/cherwell,126
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/bedford,125
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/bath-and-north-east-somerset,125
 OrganisationURI,http://opendatacommunities.org/id/district-council/fareham,124
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/telford-and-wrekin,122
 OrganisationURI,http://opendatacommunities.org/id/district-council/teignbridge,121
-OrganisationURI,http://opendatacommunities.org/id/district-council/basildon,121
 OrganisationURI,http://opendatacommunities.org/id/district-council/newcastle-staffs,119
 OrganisationURI,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website",119
 OrganisationURI,http://opendatacommunities.org/id/district-council/eastbourne,118
@@ -216,7 +217,6 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/stroud,65
 OrganisationURI,http://opendatacommunities.org/id/district-council/newark-and-sherwood,65
 OrganisationURI,http://opendatacommunities.org/id/district-council/gosport,65
 OrganisationURI,http://opendatacommunities.org/doc/district-council/north-hertfordshire,65
-OrganisationURI,http://opendatacommunities.org/id/unitary-authority/halton,64
 OrganisationURI,http://opendatacommunities.org/id/district-council/adur,64
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000089,63
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000061,63
