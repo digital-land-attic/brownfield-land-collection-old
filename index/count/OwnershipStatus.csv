@@ -1,17 +1,17 @@
 field,value,count
 OwnershipStatus,not owned by a public authority,24459
 OwnershipStatus,unknown ownership,5714
-OwnershipStatus,Not owned by a public authority,5311
+OwnershipStatus,Not owned by a public authority,5357
 OwnershipStatus,owned by a public authority,4333
-OwnershipStatus,Unknown ownership,3401
+OwnershipStatus,Unknown ownership,3402
 OwnershipStatus,unkown ownership,2160
 OwnershipStatus,"",2147
 OwnershipStatus,mixed ownership,1450
-OwnershipStatus,Owned by a public authority,1083
+OwnershipStatus,Owned by a public authority,1086
 OwnershipStatus,Unknown,978
 OwnershipStatus,Unknown Ownership,861
 OwnershipStatus,Not in public ownership,421
-OwnershipStatus,Mixed ownership,387
+OwnershipStatus,Mixed ownership,388
 OwnershipStatus,Not Owned by a Public Authority,325
 OwnershipStatus,Unkown ownership,308
 OwnershipStatus,Owned by a Public Authority,285
@@ -72,6 +72,7 @@ OwnershipStatus,Unknown owenrship,2
 OwnershipStatus,Swindon Borough Council and others,2
 OwnershipStatus,Public authority,2
 OwnershipStatus,PA_owned,2
+OwnershipStatus,Ownership Status,2
 OwnershipStatus,Not owned by a public authoritity.,2
 OwnershipStatus,Not owned by  apublic authority,2
 OwnershipStatus,0.21,2
@@ -84,7 +85,6 @@ OwnershipStatus,Unknown Owership,1
 OwnershipStatus,Qwned by a public authority,1
 OwnershipStatus,Part owned Kent Highway Services,1
 OwnershipStatus,Part Public part Not in Public Ownership,1
-OwnershipStatus,Ownership Status,1
 OwnershipStatus,Owned by a \npublic authority,1
 OwnershipStatus,Ministry of Defense,1
 OwnershipStatus,Kent Highways Service,1

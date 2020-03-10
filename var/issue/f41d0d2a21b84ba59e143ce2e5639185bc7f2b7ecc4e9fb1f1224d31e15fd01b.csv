@@ -1,0 +1,127 @@
+row-number,field,issue-type,value
+1,NetDwellingsRangeFrom,default,8
+1,NetDwellingsRangeTo,default,8
+2,NetDwellingsRangeFrom,default,6
+2,NetDwellingsRangeTo,default,6
+3,PermissionDate,date,"2019-09-02
+2017-07-04"
+3,NetDwellingsRangeFrom,default,12
+3,NetDwellingsRangeTo,default,12
+4,NetDwellingsRangeFrom,default,14
+4,NetDwellingsRangeTo,default,14
+5,NetDwellingsRangeFrom,default,649
+5,NetDwellingsRangeTo,default,649
+6,NetDwellingsRangeFrom,default,6
+6,NetDwellingsRangeTo,default,6
+7,NetDwellingsRangeFrom,default,200
+7,NetDwellingsRangeTo,default,200
+8,NetDwellingsRangeFrom,default,150
+8,NetDwellingsRangeTo,default,150
+9,NetDwellingsRangeFrom,default,5
+9,NetDwellingsRangeTo,default,5
+10,NetDwellingsRangeFrom,default,20
+10,NetDwellingsRangeTo,default,20
+11,NetDwellingsRangeFrom,default,7
+11,NetDwellingsRangeTo,default,7
+12,NetDwellingsRangeFrom,default,3
+12,NetDwellingsRangeTo,default,3
+13,NetDwellingsRangeFrom,default,60
+13,NetDwellingsRangeTo,default,60
+14,NetDwellingsRangeFrom,default,10
+14,NetDwellingsRangeTo,default,10
+15,NetDwellingsRangeFrom,default,3
+15,NetDwellingsRangeTo,default,3
+16,NetDwellingsRangeFrom,default,6
+16,NetDwellingsRangeTo,default,6
+17,NetDwellingsRangeFrom,default,1
+17,NetDwellingsRangeTo,default,1
+18,NetDwellingsRangeFrom,default,8
+18,NetDwellingsRangeTo,default,8
+19,NetDwellingsRangeFrom,default,10
+19,NetDwellingsRangeTo,default,10
+20,NetDwellingsRangeFrom,default,9
+20,NetDwellingsRangeTo,default,9
+21,NetDwellingsRangeFrom,default,5
+21,NetDwellingsRangeTo,default,5
+22,NetDwellingsRangeFrom,default,5
+22,NetDwellingsRangeTo,default,5
+23,NetDwellingsRangeFrom,default,6
+23,NetDwellingsRangeTo,default,6
+24,NetDwellingsRangeFrom,default,8
+24,NetDwellingsRangeTo,default,8
+25,NetDwellingsRangeFrom,default,7
+25,NetDwellingsRangeTo,default,7
+26,NetDwellingsRangeFrom,default,0
+26,NetDwellingsRangeTo,default,0
+27,NetDwellingsRangeFrom,default,6
+27,NetDwellingsRangeTo,default,6
+28,NetDwellingsRangeFrom,default,3
+28,NetDwellingsRangeTo,default,3
+29,NetDwellingsRangeFrom,default,-1
+29,NetDwellingsRangeTo,default,-1
+30,NetDwellingsRangeFrom,default,10
+30,NetDwellingsRangeTo,default,10
+31,NetDwellingsRangeFrom,default,16
+31,NetDwellingsRangeTo,default,16
+32,NetDwellingsRangeFrom,default,10
+32,NetDwellingsRangeTo,default,10
+33,NetDwellingsRangeFrom,default,5
+33,NetDwellingsRangeTo,default,5
+34,NetDwellingsRangeFrom,default,0
+34,NetDwellingsRangeTo,default,0
+35,NetDwellingsRangeFrom,default,0
+35,NetDwellingsRangeTo,default,0
+36,NetDwellingsRangeFrom,default,5
+36,NetDwellingsRangeTo,default,5
+37,NetDwellingsRangeFrom,default,0
+37,NetDwellingsRangeTo,default,0
+38,OrganisationURI,opendatacommunities-uri,OrganisationURI
+38,GeoX,decimal,GeoX
+38,GeoY,decimal,GeoY
+38,SiteplanURL,uri,Site plan URL
+38,Hectares,decimal,
+38,OwnershipStatus,enum,Ownership Status
+38,HazardousSubstances,enum,Hazardous Substances
+38,PlanningStatus,enum,Planning Status
+38,PermissionType,enum,Permission Type
+38,PermissionDate,date,Permission Date
+38,MinNetDwellings,integer,Min Net Dwellings
+38,NetDwellingsRangeFrom,integer,Net Dwellings Range From
+38,NetDwellingsRangeTo,integer,Net Dwellings Range To
+38,FirstAddedDate,date,First Added Date
+38,LastUpdatedDate,date,Last Updated Date
+38,LastUpdatedDate,default,2020-03-10
+38,OrganisationURI,default,http://opendatacommunities.org/id/district-council/cherwell
+38,GeoX,missing,
+38,GeoY,missing,
+38,Hectares,missing,
+38,NetDwellingsRangeFrom,missing,
+38,NetDwellingsRangeTo,missing,
+39,NetDwellingsRangeFrom,default,0
+39,NetDwellingsRangeTo,default,0
+40,NetDwellingsRangeFrom,default,0
+40,NetDwellingsRangeTo,default,0
+41,NetDwellingsRangeFrom,default,0
+41,NetDwellingsRangeTo,default,0
+42,NetDwellingsRangeFrom,default,0
+42,NetDwellingsRangeTo,default,0
+43,NetDwellingsRangeFrom,default,0
+43,NetDwellingsRangeTo,default,0
+44,NetDwellingsRangeFrom,default,0
+44,NetDwellingsRangeTo,default,0
+45,NetDwellingsRangeFrom,default,0
+45,NetDwellingsRangeTo,default,0
+46,NetDwellingsRangeFrom,default,0
+46,NetDwellingsRangeTo,default,0
+47,NetDwellingsRangeFrom,default,0
+47,NetDwellingsRangeTo,default,0
+48,NetDwellingsRangeFrom,default,0
+48,NetDwellingsRangeTo,default,0
+49,NetDwellingsRangeFrom,default,0
+49,NetDwellingsRangeTo,default,0
+50,NetDwellingsRangeFrom,default,0
+50,NetDwellingsRangeTo,default,0
+51,NetDwellingsRangeFrom,default,0
+51,NetDwellingsRangeTo,default,0
+52,NetDwellingsRangeFrom,default,0
+52,NetDwellingsRangeTo,default,0

@@ -1,8 +1,8 @@
 field,value,count
 PlanningStatus,permissioned,23549
 PlanningStatus,not permissioned,13354
-PlanningStatus,Permissioned,8692
-PlanningStatus,Not permissioned,2334
+PlanningStatus,Permissioned,8731
+PlanningStatus,Not permissioned,2346
 PlanningStatus,Not Permissioned,2105
 PlanningStatus,"",2044
 PlanningStatus,pending decision,1465
@@ -58,6 +58,7 @@ PlanningStatus,Y15/0072/SH,1
 PlanningStatus,Y11/0137/SH,1
 PlanningStatus,Resolution to grant\nY15/0030/SH,1
 PlanningStatus,PlanningStatus,1
+PlanningStatus,Planning Status,1
 PlanningStatus,Permitted\nPlanning ref\nY14/0703/SH,1
 PlanningStatus,Permitted\nPlanning ref\nY10/0717/SH,1
 PlanningStatus,Permitted\nPlanning ref\nY05/0237/SH,1
