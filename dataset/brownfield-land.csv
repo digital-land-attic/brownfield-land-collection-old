@@ -78,7 +78,7 @@ local-authority-eng:BOS,https://www.bolsover.gov.uk/index.php/your-council/89-re
 local-authority-eng:BOT,,http://www.boston.gov.uk/CHttpHandler.ashx?id=22192&p=0,,2019-11-24
 local-authority-eng:BOT,https://www.mybostonuk.com/development-management/brownfield-land-register/?highlight=brownfield,http://www.mybostonuk.com/wp-content/uploads/2019/04/Brownfield-Land-Register.csv,2019-04-01,
 local-authority-eng:BOT,https://www.mybostonuk.com/development-management/brownfield-land-register/?highlight=brownfield,http://www.mybostonuk.com/wp-content/uploads/2019/12/boston_brownfieldregister.xlsx,2019-12-21,
-local-authority-eng:BPC,,,,
+local-authority-eng:BPC,https://www.bournemouth.gov.uk/planningbuilding/PlanningPolicy/Other-Planning-Documents/brownfield-land-register.aspx,https://www.bournemouth.gov.uk/planningbuilding/PlanningPolicy/PlanningPolicyFiles/brownfieldlandregister/bcp-blr-2019.csv,2020-03-11,
 local-authority-eng:BPL,,https://www.blackpool.gov.uk/Residents/Planning-environment-and-community/Documents/Brownfield-Register-CSV-24KB.csv,2018-01-04,
 local-authority-eng:BPL,https://www.blackpool.gov.uk/Residents/Planning-environment-and-community/Planning/Blackpool-brownfield-register.aspx,https://www.blackpool.gov.uk/Residents/Planning-environment-and-community/Documents/Brownfield-Register-2018-13.5KB.csv,2018-12-17,
 local-authority-eng:BPL,https://www.blackpool.gov.uk/Residents/Planning-environment-and-community/Planning/Blackpool-brownfield-register.aspx,https://www.blackpool.gov.uk/Residents/Planning-environment-and-community/Documents/Brownfield-Register-2018-13.5KB.csv,2018-12-17,
