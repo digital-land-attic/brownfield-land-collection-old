@@ -46,7 +46,7 @@ OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/
 OrganisationURI,http://opendatacommunities.org/id/district-council/norwich,296
 OrganisationURI,http://opendatacommunities.org/id/district-council/stratford,292
 OrganisationURI,http://opendatacommunities.org/id/district-council/charnwood,290
-OrganisationURI,"",276
+OrganisationURI,"",278
 OrganisationURI,http://opendatacommunities.org/id/district-council/lewes,271
 OrganisationURI,http://opendatacommunities.org/doc/metropolitan-district-council/coventry,270
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/swindon,267
@@ -163,6 +163,7 @@ OrganisationURI,http://opendatacommunities.org/doc/unitary-authority/portsmouth,
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/thurrock,90
 OrganisationURI,http://opendatacommunities.org/doc/district-council/havant,90
 OrganisationURI,http://opendatacommunities.org/doc/district-council/epping-forest,90
+OrganisationURI,http://opendatacommunities.org/id/unitary-authority/hartlepool,89
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/trafford,88
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/ua/E06000027,88
 OrganisationURI,http://opendatacommunities.org/id/district-council/selby,88
@@ -211,7 +212,6 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/st-albans,73
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/peterborough,72
 OrganisationURI,http://opendatacommunities.org/doc/unitary-authority/central-bedfordshire,69
 OrganisationURI,http://opendatacommunities.org/id/district-council/three-rivers,68
-OrganisationURI,http://opendatacommunities.org/id/unitary-authority/hartlepool,67
 OrganisationURI,http://opendatacommunities.org/id/district? council/northampton,67
 OrganisationURI,http://opendatacommunities.org/id/district-council/north-warwickshire,67
 OrganisationURI,http://opendatacommunities.org/id/district-council/waveney/,66
@@ -234,6 +234,7 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/suffolk-coast
 OrganisationURI,http://opendatacommunities.org/id/district-council/aylesbury-vale,60
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000118,58
 OrganisationURI,http://opendatacommunities.org/id/district-council/waveney,58
+OrganisationURI,http://opendatacommunities.org/id/district-council/ashfield,58
 OrganisationURI,http://opendatacommunities.org/id/district-council/arun,58
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000084,57
 OrganisationURI,http://opendatacommunities.org/id/district-council/gloucester,57
@@ -270,7 +271,6 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/castle-point,
 OrganisationURI,http://opendatacommunities.org/id/district-council/broxtowe,41
 OrganisationURI,http://opendatacommunities.org/doc/district-council/elmbridge,41
 OrganisationURI,http://opendatacommunities.org/id/district-council/north-west-leicestershire,39
-OrganisationURI,http://opendatacommunities.org/id/district-council/ashfield,39
 OrganisationURI,http://opendatacommunities.org/id/district-council/hyndburn,38
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/southampton,37
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/medway,37
