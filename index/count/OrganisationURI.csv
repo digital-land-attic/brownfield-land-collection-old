@@ -90,6 +90,7 @@ OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/waltham-forest,174
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/bournemouth,173
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/sefton,171
+OrganisationURI,http://opendatacommunities.org/id/geography/administration/md/E08000006,168
 OrganisationURI,For more information visit the Government's open data website: http://opendatacommunities.ord/id/london-borough-council/lewisham,168
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/wiltshire,166
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/wirral,165
@@ -152,6 +153,7 @@ OrganisationURI,http://opendatacommunities.org/id/unitary-authority/east-riding,
 OrganisationURI,http://opendatacommunities.org/id/district-council/hart,99
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/barnsley,98
 OrganisationURI,http://opendatacommunities.org/doc/district-council/west-norfolk,98
+OrganisationURI,http://opendatacommunities.org/id/district-council/reigate-banstead,97
 OrganisationURI,http://opendatacommunities.org/id/district-council/forest-of-dean,96
 OrganisationURI,http://opendatacommunities.org/id/district-council/brentwood,96
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/west-berkshire,95
@@ -604,7 +606,6 @@ OrganisationURI,http://opendatacommunities.org/id/geography/administration/md/E0
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/md/E08000009,1
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/md/E08000008,1
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/md/E08000007,1
-OrganisationURI,http://opendatacommunities.org/id/geography/administration/md/E08000006,1
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/md/E08000005,1
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/lonb/E09000052,1
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/lonb/E09000051,1
