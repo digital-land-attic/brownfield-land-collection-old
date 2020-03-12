@@ -22,6 +22,7 @@ OrganisationURI,http://opendatacommunities.org/id/london-borough-council/redbrid
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lewisham,497
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/greenwich,487
 OrganisationURI,www.liverpool.gov.uk,465
+OrganisationURI,http://opendatacommunities.org/id/unitary-authority/stoke-on-trent,451
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/sandwell,437
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/lonb/E09000032,429
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/kirklees,419
@@ -37,7 +38,6 @@ OrganisationURI,http://opendatacommunities.org/id/unitary-authority/south-glouce
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/luton,350
 OrganisationURI,http://opendatacommunities.org/doc/unitary-authority/plymouth,349
 OrganisationURI,http://opendatacommunities.org/id/district-council/woking,348
-OrganisationURI,http://opendatacommunities.org/id/unitary-authority/stoke-on-trent,332
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/leicester,330
 OrganisationURI,http://opendatacommunities.org/doc/london-borough-council/kingston,320
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/gateshead,319
@@ -146,6 +146,7 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/derbyshire-da
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/sutton,103
 OrganisationURI,http://opendatacommunities.org/id/district-council/worcester,103
 OrganisationURI,E06000041,103
+OrganisationURI,http://opendatacommunities.org/id/unitary-authority/medway,102
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000219,102
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/newcastle,101
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/isle-of-wight,100
@@ -276,7 +277,6 @@ OrganisationURI,http://opendatacommunities.org/doc/district-council/elmbridge,41
 OrganisationURI,http://opendatacommunities.org/id/district-council/north-west-leicestershire,39
 OrganisationURI,http://opendatacommunities.org/id/district-council/hyndburn,38
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/southampton,37
-OrganisationURI,http://opendatacommunities.org/id/unitary-authority/medway,37
 OrganisationURI,http://opendatacommunities.org/id/district-council/burnley,37
 OrganisationURI,http://opendatacommunities.org/doc/district-council/watford,37
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/hammersmith-and-fulham,36
