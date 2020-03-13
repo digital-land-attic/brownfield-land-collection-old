@@ -630,6 +630,7 @@ local-authority-eng:SRI,https://www.southribble.gov.uk/content/housing-land-avai
 local-authority-eng:SSO,https://www.southsomerset.gov.uk/your-council/your-council-plan-and-strategies/planning-policy/brownfield-sites-register/,https://www.southsomerset.gov.uk/media/903585/southsomerset_brownfield_register_2017-11-16_rev1.csv,2017-11-16,2019-11-24
 local-authority-eng:SSO,https://www.southsomerset.gov.uk/your-council/your-council-plan-and-strategies/planning-policy/brownfield-sites-register/,https://www.southsomerset.gov.uk/media/2550/j-plan_pol-web-site-2019-brownfield-register-interim-csv.csv,,
 local-authority-eng:SST,https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,https://www.sstaffs.gov.uk/planning-files/brownfield-register/brownfield-register.csv,,
+local-authority-eng:SST,https://www.sstaffs.gov.uk/planning/brownfield-land-register.cfm,https://www.sstaffs.gov.uk/doc/180553/name/BrownField%20Register%202019%20CSV.csv/,2020-03-13,
 local-authority-eng:STA,https://www.staffordbc.gov.uk/brownfield-land-register,https://www.staffordbc.gov.uk/sites/default/files/cme/DocMan1/Planning%20Policy/Brownfield%20Land%20Register/Brownfield-Land-Register.csv,,2019-10-20
 local-authority-eng:STA,https://www.staffordbc.gov.uk/brownfield-land-register,http://www.staffordbc.gov.uk/live/Documents/Planning%20Policy/Brownfield%20Land%20Register/Brownfield-Land-Register.csv,,2019-12-01
 local-authority-eng:STA,https://www.staffordbc.gov.uk/brownfield-land-register,https://www.staffordbc.gov.uk/node/159465,,
