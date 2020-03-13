@@ -1,0 +1,31 @@
+row-number,field,issue-type,value
+1,SiteplanURL,uri,Site Map
+2,SiteplanURL,uri,Site Map
+3,SiteplanURL,uri,Site map
+4,SiteplanURL,uri,Site map
+5,SiteplanURL,uri,Site map
+5,PlanningStatus,enum,Conditional Permission
+6,SiteplanURL,uri,Site map
+6,PermissionType,enum,Prior approval griven
+7,SiteplanURL,uri,Site map
+8,SiteplanURL,uri,Site map
+9,SiteplanURL,uri,Site map
+10,SiteplanURL,uri,Site map
+11,SiteplanURL,uri,Site map
+12,SiteplanURL,uri,Site map
+13,SiteplanURL,uri,Site map
+14,SiteplanURL,uri,Site map
+14,PlanningStatus,enum,Conditional Permission
+14,MinNetDwellings,integer,33*  * This number is based upon the approved rate of dwellings deemed appropriate in the last permission
+15,SiteplanURL,uri,Site map
+16,SiteplanURL,uri,Site map
+17,SiteplanURL,uri,Site map
+18,SiteplanURL,uri,Site map
+19,SiteplanURL,uri,Site map
+20,SiteplanURL,uri,Site map
+21,SiteplanURL,uri,Site map
+22,SiteplanURL,uri,Site map
+22,PlanningStatus,enum,Pending Consideration
+23,SiteplanURL,uri,Site map
+23,PlanningStatus,enum,Conditional Permission
+23,Hectares,missing,

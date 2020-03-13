@@ -1,5 +1,5 @@
 field,value,count
-OrganisationLabel,"",9956
+OrganisationLabel,"",10196
 OrganisationLabel,London Borough of Camden,3102
 OrganisationLabel,Southwark Council,1038
 OrganisationLabel,Manchester City Council,1019
@@ -31,6 +31,7 @@ OrganisationLabel,Plymouth City Council,342
 OrganisationLabel,Northumberland County Council,340
 OrganisationLabel,Stoke-on-Trent City Council,332
 OrganisationLabel,Leicester City Council,330
+OrganisationLabel,Walsall Council,320
 OrganisationLabel,Kingston upon Thames,320
 OrganisationLabel,Gateshead Council,319
 OrganisationLabel,London Borough of Richmond upon Thames,309
@@ -57,7 +58,6 @@ OrganisationLabel,Herefordshire Council,228
 OrganisationLabel,Wycombe District Council,219
 OrganisationLabel,Cannock Chase Council,219
 OrganisationLabel,Salford City Council,211
-OrganisationLabel,Walsall Council,210
 OrganisationLabel,London Borough of Lambeth,210
 OrganisationLabel,Ealing Council,210
 OrganisationLabel,Harrogate Borough Council,205
@@ -112,6 +112,7 @@ OrganisationLabel,Telford & Wrekin Council,122
 OrganisationLabel,Eastbourne Borough Council,118
 OrganisationLabel,Oxford City Council,117
 OrganisationLabel,New Forest District Council,117
+OrganisationLabel,Teignbridge District Council,116
 OrganisationLabel,Tunbridge Wells Borough Council,115
 OrganisationLabel,Chorley,113
 OrganisationLabel,Chelmsford City Council,110
@@ -144,6 +145,7 @@ OrganisationLabel,Amber Valley,91
 OrganisationLabel,Thurrock,90
 OrganisationLabel,Havant Borough Council,90
 OrganisationLabel,Selby District Council,88
+OrganisationLabel,North Hertfordshire District Council,88
 OrganisationLabel,Dartford Borough Council,88
 OrganisationLabel,Canterbury City Council,88
 OrganisationLabel,Tameside Metropolitan Borough Council,87
@@ -154,7 +156,6 @@ OrganisationLabel,Middlesbrough Borough Council,85
 OrganisationLabel,West Lindsey District Council,84
 OrganisationLabel,Tendring District Council,84
 OrganisationLabel,South Cambridgeshire District Council,84
-OrganisationLabel,Teignbridge District Council,83
 OrganisationLabel,Sedgemoor District Council,82
 OrganisationLabel,Ashford Borough Council,82
 OrganisationLabel,Shropshire,81
@@ -190,7 +191,6 @@ OrganisationLabel,North East Lincolnshire Council,67
 OrganisationLabel,Newcastle-under-Lyme Borough Council,66
 OrganisationLabel,Stroud District Council,65
 OrganisationLabel,Rother District Council,65
-OrganisationLabel,North Hertfordshire District Council,65
 OrganisationLabel,Newark and Sherwood District Council,65
 OrganisationLabel,Gosport Borough Council,65
 OrganisationLabel,Adur District Council,64

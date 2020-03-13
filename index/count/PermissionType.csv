@@ -1,16 +1,16 @@
 field,value,count
-PermissionType,"",23611
-PermissionType,full planning permission,18283
+PermissionType,"",23763
+PermissionType,full planning permission,18469
 PermissionType,full planning permis,2753
-PermissionType,outline planning permission,2544
-PermissionType,Full planning permission,1877
-PermissionType,other,1628
+PermissionType,outline planning permission,2555
+PermissionType,Full planning permission,1882
+PermissionType,other,1653
 PermissionType,Full Planning Permission,1308
-PermissionType,reserved matters approval,842
-PermissionType,planning permission granted under an order,428
+PermissionType,reserved matters approval,843
+PermissionType,planning permission granted under an order,431
 PermissionType,Other,414
 PermissionType,Full,361
-PermissionType,Outline planning permission,338
+PermissionType,Outline planning permission,341
 PermissionType,planning permission,279
 PermissionType,Full planning permis,262
 PermissionType,Full Planning,200
@@ -38,6 +38,7 @@ PermissionType,Expired,25
 PermissionType,Outline planning per,22
 PermissionType,determination for permitted development,20
 PermissionType,techincal details consent,18
+PermissionType,full planing permission,18
 PermissionType,prior notification,16
 PermissionType,permissioned,13
 PermissionType,MAF,13
@@ -104,6 +105,7 @@ PermissionType,Full Planning Permission Subject to Legal Agreement,2
 PermissionType,"full planning permission, prior approval",2
 PermissionType,technical details co,1
 PermissionType,permission lapsed,1
+PermissionType,permission in princple,1
 PermissionType,pending decision,1
 PermissionType,outline planning permission\nfull planning permission,1
 PermissionType,otther,1
@@ -115,6 +117,7 @@ PermissionType,Reserved matters,1
 PermissionType,Reserved Matters Application,1
 PermissionType,Renewal - full planning permission,1
 PermissionType,Prior notification,1
+PermissionType,Prior approval griven,1
 PermissionType,Prior approval,1
 PermissionType,Prior Approval and Full planning,1
 PermissionType,Pending,1

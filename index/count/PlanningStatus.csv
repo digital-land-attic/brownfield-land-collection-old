@@ -1,11 +1,11 @@
 field,value,count
-PlanningStatus,permissioned,24129
-PlanningStatus,not permissioned,13649
-PlanningStatus,Permissioned,8883
-PlanningStatus,Not permissioned,2484
+PlanningStatus,permissioned,24366
+PlanningStatus,not permissioned,13789
+PlanningStatus,Permissioned,8890
+PlanningStatus,Not permissioned,2494
 PlanningStatus,Not Permissioned,2105
 PlanningStatus,"",2045
-PlanningStatus,pending decision,1476
+PlanningStatus,pending decision,1480
 PlanningStatus,Full Planning Permission,430
 PlanningStatus,Pending decision,327
 PlanningStatus,Other Commitment,230
@@ -34,12 +34,15 @@ PlanningStatus,NOT PERMISSIONED,5
 PlanningStatus,under construction,4
 PlanningStatus,pending Decision,4
 PlanningStatus,Allocation,4
+PlanningStatus,Pending permission,3
 PlanningStatus,Outline consent,3
 PlanningStatus,No permissioned,3
+PlanningStatus,Conditional Permission,3
 PlanningStatus,Approved,3
 PlanningStatus,permissiond,2
 PlanningStatus,permisioned,2
 PlanningStatus,pending descision,2
+PlanningStatus,full planning permission,2
 PlanningStatus,decision pending,2
 PlanningStatus,Reserve mattes permi,2
 PlanningStatus,Prior notification,2
@@ -85,8 +88,8 @@ PlanningStatus,Permitted\nPlanning ref Y08/1212/SH,1
 PlanningStatus,Permitted\nPlanning ref Y05/1391/SH,1
 PlanningStatus,Permissioned (part),1
 PlanningStatus,Pendingdecision,1
-PlanningStatus,Pending permission,1
 PlanningStatus,Pending decision (appeal lodged),1
+PlanningStatus,Pending Consideration,1
 PlanningStatus,Part Permissioned,1
 PlanningStatus,Mixed ownership,1
 PlanningStatus,Expired Permission,1

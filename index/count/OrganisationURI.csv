@@ -25,6 +25,7 @@ OrganisationURI,www.liverpool.gov.uk,465
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/stoke-on-trent,451
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/sandwell,437
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/lonb/E09000032,429
+OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/walsall,420
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/kirklees,419
 OrganisationURI,http://opendatacommunities.org/doc/unitary-authority/reading,414
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/harrow,408
@@ -65,11 +66,12 @@ OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cornwall,235
 OrganisationURI,http://opendatacommunities.org/id/district-council/surrey-heath,234
 OrganisationURI,https://digital-land.github.io/organisation/local-authority-eng/ESK/,232
 OrganisationURI,http://opendatacommunities.org.id/unitary-authority/herefordshire,228
+OrganisationURI,http://opendatacommunities.org/id/district-council/teignbridge,225
+OrganisationURI,http://opendatacommunities.org/id/london-borough-council/bexley,222
 OrganisationURI,http://opendatacommunities.org/id/district-council/wycombe,219
 OrganisationURI,http://opendatacommunities.org/id/district-council/cannock-chase,219
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/north-tyneside,215
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/salford,211
-OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/walsall,210
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,210
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/ealing,210
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/ua/E06000023,205
@@ -101,7 +103,6 @@ OrganisationURI,http://opendatacommunities.org/id/unitary-authority/milton-keyne
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/hull,161
 OrganisationURI,Maidstone E07000110,158
 OrganisationURI,http://opendatacommunities.org/id/district-council/dartford,154
-OrganisationURI,http://opendatacommunities.org/id/london-borough-council/bexley,153
 OrganisationURI,http://opendatacommunities.org/id/district-council/north-devon,153
 OrganisationURI,http://opendatacommunities.org/id/district-council/scarborough,150
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/bolton,149
@@ -122,7 +123,6 @@ OrganisationURI,http://opendatacommunities.org/id/unitary-authority/bedford,125
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/bath-and-north-east-somerset,125
 OrganisationURI,http://opendatacommunities.org/id/district-council/fareham,124
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/telford-and-wrekin,122
-OrganisationURI,http://opendatacommunities.org/id/district-council/teignbridge,121
 OrganisationURI,http://opendatacommunities.org/id/district-council/newcastle-staffs,119
 OrganisationURI,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website",119
 OrganisationURI,http://opendatacommunities.org/id/district-council/eastbourne,118
@@ -172,6 +172,7 @@ OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/ua/E06000027,88
 OrganisationURI,http://opendatacommunities.org/id/district-council/selby,88
 OrganisationURI,http://opendatacommunities.org/id/district-council/amber-valley,88
+OrganisationURI,http://opendatacommunities.org/doc/district-council/north-hertfordshire,88
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/tameside,87
 OrganisationURI,http://opendatacommunities.org/id/district-council/lancaster,87
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/hackney,86
@@ -222,7 +223,6 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/waveney/,66
 OrganisationURI,http://opendatacommunities.org/id/district-council/stroud,65
 OrganisationURI,http://opendatacommunities.org/id/district-council/newark-and-sherwood,65
 OrganisationURI,http://opendatacommunities.org/id/district-council/gosport,65
-OrganisationURI,http://opendatacommunities.org/doc/district-council/north-hertfordshire,65
 OrganisationURI,http://opendatacommunities.org/id/district-council/adur,64
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000089,63
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000061,63
