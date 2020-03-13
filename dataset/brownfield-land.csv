@@ -207,6 +207,7 @@ local-authority-eng:DOV,https://www.dover.gov.uk/Planning/Planning-Policy-and-Re
 local-authority-eng:DST,https://www.dorsetcouncil.gov.uk/planning-buildings-land/planning-policy/planning-policy.aspx,,,
 local-authority-eng:DUD,https://www.dudley.gov.uk/residents/planning/brownfield-land-register/,http://www.dudley.gov.uk/EasysiteWeb/getresource.axd?AssetID=290865&type=full&servicetype=Attachment,,2019-11-18
 local-authority-eng:DUD,https://www.dudley.gov.uk/residents/planning/brownfield-land-register/,https://www.dudley.gov.uk/media/6155/dudley_brownfieldregister_2017-12-21_rev1.csv,2017-12-21,
+local-authority-eng:DUD,https://www.dudley.gov.uk/residents/planning/brownfield-land-register/,https://www.dudley.gov.uk/media/14362/brownfield-land.csv,2020-03-13,
 local-authority-eng:DUR,,https://files.datapress.com/leeds/dataset/brownfield-sites/2017-11-28T11:16:49.69/county-durham_brownfieldregister_2017-12-01_rev1.csv,2017-12-01,
 local-authority-eng:DUR,https://www.durham.gov.uk/article/3280/Strategic-Housing-Land-Availability-Assessment-and-Brownfield-Register,https://www.durham.gov.uk/media/10317/Brownfield-Land-Register/csv/BrownfieldRegister2019.csv,,
 local-authority-eng:EAL,https://www.ealing.gov.uk/info/201162/planning_policy/2375/brownfield_land_register/1,https://www.ealing.gov.uk/download/downloads/id/12723/ealings_brownfield_land_register_version_1.csv,,
