@@ -24,15 +24,15 @@ OwnershipStatus,unknown,87
 OwnershipStatus,Unkown Ownership,82
 OwnershipStatus,Promoted,74
 OwnershipStatus,Not owned by a public authority.,71
+OwnershipStatus,not owned by public authority,69
 OwnershipStatus,Notownedbyapublicauthority,66
 OwnershipStatus,not owned by a public aut,65
-OwnershipStatus,not owned by public authority,51
 OwnershipStatus,Not owned by a  Public Authority,50
 OwnershipStatus,Public ownership,47
 OwnershipStatus,NOT OWNED BY A PUBLIC AUTHORITY,43
 OwnershipStatus,Owned by public authority,42
+OwnershipStatus,owned by public authority,38
 OwnershipStatus,not in public ownership,38
-OwnershipStatus,owned by public authority,37
 OwnershipStatus,Local Authority,37
 OwnershipStatus,Not owned by a \npublic authority,26
 OwnershipStatus,Private,24
