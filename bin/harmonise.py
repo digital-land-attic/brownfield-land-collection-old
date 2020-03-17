@@ -178,12 +178,8 @@ def load_organisations():
                 dl_url = dl_url.lower().replace("-eng:", "-eng/")
                 organisation_uri[dl_url] = uri
 
-    for row in csv.DictReader(open("patch/organisation.csv", newline="")):
-        value = lower_uri(row["value"])
-        if row["organisation"]:
-            organisation_uri[value] = organisation[row["organisation"]][
-                "opendatacommunities"
-            ]
+    for row in csv.DictReader(open("patch/OrganisationURI.csv", newline="")):
+        organisation_uri[lower_uri(row["value"])] = row["enum"]
 
 
 # deduce default OrganisationURI and LastUpdatedDate from path
