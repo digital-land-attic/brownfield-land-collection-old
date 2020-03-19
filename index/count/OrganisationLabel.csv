@@ -1,5 +1,5 @@
 field,value,count
-OrganisationLabel,"",10450
+OrganisationLabel,"",10545
 OrganisationLabel,London Borough of Camden,3199
 OrganisationLabel,Southwark Council,1038
 OrganisationLabel,Manchester City Council,1019
@@ -274,6 +274,7 @@ OrganisationLabel,Enfield Council,27
 OrganisationLabel,East Herts Council,27
 OrganisationLabel,Dudley Metropolitan Borough Council,27
 OrganisationLabel,Eastleigh Borough Council,25
+OrganisationLabel,Daventry District Council,25
 OrganisationLabel,Breckland District Council,25
 OrganisationLabel,South Tyneside Council,24
 OrganisationLabel,HPBC,24
@@ -294,7 +295,6 @@ OrganisationLabel,Epsom and Ewell Borough Council,18
 OrganisationLabel,Cambridge City Council,18
 OrganisationLabel,Borough Council of Wellingborough,18
 OrganisationLabel,Malvern Hills District Council,17
-OrganisationLabel,Daventry District Council,17
 OrganisationLabel,Redditch Borough Council,16
 OrganisationLabel,North Dorset District Council,16
 OrganisationLabel,Corby Borough Council,16
