@@ -32,6 +32,7 @@ OrganisationURI,http://opendatacommunities.org/id/london-borough-council/harrow,
 OrganisationURI,http://opendatacommunities.org/doc/london-borough-council/westminster,404
 OrganisationURI,http://opendatacommunities.org/doc/geography/administration/ua/E06000007,402
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-west-and-chester,368
+OrganisationURI,"",366
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/newham,365
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/richmond,360
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/kensington-and-chelsea,355
@@ -48,7 +49,6 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/norwich,296
 OrganisationURI,http://opendatacommunities.org/id/district-council/stratford,292
 OrganisationURI,http://opendatacommunities.org/id/district-council/charnwood,290
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/ua/E06000058,288
-OrganisationURI,"",278
 OrganisationURI,http://opendatacommunities.org/id/district-council/lewes,271
 OrganisationURI,http://opendatacommunities.org/doc/metropolitan-district-council/coventry,270
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/swindon,267
@@ -180,6 +180,7 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/lancaster,87
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/hackney,86
 OrganisationURI,http://opendatacommunities.org/id/district-council/east-cambridgeshire,86
 OrganisationURI,http://opendatacommunities.org/id/district-council/craven,86
+OrganisationURI,http://opendatacommunities.org/doc/district-council/copeland,86
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/middlesbrough,85
 OrganisationURI,http://opendatacommunities.org/id/district-council/west-lindsey,84
 OrganisationURI,http://opendatacommunities.org/id/district-council/tendring,84
@@ -228,7 +229,6 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/gosport,65
 OrganisationURI,http://opendatacommunities.org/id/district-council/adur,64
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000089,63
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000061,63
-OrganisationURI,http://opendatacommunities.org/doc/district-council/copeland,63
 OrganisationURI,http://opendatacommunities.org/id/district-council/south-holland,62
 OrganisationURI,http://opendatacommunities.org/id/district-council/broadland,62
 OrganisationURI,http://www.opendatacommunities.org/id/metropolitan-district-council/sunderland,61

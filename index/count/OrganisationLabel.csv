@@ -1,5 +1,5 @@
 field,value,count
-OrganisationLabel,"",10545
+OrganisationLabel,"",10633
 OrganisationLabel,London Borough of Camden,3199
 OrganisationLabel,Southwark Council,1038
 OrganisationLabel,Manchester City Council,1019
@@ -152,6 +152,7 @@ OrganisationLabel,Tameside Metropolitan Borough Council,87
 OrganisationLabel,South Oxfordshire District Council,86
 OrganisationLabel,Hackney,86
 OrganisationLabel,CravenDistrictCouncil,86
+OrganisationLabel,Copeland  Borough Council,86
 OrganisationLabel,Middlesbrough Borough Council,85
 OrganisationLabel,West Lindsey District Council,84
 OrganisationLabel,Tendring District Council,84
@@ -194,7 +195,6 @@ OrganisationLabel,Rother District Council,65
 OrganisationLabel,Newark and Sherwood District Council,65
 OrganisationLabel,Gosport Borough Council,65
 OrganisationLabel,Adur District Council,64
-OrganisationLabel,Copeland  Borough Council,63
 OrganisationLabel,South Holland District Council,62
 OrganisationLabel,Broadland District Council,62
 OrganisationLabel,Vale of White Horse District Council,61

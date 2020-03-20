@@ -1,7 +1,7 @@
 field,value,count
-OwnershipStatus,not owned by a public authority,25919
+OwnershipStatus,not owned by a public authority,25942
 OwnershipStatus,unknown ownership,5755
-OwnershipStatus,Not owned by a public authority,5577
+OwnershipStatus,Not owned by a public authority,5659
 OwnershipStatus,owned by a public authority,4501
 OwnershipStatus,Unknown ownership,3402
 OwnershipStatus,unkown ownership,2232
@@ -11,7 +11,7 @@ OwnershipStatus,Owned by a public authority,1127
 OwnershipStatus,Unknown,978
 OwnershipStatus,Unknown Ownership,861
 OwnershipStatus,Not in public ownership,421
-OwnershipStatus,Mixed ownership,402
+OwnershipStatus,Mixed ownership,407
 OwnershipStatus,Not Owned by a Public Authority,325
 OwnershipStatus,Unkown ownership,308
 OwnershipStatus,Owned by a Public Authority,285
@@ -70,6 +70,7 @@ OwnershipStatus,owned by a public authority (part),2
 OwnershipStatus,Unknown owership,2
 OwnershipStatus,Unknown owenrship,2
 OwnershipStatus,Swindon Borough Council and others,2
+OwnershipStatus,Qwned by a public authority,2
 OwnershipStatus,Public authority,2
 OwnershipStatus,PA_owned,2
 OwnershipStatus,Ownership Status,2
@@ -82,7 +83,6 @@ OwnershipStatus,ownership unknown,1
 OwnershipStatus,owmed by a public authority,1
 OwnershipStatus,Unknown ownerhip,1
 OwnershipStatus,Unknown Owership,1
-OwnershipStatus,Qwned by a public authority,1
 OwnershipStatus,Partly owned by a public authority,1
 OwnershipStatus,Part owned Kent Highway Services,1
 OwnershipStatus,Part Public part Not in Public Ownership,1
