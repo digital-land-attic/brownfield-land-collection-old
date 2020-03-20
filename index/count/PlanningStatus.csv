@@ -1,9 +1,9 @@
 field,value,count
-PlanningStatus,permissioned,24696
-PlanningStatus,not permissioned,13945
-PlanningStatus,Permissioned,8970
+PlanningStatus,permissioned,24704
+PlanningStatus,not permissioned,13952
+PlanningStatus,Permissioned,8994
 PlanningStatus,Not permissioned,2502
-PlanningStatus,Not Permissioned,2105
+PlanningStatus,Not Permissioned,2117
 PlanningStatus,"",2045
 PlanningStatus,pending decision,1503
 PlanningStatus,Full Planning Permission,430
@@ -11,7 +11,7 @@ PlanningStatus,Pending decision,327
 PlanningStatus,Other Commitment,230
 PlanningStatus,Under Construction,114
 PlanningStatus,permission,100
-PlanningStatus,Pending Decision,79
+PlanningStatus,Pending Decision,81
 PlanningStatus,Completed During 2018/19,74
 PlanningStatus,Completed During 2016/17,74
 PlanningStatus,Adopted Local Plan,63

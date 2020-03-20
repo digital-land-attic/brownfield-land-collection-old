@@ -120,6 +120,7 @@ OrganisationLabel,Chelmsford City Council,110
 OrganisationLabel,Mid Sussex District Council,109
 OrganisationLabel,Durham County Council,108
 OrganisationLabel,Calderdale Metropolitan District Council,108
+OrganisationLabel,Horsham District Council,106
 OrganisationLabel,Derbyshire Dales District Council,106
 OrganisationLabel,Worcester City Council,103
 OrganisationLabel,Wokingham Borough Council,103
@@ -184,7 +185,6 @@ OrganisationLabel,Rushmoor Borough Council,74
 OrganisationLabel,Hertsmere Borough Council,74
 OrganisationLabel,Great Yarmouth,73
 OrganisationLabel,Peterborough,72
-OrganisationLabel,Horsham District Council,71
 OrganisationLabel,Elmbridge Borough Council,71
 OrganisationLabel,Three Rivers District Council,68
 OrganisationLabel,North Warwickshire Borough Council,67
@@ -243,6 +243,7 @@ OrganisationLabel,Cotswold District Council,45
 OrganisationLabel,Huntingdonshire District Council,44
 OrganisationLabel,Bassetlaw District Council,44
 OrganisationLabel,Taunton Deane Borough Council,43
+OrganisationLabel,Oadby and Wigston Borough Council,43
 OrganisationLabel,traffordcouncil,42
 OrganisationLabel,Gedling Borough Council,42
 OrganisationLabel,West Lancashire Borough Council,41
@@ -269,7 +270,6 @@ OrganisationLabel,West Oxfordshire,30
 OrganisationLabel,Swale Borough Council,29
 OrganisationLabel,South Staffordshire District Council,29
 OrganisationLabel,Rushcliffe Borough Council,29
-OrganisationLabel,Oadby and Wigston Borough Council,28
 OrganisationLabel,Enfield Council,27
 OrganisationLabel,East Herts Council,27
 OrganisationLabel,Dudley Metropolitan Borough Council,27
@@ -319,6 +319,7 @@ OrganisationLabel,Mid Suffolk District Council,9
 OrganisationLabel,City of London,9
 OrganisationLabel,West Devon Borough Council,8
 OrganisationLabel,LONDON BOROUGH OF HAVERING,8
+OrganisationLabel,Horsham District Council (north) Horsham,7
 OrganisationLabel,East Northamptonshire Council,7
 OrganisationLabel,Ryedale District Council,6
 OrganisationLabel,Lake District National Park Authority,6
@@ -327,7 +328,6 @@ OrganisationLabel,Rutland County Council,5
 OrganisationLabel,Hambleton,5
 OrganisationLabel,Peak District National Park,4
 OrganisationLabel,North Kesteven District Council,4
-OrganisationLabel,Horsham District Council (north) Horsham,4
 OrganisationLabel,East Hampshire District Council,4
 OrganisationLabel,Babergh District Council,4
 OrganisationLabel,waverley Borough Council,2

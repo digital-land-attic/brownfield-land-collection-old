@@ -132,6 +132,7 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/oxford,117
 OrganisationURI,http://opendatacommunities.org/id/district-council/new-forest,117
 OrganisationURI,http://opendatacommunities.org/id/district-council/erewash,117
 OrganisationURI,http://opendatacommunities.org/id/district-council/tunbridge-wells,115
+OrganisationURI,http://opendatacommunities.org/id/district-council/horsham,113
 OrganisationURI,http://opendatacommunities.org/id/district-council/chorley,113
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/north-east-lincolnshire,112
 OrganisationURI,http://opendatacommunities.org/id/district-council/great-yarmouth,111
@@ -212,7 +213,6 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/runnymede,76
 OrganisationURI,http://opendatacommunities.org/id/district-council/crawley,76
 OrganisationURI,http://opendatacommunities.org/id/district-council/Harlow,76
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/derby,75
-OrganisationURI,http://opendatacommunities.org/id/district-council/horsham,75
 OrganisationURI,http://opendatacommunities.org/id/district-council/winchester,74
 OrganisationURI,http://opendatacommunities.org/id/district-council/south-somerset,74
 OrganisationURI,http://opendatacommunities.org/id/district-council/hertsmere,74
@@ -269,6 +269,7 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/cotswold,45
 OrganisationURI,http://opendatacommunities.org/id/district-council/huntingdonshire,44
 OrganisationURI,http://opendatacommunities.org/id/district-council/bassetlaw,44
 OrganisationURI,http://opendatacommunities.org/id/district-council/taunton-deane,43
+OrganisationURI,http://opendatacommunities.org/id/district-council/oadby-and-wigston,43
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/redcar-and-cleveland,41
 OrganisationURI,http://opendatacommunities.org/id/district-council/west-lancashire,41
 OrganisationURI,http://opendatacommunities.org/id/district-council/torridge,41
@@ -304,7 +305,6 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/elmbridge,30
 OrganisationURI,http://opendatacommunities.org/id/district-council/south-staffordshire,29
 OrganisationURI,http://opendatacommunities.org/id/district-council/rushcliffe,29
 OrganisationURI,http://opendatacommunities.org/doc/district-council/swale,29
-OrganisationURI,http://opendatacommunities.org/id/district-council/oadby-and-wigston,28
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/enfield,27
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/ua/E06000003,27
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000198,27
