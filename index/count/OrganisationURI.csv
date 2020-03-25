@@ -83,6 +83,7 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/northampton,1
 OrganisationURI,http://opendatacommunities.org/id/district-council/basildon,197
 OrganisationURI,http://opendatacommunities.org/id/district-council/basingstoke,194
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/rotherham,192
+OrganisationURI,http://opendatacommunities.org/id/unitary-authority/shropshire,191
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/barking-and-dagenham,189
 OrganisationURI,http://opendatacommunities.org/id/district-council/eden,188
 OrganisationURI,http://opendatacommunities.org/id/district-council/welwyn-hatfield,185
@@ -104,6 +105,7 @@ OrganisationURI,http://opendatacommunities.org/doc/unitary-authority/north-linco
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/milton-keynes,161
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/hull,161
 OrganisationURI,Maidstone E07000110,158
+OrganisationURI,http://opendatacommunities.org/id/district-council/tunbridge-wells,156
 OrganisationURI,http://opendatacommunities.org/id/district-council/dartford,154
 OrganisationURI,http://opendatacommunities.org/id/district-council/north-devon,153
 OrganisationURI,http://opendatacommunities.org/id/district-council/scarborough,150
@@ -131,7 +133,6 @@ OrganisationURI,"Click here to go to the city council entry on the Ministry of H
 OrganisationURI,http://opendatacommunities.org/id/district-council/eastbourne,118
 OrganisationURI,http://opendatacommunities.org/id/district-council/oxford,117
 OrganisationURI,http://opendatacommunities.org/id/district-council/erewash,117
-OrganisationURI,http://opendatacommunities.org/id/district-council/tunbridge-wells,115
 OrganisationURI,http://opendatacommunities.org/id/district-council/horsham,113
 OrganisationURI,http://opendatacommunities.org/id/district-council/chorley,113
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/north-east-lincolnshire,112
@@ -190,7 +191,6 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/north-east-de
 OrganisationURI,http://opendatacommunities.org/id/district-council/south-oxfordshire,83
 OrganisationURI,http://opendatacommunities.org/id/district-council/sedgemoor,82
 OrganisationURI,http://opendatacommunities.org/id/borough-council/ashford,82
-OrganisationURI,http://opendatacommunities.org/id/unitary-authority/shropshire,81
 OrganisationURI,http://opendatacommunities.org/id/district-council/rossendale,81
 OrganisationURI,http://opendatacommunities.org/id/district-council/christchurch,81
 OrganisationURI,https://digital-land.github.io/organisation/local-authority-eng/STO/,80

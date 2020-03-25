@@ -1,5 +1,5 @@
 field,value,count
-OrganisationLabel,"",10683
+OrganisationLabel,"",10793
 OrganisationLabel,London Borough of Camden,3296
 OrganisationLabel,Southwark Council,1038
 OrganisationLabel,Manchester City Council,1019
@@ -82,6 +82,7 @@ OrganisationLabel,Wirral,165
 OrganisationLabel,North Lincolnshire Council,162
 OrganisationLabel,Milton Keynes Council,161
 OrganisationLabel,"""Kingston upon Hull, City of""",161
+OrganisationLabel,Tunbridge Wells Borough Council,156
 OrganisationLabel,South Gloucestershire Council,153
 OrganisationLabel,North Devon Council,153
 OrganisationLabel,London Borough of Bexley,153
@@ -113,7 +114,6 @@ OrganisationLabel,Eastbourne Borough Council,118
 OrganisationLabel,Oxford City Council,117
 OrganisationLabel,New Forest District Council,117
 OrganisationLabel,Teignbridge District Council,116
-OrganisationLabel,Tunbridge Wells Borough Council,115
 OrganisationLabel,Chorley,113
 OrganisationLabel,Boston Borough Council,112
 OrganisationLabel,Chelmsford City Council,110
