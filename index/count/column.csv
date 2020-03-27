@@ -59,7 +59,7 @@ ApplicationAndPolicyRef,1
 Approved,1
 Approved date,1
 Are there known ownership or tenancy issues?,3
-Area,1
+Area,2
 Area (ha),3
 Area of Land in Hectares,2
 AreaOfOutstandingNaturalBeautyDevelopmentPlanDocumentReference,1
@@ -101,7 +101,7 @@ Capacity min remaining,2
 Co-ordinate Reference System,3
 Co-ordinate system,2
 Column1,1
-Comments,1
+Comments,2
 ConservationArea,1
 Constraints,4
 ConstructionStatus,5
@@ -147,12 +147,12 @@ Date first entered on the register,1
 Date granted,1
 Date last updated on the register,1
 DateUpdate,2
-Date_Permission,1
+Date_Permission,2
 Decision_Date,3
 Deliverabl,3
-Deliverable,831
+Deliverable,832
 Deliverable - mandatory if yes,1
-Description,2
+Description,3
 Description of Proposed Development,3
 Description of the development,1
 Developable area (ha),1
@@ -169,12 +169,12 @@ DevelopmentDescription - mandatory where relevant,1
 Developmentdescription,3
 Discription/Notes,1
 District,1
-Dwelling_Range,1
+Dwelling_Range,2
 EAST,1
 EASTING,21
 ETRS89,4
 EVENTS,1
-Easting,123
+Easting,124
 Eastings,6
 Eastings (Geo X),1
 EffectiveDate,2
@@ -320,7 +320,7 @@ Local Plan reference/SLAA reference,2
 Local authority name,1
 LocalPlanPolRef,1
 LocalPlanURL,1
-Local_Authority,1
+Local_Authority,2
 Location,35
 Location / Address,1
 Location Coordinates North South,2
@@ -353,7 +353,7 @@ MinNet Dwellings,3
 MinNetDwel,2
 MinNetDwellings,680
 MinNetDwellingsComment,4
-Min_Capacity,1
+Min_Capacity,2
 Minimum Net Dwellings,2
 Minimum amount of Dwellings,3
 Minimum net dwellings,1
@@ -425,8 +425,8 @@ NonHousingDeveloment,2
 NonHousingDevelopemnt,1
 NonHousingDevelopment,667
 NonHousingDevelopment - mandatory where relevant,1
-Non_Resi_Dev,1
-Northing,122
+Non_Resi_Dev,2
+Northing,123
 Northings,7
 Northings (Geo Y),1
 Note,1
@@ -494,7 +494,7 @@ OwenrshipStatus,1
 Owners,9
 Owners (if known),2
 Owners (if public sector or HA),3
-Ownership,3
+Ownership,4
 Ownership 2,2
 Ownership Information,3
 Ownership Status,47
@@ -562,7 +562,7 @@ PermissionTyne,2
 PermissionType,782
 PermissionType - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.,1
 PeviouslyPartof,1
-Plan,1
+Plan,2
 PlanPermission,5
 Plan_Status: permissd. / pending / no app.,1
 Plan_Status: permissd. / pending / no application,1
@@ -575,7 +575,7 @@ Planning History URL,1
 Planning History link,2
 Planning Permission,1
 Planning Permission Status,2
-Planning Reference,1
+Planning Reference,2
 Planning Reference Number,1
 Planning Status,53
 Planning application Reference,1
@@ -598,7 +598,7 @@ PlanningHistoryURL,1
 PlanningReference,8
 PlanningSt,4
 PlanningStatus,790
-Planning_Status,2
+Planning_Status,3
 Planning_Status_Reference,2
 Planningapplicationreference,1
 Polygon,2
@@ -638,10 +638,10 @@ Publisher URL,1
 PublisherLabel,4
 PublisherURI,4
 REFVAL,1
-Reference,5
+Reference,6
 Reference System,1
-Reference_System,1
-Register_Date,1
+Reference_System,2
+Register_Date,2
 Residential Development Description,2
 RowNumber,1
 SCALE OF NON HOUSING DEVELOPMENT,2
@@ -739,8 +739,8 @@ SiteRefere,3
 SiteReference,781
 SiteReference (also SHLAA Reference),3
 SiteReferenceAlternate,1
-Site_Address,1
-Site_Name,1
+Site_Address,2
+Site_Name,2
 Site_Plan_URL,1
 Site_Ref,1
 Siteplan,8
@@ -774,9 +774,9 @@ Total area (Hectares),1
 Total site area (hectares),1
 Total_ha,1
 Type of Permission,3
-Type_Permission,1
+Type_Permission,2
 UPRN,17
-URI,2
+URI,3
 URLOrganisationLabel,1
 Under construction at 1 April 2018,1
 Uni_ID,1
@@ -784,7 +784,7 @@ Unnamed: 28,1
 Unnamed: 30,1
 Unnamed: 31,1
 Unnamed: 32,1
-Updated_Date,1
+Updated_Date,2
 VersionNumber,2
 WARD,1
 Ward,7
