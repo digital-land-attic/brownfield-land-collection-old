@@ -1,7 +1,7 @@
 field,value,count
 OwnershipStatus,not owned by a public authority,26161
+OwnershipStatus,unknown ownership,6548
 OwnershipStatus,Not owned by a public authority,5783
-OwnershipStatus,unknown ownership,5761
 OwnershipStatus,owned by a public authority,4572
 OwnershipStatus,Unknown ownership,3402
 OwnershipStatus,unkown ownership,2376
@@ -65,6 +65,7 @@ OwnershipStatus,public authority,3
 OwnershipStatus,Owned by a public authority - HBC,3
 OwnershipStatus,Onwed by a public authorty,3
 OwnershipStatus,Kent County Council,3
+OwnershipStatus,ownership unknown,2
 OwnershipStatus,owned by a public authorty,2
 OwnershipStatus,owned by a public authority (part),2
 OwnershipStatus,Unknown owership,2
@@ -79,7 +80,6 @@ OwnershipStatus,Not owned by  apublic authority,2
 OwnershipStatus,0.21,2
 OwnershipStatus,0.11,2
 OwnershipStatus,0.05,2
-OwnershipStatus,ownership unknown,1
 OwnershipStatus,owmed by a public authority,1
 OwnershipStatus,Unknown ownerhip,1
 OwnershipStatus,Unknown Owership,1

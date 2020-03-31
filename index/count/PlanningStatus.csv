@@ -1,16 +1,16 @@
 field,value,count
-PlanningStatus,permissioned,24983
-PlanningStatus,not permissioned,14074
+PlanningStatus,permissioned,25391
+PlanningStatus,not permissioned,14145
 PlanningStatus,Permissioned,9073
 PlanningStatus,Not permissioned,2554
+PlanningStatus,"",2355
 PlanningStatus,Not Permissioned,2118
-PlanningStatus,"",2054
 PlanningStatus,pending decision,1512
 PlanningStatus,Full Planning Permission,430
 PlanningStatus,Pending decision,330
 PlanningStatus,Other Commitment,230
 PlanningStatus,Under Construction,114
-PlanningStatus,permission,100
+PlanningStatus,permission,102
 PlanningStatus,Pending Decision,81
 PlanningStatus,Completed During 2018/19,74
 PlanningStatus,Completed During 2016/17,74
@@ -34,6 +34,8 @@ PlanningStatus,NOT PERMISSIONED,5
 PlanningStatus,under construction,4
 PlanningStatus,pending Decision,4
 PlanningStatus,Allocation,4
+PlanningStatus,permissions on site,3
+PlanningStatus,full planning permission,3
 PlanningStatus,Pending permission,3
 PlanningStatus,Outline consent,3
 PlanningStatus,No permissioned,3
@@ -42,7 +44,6 @@ PlanningStatus,Approved,3
 PlanningStatus,permissiond,2
 PlanningStatus,permisioned,2
 PlanningStatus,pending descision,2
-PlanningStatus,full planning permission,2
 PlanningStatus,decision pending,2
 PlanningStatus,Reserve mattes permi,2
 PlanningStatus,Prior notification,2
@@ -57,6 +58,8 @@ PlanningStatus,outline planning permission,1
 PlanningStatus,outline permission,1
 PlanningStatus,not Permissioned,1
 PlanningStatus,no application,1
+PlanningStatus,full permissioned,1
+PlanningStatus,full permission,1
 PlanningStatus,Y15/0072/SH,1
 PlanningStatus,Y11/0137/SH,1
 PlanningStatus,Resolution to grant\nY15/0030/SH,1
