@@ -128,6 +128,7 @@ OrganisationURI,http://opendatacommunities.org/id/unitary-authority/bath-and-nor
 OrganisationURI,http://opendatacommunities.org/id/district-council/fareham,124
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/dudley,123
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/telford-and-wrekin,122
+OrganisationURI,http://opendatacommunities.org/id/district-council/south-somerset,121
 OrganisationURI,http://opendatacommunities.org/id/district-council/newcastle-staffs,119
 OrganisationURI,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website",119
 OrganisationURI,http://opendatacommunities.org/id/district-council/eastbourne,118
@@ -214,7 +215,6 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/crawley,76
 OrganisationURI,http://opendatacommunities.org/id/district-council/Harlow,76
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/derby,75
 OrganisationURI,http://opendatacommunities.org/id/district-council/winchester,74
-OrganisationURI,http://opendatacommunities.org/id/district-council/south-somerset,74
 OrganisationURI,http://opendatacommunities.org/id/district-council/hertsmere,74
 OrganisationURI,http://opendatacommunities.org/doc/district-council/boston,74
 OrganisationURI,http://opendatacommunities.org/id/district-council/st-albans,73
@@ -235,6 +235,7 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/broadland,62
 OrganisationURI,http://www.opendatacommunities.org/id/metropolitan-district-council/sunderland,61
 OrganisationURI,http://opendatacommunities.org/id/district-council/vale-of-white-horse,61
 OrganisationURI,http://opendatacommunities.org/id/district-council/hastings,61
+OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000037,60
 OrganisationURI,http://opendatacommunities.org/id/district-council/wychavon,60
 OrganisationURI,http://opendatacommunities.org/id/district-council/wealden,60
 OrganisationURI,http://opendatacommunities.org/id/district-council/suffolk-coastal,60
@@ -299,7 +300,6 @@ OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E
 OrganisationURI,http://opendatacommunities.org/id/district-council/warwick,31
 OrganisationURI,http://opendatacommunities.org/id/district-council/mid-devon,31
 OrganisationURI,http://opendatacommunities.org/id/district-council/epsom-and-ewell,31
-OrganisationURI,http://opendatacommunities.org/id/geography/administration/nmd/E07000037,30
 OrganisationURI,http://opendatacommunities.org/id/district-council/west-oxfordshire,30
 OrganisationURI,http://opendatacommunities.org/id/district-council/elmbridge,30
 OrganisationURI,http://opendatacommunities.org/id/district-council/south-staffordshire,29
