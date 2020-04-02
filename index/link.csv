@@ -107,6 +107,7 @@ link,url
 2271dda0263bac34640528928368fcbe230c6b6092f4b66dfd090b3ee070d9de,https://www.charnwood.gov.uk/files/documents/2019_charnwood_brownfield_land_register/2019%20Charnwood%20Brownfield%20Land%20Register.csv
 2281a333c818d5eb0fc163ef37585b1ef60ec33df8be8471d1adba37802eb610,https://www.hartlepool.gov.uk/download/downloads/id/3889/brownfield_land_register_-_part_1.xlsm
 22b8142c42493d3d2ebbb573e22912da5088af1fdfae29b771f1f66c85f1fecc,http://www.ribblevalley.gov.uk/download/downloads/id/11621/brownfield_register_csv_file
+232b738fdfcae4e41c82bf6f3921207d7e67c91181e63c10882bf71f981ccce9,https://www.herefordshire.gov.uk/download/downloads/id/13144/brownfield_sites_register_2019_csv.csv
 239f7a38efe51fb6271d40bd76dd7413fecb458a5c4d1e0febde7eb98550fb7b,http://info.ambervalley.gov.uk/shareddatasets/brownfieldlandregister/Amber%20Valley%20Brownfield%20Land%20Register%202019.csv
 241972008f313fe53ba8a803d59267f7ef5edc87f56188b1883dff3265131e71,https://www.stalbans.gov.uk/Images/SP_CSV_st-albans_brownfieldregister_2018-12-31_rev1_tcm15-66446.csv
 2492b8b210fa740b361120a88f233e154107867388d7babe220e78ba70816c0e,https://www.north-norfolk.gov.uk/media/3783/northnorfolk_brownfieldregister_2017-12-19_rev1.csv
@@ -623,6 +624,7 @@ c3ba8ac4ebb80ff1a2c402b93ca9589a6acd905d90cc1349702cd9b39de1fe6a,https://www.bro
 c3f3786b320119d81fa0230f54fc05496ed90a8fa57f2672dd51b49c55f63794,http://www.wiltshire.gov.uk/downloads/15681
 c40c735f8a48b6815bcd3ac46897d00d307b90ec8aeb4b74f11180f23368ba6b,https://www.sedgemoor.gov.uk/media/3722/sedgemoor-brownfieldregister-2018-11-27-rev2/csv/sedgemoor_brownfieldregister_2018-11-27_rev2.csv
 c5aad3633bd009dad7f20ff733d79cf7cc4a4a57acd0987ef4dd3fe77a6c3e2a,https://www.teignbridge.gov.uk/media/8707/brownfieldlandregisterteignbridge2019.csv
+c687ed16cca030e03249029f8da9454263c50f7848cfcdb3c322056e5b8af71d,https://www.dorsetcouncil.gov.uk/planning-buildings-land/planning-policy/brownfield-land-register/brownfield-land.csv
 c69886f913548000a4cdd98a8d84bff2ee05f8980c176c7c04b247c5f47b02a6,https://www.rushcliffe.gov.uk/media/1rushcliffe/media/documents/excel/planningandbuilding/planningpolicy/rushcliffe_brownfieldregister_2018_12_19_rev1.csv
 c6d253fc7b5d792398b9d633dd02aefa56efcfaa9bb5576d0dce8873ea8338a5,http://www.eastsuffolk.gov.uk/assets/Planning/Brownfield-Land-Register/East-Suffolk-Brownfield-Land-Register.csv
 c6fef3aabd298d583a2acb3267dd8aac27865190e4e94f3d762bbbbe1723029d,https://data.leicester.gov.uk/explore/dataset/leicester_brownfieldregister_2017-12-31_rev1/download/?format=csv&timezone=Europe/London&use_labels_for_header=true&csv_separator=%2C
