@@ -148,6 +148,7 @@ local-authority-eng:CHI,https://www.chichester.gov.uk/article/29787/Brownfield-l
 local-authority-eng:CHI,https://www.chichester.gov.uk/article/29787/Brownfield-land-register,https://www.chichester.gov.uk/CHttpHandler.ashx?id=31086&p=0,,
 local-authority-eng:CHI,https://www.chichester.gov.uk/article/29787/Brownfield-land-register,https://www.chichester.gov.uk/CHttpHandler.ashx?id=32798&p=0,2019-12-22,
 local-authority-eng:CHL,https://www.chelmsford.gov.uk/planning-and-building-control/planning-policy-and-new-local-plan/new-local-plan/brownfield-register/,https://www.chelmsford.gov.uk/EasySiteWeb/GatewayLink.aspx?alId=1095043,,
+local-authority-eng:CHL,https://www.chelmsford.gov.uk/planning-and-building-control/planning-policy-and-new-local-plan/new-local-plan/brownfield-register/,https://www.chelmsford.gov.uk/_resources/assets/attachment/full/0/1095043.csv,2020-04-02,
 local-authority-eng:CHN,,http://www.chiltern.gov.uk/media/11738/Chiltern-Brownfield-Register-Part-1/CSV/Chiltern_Brownfield_Register_-_Part_1.csv,,2019-11-29
 local-authority-eng:CHN,https://chiltern.gov.uk/planning/brownfieldregister,https://chiltern.gov.uk/media/12650/Chiltern-Brownfield-Land-Register-Part-1/CSV/Chiltern_Brownfield_Register_-_Part_1.csv,,
 local-authority-eng:CHO,,http://chorley.gov.uk/Documents/Planning/Planning%20Policy/chorley_brownfieldregister_2017-10-12_rev1.csv,2017-10-12,2020-01-30
@@ -165,6 +166,7 @@ local-authority-eng:CHT,https://www.cheltenham.gov.uk/info/12/planning_and_devel
 local-authority-eng:CHT,https://www.cheltenham.gov.uk/info/12/planning_and_development/1362/brownfield_register,https://www.cheltenham.gov.uk/download/downloads/id/7903/cheltenham_brownfield_register_2019.csv,2020-03-10,
 local-authority-eng:CHW,,http://consult.cheshirewestandchester.gov.uk/file/4828366,,
 local-authority-eng:CHW,https://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr,https://consult.cheshirewestandchester.gov.uk/file/5387565,,
+local-authority-eng:CHW,https://consult.cheshirewestandchester.gov.uk/portal/cwc_ldf/land/blr,https://consult.cheshirewestandchester.gov.uk/file/5618778,,
 local-authority-eng:CLD,https://dataworks.calderdale.gov.uk/dataset/brownfield-land-register,https://files.datapress.com/calderdale/dataset/brownfield-land-register/2017-12-21T10:30:42.92/brownfield-register.csv,2017-12-21,2019-02-19
 local-authority-eng:CLD,https://dataworks.calderdale.gov.uk/dataset/brownfield-land-register,https://dataworks.calderdale.gov.uk/download/brownfield-land-register/ce479c95-8ad9-4e3f-98fe-c8c59d0a7742/Brownfield%20land%20register%202018.xlsx,2019-02-19,
 local-authority-eng:CMD,https://www.camden.gov.uk/planning-guidance#byto,https://opendata.camden.gov.uk/api/views/dc7i-3xh8/rows.csv?accessType=DOWNLOAD,2017-12-22,2019-11-29
@@ -183,9 +185,10 @@ local-authority-eng:COV,,http://www.coventry.gov.uk/download/downloads/id/27273/
 local-authority-eng:COV,https://www.coventry.gov.uk/brownfieldlandregister,https://www.coventry.gov.uk/download/downloads/id/27571/brownfield_land_register.xlsm,,
 local-authority-eng:CRA,https://www.cravendc.gov.uk/planning/brownfield-land-register/,https://www.cravendc.gov.uk/media/5414/brownfield-land-register-020218.xlsx,,2019-10-20
 local-authority-eng:CRA,https://www.cravendc.gov.uk/planning/brownfield-land-register/,https://www.cravendc.gov.uk/media/5414/z-local-plans-website-blr-brownfield-land-register-020218.xlsx,,
-local-authority-eng:CRW,https://crawley.gov.uk/pw/Planning_and_Development/Planning_Policy/BrownfieldLandRegister/index.htm,http://www.crawley.gov.uk/pw/native/PUB327228,,
-local-authority-eng:CRW,https://crawley.gov.uk/pw/Planning_and_Development/Planning_Policy/BrownfieldLandRegister/index.htm,https://crawley.gov.uk/pw/native/PUB327228,,
-local-authority-eng:CRW,http://www.crawley.gov.uk/pw/Planning_and_Development/Planning_Policy/EngagementandMonitoring/BrownfieldLandRegister/index.htm,http://www.crawley.gov.uk/pw/native/PUB327228,,
+local-authority-eng:CRW,https://crawley.gov.uk/pw/Planning_and_Development/Planning_Policy/BrownfieldLandRegister/index.htm,http://www.crawley.gov.uk/pw/native/PUB327228,,2020-04-02
+local-authority-eng:CRW,https://crawley.gov.uk/pw/Planning_and_Development/Planning_Policy/BrownfieldLandRegister/index.htm,https://crawley.gov.uk/pw/native/PUB327228,,2020-04-02
+local-authority-eng:CRW,http://www.crawley.gov.uk/pw/Planning_and_Development/Planning_Policy/EngagementandMonitoring/BrownfieldLandRegister/index.htm,http://www.crawley.gov.uk/pw/native/PUB327228,,2020-04-02
+local-authority-eng:CRW,https://crawley.gov.uk/brownfield,https://crawley.gov.uk/sites/default/files/2020-03/PUB327228%20brownfield-land.csv,2020-04-02,
 local-authority-eng:CRY,,https://www.croydon.gov.uk/sites/default/files/articles/downloads/Croydon%20Brownfield%20Land%20Register.xlsx,,2019-12-24
 local-authority-eng:CRY,https://www.croydon.gov.uk/planningandregeneration/framework/localplan/registers/brownfield-land-register,https://www.croydon.gov.uk/sites/default/files/articles/downloads/Brownfield%20Land%20Register-Dec18.xlsx,,2019-12-24
 local-authority-eng:CRY,https://www.croydon.gov.uk/planningandregeneration/framework/localplan/registers/brownfield-land-register,https://www.croydon.gov.uk/sites/default/files/Croydon%20Brownfield%20Land%20Register%202019.csv,2019-12-24,
