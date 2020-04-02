@@ -2,12 +2,15 @@ name: Run brownfield land collection
 
 on:
   push:
-    paths:
-      - 'dataset/**'
+    paths-ignore:
+      - 'collection/**'
+      - 'validation/**'
+      - 'var/**'
+      - 'index/**'
     branches:
       - master
   schedule:
-    - cron:  '0 0 * * *'
+    - cron: '0 0 * * *'
 
 env:
   GITHUB_ACTOR_EMAIL: ${{ secrets.GITHUB_ACTOR_EMAIL }}
