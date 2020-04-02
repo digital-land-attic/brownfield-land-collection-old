@@ -18,12 +18,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v1
-    - name: Install Python 3.7
-      uses: actions/setup-python@v1
+    - uses: actions/checkout@v2
+    - uses: actions/setup-python@v1
       with:
-        python-version: 3.7
+        python-version: 3.8
     - name: Setup git
       run: |
         git config user.email "${GITHUB_ACTOR_EMAIL}"
@@ -38,15 +36,15 @@ jobs:
       run: |
         git add collection
         git diff --quiet && git diff --staged --quiet || (git commit -m "Commit files collected on $(date +%F)"; git push origin master)
-    - name: Validate collected resources
+    - name: Validate resources
       run: make validate
-    - name: Commit validation files
+    - name: Commit validation output
       run: |
         git add validation
         git diff --quiet && git diff --staged --quiet || (git commit -m "Commit files validated on $(date +%F)"; git push origin master)
-    - name: Create dataset and indexes
+    - name: Harmonise files, create dataset and index
       run: make harmonise dataset index
-    - name: Commit dataset and indexes
+    - name: Commit harmonised files, dataset and indexes
       run: |
         git add var index
         git diff --quiet && git diff --staged --quiet || (git commit -m "Commit new dataset and indexes for $(date +%F)"; git push origin master)
