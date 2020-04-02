@@ -209,7 +209,7 @@ local-authority-eng:DNC,,https://dmbcpublicwebsite.blob.core.windows.net/media/D
 local-authority-eng:DNC,https://www.doncaster.gov.uk/services/planning/brownfield-land-register,https://dmbcwebstolive01.blob.core.windows.net/media/Default/Planning/Documents/Local%20Plan/Self%20build%20register/Brown%20Field%20Land%20Register%202018.csv,2018-12-19,
 local-authority-eng:DOV,,https://www.dover.gov.uk/Planning/Planning-Policy-and-Regeneration/Regeneration-and-Development-Opportunities/Brownfield-Register-csv.csv,,2019-10-20
 local-authority-eng:DOV,https://www.dover.gov.uk/Planning/Planning-Policy-and-Regeneration/Regeneration-and-Development-Opportunities/Brownfield-Register.aspx,https://www.dover.gov.uk/Planning/Planning-Policy-and-Regeneration/Regeneration-and-Development-Opportunities/Dover-Brownfield-Register-2018.csv,,
-local-authority-eng:DST,https://www.dorsetcouncil.gov.uk/planning-buildings-land/planning-policy/planning-policy.aspx,,,
+local-authority-eng:DST,https://www.dorsetcouncil.gov.uk/planning-buildings-land/planning-policy/planning-policy.aspx,https://www.dorsetcouncil.gov.uk/planning-buildings-land/planning-policy/brownfield-land-register/brownfield-land.csv,2020-04-02,
 local-authority-eng:DUD,https://www.dudley.gov.uk/residents/planning/brownfield-land-register/,http://www.dudley.gov.uk/EasysiteWeb/getresource.axd?AssetID=290865&type=full&servicetype=Attachment,,2019-11-18
 local-authority-eng:DUD,https://www.dudley.gov.uk/residents/planning/brownfield-land-register/,https://www.dudley.gov.uk/media/6155/dudley_brownfieldregister_2017-12-21_rev1.csv,2017-12-21,
 local-authority-eng:DUD,https://www.dudley.gov.uk/residents/planning/brownfield-land-register/,https://www.dudley.gov.uk/media/14362/brownfield-land.csv,2020-03-13,
@@ -319,6 +319,7 @@ local-authority-eng:HCK,https://hackney.gov.uk/brownfield-land-register,,2019-06
 local-authority-eng:HCK,https://hackney.gov.uk/brownfield-land-register,https://drive.google.com/file/d/1qpyaNoBf3VTCxE9a5IQ3DDapYXIsIbyj/view,,
 local-authority-eng:HEF,,https://www.herefordshire.gov.uk/download/downloads/id/13144/brownfield_sites_register_2018.csv,,2019-12-14
 local-authority-eng:HEF,https://www.herefordshire.gov.uk/info/200148/your_council/34/our_open_data_principles/9,https://www.herefordshire.gov.uk/download/downloads/id/13144/brownfield_sites_register_2018_csv.csv,,
+local-authority-eng:HEF,https://www.herefordshire.gov.uk/info/200148/your_council/34/our_open_data_principles/9,https://www.herefordshire.gov.uk/download/downloads/id/13144/brownfield_sites_register_2019_csv.csv,2020-04-02,
 local-authority-eng:HER,https://www.hertsmere.gov.uk/Planning--Building-Control/Planning-Policy/Brownfield-land-register.aspx,https://www.hertsmere.gov.uk/Documents/09-Planning--Building-Control/Planning-Policy/hertsmere-brownfieldregister-2017-12-22-rev1-correction2018-03.xlsx,2017-12-22,
 local-authority-eng:HER,https://www.hertsmere.gov.uk/Planning--Building-Control/Planning-Policy/Other-guidance-and-information/Brownfield-land-register.aspx,https://www.hertsmere.gov.uk/Documents/09-Planning--Building-Control/Planning-Policy/hertsmere-brownfieldregister-2017-12-22-rev1-correction2018-03.xlsx,2018-03-10,
 local-authority-eng:HIG,,https://www.highpeak.gov.uk/media/2795/Brownfield-Register-CSV/Excel/High_Peak_Brownfield_Land_CSV_3.csv,,
