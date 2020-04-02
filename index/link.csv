@@ -66,6 +66,7 @@ link,url
 1403bbbf396101e1ebf5feaaa484b2180d2d51403e132dd25b8950fc97a830d9,https://www.rushmoor.gov.uk/brownfieldlandregistercsv
 141233a17c620d221291c83d1c85c03c8b2e43047fad1c2dea5da13775fba71f,http://data.bassetlaw.gov.uk/media/751005/BrownfieldLandRegister2017.csv
 149fc25ae7b0ee894d693abce0c3ccf66d0b31b5deda2380e1e3fd8a34490477,https://www.oadby-wigston.gov.uk/files/documents/brownfield_land_register_part_1_2019/Brownfield%20Land%20Register%20Part%201%202019.xlsm
+14a53c81a5ea9886404fa18fa690ee7482d86a78ba7a9a0088287d7fec1960ab,https://crawley.gov.uk/sites/default/files/2020-03/PUB327228%20brownfield-land.csv
 1557e0e322fd55067f4c9d541d7cf2862809b8e2e945d13bb69a3757e839e9ec,https://www.brighton-hove.gov.uk/sites/brighton-hove.gov.uk/files/Brighton%26Hove_Final_BLR_%202018_Validated.csv
 156806e678bb09a5049eac29c96b3ba836ae5e03df7852ac0a49545534b31fcc,https://www.great-yarmouth.gov.uk/CHttpHandler.ashx?id=4930&p=0
 15a5f3cdade92053d3fde97de96b41fd79029bc32037cf3d1d3e96790cb147ad,https://www.bolton.gov.uk/downloads/file/1400/brownfield-land-register-december-2017
@@ -352,6 +353,7 @@ link,url
 69cb19a12c57d575d309f692e20a390b36d0542129d113df99cdc861a712a71f,https://data.barrowbc.gov.uk/dataset/3f587e30-a91e-4d0e-9525-a660706df8c0/resource/f1224cb5-812c-40ce-aece-54e2b55cecfa/download/barrow-in-furnessbrownfieldregister2018-03-22rev1.csv
 6a0476093fd0e738b17f74c9bea82c06c5012239c372e56436baf2af8b8d5771,http://www.efdclocalplan.org/wp-content/uploads/2018/03/Brownfield-Register.xlsx
 6a074f40b3d96977b652bf714f965ba93a6198f1cb4fb8c39a6e1507a2894a2a,http://www.redcar-cleveland.gov.uk/rcbcweb.nsf/E362D0843A70155880257D640049A543/%24FILE/redcarandcleveland_brownfieldregister_2017-11-10_rev1.csv
+6a580504450916112b1b86147e663cbfae6f3829e9ce0412bf5d6f75ba1710fe,https://consult.cheshirewestandchester.gov.uk/file/5618778
 6a99ff9fdc39368183a58389401d08bdc75dee9a461bcaac8e81a9c335fbe1bd,https://open.barnet.gov.uk/download/brownfield-land-register/d449098a-44b8-47cb-96ab-45465b0a11e4/Brownfield%20Land%20Register%20-%20Barnet%202018.csv
 6aa8f0e3cb4a35bc13f4dd8fb2803404a337bce31d6a0413c792c9120bf96f1e,https://www.winchester.gov.uk/assets/attach/13774/Brownfield%20Land%20Register%202017.csv
 6aaff7289b4e8add599540462712becdb1f33f6cb9a04884722cfc5cfbcc238d,https://www.ashfield.gov.uk/media/3811/ashfield-bflr.csv
@@ -780,6 +782,7 @@ f5956082f48ee7302cb36a28148c6704300a7e08e3ec95acfe4dcee2725bd41e,https://datamil
 f5f4bd0b8b111dde934d10a38484de28a5444cfe59b0845dba62cb31a9e38632,https://chorley.gov.uk/Documents/Planning/Planning%20Policy/Brownfield%20Sites%20Chorley%202020.csv
 f60671b34748ffb20e79509fc8e8d56e4e5643fb3a827ac44d327199cb80a035,http://www.fdean.gov.uk/media/5465/dclg-brownfield-land-register.csv
 f618e836695cc993d0b174923ff644051a6c691c35c238bcee61f84f18807032,http://www.harborough.gov.uk/download/downloads/id/3772/final_appendix_a_part_1_brownfield_land_register.xlsx
+f657b9103a417cb5858f565cf28e877c8201239452f89353d0fd11337c5fcb4a,https://www.chelmsford.gov.uk/_resources/assets/attachment/full/0/1095043.csv
 f68068dd03eb73c078f00b04512caebcd88c14d787fbff2f5e718733ea6f8023,https://www.nwleics.gov.uk/files/documents/brownfield_land_register1/northwestleicestershire_brownfieldregister_2017-12-31_rev1.csv
 f6977ba4e98603494f56336bd766e9b117612139c4d3e06e4027b029bb51f996,https://www.staffsmoorlands.gov.uk/media/3861/SM-2018-brownfield-register-CSV/Excel/SM_2018_Brownfield_register_csv.csv
 f6f13a35f713dd2a3a8043d237829d292f71e72605b7ed07361c2ea938f31f14,https://www.swindon.gov.uk/download/downloads/id/4369/swindon_brownfield_land_register_2018_part_2.csv

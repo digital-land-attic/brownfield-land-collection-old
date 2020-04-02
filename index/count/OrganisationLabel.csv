@@ -1,5 +1,5 @@
 field,value,count
-OrganisationLabel,"",11130
+OrganisationLabel,"",11142
 OrganisationLabel,London Borough of Camden,3393
 OrganisationLabel,Southwark Council,1826
 OrganisationLabel,Manchester City Council,1019
@@ -15,6 +15,7 @@ OrganisationLabel,Bristol City Council,651
 OrganisationLabel,Sheffield City Council,631
 OrganisationLabel,London Borough of Islington,570
 OrganisationLabel,London Borough of Redbridge,558
+OrganisationLabel,Cheshire West and Chester Council,537
 OrganisationLabel,London Borough of Lewisham,497
 OrganisationLabel,Royal Borough Of Greenwich,487
 OrganisationLabel,Sandwell MBC,437
@@ -23,7 +24,6 @@ OrganisationLabel,Reading Borough Council,414
 OrganisationLabel,Harrow Council,408
 OrganisationLabel,Westminster City Council,404
 OrganisationLabel,Birmingham City Council,404
-OrganisationLabel,Cheshire West and Chester Council,367
 OrganisationLabel,Nottingham City Council,366
 OrganisationLabel,London Borough of Newham,365
 OrganisationLabel,Royal Borough of Kensington and Chelsea,355

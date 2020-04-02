@@ -1,12 +1,12 @@
 field,value,count
-OwnershipStatus,not owned by a public authority,26473
+OwnershipStatus,not owned by a public authority,26617
 OwnershipStatus,unknown ownership,6549
 OwnershipStatus,Not owned by a public authority,5783
-OwnershipStatus,owned by a public authority,4627
+OwnershipStatus,owned by a public authority,4652
 OwnershipStatus,Unknown ownership,3402
 OwnershipStatus,unkown ownership,2376
 OwnershipStatus,"",2158
-OwnershipStatus,mixed ownership,1527
+OwnershipStatus,mixed ownership,1534
 OwnershipStatus,Owned by a public authority,1135
 OwnershipStatus,Unknown,978
 OwnershipStatus,Unknown Ownership,861
@@ -40,12 +40,12 @@ OwnershipStatus,not PA_owned,20
 OwnershipStatus,mixed owner,20
 OwnershipStatus,Mixed owner,20
 OwnershipStatus,"Local Authority, Unknown",20
+OwnershipStatus,multiple ownership,18
 OwnershipStatus,Public Authority,18
 OwnershipStatus,Ownedbyapublicauthority,16
 OwnershipStatus,Owned by the london borough of bromley,16
 OwnershipStatus,Owned by the London Borough of Bromley,15
 OwnershipStatus,owned by a public authori,14
-OwnershipStatus,multiple ownership,12
 OwnershipStatus,in public ownership,9
 OwnershipStatus,Owned by a  Public Authority,9
 OwnershipStatus,Mixed,9
