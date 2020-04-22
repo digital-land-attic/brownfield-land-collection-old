@@ -491,6 +491,7 @@ local-authority-eng:NSM,https://www.n-somerset.gov.uk/my-services/planning-build
 local-authority-eng:NTY,,http://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/northtyneside_brownfieldregister_2017-12-31_rev1.csv,2017-12-31,2019-10-20
 local-authority-eng:NTY,https://my.northtyneside.gov.uk/category/1134/housing-and-employment,http://northtyneside.limehouse.co.uk/file/5240299,2017-12-21,2020-01-23
 local-authority-eng:NTY,https://my.northtyneside.gov.uk/category/1134/housing-and-employment,https://northtyneside.objective.co.uk/file/5587332,2020-01-23,
+local-authority-eng:NTY,https://my.northtyneside.gov.uk/category/1134/housing-and-employment,https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/brownfield-land_0.csv,2020-04-22,
 local-authority-eng:NUN,https://www.nuneatonandbedworth.gov.uk/info/21052/brownfield_register/400/brownfield_register,https://www.nuneatonandbedworth.gov.uk/download/downloads/id/2209/nuneaton_and_bedworth_brownfield_register_-_csv_2017.csv,,
 local-authority-eng:NUN,https://www.nuneatonandbedworth.gov.uk/info/21052/brownfield_register/400/brownfield_register,https://www.nuneatonandbedworth.gov.uk/download/downloads/id/2209/nuneaton_and_bedworth_brownfield_register_-_csv_2018.csv,2019-01-07,
 local-authority-eng:NUN,https://www.nuneatonandbedworth.gov.uk/info/21052/brownfield_register/400/brownfield_register,https://www.nuneatonandbedworth.gov.uk/download/downloads/id/2209/nuneaton_and_bedworth_brownfield_register_-_csv_2019.csv,,
