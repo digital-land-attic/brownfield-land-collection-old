@@ -1,0 +1,100 @@
+row-number,field,issue-type,value
+1,PermissionDate,date,2017/08/24 00:00:00+00
+1,FirstAddedDate,date,2017/12/21 00:00:00+00
+1,LastUpdatedDate,default,2020-04-29
+2,PermissionDate,date,2014/08/08 00:00:00+00
+2,FirstAddedDate,date,2017/12/21 00:00:00+00
+2,LastUpdatedDate,default,2020-04-29
+3,PermissionDate,date,2015/01/09 00:00:00+00
+3,FirstAddedDate,date,2017/12/21 00:00:00+00
+3,LastUpdatedDate,default,2020-04-29
+4,PermissionDate,date,2006/07/18 00:00:00+00
+4,FirstAddedDate,date,2017/12/21 00:00:00+00
+4,LastUpdatedDate,default,2020-04-29
+5,PermissionDate,date,2016/03/01 00:00:00+00
+5,FirstAddedDate,date,2017/12/21 00:00:00+00
+5,LastUpdatedDate,default,2020-04-29
+6,PermissionDate,date,2016/10/07 00:00:00+00
+6,FirstAddedDate,date,2017/12/21 00:00:00+00
+6,LastUpdatedDate,default,2020-04-29
+7,PermissionDate,date,2017/03/06 00:00:00+00
+7,FirstAddedDate,date,2017/12/21 00:00:00+00
+7,LastUpdatedDate,default,2020-04-29
+8,PermissionDate,date,2017/09/14 00:00:00+00
+8,FirstAddedDate,date,2017/12/21 00:00:00+00
+8,LastUpdatedDate,default,2020-04-29
+9,PermissionDate,date,2017/10/06 00:00:00+00
+9,LastUpdatedDate,default,2020-04-29
+10,PermissionDate,date,2016/12/23 00:00:00+00
+10,LastUpdatedDate,default,2020-04-29
+11,PermissionDate,date,2017/08/23 00:00:00+00
+11,LastUpdatedDate,default,2020-04-29
+12,PermissionDate,date,2016/11/23 00:00:00+00
+12,LastUpdatedDate,default,2020-04-29
+13,PermissionDate,date,2017/04/12 00:00:00+00
+13,LastUpdatedDate,default,2020-04-29
+14,PermissionDate,date,2017/06/09 00:00:00+00
+14,LastUpdatedDate,default,2020-04-29
+15,PermissionDate,date,2017/11/15 00:00:00+00
+15,LastUpdatedDate,default,2020-04-29
+16,PermissionDate,date,2017/11/13 00:00:00+00
+16,FirstAddedDate,date,2017/12/21 00:00:00+00
+16,LastUpdatedDate,default,2020-04-29
+17,PermissionDate,date,2017/08/17 00:00:00+00
+17,FirstAddedDate,date,2017/12/21 00:00:00+00
+17,LastUpdatedDate,default,2020-04-29
+18,PermissionDate,date,2018/09/12 00:00:00+00
+18,LastUpdatedDate,default,2020-04-29
+19,PermissionDate,date,2018/02/19 00:00:00+00
+19,FirstAddedDate,date,2017/12/21 00:00:00+00
+19,LastUpdatedDate,default,2020-04-29
+20,PermissionDate,date,2017/12/11 00:00:00+00
+20,LastUpdatedDate,default,2020-04-29
+21,PermissionDate,date,2017/12/28 00:00:00+00
+21,LastUpdatedDate,default,2020-04-29
+22,PermissionDate,date,2018/07/13 00:00:00+00
+22,LastUpdatedDate,default,2020-04-29
+23,PermissionDate,date,2018/03/05 00:00:00+00
+23,LastUpdatedDate,default,2020-04-29
+24,PermissionDate,date,2018/09/28 00:00:00+00
+24,LastUpdatedDate,default,2020-04-29
+25,Hectares,minimum,0
+25,PermissionDate,date,2018/09/28 00:00:00+00
+25,LastUpdatedDate,default,2020-04-29
+25,Hectares,missing,
+26,LastUpdatedDate,default,2020-04-29
+27,LastUpdatedDate,default,2020-04-29
+28,LastUpdatedDate,default,2020-04-29
+29,LastUpdatedDate,default,2020-04-29
+30,LastUpdatedDate,default,2020-04-29
+31,LastUpdatedDate,default,2020-04-29
+32,LastUpdatedDate,default,2020-04-29
+33,LastUpdatedDate,default,2020-04-29
+34,LastUpdatedDate,default,2020-04-29
+35,LastUpdatedDate,default,2020-04-29
+36,LastUpdatedDate,default,2020-04-29
+37,LastUpdatedDate,default,2020-04-29
+38,LastUpdatedDate,default,2020-04-29
+39,Hectares,minimum,0
+39,LastUpdatedDate,default,2020-04-29
+39,Hectares,missing,
+39,"GeoX,GeoY",WGS84 outside England,"0,0"
+40,PermissionDate,date,2006/07/18 00:00:00+00
+40,FirstAddedDate,date,2017/12/21 00:00:00+00
+40,LastUpdatedDate,default,2020-04-29
+41,Hectares,minimum,0
+41,LastUpdatedDate,default,2020-04-29
+41,Hectares,missing,
+41,"GeoX,GeoY",WGS84 outside England,"0,0"
+42,Hectares,minimum,0
+42,LastUpdatedDate,default,2020-04-29
+42,Hectares,missing,
+42,"GeoX,GeoY",WGS84 outside England,"0,0"
+43,Hectares,minimum,0
+43,LastUpdatedDate,default,2020-04-29
+43,Hectares,missing,
+43,"GeoX,GeoY",WGS84 outside England,"0,0"
+44,Hectares,minimum,0
+44,LastUpdatedDate,default,2020-04-29
+44,Hectares,missing,
+44,"GeoX,GeoY",WGS84 outside England,"0,0"
