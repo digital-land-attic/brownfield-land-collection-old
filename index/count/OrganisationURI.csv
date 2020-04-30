@@ -8,12 +8,12 @@ OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/haringey,932
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/bradford,859
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/croydon,759
+OrganisationURI,http://opendatacommunities.org/id/district-council/sevenoaks,739
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/leeds,708
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/wandsworth,691
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/barnet,691
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/brent,658
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/bristol,651
-OrganisationURI,http://opendatacommunities.org/id/district-council/sevenoaks,650
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/sheffield,631
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/nottingham,594
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/northumberland,594
@@ -137,6 +137,7 @@ OrganisationURI,"Click here to go to the city council entry on the Ministry of H
 OrganisationURI,http://opendatacommunities.org/id/district-council/eastbourne,118
 OrganisationURI,http://opendatacommunities.org/id/district-council/oxford,117
 OrganisationURI,http://opendatacommunities.org/id/district-council/erewash,117
+OrganisationURI,http://opendatacommunities.org/id/district-council/west-lindsey,116
 OrganisationURI,http://opendatacommunities.org/id/district-council/horsham,113
 OrganisationURI,http://opendatacommunities.org/id/district-council/chorley,113
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/north-east-lincolnshire,112
@@ -185,7 +186,6 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/east-cambridg
 OrganisationURI,http://opendatacommunities.org/id/district-council/craven,86
 OrganisationURI,http://opendatacommunities.org/doc/district-council/copeland,86
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/middlesbrough,85
-OrganisationURI,http://opendatacommunities.org/id/district-council/west-lindsey,84
 OrganisationURI,http://opendatacommunities.org/id/district-council/tendring,84
 OrganisationURI,http://opendatacommunities.org/id/district-council/south-cambridgeshire,84
 OrganisationURI,http://opendatacommunities.org/id/district-council/north-east-derbyshire,84
@@ -370,17 +370,17 @@ OrganisationURI,http://opendatacommunities.org/id/london-borough-council/hounslo
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/city-of-london,9
 OrganisationURI,http://opendatacommunities.org/id/district-council/mid-suffolk,9
 OrganisationURI,Forest Heath,9
+OrganisationURI,local-authority-eng:HAE,8
 OrganisationURI,http://opendatacommunities.org/id/geography/administration/ua/E06000132,8
 OrganisationURI,http://opendatacommunities.org/id/district-council/west-devon,8
 OrganisationURI,http://opendatacommunities.org/id/district-council/east-northamptonshire,7
 OrganisationURI,http://opendatacommunities.org/id/national-park-authority/lake-district,6
 OrganisationURI,http://opendatacommunities.org/id/national-park-authority/exmoor,6
 OrganisationURI,http://opendatacommunities.org/id/district-council/ryedale,6
+OrganisationURI,http://opendatacommunities.org/id/district-council/north-kesteven,6
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/rutland,5
 OrganisationURI,http://opendatacommunities.org/id/district-council/hambleton,5
-OrganisationURI,local-authority-eng:HAE,4
 OrganisationURI,http://statistics.data.gov.uk/doc/statistical-geography/E26000006,4
-OrganisationURI,http://opendatacommunities.org/id/district-council/north-kesteven,4
 OrganisationURI,http://opendatacommunities.org/id/district-council/babergh,4
 OrganisationURI,http://opendatacommunities.org/id/districy-council/amber-valley,3
 OrganisationURI,http://opendatacommunities.org/doc/district-council/south-oxfordshire,3
