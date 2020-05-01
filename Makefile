@@ -252,7 +252,7 @@ $(FIXED_CONVERTED_FILES):
 # local copies of registers
 $(CACHE_DIR)/organisation.csv:
 	@mkdir -p $(CACHE_DIR)
-	curl -qs "https://raw.githubusercontent.com/digital-land/organisation-collection/master/collection/organisation.csv" > $@
+	curl -qs "https://raw.githubusercontent.com/digital-land/organisation-dataset/master/collection/organisation.csv" > $@
 
 black:
 	black .
