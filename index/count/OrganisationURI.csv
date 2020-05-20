@@ -6,8 +6,8 @@ OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/brighton-and-hove,1056
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/manchester,1019
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/haringey,932
+OrganisationURI,http://opendatacommunities.org/id/district-council/sevenoaks,917
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/bradford,859
-OrganisationURI,http://opendatacommunities.org/id/district-council/sevenoaks,828
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/croydon,759
 OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/leeds,708
 OrganisationURI,http://opendatacommunities.org/id/london-borough-council/wandsworth,691
@@ -192,6 +192,7 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/north-east-de
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/dorset,83
 OrganisationURI,http://opendatacommunities.org/id/district-council/south-oxfordshire,83
 OrganisationURI,http://opendatacommunities.org/id/district-council/sedgemoor,82
+OrganisationURI,http://opendatacommunities.org/id/district-council/mendip,82
 OrganisationURI,http://opendatacommunities.org/id/borough-council/ashford,82
 OrganisationURI,http://opendatacommunities.org/id/district-council/rossendale,81
 OrganisationURI,http://opendatacommunities.org/id/district-council/christchurch,81
@@ -253,7 +254,6 @@ OrganisationURI,http://opendatacommunities.org/id/district-council/east-dorset,5
 OrganisationURI,http://opendatacommunities.org/doc/unitary-authority/southend,56
 OrganisationURI,http://opendatacommunities.org/doc/unitary-authority/bracknell-forest,56
 OrganisationURI,http://opendatacommunities.org/id/unitary-authority/blackpool,55
-OrganisationURI,http://opendatacommunities.org/id/district-council/mendip,55
 OrganisationURI,http://opendatacommunities.org/doc/district-council/fenland,55
 OrganisationURI,http://opendatacommunities.org/id/district-council/south-bucks,54
 OrganisationURI,http://opendatacommunities.org/id/district-council/carlisle,54
