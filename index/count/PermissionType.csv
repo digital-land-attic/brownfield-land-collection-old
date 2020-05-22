@@ -1,10 +1,10 @@
 field,value,count
-PermissionType,"",25371
-PermissionType,full planning permission,19974
+PermissionType,"",25401
+PermissionType,full planning permission,20005
 PermissionType,full planning permis,2753
-PermissionType,outline planning permission,2688
+PermissionType,outline planning permission,2689
 PermissionType,Full planning permission,2097
-PermissionType,other,1837
+PermissionType,other,1838
 PermissionType,Full Planning Permission,1308
 PermissionType,reserved matters approval,909
 PermissionType,planning permission granted under an order,481
