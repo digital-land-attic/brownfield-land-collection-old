@@ -48,7 +48,7 @@ with open("schema/schema-field.csv", "w") as schema_field_file:
         schema_field_csv.writerow(
             {
                 "schema": "brownfield-land",
-                "field": field["name"],
+                "field": field["field"],
                 "cardinality": "1",
                 "description": field["description"],
             }
