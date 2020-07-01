@@ -12,8 +12,6 @@ datatypes = set()
 enums = []
 fields = []
 
-from pprint import pprint
-
 for field in schema["fields"]:
     datatype = field.get("format", None) or field.get("type", "string")
     datatypes.add(datatype)
@@ -24,7 +22,7 @@ for field in schema["fields"]:
             "datatype": datatype,
             "description": field["description"],
             "parent-field": "",
-            "replacement-field": "",
+            "replacement-field": field["digital-land"].get("field", None),
         }
     )
 
