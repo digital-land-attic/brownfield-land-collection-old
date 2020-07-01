@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import logging
 import sys
 import hashlib
@@ -10,7 +11,14 @@ def url_endpoint(url):
     return hashlib.sha256(url.encode("utf-8")).hexdigest()
 
 
-fieldnames = ["endpoint", "endpoint-url", "method", "start-date", "end-date"]
+fieldnames = [
+    "endpoint",
+    "endpoint-url",
+    "organisation",
+    "method",
+    "start-date",
+    "end-date",
+]
 writer = csv.DictWriter(open("collection/endpoint.csv", "w"), fieldnames=fieldnames)
 writer.writeheader()
 
@@ -23,6 +31,7 @@ for row in csv.DictReader(open("dataset/brownfield-land.csv")):
         {
             "endpoint": url_endpoint(url),
             "endpoint-url": url,
+            "organisation": row["organisation"],
             "method": None,
             "start-date": row["start-date"],
             "end-date": row["end-date"],
