@@ -1,11 +1,11 @@
 field,value,count
-PlanningStatus,permissioned,28153
-PlanningStatus,not permissioned,15264
+PlanningStatus,permissioned,28319
+PlanningStatus,not permissioned,15288
 PlanningStatus,Permissioned,9095
 PlanningStatus,Not permissioned,2571
 PlanningStatus,"",2392
 PlanningStatus,Not Permissioned,2118
-PlanningStatus,pending decision,1592
+PlanningStatus,pending decision,1599
 PlanningStatus,Full Planning Permission,430
 PlanningStatus,Pending decision,331
 PlanningStatus,Other Commitment,230
@@ -17,11 +17,11 @@ PlanningStatus,Completed During 2016/17,74
 PlanningStatus,Adopted Local Plan,63
 PlanningStatus,Outline Planning Permission,61
 PlanningStatus,Completed During 2017/18,51
+PlanningStatus,not permissoned,50
 PlanningStatus,completed,42
 PlanningStatus,PERMISSIONED,42
 PlanningStatus,LP Site Not Permissioned,30
 PlanningStatus,Not permisioned,26
-PlanningStatus,not permissoned,24
 PlanningStatus,REC,23
 PlanningStatus,Pending,17
 PlanningStatus,yes,14

@@ -1,9 +1,9 @@
 field,value,count
 Deliverable,yes,24771
-Deliverable,"",20992
-Deliverable,Yes,10503
-Deliverable,true,4240
-Deliverable,Y,1154
+Deliverable,"",21039
+Deliverable,Yes,10522
+Deliverable,true,4320
+Deliverable,Y,1201
 Deliverable,No,414
 Deliverable,deliverable,349
 Deliverable,Deliverable,317
@@ -11,6 +11,7 @@ Deliverable,YES,200
 Deliverable,y,61
 Deliverable,Completed,36
 Deliverable,Developable,33
+Deliverable,N,30
 Deliverable,False,27
 Deliverable,no,24
 Deliverable,True,18
