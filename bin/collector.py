@@ -58,6 +58,7 @@ def fetch(dataset, organisation, url, end_date):
         requests.Timeout,
         requests.TooManyRedirects,
         requests.exceptions.MissingSchema,
+        requests.exceptions.ChunkedEncodingError,
     ) as exception:
         logging.warning(exception)
         headers["exception"] = type(exception).__name__
