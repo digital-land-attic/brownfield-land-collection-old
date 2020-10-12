@@ -10,3 +10,4 @@ local
 var/tmp
 var/cache
 tmp
+.venv
