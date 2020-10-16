@@ -51,7 +51,7 @@ def fetch(dataset, organisation, url, end_date):
 
     try:
         start = timer()
-        response = requests.get(url, headers={"User-Agent": user_agent})
+        response = requests.get(url, headers={"User-Agent": user_agent}, timeout=120)
     except (
         requests.ConnectionError,
         requests.HTTPError,
