@@ -1,24 +1,24 @@
 field,value,count
-OwnershipStatus,not owned by a public authority,27994
-OwnershipStatus,unknown ownership,6572
-OwnershipStatus,Not owned by a public authority,6310
-OwnershipStatus,owned by a public authority,4921
+OwnershipStatus,not owned by a public authority,28798
+OwnershipStatus,unknown ownership,6834
+OwnershipStatus,Not owned by a public authority,6450
+OwnershipStatus,owned by a public authority,5019
 OwnershipStatus,unkown ownership,4248
 OwnershipStatus,Unknown ownership,3402
-OwnershipStatus,"",2218
-OwnershipStatus,mixed ownership,1650
-OwnershipStatus,Owned by a public authority,1219
+OwnershipStatus,"",2304
+OwnershipStatus,mixed ownership,1736
+OwnershipStatus,Owned by a public authority,1224
 OwnershipStatus,Unknown,978
 OwnershipStatus,Unknown Ownership,870
+OwnershipStatus,Mixed ownership,424
 OwnershipStatus,Not in public ownership,421
-OwnershipStatus,Mixed ownership,415
 OwnershipStatus,Not Owned by a Public Authority,325
 OwnershipStatus,Unkown ownership,308
 OwnershipStatus,Owned by a Public Authority,285
 OwnershipStatus,Not in Public Ownership,209
 OwnershipStatus,Not owned by a Public Authority,163
 OwnershipStatus,Not owned by public authority,156
-OwnershipStatus,Mixed Ownership,96
+OwnershipStatus,Mixed Ownership,97
 OwnershipStatus,Public Ownership,95
 OwnershipStatus,unknown,87
 OwnershipStatus,Unkown Ownership,82
@@ -29,13 +29,13 @@ OwnershipStatus,Notownedbyapublicauthority,66
 OwnershipStatus,not owned by a public aut,65
 OwnershipStatus,Not owned by a  Public Authority,50
 OwnershipStatus,Public ownership,47
+OwnershipStatus,owned by public authority,45
 OwnershipStatus,NOT OWNED BY A PUBLIC AUTHORITY,43
 OwnershipStatus,Owned by public authority,42
-OwnershipStatus,owned by public authority,38
+OwnershipStatus,Private,41
 OwnershipStatus,not in public ownership,38
 OwnershipStatus,Local Authority,37
 OwnershipStatus,Not owned by a \npublic authority,26
-OwnershipStatus,Private,24
 OwnershipStatus,not PA_owned,20
 OwnershipStatus,mixed owner,20
 OwnershipStatus,Mixed owner,20
@@ -46,6 +46,7 @@ OwnershipStatus,Ownedbyapublicauthority,16
 OwnershipStatus,Owned by the london borough of bromley,16
 OwnershipStatus,Owned by the London Borough of Bromley,15
 OwnershipStatus,owned by a public authori,14
+OwnershipStatus,Public - Thurrock Council,12
 OwnershipStatus,in public ownership,9
 OwnershipStatus,Owned by a  Public Authority,9
 OwnershipStatus,Mixed,9
@@ -55,7 +56,6 @@ OwnershipStatus,mixed,8
 OwnershipStatus,Unknown owner,8
 OwnershipStatus,Owned by a public authority.,8
 OwnershipStatus,Not Owned by a public authority,8
-OwnershipStatus,Public - Thurrock Council,6
 OwnershipStatus,Swindon Borough Council,4
 OwnershipStatus,Private Individual,4
 OwnershipStatus,Private Company,4

@@ -1,9 +1,9 @@
 field,value,count
-OrganisationLabel,"",12724
+OrganisationLabel,"",13355
 OrganisationLabel,London Borough of Camden,5915
 OrganisationLabel,Southwark Council,1826
-OrganisationLabel,Manchester City Council,1019
-OrganisationLabel,Haringey Council,923
+OrganisationLabel,Manchester City Council,1248
+OrganisationLabel,Haringey Council,1180
 OrganisationLabel,City of Bradford Metropolitan District Council,859
 OrganisationLabel,Croydon Council,759
 OrganisationLabel,Brighton & Hove City Council,712
@@ -39,6 +39,7 @@ OrganisationLabel,St. Helens Borough Council,304
 OrganisationLabel,Kirklees Council,301
 OrganisationLabel,Guildford,301
 OrganisationLabel,Wakefield Council,299
+OrganisationLabel,London Borough of Merton,298
 OrganisationLabel,Sevenoaks District Council,294
 OrganisationLabel,Norwich City Council,293
 OrganisationLabel,Stratford-On-Avon District Council,292
@@ -60,13 +61,12 @@ OrganisationLabel,Cannock Chase Council,219
 OrganisationLabel,Salford City Council,211
 OrganisationLabel,London Borough of Lambeth,210
 OrganisationLabel,Ealing Council,210
+OrganisationLabel,Eden District Council,207
 OrganisationLabel,Harrogate Borough Council,205
-OrganisationLabel,London Borough of Merton,204
 OrganisationLabel,Slough Borough Council,200
 OrganisationLabel,Northampton Borough Council,199
 OrganisationLabel,Basildon Borough Council,197
 OrganisationLabel,Basingstoke & Deane Borough Council,194
-OrganisationLabel,Eden District Council,193
 OrganisationLabel,Rotherham Metropolitan Borough Council,192
 OrganisationLabel,Barking and Dagenham,189
 OrganisationLabel,Welwyn Hatfield Borough Council,185
@@ -83,6 +83,7 @@ OrganisationLabel,North Lincolnshire Council,162
 OrganisationLabel,Milton Keynes Council,161
 OrganisationLabel,"""Kingston upon Hull, City of""",161
 OrganisationLabel,Tunbridge Wells Borough Council,156
+OrganisationLabel,Portsmouth City Council,156
 OrganisationLabel,South Gloucestershire Council,153
 OrganisationLabel,North Devon Council,153
 OrganisationLabel,London Borough of Bexley,153
@@ -92,12 +93,14 @@ OrganisationLabel,Surrey Heath Borough Council,149
 OrganisationLabel,Bolton Council,149
 OrganisationLabel,Torbay Council,147
 OrganisationLabel,Tandridge District Council,147
+OrganisationLabel,Barnsley Metropolitan Borough Council,147
 OrganisationLabel,Warrington Borough Council,144
 OrganisationLabel,North Tyneside Council,144
 OrganisationLabel,Nuneaton and Bedworth Borough Council,142
 OrganisationLabel,Oldham Council,141
 OrganisationLabel,Waverley Borough Council,131
 OrganisationLabel,Cheltenham Borough Council,131
+OrganisationLabel,South Oxfordshire District Council,130
 OrganisationLabel,Bury Council,129
 OrganisationLabel,South Ribble,128
 OrganisationLabel,Reigate & Banstead Borough Council,128
@@ -105,6 +108,7 @@ OrganisationLabel,Halton Borough Council,126
 OrganisationLabel,Cherwell District Council,126
 OrganisationLabel,North Somerset Council,125
 OrganisationLabel,Lewes District Council,125
+OrganisationLabel,Elmbridge Borough Council,125
 OrganisationLabel,Waveney District Council,124
 OrganisationLabel,Fareham Borough Council,124
 OrganisationLabel,Sunderland,123
@@ -115,6 +119,7 @@ OrganisationLabel,Oxford City Council,117
 OrganisationLabel,New Forest District Council,117
 OrganisationLabel,Teignbridge District Council,116
 OrganisationLabel,Amber Valley,116
+OrganisationLabel,Thurrock,114
 OrganisationLabel,Chorley,113
 OrganisationLabel,Boston Borough Council,112
 OrganisationLabel,Hertsmere Borough Council,111
@@ -135,24 +140,20 @@ OrganisationLabel,Hart District Council,99
 OrganisationLabel,East Riding of Yorkshire,99
 OrganisationLabel,Forest of Dean District Council,98
 OrganisationLabel,Borough Council of Kings Lynn and West Norfolk,98
-OrganisationLabel,Barnsley Metropolitan Borough Council,98
 OrganisationLabel,Reigate & Banstead,97
 OrganisationLabel,Brentwood Borough Council,96
 OrganisationLabel,West Berkshire District Council,95
 OrganisationLabel,Knowsley Metropolitan Borough Council,95
 OrganisationLabel,East Devon District Council,95
 OrganisationLabel,Stockport Council,94
+OrganisationLabel,Epping Forest District Council,92
 OrganisationLabel,Chesterfield Borough Council,92
-OrganisationLabel,Portsmouth City Council,91
-OrganisationLabel,Epping Forest District Council,91
-OrganisationLabel,Thurrock,90
 OrganisationLabel,Havant Borough Council,90
 OrganisationLabel,Selby District Council,88
 OrganisationLabel,North Hertfordshire District Council,88
 OrganisationLabel,Dartford Borough Council,88
 OrganisationLabel,Canterbury City Council,88
 OrganisationLabel,Tameside Metropolitan Borough Council,87
-OrganisationLabel,South Oxfordshire District Council,86
 OrganisationLabel,Hackney,86
 OrganisationLabel,CravenDistrictCouncil,86
 OrganisationLabel,Copeland  Borough Council,86
@@ -187,7 +188,6 @@ OrganisationLabel,South Somerset,74
 OrganisationLabel,Rushmoor Borough Council,74
 OrganisationLabel,Great Yarmouth,73
 OrganisationLabel,Peterborough,72
-OrganisationLabel,Elmbridge Borough Council,71
 OrganisationLabel,Bassetlaw District Council,71
 OrganisationLabel,Three Rivers District Council,68
 OrganisationLabel,North Warwickshire Borough Council,67
@@ -238,6 +238,7 @@ OrganisationLabel,Melton Borough Council,48
 OrganisationLabel,Hartlepool Borough Council,48
 OrganisationLabel,West Dorset District Council,47
 OrganisationLabel,Trafford Council,46
+OrganisationLabel,Rochford District Council,46
 OrganisationLabel,London Borough of Hounslow,45
 OrganisationLabel,Hartlepool Borough Coucil,45
 OrganisationLabel,Gravesham Borough Council,45
@@ -251,9 +252,11 @@ OrganisationLabel,West Lancashire Borough Council,41
 OrganisationLabel,Redcar and Cleveland Borough Council,41
 OrganisationLabel,Broxtowe,41
 OrganisationLabel,North West Leicestershire District Council,39
+OrganisationLabel,South Northamptonshire Council,38
 OrganisationLabel,Hyndburn Borough Council,38
 OrganisationLabel,Southampton City Council,37
 OrganisationLabel,Medway,37
+OrganisationLabel,Malvern Hills District Council,37
 OrganisationLabel,Burnley Borough Council,37
 OrganisationLabel,SOUTH DERBYSHIRE DISTRICT COUNCIL,36
 OrganisationLabel,Mole Valley District Council,36
@@ -279,10 +282,8 @@ OrganisationLabel,Eastleigh Borough Council,25
 OrganisationLabel,Breckland District Council,25
 OrganisationLabel,South Tyneside Council,24
 OrganisationLabel,HPBC,24
-OrganisationLabel,Rochford District Council,23
 OrganisationLabel,Exeter,23
 OrganisationLabel,Stevenage Borough Council,22
-OrganisationLabel,South Northamptonshire Council,22
 OrganisationLabel,SNH District Council,22
 OrganisationLabel,High Peak Borough Council,22
 OrganisationLabel,Torridge District Council,20
@@ -295,7 +296,6 @@ OrganisationLabel,Fenland District Council,18
 OrganisationLabel,Epsom and Ewell Borough Council,18
 OrganisationLabel,Cambridge City Council,18
 OrganisationLabel,Borough Council of Wellingborough,18
-OrganisationLabel,Malvern Hills District Council,17
 OrganisationLabel,Redditch Borough Council,16
 OrganisationLabel,North Dorset District Council,16
 OrganisationLabel,Corby Borough Council,16

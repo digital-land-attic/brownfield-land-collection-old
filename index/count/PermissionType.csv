@@ -1,27 +1,27 @@
 field,value,count
-PermissionType,"",26069
-PermissionType,full planning permission,21702
+PermissionType,"",26578
+PermissionType,full planning permission,22198
+PermissionType,outline planning permission,2799
 PermissionType,full planning permis,2753
-PermissionType,outline planning permission,2738
-PermissionType,Full planning permission,2139
-PermissionType,other,2132
-PermissionType,Full Planning Permission,1437
-PermissionType,reserved matters approval,930
-PermissionType,planning permission granted under an order,521
-PermissionType,Other,441
-PermissionType,Outline planning permission,371
-PermissionType,Full,361
+PermissionType,Full planning permission,2348
+PermissionType,other,2182
+PermissionType,Full Planning Permission,1445
+PermissionType,reserved matters approval,939
+PermissionType,planning permission granted under an order,523
+PermissionType,Full,494
+PermissionType,Other,446
+PermissionType,Outline planning permission,381
 PermissionType,planning permission,279
 PermissionType,Full planning permis,262
 PermissionType,Full Planning,200
-PermissionType,Outline Planning Permission,175
-PermissionType,Reserved Matters Approval,111
-PermissionType,Reserved matters approval,110
+PermissionType,Outline Planning Permission,178
+PermissionType,Reserved Matters Approval,112
+PermissionType,Reserved matters approval,111
 PermissionType,outline planning per,108
 PermissionType,Full planning,80
 PermissionType,Full Planning Permis,78
-PermissionType,permission in principle,70
-PermissionType,Outline,68
+PermissionType,Outline,74
+PermissionType,permission in principle,71
 PermissionType,Prior Approval,67
 PermissionType,Planning permission granted under an order,56
 PermissionType,Full planning permisison,56
@@ -48,6 +48,7 @@ PermissionType,outline,12
 PermissionType,Full Planning Application,12
 PermissionType,Full Planning permission,11
 PermissionType,reserved ?matters approval,10
+PermissionType,Prior Approval (Class O - formerly J),10
 PermissionType,not permissioned,9
 PermissionType,reserved matters,8
 PermissionType,lapsed permission,8
@@ -63,11 +64,12 @@ PermissionType,under an order,5
 PermissionType,planning permission granted,5
 PermissionType,OUTLINE PLANNING PERMISSION,5
 PermissionType,prior approval,4
+PermissionType,outline planning permission 15/07/15,4
 PermissionType,outline permission,4
 PermissionType,reserved matters permission,3
-PermissionType,outline planning permission 15/07/15,3
 PermissionType,other - s73 MMA,3
 PermissionType,With Outline Permission,3
+PermissionType,Reserved matters permission,3
 PermissionType,Reserved Matters and Full Planning,3
 PermissionType,Prior Notification,3
 PermissionType,Planning Permission granted under an order,3
@@ -92,6 +94,7 @@ PermissionType,demolition,2
 PermissionType,Reserved matters planning permission,2
 PermissionType,Reserved matters app,2
 PermissionType,REM,2
+PermissionType,Prior approval,2
 PermissionType,Prior Approval - Approved Change of Use,2
 PermissionType,Permission in Principle,2
 PermissionType,Permission Type,2
@@ -112,15 +115,16 @@ PermissionType,permission in princple,1
 PermissionType,pending decision,1
 PermissionType,outline planning permission\nfull planning permission,1
 PermissionType,otther,1
+PermissionType,fulling planning permission,1
 PermissionType,full planning permission\nReserved matters,1
 PermissionType,decision pending,1
+PermissionType,S73 Minor Material Amendment,1
 PermissionType,Residential Development,1
 PermissionType,Reserved matters,1
 PermissionType,Reserved Matters Application,1
 PermissionType,Renewal - full planning permission,1
 PermissionType,Prior notification,1
 PermissionType,Prior approval griven,1
-PermissionType,Prior approval,1
 PermissionType,Prior Approval and Full planning,1
 PermissionType,Pending,1
 PermissionType,Outline Planning Permission with all matters reserved,1

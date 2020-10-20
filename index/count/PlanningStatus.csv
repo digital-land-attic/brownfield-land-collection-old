@@ -1,17 +1,17 @@
 field,value,count
-PlanningStatus,permissioned,28647
-PlanningStatus,not permissioned,15356
-PlanningStatus,Permissioned,9261
-PlanningStatus,Not permissioned,2574
-PlanningStatus,"",2421
-PlanningStatus,Not Permissioned,2156
-PlanningStatus,pending decision,1607
+PlanningStatus,permissioned,29401
+PlanningStatus,not permissioned,15591
+PlanningStatus,Permissioned,9439
+PlanningStatus,"",2668
+PlanningStatus,Not permissioned,2603
+PlanningStatus,Not Permissioned,2171
+PlanningStatus,pending decision,1636
 PlanningStatus,Full Planning Permission,430
-PlanningStatus,Pending decision,332
+PlanningStatus,Pending decision,342
 PlanningStatus,Other Commitment,230
 PlanningStatus,Under Construction,114
 PlanningStatus,permission,102
-PlanningStatus,Pending Decision,83
+PlanningStatus,Pending Decision,84
 PlanningStatus,Completed During 2018/19,74
 PlanningStatus,Completed During 2016/17,74
 PlanningStatus,Adopted Local Plan,63
@@ -24,11 +24,13 @@ PlanningStatus,PERMISSIONED,42
 PlanningStatus,Not permisioned,26
 PlanningStatus,REC,23
 PlanningStatus,Pending,17
+PlanningStatus,pending permission,16
 PlanningStatus,yes,14
 PlanningStatus,Not in planning system,13
 PlanningStatus,Full consent,12
 PlanningStatus,Not consented,11
-PlanningStatus,pending permission,8
+PlanningStatus,allocation,10
+PlanningStatus,decision pending,7
 PlanningStatus,completing,7
 PlanningStatus,NOT PERMISSIONED,5
 PlanningStatus,under construction,4
@@ -44,7 +46,6 @@ PlanningStatus,Approved,3
 PlanningStatus,permissiond,2
 PlanningStatus,permisioned,2
 PlanningStatus,pending descision,2
-PlanningStatus,decision pending,2
 PlanningStatus,Reserve mattes permi,2
 PlanningStatus,Prior notification,2
 PlanningStatus,Permissoned,2
