@@ -1,13 +1,13 @@
 field,value,count
-PermissionType,"",26691
-PermissionType,full planning permission,22527
-PermissionType,outline planning permission,2804
+PermissionType,"",26734
+PermissionType,full planning permission,22584
+PermissionType,outline planning permission,2809
 PermissionType,full planning permis,2753
-PermissionType,Full planning permission,2348
+PermissionType,Full planning permission,2353
 PermissionType,other,2224
 PermissionType,Full Planning Permission,1445
 PermissionType,reserved matters approval,939
-PermissionType,planning permission granted under an order,529
+PermissionType,planning permission granted under an order,531
 PermissionType,Full,494
 PermissionType,Other,446
 PermissionType,Outline planning permission,381
@@ -68,6 +68,7 @@ PermissionType,outline planning permission 15/07/15,4
 PermissionType,outline permission,4
 PermissionType,reserved matters permission,3
 PermissionType,other - s73 MMA,3
+PermissionType,demolition,3
 PermissionType,With Outline Permission,3
 PermissionType,Reserved matters permission,3
 PermissionType,Reserved Matters and Full Planning,3
@@ -84,13 +85,14 @@ PermissionType,06/00588/REM,3
 PermissionType,reserved matters approval permission approval,2
 PermissionType,planning permission granted under an order/Full permission,2
 PermissionType,outline submitted,2
+PermissionType,outline planning permission\nfull planning permission,2
 PermissionType,outline planning,2
 PermissionType,other & full planning permission,2
 PermissionType,none,2
+PermissionType,full planning permission\nReserved matters,2
 PermissionType,full planning permission/Planning permission granted under an order,2
 PermissionType,full permission,2
 PermissionType,full,2
-PermissionType,demolition,2
 PermissionType,Reserved matters planning permission,2
 PermissionType,Reserved matters app,2
 PermissionType,REM,2
@@ -113,10 +115,8 @@ PermissionType,planning granted under an order,1
 PermissionType,permission lapsed,1
 PermissionType,permission in princple,1
 PermissionType,pending decision,1
-PermissionType,outline planning permission\nfull planning permission,1
 PermissionType,otther,1
 PermissionType,fulling planning permission,1
-PermissionType,full planning permission\nReserved matters,1
 PermissionType,decision pending,1
 PermissionType,S73 Minor Material Amendment,1
 PermissionType,Residential Development,1

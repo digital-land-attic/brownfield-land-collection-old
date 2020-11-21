@@ -2,6 +2,7 @@ column,count
 ,2346
 #,1
 2018 Site Reference (where changed),1
+2018SiteReference(WhereChanged),1
 A1,2
 A2,2
 A3,2
@@ -37,6 +38,7 @@ Alt Site Reference,4
 AltRef,2
 Alt_Coords_X_Y,2
 Alt_Ref,1
+AlternataiveReferences,1
 AlternateReferences,1
 AlternateSiteReference,1
 Alternate_CoordinateReferenceSystem,1
@@ -118,7 +120,7 @@ Coordinate referencing system,1
 CoordinateRef. System,1
 CoordinateRefSystem,1
 CoordinateReference System,1
-CoordinateReferenceSystem,740
+CoordinateReferenceSystem,741
 CoordinateReferenceSystem2,1
 CoordinateReferenceSystem3,1
 CoordinateReferenceSystem_ETRS89,1
@@ -153,7 +155,7 @@ DateUpdate,2
 Date_Permission,3
 Decision_Date,3
 Deliverabl,4
-Deliverable,924
+Deliverable,925
 Deliverable - mandatory if yes,1
 Description,4
 Description of Proposed Development,3
@@ -167,7 +169,7 @@ Development Status: extant/ commc'd./ part. compltd.,1
 Development description,1
 Development status (if site has full PP),1
 DevelopmentDesciption,1
-DevelopmentDescription,719
+DevelopmentDescription,720
 DevelopmentDescription - mandatory where relevant,1
 Developmentdescription,3
 Discription/Notes,1
@@ -206,7 +208,7 @@ FirstAdd,1
 FirstAdded,5
 "FirstAdded
 Date",3
-FirstAddedDate,872
+FirstAddedDate,873
 FirstAddedDate1,2
 FirstAddedDateBR,2
 FirstDateAdded,1
@@ -223,14 +225,14 @@ Geo Longitude,2
 Geo X,11
 Geo Y,10
 GeoPointLicensingURL,2
-GeoX,915
+GeoX,916
 GeoX (Longitude or east grid),3
 GeoX [East],2
 GeoX_2,1
 GeoX_3,1
 GeoX_ETRS89,1
 GeoX_WGS84,1
-GeoY,916
+GeoY,917
 GeoY (Latitude or north grid),3
 GeoY [North],2
 GeoY_2,1
@@ -259,10 +261,10 @@ Hazardous Substances Regs 2015,3
 Hazardous Substances [as identifiied in Appl. form],1
 Hazardous substances,3
 HazardousS,5
-HazardousSubstances,832
+HazardousSubstances,833
 HazardousSubtances,2
 HazourdousSubstances,3
-Hectares,929
+Hectares,930
 Hectares (gross),2
 Housing Delivery Estimate,8
 Housing Est (remaining),1
@@ -320,7 +322,7 @@ LastUpdateDate,5
 LastUpdated,2
 "LastUpdated
 Date",3
-LastUpdatedDate,854
+LastUpdatedDate,855
 LastUpdatedDate1,2
 Last_updated_Date,1
 Latest_MostRelevantResidentialApplication,1
@@ -409,9 +411,9 @@ Net dwellings range To,2
 NetDwell00,2
 NetDwell_1,2
 NetDwellin,4
-NetDwellingRangeTo,2
+NetDwellingRangeTo,3
 NetDwellingsRangeForm,7
-NetDwellingsRangeFrom,842
+NetDwellingsRangeFrom,843
 NetDwellingsRangeFrom - mandatory where relevant,1
 NetDwellingsRangeFromComment,4
 NetDwellingsRangeTo,830
@@ -446,7 +448,7 @@ Northing,159
 Northings,7
 Northings (Geo Y),1
 Note,2
-Notes,912
+Notes,913
 Notes UPRN for sites,1
 Notes.1,2
 OBJECTID,18
@@ -492,7 +494,7 @@ Organisation URL,15
 Organisation Uri,3
 Organisation label,2
 OrganisationLabel,742
-OrganisationURI,866
+OrganisationURI,867
 OrganisationURL,14
 OrganisationURl,3
 OrganisationUrI,1
@@ -521,7 +523,7 @@ Ownership Status,50
 Ownership status,5
 "Ownership: PA_owner, not PA_own., mixed_o'ship, unknown",1
 OwnershipS,4
-OwnershipStatus,877
+OwnershipStatus,878
 Ownership_Status,1
 Ownership_Status: PA_owned [Public Autho-rity]; not PA_owned; mix. ownership; unknown,1
 PA1Status,3
@@ -583,14 +585,14 @@ Permission Types as req. by Gov.,1
 Permission Types as required in BFLR,1
 Permission date,2
 Permission type,3
-PermissionDate,864
+PermissionDate,865
 PermissionDate -  - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.,1
 PermissionDate1,2
 PermissionDatePlanningHistory,1
 PermissionHistory,4
 PermissionNumber,1
 PermissionTyne,2
-PermissionType,869
+PermissionType,870
 PermissionType - mandatory if ‘ PlanningStatus’ field contains the value ‘permissioned’.,1
 PeviouslyPartof,1
 Plan,3
@@ -623,12 +625,12 @@ PlanningAuthority1,17
 PlanningAuthority2,17
 PlanningAuthority3,17
 PlanningHi,4
-PlanningHistory,854
+PlanningHistory,855
 PlanningHistory (URL),1
 PlanningHistoryURL,1
 PlanningReference,8
 PlanningSt,5
-PlanningStatus,877
+PlanningStatus,878
 Planning_Status,4
 Planning_Status_Reference,2
 Planningapplicationreference,1
@@ -771,16 +773,17 @@ SiteName,5
 SiteName Address,2
 SiteName/Address,1
 SiteNameAd,4
-SiteNameAddress,881
+SiteNameAddress,882
 SiteNameAddresss,1
 SitePlanUR,1
-SitePlanURL,83
+SitePlanURL,84
 SitePlanURL CoordinateReferenceSystem,1
 SiteProforma,3
 SiteRefere,4
-SiteReference,866
+SiteReference,867
 SiteReference (also SHLAA Reference),3
 SiteReferenceAlternate,1
+SiteStatus/EndDate,1
 Site_Address,3
 Site_Name,3
 Site_Plan_URL,1
